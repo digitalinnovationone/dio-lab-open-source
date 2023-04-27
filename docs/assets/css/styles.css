@@ -232,7 +232,7 @@ main, section {
     max-width: 100%;
     font-size: 1rem;
     border: .125rem solid var(--secondary-color);
-    border-radius: 50rem 0 0 50rem;
+    border-radius: .35rem 0 0 .35rem;
     padding: .5rem 1.5rem;
     cursor: pointer; 
 }
