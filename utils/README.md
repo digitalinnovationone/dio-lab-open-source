@@ -20,7 +20,7 @@
       <td>01</td>
       <td>Badges</td>
       <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-profile-readme/blob/main/utils/badges/badges.md">
+        <a href="https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/badges/badges.md">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Exemplos-30A3DC?style=for-the-badge">
         </a>
       </td>
@@ -32,7 +32,7 @@
       <td>02</td>
       <td>Cards GitHub Stats</td>
       <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-profile-readme/blob/main/utils/cards/github-stats.md">
+        <a href="https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-stats.md">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Exemplos-E94D5F?style=for-the-badge">
         </a>
       </td>
@@ -44,7 +44,7 @@
       <td>03</td>
       <td>Cards GitHub Streak Stats</td>
       <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-profile-readme/blob/main/utils/cards/github-streak-stats.md">
+        <a href="https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-streak-stats.md">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Exemplos-30A3DC?style=for-the-badge">
         </a>
       </td>
