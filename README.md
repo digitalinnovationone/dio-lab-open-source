@@ -77,16 +77,16 @@ Aprender o básico sobre contribuição no GitHub.
 
 ---
 ##  Desafio: Profile README
- Contribua com a lista de exemplos de Profile README do GitHub, criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
- Inspire-se consultando os exemplos na pasta [`examples`](https://github.com/elidianaandrade/dio-profile-readme/tree/main/examples), confira alguns utilitários na pasta [`utils`](https://github.com/elidianaandrade/dio-profile-readme/tree/main/utils) e use sua criatividade para criar o seu 😊💜.
+ Contribua no diretório "Community", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
+ Inspire-se consultando os exemplos na pasta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💜.
 
 ### Instruções
 1. Faça um **Fork** do repositório;
-2. Clone localmente `git clone https://github.com/SEUUSERNAME/dio-profile-readme.git`;
+2. Clone localmente `git clone https://github.com/SEUUSERNAME/dio-lab-open-source.git`;
     > Caso prefira, você pode editar remotamente através do GitHub ou GitHub Web Editor.
-3. Crie uma nova **branch** e nomeie como `feat: examples/seunomedeusuario`;
-    > Exemplo: `feat: examples/elidianaandrade`
-4. Dentro da pasta [`examples`](https://github.com/elidianaandrade/dio-profile-readme/tree/main/examples), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
+3. Crie uma nova **branch** e nomeie como `feat: community/seunomedeusuario`;
+    > Exemplo: `feat: community/elidianaandrade`
+4. Dentro da pasta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
     > Exemplo: `elidianaandrade.md` <br>
     > **Observação:** Use os outros exemplos como inspiração e não cópia.
 5. Envie as alterações para a sua branch;
@@ -94,18 +94,18 @@ Aprender o básico sobre contribuição no GitHub.
 
 ### Utilitários
 
-[![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/elidianaandrade/dio-profile-readme/blob/main/utils/badges.md)
-[![Card Stats](https://img.shields.io/badge/Card%20Stats-E94D5F?style=for-the-badge)](https://github.com/elidianaandrade/dio-profile-readme/blob/main/utils/cards/github-stats.md)
-[![Badges](https://img.shields.io/badge/Card%20Streak%20States-30A3DC?style=for-the-badge)](https://github.com/elidianaandrade/dio-profile-readme/blob/main/utils/cards/github-streak-stats.md)
+[![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/badges/badges.md)
+[![Card Stats](https://img.shields.io/badge/Card%20Stats-E94D5F?style=for-the-badge)](https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
+[![Badges](https://img.shields.io/badge/Card%20Streak%20States-30A3DC?style=for-the-badge)](https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-streak-stats.md)
 
 ---
 
 ## Contribua
-[![Star](https://img.shields.io/github/stars/elidianaandrade/dio-profile-readme?style=social)](https://github.com/elidianaandrade/dio-profile-readme/stargazers)
-[![Forks](https://img.shields.io/github/forks/elidianaandrade/dio-profile-readme?style=social)](https://github.com/elidianaandrade/dio-profile-readme/forks)
-[![GitHub Issues](https://img.shields.io/github/issues/elidianaandrade/dio-profile-readme?style=social)](https://github.com/elidianaandrade/dio-profile-readme/issues/)
+[![Star](https://img.shields.io/github/stars/elidianaandrade/dio-lab-open-source?style=social)](https://github.com/elidianaandrade/dio-lab-open-source/stargazers)
+[![Forks](https://img.shields.io/github/forks/elidianaandrade/dio-lab-open-source?style=social)](https://github.com/elidianaandrade/dio-lab-open-source/forks)
+[![GitHub Issues](https://img.shields.io/github/issues/elidianaandrade/dio-lab-open-source?style=social)](https://github.com/elidianaandrade/dio-lab-open-source/issues/)
 
- Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição além do seu exemplo de Profile README, é inserir outros utilitários na pasta [`utils`](https://github.com/elidianaandrade/dio-profile-readme/tree/main/utils), ou melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](https://github.com/elidianaandrade/dio-profile-readme/tree/main/docs). <br>
+ Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição além do seu exemplo de Profile README, é inserir outros utilitários na pasta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils), ou melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/docs). <br>
  Além disso, você também pode contribuir:
  
 ⚠️ Resolvendo, respondendo ou indicando **issues**
@@ -113,8 +113,8 @@ Aprender o básico sobre contribuição no GitHub.
 ⭐ Adicionando aos favoritos (**star**) 
 
 ### Membros da comunidade que já contribuiram:
-<a href="https://github.com/elidianaandrade/dio-profile-readme/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=elidianaandrade/dio-profile-readme"/>
+<a href="https://github.com/elidianaandrade/dio-lab-open-source/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=elidianaandrade/dio-lab-open-source"/>
 </a>
 
 ##
