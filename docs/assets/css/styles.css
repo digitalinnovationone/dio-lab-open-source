@@ -87,7 +87,7 @@ header div {
     justify-content: space-between;
     align-items: center;
     background: var(--black);
-    padding: 1.5rem 2rem;
+    padding: .75rem 2rem;
 }
 
 .brand {
