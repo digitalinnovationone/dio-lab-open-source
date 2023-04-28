@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Sua sugestão está relacionada a um problema? Por favor descreva.**
-Uma descrição clara e concisa de qual é o problema. Ex. Na pasta de utilitários, sugiro adicionar  [...]
+Uma descrição clara e concisa de qual é o problema.
 
 **Descreva a solução que você gostaria**
 Uma descrição clara e concisa do que você quer que aconteça.
