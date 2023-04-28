@@ -20,16 +20,20 @@
  Inspire-se consultando os exemplos na pasta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
 
 ### Instruções
-1. Faça um **Fork** do repositório;
-2. Clone localmente `git clone https://github.com/SEUUSERNAME/dio-lab-open-source.git`;
-    > Caso prefira, você pode editar remotamente através do GitHub ou GitHub Web Editor.
-3. Crie uma nova **branch** e nomeie como `feat: community/seunomedeusuario`;
-    > Exemplo: `feat: community/elidianaandrade`
-4. Dentro da pasta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
+1. Faça um **Fork** deste repositório;
+2. Clone localmente: `git clone https://github.com/SEUUSERNAME/dio-lab-open-source.git`;
+3. Adicione o remote upstream para manter seu repositório local atualizado: `git remote add upstream https://github.com/elidianaandrade/dio-lab-open-source.git`;
+    > Utilize o comando `git pull upstream main` para baixar e mesclar as alterações no seu repositório local com base na branch `main` deste repositório original de onde você fez o fork, ou `git fetch upstream main` para baixar sem mesclar. Veja mais em: [Primeiros Passos com Git e GitHub](https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
+4. Crie uma nova **branch** e nomeie como `feat/community/seunomedeusuario`;
+    > Exemplo: `feat/community/elidianaandrade`
+5. Dentro da pasta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
     > Exemplo: `elidianaandrade.md` <br>
+6. Desenvolva o seu perfil. Para isso, você pode ver exemplos na pasta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils);
     > **Observação:** Use os outros exemplos como inspiração e não cópia.
-5. Envie as alterações para a sua branch;
-6. Crie um **Pull Request**.
+7. Adicione suas alterações à "staging area" com o comando `git add community/seunomedeusuario.md`;
+8. Crie um commit e adicione a mensagem indicando a adição do seu perfil `git commit -m"feat: add seunomedeusuario profile"`;
+9. Envie as alterações para o seu repositório remoto `git push origin feat/community/seunomedeusuario`; 
+10. Crie um **Pull Request**.
 
 <br>
 
