@@ -1,0 +1,211 @@
+_estacaoId,_nome,_ordem,_linhaId,_linha,_tipoId,_tipo
+152,Ana Rosa,01,1,1-Azul,1,Metrô
+14,Armênia,01,1,1-Azul,1,Metrô
+12,Carandiru,01,1,1-Azul,1,Metrô
+29,Conceição,01,1,1-Azul,1,Metrô
+30,Jabaquara,01,1,1-Azul,1,Metrô
+19,Japão-Liberdade,01,1,1-Azul,1,Metrô
+10,Jardim São Paulo-Ayrton Senna,01,1,1-Azul,1,Metrô
+171,Luz,01,1,1-Azul,1,Metrô
+9,Parada Inglesa,01,1,1-Azul,1,Metrô
+174,Paraíso,01,1,1-Azul,1,Metrô
+13,Portuguesa-Tietê,01,1,1-Azul,1,Metrô
+26,Praça da Árvore,01,1,1-Azul,1,Metrô
+25,SantaCruz,01,1,1-Azul,1,Metrô
+11,Santana,01,1,1-Azul,1,Metrô
+17,São Bento,01,1,1-Azul,1,Metrô
+20,São Joaquim,01,1,1-Azul,1,Metrô
+28,São Judas,01,1,1-Azul,1,Metrô
+27,Saúde,01,1,1-Azul,1,Metrô
+186,Sé,01,1,1-Azul,1,Metrô
+15,Tiradentes,01,1,1-Azul,1,Metrô
+8,Tucuruvi,01,1,1-Azul,1,Metrô
+21,Vergueiro,01,1,1-Azul,1,Metrô
+24,Vila Mariana,01,1,1-Azul,1,Metrô
+151,Alto do Ipiranga,02,2,2-Verde,1,Metrô
+153,Ana Rosa,02,2,2-Verde,1,Metrô
+48,Brigadeiro,02,2,2-Verde,1,Metrô
+149,ChacaraKlabin,02,2,2-Verde,1,Metrô
+51,Clínicas,02,2,2-Verde,1,Metrô
+50,Consolação,02,2,2-Verde,1,Metrô
+175,Paraíso,02,2,2-Verde,1,Metrô
+52,S. N. Sra. De Fátima-Sumaré,02,2,2-Verde,1,Metrô
+200,Sacomã,02,2,2-Verde,1,Metrô
+150,Santos-Imigrantes,02,2,2-Verde,1,Metrô
+201,Tamanduateí,02,2,2-Verde,1,Metrô
+49,Trianon-Masp,02,2,2-Verde,1,Metrô
+188,Vila Madalena,02,2,2-Verde,1,Metrô
+202,Vila Prudente,02,2,2-Verde,1,Metrô
+35,Anhangabaú,03,3,3-Vermelha,1,Metrô
+46,Artur Alvim,03,3,3-Vermelha,1,Metrô
+39,Belém,03,3,3-Vermelha,1,Metrô
+157,Brás,03,3,3-Vermelha,1,Metrô
+38,Bresser-Mooca,03,3,3-Vermelha,1,Metrô
+41,Carrão,03,3,3-Vermelha,1,Metrô
+165,Corinthians-Itaquera,03,3,3-Vermelha,1,Metrô
+44,Guilhermina-Esperança,03,3,3-Vermelha,1,Metrô
+32,Marechal Deodoro,03,3,3-Vermelha,1,Metrô
+156,Palmeiras-Barra Funda,03,3,3-Vermelha,1,Metrô
+45,Patriarca,03,3,3-Vermelha,1,Metrô
+36,Pedro II,03,3,3-Vermelha,1,Metrô
+42,Penha,03,3,3-Vermelha,1,Metrô
+338,República,03,3,3-Vermelha,1,Metrô
+33,Santa Cecília,03,3,3-Vermelha,1,Metrô
+187,Sé,03,3,3-Vermelha,1,Metrô
+182,Tatuapé,03,3,3-Vermelha,1,Metrô
+43,Vila Matilde,03,3,3-Vermelha,1,Metrô
+220,Butantã,04,17,4-Amarela,1,Metrô
+218,Faria Lima,04,17,4-Amarela,1,Metrô
+340,Fradique Coutinho,04,17,4-Amarela,1,Metrô
+346,Higienópolis-Mackenzie,04,17,4-Amarela,1,Metrô
+211,Luz,04,17,4-Amarela,1,Metrô
+347,Oscar Freire,04,17,4-Amarela,1,Metrô
+214,Paulista,04,17,4-Amarela,1,Metrô
+335,Pinheiros,04,17,4-Amarela,1,Metrô
+212,República,04,17,4-Amarela,1,Metrô
+354,São Paulo-Morumbi,04,17,4-Amarela,1,Metrô
+350,AACD-Servidor,05,10,5-Lilás,1,Metrô
+339,Adolfo Pinheiro,05,10,5-Lilás,1,Metrô
+343,Alto da Boa Vista,05,10,5-Lilás,1,Metrô
+344,Borba Gato,05,10,5-Lilás,1,Metrô
+345,Brooklin,05,10,5-Lilás,1,Metrô
+359,Campo Belo,05,10,5-Lilás,1,Metrô
+55,Campo Limpo,05,10,5-Lilás,1,Metrô
+54,Capão Redondo,05,10,5-Lilás,1,Metrô
+353,Chácara Klabin,05,10,5-Lilás,1,Metrô
+348,Eucaliptos,05,10,5-Lilás,1,Metrô
+57,Giovanni Gronchi,05,10,5-Lilás,1,Metrô
+351,Hospital São Paulo,05,10,5-Lilás,1,Metrô
+59,Largo 13,05,10,5-Lilás,1,Metrô
+349,Moema,05,10,5-Lilás,1,Metrô
+352,Santa Cruz,05,10,5-Lilás,1,Metrô
+179,Santo Amaro,05,10,5-Lilás,1,Metrô
+56,Vila das Belezas,05,10,5-Lilás,1,Metrô
+74,Água Branca,07,4,7-Rubi (Luz-Francisco Morato-Jundiaí),2,CPTM
+65,Baltazar Fidélis,07,4,7-Rubi (Luz-Francisco Morato-Jundiaí),2,CPTM
+206,Botujuru,07,4,7-Rubi (Luz-Francisco Morato-Jundiaí),2,CPTM
+67,Caieiras,07,4,7-Rubi (Luz-Francisco Morato-Jundiaí),2,CPTM
+205,Campo Limpo Paulista,07,4,7-Rubi (Luz-Francisco Morato-Jundiaí),2,CPTM
+64,Francisco Morato,07,4,7-Rubi (Luz-Francisco Morato-Jundiaí),2,CPTM
+66,Franco da Rocha,07,4,7-Rubi (Luz-Francisco Morato-Jundiaí),2,CPTM
+69,Jaraguá,07,4,7-Rubi (Luz-Francisco Morato-Jundiaí),2,CPTM
+203,Jundiaí,07,4,7-Rubi (Luz-Francisco Morato-Jundiaí),2,CPTM
+73,Lapa,07,4,7-Rubi (Luz-Francisco Morato-Jundiaí),2,CPTM
+170,Luz,07,4,7-Rubi (Luz-Francisco Morato-Jundiaí),2,CPTM
+154,Palmeiras-Barra Funda,07,4,7-Rubi (Luz-Francisco Morato-Jundiaí),2,CPTM
+68,Perus,07,4,7-Rubi (Luz-Francisco Morato-Jundiaí),2,CPTM
+72,Piqueri,07,4,7-Rubi (Luz-Francisco Morato-Jundiaí),2,CPTM
+71,Pirituba,07,4,7-Rubi (Luz-Francisco Morato-Jundiaí),2,CPTM
+204,Várzea Paulista,07,4,7-Rubi (Luz-Francisco Morato-Jundiaí),2,CPTM
+266,Vila Aurora,07,4,7-Rubi (Luz-Francisco Morato-Jundiaí),2,CPTM
+70,Vila Clarice,07,4,7-Rubi (Luz-Francisco Morato-Jundiaí),2,CPTM
+86,Antônio João,08,5,8-Diamante (Júlio Prestes-Itapevi-Amador Bueno),2,CPTM
+85,Barueri,08,5,8-Diamante (Júlio Prestes-Itapevi-Amador Bueno),2,CPTM
+88,Carapicuíba,08,5,8-Diamante (Júlio Prestes-Itapevi-Amador Bueno),2,CPTM
+91,Comandante Sampaio,08,5,8-Diamante (Júlio Prestes-Itapevi-Amador Bueno),2,CPTM
+95,Domingos de Moraes,08,5,8-Diamante (Júlio Prestes-Itapevi-Amador Bueno),2,CPTM
+80,Engenheiro Cardoso,08,5,8-Diamante (Júlio Prestes-Itapevi-Amador Bueno),2,CPTM
+89,General Miguel Costa,08,5,8-Diamante (Júlio Prestes-Itapevi-Amador Bueno),2,CPTM
+94,Imperatriz Leopoldina,08,5,8-Diamante (Júlio Prestes-Itapevi-Amador Bueno),2,CPTM
+79,Itapevi,08,5,8-Diamante (Júlio Prestes-Itapevi-Amador Bueno),2,CPTM
+82,Jandira,08,5,8-Diamante (Júlio Prestes-Itapevi-Amador Bueno),2,CPTM
+84,Jardim Belval,08,5,8-Diamante (Júlio Prestes-Itapevi-Amador Bueno),2,CPTM
+83,Jardim Silveira,08,5,8-Diamante (Júlio Prestes-Itapevi-Amador Bueno),2,CPTM
+148,Júlio Prestes,08,5,8-Diamante (Júlio Prestes-Itapevi-Amador Bueno),2,CPTM
+96,Lapa,08,5,8-Diamante (Júlio Prestes-Itapevi-Amador Bueno),2,CPTM
+172,Osasco,08,5,8-Diamante (Júlio Prestes-Itapevi-Amador Bueno),2,CPTM
+155,Palmeiras-Barra Funda,08,5,8-Diamante (Júlio Prestes-Itapevi-Amador Bueno),2,CPTM
+176,Presidente Altino,08,5,8-Diamante (Júlio Prestes-Itapevi-Amador Bueno),2,CPTM
+90,Quitaúna,08,5,8-Diamante (Júlio Prestes-Itapevi-Amador Bueno),2,CPTM
+81,Sagrado Coração,08,5,8-Diamante (Júlio Prestes-Itapevi-Amador Bueno),2,CPTM
+87,Santa Terezinha,08,5,8-Diamante (Júlio Prestes-Itapevi-Amador Bueno),2,CPTM
+192,Autódromo,09,6,9-Esmeralda (Osasco-Grajaú),2,CPTM
+104,Berrini,09,6,9-Esmeralda (Osasco-Grajaú),2,CPTM
+97,Ceasa,09,6,9-Esmeralda (Osasco-Grajaú),2,CPTM
+102,Cidade Jardim,09,6,9-Esmeralda (Osasco-Grajaú),2,CPTM
+190,Cidade Universitária,09,6,9-Esmeralda (Osasco-Grajaú),2,CPTM
+198,Grajaú,09,6,9-Esmeralda (Osasco-Grajaú),2,CPTM
+106,Granja Julieta,09,6,9-Esmeralda (Osasco-Grajaú),2,CPTM
+101,Hebraica-Rebouças,09,6,9-Esmeralda (Osasco-Grajaú),2,CPTM
+108,Jurubatuba,09,6,9-Esmeralda (Osasco-Grajaú),2,CPTM
+105,Morumbi,09,6,9-Esmeralda (Osasco-Grajaú),2,CPTM
+173,Osasco,09,6,9-Esmeralda (Osasco-Grajaú),2,CPTM
+100,Pinheiros,09,6,9-Esmeralda (Osasco-Grajaú),2,CPTM
+177,Presidente Altino,09,6,9-Esmeralda (Osasco-Grajaú),2,CPTM
+197,Primavera-Interlagos,09,6,9-Esmeralda (Osasco-Grajaú),2,CPTM
+178,Santo Amaro,09,6,9-Esmeralda (Osasco-Grajaú),2,CPTM
+107,Socorro,09,6,9-Esmeralda (Osasco-Grajaú),2,CPTM
+98,Vila Lobos-Jaguaré,09,6,9-Esmeralda (Osasco-Grajaú),2,CPTM
+103,Vila Olímpia,09,6,9-Esmeralda (Osasco-Grajaú),2,CPTM
+158,Brás,10,7,10-Turquesa (Luz-Rio Grande da Serra),2,CPTM
+117,Capuava,10,7,10-Turquesa (Luz-Rio Grande da Serra),2,CPTM
+119,Guapituba,10,7,10-Turquesa (Luz-Rio Grande da Serra),2,CPTM
+110,Ipiranga,10,7,10-Turquesa (Luz-Rio Grande da Serra),2,CPTM
+118,Mauá,10,7,10-Turquesa (Luz-Rio Grande da Serra),2,CPTM
+109,Mooca,10,7,10-Turquesa (Luz-Rio Grande da Serra),2,CPTM
+114,Prefeito Saladino,10,7,10-Turquesa (Luz-Rio Grande da Serra),2,CPTM
+120,Ribeirão Pires,10,7,10-Turquesa (Luz-Rio Grande da Serra),2,CPTM
+121,Rio Grande da Serra,10,7,10-Turquesa (Luz-Rio Grande da Serra),2,CPTM
+181,Santo André,10,7,10-Turquesa (Luz-Rio Grande da Serra),2,CPTM
+112,São Caetano,10,7,10-Turquesa (Luz-Rio Grande da Serra),2,CPTM
+111,Tamanduateí,10,7,10-Turquesa (Luz-Rio Grande da Serra),2,CPTM
+113,Utinga,10,7,10-Turquesa (Luz-Rio Grande da Serra),2,CPTM
+134,Antonio Gianetti,11,14,11-Coral (Guaianazes-Estudantes),2,CPTM
+139,Braz Cubas,11,14,11-Coral (Guaianazes-Estudantes),2,CPTM
+162,Calmon Viana,11,14,11-Coral (Guaianazes-Estudantes),2,CPTM
+141,Estudantes,11,14,11-Coral (Guaianazes-Estudantes),2,CPTM
+135,Ferraz de Vasconcelos,11,14,11-Coral (Guaianazes-Estudantes),2,CPTM
+167,Guaianazes,11,14,11-Coral (Guaianazes-Estudantes),2,CPTM
+138,Jundiapeba,11,14,11-Coral (Guaianazes-Estudantes),2,CPTM
+140,Mogi das Cruzes,11,14,11-Coral (Guaianazes-Estudantes),2,CPTM
+136,Poá,11,14,11-Coral (Guaianazes-Estudantes),2,CPTM
+137,Suzano,11,14,11-Coral (Guaianazes-Estudantes),2,CPTM
+159,Brás,11,8,11-Coral-Expresso Leste (Luz-Guaianazes),2,CPTM
+164,Corinthians-Itaquera,11,8,11-Coral-Expresso Leste (Luz-Guaianazes),2,CPTM
+131,Dom Bosco,11,8,11-Coral-Expresso Leste (Luz-Guaianazes),2,CPTM
+166,Guaianazes,11,8,11-Coral-Expresso Leste (Luz-Guaianazes),2,CPTM
+132,José Bonifácio,11,8,11-Coral-Expresso Leste (Luz-Guaianazes),2,CPTM
+169,Luz,11,8,11-Coral-Expresso Leste (Luz-Guaianazes),2,CPTM
+183,Tatuapé,11,8,11-Coral-Expresso Leste (Luz-Guaianazes),2,CPTM
+129,Aracaré,12,9,12-Safira (Brás-Calmon Viana),2,CPTM
+161,Brás,12,9,12-Safira (Brás-Calmon Viana),2,CPTM
+163,Calmon Viana,12,9,12-Safira (Brás-Calmon Viana),2,CPTM
+124,Comendador Ermelino,12,9,12-Safira (Brás-Calmon Viana),2,CPTM
+123,Engenheiro Goulart,12,9,12-Safira (Brás-Calmon Viana),2,CPTM
+127,Engenheiro Manoel Feio,12,9,12-Safira (Brás-Calmon Viana),2,CPTM
+126,Itaim Paulista,12,9,12-Safira (Brás-Calmon Viana),2,CPTM
+128,Itaquaquecetuba,12,9,12-Safira (Brás-Calmon Viana),2,CPTM
+199,Jardim Helena-Vila Mara,12,9,12-Safira (Brás-Calmon Viana),2,CPTM
+207,Jardim Romano,12,9,12-Safira (Brás-Calmon Viana),2,CPTM
+125,São Miguel Paulista,12,9,12-Safira (Brás-Calmon Viana),2,CPTM
+184,Tatuapé,12,9,12-Safira (Brás-Calmon Viana),2,CPTM
+196,USP Leste,12,9,12-Safira (Brás-Calmon Viana),2,CPTM
+367,Aeroporto-Guarulhos-Jade,13,20,13-Jade,2,CPTM
+362,Engenheiro Goulart-Jade,13,20,13-Jade,2,CPTM
+366,Guarulhos-CECAP-Jade,13,20,13-Jade,2,CPTM
+370,Aeroporto-Guarulhos-JadeServicoConect,13,21,13-Jade Serviço Conect,2,CPTM
+364,Brás-JadeServicoConect,13,21,13-Jade Serviço Conect,2,CPTM
+368,Engenheiro Goulart-JadeServicoConect,13,21,13-Jade Serviço Conect,2,CPTM
+369,Guarulhos-CECAP-JadeServicoConect,13,21,13-Jade Serviço Conect,2,CPTM
+365,Tatuapé-JadeServicoConect,13,21,13-Jade Serviço Conect,2,CPTM
+360,Aeroporto-Guarulhos-Airport-Express,13,19,13-Jade-Airport Express,2,CPTM
+361,Luz-Airport-Express,13,19,13-Jade-Airport Express,2,CPTM
+356,Camilo Haddad,15,18,15-Prata,1,Metrô
+373,Fazenda da Juta,15,18,15-Prata,1,Metrô
+371,Jardim Planalto,15,18,15-Prata,1,Metrô
+341,Oratório,15,18,15-Prata,1,Metrô
+355,São Lucas,15,18,15-Prata,1,Metrô
+374,São Mateus,15,18,15-Prata,1,Metrô
+372,Sapopemba,15,18,15-Prata,1,Metrô
+342,Vila Prudente,15,18,15-Prata,1,Metrô
+357,Vila Tolstói,15,18,15-Prata,1,Metrô
+358,Vila União,15,18,15-Prata,1,Metrô
+142,Diadema,999,11,EMTU,3,EMTU
+145,Ferrazópolis,999,11,EMTU,3,EMTU
+337,Jabaquara,999,11,EMTU,3,EMTU
+336,Morumbi,999,11,EMTU,3,EMTU
+143,Piraporinha,999,11,EMTU,3,EMTU
+180,Santo André,999,11,EMTU,3,EMTU
+144,São Bernardo,999,11,EMTU,3,EMTU
+147,São Mateus,999,11,EMTU,3,EMTU
+146,Sônia Maria,999,11,EMTU,3,EMTU
