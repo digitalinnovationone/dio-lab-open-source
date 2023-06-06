@@ -1,0 +1,9 @@
+python principles: https://pythonprinciples.com/challenges/
+
+hacker rank: https://www.hackerrank.com/domains/python
+
+codewars: https://www.codewars.com/
+
+URI: https://www.urionlinejudge.com.br/judge/en/login
+
+Leet Code: https://leetcode.com/
