@@ -15,7 +15,7 @@
 <img  width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=Alexandreinfov&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-
+![Snake animation](https://github.com/Alexandreinfov/Alexandreinfov/blob/output/github-contribution-grid-snake.svg)
 
 
 ## Conecte-se comigo
