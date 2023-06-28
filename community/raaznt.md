@@ -14,8 +14,7 @@ No meu tempo livre gosto de estudar, ler livros, jogar videogames e assistir fil
 
 ## Skills
 
-<img alt="Static Badge" src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&color=black">
-<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=cplusplus&color=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&color=black"> <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=cplusplus&color=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=white&color=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&color=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&color=black">
