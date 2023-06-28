@@ -201,6 +201,14 @@
     </tr>
     <tr>
       <td>
+        <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react">
+      </td>
+      <td>
+        <code>![React Native](https://img.shields.io/badge/React-Native-000?style=for-the-badge&logo=React-Native)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F">
       </td>
       <td>
