@@ -1,7 +1,7 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Contribuindo em um Projeto Open Source no GitHub !</span>
+    <span> Contribuindo em um Projeto Open Source no GitHub</span>
 </h1>
 
 
@@ -129,7 +129,6 @@ Aprender o básico sobre contribuição no GitHub.
   <img src="https://contrib.rocks/image?repo=elidianaandrade/dio-lab-open-source"/>
 </a>
 
-Comentário apenas para registrar commit.
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
