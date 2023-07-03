@@ -18,5 +18,5 @@ Iai, como estâo? Prazer, eu sou Renner estudante de Eng. da Computação, comec
 
 # Projetos
 
-Não possuo projetos realizados, como estou no começo ainda só prático os conhecimentos com testes, mas podemos deixar status como em andamento.
+Não possuo projetos realizados, como estou no começo ainda só pratico os conhecimentos com testes, mas podemos deixar status como em andamento.
 
