@@ -17,6 +17,6 @@ Olá! Eu sou a Octoeli e ajudo a Eli nos tutoriais de Git e GitHub.
 
 
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=raynnenogueira&repo=descubraAFruta&bg_color=ec63a1&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)](https://github.com/raynnenogueira/descubraAFruta)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=raynnenogueira&repo=descubraAFruta&bg_color=7A46B3&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)](https://github.com/raynnenogueira/descubraAFruta)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=raynnenogueira&repo=projeto&bg_color=ec63a1&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)](https://github.com/raynnenogueira/projeto)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=raynnenogueira&repo=projeto&bg_color=7A46B3&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)](https://github.com/raynnenogueira/projeto)
