@@ -1,5 +1,5 @@
 # Octoeli
-Olá! Eu sou a Octoeli e ajudo a Eli nos tutoriais de Git e GitHub.
+Olá! Eu sou a Ana Ferreira e estudo Análises e Sistemas.
 
 ## Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-ec63a1?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/octoeli)
