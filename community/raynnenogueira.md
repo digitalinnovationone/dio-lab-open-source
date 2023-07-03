@@ -3,7 +3,7 @@ Sou estudante de Sistemas de Informação, tenho 23 anos e estou em busca do seu
 Sou uma pessoa dedicada e trabalho muito bem em equipe, valorizando a colaboração e a troca de ideias. Além
 disso, possuo habilidades em HTML, CSS e alguns ambiente como o Figma, o que me torna apto a desenvolver
 design de interfaces. Minha determinação em aprender e crescer na carreira são características que certamente
-contribuirão para o meu sucesso profissional.
+contribuirão para o meu sucesso profissional
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/raynne-nogueira/)
