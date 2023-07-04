@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="./Diego_avatar.png">
+<img align="right" width="250px" style="margin-top:-20px" src="../community/Diego-de-Souza/Diego_avatar.png">
 
 </br>
 </br>
@@ -6,16 +6,16 @@
 <div display="inline-block">
     <h1 align="left" font-weight="700">Diego de Souza</h1>
     <a href="https://www.instagram.com/jahdigao/">
-    <img align="left" width="40px" src="insta.png" alt="instagram" style="vertical-align:top;">
+    <img align="left" width="40px" src="../community/Diego-de-Souza/insta.png" alt="instagram" style="vertical-align:top;">
     </a> 
     <a href="https://www.facebook.com/diegodesouza102">
-    <img align="left" width="40px" src="face.png" alt="facebook" style="vertical-align:top;">
+    <img align="left" width="40px" src="../community/Diego-de-Souza/face.png" alt="facebook" style="vertical-align:top;">
     </a>
     <a href="https://www.linkedin.com/in/diego-de-souza-lima-50638282/">
-    <img align="left" width="40px" src="linkedin.png" alt="linkedin" style="vertical-align:top;">
+    <img align="left" width="40px" src="../community/Diego-de-Souza/linkedin.png" alt="linkedin" style="vertical-align:top;">
     </a>
     <a href="mailto:diegodesouza.souza@gmail.com">
-    <img align="left" width="40px" src="email.png" alt="email" style="vertical-align:top;">
+    <img align="left" width="40px" src="../community/Diego-de-Souza/email.png" alt="email" style="vertical-align:top;">
     </a>
 </div>
 
@@ -43,7 +43,7 @@ E agora iniciei uma nova jornada no curso de engenharia da computação na FESA 
 
 
 <div align="center">
-<img align="center" width="200px" src="xero-code.gif" alt="codando" style="vertical-align:top;">
+<img align="center" width="200px" src="../community/Diego-de-Souza/xero-code.gif" alt="codando" style="vertical-align:top;">
 </div>
 
 </br>
