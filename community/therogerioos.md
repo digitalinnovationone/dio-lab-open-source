@@ -28,7 +28,7 @@
 </center>
 
 
-#### 🤓 Em processo de aprendizando:
+#### 🤓 Em processo de aprendizado:
 
 <center>
 
