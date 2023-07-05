@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, i'm Maik</h1>
 <h3 align="center">I'm a systems analyst and I study data</h3>
 
+
 - 🌱 I'm currently learning **Python**
 
 - 💬 Ask me about **SQL Server, TOTVS RM Educacional, Canvas LTS**
