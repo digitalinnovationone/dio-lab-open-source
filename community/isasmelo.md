@@ -1,6 +1,5 @@
-# Olá!
 # Sobre mim
-Meu nome é Isabela, tenho 24 anos e sou de Teresina-PI, estou cursando Engenharia Elétrica e estou ingressando na área de tecnologia. Uso meu tempo livre para aprender novas tecnologias fazendo cursos e bootcamps.
+ Olá!Meu nome é Isabela, tenho 24 anos e sou de Teresina-PI, estou cursando Engenharia Elétrica e estou ingressando na área de tecnologia. Uso meu tempo livre para aprender novas tecnologias fazendo cursos e bootcamps.
 
 ## 📚 **Aprendendo**
 
