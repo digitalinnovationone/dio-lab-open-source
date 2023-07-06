@@ -4,9 +4,7 @@
 
 ---
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=)](https://www.linkedin.com/in/tlmendes/)
- [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/Azaton/)
- [![Azure](https://img.shields.io/badge/PORTIFÓLIO-000?style=for-the-badge&logo=AzureDevOps&logoColor=fff)](https://dev.azure.com/Personal-Scrum/Agile%20Master/_wiki/wikis/Agile-Master.wiki/10/Home/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=)](https://www.linkedin.com/in/tlmendes/) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/Azaton/) [![Azure](https://img.shields.io/badge/PORTIFÓLIO-000?style=for-the-badge&logo=AzureDevOps&logoColor=fff)](https://dev.azure.com/Personal-Scrum/Agile%20Master/_wiki/wikis/Agile-Master.wiki/10/Home/)
 
 Sou formado em Sistema da Informação, gosto bastante de tecnologia e de passar o tempo no Youtube. Sou mais caseiro e gosto também de sair para jantar em bares e luagres familiares. Tenho hábito de ler e de estudar sobre a origem do Universo.
   
@@ -34,7 +32,7 @@ Comecei a minha jornada profissional no Helpdesk e hoje atuo como *Scrum Master 
 * Kanban
 * Lean
 * Funcional
-* SQLite3
+* SQLite
 * Python
 * Flask
 
@@ -44,9 +42,9 @@ Comecei a minha jornada profissional no Helpdesk e hoje atuo como *Scrum Master 
 
 |                |                  |
 | -------------- | ---------------- |
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=AZATON&theme=onedark)](https://git.io/streak-stats) | ![Thiago Mendes GitHub](https://github-readme-stats.vercel.app/api?username=azaton&theme=gruvbox&show_icons=true) |
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=AZATON&theme=onedark)](https://git.io/streak-stats) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AZATON&theme=gruvbox&show_icons=true) |
 
 
 |                |                  |
 | -------------- |----------------- |
-| ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AZATON&theme=cobalt&show_icons=true)| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AZATON&repo=AULAS-PYTHON&theme=merko&show_icons=true)](https://github.com/AZATON/AULAS-PYTHON) |
+| ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AZATON&theme=cobalt&show_icons=true)| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AZATON&repo=ESTUDOS-PYTHON&theme=merko&show_icons=true)](https://github.com/AZATON/AULAS-PYTHON) |
