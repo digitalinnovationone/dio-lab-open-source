@@ -1,5 +1,5 @@
 
-# Hannah Lucas
+# :love_you_gesture: Hannah Lucas
 
 Full-stack Developer from Vitória-ES, Brazil, graduating at Computer Engineering. I've been in love with computers and magic-like software's since i was 3yo but only had my first "Hello World" at age 14.\
 Passionate about life and all the amazing things in the world, most of my hobbies includes gaming, reading, watching animes, tv series/movies, asian "doramas" and playing every kind of sport i can.
@@ -26,4 +26,4 @@ Passionate about life and all the amazing things in the world, most of my hobbie
  
 ---
 > “You only live once, but if you do it right, once is enough.”
-- Mae West
+― Mae West
