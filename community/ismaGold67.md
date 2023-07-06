@@ -1,4 +1,5 @@
 <h1>Ismael Roberto L Gonçalves</h1>
+Sou um amador em tecnologia, tentando saber de alguma coisa, e fazendo o meu melhor para que isso aconteça.
 
 # Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/Ismagold67)
