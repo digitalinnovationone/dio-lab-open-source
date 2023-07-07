@@ -5,6 +5,10 @@
 <h2 align="center">Olá, este sou eu João Claudio e este é o meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
 
 ## 📞 Contato
+<<<<<<< HEAD
+=======
+
+>>>>>>> 24ff4eb655f96d79bec5468d49df40214cf9be3a
 <p>
   <a href="https://instagram.com/jpres_tes" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram target="_blank"">
@@ -21,10 +25,19 @@
 </p>
 
 ## 🚀 Sobre Mim
+<<<<<<< HEAD
 | Sou estudante de Ciência da Computação focado em Desenvolvimento Front-end, pronto para mergulhar no mundo profissional. Tenho uma verdadeira paixão por criar interfaces incríveis e interativas que deixam os usuários impressionados. | ![Imagem Sobre Mim](https://cdn.picrew.me/shareImg/org/202307/137904_xOHhz9pE.png) |
 | --- | --- |
 
 ## 💻 Tecnologias
+=======
+
+| Sou estudante de Ciência da Computação focado em Desenvolvimento Front-end, pronto para mergulhar no mundo profissional. Tenho uma verdadeira paixão por criar interfaces incríveis e interativas que deixam os usuários impressionados. | ![Imagem Sobre Mim](https://cdn.picrew.me/shareImg/org/202307/137904_xOHhz9pE.png) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+
+## 💻 Tecnologias
+
+>>>>>>> 24ff4eb655f96d79bec5468d49df40214cf9be3a
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="30" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" height="30" width="40">
@@ -36,6 +49,10 @@
 </div>
 
 ## <img src="https://github.com/fluidicon.png" alt="Git Icon" width="24" height="24" style="vertical-align: middle;"> Github Stats
+<<<<<<< HEAD
+=======
+
+>>>>>>> 24ff4eb655f96d79bec5468d49df40214cf9be3a
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joaoclaudioprestes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoclaudioprestes&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=CC6699&icon_color=CC6699" alt="Top Langs">
