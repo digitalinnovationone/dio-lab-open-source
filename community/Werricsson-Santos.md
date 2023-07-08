@@ -8,7 +8,7 @@
     </a>
     Werricsson Santos
     <br><br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monoton&size=25&duration=4000&pause=1&center=true&width=600&separator=%3C&lines=Idade%3A+27+anos%3CForma%C3%A7%C3%A3o%3A+Engenharia+de+Software%3CSeja+Bem+vindo!+;)" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monoton&size=25&duration=4000&pause=1&width=600&separator=%3C&lines=Idade%3A+27+anos%3CForma%C3%A7%C3%A3o%3A+Engenharia+de+Software%3CSeja+Bem+vindo!+;)" alt="Typing SVG" /></a>
 </h1>
 
 ---
