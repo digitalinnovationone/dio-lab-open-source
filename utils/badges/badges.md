@@ -42,6 +42,14 @@
     </tr>
     <tr>
       <td>
+        <img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord">
+      </td>
+      <td>
+        <code>[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/SEUUSERNAME/)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook">
       </td>
       <td>
