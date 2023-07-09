@@ -1,6 +1,6 @@
 # *Fabrício Adriel*
 
-Aprendendo a programar e descobrindo os poderes de Python.
+Aprendendo a programar e descobrindo os poderes da linguagem Python.
 
 ## ✔ *Conecte-se comigo*
 
