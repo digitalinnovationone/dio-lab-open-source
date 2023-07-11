@@ -1,4 +1,5 @@
-# <center>Wandersen Alves 👨🏻‍💻 ![Wandersen Alves](linkedin1-removebg.png)
+# <center>Wandersen Alves 👨🏻‍💻 ![Wandersen Alves](https://i.imgur.com/66DfXMk.jpeg)
+
 ##### 👋🏻Olá! Eu sou Wandersen, fascinado por tecnologia, em especial à área de dados 📊. Estou construindo minha carreira, para conhecer melhor minha trajetória aqui, basta continuar lendo.
 
 ## 🌎 **Conecte-se Comigo**
@@ -27,4 +28,3 @@
 
 ## **Minhas contribuições**  
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wandersen99&repo=BootCamp_Database_Dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/wandersen99/BootCamp_Database_Dio)
-
