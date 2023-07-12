@@ -2,6 +2,8 @@
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/carlos738/)
+[![youtube](https://img.shields.io/badge/youtube-000?style=for-the-badge&logo=youtube&logoColor=0E76A8)](https://www.youtube.com/in/carlos738/)
+
 
 
 ## Habilidades
