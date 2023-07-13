@@ -7,7 +7,7 @@ Estudante de Programação, com foco em Python e SQL, em busca de experiência n
 [![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=Mysql)](https://dev.mysql.com/doc/)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-000.svg?style=for-the-badge&logo=jupyter)](https://docs.jupyter.org/en/latest/)
 [![Git](https://img.shields.io/badge/git-000.svg?style=for-the-badge&logo=git)](https://git-scm.com/doc)
-[![GitHub](https://github.com/gabrielmarchione1)
+[![GitHub](https://img.shields.io/badge/github-000.svg?style=for-the-badge&logo=github)](https://github.com/gabrielmarchione1)
 
 ## Contato
 ---
