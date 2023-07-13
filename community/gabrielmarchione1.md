@@ -7,13 +7,13 @@ Estudante de Programação, com foco em Python e SQL, em busca de experiência n
 [![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=Mysql)](https://dev.mysql.com/doc/)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-000.svg?style=for-the-badge&logo=jupyter)](https://docs.jupyter.org/en/latest/)
 [![Git](https://img.shields.io/badge/git-000.svg?style=for-the-badge&logo=git)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/github-000.svg?style=for-the-badge&logo=github)](https://docs.github.com/pt)
+[![GitHub](https://github.com/gabrielmarchione1)
 
 ## Contato
 ---
 </br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/SEUUSERNAME/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gabriel-marchione/)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](gabrielmarchione12@gmail.com)
 
 ## GitHub Stats
