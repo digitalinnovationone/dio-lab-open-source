@@ -1,12 +1,30 @@
-# Marcoslonghi
-
-## Conecte-se comigo: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/SEUUSERNAME/)
 
 
-## Habilidades: 
+#  *Marcos Longhi*
+  
+  Formado em Administração da empresa e estudande em Tecnologia da Informação.
+  
+  ## *Interesses*
+  
+  Focado nos estudos, estou em transição de carreira na área de tecnologia da informação voltado para compilação e análises de dados.
+  
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+<div>
+  <a href="https://github.com/marcoslonghi/marcoslonghi/">
+  <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api?username=marcoslonghi&show_icons=true&theme=codeSTACKr&border_radius=1.7em" />
+    
+  <img height="190em" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoslonghi&layout=compact&theme=codeSTACKr&border_radius=1em" />
+</div> 
 
-## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcoslonghi&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+##  *Conhecimentos*
+  
+* AWS
+* Git
+* Github
+* Python
+
+
+<div align="center" width="100%">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />     
+</div>
