@@ -18,4 +18,4 @@ Atualmente estou em busca de novos projetos para praticar e desenvolver um bom p
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub)
 
 ## GitHsub Stats
-![LuuhMitre's GitHub stats](https://github-readme-stats.vercel.app/api/?username=LuuhMitre&theme=midnight-purple&show_icons=True)
+![LuuhMitre's GitHub stats](https://github-readme-stats.vercel.app/api/?username=LuuhMitre&theme=midnight-purple&show_icons=True&hide_title=True&hide=stars)
