@@ -2,12 +2,12 @@
 
 ---
 
-Natural de Guarapuava, interior do Paraná, sou uma entusiasta das belas artes, literatura e tecnologia. Aos 18 anos, decidi iniciar minha jornada acadêmica no curso de Filosofia, o que me permitiu realizar um sonho pessoal. No entanto, ao concluir a graduação, percebi que ainda não havia encontrado plena satisfação profissional. Foi aos 25 anos que decidi trilhar minha carreira na área de Tecnologia, uma paixão que descobri ser capaz de me proporcionar a realização desejada. Em 2022, dei início ao curso de tecnólogo em Análise e Desenvolvimento de Sistemas e atualmente estou atuando na área de infraestrutura e suporte técnico. A programação front-end é uma atividade que exerço como um complemento visual dos meus projetos, enquanto o desenvolvimento back-end se tornou não apenas minha profissão, mas também uma fonte de autorrealização (nada mais satisfatório que admirar seu sistema em execução!). Enfim, para alavancar ainda mais minha carreira, tenho direcionado meus estudos para áreas como Dados, Machine Learning e Inteligência Artificial, com foco em Python. Estou empenhada em aprimorar minhas habilidades nessas áreas, pois acredito que elas representam o futuro do mercado de trabalho e oferecem inúmeras oportunidades para o crescimento profissional.
+<p align="justify"> Natural de Guarapuava, interior do Paraná, sou uma entusiasta das belas artes, literatura e tecnologia. Aos 18 anos, decidi iniciar minha jornada acadêmica no curso de Filosofia, o que me permitiu realizar um sonho pessoal. No entanto, ao concluir a graduação, percebi que ainda não havia encontrado plena satisfação profissional. Foi aos 25 anos que decidi trilhar minha carreira na área de Tecnologia, uma paixão que descobri ser capaz de me proporcionar a realização desejada. Em 2022, dei início ao curso de tecnólogo em Análise e Desenvolvimento de Sistemas e atualmente estou atuando na área de infraestrutura e suporte técnico. A programação front-end é uma atividade que exerço como um complemento visual dos meus projetos, enquanto o desenvolvimento back-end se tornou não apenas minha profissão, mas também uma fonte de autorrealização (nada mais satisfatório que admirar seu sistema em execução!). Enfim, para alavancar ainda mais minha carreira, tenho direcionado meus estudos para áreas como Dados, Machine Learning e Inteligência Artificial, com foco em Python. Estou empenhada em aprimorar minhas habilidades nessas áreas, pois acredito que elas representam o futuro do mercado de trabalho e oferecem inúmeras oportunidades para o crescimento profissional. </p>
 
 ---
 
 <div align="center">
-  <iframe src="https://giphy.com/embed/GBaov9wxQCVFGS5v5e" width="360" height="168em" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <img height="168em" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21meXFpcDJ1dmNtdWxyZ2YzNDQ5MzE5ejRidTliamt5OWM2ZTdkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GBaov9wxQCVFGS5v5e/giphy-downsized.gif"/> </br>
   <img height="168em" src="https://github-readme-stats.vercel.app/api?username=micheleregina2022&theme=maroongold&show_icons=true"/>
   <img height="168em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MICHELEREGINA2022&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
 </div>
@@ -28,8 +28,8 @@ Natural de Guarapuava, interior do Paraná, sou uma entusiasta das belas artes, 
 
 <div style="display: inline_block">
     <h4>FRAMEWORKS:</h4>
-    <img alt="flask" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-    <img alt="Angular" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
+    <img alt="flask" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">       
+    <img alt="django" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
     <img alt="bootstrap" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 </div>
 
