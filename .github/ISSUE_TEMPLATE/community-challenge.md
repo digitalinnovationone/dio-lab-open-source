@@ -1,8 +1,8 @@
 ---
 name: Community Challenge
-about: Crie uma issue sobre o Desafio proposto a comunidade
-title: "[DESAFIO]"
-labels: community challenge
+about: "[DESAFIO]"
+title: ''
+labels: community challange
 assignees: ''
 
 ---
@@ -14,4 +14,4 @@ Uma descrição do que pode ser feito.
 Uma descrição sobre como você fez o seu.
 
 *Links úteis*
-- [Nome do Link](URL)
+- [Potência Tech powered by iFood | Ciências de Dados com Python](https://web.dio.me/track/fd133067-6f2b-47c8-9763-edd87ec6b1cc)
