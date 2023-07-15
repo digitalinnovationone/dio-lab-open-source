@@ -8,8 +8,6 @@ Atualmente estou em busca de novos projetos para praticar e desenvolver um bom p
 - [Potência Tech powered by iFood | Ciências de Dados com Python](https://web.dio.me/track/potencia-tech-powered-ifood-ciencias-de-dados-com-python?tab=path)
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/luana-mitre)
-
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=0E76A8)](https://github.com/LuuhMitre)
 
 ## Habilidades:
