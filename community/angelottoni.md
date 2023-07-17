@@ -15,7 +15,7 @@ I've mainly collected specimens in the Amazon and Atlantic forests in Brazil, an
 My Master's and Doctoral research focused on the systematic study of clavarioid fungi (Agaricomycetes) in Brazil.
 
 <figure>
-    <img height="400" src="../docs/assets/img/DSC_0090.JPG"
+    <img height="400" src="https://github.com/AngelOttoni/dio-lab-open-source-amo/assets/97471199/171e73c8-7eb3-45ec-bb5f-c01709887172"
          alt="Clavarioid fungi, Clavaria sp.">
     <figcaption><strong>Clavarioid fungi, <em>Clavaria</em> sp.</strong></figcaption>
 </figure>
