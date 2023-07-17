@@ -1,5 +1,5 @@
 # Ana Gabriela
-Olá! Meu nome é Ana Gabriela, tenho 25 anos e sou de Minas Gerais.<br>Apesar de já ter cruzado com os desafios que a área da tecnologia nos apresenta, somente fui pensar em ter carreira como desenvolvedora em 2022. Foi nesse momento que comecei a estudar por conta própria e aprendi algumas coisas básicas e cheguei até mesmo a cursar o 1º período em Análise e Desenvolvimento de Sistemas, que pretendo continuar num futuro próximo. Planejo seguir integralmente nesse caminho em breve.
+Olá! Meu nome é Ana Gabriela, tenho 25 anos e sou de Minas Gerais.<br>Apesar de já ter cruzado com os desafios que a área da tecnologia nos apresenta, somente fui pensar em ter carreira como desenvolvedora em 2022. Foi nesse momento que comecei a estudar por conta própria e aprendi algumas coisas básicas e cheguei até mesmo a cursar o 1º período em Análise e Desenvolvimento de Sistemas, que pretendo continuar num futuro próximo.
 
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=6FD7D0)](https://www.linkedin.com/in/ana-gabriela-fonseca-chaves/)
