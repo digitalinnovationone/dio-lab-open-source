@@ -1,4 +1,5 @@
 # Menotso
+Olá! Espero encontrá-lo bem.
 Sou uma pessoa focada com facilidade de trabalhar em grupo e me expressar, gosto de aprender coisas novas, tenho iniciativa e possuo pro-atividade em assessorar superiores. Também possuo facilidade quando se trata de prever problemas no âmbito das funções que eu venha a exercer. Vale ressaltar o controle emocional e postura adequada ao ambiente em razão da vida profissional oriundos da rotina operativa em navios, estes que permitiam ser designado para diversas funções, desde combate a incêndio em alto-mar à rotina administrativa.
 ## Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/guilherme-bibiano/)
