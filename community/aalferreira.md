@@ -16,7 +16,7 @@ Sou formado em Engenharia Cartográfica e de Agrimensura 🗺️🛰️ e busco 
 ## 💻 Conecte-se comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/aalferreira/)
 [![Instagram](https://img.shields.io/badge/Instagram-FFF?style=for-the-badge&logo=instagram)](https://www.instagram.com/allanalveslf/)
-[[Perfil DIO](https://web.dio.me/users/allanalveslf)]
+[[Perfil DIO](https://web.dio.me/users/allanalveslf)].
 
 
 
