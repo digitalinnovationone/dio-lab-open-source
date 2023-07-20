@@ -1,4 +1,4 @@
-# Nome Sobrenome
+# Loah Frota
 Sou Analista de Dados Sênior na Trinus Co., onde atuo como Tech Lead em BI e Analytics. Apaixonada por dados e soluções estratégicas, tenho certificações Microsoft na área, incluindo a PL-300. Sou especialista em Power BI, Modelagem de Dados, Power Query e DAX. Meu background em vendas e gestão me proporciona uma perspectiva única sobre requerimentos de negócio e em como traduzí-los em relatórios acionáveis, dashboards e outras soluções em dados que dão suporte à tomada de decisão.
 
 ### Conecte-se comigo
