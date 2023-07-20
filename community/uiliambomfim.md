@@ -4,13 +4,12 @@
     <span> Exemplos de Profile README</span>
 </h1>
 
-  Aqui você confere uma lista de exemplos desenvolvida pela comunidade. Veja abaixo um exemplo simples de como você pode criar o seu Profile README para o Desafio da [Digital Innovation One](https://www.dio.me/) e faça a sua contribuição 😉🚀.
-
-
 ---
 
-# Nome Sobrenome
-Breve descrição sobre você.
+# Uiliam Bofmim
+Atuo na área de Engenharia de Dados. Possuo experiência trabalhando em projetos de ETL
+usando Python, Power BI, Airflow, Databricks, SQL, SSIS, etc. Além disso, tenho experiência
+como contador, produzindo balanço, KPIs e análise de tributos.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/wf3)
