@@ -1,6 +1,6 @@
 # Kadu
 Olá, sou Carlos Eduardo, mais conhecido como Kadu, estudo ADS na Universidade Cândido Mendes, atualmente estou no 2° periodo.
-Tenho algun projetos concluidos utilizando o Python, Flask, Fastapi, mysql, sqlite, sqlalchemy e outras tecnologias.
+Tenho algun projetos concluidos utilizando o Python, Flask, Fastapi, Mysql, sqlite, sqlalchemy e outras tecnologias.
 Estou em transição de carreira e tenho me dedicado e trabalhado para que consiga me alocar no mercado de tecnologia, pela qual sempre tive uma paixão imensa.
  
 

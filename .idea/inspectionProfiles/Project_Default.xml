@@ -1,0 +1,36 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="12">
+            <item index="0" class="java.lang.String" itemvalue="pathspec" />
+            <item index="1" class="java.lang.String" itemvalue="nodeenv" />
+            <item index="2" class="java.lang.String" itemvalue="identify" />
+            <item index="3" class="java.lang.String" itemvalue="typed-ast" />
+            <item index="4" class="java.lang.String" itemvalue="SQLAlchemy" />
+            <item index="5" class="java.lang.String" itemvalue="black" />
+            <item index="6" class="java.lang.String" itemvalue="pre-commit" />
+            <item index="7" class="java.lang.String" itemvalue="wrapt" />
+            <item index="8" class="java.lang.String" itemvalue="typing-extensions" />
+            <item index="9" class="java.lang.String" itemvalue="Faker" />
+            <item index="10" class="java.lang.String" itemvalue="virtualenv" />
+            <item index="11" class="java.lang.String" itemvalue="cfgv" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N803" />
+          <option value="N806" />
+          <option value="N812" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
