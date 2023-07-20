@@ -20,8 +20,8 @@ Breve descrição sobre você.
 
 ### Habilidades
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/Python?style=for-the-badge&logoColor=%233776AB&color=%233776AB)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/Sql-000?style=for-the-badge&logo=mysql&logoColor=3776AB)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
