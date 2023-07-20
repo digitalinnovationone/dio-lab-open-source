@@ -6,7 +6,7 @@
 
 ---
 
-# Uiliam Bofmim
+# Uiliam Bomfim
 Atuo na área de Engenharia de Dados. Possuo experiência trabalhando em projetos de ETL
 usando Python, Power BI, Airflow, Databricks, SQL, SSIS, etc. Além disso, tenho experiência
 como contador, produzindo balanço, KPIs e análise de tributos.
