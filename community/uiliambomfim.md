@@ -29,7 +29,7 @@ como contador, produzindo balanço, KPIs e análise de tributos.
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=uiliambomfim&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Meus Principais Desafios de Projeto DIO
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=uiliambomfim&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/uiliambomfim/dio-lab-open-source)
 [![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
 
 ### Meus Principais Artigos na DIO
@@ -43,7 +43,7 @@ como contador, produzindo balanço, KPIs e análise de tributos.
   </thead>
   <tbody align="left">
     <tr>
-      <td>14/12/2022</td>
+      <td>20/07/2023</td>
       <td>5 Dicas Essenciais para Aprender a Programar em Qualquer Linguagem! #CommunityWeek</td>
       <td align="center">
         <a href="https://web.dio.me/articles/5-dicas-essenciais-para-aprender-a-programar-em-qualquer-linguagem-communityweek">
@@ -52,7 +52,7 @@ como contador, produzindo balanço, KPIs e análise de tributos.
       </td>
     </tr>
     <tr>
-      <td>21/10/2022</td>
+      <td>20/07/2023</td>
       <td>Crie Seu Próprio Web Component</td>
       <td align="center">
         <a href="https://web.dio.me/articles/crie-seu-proprio-web-component">
@@ -61,7 +61,7 @@ como contador, produzindo balanço, KPIs e análise de tributos.
       </td>
     </tr>
     <tr>
-      <td>30/06/2022</td>
+      <td>20/07/2023</td>
       <td>Destrave seu Primeiro Desafio de Código</td>
       <td align="center">
         <a href="https://web.dio.me/articles/destrave-seu-primeiro-desafio-de-codigo">
@@ -70,7 +70,7 @@ como contador, produzindo balanço, KPIs e análise de tributos.
       </td>    
     </tr>
     <tr>
-      <td>21/04/2022</td>
+      <td>20/07/2023</td>
       <td>5 Dicas para Melhorar seu Profile README do GitHub</td>
       <td align="center">
         <a href="https://web.dio.me/articles/5-dicas-para-melhorar-o-readme-do-seu-perfil-no-github">
