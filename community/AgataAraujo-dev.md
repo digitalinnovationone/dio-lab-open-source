@@ -15,6 +15,6 @@ I am interested in becoming a Full Stack Developer, but I am starting with Front
 This is my first Bootcamp, so I don't have much experience in any language! But I have a small project using HTML, CSS and Java to make a character selection page with animation for changes to the images, names and descriptions of each.
 
 
-#### Projects in improvement 
+#### Projects in improvement: 
 
 [Seleção de personagens X-Men](https://agataaraujo-dev.github.io/x-men/)
