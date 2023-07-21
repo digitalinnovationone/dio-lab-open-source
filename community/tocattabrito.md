@@ -8,7 +8,7 @@ Tenho formação Técnica em Desenvolvimento de Sistemas pela ETEMB - Escola Té
 Estou Cursando Ciência de Dados pela Faculdade Joaquim Nabuco - EAD.
 
 ## Hobbys
-Leitura de temas realacionado ao **Desenvolvimento Pessoal**, gosta de fazer um som no **violão** e pratico  **Jiu-jitsu** pra arejar a mente.
+Leitura de temas realacionado ao **Desenvolvimento Pessoal**, gosta de fazer um som no **violão** e pratica  **Jiu-jitsu** pra arejar a mente.
 
 ## Onde Me Encontrar
 [Instagram](https://www.instagram.com/joaobritoficial/) |
