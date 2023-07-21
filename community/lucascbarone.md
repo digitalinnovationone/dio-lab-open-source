@@ -1,4 +1,10 @@
 # Lucas Caliento Barone
+Olá! Meu nome é Lucas Caliento Barone e sou formado em Engenharia Elétrica pela Universidade Federal de São Carlos (UFSCar). Atualmente, estou em busca de oportunidades profissionais como Desenvolvedor Backend. Possuo grande facilidade para aprender novas tecnologias e uma sólida experiência em trabalhar em equipes dinâmicas, além de estabelecer excelente relacionamento com clientes. Minha capacidade de adaptação e comunicação eficaz me permite colaborar de forma proativa em projetos desafiadores. Estou entusiasmado em contribuir com meus talentos para o sucesso de novas iniciativas e agregar valor a projetos inovadores.
+
+## Línguas
+- Português (nativo);
+- Inglês (avançado);
+- Japonês (JLPT N3).
 
 ## Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/lucascbarone/)
@@ -8,8 +14,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lucascbarone/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lucascbarone@hotmail.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucascaliento@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/birutex)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519997582104)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/birutex)
 
 ## Linguagens de Programação & Habilidades em Desenvolvimento
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
@@ -22,8 +28,8 @@
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
 
 ## Banco de Dados
-[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/docs.html)  
-[![MySQL](https://img.shields.io/badge/mysql-%23000.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
+[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/docs.html)
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
 
 ## IDEs
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/docs)
