@@ -1,6 +1,5 @@
 ## Olá, meu nome é Williams Aldson, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas!
 
-
 ## redes sociais
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=0E76A8)](
 https://github.com/waccampos)
