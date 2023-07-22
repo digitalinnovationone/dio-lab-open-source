@@ -1,9 +1,10 @@
 # Airan Rejane Santos
 
-Sou uma estudante de Ciências Contábeis e trabalho nessa área. Tenho uma paixão também pela área de dados e sou fascinada por adquirir e compartilhar conhecimentos.
+Sou uma estudante de Ciências Contábeis e trabalho nessa área, consegui um estágio no início da faculdade e antes de concluir o período de 1 ano do contrato de estágio, fui efetivada e aos poucos fui adquirindo novas posições no meu atual emprego. Tenho uma paixão também pela área de dados e sou fascinada por adquirir e compartilhar conhecimentos. 
 
-Atualmente, eu recebi uma bolsa de estudos da Bettha em parceria com o Google e Coursera para fazer parte do Curso de Análise de Dados do Google.
+Atualmente, eu recebi uma bolsa de estudos da Bettha em parceria com o Google e Coursera para fazer parte do Curso de Análise de Dados do Google. Venho aprendendo sobre a área de dados com o intuito de poder trazer novos insights na minha área e outras áreas também.
 
+Obrigada por conhecer um pouco mais sobre mim. Estou ansiosa para explorar novas possibilidades e fique a vontade para se conectar comigo no Linkedin!
 
 ## Conecte-se comigo
 
