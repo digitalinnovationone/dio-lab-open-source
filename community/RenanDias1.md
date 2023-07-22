@@ -1,7 +1,7 @@
 
-## Hello my name is Renan!!! ✌
+## Hello my name is Renan Dias!!! ✌
 
-Sejam bem-vindos ao meu perfil. 
+Sejam bem-vindos ao meu perfil. :D 
 
 Me chamo Renan Correa Dias, sou uma pessoa apaixonada por tecnologia. Estou me dedicando cada dia a mais para aprender mais sobre o mercado em constante evolução!
 
