@@ -1,6 +1,6 @@
 ## Olá, sou Isabela Honorio! 👋
 
-Estou aqui para aprender junto com essa comunidade muitos temas sobre programação ,atualmente  sou'gi  estudante de engenharia de computação. Estou sempre em busca de novos desafios e aprendendo a desenvolver em diferentes linguagens para ampliar minhas habilidades e conhecimentos.
+Estou aqui para aprender junto com essa comunidade muitos temas sobre programação ,atualmente  sou  estudante de engenharia de computação. Estou sempre em busca de novos desafios e aprendendo a desenvolver em diferentes linguagens para ampliar minhas habilidades e conhecimentos.
 
 ### Habilidades Técnicas:
 - Linguagens de Programação: C, C++, HTML
