@@ -1,6 +1,3 @@
-Claro, aqui está um exemplo de um perfil de GitHub para uso profissional:
-
-
 # Perfil
 
 ## Linguagens:
