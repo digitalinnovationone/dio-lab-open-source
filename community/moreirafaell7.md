@@ -5,9 +5,7 @@
 
 Olá a todos,
 
-Meu nome é Rafael, e atualmente trabalho na área de administração em uma empresa de saneamento em Fortaleza-CE. Embora tenha experiência nesse campo, sou, acima de tudo, um entusiasta da tecnologia e apaixonado pela área de Data Science, com interesse também em Back-End.
-
-Procuro oportunidades que me permitam trabalhar em projetos desafiadores e colaborar com uma equipe engajada e focada em inovação. Estou aberto a oportunidades que me permitam crescer profissionalmente, enquanto aplico meu conjunto de habilidades para resolver problemas e impulsionar o sucesso organizacional.
+Meu nome é Rafael, e atualmente trabalho na área de administração em uma empresa de saneamento em Fortaleza-CE. Embora tenha experiência nesse campo, sou acima de tudo, um entusiasta da tecnologia e apaixonado pela área de Data Science, com interesse também em Back-End. Procuro oportunidades que me permitam trabalhar em projetos desafiadores e colaborar com uma equipe engajada. Estou aberto a oportunidades que me permitam crescer profissionalmente, enquanto aplico meu conjunto de habilidades para resolver problemas e impulsionar o sucesso.
 
 Agradeço a atenção de todos e estou ansioso para explorar as possibilidades de crescimento juntos.
 
