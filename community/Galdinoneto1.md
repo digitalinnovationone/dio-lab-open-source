@@ -1,9 +1,6 @@
 # Galdino José 
 👋 Olá, eu sou Galdino José! Sou um entusiasta de Automação e QA, além de estudante de Data Science. Apaixonado por aprimorar a qualidade e eficiência de software por meio da automação, gosto de explorar os domínios de testes e programação. Vamos colaborar e criar soluções inovadoras juntos! 
 
-
-👋 Hello, I'm Galdino José! I'm an Automation and QA enthusiast, as well as a Data Science student. Passionate about improving software quality and efficiency through automation, I enjoy exploring the realms of testing and coding. Let's collaborate and create innovative solutions together! 🌟🚀
-
 # Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/galdino-tech//)
 
