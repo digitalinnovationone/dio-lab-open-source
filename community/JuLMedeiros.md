@@ -3,7 +3,7 @@
 
 # Juliana Medeiros
 Olá, eu sou a Ju, piadista, esmagadora de pets e brasiliense. 
-Sou designer por formação que migrou para a área de projetos e atua há mais de 5 anos como analista de inovação. Já auxiliei no desenvolvimento de mais de 100 startups e atuei no Hub de Inovação das Unimeds SC (sim, bem longe de casa). Em julho decidi dar um up na carreira e comecei o desafio de aprender linguagem de programação, se que a estrada é longa, mas estou gostando do caminho. 
+Sou designer por formação que migrou para a área de projetos e atua há mais de 5 anos como analista de inovação. Já auxiliei no desenvolvimento de mais de 100 startups e atuei no Hub de Inovação das Unimeds SC (sim, bem longe de casa). Em julho decidi dar um up na carreira e comecei o desafio de aprender linguagem de programação, se que a estrada é longa, mas estou gostando do caminho. 😁😁😁
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/juliana_lmed?tab=skills)
