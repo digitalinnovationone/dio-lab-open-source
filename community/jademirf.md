@@ -17,6 +17,7 @@ Desenvolvedor full-stack web.
 ![Postgres](https://img.shields.io/badge/postgres-000?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql)
 ![Mongo DB](https://img.shields.io/badge/mongo_db-000?style=for-the-badge&logo=mongodb)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github)
 ## Github Stats
