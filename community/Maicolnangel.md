@@ -1,15 +1,25 @@
-# Octoeli
-Olá! Eu sou a Octoeli e ajudo a Eli nos tutoriais de Git e GitHub.
+# Maicolnangel
+Olá pessoal meu nome é Maicoln e estou aprendendo cada dia mais com a Eli sobre Git e Github.
 
-## Conecte-se comigo
-[![GitHub](https://img.shields.io/badge/GitHub-ec63a1?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/octoeli)
+## Conecte-se Comigo 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0000FF)](https://www.linkedin.com/in/MaicolnMartins/)
 
-## Habilidades
-[![GitHub](https://img.shields.io/badge/GitHub-ec63a1?style=for-the-badge&logo=github&logoColor=fff)](https://docs.github.com/)
-[![Git](https://img.shields.io/badge/Git-ec63a1?style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com/doc) 
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=0000FF)](https://www.instagram.com/MaicolnMartins/)
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=octoeli&theme=transparent&bg_color=ec63a1&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff&hide_title=true&hide=stars)
+## Habilidade 
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 
-## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=octoeli&repo=dio-lab-open-source&bg_color=ec63a1&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)](https://github.com/octoeli/dio-lab-open-source)
+
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Maicolnangel&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+## GitHub Status 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maicolnangel&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
+## Minhas Contribuuições 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Maicolnangel&repo=DecodificadorAluraT4&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://maicolnangel.github.io/DecodificadorAluraT4/)
+
+
