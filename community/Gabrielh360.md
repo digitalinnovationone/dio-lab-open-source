@@ -19,12 +19,10 @@ Meu nome é Gabriel Henrique, Tenho 21 Anos de Idade, sou um DEV novato e comece
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://docs.github.com/)
 
 ### GitHub Stats 📊
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=Gabrielh360&show_icons=true&title_color=00B5FF&text_color=FFFFFF&theme=highcontrast">
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielh360&title_color=00B5FF&text_color=FFFFFF&layout=compact&theme=highcontrast">
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Gabrielh360&show_icons=true&title_color=00B5FF&text_color=FFFFFF&theme=highcontrast">   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielh360&title_color=00B5FF&text_color=FFFFFF&layout=compact&theme=highcontrast">
 
 ### Meus Principais Desafios de Projeto DIO 🌟
-<img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabrielh360&repo=projeto-open-source&bg_color=000&show_icons=true&icon_color=30A3DC&title_color=00B5FF&text_color=FFF&layout=compact&theme=highcontrast">
-<img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabrielh360&repo=projeto-buzzFeed_angular&bg_color=000&show_icons=true&icon_color=30A3DC&title_color=00B5FF&text_color=FFF">
+<img height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabrielh360&repo=projeto-open-source&bg_color=000&show_icons=true&icon_color=30A3DC&title_color=00B5FF&text_color=FFF&layout=compact&theme=highcontrast">   <img height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabrielh360&repo=projeto-buzzFeed_angular&bg_color=000&show_icons=true&icon_color=30A3DC&title_color=00B5FF&text_color=FFF">
 
 ### Todos Os Meus Desafios de Projeto da DIO 💻
 <table>
