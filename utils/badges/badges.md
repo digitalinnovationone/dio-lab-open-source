@@ -156,6 +156,14 @@
     </tr>
     <tr>
       <td>
+        <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=kotlin">
+      </td>
+      <td>
+        <code>![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=kotlin)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <img align="center" alt="Python" src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python">
       </td>
       <td>
@@ -221,6 +229,76 @@
       </td>
       <td>
         <code>![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-000?style=for-the-badge&logo=springboot">
+      </td>
+      <td>
+        <code>![Spring Boot](https://img.shields.io/badge/SpringBoot-000?style=for-the-badge&logo=springboot)</code>
+      </td>
+    </tr>
+  </tbody>
+  <tfoot></tfoot>
+</table>
+
+
+## Bancos de Dados
+<table>
+  <thead>
+    <tr align="left">
+      <th>Badge</th>
+      <th>Markdown</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <td>
+        <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql">
+      </td>
+      <td>
+        <code>![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql">
+      </td>
+      <td>
+        <code>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="SQLServer" src="https://img.shields.io/badge/MicrosoftSQLServer-000?style=for-the-badge&logo=microsoftsqlserver">
+      </td>
+      <td>
+        <code>![SQLServer](https://img.shields.io/badge/MicrosoftSQLServer-000?style=for-the-badge&logo=microsoftsqlserver)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="MariaDB" src="https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=mariadb">
+      </td>
+      <td>
+        <code>![MariaDB](https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=mariadb)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite">
+      </td>
+      <td>
+        <code>![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb">
+      </td>
+      <td>
+        <code>![Mongo DB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)</code>
       </td>
     </tr>
   </tbody>
