@@ -1,5 +1,5 @@
 # Olá! Me chamo Fernanda Gonçalves!!👋
-#### Estou em andamento nos meus estudos sobre a área de dados, atualmente estou fazendo o bootcamp da DIO de Ciência de Dados e recentemente terminei um curso de engenharia de dados. Em breve contribuirei com a comunidade do GitHub com alguns projetos sobre esta área que venho tendo interesse e curiosidade de aprender cada vez mais!💻
+#### Estou em andamento nos meus estudos sobre a área de dados, atualmente estou fazendo o bootcamp da DIO de Ciência de Dados e recentemente terminei um curso de engenharia de dados. Em breve contribuirei com a comunidade do GitHub com alguns projetos sobre esta área que venho tendo interesse e curiosidade de aprender cada vez mais!!💻
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/fernanda-gon/)
