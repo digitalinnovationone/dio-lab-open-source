@@ -12,4 +12,4 @@ Já tive contato com as seguintes linguagens: \
 ![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=#8FCE00)
 
 ##Contatos:
-
+![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=#8FCE00)
