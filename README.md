@@ -1,6 +1,7 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+<<<<<<< HEAD
     <span> Contribuindo em um Projeto Open Source no GitHub</span>
 </h1>
 
@@ -23,42 +24,115 @@ Aprender o básico sobre contribuição no GitHub.
       <th>Nº</th>
       <th>Etapas</th>
       <th>Materiais de Apoio</th>
+=======
+    <span> Exemplos de Profile README</span>
+</h1>
+
+  Aqui você confere uma lista de exemplos desenvolvida pela comunidade. Veja abaixo um exemplo simples de como você pode criar o seu Profile README para o Desafio da [Digital Innovation One](https://www.dio.me/) e faça a sua contribuição 😉🚀.
+
+
+---
+
+# Nome Sobrenome
+Breve descrição sobre você.
+
+### Conecte-se comigo
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/SEUUSERNAME/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:SEUEMAIL@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/SEUUSERNAME/)
+
+
+### Habilidades
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+### Meus Principais Desafios de Projeto DIO
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
+
+### Meus Principais Artigos na DIO
+<table>
+  <thead>
+    <tr align="left">
+      <th>Data</th>
+      <th>Título</th>
+      <th>Link</th>
+>>>>>>> origin/feat/community/borgesmarcio
     </tr>
   </thead>
   <tbody align="left">
     <tr>
+<<<<<<< HEAD
       <td>01</td>
       <td>Introdução ao Lab</td>
       <td align="center">
         <a href="">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+=======
+      <td>14/12/2022</td>
+      <td>5 Dicas Essenciais para Aprender a Programar em Qualquer Linguagem! #CommunityWeek</td>
+      <td align="center">
+        <a href="https://web.dio.me/articles/5-dicas-essenciais-para-aprender-a-programar-em-qualquer-linguagem-communityweek">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
+>>>>>>> origin/feat/community/borgesmarcio
         </a>
       </td>
     </tr>
     <tr>
+<<<<<<< HEAD
       <td>02</td>
       <td>Formas de Contribuir num Projeto Open Source</td>
       <td align="center">
         <a href="">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+=======
+      <td>21/10/2022</td>
+      <td>Crie Seu Próprio Web Component</td>
+      <td align="center">
+        <a href="https://web.dio.me/articles/crie-seu-proprio-web-component">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
+>>>>>>> origin/feat/community/borgesmarcio
         </a>
       </td>
     </tr>
     <tr>
+<<<<<<< HEAD
       <td>03</td>
       <td>Desenvolvendo e Enviando uma Contribuição</td>
       <td align="center">
         <a href="">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+=======
+      <td>30/06/2022</td>
+      <td>Destrave seu Primeiro Desafio de Código</td>
+      <td align="center">
+        <a href="https://web.dio.me/articles/destrave-seu-primeiro-desafio-de-codigo">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
+>>>>>>> origin/feat/community/borgesmarcio
         </a>
       </td>    
     </tr>
     <tr>
+<<<<<<< HEAD
       <td>04</td>
       <td>Dicas e Materiais de Apoio</td>
       <td align="center">
         <a href="">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+=======
+      <td>21/04/2022</td>
+      <td>5 Dicas para Melhorar seu Profile README do GitHub</td>
+      <td align="center">
+        <a href="https://web.dio.me/articles/5-dicas-para-melhorar-o-readme-do-seu-perfil-no-github">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
+>>>>>>> origin/feat/community/borgesmarcio
         </a>
       </td>    
     </tr>
@@ -67,6 +141,7 @@ Aprender o básico sobre contribuição no GitHub.
 </table>
 
 ---
+<<<<<<< HEAD
 ##  Desafio: Profile README
  Contribua no diretório "Community", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
  Inspire-se consultando os exemplos na pasta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
@@ -130,3 +205,5 @@ Aprender o básico sobre contribuição no GitHub.
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+=======
+>>>>>>> origin/feat/community/borgesmarcio
