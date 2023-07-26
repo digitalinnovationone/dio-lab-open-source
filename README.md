@@ -128,5 +128,26 @@ Aprender o básico sobre contribuição no GitHub.
   <img src="https://contrib.rocks/image?repo=elidianaandrade/dio-lab-open-source"/>
 </a>
 
+## Para saber mais
+
+Markdown
+https://docs.github.com/pt/get-started/writing-on-github
+
+Conventional Commit
+https://github.com/conventional-commits/conventionalcommits.org
+
+GitHub Etiquetas
+https://docs.github.com/pt/issues/using-labels-and-milestones-to-track-work/managing-labels
+
+Lecenças
+https://docs.github.com/pt/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
+
+readme.so
+https://readme.so/pt/editor
+
+GitHub Profile README
+https://docs.github.com/pt/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
+
+
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
