@@ -1,6 +1,6 @@
 # Sobre mim
 
-Olá! Me chamo Matheus, vivo na região sudeste do país, sou estudante de ciência da computação e interessado em Ciência de Dados e nos impactos da Inteligência Artificial na sociedade.
+Olá! Sou o Matheus, residente na região Sudeste do país. Estou cursando ciência da computação e tenho grande interesse em Ciência de Dados, assim como nos impactos da Inteligência Artificial na sociedade.
 
 ## 🖥️ **Conecte-se comigo**
 
