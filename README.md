@@ -129,6 +129,11 @@ Aprender o básico sobre contribuição no GitHub.
 </a>
 
 ## Para saber mais
+
+<a href="https://docs.github.com/pt">
+    Documentação do GitHub
+</a>
+<br>
 <a href="https://docs.github.com/pt/get-started/writing-on-github">
     Markdown
 </a>
