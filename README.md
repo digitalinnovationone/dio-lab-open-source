@@ -129,24 +129,29 @@ Aprender o básico sobre contribuição no GitHub.
 </a>
 
 ## Para saber mais
+<a href="https://docs.github.com/pt/get-started/writing-on-github">
+    Markdown
+</a>
 
-Markdown
-https://docs.github.com/pt/get-started/writing-on-github
+<a href="https://github.com/conventional-commits/conventionalcommits.org">
+    Conventional Commit
+</a>
 
-Conventional Commit
-https://github.com/conventional-commits/conventionalcommits.org
+<a href="https://docs.github.com/pt/issues/using-labels-and-milestones-to-track-work/managing-labels">
+    GitHub Etiquetas
+</a>
 
-GitHub Etiquetas
-https://docs.github.com/pt/issues/using-labels-and-milestones-to-track-work/managing-labels
+<a href="https://docs.github.com/pt/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository">
+    Lecenças
+</a>
 
-Lecenças
-https://docs.github.com/pt/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
+<a href="https://readme.so/pt/editor">
+    readme.so
+</a>
 
-readme.so
-https://readme.so/pt/editor
-
-GitHub Profile README
-https://docs.github.com/pt/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
+<a href="https://docs.github.com/pt/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme">
+    GitHub Profile README
+</a>
 
 
 ##
