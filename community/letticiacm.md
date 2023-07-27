@@ -1,7 +1,7 @@
 ## Olá! Bem-vindo ao meu perfil!
 Sou Lettícia Calaça, tenho 34 anos, moro em Florianópolis há 4 anos (Um dos lugares mais lindos que já conheci!! Difícil não se encantar!).
 
-Sou Analista de Sistemas, formada pela Estácio em 2013, quando começava a se falar em bancos relacionais. A propósito essa foi minha tese para o TCC.
+Sou Analista de Sistemas, formada pela Estácio em 2013, quando começava a se falar em bancos não relacionais. A propósito essa foi minha tese para o TCC.
 
 Sempre gostei muito de trabalhar e estudar Banco de Dados e IA.
 
