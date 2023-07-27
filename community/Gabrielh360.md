@@ -2,7 +2,7 @@
 <img height="180px" style= "border-radius: 50%; border: 3px solid #00B5FF;"  src="https://avatars.githubusercontent.com/u/91648449?v=4">
 
 # Gabriel Henrique - ( Gabrielh360 )
-Meu nome é Gabriel Henrique, Tenho 21 Anos de Idade, sou um DEV novato e comecei a estudar Linguahens de programação na DIO, sempre tive interesse em aprender sobre as Linguagens de Programação, Tecnologias e tudo que envolve a área de TI, nas horas vagas eu gosto de assistir animes, também sou Designer, Editor e Youtuber, procuro me dedicar 110% a tudo que eu faço.
+Meu nome é Gabriel Henrique, Tenho 21 Anos de Idade, sou um DEV novato e comecei a estudar Linguagens de programação na DIO, sempre tive interesse em aprender sobre as Linguagens de Programação, Tecnologias e tudo que envolve a área de TI, nas horas vagas eu gosto de assistir animes, também sou Designer, Editor e Youtuber, procuro me dedicar 110% em tudo que eu faço.
 
 ### Conecte-se comigo 📲
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/Gabriel_Henrique)
