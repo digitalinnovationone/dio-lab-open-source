@@ -1,4 +1,4 @@
-print("""                          CURRÍCULO ANICETO
+ print("""                          CURRÍCULO ANICETO
 
 Bacharel em Ciências e Tecnologia Mecânica pela Universidade Federal do Rio Grande do Norte (UFRN) e técnico em Biocombustíveis pelo Instituto Federal do Rio Grande do Norte (IFRN), autônomo, buscando realocação em áreas financeiras e de inovação tecnológica. Sou movido pelo desafio e soluções.
 
