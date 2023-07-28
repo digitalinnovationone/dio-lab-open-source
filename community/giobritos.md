@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Giovana de Brito Silva</h1>
+<h1 align="center">Hi! 👋 I'm Giovana de Brito Silva</h1>
 <h3 align="center">A passionate Jr. Data Engineer from Brazil</h3>
 
 - 💼 Currently working as a **Data Intern at Blu**
