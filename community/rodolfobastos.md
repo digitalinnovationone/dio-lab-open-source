@@ -15,3 +15,6 @@ Atualmente trabalho como Analista de planejamento e pretendo aprimorar meus conh
 ---
 ### Tecnologias
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+
+
+Obrigado!
