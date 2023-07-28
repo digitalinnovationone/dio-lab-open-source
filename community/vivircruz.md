@@ -5,9 +5,6 @@
     <span> Olá Comunidade DIO </span>
 </h1>
 
-<!-- Imagem da direita -->
-<img align="right" alt="Developer vector created by - www.veectzy.com" height="380" src="https://static.vecteezy.com/ti/vetor-gratis/p3/11863863-design-de-logotipo-de-conexao-cerebral-modelo-de-logotipo-de-cerebro-digital-icone-de-brainstorm-ideias-de-logotipos-pense-o-conceito-de-ideia-gratis-vetor.jpg" >
-
 <!--#QUEM SOU -->
 <h1>
     <a href="Developer vector created by - www.veectzy.com">
@@ -36,31 +33,29 @@ Estou sempre em busca de me aperfeiçoar e <b>gosto de desafios</b> pois atravé
     <a href="Developer vector created by - www.veectzy.com">
      <img align="center" width="36px" src="https://static.vecteezy.com/system/resources/previews/010/928/241/original/neon-purple-square-banner-neon-square-png.png"></a><span> Tecnologias</span>
 </h1>
-
-   <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">  <img align="center" alt="Rafa-PowerBI" height="40" width="40" src="https://e7.pngegg.com/pngimages/252/727/png-clipart-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle.png">
+<div>
+<img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">  <img align="center" alt="PowerBI" height="40" width="40" src="https://e7.pngegg.com/pngimages/252/727/png-clipart-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle.png">
+</div>
 <br><br><br><br>
 
 
 <!--#PROXIMAS TECNOLOGIAS -->
 <h1>
-    <a href="Developer vector created by - www.veectzy.com">
-     <img align="center" width="36px" src="https://static.vecteezy.com/system/resources/previews/010/928/241/original/neon-purple-square-banner-neon-square-png.png"></a><span> Tecnologias <i>- em estudo </i> </span>
+<a href="Developer vector created by - www.veectzy.com">
+<img align="center" width="36px" src="https://static.vecteezy.com/system/resources/previews/010/928/241/original/neon-purple-square-banner-neon-square-png.png"></a><span> Tecnologias <i>- em estudo </i> </span>
 </h1>
+<div>
 <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-
- <br><br>
+</div>
+<br><br>
           
           
 <h1>
-    <a href="Developer vector created by - www.veectzy.com">
-     <img align="center" width="36px" src="https://static.vecteezy.com/system/resources/previews/010/928/241/original/neon-purple-square-banner-neon-square-png.png"></a><span> GitHub Stats</span>
+ <a href="Developer vector created by - www.veectzy.com">
+<img align="center" width="36px" src="https://static.vecteezy.com/system/resources/previews/010/928/241/original/neon-purple-square-banner-neon-square-png.png"></a><span> GitHub Stats</span>
 </h1>
 
 <div>
-<a href="https://github.com/Albino-Marques">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivircruz&theme=transparent&bg_color=white&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=light"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivircruz&theme=transparent&bg_color=white&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=light&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivircruz&theme=transparent&bg_color=white&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=light&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/> 
 </div>
 
