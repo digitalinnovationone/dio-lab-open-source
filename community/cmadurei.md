@@ -34,8 +34,6 @@ cmadurei">
   <a href="https://www.linkedin.com/in/carlosdavilamadureira%C3%A3o-43b01b244/">
     <img src="https://icongr.am/devicon/linkedin-original.svg?size=60&color=currentColor" />
   </a>
- <a href = "mailto:cmadurei@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
 </div>
 
 
