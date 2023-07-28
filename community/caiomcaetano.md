@@ -1,8 +1,9 @@
 
 <div>
     <h1>Caio Caetano. 😉👍 </h1>
-    <p> Sou engenheiro eletricista e engenheiro de produção por formação acadêmica. Há aproximadamente 4 anos entrei na área de Business Intelligence e venho atuando desde então. Possuo conhecimentos em Power BI, SQL, Qlik Sense e Python (pandas, numpy, matplotlib).
-    Apesar de já realizar alguns scripts com Python para mineração e tratamento de dados, estou em nível iniciante pois só conheço as principais biliotecas para análise de dados.
+    <p> Sou Engenheiro Eletricista e Engenheiro de Produção por formação acadêmica, atualmente cursando MBA em Ciência de Dados. Há aproximadamente 4 anos entrei na área de Business Intelligence e venho atuando desde então.  <br />
+    Possuo conhecimentos em Power BI, SQL, Qlik Sense e Python (pandas, numpy, matplotlib).
+    Apesar de já realizar alguns scripts com Python para mineração e tratamento de dados, estou em nível iniciante pois só conheço as principais biliotecas para análise de dados. <br />
     Meu objetivo profissional é evoluir para Cientista de Dados, focando em análises preditivas e prescritivas, e para isto me inscrevi no Bootcamp da Dio como uma das fontes de aprendizado nesta jornada.
     </p>
 </div>
