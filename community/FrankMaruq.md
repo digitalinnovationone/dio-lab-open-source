@@ -1,24 +1,3 @@
-<style>
-  body {
-    background-color: #0D1117;
-    color: #8FBCBB;
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-  }
-  h1, h2, h3 {
-    color: #64FFDA;
-  }
-  h1 {
-    text-align: center;
-    border: 2px solid #64FFDA;
-    padding: 10px;
-    border-radius: 10px;
-    margin-bottom: 20px;
-  }
-  hr {
-    border-color: #64FFDA;
-  }
-</style>
 
 <h1>
     <a href="https://www.dio.me/">
@@ -62,6 +41,8 @@
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=FrankMaruq&repo=dio-lab-open-source&theme=nord&show_icons=true&custom_title=Repo%20DIO%20Git%20GitHub&border_radius=10&hide_border=false&bg_color=0D1117&text_color=8FBCBB&icon_color=64FFDA&title_color=64FFDA&border_color=64FFDA&border_width=2)](https://github.com/elidianaandrade/dio-lab-open-source)
 
 [![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&theme=nord&show_icons=true&custom_title=Repo%20DIO%20Roadmaps&border_radius=10&hide_border=false&bg_color=0D1117&text_color=8FBCBB&icon_color=64FFDA&title_color=64FFDA&border_color=64FFDA&border_width=2)](https://github.com/digitalinnovationone/roadmaps)
+
+
 
 
 
