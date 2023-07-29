@@ -22,7 +22,7 @@ Sou formada na área de Ti desde 2006, e estou em processo de transição de car
 
 
 ## 🛠 Habilidades
-Excel, SQl, MySQl, Power bi, Python, Cloud...
+Excel, SQL, MySQL, Power bi, Python, Cloud...
 
 
 ##  GitHub Stat
