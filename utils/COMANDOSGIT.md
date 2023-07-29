@@ -1,5 +1,5 @@
 <div>
-  <img src="https://fomotis.github.io/Demonstration/pics/Octocat.png" width="150px"/)
+  <img src="https://fomotis.github.io/Demonstration/pics/Octocat.png" width="150px"/>
 </div>
 
 # Git's Commands
