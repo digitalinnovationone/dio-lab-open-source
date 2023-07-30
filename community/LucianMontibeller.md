@@ -20,6 +20,7 @@ Oi, meu nome é Lucian Rafael Montibeller, e estou entusiasmado em embarcar ness
 <summary>  <img align="top" alt="Coding" width="50" src="https://github.com/LucianMontibeller/curso_udemy_Python-3-completo/blob/main/imagens/JavaScript-Logo.png">
 Curso udemy JavaScript - EM ANDAMENTO</summary> 
 <br>
+<img align="right" alt="Coding" width="200" src="https://github.com/LucianMontibeller/curso_udemy_Python-3-completo/blob/main/imagens/JavaScript-Logo.png">
 Seção 02: JavaScript Básico para iniciantes
 
 
@@ -104,4 +105,3 @@ Meu objetivo é continuar aprendendo, me aprimorando e contribuindo para projeto
 Agradeço por visitar meu Currículo Codificado! Espero que você encontre aqui um pouco da minha paixão pela programação e entusiasmo para encarar os desafios que surgirem pelo caminho. Vamos juntos trilhar essa jornada emocionante rumo ao sucesso no universo da tecnologia!
 
 Happy coding! 😄🚀
-
