@@ -1,6 +1,6 @@
 
 # Sobre mim
-Olá! Me chamo Iasmim Azevedo, tenho 26 anos e atualmente estou cursando CST em Ciências de Dados. Sou formada em Arquitetura e Urbanismo, mas sempre fui fascinada pelo mundo da tecnologia, então, após três anos atuando na área de construção, decidi mudar de carreira e agora estou caminhando para ser uma Cientista de Dados.
+Me chamo Iasmim Azevedo, tenho 26 anos e atualmente estou cursando CST em Ciências de Dados. Sou formada em Arquitetura e Urbanismo, mas sempre fui fascinada pelo mundo da tecnologia, então, após três anos atuando na área de construção, decidi mudar de carreira e agora estou caminhando para ser uma Cientista de Dados.
 
 ## 📲 Conecte-se comigo!
 
