@@ -7,4 +7,4 @@ Bom dia! Meu nome é Guilherme curso eletrônica em uma etec e estou
 - c++ 
 - java ☕
 - python  🐍
-## e essa é minha contribuição 🫶🏾
+## e essa é minha contribuição🫶🏾
