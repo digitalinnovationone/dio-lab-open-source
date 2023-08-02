@@ -25,10 +25,11 @@ Quanto a mim mesmo, gosto de jogos e músicas, com o último sendo quase omnipre
 
 ## Contato
 
-Email: aaugustofernandes@hotmail.com
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/ant%C3%B4nio-augusto-f-805478250/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/AntonioAFernandes/)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/antonioafernandes/)
+
+Você também pode entrar em contato comigo por email: aaugustofernandes@hotmail.com
 
 -------------------------------------------------------
 
@@ -58,7 +59,8 @@ As for a bit about myself, I like gaming and music, with the latter being nearly
 
 ## Contact Info
 
-Email: aaugustofernandes@hotmail.com
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/AntonioAFernandes/)
 [![DIO Profile](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/antonioafernandes/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/ant%C3%B4nio-augusto-f-805478250/)
+
+You can also contact me via email: aaugustofernandes@hotmail.com
