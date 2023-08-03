@@ -1,5 +1,5 @@
-#Olá, meu nome é Aleff, mas podem me chamar de HATTZ.
-<hr>
+# Olá, meu nome é Aleff, mas podem me chamar de HATTZ.
+
 ## Sou estudante de Ciência de Dados, estou buscando aprender mais sobre Python e analise de dados. Tenho conhecimento em desenvolvimento front-end
 
 ## Conecte-se comigo
@@ -15,5 +15,8 @@
 
 ## Status do meu personagem
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hattz10&theme=transparent&bg_color=000&border_color=0034f5&show_icons=true&icon_color=0034f5&title_color=0034f5&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hattz10&theme=transparent&bg_color=000&border_color=0034f5&show_icons=true&icon_color=0034f5&title_color=0034f5&text_color=FFF&hide_title=true&hide=stars)
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hattz10&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
+
+ 
