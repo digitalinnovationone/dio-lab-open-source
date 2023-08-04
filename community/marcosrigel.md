@@ -1,0 +1,7 @@
+
+
+# Marcos Rigel
+
+![computer-pixel-art](https://github.com/MarcosRigel/MarcosRigel/assets/63622155/1cba704f-b6f3-4a56-bd24-2db7d9cc2877)
+
+Olá, Meu nome é Marcos Rigel e estou contribuindo para este repositório, de início não tenho ideia de como vou fazer para contribuir, então decidi falar um pouco sobre minha experiência acadêmica, bom primeiro eu me considero um desenvolvedor Back-end, eu iniciei no curso de ciência da computação no ano de 2020 e estou com uma previsão para finalizar em 2024, nesse período eu já estudei todo tipo de tecnologia, porem experiência mesmo só acadêmica nenhuma comercial ainda, mas estou em busca do meu primeiro emprego na área de tecnologia, pessoalmente eu não tenho tanta preferência pra dizer qual linguagem de programação eu prefiro pra mim tanto faz eu já experimentei um pouco de tudo, sobre esse gif, essa imagem que botei achei interessante porque eu me imagino muito assim no futuro trabalhando com três monitores e sendo bem agil no desenvolvimento de softwares. Estou contribuindo para este repositorio via Bootcamp gft aws desenvolvimento java com cloud aws.
