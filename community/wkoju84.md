@@ -22,6 +22,10 @@
 
 ## Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wkoju84&theme=vue-dark&bg_color=#424281&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=#193094)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wkoju84&theme=solarized-dark&bg_color=#424281&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=#193094)
+
+## Minhas Contribuições
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wkoju84&repo=dio-lab-open-source&theme=blueberry&bg_color=#424281&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=#193094)](https://github.com/wkoju84/dio-lab-open-source)
 
 
