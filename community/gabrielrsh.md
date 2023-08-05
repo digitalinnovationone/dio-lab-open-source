@@ -1,5 +1,5 @@
 # Gabriel R. S.
-Oi! Eu sou o Gabriel. Atualmente estou no último período da faculdade de Ciências da Computação na Universidade Técnologica Federal do Paraná.
+Oi!! Eu sou o Gabriel. Atualmente estou no último período da faculdade de Ciências da Computação na Universidade Técnologica Federal do Paraná.
 
 Durante o curso na universidade tive contato com diversas áreas da computação, desde aprender lógica de programação e algoritmos básicos na linguagem C até inteligência artificial e processamento em imagens, áreas essas em que realzei um projeto para detecção facial.
 
