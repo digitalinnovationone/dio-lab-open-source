@@ -1,1 +1,0 @@
-# Augusto Schettini
