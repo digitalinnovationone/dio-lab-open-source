@@ -4,7 +4,7 @@
 Tenho 26 anos, estou fazendo graduação em Sistemas de Informação e montando o meu currículo como dev Back End
 
 ## Minhas mídias
-[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/matheus-zanon-boechat-493b27175)
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusZanon)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/matheus-zanon-boechat-493b27175)
 
