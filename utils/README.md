@@ -59,3 +59,4 @@
 
 ## Links Úteis
 - [Guia sobre Markdown do GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+- [Contribuindo em um projeto open source](https://web.dio.me/project/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github)
