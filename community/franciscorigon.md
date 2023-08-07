@@ -21,9 +21,7 @@ Olá! Me chamo Francisco Rigon, um entusiasta da tecnologia em transição de ca
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) Cloud: A nuvem é o presente e o futuro da computação. Estou me aprofundando nas soluções de nuvem para entender como criar, implantar e gerenciar aplicativos de forma escalável e flexível.
 
-🌱 Sempre Aprendendo: Estou comprometido em aprender constantemente e aprimorar minhas habilidades tecnológicas. Estou aberto a colaborações, projetos empolgantes e oportunidades de aprendizado.
-
-
+🌱 Sempre Aprendendo: Estou comprometido em aprender constantemente e aprimorar minhas habilidades tecnológicas. Estou aberto a colaborações, projetos e oportunidades de aprendizado.
 
 ## + Habilidades
 
