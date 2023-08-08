@@ -90,6 +90,24 @@ Aprender o básico sobre contribuição no GitHub.
 12. Envie as alterações para o seu repositório remoto `git push origin feat/community/seunomedeusuario`; 
 13. Crie um **Pull Request**.
 
+
+### Convenção de Commits:
+
+| Tipo de Commit | Descrição                                                | Exemplo de Mensagem                          |
+|----------------|----------------------------------------------------------|----------------------------------------------|
+| Feature        | Introdução de novas funcionalidades no projeto.          | "Feature: Adicionar busca de usuários"       |
+| Bugfix         | Correção de bugs, problemas ou erros no código.          | "Bugfix: Corrigir erro de validação"         |
+| Refactor       | Reestruturação do código para melhorar sua qualidade.    | "Refactor: Simplificar lógica de cálculo"    |
+| Docs           | Atualização ou criação de documentação.                  | "Docs: Atualizar README com instruções"      |
+| Style          | Mudanças de formatação, estilos de código.               | "Style: Padronizar indentação"               |
+| Test           | Adição ou modificação de testes.                         | "Test: Adicionar teste para autenticação"    |
+| Chore          | Tarefas de manutenção, como configurações ou scripts.    | "Chore: Atualizar dependências"              |
+| Perf           | Melhorias de desempenho.                                 | "Perf: Otimizar consulta de banco de dados"  |
+| Revert         | Reverter uma ou mais mudanças anteriores.                | "Revert: Reverter alterações instáveis"      |
+| WIP            | Trabalho em andamento, não pronto para implantação.      | "WIP: Implementar nova funcionalidade"       |
+
+<br>
+
 ### Instructions (EN/US)
 1. **Fork** the repository;
 2. Clone locally: `git clone https://github.com/SEUUSERNAME/dio-lab-open-source.git`;
