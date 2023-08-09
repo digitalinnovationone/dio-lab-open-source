@@ -12,6 +12,8 @@ Em 2023 decidi retomar meus estudos para concluir o curso técnico e, em 2024, a
 
 Estou motivado a utilizar os conhecimentos adquiridos em plataformas como __Alura__, __Hashtag Treinamentos__ e o __Programa Nova Geração__ oferecido pelo Instituto Caldeira, para contribuir efetivamente com a equipe e o sucesso do projeto.
 
+Para acessar minha __lista de cursos e projetos__ no Notion, clicar [neste link](https://marlonprado04.notion.site/Saber-sem-limites-ea72a7ee9b0046339f94432a0ba665f5?pvs=4).
+
 ### Entre em contato comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/marlonprado04/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/marlon_prado04/) [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:marlonprado04@gmail.com)
