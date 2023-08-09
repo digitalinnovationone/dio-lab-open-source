@@ -1,8 +1,8 @@
 # Ismael
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin&logoColor)](https://www.linkedin.com/in/SEUUSERNAME/)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/SEUUSERNAME/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin&logoColor)](https://www.linkedin.com/in/ismael-santos-3a3a6b60//)
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/MaelRs/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/in/SEUUSERNAME/)
 [![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/in/SEUUSERNAME/)
 ## Habilidades
