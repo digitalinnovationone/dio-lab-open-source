@@ -1,6 +1,6 @@
 # Jonathas Cavalcante   
 Prazer, Meu nome é Jonathas, sou formado em Gestão da T.I e trabalho como Analista de Sistemas, já tive contato também com diversas tecnologias e trabalhei como desenvolvedor web freelancer por alguns anos. Atualmente estou me especializando em JavaScript para o lado Backend, embora tenho interesse também em React e Angular.
-[!etc(https://64.media.tumblr.com/3e8f0a1b0c8a85c70b519d6b04e7a178/tumblr_o6p13dquqr1qkpz2go1_540.gifv)]
+![etc](https://64.media.tumblr.com/3e8f0a1b0c8a85c70b519d6b04e7a178/tumblr_o6p13dquqr1qkpz2go1_540.gifv)
 
 ## Conecte- se Comigo
 
