@@ -102,6 +102,7 @@ Aprender o básico sobre contribuição no GitHub.
 8. Create a commit and add the message indicating the addition of your profile `git commit -m"feat: add yourusername profile"`;
 9. Push changes to your remote repository `git push origin feat/community/yourusername`; 
 10. Create a **Pull Request**.
+11. Boa sorte
 
 ### Utilitários
 
@@ -127,6 +128,6 @@ Aprender o básico sobre contribuição no GitHub.
 <a href="https://github.com/elidianaandrade/dio-lab-open-source/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=elidianaandrade/dio-lab-open-source"/>
 </a>
-##Don
+
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
