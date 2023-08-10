@@ -46,10 +46,6 @@
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.                                              |
 | `test`         | Adiciona ou modifica testes no projeto.                                                                   |
 
-##### Exemplo commit
-
-`feat: adicionado novo arquivo`
-
 
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
