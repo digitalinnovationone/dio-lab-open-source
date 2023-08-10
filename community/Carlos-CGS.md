@@ -10,7 +10,7 @@
 
 ## Projetos Desenvolvidos em Linguagem C#
 
-✅ [API - CSharp - C#](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/API-CSharp) | Criação de uma API para conectar o código C# de console a um banco de dados externo SQL-Server, utilizando verbos HTTP, criando Controllers, Entities, e Migrations. Obs.:Projeto desolvolvido enquanto acompanhava o BootCamp da DIO..
+✅ [API - CSharp - C#](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/API-CSharp) | Criação de uma API para conectar o código C# de console a um banco de dados externo SQL-Server, utilizando verbos HTTP, criando Controllers, Entities e Migrations. Obs.:Projeto desolvolvido enquanto acompanhava o BootCamp da DIO.
 
 ✅ [Calculadora Simples com Interpolação de Variáveis](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/Calculadora%20Simples%20com%20Interpola%C3%A7%C3%A3o%20Variavel) | Código C# que cria uma classe calculadora, e em no arquivo (program), instancia a classe, passa os parêmetros para que a classe calculadora execute os cálculos e faça a interpolação das variáveis.
 
