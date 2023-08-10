@@ -7,7 +7,7 @@ O meu nome é David Augusto Monteiro dos Reis e sou um desenvolvedor FullStack, 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lightblue?style=for-the-badge)](https://www.linkedin.com/in/eudavidreis-dev/) [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge)](https://www.facebook.com/eudavidreis.dev)
 [![Site](https://img.shields.io/badge/Site-green?style=for-the-badge)](https://www.mrdev.tec.br)
-## Habilides
+## Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-purple?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-darkgreen?style=for-the-badge&logo=)
@@ -18,6 +18,7 @@ O meu nome é David Augusto Monteiro dos Reis e sou um desenvolvedor FullStack, 
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EuDavidReis-ODev&theme=transparent&bg_color=FFF&border_color=666&show_icons=true&icon_color=30A3DC&title_color=F33&text_color=000)
+<br>
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EuDavidReis-ODev&bg_color=FFF&border_color=666&title_color=F33&text_color=000)
 
 ## Principais Projetos
