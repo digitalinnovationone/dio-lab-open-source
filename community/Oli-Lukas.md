@@ -1,5 +1,5 @@
 # Lucas Gomes
-Olá! Meu nome é Lucas, atualmente sou aluno de Análise e Desenvolvimento de Sistemas no IFPE - Campus Recife. Sou autodidata e tenho muito interesse na área de Desenvolvimento de Software. Gosto de aprender sobre as melhores práticas de tecnologia e programação.
+Olá! Meu nome é Lucas, atualmente sou de TI. Sou autodidata e tenho muito interesse na área de Desenvolvimento de Software.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/lucas_g_oliveira1998?tab=skills)
@@ -15,5 +15,5 @@ Olá! Meu nome é Lucas, atualmente sou aluno de Análise e Desenvolvimento de S
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oli-Lukas&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Oli-Lukas&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
