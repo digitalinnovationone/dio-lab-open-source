@@ -35,20 +35,35 @@
 9. Envie as alterações para o seu repositório remoto `git push origin feat/community/seunomedeusuario`; 
 10. Crie um **Pull Request**.
 
-## Convenção de Commits
+## Aqui estão os elementos principais da convenção de commits:
 
-| Tipo de Commit | Descrição                                                                                                 |
-| -------------- | --------------------------------------------------------------------------------------------------------- |
-| `feat`         | Adiciona uma nova funcionalidade ao projeto.                                                              |
-| `fix`          | Corrige um bug ou problema no projeto.                                                                    |
-| `docs`         | Altera a documentação do projeto. Ex.: README, comentários no código.                                     |
-| `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.                                              |
-| `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.                                              |
-| `test`         | Adiciona ou modifica testes no projeto.                                                                   |
+Tipo (Type): Indica a natureza da mudança. Pode ser um dos seguintes valores (ou outros que o projeto defina):
 
-##### Exemplo commit
+feat: Nova funcionalidade
+fix: Correção de bug
+docs: Alterações na documentação
+style: Mudanças de formatação ou estilo de código
+refactor: Refatoração do código
+test: Adição ou modificação de testes
+chore: Tarefas de manutenção, como ajustes no ambiente de desenvolvimento
+Escopo (Scope): Opcionalmente, pode indicar a parte específica do código que foi alterada (por exemplo, um módulo, um componente, etc.).
 
-`feat: adicionado novo arquivo`
+Descrição (Description): Uma breve descrição da mudança em uma única linha, começando com letra minúscula e sem ponto final.
+
+Corpo da Mensagem (Body): Detalhamento adicional da mudança. Pode incluir informações sobre a motivação da alteração, contextos relevantes e outros detalhes importantes.
+
+Rodapé (Footer): Informações adicionais, como referências a problemas relacionados (por exemplo, "Closes #123").
+
+#### Exemplo de commit usando a convenção de commits:
+
+less
+Copy code
+feat(login): adicionar suporte a autenticação com OAuth
+
+Adiciona suporte a autenticação de usuários usando OAuth 2.0.
+Isso permite que os usuários façam login usando suas contas do Google, Facebook, etc.
+
+Closes #42                                                    |
 
 
 ## Referências
