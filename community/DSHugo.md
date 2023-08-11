@@ -1,5 +1,5 @@
 # Hugo Fante
-Estudante de engenharia que busca ainda mais conhecimento.
+Estudante de engenharia que busca ainda mais conhecimento. :-D
 
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/hugofante/)
