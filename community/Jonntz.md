@@ -6,7 +6,6 @@
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=PPP)](https://www.github.com/Jonntz/)
 
 :brain: Formado em estudante de Análise e Desenvolvimento de Sistemas <br>
-:computer: Desenvolvedor frontend na Império Inteligência <br>
 :house: São Paulo, SP - Brasil <br>
 :desktop_computer: Técnico em informática
 
