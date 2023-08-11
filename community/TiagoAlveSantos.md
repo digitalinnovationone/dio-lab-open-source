@@ -1,4 +1,4 @@
-u# Tiago Alves dos Santos
+# Tiago Alves dos Santos
 
 Formado em Ciência da Computação pela Universidade Estadual do Centro-Oeste em 2021.
 
