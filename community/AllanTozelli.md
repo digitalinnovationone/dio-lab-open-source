@@ -20,9 +20,9 @@ Apaixonado pela área de desenvolvimento, buscando sempre novos conhecimentos e 
 ### Soft Skills
 ![Leal](https://img.shields.io/badge/Leal-red)
 ![Pro-ativo](https://img.shields.io/badge/Pro_Ativo-blue)
-![Adaptavel](https://img.shields.io/badge/Adaptável-blue)
-![Organizado](https://img.shields.io/badge/Organizado-red)
-![Comprometido](https://img.shields.io/badge/Comprometido-blue)
+![Adaptavel](https://img.shields.io/badge/Adaptável-red)
+![Organizado](https://img.shields.io/badge/Organizado-blue)
+![Comprometido](https://img.shields.io/badge/Comprometido-red)
 
 ### Social Media
 
