@@ -20,7 +20,7 @@ Atualmente cursando ADS (Análise e Desenvolvimento de Sistemas) pela universida
 
 Marque na sua Agenda! Ligue o alerta! Soa as sirenes! - **que a revolução está a caminho.**
 
-`print = ("Do you believe that you can walk on water?")`
+`print ("Do you believe that you can walk on water?")`
 
 My [GitHub](https://github.com/ermesprog)  my friends. Sinta-se a vontade, mas não reparem na bagunça: 
 
