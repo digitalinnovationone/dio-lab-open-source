@@ -20,9 +20,9 @@ height="50"/>
 
 </div>
 
-<h2 style="color: #fff"> 👩‍🎓 Formação </h2>
+<h2> 👩‍🎓 Formação </h2>
  
-<p> <font color="white"> Bacharelado em Nutrição (Universidade Federal de Pernambuco) - 2022 <p>
+<p> Bacharelado em Nutrição (Universidade Federal de Pernambuco) - 2022 <p>
 
 <h2> 🚀 Cursos e Bootcamps em andamento </h2>
 <p> Bootcamp Potência Tech powered by iFood | Ciência de Dados Com Python (DIO) - 09/2023
