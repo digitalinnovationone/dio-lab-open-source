@@ -16,6 +16,6 @@ Atualmente estou aprofundando meus estudos em Java e SQL, mas sempre pensando qu
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rodriguesedson&repo=dio-primeiro-desafio-github&bg_color=000&border_color=FFFFFF&show_icons=true&icon_color=30A3DC&title_color=FFFFFF&text_color=FFF)](https://github.com/rodriguesedson/dio-primeiro-desafio-github)
 
 ### Connect with me
-[![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/rodrigues-edson/)](https://www.linkedin.com/in/rodriguesedson/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/rodrigues-edson/)](https://www.linkedin.com/in/rodrigues-edson//)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&link=https://github.com/rodriguesedson)](https://github.com/rodriguesedson)
 
