@@ -1,137 +1,139 @@
-# Git Commands
+[![Leia em Português](https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7%20Portugu%C3%AAs-F0FFFF.svg)](COMANDOSGIT.md)
+[![Leia em Inglês](https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8%20English-gray.svg)](GITCOMMANDS.md)
 
-This document provides an overview of essential Git commands.
+# Comandos do Git
 
-😁 Feel free to contribute and enhance this guide!
+Este documento fornece uma visão geral dos comandos essenciais do Git.
 
-## Table of Contents
-- [⚙️ Setting Up Git](#setting-up-git)
-- [📚 Basic Commands](#basic-commands)
-    - [Repository Operations](#repository-operations)
-    - [Remote Connections](#remote-connections)
-    - [Commit Operations](#commit-operations)
-- [📈 Intermediate Git Commands](#intermediate-git-commands)
-    - [Branching and Merging](#branching-and-merging)
-    - [Stashing Changes](#stashing-changes)
-    - [Rewriting History](#rewriting-history)
-    - [Remote Repositories](#remote-repositories)
-    - [Inspecting Changes](#inspecting-changes)
-- [🧠 Advanced Git Commands](#advanced-git-commands)
-    - [Refs and the Reflog](#refs-and-the-reflog)
-    - [Bisecting](#bisecting)
-    - [Filter-branch](#filter-branch)
-    - [Submodules](#submodules)
-    - [Worktrees](#worktrees)
-    - [Advanced Rebase](#advanced-rebase)
-    - [Cleanup](#cleanup)
-    - [Cherry-picking](#cherry-picking)
-    - [Advanced Merge](#advanced-merge)
+😁 Sinta-se à vontade para contribuir e melhorar este guia!
 
-️️
-<a id="setting-up-git"></a>
-## ⚙ Setting Up Git
+## Índice
+- [⚙️ Configurando o Git](#configurando-o-git)
+- [📚 Comandos Básicos](#comandos-basicos)
+  - [Operações de Repositório](#operacoes-de-repositorio)
+  - [Conexões Remotas](#conexoes-remotas)
+  - [Operações de Commit](#operacoes-de-commit)
+- [📈 Comandos Intermediários do Git](#comandos-intermediarios-do-git)
+  - [Criação de Branches e Merging](#criacao-de-branches-e-merging)
+  - [Stashing Changes](#stashing-changes)
+  - [Reescrevendo o Histórico](#reescrevendo-o-historico)
+  - [Repositórios Remotos](#repositorios-remotos)
+  - [Inspecionando Mudanças](#inspecionando-mudancas)
+- [🧠 Comandos Avançados do Git](#comandos-avancados-do-git)
+  - [Refs e Reflog](#refs-e-reflog)
+  - [Bisecting](#bisecting)
+  - [Filter-branch](#filter-branch)
+  - [Submódulos](#submodulos)
+  - [Worktrees](#worktrees)
+  - [Rebase Avançado](#rebase-avancado)
+  - [Limpeza](#limpeza)
+  - [Cherry-picking](#cherry-picking)
+  - [Merge Avançado](#merge-avancado)
 
-- **Configuring your email**:
+<a id="configurando-o-git"></a>
+## ⚙️ Configurando o Git
+
+- **Configurando seu e-mail**:
   ```bash
-  $ git config user.email [your_mail_here]
+  $ git config user.email [seu_email_aqui]
   ```
 
-- **Configuring your username**:
+- **Configurando seu nome de usuário**:
   ```bash
-  $ git config user.name [your_user_here]
+  $ git config user.name [seu_usuario_aqui]
   ```
 
-If you need to specify the scope for your configuration, use the tags below:
+Se você precisar especificar o escopo para sua configuração, use as tags abaixo:
 
-- **Local scope** (specific to the current repository):
+- **Escopo local** (específico para o repositório atual):
   ```bash
-  $ git config --local user.email [your_mail_here]
+  $ git config --local user.email [seu_email_aqui]
   ```
 
-- **Global scope** (applies to all repositories on your system):
+- **Escopo global** (aplica-se a todos os repositórios em seu sistema):
   ```bash
-  $ git config --global user.email [your_mail_here]
+  $ git config --global user.email [seu_email_aqui]
   ```
 
-- **System scope** (applies system-wide, affecting all users):
+- **Escopo do sistema** (aplica-se a todo o sistema, afetando todos os usuários):
   ```bash
-  $ git config --system user.email [your_mail_here]
+  $ git config --system user.email [seu_email_aqui]
   ```
-<a id="basic-commands"></a>
-## 📚 Basic Commands
 
-### Repository Operations
+<a id="comandos-basicos"></a>
+## 📚 Comandos Básicos
 
-- **Initializing a new local repository**:
+### Operações de Repositório
+
+- **Inicializando um novo repositório local**:
   ```bash
   $ git init
   ```
 
-- **Cloning an existing remote repository**:
+- **Clonando um repositório remoto existente**:
   ```bash
-  $ git clone [url_remote_origin]
+  $ git clone [url_origem_remota]
   ```
 
-- **Cloning a specific branch**:
+- **Clonando um branch específico**:
   ```bash
-  $ git clone --branch [branch_name] [url_remote_origin]
+  $ git clone --branch [nome_do_branch] [url_origem_remota]
   ```
 
-- **Cloning into a specified directory**:
+- **Clonando para um diretório especificado**:
   ```bash
-  $ git clone [url_remote_origin] [dir_name]
+  $ git clone [url_origem_remota] [nome_do_diretorio]
   ```
+### Conexões Remotas
 
-### Remote Connections
-
-- **Listing connected remote repositories**:
+- **Listando repositórios remotos conectados**:
   ```bash
   $ git remote
   ```
 
-- **Adding a new remote connection**:
+- **Adicionando uma nova conexão remota**:
   ```bash
-  $ git remote add [remote_name] [url_to_remote]
+  $ git remote add [nome_remoto] [url_para_remoto]
   ```
 
-- **Removing an existing remote connection**:
+- **Removendo uma conexão remota existente**:
   ```bash
-  $ git remote rm [remote_name]
+  $ git remote rm [nome_remoto]
   ```
 
-- **Renaming a remote connection**:
+- **Renomeando uma conexão remota**:
   ```bash
-  $ git remote rename [remote_old_name] [remote_new_name]
+  $ git remote rename [nome_antigo_remoto] [nome_novo_remoto]
   ```
 
-### Commit Operations
+### Operações de Commit
 
-- **Staging all changes for commit**:
+- **Preparando todas as mudanças para commit**:
   ```bash
   $ git add --all
   ```
-  or
+  ou
   ```bash
   $ git add -a
   ```
-  or simply
+  ou simplesmente
   ```bash
   $ git add .
   ```
 
-- **Committing staged changes with a message**:
+- **Commitando mudanças preparadas com uma mensagem**:
   ```bash
-  $ git commit -m "your message here"
+  $ git commit -m "sua mensagem aqui"
   ```
 
-- **Staging and committing all changes in one step**:
+- **Preparando e commitando todas as mudanças em uma etapa**:
   ```bash
-  $ git commit -a -m "your message here"
+  $ git commit -a -m "sua mensagem aqui"
   ```
 
-- **Modifying the most recent commit message**:
+- **Modificando a mensagem do commit mais recente**:
   ```bash
-  $ git commit --amend -m "new message here"
+  $ git commit --amend -m "nova mensagem aqui"
   ```
 
 <a id="intermediate-git-commands"></a>
