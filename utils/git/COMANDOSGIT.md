@@ -20,7 +20,7 @@ Este documento fornece uma visão geral dos comandos essenciais do Git.
   - [Repositórios Remotos](#repositorios-remotos)
   - [Inspecionando Mudanças](#inspecionando-mudancas)
 - [🧠 Comandos Avançados do Git](#comandos-avancados-do-git)
-  - [Refs e Reflog](#refs-e-reflog)
+  - [Refs e Reflog](#refs-e-o-reflog)
   - [Bisecting](#bisecting)
   - [Filter-branch](#filter-branch)
   - [Submódulos](#submodulos)
@@ -365,62 +365,62 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   ```
   Exibe o histórico de commits em um formato conciso com branches e tags, facilitando o entendimento do histórico do repositório.
 
-<a id="advanced-git-commands"></a>
-## 🧠 Advanced Git Commands
+<a id="comandos-avancados-do-git"></a>
+## 🧠 Comandos Avançados do Git
 
-### Refs and the Reflog
+### Refs e o Reflog
 
-- **Viewing the reflog**:
+- **Visualizar o reflog**:
   ```bash
   $ git reflog
   ```
-  Shows a log of where your HEAD and branch references have been. This can be used to recover lost commits or branches.
+  Mostra um registro de onde seu HEAD e as referências de branch estiveram. Pode ser usado para recuperar commits ou branches perdidos.
 
-- **Reapply a lost commit:**:
+- **Reaplicar um commit perdido**:
   ```bash
-  $ git cherry-pick [commit_hash]
+  $ git cherry-pick [hash_do_commit]
   ```
-  This can be used after consulting the reflog to apply a commit that was lost (due to reset, rebase, etc.)
+  Este comando pode ser usado após consultar o reflog para aplicar um commit que foi perdido (devido a reset, rebase, etc.)
 
-- **Recover a state after a hard reset**:
+- **Recuperar um estado após um hard reset**:
   ```bash
   $ git reset 'HEAD@{1}'
   ```
-This command lets you go back to the previous state before the hard reset.
+  Este comando permite voltar ao estado anterior antes do hard reset.
 
 ### Bisecting
 
-- **Start the bisect process**:
+- **Iniciar o processo de bisect**:
   ```bash
   $ git bisect start
   ```
 
-- **Mark a commit as good**:
+- **Marcar um commit como bom**:
   ```bash
   $ git bisect good
   ```
 
-- **Mark a commit as bad**:
+- **Marcar um commit como ruim**:
   ```bash
   $ git bisect bad
   ```
 
-- **End the bisect process**:
+- **Encerrar o processo de bisect**:
   ```bash
   $ git bisect reset
   ```
 
-- **Using bisect to find a bad commit**:
+- **Usando bisect para encontrar um commit problemático**:
   ```bash
   $ git bisect start
   $ git bisect bad
-  $ git bisect good [last_known_good_commit_hash]
+  $ git bisect good [hash_ultimo_commit_bom_conhecido]
   ```
-  Git will then check out a commit halfway between the last known good commit and the end of your branch. Test the commit, then tell Git whether it's good or bad. Git will continue narrowing down until it identifies the exact commit that introduced an issue.
+  O Git verificará um commit no meio entre o último commit bom conhecido e o final de sua branch. Teste o commit, depois informe ao Git se ele é bom ou ruim. O Git continuará refinando até identificar o commit exato que introduziu um problema.
 
 ### Filter-branch
 
-- **Replacing all email addresses in history**:
+- **Substituindo todos os endereços de email no histórico**:
   ```bash
   $ git filter-branch --commit-filter 'if [ "$GIT_AUTHOR_EMAIL" = "old_email@example.com" ]; then
        export GIT_AUTHOR_EMAIL=new_email@example.com;
@@ -428,16 +428,16 @@ This command lets you go back to the previous state before the hard reset.
      fi;
      git commit-tree "$@"'
   ```
-  ⚠️ **Warning**: This command rewrites the history to completely replace email addresses throughout the repository. Proceed with extreme caution!
+  ⚠️ **Aviso**: Este comando reescreve o histórico para substituir completamente os endereços de email em todo o repositório. Proceda com extrema cautela!
 
 ####
 ####
 
-- **Removing a file from the entire Git history**:
+- **Removendo um arquivo de todo o histórico do Git**:
   ```bash
-  $ git filter-branch --force --index-filter "git rm --cached --ignore-unmatch path_to_file" --prune-empty --tag-name-filter cat -- --all
+  $ git filter-branch --force --index-filter "git rm --cached --ignore-unmatch caminho_para_o_arquivo" --prune-empty --tag-name-filter cat -- --all
   ```
-  ⚠️ **Warning**: This command rewrites the history to completely remove a file from the repository. Proceed with extreme caution!
+  ⚠️ **Aviso**: Este comando reescreve o histórico para remover completamente um arquivo do repositório. Proceda com extrema cautela!
 
 ####
 ####
