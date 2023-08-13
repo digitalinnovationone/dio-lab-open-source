@@ -238,27 +238,28 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
 ####
 ####
 
-### Rewriting History
+<a id="reescrevendo-o-historico"></a>
+### Reescrevendo o Histórico
 
-- **Rebasing your branch**:
+- **Rebase de sua branch**:
   ```bash
-  $ git rebase [base_branch]
+  $ git rebase [branch_base]
   ```
-Reapplies your branch's commits onto the base branch. Useful for ensuring a linear history.
+  Reaplica os commits de sua branch sobre a branch base. Útil para garantir um histórico linear.
 
 ####
 ####
 
-- **Interactive rebasing**:
+- **Rebase interativo**:
   ```bash
-  $ git rebase -i [base_commit]
+  $ git rebase -i [commit_base]
   ```
-  Allows you to edit commits in the process.
+  Permite editar commits no processo.
 
 ####
 ####
 
-- **Continue rebasing after resolving conflicts**:
+- **Continuar o rebase após resolver conflitos**:
   ```bash
   $ git rebase --continue
   ```
@@ -266,7 +267,7 @@ Reapplies your branch's commits onto the base branch. Useful for ensuring a line
 ####
 ####
 
-- **Abort the current rebase**:
+- **Abortar o rebase atual**:
   ```bash
   $ git rebase --abort
   ```
@@ -274,58 +275,59 @@ Reapplies your branch's commits onto the base branch. Useful for ensuring a line
 ####
 ####
 
-- **Amending the latest commit (without changing commit message)
+- **Alterar o último commit (sem mudar a mensagem do commit)**:
   ```bash
   $ git commit --amend --no-edit
   ```
-  Allows you to add new changes to the previous commit without changing its commit message.
+  Permite adicionar novas mudanças ao commit anterior sem alterar sua mensagem.
 
 ####
 ####
 
-### Remote Repositories
+<a id="repositorios-remotos"></a>
+### Repositórios Remotos
 
-- **Fetching changes from remote without merging**:
+- **Buscar alterações do remoto sem merge**:
   ```bash
-  $ git fetch [remote_name]
+  $ git fetch [nome_remoto]
   ```
-  This command retrieves updates from a remote repository but doesn't merge these changes with your local branch. It's useful to see updates before deciding whether you want to integrate them.
+  Este comando recupera atualizações de um repositório remoto, mas não faz o merge dessas alterações com sua branch local. É útil para ver atualizações antes de decidir se deseja integrá-las.
 
 ####
 ####
 
-- **Pulling changes from a remote repository**:
+- **Puxar alterações de um repositório remoto**:
   ```bash
-  $ git pull [remote_name] [branch_name]
+  $ git pull [nome_remoto] [nome_branch]
   ```
-  This command fetches and automatically tries to merge changes from the specified remote branch with your current local branch.
+  Este comando busca e tenta automaticamente fazer o merge das alterações da branch remota especificada com sua branch local atual.
 
 ####
 ####
 
-- **Pushing a branch to remote**:
+- **Enviando uma branch para o remoto**:
   ```bash
-  $ git push [remote_name] [branch_name]
+  $ git push [nome_remoto] [nome_branch]
   ```
-  Pushes your local changes to the remote repository. This updates the remote branch with your recent commits.
+  Envia suas alterações locais para o repositório remoto. Isso atualiza a branch remota com seus commits recentes.
 
 ####
 ####
 
-- **Configurando uma conexão de rastreamento entre um branch local e um branch remoto / Setting up a tracking connection between a local and remote branch**:
+- **Configurando uma conexão de rastreamento entre uma branch local e uma branch remota**:
   ```bash
-  $ git branch --u [remote_name]/[branch_name]
+  $ git branch --u [nome_remoto]/[nome_branch]
   ```
-  Establishes a tracking connection between the local branch and the specified remote branch. This is handy as it allows `git pull` and `git push` to automatically know which remote branch to pull from or push to.
+  Estabelece uma conexão de rastreamento entre a branch local e a branch remota especificada. Isso é útil porque permite que `git pull` e `git push` saibam automaticamente de qual branch remota puxar ou para qual enviar.
 
 ####
 ####
 
-- **Pulling changes and rebasing (instead of merging)**:
+- **Puxar alterações e fazer rebase (em vez de merge)**:
   ```bash
   $ git pull --rebase
   ```
-  Instead of merging commits, this command reapplies your local commits on top of the fetched changes. It helps to maintain a clean, linear commit history.
+  Em vez de fazer o merge dos commits, este comando reaplica seus commits locais sobre as alterações buscadas. Ajuda a manter um histórico de commits limpo e linear.
 
 ####
 ####
