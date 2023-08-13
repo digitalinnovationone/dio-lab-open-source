@@ -15,7 +15,7 @@ Este documento fornece uma visão geral dos comandos essenciais do Git.
   - [Operações de Commit](#operacoes-de-commit)
 - [📈 Comandos Intermediários do Git](#comandos-intermediarios-do-git)
   - [Criação de Branches e Merging](#criacao-de-branches-e-merging)
-  - [Stashes (Guardando Mudanças Temporariamente)](#stashing)
+  - [Stashes (Guardando Mudanças Temporariamente)](#stashes)
   - [Reescrevendo o Histórico](#reescrevendo-o-historico)
   - [Repositórios Remotos](#repositorios-remotos)
   - [Inspecionando Mudanças](#inspecionando-mudancas)
@@ -167,72 +167,73 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   $ git branch -d [nome_do_branch]
   ```
 
-### Stashing Changes
+<a id="stashes"></a>
+### Stashes (Guardando Mudanças Temporariamente)
 
-- **Stashing current changes**:
+- **Criando um stash das mudanças atuais**:
   ```bash
   $ git stash
   ```
-  Temporarily saves changes that are not yet committed.
+  Salva temporariamente mudanças que ainda não foram commitadas.
 
 ####
 ####
 
-- **Stashing current changes with a message**:
+- **Criando um stash das mudanças atuais com uma mensagem**:
   ```bash
-  $ git stash save "Your message here"
+  $ git stash save "Sua mensagem aqui"
   ```
-  Temporarily saves changes that are not yet committed with a descriptive message.
+  Salva temporariamente mudanças que ainda não foram commitadas com uma mensagem descritiva.
 
 ####
 ####
 
-- **Listing all stashed changes**:
+- **Listando todos os stashes**:
   ```bash
   $ git stash list
   ```
-  Shows a list of all the stashed changes.
+  Mostra uma lista de todos os stashes criados.
 
 ####
 ####
 
-- **Applying a specific stash**:
+- **Aplicando um stash específico**:
   ```bash
   $ git stash apply stash@{n}
   ```
-  Restores the stashed changes from a specific stash, where `n` is the stash number (e.g., `stash@{0}`, `stash@{1}`).
+  Restaura as mudanças de um stash específico, onde `n` é o número do stash (por exemplo, `stash@{0}`, `stash@{1}`).
 
 ####
 ####
 
-- **Applying most recent stash**:
+- **Aplicando o stash mais recente**:
   ```bash
   $ git stash apply
   ```
 
-- **Dropping a stash**:
+- **Descartando um stash**:
   ```bash
   $ git stash drop
   ```
-  Removes the latest stash.
+  Remove o stash mais recente.
 
 ####
 ####
 
-- **Dropping a specific stash**:
+- **Descartando um stash específico**:
   ```bash
   $ git stash drop stash@{n}
   ```
-  Removes a specific stash based on the number `n`.
+  Remove um stash específico baseado no número `n`.
 
 ####
 ####
 
-- **Applying and dropping the latest stash**:
+- **Aplicando e descartando o stash mais recente**:
   ```bash
   $ git stash pop
   ```
-  Applies the latest stash and then removes it from the stash list.
+  Aplica o stash mais recente e, em seguida, o remove da lista de stashes.
 
 ####
 ####
