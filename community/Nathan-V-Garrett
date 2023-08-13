@@ -1,0 +1,40 @@
+
+<div>
+    <h1>Olá! 👋 </h1>
+    <h2>Bem vindo ao meu Perfil ?) </h2>
+    <p>Eu sou o Nathan Vasconcelos Garrett
+    </p>
+    <p>Entrei no mundo da programação, cursando Desenvolvimento de Sistemas, na qual fez eu me apaixonar totalmente pela área.
+As primeiras experiências que tive com programação foi na criação de páginas WEB, e sistemas .NET com C#.
+A experiência mais marcante que tive nesse curso de (DS) foi ficar responsável pela criação de um Aplicativo de cupons em JAVA , na qual conversava com um E-Commerce desenvolvido pelo meu grupo.
+Consequentemente tendo contato com o desenvolvimento do E-Commerce, tendo um certo conhecimento das linguagens de programação PHP e JavaScript e linguagens de marcação como , CSS e HTML. 
+Ajudando tanto no front-end quanto no back-end.
+Atualmente sou estudante do Instituto PROA com foco no desenvolvimento Java, para a certificação de Desenvolvedor Full Stack Web JAVA.
+    </p>
+</div>
+<div>
+    <h2>Conecte-se comigo</h2>
+   <a href="https://www.linkedin.com/in/nathan-vasconcelos-garrett-b78653287/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:contatonatgarrett@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+<br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/nathan-vasconcelos-garrett-b78653287/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=83Rafa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=83Rafa&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+<div style="display: inline_block"><br>
+    <h2>Tecnologias</h2>
+  <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="-AWS" height="30" width="30" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png">
+  <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+<br>
+<br>
+
+## Minhas Contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=83Rafa&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](thhps://github.com/83Rafa/dio-lab-open-source)
+
+
