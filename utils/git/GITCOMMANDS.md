@@ -29,7 +29,7 @@ This document provides an overview of essential Git commands.
 
 ️️
 <a id="setting-up-git"></a>
-## ⚙ Setting Up Git
+## ⚙️ Setting Up Git
 
 - **Configuring your email**:
   ```bash
