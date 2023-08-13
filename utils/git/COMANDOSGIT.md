@@ -332,37 +332,38 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
 ####
 ####
 
-### Inspecting Changes
+<a id=inspecionando-mudancas></a>
+### Inspecionando Mudanças
 
-- **View commit history**:
+- **Visualizar histórico de commits**:
   ```bash
   $ git log
   ```
 
-- **Viewing the diff for the staged changes**:
+- **Visualizar o diff para as mudanças staged**:
   ```bash
   $ git diff --staged
   ```
-  Displays the difference between the staged changes and the latest commit.
+  Mostra a diferença entre as mudanças staged e o último commit.
 
-- **View difference between the current branch and another branch**:
+- **Ver a diferença entre a branch atual e outra branch**:
   ```bash
-  $ git diff [other_branch_name]
+  $ git diff [nome_outra_branch]
   ```
 
-- **Viewing the log in a graphical interface**:
+- **Visualizar o log em uma interface gráfica**:
   ```bash
   $ gitk
   ```
-  Opens a graphical interface to navigate and inspect the commit history (Availability of `gitk` may vary based on installation and OS).
+  Abre uma interface gráfica para navegar e inspecionar o histórico de commits (A disponibilidade de `gitk` pode variar com base na instalação e no sistema operacional).
 
 ####
 
-- **Logging in a pretty format with one line per commit**:
+- **Exibindo log em um formato bonito com uma linha por commit**:
   ```bash
   $ git log --oneline --graph --all --decorate
   ```
-  Displays the commit history in a concise format with branches and tags, making it easier to understand the repository's history.
+  Exibe o histórico de commits em um formato conciso com branches e tags, facilitando o entendimento do histórico do repositório.
 
 <a id="advanced-git-commands"></a>
 ## 🧠 Advanced Git Commands
