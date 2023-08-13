@@ -15,7 +15,7 @@ Este documento fornece uma visão geral dos comandos essenciais do Git.
   - [Operações de Commit](#operacoes-de-commit)
 - [📈 Comandos Intermediários do Git](#comandos-intermediarios-do-git)
   - [Criação de Branches e Merging](#criacao-de-branches-e-merging)
-  - [Stashing Changes](#stashing-changes)
+  - [Stashes (Guardando Mudanças Temporariamente)](#stashing)
   - [Reescrevendo o Histórico](#reescrevendo-o-historico)
   - [Repositórios Remotos](#repositorios-remotos)
   - [Inspecionando Mudanças](#inspecionando-mudancas)
@@ -136,34 +136,35 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   $ git commit --amend -m "nova mensagem aqui"
   ```
 
-<a id="intermediate-git-commands"></a>
-## 📈 Intermediate Git Commands
+<a id="comandos-intermediarios-do-git"></a>
+## 📈 Comandos Intermediários do Git
 
-### Branching and Merging
+<a id="criacao-de-branches-e-merging"></a>
+### Criação de Branches e Merging
 
-- **Listing all local branches in the current repository**:
+- **Listando todos os branches locais no repositório atual**:
   ```bash
   $ git branch
   ```
 
-- **Switching to a branch**:
+- **Mudando para um branch**:
   ```bash
-  $ git checkout [branch_name]
+  $ git checkout [nome_do_branch]
   ```
 
-- **Creating and switching to a new branch**:
+- **Criando e mudando para um novo branch**:
   ```bash
-  $ git checkout -b [branch_name]
+  $ git checkout -b [nome_do_branch]
   ```
 
-- **Merging a branch into the active branch**:
+- **Fazer merge de um branch no branch ativo**:
   ```bash
-  $ git merge [branch_name]
+  $ git merge [nome_do_branch]
   ```
 
-- **Deleting a branch**:
+- **Deletando um branch**:
   ```bash
-  $ git branch -d [branch_name]
+  $ git branch -d [nome_do_branch]
   ```
 
 ### Stashing Changes
