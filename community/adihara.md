@@ -3,10 +3,10 @@
  </div>
 <br />
 
-# Olá Pessoal  ![Logo Estrela](https://icons.iconarchive.com/icons/psdblast/flat-christmas/48/star-icon.png)
+# Olá Pessoal![Logo Estrela](https://icons.iconarchive.com/icons/psdblast/flat-christmas/48/star-icon.png)
 
 Me chamo _Adhara_. Sou biomédica de formação e atuo como analista de dados.
-Estou desenvolvendo minhas habilidades em linguagens de programação como Python e estou muito feliz em participar do **desafio "Contribuindo em um Projeto Open Source no GitHub" do Bootcamp Potência Tech powered by iFood | Ciências de Dados com Python - 2023.**
+Estou desenvolvendo minhas habilidades em linguagens de programação como Python e estou muito feliz em participar do desafio **"Contribuindo em um Projeto Open Source no GitHub" do Bootcamp Potência Tech powered by iFood | Ciências de Dados com Python - 2023.**
 
 
 ## 🔗 Conecte-se Comigo
