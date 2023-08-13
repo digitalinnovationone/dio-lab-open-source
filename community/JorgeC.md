@@ -1,4 +1,4 @@
-#Jorge C.
+# Jorge C.
 
 Olá, essa é minha atividade DIO sobre como contribuir com um projeto Open Source no GitHub.
 
@@ -18,29 +18,5 @@ Sou aluno de graduação Senac ADS e bastante curioso, entusiasta de tecnologia 
 ![NOTION](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)&nbsp;
 
-## :bar_chart: Github Stats :octocat:
-
-  
-
-<div  align="center"  style="display: inline_block">
-
-<a  href="https://github.com/JorgeChiozzini">
-
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=walterowisk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=walterowisk&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-  
-
-<div  align="center"  style="display: inline_block">
-
-<a  href="https://git.io/streak-stats">
-
-<img  height="220em"  src="https://github-readme-streak-stats.herokuapp.com?user=walterowisk&theme=tokyonight"/>
-
-</div>
-
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JorgeChiozzini&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JorgeChiozzini&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
