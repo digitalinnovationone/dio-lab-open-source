@@ -63,6 +63,7 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
 <a id="comandos-basicos"></a>
 ## 📚 Comandos Básicos
 
+<a id="operacoes-de-repositorio"></a>
 ### Operações de Repositório
 
 - **Inicializando um novo repositório local**:
@@ -106,6 +107,7 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   $ git remote rename [nome_antigo_remoto] [nome_novo_remoto]
   ```
 
+<a id="operacoes-de-commit"></a>
 ### Operações de Commit
 
 - **Preparando todas as mudanças para commit**:
