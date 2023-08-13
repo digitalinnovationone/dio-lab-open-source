@@ -442,123 +442,125 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
 ####
 ####
 
-### Submodules
+<a id="submodulos"></a>
+### Submódulos
 
-- **Adding a submodule**:
+- **Adicionando um submódulo**:
   ```bash
-  $ git submodule add [repository_url] [path_to_place_submodule]
+  $ git submodule add [url_do_repositório] [caminho_para_colocar_o_submodulo]
   ```
-  Adds another repository as a submodule in your current repo. This allows you to include and track another project within your own project.
+  Adiciona outro repositório como um submódulo no seu repositório atual. Isso permite que você inclua e monitore outro projeto dentro do seu próprio projeto.
 
 ####
 ####
 
-- **Updating all submodules**:
+- **Atualizando todos os submódulos**:
   ```bash
   $ git submodule update --recursive --remote
   ```
 
 ### Worktrees
 
-- **Creating a new worktree**:
+- **Criando um novo worktree**:
   ```bash
-  $ git worktree add [path] [branch]
+  $ git worktree add [caminho] [branch]
   ```
-  This allows you to check out multiple branches simultaneously in different directories.
+  Isso permite que você faça checkout em múltiplos branches simultaneamente em diferentes diretórios.
 
 ####
 ####
 
-### Advanced Rebase
+<a id="rebase-avancado"></a>
+### Rebase Avançado
 
-- **Starting an Interactive Rebase**:
+- **Iniciando um Rebase Interativo**:
   ```bash
-  $ git rebase -i [base_branch_name]
+  $ git rebase -i [nome_da_branch_base]
   ```
 
-- **Squashing the last *n* commits into a single one**:
+- **Juntando os últimos *n* commits em um único**:
   ```bash
   $ git rebase -i HEAD~[n]
   ```
-  In the text editor that pops up, replace "pick" with "squash" or "s" for the commits you want to squash into the previous one (the one above them).
+  No editor de texto que aparece, substitua "pick" por "squash" ou "s" para os commits que você deseja juntar ao anterior (o que está acima deles).
 
 ####
 ####
 
-### Cleanup
+### Limpeza
 
-- **Cleaning untracked files**:
+- **Limpando arquivos não rastreados**:
   ```bash
   $ git clean -f
   ```
-  ⚠️ **Warning**: Permanently deletes untracked files from the working directory. Always double-check before executing.
+  ⚠️ **Aviso**: Exclui permanentemente os arquivos não rastreados do diretório de trabalho. Sempre verifique antes de executar.
 
 ####
 
-- **Cleaning Untracked Files and Directories**:
+- **Limpando Arquivos e Diretórios não Rastreados**:
   ```bash
   $ git clean -f -d
   ```
-  ⚠️ **Warning**: Permanently removes untracked files and directories. Check carefully before executing.
+  ⚠️ **Aviso**: Remove permanentemente arquivos e diretórios não rastreados. Verifique cuidadosamente antes de executar.
 
 ####
 
-- **Removing remote branches that no longer exist**:
+- **Removendo branches remotas que não existem mais**:
   ```bash
   $ git fetch -p
   ```
 
-- **Cleaning up local branches that have been merged**:
+- **Limpando branches locais que foram mescladas**:
   ```bash
   $ git branch --merged | xargs git branch -d
   ```
-  ⚠️ **Warning**: Ensure you no longer need the branches before removing them.
+  ⚠️ **Aviso**: Certifique-se de que você não precisa mais das branches antes de removê-las.
 
 ####
 
 ### Cherry-picking
 
-- **Applying changes from specific commits**:
+- **Aplicando mudanças de commits específicos**:
   ```bash
-  $ git cherry-pick [commit_hash1] [commit_hash2]
+  $ git cherry-pick [hash_do_commit1] [hash_do_commit2]
   ```
 
-- **Aborting cherry-pick**:
+- **Abortando cherry-pick**:
   ```bash
   $ git cherry-pick --abort
   ```
-  ⚠️ **Warning**: Aborting the operation will revert any changes applied during the cherry-pick.
+  ⚠️ **Aviso**: Abortar a operação reverterá quaisquer mudanças aplicadas durante o cherry-pick.
 
 ####
 
+<a id="merge-avancado"></a>
+### Merge Avançado
 
-### Advanced Merge
-
-- **Merging without an automatic commit**:
+- **Mesclando sem um commit automático**:
   ```bash
-  $ git merge [branch_name] --no-commit
+  $ git merge [nome_da_branch] --no-commit
   ```
 
-- **Merging and squashing all commits**:
+- **Mesclando e juntando todos os commits**:
   ```bash
-  $ git merge --squash [branch_name]
+  $ git merge --squash [nome_da_branch]
   ```
 
-  This takes all the commits from another branch and squashes them into a single commit on the current branch.
+  Isso pega todos os commits de outra branch e os junta em um único commit na branch atual.
 
 ####
 
-- **Previewing merge conflicts before merging**:
+- **Visualizando conflitos de merge antes de mesclar**:
   ```bash
   $ git diff --name-only --diff-filter=U
   ```
 
-- **Aborting a merge operation**:
+- **Abortando uma operação de merge**:
   ```bash
   $ git merge --abort
   ```
-  ⚠️ **Warning**: Aborting the merge will revert any changes made during the merge operation.
+  ⚠️ **Aviso**: Abortar o merge reverterá quaisquer mudanças feitas durante a operação de merge.
 
 ###
 
-#### 😄 We hope that this guide has been helpful for you. If you have any feedback or would like to contribute with more information, please make a pull request or open an issue!
+#### 😄 Esperamos que este guia tenha sido útil para você. Se você tiver algum feedback ou quiser contribuir com mais informações, por favor, faça um pull request ou abra uma issue!
