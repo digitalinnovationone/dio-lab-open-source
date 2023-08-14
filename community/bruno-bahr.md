@@ -1,4 +1,3 @@
-
 # Bruno Bahr Renaldin
 
 Graduado em Análise e Desenvolvimento de Sistemas em transição de carreira. Professor de inglês apaixonado por tecnologia pronto para atuar na área de desenvolvimento usando Java+Spring Boot e/ou Python+Django.
