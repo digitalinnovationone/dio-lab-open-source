@@ -1,6 +1,6 @@
 ##Luiz Fernado de Moura Brabosa
 
-Sou JavaLove , estou amando programação quero me capacita o maximo possive em java onde vou iniciar uma Pós Graduação em Java, atualmente faço os bootcamps da dio, devSuperio, Potencia tche da ADA , todos voltados para back End em Java.
+Sou JavaLove , estou amando programação quero me capacita o maximo possive em java, estou cursando uma Pós Graduação em Java previsão de conclusão para Dezembro de 2023, atualmente faço também os bootcamps da dio, devSuperio, Potencia tche da ADA , todos voltados para back End em Java.
 
 ## Conecte-se comigo
 
