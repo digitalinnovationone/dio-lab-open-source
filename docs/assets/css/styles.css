@@ -225,6 +225,7 @@ main, section {
 }
 
 #searchButton:hover {
+    transition: 0.3s;
     color: var(--white);
 }
 
