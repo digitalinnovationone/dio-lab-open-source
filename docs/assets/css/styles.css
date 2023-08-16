@@ -137,6 +137,7 @@ header div {
 }
 
 .menu-social__link:hover {
+    transition: 0.2s;
     color: var(--secondary-color);
 }
 
@@ -166,13 +167,11 @@ header nav {
 }
 
 .menu__link {
-   
     font-size: .95rem;
     color: var(--black);
 }
 
 .menu__link:hover {
-    
     border-bottom: 2px solid var(--primary-color) ;
     color: var(--primary-color);
 }
