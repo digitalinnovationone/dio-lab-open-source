@@ -86,6 +86,15 @@ Aprender o básico sobre contribuição no GitHub.
 8. Crie um commit e adicione a mensagem indicando a adição do seu perfil `git commit -m"feat: add seunomedeusuario profile"`;
 9. Envie as alterações para o seu repositório remoto `git push origin feat/community/seunomedeusuario`; 
 10. Crie um **Pull Request**.
+11. Aguarde a revisão e feedback da comunidade.
+    
+    > Após criar o Pull Request no passo 10, é importante aguardar a revisão e o feedback da comunidade. Isso pode envolver discussões 
+      sobre as mudanças propostas, sugestões de melhorias ou correções, e outros comentários relevantes. Este processo de revisão é uma 
+      parte fundamental da colaboração em projetos de código aberto, pois ajuda a garantir a qualidade do código e a contribuição 
+      positiva para o projeto.
+
+    > Certifique-se de acompanhar as notificações do Pull Request e estar disposto a discutir e fazer ajustes de acordo com o feedback 
+      recebido. Isso demonstra um compromisso genuíno com a colaboração e o aprimoramento do projeto open source.
 
 ### Instructions (EN/US)
 1. **Fork** the repository;
@@ -102,6 +111,15 @@ Aprender o básico sobre contribuição no GitHub.
 8. Create a commit and add the message indicating the addition of your profile `git commit -m"feat: add yourusername profile"`;
 9. Push changes to your remote repository `git push origin feat/community/yourusername`; 
 10. Create a **Pull Request**.
+11. Await Community Review and Feedback.
+    
+    > After creating the Pull Request in step 10, it is important to wait for the community's review and feedback. This may involve 
+      discussions about the proposed changes, suggestions for improvements or corrections, and other relevant comments. This review 
+      process is a fundamental part of collaboration in open-source projects, as it helps ensure the quality of the code and positive 
+      contribution to the project.
+
+    > Be sure to monitor the Pull Request notifications and be willing to discuss and make adjustments according to the received 
+      feedback. This demonstrates a genuine commitment to collaboration and the enhancement of the open-source project.
 
 ### Utilitários
 
