@@ -33,3 +33,10 @@ e quando precisar commitar algo, é só digitar
 git c "commit" -m "corpo do commit"
 ```
 ![GIF Interessante](https://media.tenor.com/NR-Kr20l4d4AAAAi/anime-hi.gif)
+
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
+## Repos em destaque
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nerdstarcode&repo=Blockly-Vite-React&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/nerdstarcode/Blockly-Vite-React)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nerdstarcode&repo=ignite-lab-nodejs&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/nerdstarcode/ignite-lab-nodejs)
