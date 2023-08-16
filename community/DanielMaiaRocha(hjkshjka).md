@@ -9,7 +9,7 @@
 <div>
       <h2>Entre em contato comigo!</h2>
       <a href="https://www.linkedin.com/in/daniel-maia-rocha-1530a2237" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-      <a href="https://discord.gg" target="83Rfl#3843">Cronos#5240<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+      <a href="https://discord.gg" target="83Rfl#3843"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
       <a href = "contatodanielmrocha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <br>
@@ -28,8 +28,5 @@
 <br>
 <br>
 
-###Projetos
-[![Repo hjkshjka Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=hjkshjka=sistema&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/hjkshjka/Sistema)
-[![Repo hjkshjk Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=hjkshjka=SITE&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/hjkshjka/SITE/tree/main/SITE)
 
   
