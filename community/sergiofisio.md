@@ -79,7 +79,7 @@
  
  <h3 align="left">Support:</h3>
 
-<p><a href="https://www.buymeacoffee.com/sergiobastos"> <img src='https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black' alt='buy me a coffee' height="30"</p>
+<p><a href="https://www.buymeacoffee.com/sergiobastos"> <img src='https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black' alt='buy me a coffee' height="30"/></p>
 
 <a id='fr'></a>
 ## <div align='center'> Français <img align="center" src="https://raw.githubusercontent.com/lipis/flag-icons/854d041d81ffa0577da209ca7bf9431d1ccd290b/flags/1x1/fr.svg" width=30/> [Retour](#inicio) </div>
