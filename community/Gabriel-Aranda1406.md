@@ -2,7 +2,7 @@
 
 ## Apresentação
  *Hello World*  
- Me chamo Gabriel Aranda, sou um apaixonado pela tecnologia e estou começando a dar meus primeiros passos na programação. Estou começando pelo mundo do Front-End e espero conseguir desenvolver minhas habilidades cada dia mais e mais.
+ Me chamo Gabriel Aranda, sou um fã pela tecnologia e estou começando a dar meus primeiros passos na programação. Estou começando pelo mundo do Front-End e espero conseguir desenvolver minhas habilidades cada dia mais e mais.
 
 ## Conecte-se comigo
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](biel.aranda234@gmail.com)
