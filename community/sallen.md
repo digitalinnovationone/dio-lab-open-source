@@ -6,7 +6,7 @@
     </p>
 </div>
 <div>
-    <h2>Redes Sociais</h2>
+    <h2>Redes Sociais</h2> 
    <a href="[https://www.linkedin.com/in/sallenkon-s-almeida-70077915b/]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:sallenkon54@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
@@ -18,15 +18,14 @@
 </div>
 <div style="display: inline_block"><br>
     <h2>Tecnologias estudadas no momento</h2>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Sallen-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
 </div>
-<br>
-<br>
+
+
+
 
     
 
-## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=83Rafa&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SallenSan/dio-lab-open-source-s)
 
 
