@@ -1,6 +1,8 @@
 <div class="container">
+
   <div class="card">
         <div class="card-wrapper">
+        <p>Marcelo Wilborn</p>
         <a href="https://github.com/marcelo-wilborn">
             <div class="github">
                     <img class="githubImg" src="https://img.freepik.com/icones-gratis/github_318-566791.jpg?t=st=1692150035~exp=1692150635~hmac=36682407c69a89cdf5e3ccdac0b4ac7a53af551adafefb066a825d903d68ccf7" alt="github img">
@@ -124,7 +126,14 @@ body {
     position: relative;
 }
 
-.github img, .linkedin img {
+.github img{
+    width: 40px;
+    height: auto;
+    margin-right: 10px;
+    opacity: 0;
+    transition: opacity 0.5s, filter 0.3s;
+}
+.linkedin img {
     width: 50px;
     height: auto;
     margin-right: 10px;
