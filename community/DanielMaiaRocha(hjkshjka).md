@@ -15,8 +15,8 @@
 <br>
 <div align="center">
  <a href="https://github.com/hjkshjka">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=83Rafa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=83Rafa&layout=compact&langs_count=7&theme=tokyonight"/>  
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hjkshjka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjshjka&layout=compact&langs_count=7&theme=tokyonight"/>  
 </div>
 <div style="display: inline_block"><br>
      <h2>Tecnologias</h2>
@@ -29,9 +29,7 @@
 <br>
 
 ###Projetos
-[![Repo hjkshjka Git GitHub https://img.shields.io/github/license/:user/:repo
-](https://github.com/hjkshjka/Sistema)
-[![Repo hjkshjk Git GitHub https://img.shields.io/github/license/:user/:repo
-](https://github.com/hjkshjka/SITE/tree/main/SITE)
+[![Repo hjkshjka Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=hjkshjka=SITE&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/hjkshjka/Sistema)
+[![Repo hjkshjk Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=hjkshjka=sistemasource&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/hjkshjka/SITE/tree/main/SITE)
 
   
