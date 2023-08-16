@@ -29,7 +29,7 @@
 <br>
 
 ###Projetos
-[![Repo hjkshjka Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=hjkshjka=SITE&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/hjkshjka/Sistema)
-[![Repo hjkshjk Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=hjkshjka=sistemasource&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/hjkshjka/SITE/tree/main/SITE)
+[![Repo hjkshjka Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=hjkshjka=sistema&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/hjkshjka/Sistema)
+[![Repo hjkshjk Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=hjkshjka=SITE&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/hjkshjka/SITE/tree/main/SITE)
 
   
