@@ -15,8 +15,7 @@
 <br>
 <div align="center">
  <a href="https://github.com/hjkshjka">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hjkshjka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjshjka&layout=compact&langs_count=7&theme=tokyonight"/>  
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hjkshjka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>  
 </div>
 <div style="display: inline_block"><br>
      <h2>Tecnologias</h2>
