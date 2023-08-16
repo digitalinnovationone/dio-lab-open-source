@@ -71,7 +71,19 @@
       <td>
         <code>[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/SEUUSERNAME/)</code>
       </td>
-    </tr>
+        <tr>
+      <td>
+        <img align="center" alt="Gmail" src=
+        "https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+        >
+      </td>
+      <td>
+        <code>
+         [![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
+        </code>
+      </td>
+     
+
   </tbody>
   <tfoot></tfoot>
 </table>
