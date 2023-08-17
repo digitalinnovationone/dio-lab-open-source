@@ -34,3 +34,4 @@
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thiaguinhobyra&repo=dio-lab-open-source&bg_color=000&border_color=000&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)](https://github.com/thiaguinhobyra/dio-lab-open-source)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiaguinhobyra&theme=transparent&bg_color=000&border_color=000&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=fff)
