@@ -1,10 +1,11 @@
 # Hi there 👋
 
 ## Olá, meu nome é Ana Santos.
+# Pernambuco é o meu País!
 
 ##
 
-Sejam bem-vindos(as) ao meu perfil no Github!!
+Sejam bem-vindos(as) ao meu perfil no Github!!!
 
 
 
