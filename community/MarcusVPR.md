@@ -40,6 +40,11 @@ Apaixonado por Tecnologia. Namastê.
       <th>Título</th>
       <th>Link</th>
     </tr>
+    <tr align="left">
+      <td>2023-08-17</td>
+      <td>Ajuste Profile</td>
+      <td>N/A</td>
+    </tr>
   </thead>
   <tbody align="left">
   </tbody>
