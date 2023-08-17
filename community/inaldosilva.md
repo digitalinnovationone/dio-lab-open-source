@@ -3,7 +3,11 @@
 Helo World!
 
 Sou o Inaldo, de Recife-PE.
-Trabalhei 11 anos no setor de Vendas com atendimento ao cliente, e Trago uma vasta bagagem e conhecimento nessa área. O desenvolvimento de software sempre me fascinou. Ficava imaginando todo o que seria possível fazer através de comandos em código. Consumia tudo que havia disponível em minha cidade sobre programação e softwares, mesmo sem ter recurso algum, ou seuquer um computador, o qual so conquistei aos 23 anos quando tive minha Carteira de trabalho assinada pela primeira vez. Resolvi então aceitar o chamado que a tecnologia me fez durante toda a vida, e me tornar um Desenvolvedor.
+
+Trabalhei 11 anos no setor de Vendas com atendimento ao cliente, e Trago uma vasta bagagem e conhecimento nessa área.
+
+ O desenvolvimento de software sempre me fascinou. Ficava imaginando tudo o que seria possível fazer através de linhas de códigos e algorítmos. Consumia tudo que havia disponível em minha cidade sobre programação e softwares,o que não era lá grande coisa visto que não dispunha de dinheiro para adquirir literaturas, mas segui estudando mesmo sem ter recurso algum, ou sequer um computador, o qual só conquistei aos 21 anos quando tive minha Carteira de trabalho assinada pela primeira vez. Resolvi então aceitar o chamado que a tecnologia me fez durante toda a vida, e me tornar um Desenvolvedor.
+
 Sou Graduado em Data Science pela UNINASSAU, e atualmente, cursando Análise e desenvolvimento de sistemas na Universidade Estácio.
 Adotei a linguagem Java como minha base.
 
@@ -42,7 +46,7 @@ Adotei a linguagem Java como minha base.
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=InaldoSilva&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
-## Meus Projetos
+## Alguns dos meus Projetos 
 
 [![GitHub](https://shields.io/badge/consumindo_api_com_python-000?style=for-the-badge&logo=github&logoColor=C3002F)](https://github.com/InaldoSilva/API-using-python-and-postman)
 
