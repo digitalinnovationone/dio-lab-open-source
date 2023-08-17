@@ -27,3 +27,6 @@ Sou um Engenheiro Mobile desde Junho de 2022, trabalho com Flutter e Dart, com o
 
 ### Linguagens mais usadas
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guilhermeqmaia&layout=compact&bg_color=013&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+### Projetos
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=guilhermeqmaia&repo=firebase_chat&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/guilhermeqmaia/firebase_chat) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=guilhermeqmaia&repo=cryptos_project&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/guilhermeqmaia/cryptos_project)
