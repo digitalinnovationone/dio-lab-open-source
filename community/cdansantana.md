@@ -5,12 +5,10 @@ Interessado em quase tudo que envolva programação, desde aplicações que util
 </p>
 <h2 align="center">Links</h2>
 <p align="center">
-- [Linkedin](https://www.linkedin.com/in/carlos-daniel-santana-cruz-271639129/)
+<a target="blank" href="https://www.linkedin.com/in/carlos-daniel-santana-cruz-271639129/">Linkedin</a>
 </p>
 <h2 align="center">GitHub Stats</h2>
-<p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cdansantana&theme=transparent&bg_color=000&border_color=999&show_icons=true&icon_color=ccc&title_color=ccc&text_color=fff)
-</p>
-<p align="center">
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cdansantana&layout=compact&bg_color=000&border_color=999&title_color=ccc&text_color=FFF)
-</p>
+
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=cdansantana&theme=transparent&bg_color=000&border_color=999&show_icons=true&icon_color=ccc&title_color=ccc&text_color=fff)
+
+[Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cdansantana&layout=compact&bg_color=000&border_color=999&title_color=ccc&text_color=FFF)
