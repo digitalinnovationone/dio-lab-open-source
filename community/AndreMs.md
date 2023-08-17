@@ -1,5 +1,10 @@
 # André Mikael Siqueira 
-Oi eu sou André, sou novo ainda na programaçao mas espero dar o meu melhor com essa nova tecnologia 
+ 
+```
+window.alert('Ola meu nome é Andre sou novo na programaçao mas espero conseguir melhorar mais ainda nessa nova tecnologia') 
+
+window.alert(':D')
+```
 
 # Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
