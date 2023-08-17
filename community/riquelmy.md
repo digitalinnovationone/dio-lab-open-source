@@ -1,14 +1,16 @@
-## Hi there 👋, I am Riquelmy Oliveira!
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riquelmy-oliveira-66710722b/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riquelmyor@gmail.com)
 
+<h1 align = "center" >Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"> I'm Riquelmy Oliveira! </h1>
+<div>
 
-<h3> 👨‍💻 About Me</h3>
+###    About me 
+
 <ul>
-  <li>I'm a guy fascinated with technology and always looking to learn new things.</li>
-  <li>🎓 Computer Science Student at Centro Universitário Jorge Amado, Bahia, Brazil</li> 
+  <li>👨‍💻 I'm a guy fascinated with technology and always looking to learn new things;</li>
+  <li>🎓 Computer Science Student at Centro Universitário Jorge Amado, Bahia, Brazil;</li> 
+  <li>📝 Currently taking the Santander Full Stack Bootcamp Angular+Java;</li>
+  <li>🎨 I'm passionate about literature and arts as a whole, some of my hobbies involve games, reading, writing, and coding. </li>
 </ul>
-
+</div>
 
 
 ## 🖥️🔧 Tecnologies and Tools that I use
@@ -23,10 +25,16 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
-
-  
 </div><br/>
+
+## Connect with me
+<div>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riquelmy-oliveira-66710722b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riquelmyor@gmail.com)
+
+</div>
+
 
 ## GitHub stats
 <details>
