@@ -1,6 +1,6 @@
 <body>
 <p>
-  Olá! Me chamo Tiago, sou engenheiro de software há quase cinco anos atuei com qualidade, operações e agora como começando como backend;
+  Olá! Me chamo Tiago, sou engenheiro de software há quase cinco anos atuei com qualidade, operações e agora estou começando como backend;
 entusiasta em tecnologias diversas porém ainda não muito bom em front-end vide a estilização dos links abaixo hahahaha
 </p>
 <div align="center" text="bold">
