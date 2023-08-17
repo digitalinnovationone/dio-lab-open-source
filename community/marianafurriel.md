@@ -19,17 +19,7 @@ Cursei três períodos de Ciência da Computação na Universidade Federal do Ri
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-          
-  <!--
-  <img height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />-->
-          
+
 
           
 </div><br>
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=marianafurriel&theme=monokai&locale=pt_BR)](https://git.io/streak-stats) -->
-<!--<div>
-  <a href="https://github.com/MarianaFurriel">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarianaFurriel&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaFurriel&layout=compact&langs_count=7&theme=shades-of-purple"/>
-    </div>-->
