@@ -88,7 +88,7 @@ Aprender o básico sobre contribuição no GitHub.
 10. Crie um **Pull Request**.
 
 ### Instructions (EN/US)
-1. **Fork** the repository;
+1. **Fork** the repository; alteração aqui
 2. Clone locally: `git clone https://github.com/SEUUSERNAME/dio-lab-open-source.git`;
 3. Add upstream remote to keep your local repository up to date: `git remote add upstream https://github.com/elidianaandrade/dio-lab-open-source.git`;
     > Use the command `git pull upstream main` to download and merge changes to your local repository based on the branch `main` from this original repository you forked it from, or `git fetch upstream main` to download without merging. See more at: [Getting Started with Git and GitHub](https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
