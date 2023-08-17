@@ -173,12 +173,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="32" title="Arduino" />
     </picture>
   </div>
-  <br>
-  
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=knudo&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### :mailbox: How to reach me<br>
   [![Linkedin Badge](https://img.shields.io/badge/-afonsoambrosio-blueviolet?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afonsoambrosio/)
   [![Mail Badge](https://img.shields.io/badge/-contato@canudo.dev-blueviolet?style=flat-square&logo=microsoft-outlook)](mailto:contato@canudo.dev)
   [![Discord Badge](https://img.shields.io/badge/-%40cndo-blueviolet?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/252602251049172993)
   
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=knudo&layout=compact&bg_color=64f&border_color=30A3DC&title_color=FfF388&text_color=FF8)
