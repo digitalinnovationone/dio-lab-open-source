@@ -19,4 +19,3 @@ Olá, meu nome é **Gabriel de Araújo** e moro em Rio de Janeiro/RJ. Tenho 20 a
 
 [![GabrielDeAraujo27 GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielDeAraujo27)](https://github.com/GabrielDeAraujo27/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=GabrielDeAraujo27&theme=gotham&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun)](https://git.io/streak-stats)
-```
