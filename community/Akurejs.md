@@ -1,7 +1,7 @@
 
 # - 👋 Olá, eu sou o Italo!
 
-- Sou um novato, gosto de programar e estou aprendendo muito. Tenho bastante interesse em back-and. 
+- Sou um novato, gosto de programar e estou aprendendo muito na área. Tenho bastante interesse em back-and. 
 
 ## Conecte-se Comigo
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=0E76A8)](https://github.com/Akurejs/) 
