@@ -18,7 +18,6 @@ Atuo na área de desenvolvimento de sistemas desde do ano de 2000.
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Banco de Dados**
-
 1. Oracle
 2. SqlServer
 3. MySql
@@ -26,7 +25,6 @@ Atuo na área de desenvolvimento de sistemas desde do ano de 2000.
 
 ### 🔗 Conecte-se comigo
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor)](www.linkedin.com/in/demitrius-leandro)
-
 
 
 **## GitHub Status**
