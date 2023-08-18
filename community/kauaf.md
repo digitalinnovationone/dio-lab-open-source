@@ -9,4 +9,4 @@ Uma informação muito legal sobre mim é que eu tenho uma fixação por qualque
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ---
 Vou colocar um projeto bem simples aqui que eu havia feito uns mêses atrás.
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Kottonye/fstwrc)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kottonye&repo=fstwrc&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Kottonye/fstwrc)
