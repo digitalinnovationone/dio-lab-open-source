@@ -8,7 +8,7 @@ Hello, my name is Yuri Cardoso. I am a student of the Santander Bootcamp 2023 - 
 - 🔭 Studying Kotlin, Java and Python.
 - 📫 yuricardoso.dev@proton.me
 - ⚡ www.linkedin.com/in/yuricardosodhf/
-- 😄 He, him.
+- 😄 He,him.
                                                         
 <div>   
   <a href="https://www.instagram.com/apyuricardoso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
