@@ -2,7 +2,7 @@
 
 ## Meu nome é Paulo Henrique
 
-Sou estudante de Ciência da Computação na Universidade Federal de Lavras e entusiasta na área da tecnologia. Gosto de estar sempre me aprimorandoe e por isso resolvi participar do bootcamp da DIO.
+Sou estudante de Ciência da Computação na Universidade Federal de Lavras e entusiasta na área da tecnologia. Gosto de estar sempre me aprimorando e por isso resolvi participar do bootcamp da DIO.
 
 ## Habilidades
 
