@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1c9df4&height=120&section=header"/>
 
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&width=435&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Jorge;Sou+Bacharel+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Este+%C3%A9+meu+portf%C3%B3lio+no+GitHub)](https://git.io/typing-svg)
 
 <div align="center">
@@ -153,4 +154,7 @@ Se o seu sonho sempre foi aprender a como desenvolver aplicativos Android, este 
 
 </details>
 
+[![](https://visitcount.itsvg.in/api?id=JorgeTranin&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1c9df4&height=120&section=footer"/>
+
