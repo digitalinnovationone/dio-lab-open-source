@@ -7,4 +7,4 @@
 
 ## GitHub Stats
 
-## Minhas Contribuições
+## Minhas Contribuições.
