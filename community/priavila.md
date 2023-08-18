@@ -2,7 +2,7 @@
 
 ### Olá, meu nome é Priscylla Ávila, sou formada em Comunicação Social - Relações Públicas mas nunca atuei na área. 
 
-### Recentemente eu decidi entrar no ramo da Tecnologica para trabalhar no meio. Nunca tinha ouvido e nem parado para conhecer como funcionava esse mundo DEV mas a tecnologia sempre esteve presente na minha vida (como usuária kkkk).
+### Recentemente eu decidi entrar no ramo da Tecnologia para trabalhar no meio. Nunca tinha ouvido e nem parado para conhecer como funcionava esse mundo DEV mas a tecnologia sempre esteve presente na minha vida (como usuária kkkk).
 
 ### Então, estou eu aqui em transição de carreira para a bolha Dev e ansiosa para o meu novo futuro. 
 
