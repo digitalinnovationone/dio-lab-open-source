@@ -25,5 +25,7 @@ Tenho também o desenho e a animação como hobbies e sempre que possivel utiliz
 
 ![animação](https://derikrodrigues.com.br/images/dejair0001-0010.gif "animação")
 
-Me segue lá no Instagram  [@derik_arts](https://www.instagram.com/derik_arts/ "@derik_arts")
+Me segue aí: <br>  [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/derik_arts/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/derik-rodrigues-72a745143/)
+
+
 
