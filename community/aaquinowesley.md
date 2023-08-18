@@ -1,4 +1,4 @@
-<h1 align="center"> About me👋</h1>
+<h1 align="center"> Sobre Mim👋</h1>
 
 ![](https://komarev.com/ghpvc/?username=aaquinowesley)
 
