@@ -1,0 +1,29 @@
+# Wender Porto
+
+## Habilidades Proficionais
+
+Análise de Dados; Excel; SQL; Power B.I; Fundamentos Marketing Digital; Business intelligence; Gestão de Tráfego.
+## Habilidades Pessoais
+
+Comunicação; Empatia; Persuasão; Resolução de problemas; Relacionamento interpessoal; Ética de trabalho; Negociação; Espírito de equipe.
+
+## Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/wender-henrique-porto-50b67721a)
+[![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/whporto.porto/)
+[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/wender_porto)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/wenderhporto/)
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/wenderporto/)
+
+
+## Ensiguinas 
+[![Credly](https://images.credly.com/size/140x140/images/9a13a2d2-c007-4260-81bd-bf5d1ffb9223/image.png)](https://www.credly.com/badges/403e359d-609d-413f-90fd-8aedf118ac32)
+[![Credly](https://images.credly.com/size/140x140/images/975f4562-83b7-4652-9cd8-4490a68441be/image.png)](https://www.credly.com/badges/e1b48b08-946d-439e-86ac-dce5796b2cbc)
+
+
+## Cursos Proficionalizantes 
+[![Coursera](https://i0.wp.com/www.makeoverarena.com/wp-content/uploads/2021/03/Google-Data-Analytics-Certificate-Coursera.jpg?resize=140%2C100&ssl=1)](https://www.coursera.org/account/accomplishments/professional-cert/D5YWUNZ7BR2P)
+[![Coursera](https://media.licdn.com/dms/image/D4D22AQHRkrF7-Hhz_Q/feedshare-shrink_800/0/1692375336839?e=1695254400&v=beta&t=-2jBneC_L9zColMAtFV9cBemzfU1sx6f6laRHL8AzEQ)](https://media.licdn.com/dms/image/D4D22AQE31xi3QCqMUw/feedshare-shrink_1280/0/1692375357431?e=1695254400&v=beta&t=Qc8qU2p7pmii5WMGpGMRD5_9okDGTuNVf2FQVOFnboA)
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wenderporto&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=836FFF&hide_title=true)
