@@ -4,9 +4,10 @@
 
 ## Sobre mim
 
-Olá! Me chamo Paulo Trindade, um entusiasta da tecnologia. Sou estudante de Análise e Desenvolvimento de Sistemas na Wyden Ruy Barbosa, cursando o 3º período. Além da faculdade, faço cursos online buscando sempre mais conhecimento na área de tecnologia.
+Olá! Me chamo Paulo Trindade, um entusiasta da tecnologia, estudante de Análise e Desenvolvimento de Sistemas na Wyden Ruy Barbosa, cursando o 3º período.
+Além da faculdade, faço alguns cursos online, buscando sempre mais conhecimento na área de tecnologia.
 
-No momento, estou em transição de carreira, mas tenho contato com computadores desde os meus anos de idade, graças ao meu pai, que também é desenvolvedor. Hoje ele não está mais na área, mas sempre que pode, ele desenvolve alguns sistemas. Infelizmente, moramos distantes, mas sempre que posso, vou visitá-lo ou troco uma ideia com ele pelo WhatsApp.
+No momento, estou em transição de carreira, mas tenho contato com computadores desde os meus 5 anos de idade, graças ao meu pai, que também é desenvolvedor. Hoje ele não está mais na área, mas sempre que pode, ele desenvolve alguns sistemas. Infelizmente, moramos distantes, mas sempre que posso, vou visitá-lo ou troco uma ideia com ele pelo WhatsApp.
 
 Ah, em 2022, dei início aos meus estudos em inglês, pois é a parte mais importante do meu objetivo: aprender outra língua e trabalhar no exterior.
 
