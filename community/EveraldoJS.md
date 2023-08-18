@@ -15,3 +15,5 @@ Linguagens de Interesse:
    ![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=kotlin)
 
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+
+Habilidades:
