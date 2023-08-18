@@ -17,32 +17,19 @@
   </ul>
 </div>
 
-- 🌱 I'm currently perfecting **my skills as a developer and applying my knowledge to personal projects.**
+- 🌱 I'm currently perfecting **my skills as a developer and applying my knowledge to personal projects;**
 
-- ☁️ I've keen interest in cloud computing. So, I'm learning **AWS**
+- ☁️ I've keen interest in cloud computing. So, I'm learning **AWS;**
 
-- 💬 Ask me about **AWS, JAVA, nodejs, goLang, Software Architecture, Design Patterns**
+- 💬 Ask me about **AWS, JAVA, nodejs, goLang, Software Architecture, Design Patterns;**
 
 - 📫 Feel free to reach me out **domecoderdeveloper@gmail.com**
 
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nandadomenicali&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nandadomenicali&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nandadomenicali&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-</p>        
+<!-- <div>
+<a href="https://github.com/nandadomenicali">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandadomenicali&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandadomenicali&theme=dracula&show_icons=true&count_private=true"/>
+</div>    -->
 
 <div id="user-content-toc">
   <ul align="center">
@@ -76,4 +63,4 @@
 ----------------------------------------------------------------------
 By: [nandadomenicali](https://github.com/nandadomenicali)
 
-Last Edited on: 10/8/2023
+Last Edited on: 08/16/2023
