@@ -1,3 +1,4 @@
+
 # Geovane de Andrade Grangeiro
 
 Tenho 23 anos, sou formado em licenciatura em educação física e estou em transição de carreira. Curso atualmente Análise e Desenvolvimento de Sistemas e estou focado em backend por meio da linguagem Java 
@@ -16,4 +17,5 @@ Tenho 23 anos, sou formado em licenciatura em educação física e estou em tran
 
 ## GitHub Stats
 
-## Minhas Contribuições
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Geovane-Andrade&theme=transparent&bg_color=000&border_color=40E0D&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)
+
