@@ -3,7 +3,7 @@
 
 <div align="center"> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=30&duration=2000&pause=1000&color=ff0089&width=700&lines=Oi%2C+eu+sou+a+Annie;Desenvolvedora+Front-End;Estudante+de+Back-End%2C+Unity+e+Mobile)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=30&duration=2000&pause=1000&center=true&color=ff0089&width=700&lines=Oi%2C+eu+sou+a+Annie;Desenvolvedora+Front-End;Estudante+de+Back-End%2C+Unity+e+Mobile)](https://git.io/typing-svg) 
 
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnnieAlves&bg_color=130017&border_color=d442f5&title_color=c800ff&text_color=ff0073)
