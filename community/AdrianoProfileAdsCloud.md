@@ -18,26 +18,27 @@
 
 ## Habilidades
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>
+![HTML](https://img.shields.io/badge/JAVA-red)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JS](https://img.shields.io/badge/JavaScript-yellow)
+![PHP](https://img.shields.io/badge/ANDROID-darkblue)
+![SQL](https://img.shields.io/badge/SQL-orange)
+![SQL](https://img.shields.io/badge/APACHE-dark)
+![SQL](https://img.shields.io/badge/Azure-green)
+![SQL](https://img.shields.io/badge/Composer-orange)
+![SQL](https://img.shields.io/badge/C-Charp-pink)
+![SQL](https://img.shields.io/badge/DOCKER-yellow)
+![SQL](https://img.shields.io/badge/HTML-red)
+![SQL](https://img.shields.io/badge/Jenkins-blue)
+<br>
+![SQL](https://img.shields.io/badge/Kubernets-orange)
+![SQL](https://img.shields.io/badge/MYSQL-yellow)
+![SQL](https://img.shields.io/badge/TERRAFORM-blue)
+![SQL](https://img.shields.io/badge/Spring-red)
 
 ## Mesclando conhecimentos com novas necessidades do Mercado
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="70" height="70"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="70" height="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="70" height="70"/>
 
 #### Contatos
 
