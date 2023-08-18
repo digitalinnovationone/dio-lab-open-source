@@ -6,7 +6,7 @@ I'm Larissa, a Brazilian professional on a journey of transformation. I have a d
 ## About Me
 
 - 🇧🇷 Brazilian, with global experience and perspectives.
-- 🎓 Graduated from [Business School Name] in Mexico.
+- 🎓 Graduated from Tecmilenio in Mexico.
 - 📚 Studied Human Resources in Brazil.
 - 💡 Exploring the vast possibilities in the tech industry.
 
