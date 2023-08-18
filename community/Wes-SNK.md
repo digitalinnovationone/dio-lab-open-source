@@ -4,13 +4,14 @@
  <img alt="The Matrix Code" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSPnyBpJFUqTG2bpFYWyHY543SO0WUDj2CRw&usqp=CAU"/>
 </picture>
 
+# ***Wesley***
 ### About Me
     :shipit:
 
     <details>"Olá, me chamo Wesley :smile:
 
-        Estou atualmente estudando ADS, minha experiência na área de TI começou na adolescência com Montagem e Manutenção de Computadores, depois disso passei a trabalhar em áreas administrativas e agora quero voltar a trabalhar com TI.
-    Sou apaixonado por Teatro, sendo uma profissão que não me vejo largando."</details>
+    Estou atualmente estudando ADS, minha experiência na área de TI começou na adolescência com Montagem e Manutenção de Computadores, depois disso passei a trabalhar em áreas administrativas e agora quero voltar a trabalhar com TI.
+    Sou apaixonado por Teatro, sendo uma profissão que não me vejo deixando de fazer."</details>
 ## Redes
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9900ee?style=for-the-badge&logo=linkedin&logoColor=00000)](https://www.linkedin.com/in/wesley-marques-206b94165/)
 
@@ -36,6 +37,11 @@
     * Resiliência
     * Atenção
 
+## Idiomas
+    * Inglês (Fluente)
+    * Espanhol (Intermediário)
+    * Francês (Básico)
+
 
 ## GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Wes-SNK&theme=tokyonight&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
@@ -45,14 +51,14 @@
 ## Projetos
 
 ## Interesses
-    :video_game: *Games*
-    :performing_arts: *Teatro* :performing_arts:
-    :pill:*Matrix*
-    :mage: *Tolkien Universe* :elf:
-    :flight_arrival: *Lost, The Series*
-    :detective:Sherlock Holmes
-    :womans_hat:One  Piece
-    :punch:*Martial Arts*
+    + :video_game: *Games*
+    + :performing_arts: *Teatro* :performing_arts:
+    + :pill:*Matrix*
+    + :mage: *Tolkien Universe* :elf:
+    + :flight_arrival: *Lost, The Series*
+    + :detective:Sherlock Holmes
+    + :womans_hat:One  Piece
+    + :punch:*Martial Arts*
 
 --- 
 > ***Memento Mori***
