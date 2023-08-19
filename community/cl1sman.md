@@ -18,4 +18,4 @@ Sou este que foi fisgado pela magia que se cria com muitos zeros e uns. Encantan
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cl1sman&layout=compact&bg_color=000&border_color=30A3DC&title_color=30A3DC&text_color=FFF)
 
 ### Meus Principais Desafios de Projeto DIO
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=cl1sman&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)](https://github.com/cl1sman/dio-lab-open-source)
