@@ -10,7 +10,33 @@ Repositório desenvolvido para fins didáticos, com a disponibilização de mate
 [![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
 
 ## Objetivo
-Aprender o básico sobre contribuição no GitHub.
+**Objetivo e Importância de Aprender sobre Contribuição no GitHub**
+
+O GitHub é uma plataforma de colaboração e desenvolvimento de software que revolucionou a forma como projetos de código aberto e privados são gerenciados. Aprender sobre contribuição no GitHub se tornou essencial para qualquer pessoa interessada em programação, desenvolvimento de software ou colaboração em projetos tecnológicos. Aqui estão o objetivo e a importância desse aprendizado:
+
+**Objetivo:**
+
+O principal objetivo de aprender sobre contribuição no GitHub é capacitar os indivíduos a participarem ativamente no desenvolvimento de projetos de software, independentemente do seu nível de habilidade ou experiência. Isso envolve entender como usar o GitHub para colaborar, compartilhar, revisar e melhorar o código-fonte de projetos. Aprender sobre contribuição no GitHub também ajuda a criar um ambiente de trabalho mais colaborativo e facilita a criação de projetos de maior qualidade por meio do trabalho em equipe.
+
+**Importância:**
+
+1. **Colaboração Global:** O GitHub é uma plataforma usada por desenvolvedores de todo o mundo. Aprender a contribuir no GitHub permite que você participe de projetos internacionais e colabore com pessoas de diferentes culturas e origens.
+
+2. **Desenvolvimento Ágil:** Através do GitHub, é possível criar "pull requests" (solicitações de inclusão) que permitem que você compartilhe seu código e solicite que ele seja mesclado ao projeto principal. Isso agiliza o processo de revisão e incorporação de novos recursos ou correções.
+
+3. **Aprendizado Prático:** Contribuir para projetos reais no GitHub é uma maneira prática de aprender programação. Você pode estudar o código de outras pessoas, entender suas abordagens e receber feedback valioso sobre seu próprio código.
+
+4. **Construção de Portfólio:** Contribuições significativas para projetos de código aberto no GitHub podem ser adicionadas ao seu portfólio, destacando suas habilidades e experiência para futuros empregadores.
+
+5. **Networking:** Ao participar de projetos no GitHub, você constrói relacionamentos com outros desenvolvedores, o que pode levar a oportunidades profissionais e colaborações futuras.
+
+6. **Melhoria Contínua:** A natureza colaborativa do GitHub permite que os projetos evoluam constantemente. Contribuir para esses projetos ajuda a melhorar sua qualidade, segurança e funcionalidade ao longo do tempo.
+
+7. **Contribuição para a Comunidade:** Ao contribuir para projetos de código aberto, você está dando de volta à comunidade de desenvolvedores, ajudando a resolver problemas e aprimorar ferramentas que muitos outros também usam.
+
+8. **Desenvolvimento Pessoal:** Aprender sobre contribuição no GitHub envolve habilidades como comunicação, trabalho em equipe e resolução de conflitos, que são valiosas não apenas no desenvolvimento de software, mas em muitos aspectos da vida profissional.
+
+Em resumo, aprender sobre contribuição no GitHub vai além da escrita de código; trata-se de aprender a colaborar, compartilhar conhecimento e criar soluções inovadoras de maneira colaborativa. Com a crescente importância do desenvolvimento colaborativo no mundo da tecnologia, dominar as práticas e ferramentas do GitHub se tornou uma habilidade indispensável para desenvolvedores e profissionais de TI.
 
 ## Ferramentas
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
