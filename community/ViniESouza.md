@@ -1,5 +1,6 @@
 # ViniESouza
 Olá! Eu me chamo Vinicius e quero ser um desenvolvedor JAVA.
+Tenho grande interesse e dedicação ao campo da tecnologia, com um foco inicial na linguagem Java. Estou empenhado em aprimorar constantemente minhas habilidades nessa área e estou entusiasmado para compartilhar meu progresso e projetos no GitHub.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/vinicius-elias-de-souza-595665196)
