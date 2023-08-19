@@ -2,7 +2,7 @@
 <div>
     <h1>Olá!! Eu sou a Amanda. 👋 </h1>
     <h2>Bem vindo(a) ao meu Perfil.</h2>
-    <p> Me chamo Amanda. Sou recém formada em Engenharia de Controle e Automação. Em breve, iniciarei uma pós-graduação em Engenharia de Software. Tenho como objetivo me tornar uma engenheira de software renomada, que as pessoas lembrem do meu nome apenas ao escutar a palavra "engenharia de software". Esse é o meu objetivo e não vou desistir por mais longo e árduo que seja o caminho!
+    <p> Me chamo Amanda. Sou recém formada em Engenharia de Controle e Automação. Em breve, iniciarei uma pós-graduação em Engenharia de Software. Tenho como objetivo me tornar uma engenheira de software renomada, que as pessoas lembrem do meu nome apenas ao escutar qualquer assunto relacionado à engenharia de software. Esse é o meu objetivo e não vou desistir por mais longo e árduo que seja o caminho!
     </p>
     <p>Tenho um grande apreço por desafios e estou sempre em busca de superar obstáculos. Acredito que cada desafio representa uma oportunidade de crescimento e aprendizado. Além do meu envolvimento com programação, mantenho uma vida diversificada. Fora do mundo do código, me dedico à academia, à exploração culinária, a viagens e a trilhas ao ar livre.
     </p>
