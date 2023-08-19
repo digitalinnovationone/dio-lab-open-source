@@ -10,7 +10,8 @@
 <a href="https://www.linkedin.com/in/lucas-do-nascimento-b23010242/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=darkblue" target="_blank"></a>
 <a href="https://discord.gg/Yusudime" target="_blank"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=gray"></a>
 <a href="https://www.instagram.com/lucas.n.sousa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=darkpink"></a>
-
+<a href="mailto:yusudimelucasnascimentosousa@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=darkred" target="_blank">  
+</a>
 </div>
 </div>
 <div>
