@@ -77,7 +77,7 @@
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
       </td>
       <td>
-        <code><a href="https://wa.me/DDI+DDD+SEUNUMEROWHATAPP" alt="WhatsApp" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a></code>
+        <code><a href="https://wa.me/DDI+DDD+SEUNUMEROWHATAPP" alt="WhatsApp" target="_blank"></a></code>
       </td>
     </tr>
   </tbody>
