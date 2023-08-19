@@ -11,5 +11,9 @@ Sou formado em Gestão de Serviços em Atendimento, atualmente trabalho com anal
 
 ## Habilidades em Desenvolvimento na DIO
 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) [![Git](https://img.shields.io/badge/Git-ec63a1?style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com/doc) ![GitHub](https://img.shields.io/badge/GitHub-ec63a1?style=for-the-badge&logo=github&logoColor=fff)  
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) [![Git](https://img.shields.io/badge/Git-ec63a1?style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com/doc) ![GitHub](https://img.shields.io/badge/GitHub-ec63a1?style=for-the-badge&logo=github&logoColor=fff) 
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=leandrojales2&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) [![GitHub Streak](https://streak-stats.demolab.com/?user=leandrojales2&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
+
 
