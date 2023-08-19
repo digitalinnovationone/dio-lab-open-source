@@ -1,5 +1,9 @@
 # Wender Porto
 
+### Welcome to my profile!
+I'm a curious person, who loves technology and creative theories.
+I have a conviction strongly engraved in me that continuous learning is essential for a quality professional and social life.
+May our connections make a better future!
 
 ## Hard Skills
 
