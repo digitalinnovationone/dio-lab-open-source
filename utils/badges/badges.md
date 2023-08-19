@@ -72,6 +72,14 @@
         <code>[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/SEUUSERNAME/)</code>
       </td>
     </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+      </td>
+      <td>
+        <code><a href="https://wa.me/DDI+DDD+SEUNUMEROWHATAPP" alt="WhatsApp" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a></code>
+      </td>
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
