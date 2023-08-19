@@ -27,16 +27,13 @@
 
 <p align="left" style="">
 <a href="mailto:matheusmarthek@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Matheus-05122A?logo=gmail
-" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/Matheus-05122A?logo=gmail" alt="twitter"/>  
 </a>
 <a href="https://www.linkedin.com/in/matheus-torres-2607a11bb/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Matheus-05122A?logo=linkedin
-" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/Matheus-05122A?logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/zedanimado/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/Matheus-05122A?logo=instagram
-" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/Matheus-05122A?logo=instagram" alt="instagram"/>
 </a>
 </p>
 <br>
