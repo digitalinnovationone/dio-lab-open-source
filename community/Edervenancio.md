@@ -1,4 +1,4 @@
-## Opa! Eu sou o Eder!! 😎
+## Opa! Eu sou o Eder!! Atualmente curso ADS na Fatec Arthur de Azevedo! 😎
 
 
 <div align="center" style="display: inline_block"><br>
