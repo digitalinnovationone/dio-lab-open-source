@@ -2,7 +2,7 @@
 
 ## 👩🏽‍💻 Sobre mim
 
-Olá, me chamo Amanda, sou Designer Gráfico e estou iniciando a minha jornada em transição de carreira para tecnologia. Atualmente estou estudando Análise e Desenvolvimento de Sistemas, e também linguagens de programação.
+Olá, me chamo Amanda, sou Designer Gráfico e estou iniciando a minha jornada na transição de carreira para tecnologia. Atualmente estou estudando Análise e Desenvolvimento de Sistemas, e também linguagens de programação.
 
 ## 📲 Contatos
 [![GitHub](https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=1C1C1C)](https://github.com/amandaora)
