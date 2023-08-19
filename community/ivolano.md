@@ -52,7 +52,6 @@
 </div>
 
 ---
-
 <div align="center">
 Fabio Filho™
 </div>
