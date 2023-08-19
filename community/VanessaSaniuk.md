@@ -18,4 +18,4 @@ Python - iniciante
 
 ## Aprendizados
 
-Este foi meu primeiro projeto no GitHub, utilizei o Readme.so que para iniciantes é bem prático e fácil. Tentei criar algo do zero, sem copiar as ideias de outra pessoal pois meu intuito é aprender, mesmo que fique um aspecto mais enxuto, assim com o tempo posso ver a minha evolução.
+Este foi meu primeiro projeto no GitHub, utilizei o Readme.so que para iniciantes é bem prático e fácil. Tentei criar algo do zero, sem copiar as ideias de outra pessoa pois meu intuito é aprender, mesmo que fique um aspecto mais enxuto, assim com o tempo posso ver a minha evolução.
