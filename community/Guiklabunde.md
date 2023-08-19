@@ -8,7 +8,7 @@ Além disso, já concluí alguns cursos na plataforma Udemy (Python, ReactJS e S
 
 ☕ Sou um homem cristão, embora atualmente não esteja frequentando nenhuma igreja, tenho como um de meus objetivos ir em um culto nos EUA, e ter o privilégio de ver pessoalmente escrito: “In the name of the lord Jesus. 🙏”
 
-Tranquilo, porém ágil e honesto. Talvez seja um pouco otimista de mais, pois acredito nas pessoas e no potencial que possuem.
+Tranquilo, porém ágil. Honesto e talvez um pouco otimista de mais, pois acredito nas pessoas e no potencial que possuem.
 
 Também sou sonhador e visionário; apesar de possuir 30 anos, ainda tenho o desejo de vivenciar outras culturas e países. Por isso, busco aprimorar meu inglês diariamente, participando de chamadas internacionais via Discord.
 
