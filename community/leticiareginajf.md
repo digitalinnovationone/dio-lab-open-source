@@ -2,7 +2,7 @@
 
 ## Bem vindo ao meu perfil
 
-Me chamo Letícia Honório, surda mineira o tal famoso "uai". Sou aquela pessoa que motiva a alegria em equipe, amo conhecer as novas tecnologias. Me dedico mais estudos e conhecimentos.
+Me chamo Letícia Honório, surda mineira "uai". Sou aquela pessoa que motiva a alegria em equipe, amo conhecer as novas tecnologias. Me dedico mais estudos e conhecimentos. Me sacrifico para apoiar/aprender a comunidade surda para as melhorias tecnologias.
 
 ## Conecte-se comigo
 
