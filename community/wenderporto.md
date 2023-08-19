@@ -24,7 +24,7 @@
 
 ## Cursos Profissionalizantes 
 [![Coursera](https://i0.wp.com/www.makeoverarena.com/wp-content/uploads/2021/03/Google-Data-Analytics-Certificate-Coursera.jpg?resize=140%2C100&ssl=1)](https://www.coursera.org/account/accomplishments/professional-cert/D5YWUNZ7BR2P)
-[![Coursera](https://media.licdn.com/dms/image/D4D22AQHRkrF7-Hhz_Q/feedshare-shrink_800/0/1692375336839?e=1695254400&v=beta&t=-2jBneC_L9zColMAtFV9cBemzfU1sx6f6laRHL8AzEQ)](https://media.licdn.com/dms/image/D4D22AQE31xi3QCqMUw/feedshare-shrink_1280/0/1692375357431?e=1695254400&v=beta&t=Qc8qU2p7pmii5WMGpGMRD5_9okDGTuNVf2FQVOFnboA)
+
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wenderporto&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=ff0000&title_color=E94D5F&text_color=7b68ee&hide_title=true)
