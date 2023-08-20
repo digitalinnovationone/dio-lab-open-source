@@ -1,5 +1,5 @@
 
-Olá, atualmene estou estagiário de programação e estudante de engenharia de software.
+Olá, atualmene estou estagiário em desenvolvimento de software e estudante de engenharia de software.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/alissonteofilo?tab=skills)
