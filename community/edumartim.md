@@ -44,7 +44,6 @@ I'm Eduardo Martim, a passionate learner and self-taught, on the road beating th
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EduMartim&theme=dracula)](https://git.io/streak-stats)
 
 ### Connect with me at:
-https://www.dio.me/users/edumartim
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:edumartim@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/eduardomartim-8039bb1ba/)
