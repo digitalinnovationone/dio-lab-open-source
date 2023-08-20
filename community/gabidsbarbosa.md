@@ -1,12 +1,12 @@
 
-# Gabriela Barbosa
+# Gabriela Barbosa :D
 
 ## Conecte-se comigo 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black&color=f5b0db)](https://instagram.com/gabidsbarbosa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black&color=f5b0db)](https://www.linkedin.com/in/gabrieladsbarbosa/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black&color=f5b0db)](mailto:gabrielasbarbosa4@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=black&color=f5b0db)](https://www.discord.com/in/gabirelasb/)
-
+ 
 
 ## Habilidades
 
