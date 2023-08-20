@@ -16,6 +16,8 @@ Sou Desenvolvedora Front-End Mobile (Android) e Analista de Sistemas com experi√
   <p> Habilidades: </p>
   
   <p><img align="center" alt="Gabi-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"> Kotlin </p>
+
+  <p><img align="center" alt="Gabi-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> JavaScript </p>
   
   <p><img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML5 </p>
   
