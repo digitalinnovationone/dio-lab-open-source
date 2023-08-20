@@ -51,3 +51,58 @@ If you want to config your scope of work use the tags below.
   - `$ git commit -a -m "your message here"`
 - Change the message to commit
   - `$git commit -amend "new message here"`
+
+### Branching and Merging
+- Create a new branch
+  - `$ git branch [branch_name]`
+- Switch to a branch
+  - `$ git checkout [branch_name]`
+- Create and switch to a new branch
+  - `$ git checkout -b [new_branch_name]`
+- List all branches
+  - `$ git branch`
+- Merge changes from one branch into another
+  - `$ git merge [source_branch]`
+
+### Remote Operations
+- Fetch changes from a remote repository
+  - `$ git fetch [remote_name]`
+- Pull changes from a remote repository into the current branch
+  - `$ git pull [remote_name] [branch_name]`
+- Push local changes to a remote repository
+  - `$ git push [remote_name] [branch_name]`
+- Push changes and set the upstream branch
+  - `$ git push -u [remote_name] [branch_name]`
+- Push changes to all remote branches
+  - `$ git push --all`
+
+### Viewing Changes
+- Show the history of commits
+  - `$ git log`
+- Show a summarized commit history
+  - `$ git log --oneline`
+- Show changes between commits
+  - `$ git diff [commit_hash]`
+- Show changes between the working directory and the last commit
+  - `$ git diff`
+
+### Undoing Changes
+- Discard changes in the working directory
+  - `$ git checkout -- [file]`
+- Unstage changes (move changes from staging to working directory)
+  - `$ git reset [file]`
+- Undo the last commit (keep changes in the working directory)
+  - `$ git reset HEAD~1`
+- Discard changes in a specific commit
+  - `$ git revert [commit_hash]`
+- Discard all local changes and pull from remote
+  - `$ git fetch origin && git reset --hard origin/master`
+  
+### Collaboration
+- See the list of remote repositories
+  - `$ git remote -v`
+- Create a pull request (in platforms like GitHub or GitLab)
+- Review and merge pull requests
+
+
+Feel free to incorporate any of these commands and explanations into your README if you think they would be helpful for users looking to learn Git. Remember that the goal is to provide a clear and organized resource for newcomers to understand and use Git effectively.
