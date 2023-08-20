@@ -1,4 +1,4 @@
-# **Luiz Ramos** :happy:
+# **Luiz Ramos** :happy
 
 Olá, meu nome é Luiz Fernando, tenho 25 anos e moro na cidade de Campinas-SP. Atualmente trabalho como gerente de plantão na rede MC Donalds :hamburger: . Me escrevi nesse bootcamp em busca de melhorar meu portifólio, conhecer novas pessoas para podemos trocar conhecimento e futuramente trocar de ramo de trabalho.
 
