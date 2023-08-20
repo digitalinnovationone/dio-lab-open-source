@@ -1,7 +1,7 @@
 ____________________________________________________________________________________________________________________________________________________________
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you,+my+name+is+Mateus;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Óla+eu+sou+o+Mateus!+;Bem+vindo+ao+meu+perfil!:%29)](https://git.io/typing-svg)
 
 <div  align="center">
 Sou formado em Análise e Desenvolvimento de Sistemas.🖥️<br>
@@ -31,6 +31,4 @@ Pós Graduado em Segurança da Informação🔒 <br>Estou cursando pós em redes
   <a href="https://www.instagram.com/mateusfferraz/" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mateus.p.ferraz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mateus-ferraz-535b45a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
- </div>
   </div>
