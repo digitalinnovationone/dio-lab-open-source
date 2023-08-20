@@ -63,7 +63,7 @@ Here are some of my recent projects:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=asnorferreira&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 
-I will be happy to meet other tech enthusiasts and share knowledge. Let's build an amazing technological future together!
+I will be happy to meet other tech enthusiasts and share knowledge. Let's build an amazing technological future together!!
 
 ---
 
