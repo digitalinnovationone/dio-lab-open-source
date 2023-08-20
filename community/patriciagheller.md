@@ -15,6 +15,10 @@ Minha jornada de desenvolvimento é uma busca constante de equilíbrio entre a a
 Estou empolgado para compartilhar meus projetos, conhecimentos e para continuar aprendendo com a incrível comunidade de desenvolvedores. Seja bem-vindo ao meu universo de criação!"
 
 ## Habilidades
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PATRICIAGHELLER&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
   
   - Desenvolvimento web
   - Java
@@ -24,6 +28,8 @@ Estou empolgado para compartilhar meus projetos, conhecimentos e para continuar 
   - Git e GitHub
   - Banco De Dados
   - React
+  - HTML
+  - css
   - ...
 
 ## Projetos Destacados
@@ -33,6 +39,8 @@ Estou empolgado para compartilhar meus projetos, conhecimentos e para continuar 
 
 - [Projeto_OMMA_JS_](https://github.com/PatriciaGheller/Projeto_OMMA_JS_) - O projeto " OMMA JavaScript Avançado - Treinando JavaScript" é um desafio que visa melhorar as habilidades de programação usando JavaScript. O desafio consiste em criar um sistema para gerenciar receitas. O sistema armazena o nome da empresa e exibe no console ao ser executado. Ele permite armazenar várias receitas, cada uma com atributos como identificador, título, nível de dificuldade, ingredientes, instruções de preparo, link de vídeo e se é vegana. O projeto exige a criação de funções para cadastrar, exibir e deletar receitas. Participar do projeto é uma oportunidade para aplicar conhecimentos avançados de JavaScript, manipular arrays, objetos e funções, além de aprimorar as habilidades de resolução de problemas e desenvolvimento. Isso resulta em um desenvolvedor mais confiante e experiente em JavaScript.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PATRICIAGHELLER&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 ## Links
 
 - [Portfólio](https://github.com/PatriciaGheller)
@@ -40,6 +48,11 @@ Estou empolgado para compartilhar meus projetos, conhecimentos e para continuar 
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/patricia-ghellerfrontend/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/patricia-ghellerfrontend/)
 
-- [Email](patricia.gheller.1985@gmail.com)
+[[![Email](https://th.bing.com/th/id/OIP.z8U-mUj8Y6dgOK6jj_9JJQHaHa?w=96&h=96&c=7&r=0&o=5&dpr=2&pid=1.7)](mailto:patricia.gheller.1985@gmail.com)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PATRICIAGHELLER&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PATRICIAGHELLER/dio-lab-open-source)
+
+
+
