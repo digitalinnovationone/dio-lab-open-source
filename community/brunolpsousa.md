@@ -7,8 +7,8 @@
 <div><br>
   <h3>Stats</h3>
   <div align="center">
-    <img width="49%" height="195px" src= "https://grs.brunolpsousa.vercel.app/api?username=brunolpsousa&locale=pt-br&show_icons=true&rank_icon=github&theme=tokyonight&bg_color=00000000" />
-    <img width="49%" height="195px" src= "https://grs.brunolpsousa.vercel.app/api/top-langs?username=brunolpsousa&locale=pt-br&layout=compact&theme=tokyonight&bg_color=00000000"/>
+    <img width="49%" height="175px" src="https://github.com/brunolpsousa/brunolpsousa/raw/resource/grs/stats.svg" />
+    <img width="49%" height="175px" src="https://github.com/brunolpsousa/brunolpsousa/raw/resource/grs/langs.svg" />
   </div>
 </div>
 
