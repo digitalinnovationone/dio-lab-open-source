@@ -1,6 +1,6 @@
-#Julia Costa
+# Julia Costa
 
-##Sobre mim
+## Sobre mim
 Estou cursando análise e desenvonvimento de sistemas na UTFPR, possuo habilidades com banco de dados, programacão e redes de computadores.
 
 ## Vamos nos conectar?
