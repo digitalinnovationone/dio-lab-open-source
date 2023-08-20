@@ -21,9 +21,5 @@
 ![Static Badge](https://img.shields.io/badge/ORGANIZADO-000?style=for-the-badge)
 
 
-
-
-
-
 ## RoadMap
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Melobreno&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Melobreno/dio-lab-open-source)[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Melobreno&repo=NLW&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Melobreno/NLW)
