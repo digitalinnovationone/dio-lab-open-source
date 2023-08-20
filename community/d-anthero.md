@@ -1,7 +1,7 @@
 
 # Olá!
 
-Meu nome é Davi
+Meu nome é Davi.
 
 Tenho 19 anos e estou atualmente cursando Análise e Desenvolvimento de Sistemas. 
 
