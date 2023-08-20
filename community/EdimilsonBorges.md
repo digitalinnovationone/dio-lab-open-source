@@ -16,7 +16,7 @@ Entrei na área de programação em 2017, por curiosidade em saber como os siste
   <img align="center" alt="UNITY" height="30" width="40" title="UNITY" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">Unity
   <img align="center" alt="PHP" height="30" width="40" title="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">PHP
   <img align="center" alt="MYSQL" height="30" width="40" title="MY SQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">My SQL
-   <img align="center" alt="CSS3" height="30" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">Java Script
+   <img align="center" alt="JAVASCRIPT" height="30" width="40" title="JAVASCRIPT" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">Java Script
   <img align="center" alt="HTML5" height="30" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML5
   <img align="center" alt="CSS3" height="30" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS3
 </div>
