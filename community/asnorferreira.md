@@ -1,4 +1,4 @@
-git# Asnor Ferreira - Em Busca do Full Stack
+# Asnor Ferreira - Em Busca do Full Stack
 
 Olá! Eu sou Asnor Ferreira, um estudante de programação com 20 anos, apaixonado por tecnologia e determinado a me tornar um desenvolvedor Full Stack. Além do mundo do código, sou um entusiasta de animes e minha curiosidade é o que me impulsiona.
 
