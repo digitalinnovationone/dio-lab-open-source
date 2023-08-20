@@ -56,7 +56,7 @@
       <td>Awesome Badges</td>
       <td align="center">
         <a href="https://github.com/Envoy-VC/awesome-badges">
-           <img align="center" alt="Link" src="https://img.shields.io/badge/Awesome%20Badges-000000?style=for-the-badge">
+           <img align="center" alt="Link" src="https://img.shields.io/badge/Ver%20Exemplos-E94D5F?style=for-the-badge">
         </a>
       </td>
       <td>
