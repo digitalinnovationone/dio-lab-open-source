@@ -6,7 +6,7 @@
 
 ---
 
-## Quem sou eu
+## Quem eu sou
 
 Olá, sou estudante de Analise e Desenvolvimento de Sistemas pela PUCPR mas, estudo também de forma autodidata. Tenho currículo como Assistente de Planejamento e anteriormente estava cursando Engenharia Mecânica em uma Federal, mas apesar disso, esta transição profissional está sendo cheia de surpresas e expectativas para adquirir experiências na área. Estou em busca de vagas de estágios ou vagas como júnior para ser treinado da melhor forma e construir minha carreira profissional.
 
