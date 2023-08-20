@@ -1,15 +1,11 @@
-
 # Nathalie Martines
 
-<img align="right" height="240"
-src="https://i.im.ge/2023/08/21/mwZDUf.WhatsApp-Image-2023-08-20-at-18-46-27-removebg-preview.png">
+<img align="right" height="260" src="https://github.com/Dougladmo/Dougladmo/assets/100490271/77adebb4-618f-4cd0-aaae-ca2fad4b67d3">
 
-<p align="justify"> Full-stack Developer from Belém-PA, Brazil, student at Computer Science. My first "Hello World" was in pre-teens when I had contact with HTML, CSS and a little bit of JavaScript and Notepad++. Andnedfnedfiefneifneifnei. 
+<p align= "justify"> Full-stack Developer from Belém-PA, Brazil, Computer Science Student. I have an enthusiasm for everything involving technology and programming in particular. The beginning of everything (like my first "Hello, world!") was encouraged by my father (Senior Developer) and since then I've been following in his footsteps in this world of technology. 
 </p>
 
-
-<h2 align="left"> Connect with me </h2>
-
+## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF69B4)](https://www.linkedin.com/in/nathaliermar/)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF69B4)](mailto:nathalie.rmartines@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF69B4)](https://www.instagram.com/nathalie.rmar/)
@@ -28,15 +24,3 @@ src="https://i.im.ge/2023/08/21/mwZDUf.WhatsApp-Image-2023-08-20-at-18-46-27-rem
 ![NodeJs](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=FF69B4)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=FF69B4)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=FF69B4)
-
-
-
-
-
-
-
-
-
-
-
-
