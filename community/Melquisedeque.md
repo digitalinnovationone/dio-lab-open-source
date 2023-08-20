@@ -1,4 +1,4 @@
-# Bem vindos a: Melquisedeque Oliveira
+# Bem vindos a: Melquisedeque Oliveira.
 ![Profile views](https://gpvc.arturio.dev/[melquisedeque3])
 
 ### -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
