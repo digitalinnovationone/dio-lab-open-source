@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Rodrigo❄Sousa&fontSize=90&color=gradient&customColorList=0,2,2,5,30&animation=fadeIn)
 
 #### 🌟Seja bem-vindo, muito mais do que apenas desejar boas-vindas, que você sinta esse abraço de chegada.
-Sou o rodsdev23, Cursando engenharia de software, apaixonado por técnologia. Meu objetivo é me tornar um dev Fullstack.    
+Sou o rodsdev23, Cursando engenharia de software, apaixonado por tecnologia. Meu objetivo é me tornar um dev Fullstack.    
 
 ## Conecte-se comigo ✨
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/rodrigo-sousa-311b19275/)
