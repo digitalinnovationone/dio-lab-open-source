@@ -9,18 +9,18 @@
 ### -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 ## Minhas Habilidades:
-### iniciante:
+### Iniciante:
 
   <img align="center" alt="Melqui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Melqui-PowerBI" height="30" width="30" src="https://e7.pngegg.com/pngimages/252/727/png-clipart-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle.png">
   <img align="center" alt="Melqui-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   
 
-### intermediário:
+### Intermediário:
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-### avançado:
+### Avançado:
 
 ### -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
@@ -30,7 +30,7 @@
 
 ### -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-# O.S.
+# O.S.:
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
