@@ -1,39 +1,3 @@
-<!-- <style>
-  .progress-container {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    margin-bottom: 20px;
-  }
-
-  .progress-label {
-    font-weight: bold;
-    margin-bottom: 5px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
-
-  .progress-bar {
-    width: 100%;
-    height: 10px; /* Altura da barra de progresso */
-    background-color: lightgray;
-    border-radius: 5px;
-    overflow: hidden;
-  }
-
-  .progress {
-    height: 100%;
-    background-color: green;
-    border-radius: 5px;
-    transition: width 0.3s ease-in-out;
-  }
-
-  .progress-text {
-    display: none; /* Ocultar o texto do progresso */
-  }
-</style> -->
-
 <style>
   .progress-container {
     display: flex;
