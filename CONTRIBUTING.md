@@ -46,9 +46,20 @@
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.                                              |
 | `test`         | Adiciona ou modifica testes no projeto.                                                                   |
 
-##### Exemplo commit
+##### <h4> Exemplos de commits : </h4>
 
-`feat: adicionado novo arquivo`
+`feat: adicionado novo arquivo` <br>
+<br>
+`fix: correção do erro de validação na página de registro` <br>
+<br>
+`docs: atualização do README com instruções de instalação` <br>
+<br>
+`style: padronizado a formatação de comentários` <br>
+<br>
+`refactor: simplificada a função ... para melhor legibilidade` <br>
+<br>
+`test: adicionado testes unitários para os métodos de formatação em ...`
+
 
 
 ## Referências
