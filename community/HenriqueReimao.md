@@ -1,7 +1,7 @@
 
 # Henrique Reimão
 
-Acredito que no seculo 21 programar seja como inventar, eu me imagino como Nicolas tesla ou Leonardo da vince. Adoro desvendar a lógica por trás de cada linha de código e a maneira como diferentes partes de um sistema se unem para criar algo funcional e unico como uma invenção. é o que me motiva a me aprimorar constantemente e a aprender novas linguagens e tecnologias. A metodologia Scrum se alinha perfeitamente com a minha filosofia de colaboração. Programar se torna inventar com os melhores inventores do mundo seria como juntar o Leonardo da Vinte com o Nicolas Tesla.
+Acredito muito que,no seculo 21, programar é como ter o poder de criação.Gosto de me imaginar como o Nicolas Tesla ou Leonardo da Vinci enquanto desvendo a lógica por trás de cada linha de código e a maneira como diferentes partes de um sistema se unem para criar algo funcional e único como uma invenção. É o que me motiva a adquirir conhecimentos sobre linguagens e tecnologias, visando sempre o aprimoramento das minhas habilidades. A metodologia Scrum se alinha perfeitamente com a minha filosofia de colaboração. Com a possibilidade de juntar gênios de épocas e lugares diferentes, programar se torna atemporal.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/henrique_reimao_hr)
