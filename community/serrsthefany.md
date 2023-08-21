@@ -5,7 +5,7 @@ Olá, meu nome é Sthefany, tenho 22 anos e estou me aprofundando no universo da
  
 ## Habilidades 
 
-|💻 hard skills | 🧍🏽‍♀️ Soft Skills |
+|💻 Hard Skills | 🧍🏽‍♀️ Soft Skills |
 |----------------|---------------|
 |![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)| • Trabalho em Equipe
 ![Markdown](https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown)|• Liderança
