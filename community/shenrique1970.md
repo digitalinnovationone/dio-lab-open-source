@@ -17,4 +17,12 @@ Técnico em informática para internet pela Faetec. HTML, CSS, JAVASCRIPT, MySql
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=shenrique1970&repo=Meu-ambiente-dev&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/shenrique1970/Meu-ambiente-dev/)
 
-[Projetos na Dio](https://web.dio.me/users/shvribeiro?page=1&tab=projects)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=shenrique1970&repo=instagram-copia&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/shenrique1970/instagram-copia/)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=shenrique1970&repo=netflix-c&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/shenrique1970/netflix-c/)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=shenrique1970&repo=jogo-da-cobrinha&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/shenrique1970/jogo-da-cobrinha/)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=shenrique1970&repo=cv_on&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/shenrique1970/cv_on/)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=shenrique1970&repo=angular-blog&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/shenrique1970/angular-blog/)
