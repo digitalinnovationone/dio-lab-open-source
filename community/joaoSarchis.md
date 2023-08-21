@@ -7,7 +7,7 @@ I'm also looking to develop myself in python.
 
 ### Hard Skills
 ![SQL](https://img.shields.io/badge/SQL-white)
-![JAVA](htts://img.shields.io/badge/JAVA-white)
+![JAVA](https://img.shields.io/badge/java-orange)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-yellow)
 
