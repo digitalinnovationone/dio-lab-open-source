@@ -21,4 +21,4 @@
 ![CSS3](https://img.shields.io/badge/CSS3-444?style=for-the-badge&logo=css3&logoColor=264CE4)
 
 ## GitHub Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=333&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=econradodev&layout=compact&bg_color=333&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
