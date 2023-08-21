@@ -2,7 +2,7 @@
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-black?style=for-the-badge)](https://www.dio.me/users/sthefanyrodrigues81_sr)
 
 Olá, meu nome é Sthefany, tenho 22 anos e estou me aprofundando no universo da tecnologia. Este é o meu primeiro BootCamp e estou animada para absorver todo o conhecimento possível, além de contribuir de forma positiva para a comunidade da DIO. Estou cursando Direito e Análise e desenvolvimento de sistemas, pretendo futuramente mesclar as duas graduações, mas adianto que minha paixão é pelo mundo tecnológico.
-
+ 
 ## Habilidades 
 
 |💻 hard skills | 🧍🏽‍♀️ Soft Skills |
