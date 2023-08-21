@@ -2,10 +2,14 @@
 
 ## Resumo
 
-Sou um programador com foco em desenvolvimento backend, mas também tenho habilidades no desenvolvimento front-end. Gosto muito de estar em constante evolução e a melhor forma para isso é o aprendizado contínuo.
+Sou um programador com foco em desenvolvimento backend, mas também tenho habilidades no desenvolvimento front-end. Gosto muito de estar em constante evolução e a melhor forma para isso é o aprendizado contí
+
+## Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/juliano-souza-dev)
 
 
-## Conhecimentos   
+## Meus Conhecimentos   
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
