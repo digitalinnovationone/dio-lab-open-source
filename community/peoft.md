@@ -50,8 +50,8 @@ Eu sou Graduado em análise de sistemas pela Universidade do Vale do Rio dos Sin
       Fonte
     </td>
     <td>
-       <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-          DenverCoder1/github-readme-streak-stats
+       <a href="https://github.com/peoft/github-readme-streak-stats">
+          peoft/github-readme-streak-stats
        </a>
     </td>
   </tr>
