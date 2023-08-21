@@ -1,20 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!;My+name+is:;%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!;)](https://git.io/typing-svg)
 
 # Antonio Fernando
-Sou de Fortaleza/CE, ex confeiteiro em migração de carreira profissional, atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Estácio.
-
-Ingressei neste bootcamp na intenção de aprender sobre Java+Angular afim de evoluir meu currículo e portifólio.
-
-Ja fiz cursos na área de Testes e Qualidade de Software, Python e UX Design.
-
-Essa contribuição faz parte do Profile READ-ME.
 
 ## Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/antoniofernando_1911)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/antonio-fernando-silva-santos-5a328a123/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antoniofernandoqa)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:antoniofernando.1911@gmail.com)
 
 
