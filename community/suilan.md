@@ -34,6 +34,7 @@ Started this repository to explore git commands and keep examples of how this co
 
 - IWD 2021 Web Site - https://github.com/suilan/iwdbr2021
 Developed the website of the national event in 2021 for the Women Techmaker group. https://iwdbrasil2021.web.app/home
+Link to event: https://www.instagram.com/p/CMo0h7pB6WX/
 
 - Women Techmaker - https://github.com/suilan/wtm
 I work as voluteer in the Women Techmaker program. This is hosted online website that we started to develop http://womentechmakers.com.br/
