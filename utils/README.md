@@ -52,6 +52,13 @@
         <a href="https://github.com/denvercoder1/github-readme-streak-stats">GitHub Streak Stats by @DenverCoder1</a>
       </td>
     </tr>
+       <td>04</td>
+      <td>Cards GitHub Streak Stats</td>
+      <td align="center">
+        <a href="https://git-scm.com/docs/git#_git_commands">
+           <img align="center" alt="Documentação Git" src="https://img.shields.io/badge/Ver%20Exemplos-30A3DC?style=for-the-badge">
+      </td>
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
