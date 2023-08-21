@@ -1,3 +1,4 @@
+<!-- 
 <style>
   .progress-container {
     display: flex;
@@ -35,14 +36,14 @@
     color: #000;
     font-size: 12px;
   }
-</style>
+</style> -->
 
 # Olá! Eu sou Leonardo Augusto de Andrade e seja bem vindo ao meu perfil 🚀
 
 <p>Tenho 25 anos e atuo como desenvolvedor Back-End há cerca de 3 anos.
 
 Dentro desse período, trabalhei em projetos desafiadores que vão desde pequenas aplicações até grandes sistemas. Tive a oportunidade de participar de 3 projetos importantes, nos quais pude aprimorar minhas Hard Skills e Soft Skills. Busco sempre as melhores soluções em termos de desempenho, segurança e escalabilidade. Abaixo, segue uma breve visão geral.</p>
-
+<!-- 
 <details>
 <summary>Soft Skills</summary>
 <br>
@@ -157,7 +158,7 @@ Dentro desse período, trabalhei em projetos desafiadores que vão desde pequena
 </div>
 </details>
 </details>
-<br>
+<br> -->
 
 Principais projetos em que atuei/atuo:
 
