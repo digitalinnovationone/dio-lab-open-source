@@ -48,7 +48,7 @@
 
 ##### Exemplo commit
 
-`feat: adicionado novo arquivo`
+`feat: [adicionando novos arquivos](https://github.com/vanessavargas2208/dio-lab-open-source/blob/main/CONTRIBUTING.md)`
 
 
 ## Referências
