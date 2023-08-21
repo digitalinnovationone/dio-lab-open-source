@@ -1,17 +1,24 @@
 # Paulo Ostermann
-Olá, seja muito bem vindo ao meu perfil. 
-Eu sou Graduado em análise de sistemas pela Universidade do Vale do Rio dos Sinos (Unisinos) e Pós-Graduado em Ciência da Computação pela Universidade Federal do Rio Grande do Sul (UFRGS).
+OlÃ¡, seja muito bem vindo ao meu perfil.  
+
+Eu sou Graduado em anÃ¡lise de sistemas pela Universidade do Vale do Rio dos Sinos (Unisinos) e PÃ³s-Graduado em CiÃªncia da ComputaÃ§Ã£o pela Universidade Federal do Rio Grande do Sul (UFRGS).  
 
 ### Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/pauloeduardo/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:paulo.ostermann.filho@gmail.com)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/pauloeduardo/)  
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:paulo.ostermann.filho@gmail.com)  
+
 
 
 ### Habilidades
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=C)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=C)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)  
+
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=C)  
+
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=C)  
+
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)   
+
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 
