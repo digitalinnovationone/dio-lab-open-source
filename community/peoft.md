@@ -30,7 +30,7 @@ Eu sou Graduado em análise de sistemas pela Universidade do Vale do Rio dos Sin
       Temas
     </td>
     <td>
-       <a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/themes.md">
+       <a href="https://github.com/peoft/github-readme-streak-stats/blob/main/docs/themes.md">
           github-readme-streak-stats/docs/themes.md
        </a>
     </td>
