@@ -15,6 +15,7 @@ Técnico em informática para internet pela Faetec. HTML, CSS, JAVASCRIPT, MySql
 
 ## Minhas Contribuições
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=shenrique1970&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/shenrique1970/Meu-ambiente-dev)
+[Meu ambiente de desenvolvimento](https://github.com/shenrique1970/Meu-ambiente-dev)
+
 
 [Projetos na Dio](https://web.dio.me/users/shvribeiro?page=1&tab=projects)
