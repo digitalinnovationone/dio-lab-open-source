@@ -11,6 +11,7 @@
 ### Linguagens
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+
 ![JavaScript](https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=typescript)
 
 ### Bibliotecas
