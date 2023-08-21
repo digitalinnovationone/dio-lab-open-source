@@ -1,7 +1,7 @@
 
 <head>
 
-<style>
+<style type=text/css>
      h1{color:#30A3DC}
      h2{color:#30A3DC}
     </style>
