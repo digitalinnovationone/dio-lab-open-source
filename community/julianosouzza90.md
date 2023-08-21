@@ -1,25 +1,25 @@
-# Juliano Souza Silva
 
-## Resumo
+# Olá! 👋 
 
-Olá, sou o Juliano. Pai de 3 garotinhas e tenho dedicado a minha vida a elas e aos meus objetivos profissional na área da tecnologia. Busco meu lugar ao "sol".
-Sou um programador com foco em desenvolvimento backend, mas também tenho habilidades no desenvolvimento front-end. Gosto muito de estar em constante evolução e a melhor forma para isso é o aprendizado contí
+<div>
+  <p>Me chamo <b>Juliano</b>, atualmente estou cursando análise e desenvolvimento de sistemas pela Unicesumar.</p>
+  <p>No momento estou estudando para estar capacitado a preencher uma dessas tao faladas vagas em aberto no mercado.</p>
+  <p>Tenho muita dedicação e todos os dias estou em contato com códigos, para aprimorar e adquirir cada vez mais conhecimentos.</p>
+</div>
 
-## Vamos nos conectar?
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianosouzza90)](https://github.com/anuraghazra/github-readme-stats)]
+<div style="display: inline_block">
+  <h2>Tecnologias que estou estudando no momento</h2>
+  <img align="center" alt="Javascript icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="typescript icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/juliano-souza-dev)
-[![Dio](https://hermes.digitalinnovation.one/assets/diome/logo-full.svg)](https://web.dio.me/userssouzza_s1990?tab=skills) 
-
-## Meus Conhecimentos   
-
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
-
-
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+<div> 
+  ## Vamos nos conectar?
+<a href="[https://www.linkedin.com/in/calebesg](https://www.linkedin.com/in/juliano-souza-60b2b6232/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:souzza.s1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-db4a39?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+</div>
