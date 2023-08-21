@@ -2,7 +2,7 @@
     <h1>Olá! eu sou Junio Cezar 👋 </h1>
     <h2>Bem vindo ao meu Perfil</h2>
     <h2>Sou estudante de Sistema da Informação, e estou em transição de carreira</h2>
-    <p>Estou sempre aprendendo novas tecnologias, para poder ajudar e contribuir para o crescimento e desenvolvimento do nosso ser humano, e nós tornando mais inovador e proativo, e diversificando os modos e atitudes de que tudo que que agente faz algo para a sociedade se tornar mais rentavel e ecológicamente sustentavel.
+    <p>Estou sempre aprendendo novas tecnologias, para poder ajudar e contribuir para o crescimento e desenvolvimento do nosso ser humano, e nós tornando mais inovador e proativo, e diversificando os modos e atitudes de que tudo que que agente faz algo para a sociedade se tornar mais rentavel e ecológicamente sustentável.
     </p>
 </div>
 
@@ -20,8 +20,7 @@
 
 
 ## Principais Projetos
-[![Repo Github](https://github-readme-stats.vercel.app/api/pin/?username=Junio-roque&repo=Netflits_Brasil&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Junio-roque/Netflits_Brasil) [![Repo Github](https://github-readme-stats.vercel.app/api/pin/?username=Junio-roque&repo=clinicaMed&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Junio-roque/clinicaMed) 
-[![Repo Github](https://github-readme-stats.vercel.app/api/pin/?username=Junio-roque&repo=jogodeNave&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Junio-roque/jogodeNave) [![Repo Github](https://github-readme-stats.vercel.app/api/pin/?username=Junio-roque&repo=Jogo_da_Velha&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Junio-roque/Jogo_da_Velha)
+[![Repo Github](https://github-readme-stats.vercel.app/api/pin/?username=Junio-roque&repo=Netflits_Brasil&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Junio-roque/Netflits_Brasil) [![Repo Github](https://github-readme-stats.vercel.app/api/pin/?username=Junio-roque&repo=clinicaMed&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Junio-roque/clinicaMed) [![Repo Github](https://github-readme-stats.vercel.app/api/pin/?username=Junio-roque&repo=jogodeNave&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Junio-roque/jogodeNave) [![Repo Github](https://github-readme-stats.vercel.app/api/pin/?username=Junio-roque&repo=Jogo_da_Velha&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Junio-roque/Jogo_da_Velha)
 
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Junio-roque&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](thhps://github.com/Junio-roque/dio-lab-open-source)
