@@ -2,12 +2,13 @@
 
 ## Resumo
 
+Olá, sou o Juliano. Pai de 3 garotinhas e tenho dedicado a minha vida a elas e aos meus objetivos profissional na área da tecnologia. Busco meu lugar ao "sol".
 Sou um programador com foco em desenvolvimento backend, mas também tenho habilidades no desenvolvimento front-end. Gosto muito de estar em constante evolução e a melhor forma para isso é o aprendizado contí
 
 ## Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/juliano-souza-dev)
-
+[![Dio](https://hermes.digitalinnovation.one/assets/diome/logo-full.svg)](https://web.dio.me/userssouzza_s1990?tab=skills) 
 
 ## Meus Conhecimentos   
 
