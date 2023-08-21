@@ -1,8 +1,8 @@
 # Gabriel Soares
-Estudante de Engenharia de Petróleo pela UFS
-Tecnico em informática pelo IFS
-Amo games e animes 
-Estou me apaixonando pelo mundo da programação
+- Estudante de Engenharia de Petróleo. 
+- Tecnico em Informática pelo IFS
+- Amo games e Animes 
+- Estou me apaixonando pelo mundo da programação
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/gabriel7mz3256)
