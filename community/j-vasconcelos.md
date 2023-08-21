@@ -31,8 +31,8 @@
 
 ## 🌐 Conecte-se comigo
 
-[![GitHub](https://img.shields.io/badge/GitHub-1759ff?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/octoeli)
-[![Linkedin](https://img.shields.io/badge/linkedin-1759ff?style=for-the-badge&logo=linkedin&logoColor=fff)](https://github.com/octoeli)
+[![GitHub](https://img.shields.io/badge/GitHub-1759ff?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/j-vasconcelos)
+[![Linkedin](https://img.shields.io/badge/linkedin-1759ff?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/joaogavasconcelos/)
 
 ---
 
