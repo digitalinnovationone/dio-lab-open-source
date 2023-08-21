@@ -1,4 +1,5 @@
-# Edmilton Souza
+# Edmilton Souza 
+
 ## Minhas redes sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/edmilton-souza-166309265/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/edmilt0n.p/) [![Instagram](https://img.shields.io/badge/whatsapp-000?style=for-the-badge&logo=whatsapp)](https://wa.me/+55081988331887/)
 # Habilidades em desenvolvimento:
