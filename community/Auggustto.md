@@ -227,7 +227,7 @@ Principais projetos em que atuei/atuo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/leonardo-augusto-9316081b7)
 [![Portifolio](https://img.shields.io/badge/Portifólio-000?style=for-the-badge&logo=&logoColor=ffff)](https://portifolio-ruby-theta-68.vercel.app/#home)
 
-
+##
 
 
 
