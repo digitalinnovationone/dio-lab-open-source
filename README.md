@@ -101,7 +101,7 @@ Aprender o básico sobre contribuição no GitHub.
 7. Add your changes to the "staging area" with the command `git add community/yourusername.md`;
 8. Create a commit and add the message indicating the addition of your profile `git commit -m"feat: add yourusername profile"`;
 9. Push changes to your remote repository `git push origin feat/community/yourusername`; 
-10. Create a **Pull Request**.
+10. Create a **Pull Request** `git-commit-tree`.
 
 ### Utilitários
 
