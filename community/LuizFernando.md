@@ -3,7 +3,7 @@
 - 💻 Sempre procurando novas soluções.
 - 📱   Apaixonado por Tecnologia.</b>
  ## Minhas Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fernando-rocha-pimentel/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/luiz-fernando-rocha-pimentel/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fernando-rocha-pimentel/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KanekiZLF)
 
 
 ## 👾 Alguns Projetos
