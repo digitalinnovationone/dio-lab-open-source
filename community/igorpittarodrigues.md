@@ -7,7 +7,10 @@
 
 
 ## Habilidades
-[![Git](https://img.shields.io/badge/GitHub-black?logo=github&Color=black)](https://github.com/igorpittarodrigues) [![Git](https://img.shields.io/badge/Git-001?logo=git&Color=white)](https://github.com/igorpittarodrigues) ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+[![Git](https://img.shields.io/badge/GitHub-black?logo=github&Color=black)](https://github.com/igorpittarodrigues) [![Git](https://img.shields.io/badge/Git-001?logo=git&Color=white)](https://github.com/igorpittarodrigues)
+
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
 
