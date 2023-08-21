@@ -3,7 +3,7 @@
 
 Olá! Meu nome é Fellipe sou de São Paulo capital, estou cursando Análise e Desenvolvimento de sistemas.
 
-Atualmente estou estudando Java e frameworks atraves de bootcamps da [DIO](https://web.dio.me/) entre outros cursos com foco no back end!
+Atualmente estou estudando ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) e frameworks atraves de bootcamps da [DIO](https://web.dio.me/) entre outros cursos com foco no back end!
 
 
 ## 🔗 Conecte-se Comigo
