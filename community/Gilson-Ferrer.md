@@ -1,4 +1,4 @@
-# **| © GFerrer |**
+# **| GFerrer |**
 
 ## 🆔 About me
 
