@@ -1,4 +1,4 @@
-# Jefferson C. Nascimento
+# Jefferson C. Nascimento 
 
 
 Olá, me chamo Jefferson estudo programação desde 2016, onde fiz um curso de programador web pelo Senac onde aprendi HTML5, JavaScript, CSS3, JQuery, PHP; E em 2017 fiz um curso de Android Stúdio onde aprendi a fazer 10 app na prática, fiz alguns testes e cheguei a fazer um [aplicativo](https://drive.google.com/file/d/1hMWThiJo5zmCdLUxRJwz-cupBXHl5cap/view?usp=drive_link) que não publiquei no PlayStore.
