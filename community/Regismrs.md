@@ -1,4 +1,3 @@
-
 # Regis Rodrigues
 Com uma trajetória que reflete a busca contínua pelo desenvolvimento pessoal e profissional, destaco-me por ser um profissional organizado, criativo e apaixonado por resolver problemas. Minha jornada teve início na documentação de software e no suporte técnico realizando atendimento direto a clientes, onde construí uma base sólida de habilidades ao longo dos anos, investigando bugs, negociando soluções e resolvendo incidentes de forma eficiente. Com o tempo, expandi meu horizonte para a área de desenvolvimento, tornando-me um desenvolvedor full stack versátil, sempre pronto para absorver novos conhecimentos e desafios. 
 
