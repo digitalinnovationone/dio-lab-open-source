@@ -19,7 +19,7 @@ Atualmente, estou fazendo o Bootcamp Back-end Santander.
 
 <details>
 
-<summary>Músicas favoritas<summary>
+<summary>Músicas favoritas</summary>
 
 |Artista|Música|
 |---|---|
@@ -33,7 +33,7 @@ Atualmente, estou fazendo o Bootcamp Back-end Santander.
 
 <details>
 
-<summary>Séries de livros favoritas<summary>
+<summary>Séries de livros favoritas</summary>
 
 |Autor|Livro|
 |---|---|
@@ -47,7 +47,7 @@ Atualmente, estou fazendo o Bootcamp Back-end Santander.
 
 <details>
 
-<summary>Filmes e séries favoritos<summary>
+<summary>Filmes e séries favoritos</summary>
 
 |Filme/série|Onde assistir|
 |---|---|
