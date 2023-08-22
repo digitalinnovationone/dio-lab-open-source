@@ -4,7 +4,7 @@
 ## 👨‍💻 About me
  Hi, My name is Nicollas Moleta Borges, i'm 18 years old. I'm a technology enthusiast and passionate for problem solving. 
 
-## 💡 Skills & Technologies
+## 💡Technologies
 
 <div align="center">
 
