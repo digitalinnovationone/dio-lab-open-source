@@ -129,6 +129,22 @@ Em resumo, aprender sobre contribuição no GitHub vai além da escrita de códi
 9. Push changes to your remote repository `git push origin feat/community/yourusername`; 
 10. Create a **Pull Request**.
 
+### Instrucciones (ES/ES)
+1. **Hacer un Fork** del repositorio;
+2. Clonar localmente: `git clone https://github.com/TUNOMBREDEUSUARIO/dio-lab-open-source.git`;
+3. Agregar un repositorio "upstream" para mantener tu repositorio local actualizado: `git remote add upstream https://github.com/elidianaandrade/dio-lab-open-source.git`;
+    > Usa el comando `git pull upstream main` para descargar y fusionar cambios en tu repositorio local basados en la rama `main` de este repositorio original del cual hiciste el "fork", o `git fetch upstream main` para descargar sin fusionar. Obtén más información en: [Primeros pasos con Git y GitHub](https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
+4. Crea una nueva **rama** y nómbrala como `feat/community/tunombredenombredeusuario`: `git checkout -b feat/community/yourusername`;
+    > Ejemplo: `git checkout -b feat/community/elidianaandrade`
+5. Dentro de la carpeta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community), crea un archivo en formato Markdown (extensión `.md`) y nómbralo igual que tu nombre de usuario en GitHub;
+    > Ejemplo: `elidianaandrade.md` <br>
+6. Desarrolla tu perfil. Para esto, puedes ver ejemplos en la carpeta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community) y agregar algunas de las utilidades presentes en la carpeta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils);
+    > **Nota:** Utiliza los otros ejemplos como inspiración, no copies directamente.
+7. Agrega tus cambios al "área de preparación" con el comando `git add community/yourusername.md`;
+8. Crea un commit y agrega el mensaje que indique la adición de tu perfil: `git commit -m "feat: agregar perfil de yourusername"`;
+9. Envía los cambios a tu repositorio remoto: `git push origin feat/community/yourusername`;
+10. Crea una **solicitud de extracción (Pull Request)**."
+
 ### Utilitários
 
 [![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/badges/badges.md)
