@@ -1,15 +1,15 @@
-# Olá me chamo Ithalo Laurentino
+# Sobre mim ✍️
 
-### Tenho 24 anos, moro em Guarulhos/SP e estou iniciando minha carreira como dev Java
+### Olá me chamo Ithalo, tenho 24 anos, moro em Guarulhos/SP e estou iniciando minha carreira como Desenvolvedor Java
 
 - 🔭 Atualmente estou trabalhando em outra area, porém procurando estágio em TI
 - 📚 Tenho conhecimento de Python, mas atualmente estou estudando Java
 - 👨‍🎓 Segundo semestre de Gestão de TI (2/4)
 - 🎮 Amante do mundo dos games
   
-<br><br/>
+<br/>
 
-
+![Ithalo GitHub stats](https://github-readme-stats.vercel.app/api?username=ithalo20&show_icons=true&theme=radical)
 
 ## Tecnologias
 
