@@ -1,4 +1,4 @@
-# Bem-vindo ao meu Perfil no GitHub!
+# Samuel Oliveira
 
 Olá! 👋 Sou Samuel, um entusiasta de desenvolvimento de sistemas e apaixonado pelo mundo dos jogos. Atualmente, estou em formação na Escola Técnica SENAI e busco me aprimorar constantemente.
 
