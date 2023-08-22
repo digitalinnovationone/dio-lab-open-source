@@ -1,6 +1,6 @@
 ### Olá, seja muito bem-vindo(a)! Eu sou o Ronald Aragão 👋
 #### Cursando desenvolvimento de sistemas no [Senai](https://www.senaibahia.com.br/unidade/senaidendezeiros/)
-[![Social](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-aragão2023)
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-aragão2023)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aragaoronald&show_icons=true)
 
