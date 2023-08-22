@@ -4,7 +4,7 @@ Hi 👋 Nice to meet you! I'm Lorena, a 30 year-old brazilian who loves Math and
 
 ### Professionally speaking...
 
-🎨 I'm graduated in Visual Arts and I've got a lot of experience in creative areas, such as writing, graphic design, webdesign, and 3d art and computational art.
+🎨 I'm graduated in Visual Arts and I've got a lot of experience in creative areas, such as writing, graphic design, webdesign, 3d art and computational art.
 
 ![HTML5](https://img.shields.io/badge/HTML5-e8f2f8?style=for-the-badge&logo=html5)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-e8f2f8?style=for-the-badge&logo=css3&logoColor=264CE4)&nbsp;
@@ -14,7 +14,7 @@ Hi 👋 Nice to meet you! I'm Lorena, a 30 year-old brazilian who loves Math and
 ![Photoshop](https://img.shields.io/badge/Photoshop-e8f2f8?style=for-the-badge&logo=adobephotoshop)&nbsp;
 ![MS Office](https://img.shields.io/badge/Microsoft_Office-e8f2f8?style=for-the-badge&logo=microsoftoffice&logoColor=ec4208)&nbsp;
 
-📈 I started a graduation in Software Engineering so I can pursue a career in Data Science. I hope to bring all my prior experience and soft skills such as communication, storytelling and creativity from Arts to the Tech field. 
+📈 I started a graduation in Software Engineering so I can pursue a career in Data Science. I hope to bring all my prior experience and soft skills such as communication, storytelling and creativity from Arts to Tech. 
 
 ![Python](https://img.shields.io/badge/Python-e8f2f8?style=for-the-badge&logo=python&logoColor=3e82ba)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-e8f2f8?style=for-the-badge&logo=github&logoColor=000)&nbsp;
