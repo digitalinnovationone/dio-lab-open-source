@@ -68,23 +68,32 @@ e poder contribuir para a melhoria da vida das pessoas.
     <tr>
       <td>30/06/2023</td>
       <td>Arquitetura de Dados-Python</td>
-      <td>07/04/2023</td>
-      <td>Desafio: Criando um Sistema Bancário-Python</td>
-      <td>26/07/2022</td>
-      <td>Resume Summary-Java</td>
     <td align="center">
         <a href="https://web.dio.me/articles/arquitetura-de-dados-em-python?back=%2Farticles&page=1&order=oldest">
            <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
         </a>
+    </td> 
+    </tr>
+  <td align="left">
+    <tr>    
+      <td>07/04/2023</td>    
+      <td>Desafio: Criando um Sistema Bancário-Python</td>
+    <td align="center">
         <a href="https://web.dio.me/articles/desafio-criando-um-sistema-bancario?back=%2Farticles&page=1&order=oldest">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
-        </a>
-        <a href="https://web.dio.me/articles/resume-summary?back=%2Farticles&page=1&order=oldest">
            <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
         </a>
     </td>
     </tr>
-    <tr>      
+  <td align="left">
+    <tr>
+      <td>26/07/2022</td>
+      <td>Resume Summary-Java</td>
+    <td align="center">
+      <a href="https://web.dio.me/articles/resume-summary?back=%2Farticles&page=1&order=oldest">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
+        </a>
+    </td>   
+    </tr>
   <tfoot></tfoot>
 </table>
 
