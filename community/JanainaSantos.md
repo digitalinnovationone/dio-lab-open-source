@@ -1,6 +1,6 @@
   
 # Janaina Santos
-Desenvolvedora de sistemas SR.
+Desenvolvedora SR.
 
 Desenvolvedora de Software, gosto de saber o que está acontecendo no meio da tecnologia e conhecer novas ferramentas. Sempre estou em busca de novos conhecimentos.
 
