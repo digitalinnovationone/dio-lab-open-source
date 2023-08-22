@@ -1,4 +1,3 @@
-
 # Fernanda Dourado
 
 Sou estudante de Ciência da Computação, apaixonada por tecnologia e jogos, o que me motivou a começar a estudar nessa área.
