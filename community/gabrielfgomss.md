@@ -44,10 +44,10 @@ Atualmente estudando Vue.js e Python pela EBAC e Java no Santander Bootcamp 2023
 
 ### Principais projetos
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielfgomss&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gabrielfgomss/dictionary_app)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielfgomss&repo=dictionary_app&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gabrielfgomss/dictionary_app)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielfgomss&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gabrielfgomss/controle-financeiro)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielfgomss&repo=controle-financeiro&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gabrielfgomss/controle-financeiro)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielfgomss&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gabrielfgomss/todo_project)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielfgomss&repo=todo_project&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gabrielfgomss/todo_project)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielfgomss&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gabrielfgomss/multi-step-form)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielfgomss&repo=multi-step-form&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gabrielfgomss/multi-step-form)
