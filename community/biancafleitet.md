@@ -17,6 +17,6 @@ Desde 2021 atuo como analista de dados na eNotas, sigo buscando qualificação n
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/bianca-tarciso/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/biancatarciso/)
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](bianca.fleitet@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:bianca.fleitet@gmail.com)
 
 
