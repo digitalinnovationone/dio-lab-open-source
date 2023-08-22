@@ -7,6 +7,19 @@ atuando com nativos e estou procurando crescer na área mobile.
 
 ## Conecte-se comigo <3
 - [Instagram](https://www.instagram.com/ju_luciani/)
-- [Linkedin](https://www.linkedin.com/in/j%C3%BAlia-luciani-de-oliveira-2150b11b2/)
+- [LinkedIn](https://www.linkedin.com/in/j%C3%BAlia-luciani-de-oliveira-2150b11b2/)
 - [Github](https://github.com/julialuciani)
 - [DIO](https://www.dio.me/users/julialucianiu_u)
+
+## Habilidades
+
+#### SoftSkills
+- Comunicação
+- Criatividade
+- Trabalho em Equipe
+  
+#### HardSkills
+- Flutter
+- IOS
+- Android
+- Metodologias ágeis
