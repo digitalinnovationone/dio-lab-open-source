@@ -1,11 +1,13 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> JAVA BeckEnd</span>
+    <span> Desenvolvimento BackEnd Java 2023</span>
 </h1>
+<div style="text-align: justify" >
+<p>Se você já se perguntou sobre a mágica por trás das aplicações web que acessamos diariamente, o curso de Desenvolvimento Backend com Java é a porta de entrada para desvendar esse mistério. O backend, muitas vezes chamado de "cérebro" das aplicações, é responsável por processar dados, gerenciar informações e tornar tudo funcional nos bastidores.</p>
 
-  Aqui você confere uma lista de exemplos desenvolvida pela comunidade. (testando) simples de como você pode criar o seu Profile README para o Desafio da [Digital Innovation One](https://www.dio.me/) e faça a sua contribuição ????.
-
+<p>Neste curso emocionante, você mergulhará nas profundezas do Java, uma das linguagens de programação mais confiáveis e amplamente usadas no desenvolvimento backend. Desde os conceitos fundamentais até as técnicas mais avançadas, você aprenderá a criar bases sólidas para aplicativos web robustos e eficientes.</p>
+<div>
 
 ---
 
