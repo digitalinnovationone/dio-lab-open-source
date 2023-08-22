@@ -1,4 +1,16 @@
-# Gustavo Kehr, 21 anos, Mogi das Cruzes-SP
+# Gustavo Kehr, 21 anos, Mogi das Cruzes, SP
+
+#### Meu nome é Gustavo, sou um desenvolvedor Full-Stack júnior e meu objetivo é me tornar um ótimo profissional em diversas áreas de TI, com um grande interesse em desenvolvimento de software e web.
+
+#### Estou em busca de uma oportunidade de estágio. Estou no campo de desenvolvimento de sistemas desde julho de 2022, quando iniciei meus estudos em desenvolvimento de back-end. Após concluir meu curso e obter meu certificado, ingressei em uma faculdade de análise e desenvolvimento de sistemas. Hoje, estou começando meu segundo semestre em busca de mais conhecimento e aprimoramento contínuo das minhas habilidades profissionais.
+
+
+Certificado Desenvolvedor Back-End formado pelo SENAI (https://gustavokehr.github.io/Portifolio/certificates/certificateSENAI-BackEnd-Developer.PDF )  
+
+Certificado JavaScript Básico Curso em Video (https://gustavokehr.github.io/Portifolio/certificates/certificateJAVASCRIPT.pdf)  
+
+Certificado HTML CSS Básico Curso em Video (https://gustavokehr.github.io/Portifolio/certificates/certificateHTML-CSS.pdf) (esse é o terceiro de 5 certificados possiveis dentro do curso)  
+
 
 ## Conecte-se Comigo
 
@@ -15,16 +27,20 @@ Trabalho bem em equipe
 Tenho boa comunicação  
 Sou multitarefas  
 Me adapto rapidamente  
-Metodologias ágeis
+
 
 
 ## Meus Projetos
 
-Meu Portifólio (https://gustavokehr.github.io/Portifolio/) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoKehr&repo=Portifolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GustavoKehr/Portifolio)
+Meu Portifólio (https://gustavokehr.github.io/Portifolio/) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoKehr&repo=Portifolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GustavoKehr/Portifolio)  
 
-API [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoKehr&repo=ProjetoExoApi&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GustavoKehr/ProjetoExoApi)
+
+API [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoKehr&repo=ProjetoExoApi&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GustavoKehr/ProjetoExoApi)  
+
   
-Conversor de temperaturas [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoKehr&repo=ProjetoConversorDeTemperaturas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GustavoKehr/ProjetoConversorDeTemperaturas)
+Conversor de temperaturas [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoKehr&repo=ProjetoConversorDeTemperaturas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GustavoKehr/ProjetoConversorDeTemperaturas)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=GustavoKehr&theme=onedark)](https://github.com/GustavoKehr/github-profile-trophy)
 
 
 ## GitHub Stats
