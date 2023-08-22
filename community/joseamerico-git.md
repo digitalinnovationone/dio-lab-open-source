@@ -13,7 +13,7 @@ Eu sou José Américo, sou casado tenho 3 filhos me formei em Ciência da Comput
 
 ## Habilidades
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joseamerico-git&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=white)
@@ -25,10 +25,14 @@ Eu sou José Américo, sou casado tenho 3 filhos me formei em Ciência da Comput
 ![SPRING-BOOT JAVA](https://img.shields.io/badge/SPRINGBOOT-E0FFFF?style=for-the-badge&logo=Spring-boot)
 
 ### Status do GitHub
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joseamerico-git&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
-
+| Linguagens  | links |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 # Aulas Resumos
 -  Git e GitHub
