@@ -16,8 +16,6 @@ Estudante de Análise e Desenvolvimento de Sistemas em busca de um estágio din�
 ![Static Badge](https://img.shields.io/badge/GitHub%20-%20grey?style=flat&logo=GitHub&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code%20-%20grey?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 
-# Linguagens Utilizadas
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JuliaPetrucci&layout=compact&bg_color=000&border_color=ffff&title_color=A66E00&text_color=FFF)
 
 
 
