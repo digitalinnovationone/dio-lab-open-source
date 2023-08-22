@@ -1,5 +1,4 @@
-
-# olá sou Dennis Eduardo
+# Olá sou Dennis Eduardo
 
  Sobre mim :
 
