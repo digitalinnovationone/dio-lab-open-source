@@ -8,10 +8,10 @@
 Olá!
 Sou estudante da Univesp cursando Bacharelado em Tecnologia da Informação, cursando também na plataforma da DIO.me e através da DIO tenho aprendido muito, e agora estou ingressando na área de Ciência de Dados, pela Univesp e Santander Bootcamp Ciências de Dados - PYTHON, 
 com a bolsa Becas Santander. \
-Ama estudar, e conhecer coisas novas (DESAFIOS). \
+Amo estudar e aprender coisas coisas novas (DESAFIOS). \
 Espero aprender cada vez mais e poder ajudar a comunidade.
 
-**META**
+##** META **
 Minha meta é me tornar uma grande desenvolvedora de Software
 e poder contribuir para a melhoria da vida das pessoas.
 
@@ -95,7 +95,7 @@ e poder contribuir para a melhoria da vida das pessoas.
       <td>26/07/2022</td>
       <td>Resume Summary-Java</td>
     <td align="center">
-      <a href="https://web.dio.me/articles/resume-summary?back=%2Farticles&page=1&order=oldest">
+        <a href="https://web.dio.me/articles/resume-summary?back=%2Farticles&page=1&order=oldest">
            <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
         </a>
     </td>   
