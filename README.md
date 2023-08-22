@@ -101,13 +101,14 @@ Aprender o básico sobre contribuição no GitHub.
 7. Add your changes to the "staging area" with the command `git add community/yourusername.md`;
 8. Create a commit and add the message indicating the addition of your profile `git commit -m"feat: add yourusername profile"`;
 9. Push changes to your remote repository `git push origin feat/community/yourusername`; 
-10. Create a **Pull Request**.
+10. Create a **Pull Request** `git-commit-tree`.
 
 ### Utilitários
 
 [![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/badges/badges.md)
 [![Card Stats](https://img.shields.io/badge/Card%20Stats-E94D5F?style=for-the-badge)](https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
 [![Badges](https://img.shields.io/badge/Card%20Streak%20States-30A3DC?style=for-the-badge)](https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-streak-stats.md)
+[![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://git-scm.com/docs/git#_git_commands)
 
 ---
 
