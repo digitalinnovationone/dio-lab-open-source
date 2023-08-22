@@ -6,7 +6,6 @@ Profissional em transição de carreira, apaixonado por tecnologia e cultura pop
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/igoralive/)
 - [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/igralive#4182/)
-- [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/IGORAOLIV)
 
 ## 📜 Formações
 
