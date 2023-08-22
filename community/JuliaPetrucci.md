@@ -2,7 +2,7 @@
 
 # Julia Petrucci 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=A66E00&center=true&vCenter=true&width=435&lines=Desenvolvedora+Front+End;Analista+de+QA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=9C9C9C&vCenter=true&width=435&lines=Desenvolvedora+Front+End;Analista+de+QA)](https://git.io/typing-svg)
 
 Estudante de Análise e Desenvolvimento de Sistemas em busca de um estágio dinâmico e desafiador na área de tecnologia.
 
