@@ -1,4 +1,4 @@
-# Olá, sou [Seu Nome]
+# Olá, sou Kennedy
 
 ## Sobre mim
 
@@ -10,9 +10,9 @@
 
 ## Habilidades
 
-- Linguagens de Programação: [Java, C#, Javascript]
-- Tecnologias: [Spring, .Net, Node.JS]
-- Ferramentas: [Intellij, Visual Studio, VS Code]
+- Linguagens de Programação: Java, C#, Javascript
+- Tecnologias: Spring, .Net, Node.JS
+- Ferramentas: Intellij, Visual Studio, VS Code
 
 ## Projetos
 
