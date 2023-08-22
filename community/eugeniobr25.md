@@ -6,21 +6,21 @@
 ## Connect with me
 
 <div align="center"> 
-<a href="https://www.linkedin.com/in/eug%C3%AAnio-brilhante-moraes-lima-010957276/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00599C?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="https://github.com/eugeniobr25" target="_blank"><img src="https://img.shields.io/badge/GitHub-00599C?style=for-the-badge&logo=github&logoColor=white"</a>
-<a href="https://www.instagram.com/eugeniobrilhante/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-00599C?style=for-the-badge&logo=instagram&logoColor=white"</a>
+    <a href="https://www.linkedin.com/in/eug%C3%AAnio-brilhante-moraes-lima-010957276/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00599C?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+    <a href="https://github.com/eugeniobr25" target="_blank"><img src="https://img.shields.io/badge/GitHub-00599C?style=for-the-badge&logo=github&logoColor=white"</a>
+    <a href="https://www.instagram.com/eugeniobrilhante/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-00599C?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 ## GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/eugeniobr25">
-  <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=eugeniobr25&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniobr25&layout=compact&langs_count=7&theme=transparent"/>
+    <a href="https://github.com/eugeniobr25">
+    <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=eugeniobr25&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+    <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniobr25&layout=compact&langs_count=7&theme=transparent"/>
   
   </br>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=eugeniobr25&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=eugeniobr25&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/></a>
 </div>
 
 ## Solft Skills
@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/Trabalho%20em%20equipe-00599C.svg?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Solução%20de520problemas-00599C.svg?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gestão%20do%20tempo-00599C.svg?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Comunicação-00599C.svg?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Comunicação-00599C.svg?style=for-the-badge&logoColor=white">
 </div>
 
 
