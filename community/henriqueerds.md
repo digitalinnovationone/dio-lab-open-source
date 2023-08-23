@@ -35,8 +35,10 @@
 </p>
 
 ## GitHub Stats
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
-[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
+
 
 ## Meus Principais Desafios de Projetos
-
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=henriqueerds&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/henriqueerds/dio-lab-open-source)
+[![Repo DIO Site_De_Atendimento_Psicologia](https://github-readme-stats.vercel.app/api/pin/?username=henriqueerds&repo=Site-De-Atendimetnto-Psicologico-Dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/henriqueerds/Site-De-Atendimetnto-Psicologico-Dio)
+[![Repo DIO TagsBasicas](https://github-readme-stats.vercel.app/api/pin/?username=henriqueerds&repo=Dio_Html_TagsBasicas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/henriqueerds/Dio_Html_TagsBasicas)
+[![Repo DIO Criacao_Site](https://github-readme-stats.vercel.app/api/pin/?username=henriqueerds&repo=Criacao-de-Site&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/henriqueerds/Criacao-de-Site/tree/main)
