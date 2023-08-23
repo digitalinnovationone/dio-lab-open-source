@@ -21,4 +21,8 @@ Sou angolano, tenho 53 anos, formado pela UCB - Universidade Católica de brasil
 - Java ![JAVA](https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=java&logoColor=30A3DD)
 - Kotlin ![KOTLIN](https://img.shields.io/badge/KOTLIN-000?style=for-the-badge&logo=Kotlin&logoColor=30A3DD)
 
+### Estatística de uso no meu GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=derito&theme=transparent&bg_color=000&border_color=20A3DC&show_icons=true&icon_color=20A3DC&title_color=E94D5F&text_color=FFF)
+
 
