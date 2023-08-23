@@ -26,6 +26,7 @@
 <a href="https://www.linkedin.com/in/jorge-luis-5130b8268/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 <a href="https://www.instagram.com/jorge000x/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" style="background-color: black;"></a>
 <a href="https://github.com/Jorge-X" target="_blank"><img src="https://img.shields.io/badge/-Github-%23000000?style=for-the-badge&logo=github&logoColor=white" style="background-color: black;">
+<a href="https://www.dio.me/users/jorgeluissousa04" target="_blank"><img src="https://img.shields.io/badge/DIO-808080?style=for-the-badge&logo=D&logoColor=white" ></a>
 </a> </div>
 
   
@@ -58,7 +59,7 @@
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Jorge-X}/count.svg" /></p> 
+<p align="center"><img align="center" src="#https://profile-counter.glitch.me/{Jorge-X}/count.svg" /></p> 
 <br></div>
   
 
