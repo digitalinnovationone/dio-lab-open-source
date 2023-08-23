@@ -13,7 +13,7 @@
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px; width: 50%; margin-left: 25%;">
 <a href="https://github.com/felipe-pereira-analista-de-dados/automatizacao_cotacao_dolar">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felipe-pereira-analista-de-dados&repo=Automatizacao_dolar&theme=react&bg_color=1F222E&title_color=3BEFF7&icon_color=30A3DC&hide_border=true&show_icons=true" alt="Automatizacao_dolar">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felipe-pereira-data-analyst&repo=Automatizacao_dolar&theme=react&bg_color=1F222E&title_color=3BEFF7&icon_color=30A3DC&hide_border=true&show_icons=true" alt="Automatizacao_dolar">
 </a>
 <a href="https://github.com/felipe-pereira-analista-de-dados/Loja-de-Roupas">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felipe-pereira-analista-de-dados&repo=Loja_roupa&hide_border=true&bg_color=1F222E&title_color=3BEFF7&icon_color=30A3DC&theme=react&show_icons=true" alt="Loja_roupa">
