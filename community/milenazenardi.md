@@ -21,4 +21,4 @@ Me chamo Milena, sou estudante do 6º semestre de Análise e Desenvolvimento de 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MilenaZenardi&theme=transparent&bg_color=000&border_color=191970&show_icons=true&icon_color=191970&title_color=191970&text_color=FFF)
 
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=milenazenardi&repo=dio-lab-open-source&bg_color=000&border_color=191970&show_icons=true&icon_color=191970&title_color=191970&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=milenazenardi&repo=dio-lab-open-source&bg_color=000&border_color=191970&show_icons=true&icon_color=191970&title_color=191970&text_color=FFF)](https://github.com/MilenaZenardi/dio-lab-open-source)
