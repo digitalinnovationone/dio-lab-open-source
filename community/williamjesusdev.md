@@ -131,14 +131,14 @@ Ultimo projeto [**Blue Bank | Pan Academy**](https://github.com/williamjesusdev/
     </picture>
     <picture>
       <source 
-        srcset="https://streak-stats.demolab.com?user=williamjesusdev&theme=github_dark-blue&hide_border=true&locale=pt_BR&exclude_days=Sun%2CSat"
+        srcset="https://streak-stats.demolab.com?user=williamjesusdev&theme=github_dark-blue&hide_border=true&locale=pt_BR"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://streak-stats.demolab.com?user=williamjesusdev&theme=swift&hide_border=true&locale=pt_BR&exclude_days=Sun%2CSat"
+        srcset="https://streak-stats.demolab.com?user=williamjesusdev&theme=swift&hide_border=true&locale=pt_BR"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src='https://streak-stats.demolab.com?user=williamjesusdev&theme=github_dark-blue&hide_border=true&locale=pt_BR&exclude_days=Sun%2CSat' alt='William GitHub Streak'/>
+      <img src='https://streak-stats.demolab.com?user=williamjesusdev&theme=github_dark-blue&hide_border=true&locale=pt_BR' alt='William GitHub Streak'/>
     </picture>
   </div>
 
