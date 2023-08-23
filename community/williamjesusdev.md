@@ -95,39 +95,52 @@ Ultimo projeto [**Blue Bank | Pan Academy**](https://github.com/williamjesusdev/
   <div align="center">
     <picture>
       <source 
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=williamjesusdev&layout=compact&hide_border=true&card_width=390&theme=github_dark"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=williamjesusdev&layout=compact&hide_border=true&card_width=500&theme=github_dark"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=williamjesusdev&layout=compact&hide_border=true&card_width=390&theme=swift"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=williamjesusdev&layout=compact&hide_border=true&card_width=500&theme=swift"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=williamjesusdev&layout=compact&hide_border=true&card_width=390&theme=github_dark' alt='Top Langs'/>
+      <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=williamjesusdev&layout=compact&hide_border=true&card_width=500&theme=github_dark' alt='Top Langs'/>
     </picture>
     <picture>
       <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=williamjesusdev&hide=issues&count_private=true&show_icons=true&hide_border=true&card_width=400&theme=github_dark"
+        srcset="https://github-readme-stats.vercel.app/api?username=williamjesusdev&hide=issues&count_private=true&show_icons=true&hide_border=true&card_width=500&theme=github_dark"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=williamjesusdev&hide=issues&count_private=true&show_icons=true&hide_border=true&card_width=400&theme=swift"
+        srcset="https://github-readme-stats.vercel.app/api?username=williamjesusdev&hide=issues&count_private=true&show_icons=true&hide_border=true&card_width=500&theme=swift"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src='https://github-readme-stats.vercel.app/api?username=williamjesusdev&hide=issues&count_private=true&show_icons=true&hide_border=true&card_width=400&theme=github_dark' alt='William Github Stats'/>
+      <img src='https://github-readme-stats.vercel.app/api?username=williamjesusdev&hide=issues&count_private=true&show_icons=true&hide_border=true&card_width=500&theme=github_dark' alt='William Github Stats'/>
     </picture>
   </div>
-    
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=williamjesusdev&langs_count=6&hide_border=true&theme=github_dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=williamjesusdev&langs_count=6&hide_border=true&theme=swift"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=williamjesusdev&langs_count=6&hide_border=true&theme=github_dark' alt='William Wakatime Stats'/>
-  </picture>
+  
+  <div>
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api/wakatime?username=williamjesusdev&langs_count=6&hide_border=true&theme=github_dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/wakatime?username=williamjesusdev&langs_count=6&hide_border=true&theme=swift"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src='https://github-readme-stats.vercel.app/api/wakatime?username=williamjesusdev&langs_count=6&hide_border=true&theme=github_dark' alt='William Wakatime Stats'/>
+    </picture>
+    <picture>
+      <source 
+        srcset="https://streak-stats.demolab.com?user=williamjesusdev&theme=github_dark-blue&hide_border=true&locale=pt_BR&exclude_days=Sun%2CSat"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://streak-stats.demolab.com?user=williamjesusdev&theme=swift&hide_border=true&locale=pt_BR&exclude_days=Sun%2CSat"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src='https://streak-stats.demolab.com?user=williamjesusdev&theme=github_dark-blue&hide_border=true&locale=pt_BR&exclude_days=Sun%2CSat' alt='William GitHub Streak'/>
+    </picture>
+  </div>
 
   <br>
 </div>
