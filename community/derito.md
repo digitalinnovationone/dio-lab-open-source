@@ -5,6 +5,7 @@ Sou angolano, tenho 53 anos, formado pela UCB - Universidade Católica de brasil
 ### Conecte-se comigo
 [![Github](https://img.shields.io/badge/Github-357?style=for-the-badge&logo=Github&logoColor=30A3DC)](https://github.com/Derito/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-357?style=for-the-badge&logo=LinkedIn&logoColor=30A3DC)](https://www.linkedIn.com/feed/)
+[![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/heldercsta/)
 
 ### Habilidades
 ![JAVA](https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=java&logoColor=30A3DD)
