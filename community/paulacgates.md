@@ -12,7 +12,7 @@
 
 Espero aprender muito sobre desenvolvimento com Flutter, que é algo que sempre tive muito interesse. Apesar de nunca ter tido contato com Dart, correrei muito atrás do conteúdo. Estou muito ansiosa pelas próximas aulas e pela conclusão do curso.
 
-###Redes Sociais
+### Redes Sociais
 
 <a href="https://www.linkedin.com/in/paulacgates/"><img src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" style="width:50px" alt="Linkedin" border="0" /></a> <a href="https://www.instagram.com/paulacarolinegates/"><img src="https://images.vexels.com/media/users/3/137198/isolated/preview/07f0d7b69ef071571e4ada2f4d6a053a-icone-do-instagram-colorido.png" style="width:50px" alt="Instagram" border="0" /></a>
 
