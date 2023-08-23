@@ -6,7 +6,11 @@
 
 ---
 
+<<<<<<< HEAD
 Sou Marido, Pai, Professor e Pesquisador (apaixonado por todas as especificações e não necessariamente nesta ordem). Gosto muito de programação e da área de Ciências de Dados e agregar isso com minha formação é mais satisfatório ainda. Tenho uma paixão pela área de Inovação e Empreendedorismo.
+=======
+Sou Marido, Pai, Professor e Pesquisador (apaixonado por todas as especificações). Gosto muito de programação e da área de Ciências de Dados e agregar isso com minha formação é mais satisfatório ainda. Tenho uma paixão pela área de Inovação e Empreendedorismo.
+>>>>>>> 307e91e29db4b0246532cbf51eb162332e8c45c0
 
 ### 📚 Formação Acadêmica
 
