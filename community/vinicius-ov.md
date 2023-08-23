@@ -12,7 +12,11 @@ Olá, meu nome é Vinicius. Trabalho com programação há mais de 10 anos. Come
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:vinicius.ov@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/vinicius-ov/)
 
-## Skills
+## Techs
+
+![Swift](https://img.shields.io/badge/SWIFT-000?style=for-the-badge&logo=swift) 
+![Java](https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=java)
+![iOS](https://img.shields.io/badge/IOS-000?style=for-the-badge&logo=iOS)  
 
 ## GitHub Stats
 
