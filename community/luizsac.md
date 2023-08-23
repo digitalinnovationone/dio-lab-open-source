@@ -5,7 +5,7 @@
 
 🎯 Sou AWS Certified Cloud Practitioner.
 
-✨E ultimamente, tenho me interessado bastante pela área de dados, por isso resolvi participar dsse bootcamp do Santander.
+✨E ultimamente, tenho me interessado bastante pela área de dados, por isso resolvi participar deste bootcamp do Santander.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/luizhenriquesalgado/)
