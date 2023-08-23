@@ -1,4 +1,3 @@
-<!-- Título -->
 # Vinicius Fais
 
 ## 📱 Desenvolvedor Flutter e Amante da Criação de Apps Incríveis 🚀
