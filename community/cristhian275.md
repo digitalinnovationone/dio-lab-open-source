@@ -5,7 +5,7 @@
  
 
 
- 📖 Student of Computer Science
+ 📖 Student of Computer Science.
 
 -[Linkdin profile](https://www.linkedin.com/in/cristhian-ocampo-quintero-75a301181/)
 
