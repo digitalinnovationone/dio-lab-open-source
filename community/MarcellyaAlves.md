@@ -1,4 +1,3 @@
-
 # Sobre mim
 
 Olá, me chamo Marcelly Figueiredo Alves, tenho 26 anos e em 2014 iniciei minha primeira graduação. Em 5 anos me formei em Engenharia Química, na Universidade Católica de Pernambuco, onde tive minhas primeiras experiências profissionais. Por mais 2 anos cursei uma pós em desenvolvimento de processos ambientais, até que descobri minha paixão: desenvolvimento de software.
