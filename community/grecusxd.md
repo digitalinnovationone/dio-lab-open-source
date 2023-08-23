@@ -2,8 +2,7 @@
 # Douglas Gomes de Souza
 
 Atualmente faço o curso de Ciências da Computação pela FAM (Facudade das Americas).<br>
-Trabalho como freelancer com meu irmão e meu amigo desenvolvendo desenvolvendo aplicações web e descktop.
-
+Trabalho atualmente como freelancer enquanto busco por uma oportunidade de ingressar na área de tecnologia.
 
 ## Conecte-se comigo
 
