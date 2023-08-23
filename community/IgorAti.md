@@ -7,6 +7,7 @@ Forte experiência em consultoria Big Four na área de serviço de assessoria a 
 
 Realização de análise de dados, foco em gestão de negócios, processos e análise de ativos mercado financeiro.  
 
+
 ## Conecte-se comigo
 
 <a href="https://www.linkedin.com/in/igor-abib-a2442622" title ="https://www.linkedin.com/in/igor-abib-a2442622">
