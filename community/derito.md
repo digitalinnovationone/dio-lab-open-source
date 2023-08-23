@@ -1,6 +1,6 @@
-# Hélder Costa
+# Hélder Costa (Derito)
 
-Sou angolano, tenho 53 anos, formado pela UCB - Universidade Católica de brasilia em ' Analise e Desenvolvimento de Sistemas',atualmente gosto bastante da área de trabalhar como full Stack, tenho algun dominio de Java, Kotlin, PostgreSQL, HTML uso frameworks como Spring e Maven meu desejo é melhorar cada dia mais.
+Sou angolano, tenho 53 anos, formado pela UCB - Universidade Católica de brasilia em ' Analise e Desenvolvimento de Sistemas', atualmente gosto bastante de trabalhar em projectos como full Stack, tenho algun dominio de Java, Kotlin, PostgreSQL, HTML uso frameworks como Spring e Maven meu desejo é melhorar cada dia mais.
 
 ### Conecte-se comigo
 [![Github](https://github.com/Derito/)
@@ -12,11 +12,3 @@ Sou angolano, tenho 53 anos, formado pela UCB - Universidade Católica de brasil
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
-
-
-
-
-
-
-
----
