@@ -1,7 +1,7 @@
 # **Kalew Piveta**
 ### **Sobre mim:**
 
-Me chamo Kalew, sou estudando de Engenharia Mecatrônica e Segurança da Informação, além disso, gosto muito de aprender, sempre que possível, várias *Hard skills*. Tenho interesse por diversas áreas, como: dados, infraestrutura, redes, desenvolvimento, cyber segurança. De forma geral, o que me chamar atenção, eu vou estudar e tentar me desenvolver, mesmo que de forma básica, na área.
+Me chamo Kalew, sou estudante de Engenharia Mecatrônica e Segurança da Informação, além disso, gosto muito de aprender, sempre que possível, várias *Hard skills*. Tenho interesse por diversas áreas, como: dados, infraestrutura, redes, desenvolvimento, cyber segurança. De forma geral, o que me chamar atenção, eu vou estudar e tentar me desenvolver, mesmo que de forma básica, na área.
 
 ## **Social**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/kalew-piveta/)
