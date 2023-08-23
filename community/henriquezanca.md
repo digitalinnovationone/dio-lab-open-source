@@ -21,8 +21,8 @@
 <h3 align="left">Github Stats:</h3>
 <div><div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquezanca&layout=compact&theme=nord)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=henriquezanca&layout=compact&theme=nord)
 
-![](https://github-readme-stats.vercel.app/api?username=henriquezanca&show_icons=true&theme=nord)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=henriquezanca&show_icons=true&theme=nord)
 
 
