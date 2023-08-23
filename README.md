@@ -1,131 +1,55 @@
 <h1>
     <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Contribuindo em um Projeto Open Source no GitHub</span>
+     <img align="center" width="50px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+    <span>Seja muito bem vindo ao perfil do Gigio!</span>
 </h1>
 
-Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
+# Giovanni Fleiter da Costa
 
-[![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
-[![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
+## 🤓 Sobre Mim
 
-## Objetivo
-Aprender o básico sobre contribuição no GitHub.
+Comecei na programação ainda "piá", entre as décadas de 80/90, na época era BASIC, COBOL, PASCAL, DBASE E CLIPPER, até me arrisquei no ASSEMBLER, em todas conseguia fazer meus programinhas. Mas acabei ficando 30 anos fora da área e há 2 anos atrás voltei a estudar programação, agora o Java, aqui mesmo na DIO. 
 
-## Ferramentas
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+Algum tempo depois senti a necessidade de desenvolver Apps e passei a estudar Flutter de modo completamente autônomo, isso há mais de um ano atrás. Com a ajuda de cursos online, e uma pessoa que criei forte amizade e já trabalha na área consegui avançar ainda mais. 
 
-## Percurso
-<table>
-  <thead>
-    <tr align="left">
-      <th>Nº</th>
-      <th>Etapas</th>
-      <th>Materiais de Apoio</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>01</td>
-      <td>Introdução ao Lab</td>
-      <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>02</td>
-      <td>Formas de Contribuir num Projeto Open Source</td>
-      <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>03</td>
-      <td>Desenvolvendo e Enviando uma Contribuição</td>
-      <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
-        </a>
-      </td>    
-    </tr>
-    <tr>
-      <td>04</td>
-      <td>Dicas e Materiais de Apoio</td>
-      <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
-        </a>
-      </td>    
-    </tr>
-  </tbody>
-  <tfoot></tfoot>
-</table>
+Atualmente faço faculdade de Desenvolvimento de Aplicativos Mobile na UNOPAR, estou cursando o segundo semestre e muito empolgado para o que ainda virá. 
+Agora com essa oportunidade que a DIO junto com o Banco Santander nos proporciona vou ainda mais além. Uma prova é esse README que eu tanto via os dos outros e queria fazer o meu e só agora com a ajuda do BootCamp é consegui realmente tornar realidade. 
 
----
-##  Desafio: Profile README
- Contribua no diretório "Community", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
- Inspire-se consultando os exemplos na pasta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
+Quero deixar o meu muito obrigado a todos os que com muito trabalho tornaram esse curso possível.
 
-### Instruções (PT/BR)
-1. Faça um **Fork** deste repositório;
-2. Clone localmente: `git clone https://github.com/SEUUSERNAME/dio-lab-open-source.git`;
-3. Adicione o remote upstream para manter seu repositório local atualizado: `git remote add upstream https://github.com/elidianaandrade/dio-lab-open-source.git`;
-    > Utilize o comando `git pull upstream main` para baixar e mesclar as alterações no seu repositório local com base na branch `main` deste repositório original de onde você fez o fork, ou `git fetch upstream main` para baixar sem mesclar. Veja mais em: [Primeiros Passos com Git e GitHub](https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
-4. Crie uma nova **branch** e nomeie como `feat/community/seunomedeusuario`: `git checkout -b feat/community/seunomedeusuario`;
-    > Exemplo: `git checkout -b feat/community/elidianaandrade`
-5. Dentro da pasta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
-    > Exemplo: `elidianaandrade.md` <br>
-6. Desenvolva o seu perfil. Para isso, você pode ver exemplos na pasta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils);
-    > **Observação:** Use os outros exemplos como inspiração e não cópia.
-7. Adicione suas alterações à "staging area" com o comando `git add community/seunomedeusuario.md`;
-8. Crie um commit e adicione a mensagem indicando a adição do seu perfil `git commit -m"feat: add seunomedeusuario profile"`;
-9. Envie as alterações para o seu repositório remoto `git push origin feat/community/seunomedeusuario`; 
-10. Crie um **Pull Request**.
 
-### Instructions (EN/US)
-1. **Fork** the repository;
-2. Clone locally: `git clone https://github.com/SEUUSERNAME/dio-lab-open-source.git`;
-3. Add upstream remote to keep your local repository up to date: `git remote add upstream https://github.com/elidianaandrade/dio-lab-open-source.git`;
-    > Use the command `git pull upstream main` to download and merge changes to your local repository based on the branch `main` from this original repository you forked it from, or `git fetch upstream main` to download without merging. See more at: [Getting Started with Git and GitHub](https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
-4. Create a new **branch** and name it as `feat/community/seunomedeusuario`: `git checkout -b feat/community/yourusername`;
-    > Example: `git checkout -b feat/community/elidianaandrade`
-5. Inside the folder [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community), create a file in Markdown (extension `.md`) and name it the same as your GitHub username;
-    > Example: `elidianaandrade.md` <br>
-6. Develop your profile. For this you can see examples in the folder [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community) and add some of the utilities present in the folder [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils);
-    > **Note:** Use the other examples as inspiration, not copy.
-7. Add your changes to the "staging area" with the command `git add community/yourusername.md`;
-8. Create a commit and add the message indicating the addition of your profile `git commit -m"feat: add yourusername profile"`;
-9. Push changes to your remote repository `git push origin feat/community/yourusername`; 
-10. Create a **Pull Request**.
+## 📱 Sobre o Desenvolvimento
+Flutter é fascinante. Tenho dois projetos já em uso, todos demandaram muito tempo, esforço e dedicação; muitas vêzes avançando adentro na madrugada, e foi numa dessas madrugadas frias (estou na região de Curitiba) que eu mesmo senti na pele uma senação eufórica, foi quando eu finalmente entendi e consegui resolver na prática um problema que estava me travando há tempos, nesse momento me veio na mente a frase que desde então me acompanha: 
+### "O que era difícil há um mes hoje eu já domino". 
 
-### Utilitários
+O primeiro projeto que iniciei foi para uma organização de trabalhos voluntários o qual fiz totalmente sem custo, chama-se PQ-CAMBUÍ. Este projeto me ajudou muito e aprendei bastante com ele, terminando vou refatorar porque muita coisa pode ser melhorada e adequada. Já o projeto RM está sendo desenvolvido em parceria com a empresa para desenvolver um aplicativo proprietário, diferente de qualquer dos que já existem e que atenderão a sua necessidade específica.
 
-[![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/badges/badges.md)
-[![Card Stats](https://img.shields.io/badge/Card%20Stats-E94D5F?style=for-the-badge)](https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
-[![Badges](https://img.shields.io/badge/Card%20Streak%20States-30A3DC?style=for-the-badge)](https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-streak-stats.md)
+Segue os links do projeto RM que ainda em desenvolvimento:
+
+💄 https://github.com/gvnfcosta/RM_Cosmeticos
+🔗 https://rmapp-3284d.web.app/#/
+
+
+
+# 💻Tech Stacks
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-%23276DC3.svg?style=for-the-badge&logo=flutter&logoColor=white) 
+![Dart](https://img.shields.io/badge/dart-%23008080.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+
+# 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-fleiter-dacosta-a0045359/)
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gvnfcosta@gmail.com)
 
 ---
 
-## Contribua
-[![Star](https://img.shields.io/github/stars/elidianaandrade/dio-lab-open-source?style=social)](https://github.com/elidianaandrade/dio-lab-open-source/stargazers)
-[![Forks](https://img.shields.io/github/forks/elidianaandrade/dio-lab-open-source?style=social)](https://github.com/elidianaandrade/dio-lab-open-source/forks)
-[![GitHub Issues](https://img.shields.io/github/issues/elidianaandrade/dio-lab-open-source?style=social)](https://github.com/elidianaandrade/dio-lab-open-source/issues/)
-
- Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição além do seu exemplo de Profile README, é inserir outros utilitários na pasta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils), ou melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/docs). <br>
- Além disso, você também pode contribuir:
- 
-⚠️ Resolvendo, respondendo ou indicando **issues**
-
-⭐ Adicionando aos favoritos (**star**) 
-
-### Membros da comunidade que já contribuiram:
-<a href="https://github.com/elidianaandrade/dio-lab-open-source/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=elidianaandrade/dio-lab-open-source"/>
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=gvnfcosta&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+!
 </a>
 
 ##
