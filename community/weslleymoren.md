@@ -1,5 +1,5 @@
 <p float="left">
- <img src="https://pbs.twimg.com/media/F4PjaG2W4AEUD-j?format=jpg&name=large" width="2000" height="" />
+ <img src="https://pbs.twimg.com/media/F4PptRgXoAAPwGs?format=jpg&name=large" width="2000" height="" />
 </p>
 
 ## Conecte-se comigo:
@@ -16,7 +16,9 @@
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=oracle&logoColor=009CFF)
 ![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=Spring&logoColor=009CFF)
 
-## GitHub Stats and Contributions:
+## GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=weslleymoren&theme=transparent&bg_color=000&border_color=009CFF&logoColor=009CFF&show_icons=true&icon_color=009CFF&title_color=&logoColor=009CFF&text_color=FFF)
+
+## Contributions:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=github-dark-blue&background=000&border=009CFF&dates=FFF)](https://git.io/streak-stats)
