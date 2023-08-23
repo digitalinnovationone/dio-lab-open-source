@@ -8,7 +8,6 @@ Oi, sou Júlia, tenho 19 anos curso psicologia e gosto de tecnologia. Então, eu
 ## Status
 Eu sou iniciante mas essas são as estatisticas das minhas habilidades.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juuhcso&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Juuhcso&theme=tokyonight&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 ## Quero aprender
