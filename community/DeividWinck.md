@@ -23,7 +23,6 @@ Olá meu nome é **Deivid Winck** e estou iniciando na jornada dev!
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeividWinck&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
 
 
-
 ## Minhas Contribuições
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DeividWinck&theme=dark&locale=pt_BR&background=000&border=30A3DC&dates=09D990&fire=red&currStreakNum=yellow&sideNums=yellow&ring=0D5590&sideLabels=09D990&currStreakLabel=red)](https://git.io/streak-stats)
