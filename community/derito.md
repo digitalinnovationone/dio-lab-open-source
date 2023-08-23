@@ -7,7 +7,7 @@ Sou angolano, tenho 53 anos, formado pela UCB - Universidade Católica de brasil
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-357?style=for-the-badge&logo=LinkedIn&logoColor=30A3DC)](https://www.linkedIn.com/feed/)
 
 ### Habilidades
-![JAVA](https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=html5&logoColor=30A3DD)
+![JAVA](https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=java&logoColor=30A3DD)
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
