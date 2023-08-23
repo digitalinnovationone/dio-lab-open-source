@@ -23,6 +23,6 @@ Sou angolano, tenho 53 anos, formado pela UCB - Universidade Católica de brasil
 
 ### Estatística de uso no meu GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=derito&theme=transparent&bg_color=000&border_color=#20A3DC&show_icons=true&icon_color=#20A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=derito&theme=transparent&bg_color=#20dcb7&border_color=#20A3DC&show_icons=true&icon_color=#20A3DC&title_color=E94D5F&text_color=FFF)
 
 
