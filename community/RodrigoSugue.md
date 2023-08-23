@@ -40,9 +40,4 @@ I alread worked as trainee game developer at Eleven dragons.  I did a ramake of 
 
 
 
-    </tr>
-  </tbody>
-  <tfoot></tfoot>
-</table>
-
 ---
