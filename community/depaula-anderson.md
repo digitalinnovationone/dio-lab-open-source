@@ -3,7 +3,7 @@ Sobre
 - 🔧Trabalho como técnico em manutenção na CPTM 🚆
 - 📚Sou formado em Engenharia elétrica ⚡
 - 📚Atualmente estudo Engenharia da Computação💻
-
+- Sou pai de duas meninas e gosto de jogos eletrônicos👧👧 / 🎮
 Gostaria de aprender sobre a área de dados e me desenvolver cada vez mais!
 
 ## Habilidades
