@@ -24,11 +24,3 @@
   <img align="center" alt="cmerick-tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="cmerick-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
-
-## GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/cmerick">
-  <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=cmerick&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmerick&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
