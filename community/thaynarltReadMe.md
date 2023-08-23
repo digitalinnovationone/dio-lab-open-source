@@ -22,7 +22,7 @@ a fim de proporcionar projetos criativos e diversificados.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynarlt&layout=compact&langs_count=7&theme=dracula" alt="Gift's language" height="187px"  width="350px"/>
 </div>
 
-<!-- GitHub section: END -->
+<!-- GitHub section: END --->
 
 
  ##  Linguagens de programação em andamento...
