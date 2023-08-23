@@ -3,10 +3,9 @@
 
 # *Stephanie Bustamante*
 
-
 ## 🚀 Sobre mim
 
-Sou uma pessoa curiosa. Atualmente, estou cursando gradução em Ciências Contábeis enquanto me aventuro no mundo da tecnologia de informação. Para começar, estou focando na área de ciência/engenharia de dados, já conheça a linguagem SQL e agora estou começando a aprender Python.
+Sou uma pessoa curiosa. Atualmente, estou cursando gradução em Ciências Contábeis enquanto me aventuro no mundo da tecnologia de informação. Para começar, estou focando na área de ciência/engenharia de dados, já conheça a linguagem SQL e agora estou focando em Python.
 
 
 ## 🔗 Links
