@@ -90,7 +90,7 @@ Aprender o básico sobre contribuição no GitHub.
 ---
 ##  Challenge: Profile README (EN/US)
 
-Contribute on "Community" repository, creating a README profile having informations about that you want to share with community. For this, you must input: badges indicating your skills; cards with your statistics on GitHub and projects that you made it, contributed or that want that other people colaborate. Futhermore, you can input also links for your projects challenge and article in the Dio's pratform [Digital Innovation One](https://www.dio.me/). <br>
+Contribute on "Community" repository, creating a README profile having informations about that you want to share with community. For this, you must input: badges indicating your skills; cards with your statistics on GitHub and projects that you made it, contributed or that want that other people colaborate. Futhermore, you can input also links for your projects challenge and article in the Dio's pratform [Digital Innovation One](https://www.dio.me/).<br>
 Inspire consulting examples in the file [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community), check out some utilities in the file [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils) and use your creativity to creat yours 😊💙.
 
 ### Instructions
