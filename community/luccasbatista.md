@@ -1,5 +1,3 @@
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
 ###
 
 <h1 align="center">LB<br>👨🏾‍💻</h1>
