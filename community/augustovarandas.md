@@ -31,6 +31,6 @@
 
 ### Main Projects
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&theme=merko)](https://github.com/augustovarandas/dio-lab-open-source)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=augustovarandas&repo=dio-lab-open-source&theme=merko)](https://github.com/augustovarandas/dio-lab-open-source)
 
 <!-- ### Contributions -->
