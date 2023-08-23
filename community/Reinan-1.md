@@ -7,9 +7,10 @@
 
 
 <div align="center"> 
-  <h2>Vamos estabelecer uma conexão entre nós </h2>
+  <h2>Conecte-se comigo</h2>
   <a href="https://www.linkedin.com/in/reinan-wallas-santos-silva-987aaa286/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-  <a href="https://www.discord.com/in/reinan_10/" target="_blank"><img src"https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord"</a>
+  <a href="https://www.github.com/Reinan-1" target="_blank"><img src="https://img.shields.io/badge/Github-357?style=for-the-badge&logo=Github&logoColor=fffff"</a>
+  <a href = "mailto:facesofprosperidade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </div>
 
 <p align="center">
@@ -19,20 +20,21 @@
 ##
 
 <div align="center">
-  <h3>Main skills:</h3>
-  <img width="15%" height="15%" src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117"/> 
+  <h3>Habilidades:</h3>
+  <img width="12%" height="12%" src="https://img.shields.io/badge/-GitHub-14354C?style=for-the-badge&logo=github&labelColor=0D1117"/> 
   <img width="11%" height="11%" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img width="15%" height="15%" src="https://img.shields.io/badge/JavaScript-003300?style=for-the-badge&logo=javascript"/> 
+  <img width="14%" height="14%" src="https://img.shields.io/badge/JavaScript-003300?style=for-the-badge&logo=javascript"/> 
   <img width="10%" height="10%" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
   <img width="9%" height="10%" src="https://img.shields.io/badge/CSS3-264CE4?style=for-the-badge&logo=css3&logoColor=fff"/> 
 </div> 
 
+<div aling="center">
 <br><p align="center"><b>Contador de Visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/Reinan-1/count.svg" /></p> 
 <br></div>
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>**
 
 
 
