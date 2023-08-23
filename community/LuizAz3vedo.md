@@ -1,7 +1,7 @@
 ### Olá, Mundo! Eu sou Luiz Az3vedo
 
 - 🔭 Atualmente trabalhando com Data Science 
-- 🌱 Estudando Python, Dash e BI
+- 🌱 Estudando Python, Pandas, Dash e BI
 - 📫 Contate-me no email: Luizazevedo3212@hotmail.com
 - 😄 Pronouns: Ele/Dele
 
