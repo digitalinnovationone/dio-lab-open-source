@@ -1,5 +1,11 @@
 # Luiz Henrique Salgado Andrade Cardoso
-Breve descrição sobre você.
+🎓 Sou graduado em Sistemas de Informações pela Universidade Federal de Lavras.
+
+⏳ Possuo pequena experiência em desenvolvimento Java para a web e, atualmente, estou estudando Spring, Angular e AWS. Também estou familiarizado com bancos de dados relacionais como MySQL, PostgreSQL, Oracle e SQLServer e não-relacionais como MongoDB e DynamoDB.
+
+🎯 Sou AWS Certified Cloud Practitioner.
+
+✨E ultimamente, tenho me interessado bastante pela área de dados, por isso resolvi participar dsse bootcamp do Santander.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/luizhenriquesalgado/)
