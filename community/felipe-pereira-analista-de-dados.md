@@ -9,20 +9,6 @@
       <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-pereira-analista-de-dados&theme=blue-green">
 </div>
 
-## PRINCIPAIS PROJETOS
-
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px; width: 50%; margin-left: 25%;">
-<a href="https://github.com/felipe-pereira-analista-de-dados/automatizacao_cotacao_dolar">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felipe-pereira-data-analyst&repo=Automatizacao_dolar&theme=react&bg_color=1F222E&title_color=3BEFF7&icon_color=30A3DC&hide_border=true&show_icons=true" alt="Automatizacao_dolar">
-</a>
-<a href="https://github.com/felipe-pereira-analista-de-dados/Loja-de-Roupas">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felipe-pereira-analista-de-dados&repo=Loja_roupa&hide_border=true&bg_color=1F222E&title_color=3BEFF7&icon_color=30A3DC&theme=react&show_icons=true" alt="Loja_roupa">
-</a>
-<a href="https://github.com/felipe-pereira-analista-de-dados/comandos_basicos_panda">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felipe-pereira-analista-de-dados&repo=Panda&theme=react&bg_color=1F222E&title_color=3BEFF7&icon_color=F8D866&hide_border=true&show_icons=false" alt="Panda">
-</a>
-</div>
-
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="excel" height="40" width="180" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
      <img align="center" alt="Mel-Python" height="40" width="40" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
@@ -31,6 +17,8 @@
 </div>
 
 ###
+
+
 
 <div align="center">
    <a href="https://www.linkedin.com/in/felipe-pereira-analista-de-dados-jr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
