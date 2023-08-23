@@ -3,7 +3,7 @@
 Sou angolano, tenho 53 anos, formado pela UCB - Universidade Católica de brasilia em ' Analise e Desenvolvimento de Sistemas', atualmente gosto bastante de trabalhar em projectos como full Stack, tenho algun dominio de Java, Kotlin, PostgreSQL, HTML uso frameworks como Spring e Maven meu desejo é melhorar cada dia mais.
 
 ### Conecte-se comigo
-[![Github](https://github.com/Derito/)
+[![Github](https://github.com/Derito/)(https://img.shields.io/badge/Github-357?style=for-the-badge&logo=Github&logoColor=ggggg)](https://www.github.com/AgenteDeveloper)
 [![LinkedIn](https://www.linkedin.com/feed/)]
 
 ### Habilidades
