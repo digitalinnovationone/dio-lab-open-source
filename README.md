@@ -121,6 +121,8 @@ Aprender o básico sobre contribuição no GitHub.
  
 ⚠️ Resolvendo, respondendo ou indicando **issues**
 
+😁
+
 ⭐ Adicionando aos favoritos (**star**) 
 
 ### Membros da comunidade que já contribuiram:
