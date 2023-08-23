@@ -1,4 +1,4 @@
-### Oii eu sou Stefani Carvalho 👋
+### Oii eu sou Stefani Carvalho  👋
 
 - 👩🏻‍💻 Estagiaria de Desenvolvimento de Software
 - 🖥️ Estudante de Ciências da Computação
