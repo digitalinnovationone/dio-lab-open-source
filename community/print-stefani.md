@@ -1,34 +1,25 @@
-### Oii eu sou Stefani Carvalho  👋
-
+# Stefani Carvalho
 - 👩🏻‍💻 Estagiaria de Desenvolvimento de Software
 - 🖥️ Estudante de Ciências da Computação
 - ☁️ Certificada AWS Cloud Pratictioner
-- 😊 Hobbys: Tocar violão e violino, leituras e filmes
-   
-<div>
-  <a href="https://github.com/print-stefani">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=print-stefani&theme=midnight-purple&show_icons=true" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=print-stefani&layout=compact&langs_count=16&theme=midnight-purple" />
-</div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Stefani-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Stefani-Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Stefani-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Stefani-IntelliJ" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg">
-  <img align="center" alt="Stefani-Sping" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Stefani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Stefani-Jenkins" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="Stefani-AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="right" alt="Stefani-GIF" height="80" width="80" src="https://i.picasion.com/pic92/b3b8a834d7047c4be1578b2a842fb4dd.gif">
-</div>
-  
-  #
-<div> 
-  <a href="https://www.youtube.com/channel/UCSuyI3hGcbFSBWh4H7mNYOg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/stefanicarvalh_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/stefani-beatriz-carvalho-vasconcellos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  <a href="https://discord.gg/jkpvMaYB" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "stefanibeatrizcv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-  
+
+### Conecte-se comigo
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-6e5494?style=for-the-badge)](https://web.dio.me/users/stefanibia2212)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=6e5494)](https://www.linkedin.com/in/stefani-beatriz-carvalho-vasconcellos/)
+
+
+### Habilidades
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=6e5494)
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=6e5494)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=6e5494)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=6e5494)](https://git-scm.com/doc) 
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=6e5494)](https://docs.github.com/)
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=print-stefani&theme=midnight-purple&show_icons=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=print-stefani&layout=compact&theme=midnight-purple&show_icons=true)
+
+### Meus Principais Desafios de Projeto DIO
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&theme=midnight-purple&show_icons=true)](https://github.com/elidianaandrade/dio-lab-open-source)
+[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&theme=midnight-purple&show_icons=true)](https://github.com/digitalinnovationone/roadmaps)
