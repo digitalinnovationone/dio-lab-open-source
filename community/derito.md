@@ -8,15 +8,17 @@ Sou angolano, tenho 53 anos, formado pela UCB - Universidade Católica de brasil
 [![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/heldercsta/)
 
 ### Habilidades
-![JAVA](https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=java&logoColor=30A3DD)
+
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
-> Seja Bem Vindo!
+### Linguagens de Progamação
 
-- Java
-- Kotlin
-- HTML
+> Abaixo algumas linguagens de programação que estou procurando dominio! 
+
+- Java ![JAVA](https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=java&logoColor=30A3DD)
+- Kotlin ![KOTLIN](https://img.shields.io/badge/KOTLIN-000?style=for-the-badge&logo=Kotlin&logoColor=30A3DD)
+
 
