@@ -1,4 +1,5 @@
 # Pedrodev3005
+Olá, sou Pedro Augusto, estudande do segundo período engenharia de computação do IFPB campus Campina Grande e estou criando esse README para que você me conheça um pouco mais. Espero que goste 😊
 
 ## Conecte-se Comigo:
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/pedroaugusto1120/)
