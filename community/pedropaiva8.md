@@ -1,11 +1,10 @@
 # 👤 Sobre mim
-Desde a infância sempre tive afinidade com **computadores** e muita **curiosidade** para aprender mais a fundo.
 
-O **primeiro contato** que tive com programação foi em um curso técnico integrado ao ensino médio. Aprendi um pouco de lógica de programação em **Python**, fiquei bem empolgado na época com as **possibilidades e o controle que obtemos**.
+O **primeiro contato** que tive com programação foi em um curso técnico. Aprendi um pouco de lógica de programação em **Python**, fiquei bem empolgado com as **possibilidades e o controle que obtemos**.
 
 Hoje curso **Análise e Desenvolvimento de Sistemas**, e estou conhecendo um pouco mais cada área dentro de desenvolvimento para encontrar o meu foco principal. 
 
-Sou iniciante, mas **ver o progresso** a cada dia é **extramamente recompesador** 💪
+Sou iniciante, mas **ver o progresso** a cada dia é **extremamente recompesador** 💪
 
 # Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pedropaiva8&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
