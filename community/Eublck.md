@@ -1,8 +1,8 @@
 
-<h1 align="center">Anthony Santos</h1>
+<h1 align="center" >Anthony Santos</h1>
 
 
-Olá, me chamo Anthony, tenho 21 anos e curso ciência da computação. Estou buscando conhecimento no bootcamp do santander 2023, mas precisamente na área de back-end java. Para sincero eu estou iniciando nesse mundo de programação, estou disposto a me empenhar ao máximo para me especializar na área e ser um ótimo profissional.
+Olá, me chamo Anthony, tenho 21 anos e curso ciência da computação. Estou buscando conhecimento no bootcamp do santander 2023, mais precisamente na área de back-end java. Para ser sincero eu estou iniciando nesse mundo de programação, estou disposto a me empenhar ao máximo para me especializar na área e ser um ótimo profissional.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=fffff&color=0000ff)](https://www.linkedin.com/in/anthony-santos-361745203/)&nbsp;
@@ -14,7 +14,7 @@ Olá, me chamo Anthony, tenho 21 anos e curso ciência da computação. Estou bu
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"  />
  <img 
-  <img width="40" />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" height="40" alt="figma"  />
   <img width="12" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" height="40" alt="git"  />
