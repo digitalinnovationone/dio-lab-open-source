@@ -103,6 +103,22 @@ Aprender o básico sobre contribuição no GitHub.
 9. Push changes to your remote repository `git push origin feat/community/yourusername`; 
 10. Create a **Pull Request**.
 
+### Instrucciones (ES)
+1. **Fork** el repositorio;
+2. Clona localmente: `git clone https://github.com/USERNAME/dio-lab-open-source.git`;
+3. Agrega un remoto "upstream" para mantener actualizado tu repositorio local: `git remote add upstream https://github.com/elidianaandrade/dio-lab-open-source.git`;
+    > Utiliza el comando `git pull upstream main` para descargar y fusionar los cambios en tu repositorio local basado en la rama `main` de este repositorio original del cual lo bifurcaste, o `git fetch upstream main` para descargar sin fusionar. Obtén más información en: [Getting Started with Git and GitHub](https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
+4. Crea una nueva **branch** y nómbrala como desees. `feat/community/seunomedeusuario`: `git checkout -b feat/community/yourusername`;
+    > Ejemplo: `git checkout -b feat/community/elidianaandrade`
+5. Dentro de la carpeta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community), crea un archivo en formato Markdown (extensión `.md`) y nómbralo igual que tu nombre de usuario de GitHub;
+    > Ejemplo: `elidianaandrade.md` <br>
+6. Desarrolla tu perfil. Para esto, puedes ver ejemplos en la carpeta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community) y añadir algunas de las utilidades presentes en la carpeta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils);
+    > **Nota**: Utiliza los otros ejemplos como inspiración, no como copia.
+7. Agrega tus cambios a la "zona de preparación" con el comando: `git add community/yourusername.md`;
+8. Sube los cambios a tu repositorio remoto:  `git commit -m"feat: add yourusername profile"`;
+9. Push changes to your remote repository `git push origin feat/community/yourusername`; 
+10. Crea un **Pull Request**.
+
 ### Utilitários
 
 [![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/badges/badges.md)
