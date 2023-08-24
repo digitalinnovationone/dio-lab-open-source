@@ -53,7 +53,6 @@
   </div>
   <img height="200em" src="https://media.tenor.com/C4lCxC3_IgAAAAAi/%E5%BF%99%E3%81%97%E3%81%84-%E4%BB%95%E4%BA%8B.gif" alt="Imagem" style="flex: 1;">
 </div>
->
 
 [![](https://visitcount.itsvg.in/api?id=DurezahGeek&icon=0&color=0)](https://visitcount.itsvg.in)
 
