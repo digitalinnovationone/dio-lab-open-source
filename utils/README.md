@@ -4,8 +4,8 @@
     <span> Utilitários para o Profile README</span>
 </h1>
 
-
 ## Índice
+
 <table>
   <thead>
     <tr align="left">
@@ -56,6 +56,31 @@
   <tfoot></tfoot>
 </table>
 
+## Análise de Perfil
+
+- Arquivo: **'analise_perfil.ipynb'**
+- A análise de perfil é realizada por um arquivo Jupyter Notebook que contém um código em Python para analisar o perfil dos participantes com base nos arquivos da pasta _community/_. O código foi desenvolvido por [ccampa896](https://github.com/ccampa896).
+
+##
+
+- Arquivo **'script'**
+- Para os usuários **Linux** que não possuem a linguagem Python instalada, podem seguir os seguintes passos:
+- Abra o terminal na pasta _dio-lab-open-source/utils/_
+- Execute o comando `chmod +x script`
+- Execute o comando `./script`
+
+##
+
+- Arquivo **'script.exe'**
+- Para os usuários **Windows** que não possuem a linguagem Python instalada, podem seguir os seguintes passos:
+- Abra o Prompt de Comando na pasta _dio-lab-open-source/utils/_
+- Execute o comando `script.exe` no Prompt de Comando ou duplo clique no arquivo
+
+##
+
+- Arquivo **'script.py'**: script Python para análise de perfil dos participantes, sem codificação de caracteres específicos, para rodar no ambiente _Linux_.
+- Arquivo **'script_win.py'**: script Python para análise de perfil dos participantes, com codificação de caracteres específicos, para rodar no ambiente _Windows_.
 
 ## Links Úteis
+
 - [Guia sobre Markdown do GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
