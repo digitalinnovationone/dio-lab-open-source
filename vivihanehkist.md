@@ -44,14 +44,6 @@
   <tbody align="left">
     <tr>
       <td>
-        <img align="center" alt="Markdown" src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown">
-      </td>
-      <td>
-        <code>![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5">
       </td>
       <td>
