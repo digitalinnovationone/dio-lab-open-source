@@ -1,9 +1,6 @@
 ### Olá, Eu sou a Clarice✨👋
 
-
-
-
-- 🌱 Estudando React 
+- 🌱 Estudando React e Java 
 - 💻 Cursando Ciência da Computação - UFPA 
 - ⚡ Fun fact: Swiftie ✨
 
