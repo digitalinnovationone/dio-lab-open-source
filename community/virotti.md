@@ -33,7 +33,7 @@ In addition to my work experience, I am also actively pursuing programming studi
 
 ## Portfolio
 
-These are the websites of the documentations I worked on:
+These are the websites of the documentations I have worked on:
 
 - [Auto.Sky - Public Documentation (English)](https://skyinone.atlassian.net/wiki/spaces/AUTODOC/overview)
 - [Auto.Sky - Public Documentation (Español)](https://skyinone.atlassian.net/wiki/spaces/APDE/overview)
