@@ -1,6 +1,6 @@
 # Samuel Cardoso Félix
 
-Um estudante de Engenharia da Computação da Universidade Federal do Rio Grande do Norte.
+Um estudante de Engenharia da Computação da Universidade Federal do Rio Grande do Norte | Desenvolvedor Web.
 
 ## Conecte-se comigo
 
