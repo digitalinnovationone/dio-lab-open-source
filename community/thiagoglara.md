@@ -10,6 +10,7 @@ Meu nome é Thiago Lara. Atualmente moro em Belo Horizonte, Minas Gerais. Já an
 ![PHP](https://img.shields.io/badge/PHP-darkblue)
 ![SQL](https://img.shields.io/badge/SQL-orange)
 ![Python](https://img.shields.io/badge/Python-python)
+![Java](https://img.shields.io/badge/Java-brown)
 
 
 
