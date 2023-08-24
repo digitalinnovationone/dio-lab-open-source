@@ -27,9 +27,9 @@ Abraços,
 ![SQL](https://img.shields.io/badge/SQL-888?style=for-the-badge&logo=java)
 
 ![INGLÊS](https://img.shields.io/badge/INGLÊS-888?style=for-the-badge&logo=java)
-* SQL
-* Desenvolvimento Mobile (Kotlin)
-* Inglês
+
+![KOTLIN](https://img.shields.io/badge/KOTLIN-888?style=for-the-badge&logo=java)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cardoso20191&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=8888&title_color=30A3DC&text_color=FFF)
 
