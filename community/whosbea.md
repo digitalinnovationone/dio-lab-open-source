@@ -8,7 +8,7 @@
 </h1>
 
  <!-- Bio -->
-<p align="justify">Tenho 18 anos, faço a faculdade de Engenharia de Software e atualmente estou no 2º periodo. Apesar de estar no começo ja me interesso por bastante coisa mais avançada como: Inteligencia Artificia/Machine Learning, Desenvolvimento Web e Desenvolvimento de Games. Estou sempre pesquisando e tentando aprender mais sobre o que eu gosto, por isso estou aqui no BootCamp da Dio.
+<p align="justify">Tenho 18 anos, faço a faculdade de Engenharia de Software e atualmente estou no 2º periodo. Apesar de estar no começo ja me interesso por bastante coisa mais avançada como: Inteligencia Artificial/Machine Learning, Desenvolvimento Web e Desenvolvimento de Games. Estou sempre pesquisando e tentando aprender mais sobre o que eu gosto, por isso estou aqui no BootCamp da Dio.
 <br><br>
 Minha cor preferida é roxo, meu humor é quebrado e eu gosto do Usopp em baixa qualidade!
 <br><br>
