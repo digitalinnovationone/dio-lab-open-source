@@ -1,9 +1,10 @@
-<h1 style="background-color:powderblue;">
+<h1>
 LÚCIO P. PATROCÍNIO - <i>Perfil</i>
 </h1>
-<H2>:sunglasses: Quem Sou Eu?</H2>
-<span><em>Olá Pessoal! Conforme os requisitos do "Desafio de Projeto Open Source da Dio", apresento nesta página algumas informações a meu respeito para compor este perfil demonstrativo.
-Sou Engenheiro Mecânico com Mestrado em Informática (matemática computacional), professor universitário, e atuei durante 5 anos em desenvolvimento de sistemas na área comercial. Entretanto estou há muitos anos fora do mercado de developers e agora tento me atualizar nas tecnologias em uso.</em> </span>
+
+> *Olá Pessoal! Conforme os requisitos do "Desafio de Projeto Open Source da Dio", apresento nesta página algumas informações a meu respeito para compor este perfil demonstrativo.
+> Sou Engenheiro Mecânico com Mestrado em Informática (matemática computacional), professor universitário, e atuei durante 5 anos em desenvolvimento de sistemas na área comercial. Entretanto estou há muitos anos  
+> fora do mercado de developers e agora tento me atualizar nas tecnologias em uso*
 
 <H2>:surfer: Meus Interesses Atuais</H2>
 <ul>
@@ -16,9 +17,10 @@ Sou Engenheiro Mecânico com Mestrado em Informática (matemática computacional
 
 <H2>:chart_with_upwards_trend: Minhas Estatísticas no Github</H2>
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LPATROCINIO1969&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![LPATROCINIO's GitHub stats](https://github-readme-stats.vercel.app/api?username=LPATROCINIO1969&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LPATROCINIO1969&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 
 <H2>:telephone_receiver: Como entrar em Contato comigo?</H2>
 
