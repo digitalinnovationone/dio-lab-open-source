@@ -21,11 +21,11 @@ Hoje busco me aprimorar também como desenvolvedor Java, para descobrir novos ho
 
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
+![Golang](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
-
-![Golang](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go)
 
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql)
 
