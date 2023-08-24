@@ -20,3 +20,6 @@ Estou muito feliz e empolgado com o curso e busco sempre aprender novas habilida
 
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 
+## Repositório
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MatrPaivaDev&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MatrPaivaDev/dio-lab-open-source.git)
