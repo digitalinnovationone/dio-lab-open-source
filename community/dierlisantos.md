@@ -28,7 +28,7 @@ Meus primeiros passos em desenvolvimento web durante a formação fora da DIO. C
 ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 
 
-## Soft Skills
+## Soft skills
 
 📢 Comunicação
 
