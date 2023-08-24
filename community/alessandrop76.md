@@ -1,50 +1,22 @@
 # Dio Lab Open Source
 ## Alessandro Pereira
 
-### GitHub Streak Stats
 
-<table>
-  <tr>
-    <td>
-      Temas
-    </td>
-    <td>
-       <a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/themes.md">
-          github-readme-streak-stats/docs/themes.md
-       </a>
-    </td>
-  </tr>
-    <tr>
-    <td>
-      Gerador
-    </td>
-    <td>
-       <a href="https://streak-stats.demolab.com/demo/">
-            streak-stats.demolab.com/demo/
-       </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Fonte
-    </td>
-    <td>
-       <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-          DenverCoder1/github-readme-streak-stats
-       </a>
-    </td>
-  </tr>
-</table>
 
-## Card - Streak
-
-| Preview | Parameters |
-|:-------:|:----------:|
-```
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-```
 ### Main skills:
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)&nbsp;
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)&nbsp; 
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)&nbsp;
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=green)
+
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alessandrop76&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alessandrop76&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+### Também estou aqui
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/alessandropereira6000)<br />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-pereira-1b140a57/)
 
