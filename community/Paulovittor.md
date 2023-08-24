@@ -8,7 +8,7 @@
     <em style="font-size: 8px;">Eu sou Purggle!</em>
 </h1>
 <p>
-  Aprendiz de Desenvolvimento FullStack Web e Mobile de Manaus-AM e graduando em Análise e Desenvolvimento de sistemas pela Faculdade Martha Falcão. Estou em transição da área administrativa para a de desenvolvimento e como um bom aluno iniciante, fiz meu primeiro "Hello World" assistindo a aula de HTML e CSS do professor Gustavo Guanabara e desde lá, estou em eterno aprendizado. <br>
+  Aprendiz de Desenvolvimento FullStack Web e Mobile em Manaus-AM e graduando em Análise e Desenvolvimento de sistemas pela Faculdade Martha Falcão. Estou em transição da área administrativa para a de desenvolvimento e como um bom aluno iniciante, fiz meu primeiro "Hello World" assistindo a aula de HTML e CSS do professor Gustavo Guanabara e desde lá, estou em eterno aprendizado. <br>
     Sou apaixonado por música, livros, filmes, tecnologia o que me dá uma mente que está em constante criatividade. 💜
 </p>
 
