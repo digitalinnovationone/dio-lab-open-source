@@ -1,6 +1,6 @@
 # Prazer, Gabriela 👋
 
-### Formada em Educação Física e Administração Pública, uma apaixanoda por tecnologia que migrou de carreira e agora busca cada vez mais se aperfeiçoar e aprender linguagem novas. 
+### Formada em Educação Física e Administração Pública, uma apaixonada por tecnologia que migrou de carreira e agora busca cada vez mais se aperfeiçoar e aprender linguagem novas. 
 <br>
 
 ### 👩🏼‍💻 **Posição atual:** Desenvolvedora Full-Stack
@@ -11,7 +11,7 @@
 [![E-mail](https://img.shields.io/badge/-Email-FFF?style=for-the-badge&logo=microsoft-outlook&logoColor=black)](mailto:gabriela.cardoso@live.com)
 <br>
 
-## Linguagem e ferramentas:
+## Linguagens e ferramentas:
 <br>
 <div>
     <p> 
