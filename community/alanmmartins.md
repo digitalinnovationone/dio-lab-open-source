@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A8E6CF&height=120&section=header"/>
-
+<!-- 0 -->
 <div align="center"> 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=4500&pause=694&color=00A1FF&center=verdadeiro&vCenter=verdadeiro&multiline=true&repeat=verdadeiro&width=590&height=152&lines=Olá%2C+Sou+Alan+Munoz+Martins;Eu+Moro+No+Brazil+-+S%C3%A3o+Paulo;Técnico+Em+Eletrônica+Na+AUTservice;Estudante+De+Desenvolvimento+Full+Stack+e+Mobile;Graduado+em+Analise+e+Desenvolvimento+De+Sistemas" alt="Typing SVG" /></a>
  <img  height="180" src="https://media.tenor.com/YRzeUmYfWrQAAAAd/jim2.gif"  />
