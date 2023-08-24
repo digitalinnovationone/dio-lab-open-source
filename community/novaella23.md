@@ -1,7 +1,7 @@
 
 # Elaine D'Adderio Fraga
 
-Mulher 40+, em transição de carreira para área tech, aprendendo Cloud e linguagem Java. Com muita energia e vontade de aprender!
+Mulher 40+, em transição de carreira para área tech, aprendendo Cloud Computing e linguagem Java. Com muita energia e vontade de aprender!
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/dadderio79/)
