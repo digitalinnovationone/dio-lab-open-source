@@ -1,5 +1,5 @@
 # Thayná Rodrigues
-Desenvolvedora Full Stack | Javascript | TypeScript | CSS | HTML | Diversidade e Inclusão
+Desenvolvedora Full Stack | Javascript | TypeScript | CSS | HTML | Diversidade e Inclusão.
 
 ## Conecte-se comigo
 
