@@ -24,6 +24,7 @@
 </table>
 
 ## Social
+
 <table>
   <thead>
     <tr align="left">
@@ -77,6 +78,7 @@
 </table>
 
 ## Linguagens de Marcação e Estilo
+
 <table>
   <thead>
     <tr align="left">
@@ -122,6 +124,7 @@
 </table>
 
 ## Linguagens de Programação
+
 <table>
   <thead>
     <tr align="left">
@@ -152,6 +155,14 @@
       </td>
       <td>
         <code>![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=kotlin">
+      </td>
+      <td>
+        <code>![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=kotlin)</code>
       </td>
     </tr>
     <tr>
@@ -191,6 +202,7 @@
 </table>
 
 ## Bibliotecas e Frameworks
+
 <table>
   <thead>
     <tr align="left">
