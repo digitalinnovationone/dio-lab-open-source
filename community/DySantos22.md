@@ -18,7 +18,7 @@ Estou focado em me tornar um Desenvolvedor Back-End, embora também saiba alguma
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-00FA9A?style=for-the-badge&logo=CSS3&logoColor=black)
 
-<!-- Para entrar em contato comigo! -->
+<!-- Para entrar em contato comigo!! -->
 ### Entre em contato comigo!!
 
 [![Perfil DIO](https://img.shields.io/badge/-Perfil%20DIO-8A2BE2?style=for-the-badge)](https://web.dio.me/users/dyllanlima17?tab=skills)
