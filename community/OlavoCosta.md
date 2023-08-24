@@ -1,72 +1,139 @@
-## 
-<div align="center">
+<h1>
+    <a href="https://www.dio.me/">
+     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+    <span> Contribuindo em um Projeto Open Source no GitHub</span>
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rock+Salt&size=50&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=600&height=100&lines=Hello%2C+What's+up+%3F;I'm+Olavo;Welcome+my+GitHub)](https://git.io/typing-svg)
+Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
 
-    - I am Among those who think that Science has great beauty. MARIE CURIE Q.
+[![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
+[![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
 
-Moro em São José dos Campos, interior de São Paulo, Brasil. Atualmente estou cursando Análise e Desenvolvimento de Sistemas, e durante esse período resolvi aprofundar-me um pouco mais sobre os assuntos abordados em minha graduação, concluindo recentemente [CS50's](https://cs50.harvard.edu/x/2023/) Introduction to Computer Science - Harvard University. Sempre fui uma pessoa dedicada, compromissada, mas ressalto muito mais o adjetivo esforçado. Espero contribuir com os diversos projetos disponíveis no GitHub, a final, estamos aqui para compartilhar conhecimentos!
-</div>
+## Objetivo
+Aprender o básico sobre contribuição no GitHub.
+
+## Ferramentas
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+
+## Percurso
+<table>
+  <thead>
+    <tr align="left">
+      <th>Nº</th>
+      <th>Etapas</th>
+      <th>Materiais de Apoio</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <td>01</td>
+      <td>Introdução ao Lab</td>
+      <td align="center">
+        <a href="">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>Formas de Contribuir num Projeto Open Source</td>
+      <td align="center">
+        <a href="">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>Desenvolvendo e Enviando uma Contribuição</td>
+      <td align="center">
+        <a href="">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>Dicas e Materiais de Apoio</td>
+      <td align="center">
+        <a href="">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
+  </tbody>
+  <tfoot></tfoot>
+</table>
+
+---
+##  Desafio: Profile README
+ Contribua no diretório "Community", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
+ Inspire-se consultando os exemplos na pasta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
+
+### Instruções (PT/BR)
+1. Faça um **Fork** deste repositório;
+2. Clone localmente: `git clone https://github.com/SEUUSERNAME/dio-lab-open-source.git`;
+3. Adicione o remote upstream para manter seu repositório local atualizado: `git remote add upstream https://github.com/elidianaandrade/dio-lab-open-source.git`;
+    > Utilize o comando `git pull upstream main` para baixar e mesclar as alterações no seu repositório local com base na branch `main` deste repositório original de onde você fez o fork, ou `git fetch upstream main` para baixar sem mesclar. Veja mais em: [Primeiros Passos com Git e GitHub](https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
+4. Crie uma nova **branch** e nomeie como `feat/community/seunomedeusuario`: `git checkout -b feat/community/seunomedeusuario`;
+    > Exemplo: `git checkout -b feat/community/elidianaandrade`
+5. Dentro da pasta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
+    > Exemplo: `elidianaandrade.md` <br>
+6. Desenvolva o seu perfil. Para isso, você pode ver exemplos na pasta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils);
+    > **Observação:** Use os outros exemplos como inspiração e não cópia.
+7. Adicione suas alterações à "staging area" com o comando `git add community/seunomedeusuario.md`;
+8. Crie um commit e adicione a mensagem indicando a adição do seu perfil `git commit -m"feat: add seunomedeusuario profile"`;
+9. Envie as alterações para o seu repositório remoto `git push origin feat/community/seunomedeusuario`; 
+10. Crie um **Pull Request**.
+
+### Instructions (EN/US)
+1. **Fork** the repository;
+2. Clone locally: `git clone https://github.com/SEUUSERNAME/dio-lab-open-source.git`;
+3. Add upstream remote to keep your local repository up to date: `git remote add upstream https://github.com/elidianaandrade/dio-lab-open-source.git`;
+    > Use the command `git pull upstream main` to download and merge changes to your local repository based on the branch `main` from this original repository you forked it from, or `git fetch upstream main` to download without merging. See more at: [Getting Started with Git and GitHub](https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
+4. Create a new **branch** and name it as `feat/community/seunomedeusuario`: `git checkout -b feat/community/yourusername`;
+    > Example: `git checkout -b feat/community/elidianaandrade`
+5. Inside the folder [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community), create a file in Markdown (extension `.md`) and name it the same as your GitHub username;
+    > Example: `elidianaandrade.md` <br>
+6. Develop your profile. For this you can see examples in the folder [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community) and add some of the utilities present in the folder [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils);
+    > **Note:** Use the other examples as inspiration, not copy.
+7. Add your changes to the "staging area" with the command `git add community/yourusername.md`;
+8. Create a commit and add the message indicating the addition of your profile `git commit -m"feat: add yourusername profile"`;
+9. Push changes to your remote repository `git push origin feat/community/yourusername`; 
+10. Create a **Pull Request**.
+
+### Utilitários
+
+[![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/badges/badges.md)
+[![Card Stats](https://img.shields.io/badge/Card%20Stats-E94D5F?style=for-the-badge)](https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
+[![Badges](https://img.shields.io/badge/Card%20Streak%20States-30A3DC?style=for-the-badge)](https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-streak-stats.md)
+
+## Instruções para linguagem de marcação Markdown e HTML5 facilitadas.
+Com base no Objetivo proposto pelo projeto Open Source DIO, Aprender o básico sobre contribuição no GitHub, ao vasculhar e desmembrar o projeto a ser contribuído deparamos com algumas dificuldades, que podem ser motivadas pelo fato de nunca terem trabalhado com a linguagem de marcação Markdown ou HTML, sendo assim disponibilizamos as sintaxes mais utilizadas na linguagem de marcação e de forma mais simplista, compreendo que o próprio GitHub disponibiliza esse tipo de manual, entretanto acredito que algumas pessoas possuem maior facilidade na percepção visual do que na percepção textual.
+
+>Conteúdo para basear-se e utilizar em seus futuros forks [Instruções de Marcação.]()
+
+## Contribua
+[![Star](https://img.shields.io/github/stars/elidianaandrade/dio-lab-open-source?style=social)](https://github.com/elidianaandrade/dio-lab-open-source/stargazers)
+[![Forks](https://img.shields.io/github/forks/elidianaandrade/dio-lab-open-source?style=social)](https://github.com/elidianaandrade/dio-lab-open-source/forks)
+[![GitHub Issues](https://img.shields.io/github/issues/elidianaandrade/dio-lab-open-source?style=social)](https://github.com/elidianaandrade/dio-lab-open-source/issues/)
+
+ Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição além do seu exemplo de Profile README, é inserir outros utilitários na pasta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils), ou melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/docs). <br>
+ Além disso, você também pode contribuir:
+ 
+⚠️ Resolvendo, respondendo ou indicando **issues**
+
+⭐ Adicionando aos favoritos (**star**) 
+
+### Membros da comunidade que já contribuiram:
+<a href="https://github.com/elidianaandrade/dio-lab-open-source/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=elidianaandrade/dio-lab-open-source"/>
+</a>
 
 ##
+<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
 
-### Contact-me
+#
 
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/olavo-costa-25398b240/)
-[![Instagram](https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=instagram)](https://www.instagram.com/_olavocoosta/?hl=pt-br)
-[![Meu Perfil na Dio](https://img.shields.io/badge/dio_perfil-fff?style=for-the-badge&logologoColor=black)](https://web.dio.me/users/olavodonizete)
-
-</div>
-
-### Tecnologias e Ferramentas
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-
-##
-
-### Minhas Skills
-
-<div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-    <img width="12" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40" alt="C logo"/>
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-    <img width="12" />
-    <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/flask_logo_icon_145276.png" height="40" alt="flask logo"/>
-    <img width="12" />
-</div>
-
-##
-
-### Roadmap Skills
-
-<div align="left"> 
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" alt="gcp" width="28" height="40"/></a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://gitlab.com/assets/logo-911de323fa0def29aaf817fca33916653fc92f3ff31647ac41d2c39bbe243edb.svg" alt="gcp" width="38" height="36"/></a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/873/873151.png" alt="gcp" width="40" height="40"/></a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="gcp" width="40" height="40"/></a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" alt="gcp" width="40" height="40"/></a>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/databricks_logo_icon_170295.png" alt="gcp" width="40" height="40"/></a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="aws" width="50" height="34"/></a> 
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/256/9887/9887894.png" alt="gcp" width="40" height="40"/></a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" alt="gcp" width="40" height="40"/></a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_hadoop_logo_icon_169586.png" alt="gcp" width="50" height="45"/></a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://airflow.apache.org/docs/apache-airflow/2.3.2/_images/pin_large.png" alt="gcp" width="36" height="36"/></a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-2013.png" alt="gcp" width="55" height="35"/></a>
-</div>
-
-### Status
-
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlavoCosta&theme=shades-of-purple&show_icons=true)
-</div>
