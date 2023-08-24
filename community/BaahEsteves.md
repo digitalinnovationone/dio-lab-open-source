@@ -1,4 +1,3 @@
-
 # BaahEsteves 
 Olá, meu nome é Bárbara, estou em transição de carreira para a área de tecnologia e estou aqui na DIO em busca de aprendizado e conhecimento. Atualmente estou cursando Informática para Negócios.
 
