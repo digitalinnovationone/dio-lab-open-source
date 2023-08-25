@@ -1,7 +1,7 @@
 
 # Ariani Macedo 
 
-Oi, estou  participando do Santander Bootcamp 2023 - Ciência de Dados com Python e criar um READ.me é uma das atividades propostas.
+Oi, estou  participando do Santander Bootcamp 2023 - Ciência de Dados com Python e criar um README é uma das atividades propostas.
 
 
 ## Conecte-se comigo
