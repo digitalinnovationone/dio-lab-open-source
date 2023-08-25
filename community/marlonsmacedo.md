@@ -1,9 +1,7 @@
 # Oi? Eu sou o Marlon Macedo, seja bem vindo ao meu Perfil.
 
 Atualmente estudando para transição de carreira dentro área de tecnologia.
-
 Apaixonado por tecnologia, inovação e louco por dividir conhecimento.
-
 Atualmente Coordenador de TI, atuando na liderança de times de suporte técnico e de operações das Filiais.
 
 ### Conecte-se comigo
