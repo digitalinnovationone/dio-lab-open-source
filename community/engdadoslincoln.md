@@ -1,10 +1,11 @@
-<img style="border-radius:10px" align="right" alt="Gif created by www.gifer.com" height="380" src="https://i.gifer.com/24Br.gif">
+
+<img style="padding-left: 30px; " align="right" alt="Gif created by www.gifer.com" height="380" src="https://i.gifer.com/24Br.gif">
 
 <h1 style="border-bottom: 4px dotted; ">
     <span align="left" style="font-size:50px; font-family:'Courier New';">Lincoln Monteiro</span>
 </h1>
 
-<p align="left" style="font-size:15px">Originário de Petrolina, encontrei meu caminho até Campina Grande do Sul, no Paraná. Minha paixão por aprender sempre me impulsionou, levando-me a explorar e dominar tecnologias como Apache Spark, Apache Kafka e Python, entre outras. Essas ferramentas não são apenas habilidades, mas portas para o universo da inovação tecnológica. Minha jornada, das paisagens calorosas do Nordeste às novas experiências no Sul, é uma busca constante por desafios que ampliem meus horizontes e me permitam deixar minha marca no campo da tecnologia.</p>
+<p align="justify" style="font-size:15px; ">Originário de Petrolina, encontrei meu caminho até Campina Grande do Sul, no Paraná. Minha paixão por aprender sempre me impulsionou, levando-me a explorar e dominar tecnologias como Apache Spark, Apache Kafka e Python, entre outras. Essas ferramentas não são apenas habilidades, mas portas para o universo da inovação tecnológica. Minha jornada, das paisagens calorosas do Nordeste às novas experiências no Sul, é uma busca constante por desafios que ampliem meus horizontes e me permitam deixar minha marca no campo da tecnologia.</p>
 
 <h3 align="left">Conecte-se comigo</h3>
 
