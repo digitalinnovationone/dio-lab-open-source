@@ -7,7 +7,7 @@ Sou estudante, no momento estou fazendo pós-graduação de Desenvolvimento Orie
 Contribuindo em um Projeto Open Source no GitHub pelo DIO.
 
 ## Conecte-se comigo
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-gomes-barros-4b8ba9199/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alersonreis/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://www.github.com/Ultramegasati/)
 
