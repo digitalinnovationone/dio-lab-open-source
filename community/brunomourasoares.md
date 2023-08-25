@@ -3,7 +3,6 @@
 ### 🚀 Sobre mim
 #### Atualmente estou em transição de carreira, buscando uma nova oportunidade para crescer e melhorar profissionalmente, trabalhar em equipe e projetos desafiadores. Estou me esforçando ao máximo para aprender linguagens de programação.
 - 👩‍💻 Trabalho em outra área, mas o foco é trabalhar com Java BackEnd.
-- 🧠 Estudando ![springboot](https://img.shields.io/badge/SpringBoot-232323.svg?style=flat&logo=springboot&logoColor=#6DB33F) atualmente!
 
 ### 🛠 Habilidades
 ><div style="display: inline_block">IDE: 
