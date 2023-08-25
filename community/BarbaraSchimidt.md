@@ -1,5 +1,8 @@
 # Barbara Schimidt 
 
+# Bem vindos ao meu perfil
+
+### Sou a Bárbara, tenho 23 anos e estou finalizando minha graduação em Análise e Desenvolvimeto de Sistemas. Tenho buscado me desenvolver e meu objetivo é me tornar uma desenvolvedora Frontend.
 
 ## Conecte-se comigo
 
