@@ -70,3 +70,71 @@
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="40" height="40"/></td>
  </tr>
 </table>
+
+### Meus Artigos na DIO
+<table>
+  <thead>
+    <tr align="left">
+      <th>Data</th>
+      <th>Título</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <td>28/03/2023</td>
+      <td>Lendo conteúdo de arquivo txt com Java</td>
+      <td align="center">
+        <a href="https://web.dio.me/articles/lendo-conteudo-de-arquivo-txt-com-java?back=%2Farticles&page=1&order=oldest">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>11/08/2023</td>
+      <td>Gerador de SVG, backgrounds, etc... gratuito</td>
+      <td align="center">
+        <a href="https://web.dio.me/articles/gerador-de-svg-backgrounds-etc-gratuito?back=%2Farticles&page=1&order=oldest">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>23/05/2023</td>
+      <td>8 CERTIFICAÇÕES GRATUITAS DA MICROSOFT!!!</td>
+      <td align="center">
+        <a href="https://web.dio.me/articles/8-certificacoes-gratuitas-da-microsoft?back=%2Farticles&page=1&order=oldest">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
+    <tr>
+      <td>09/03/2023</td>
+      <td>Métodos úteis para array JavaScript</td>
+      <td align="center">
+        <a href="https://web.dio.me/articles/metodos-uteis-para-array-javascript?back=%2Farticles&page=1&order=oldest">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
+    <tr>
+      <td>06/03/2023</td>
+      <td>Aprenda programação grátis com a Microsoft</td>
+      <td align="center">
+        <a href="https://web.dio.me/articles/aprenda-programacao-gratis-com-microsoft?back=%2Farticles&page=1&order=oldest">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
+    <tr>
+      <td>03/03/2023</td>
+      <td>Organize e acelere seus estudos com Roadmap.sh</td>
+      <td align="center">
+        <a href="https://web.dio.me/articles/organize-e-acelere-seus-estudos-com-roadmapsh?back=%2Farticles&page=1&order=oldest">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
+  </tbody>
+  <tfoot></tfoot>
+</table>
