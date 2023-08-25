@@ -1,0 +1,28 @@
+{
+  "name": "binary-search",
+  "version": "1.3.6",
+  "description": "tiny binary search function with comparators",
+  "license": "CC0-1.0",
+  "typings": "./binary-search.d.ts",
+  "author": {
+    "name": "The Dark Sky Company, LLC",
+    "email": "support@darkskyapp.com"
+  },
+  "contributors": [
+    {
+      "name": "Darcy Parker",
+      "web": "https://github.com/darcyparker"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/darkskyapp/binary-search.git"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
