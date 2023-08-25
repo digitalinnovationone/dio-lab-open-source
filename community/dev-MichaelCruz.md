@@ -1,6 +1,6 @@
 
 # Michael Cruz
-Morador do ABC Paulista, formado em Química, Artista Plástico e agora, trilhando carreira pra me tornar um Desenvolvedor de Software Back-end.
+Morador do ABC Paulista, São Bernardo do Campo, formado em Química, Artista Plástico e agora, trilhando carreira pra me tornar um Desenvolvedor de Software Back-end.
 
 Apaixonado por gatos, café, artem em geral e muita música pra acompanhar o dia-a-dia.
 
@@ -12,7 +12,6 @@ Atualmente fazendo o Bootcamp Java Developer emparceria com o Santander.
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/michaelcaxa)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=red)](michaelcruz.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/michael-cruz-90377423a/)
-
 
 ### Habilidades
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=red)
