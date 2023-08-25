@@ -1,5 +1,5 @@
 # Breno Melo 
-`Olá,Me chamo Breno igor, tenho 21 anos, sou estudande em um curso Técnico em desenvolvimento de sistemas, desde sempre estive muito conectado com computadores, jogos e semelhantes. Desta forma, tenho muita facilidade em aprender sobre novas tecnologias, sejam elas de software ou hardware. Atualmente, sou estagiário de TI e tenho muita vontade de alcançar novos horizontes.`
+`Olá, Me chamo Breno igor, tenho 21 anos, sou estudande em um curso Técnico em desenvolvimento de sistemas, desde sempre estive muito conectado com computadores, jogos e semelhantes. Desta forma, tenho muita facilidade em aprender sobre novas tecnologias, sejam elas de software ou hardware. Atualmente, sou estagiário de TI e tenho muita vontade de alcançar novos horizontes.`
 
 ## Fale Comigo !!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/breno-melo0098/) 
@@ -17,7 +17,7 @@
 ## Soft Skills
 ![Static Badge](https://img.shields.io/badge/comunicativo-000?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/PROATIVO-000?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/FLEXÍVO-000?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/FLEXÍVEL-000?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/ORGANIZADO-000?style=for-the-badge)
 
 
