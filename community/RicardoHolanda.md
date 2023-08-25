@@ -1,6 +1,6 @@
 # Ricardo Vieira
 
-Olá, me chamo Ricardo e sou estudante de Ciência da Computação na Universidade do Distrito Federal - UDF em Brasília. Tenho conhecimento em desenvolvimento front-end utilizando javascript e back-end com PHP. Possuo experiência de estágio de 10 meses em segurança da informação na TELEBRAS e atualmente estou estagiando na área de suporte no Conselho Federal de Enfermagem - COFEN
+Olá, me chamo Ricardo e sou estudante de Ciência da Computação na Universidade do Distrito Federal - UDF em Brasília. Tenho conhecimento em desenvolvimento front-end utilizando javascript e back-end com PHP. Possuo experiência de estágio de 10 meses em segurança da informação na TELEBRAS, e atualmente estou estagiando na área de suporte no Conselho Federal de Enfermagem - COFEN
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/ricardomachado03)
