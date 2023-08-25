@@ -3,4 +3,4 @@
 ## Habilidades
 ![Java](https://img.shields.io/badge/Java-40E0D0?style=for-the-badge&logo=java) ![JavaScript](https://img.shields.io/badge/JavaScript-40E0D0?style=for-the-badge&logo=javascript&logoColor=F0FFFF) ![Git](https://img.shields.io/badge/git-40E0D0.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-40E0D0.svg?style=for-the-badge&logo=github&logoColor=white)
 ## GitHub stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WillianDias-BDev&layout=compact&bg_color=40E0D0&border_color=30ADC&title_color=F0FFFF&text_color=FFF) 
+## ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WillianDias-BDev&layout=compact&bg_color=40E0D0&border_color=30ADC&title_color=F0FFFF&text_color=FFF) 
