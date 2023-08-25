@@ -1,44 +1,28 @@
+<h1>
+    <a href="https://www.dio.me/">
+     <img align="center" width="50px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+      <span> Santander Bootcamp 2023 - Fullstack Java+Angular</span>
+</h1>
 
-# Olá, eu sou a Katherine! 👋
+# Olá, eu sou a Emanuelle ([@manu-dio](https://github.com/manu-dio))! 👋
 
 
 ## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack...
+Sou formada em Administração mas atualmente trabalho como analista de negócio no desenvolvimento de softwares, para conhecer mais da área resolvi começar um Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas e atualmente estou iniciando o Bootcamp Fullstack Java+Angular.
 
-
-## 🛠 Habilidades
-Javascript, HTML, CSS...
-
-
-## Outras seções comuns em perfis do GitHub
-👩‍💻 Trabalho atualmente na/no...
-
-🧠 Estou aprendendo...
-
-👯‍♀️ Procuro colaborar em...
-
-🤔 Procuro ajuda com...
-
-💬 Me pergunte sobre...
-
-📫 Como entrar em contato comigo...
-
-😄 Pronomes...
-
-⚡️ Fatos engraçados...
-
+## Outras informações
+👩‍💻 Trabalho atualmente na Prefeitura de Manaus
 
 ## Roadmap
 
-- Melhorar o suporte de navegadores
-
-- Adicionar mais integrações
+[<img align="center" width="200px" src=https://www.interviewbit.com/blog/wp-content/uploads/2022/05/image1.png> ](https://digitalinnovationone.github.io/roadmaps/careers/frontend/)
 
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+## 🔗 Redes
+
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/emma.salves/)
+	[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/emanuelle-alves-a58177288/)
+[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/manu_elita)
 
 
 ## Rodando localmente
@@ -46,35 +30,15 @@ Javascript, HTML, CSS...
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
-```
-
-Entre no diretório do projeto
-
-```bash
-  cd my-project
-```
-
-Instale as dependências
-
-```bash
-  npm install
-```
-
-Inicie o servidor
-
-```bash
-  npm run start
+  git clone https://github.com/manu-dio/dio-lab-open-source.git
 ```
 
 
 ## Feedback
 
-Se você tiver algum feedback, por favor nos deixe saber por meio de fake@fake.com
+Se você tiver algum feedback, por favor nos deixe saber por meio de emanuelle@hotmail.com
 
 
-## Autores
+## Autora
 
-- [@octokatherine](https://www.github.com/octokatherine)
-
-
+- [@manu-dio](https://github.com/manu-dio)
