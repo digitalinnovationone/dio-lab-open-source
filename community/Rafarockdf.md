@@ -3,29 +3,29 @@
 ## Sobre Mim
 Olá! Sou Rafael Luiz, estudante de Sistemas de Informação na UFU e entusiasta de Data Science. Atualmente, estou buscando oportunidades para aplicar meu conhecimento em projetos emocionantes e desafiadores.
 
-![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafarockdf&show_icons=true&theme=dracula)
+![Rafael GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=Rafarockdf&show_icons=true&theme=dracula)
 
 ## Tecnologias que uso no meu dia a dia
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+![Python](httpsimg.shields.iobadgePython-14354Cstyle=for-the-badge&logo=python&logoColor=white)
+[![Google Colab](httpsimg.shields.iobadgeGoogle_Colab-F9AB00style=for-the-badge&logo=google-colab&logoColor=white)](httpscolab.research.google.com)
+[![Git](httpsimg.shields.iobadgeGit-F05032style=for-the-badge&logo=git&logoColor=white)](httpsgit-scm.com)
+[![C](httpsimg.shields.iobadgeC-00599Cstyle=for-the-badge&logo=c&logoColor=white)](httpsen.wikipedia.orgwikiC_(programming_language))
 
 
 
 
 ## Projetos
 
-### [Biblioteca Matemática/Estatística](https://github.com/Rafarockdf/Portifolio_Data_analytics_Data_Science/tree/main/Projeto1)
+### [Biblioteca MatemáticaEstatística](httpsgithub.comRafarockdfPortifolio_Data_analytics_Data_SciencetreemainProjeto1)
 
-Descrição curta do projeto. Este projeto foi desenvolvido usando:
+Descrição curta do projeto. Este projeto foi desenvolvido usando
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
+![Python](httpsimg.shields.iobadgePython-14354Cstyle=for-the-badge&logo=python&logoColor=white)[![Google Colab](httpsimg.shields.iobadgeGoogle_Colab-F9AB00style=for-the-badge&logo=google-colab&logoColor=white)](httpscolab.research.google.com)
 
 
 
-### [Nome do Projeto 2](projetos/projeto2/README.md)
+### [Nome do Projeto 2](projetosprojeto2README.md)
 
 Descrição curta do projeto. Este projeto foi desenvolvido usando [Tecnologia 1] e [Tecnologia 2]. [Inclua uma captura de tela ou imagem relacionada.]
 
@@ -35,18 +35,18 @@ Para conhecer mais sobre minhas habilidades, confira a [página de habilidades](
 
 ## Áreas de Interesse
 
-- ![Data Analytics](https://img.shields.io/badge/Data_Analytics-FF5733?style=for-the-badge)
-- ![Data Science](https://img.shields.io/badge/Data_Science-2977C9?style=for-the-badge)
-- ![Data Engineer](https://img.shields.io/badge/Data_Engineer-FF9900?style=for-the-badge)
+- ![Data Analytics](httpsimg.shields.iobadgeData_Analytics-FF5733style=for-the-badge)
+- ![Data Science](httpsimg.shields.iobadgeData_Science-2977C9style=for-the-badge)
+- ![Data Engineer](httpsimg.shields.iobadgeData_Engineer-FF9900style=for-the-badge)
 
 
 ## Entre em Contato
 
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-luiz-gon%C3%A7alves-dos-santos-856a15226/)
+- [![LinkedIn](httpsimg.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white)](httpswww.linkedin.cominrafael-luiz-gon%C3%A7alves-dos-santos-856a15226)
 
 
-- Email: rlg.santos123@gmail.com
+- Email rlg.santos123@gmail.com
  
 
 ## Sobre o Portfólio
