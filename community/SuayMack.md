@@ -1,5 +1,7 @@
 # Priscila Chueryz
-Breve descrição sobre você.
+Fomada em Engenharia de Software em 2022, atualmente, estou cursando pós-graduação em Business Intelligence e Desenvolvimento Web Full Stack. Minha jornada começou na manutenção de hardware, mas rapidamente me encantei pela programação. Criar soluções através do código tornou-se minha verdadeira paixão.
+
+Minha motivação é buscar conhecimento contínuo e adquirir novas habilidades na área de tecnologia. Acredito na importância do aprendizado constante para criar soluções inteligentes que impactem positivamente empresas e sociedade. Estou comprometida em impulsionar impactos positivos através da tecnologia.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/pry_chu)
