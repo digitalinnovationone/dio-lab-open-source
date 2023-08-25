@@ -1,7 +1,7 @@
 
 # Bem-vindo(a) ao perfil do David Souza
 
-#### Atualmente cursando SC, 2nd pedíodo e apaixonado por tecnologia.
+#### Atualmente cursando SC, 2nd pedíodo e apaixonado por tecnologia. 
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/david-souza-415365231/)
