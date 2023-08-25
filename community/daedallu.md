@@ -10,7 +10,7 @@ A partir daí, comecei a pouco, estudar Python, com um livro chamado "PYTHON CRA
 
 Além disso, sou apaixonado pela Computação de Baixo Nível (Assembly-NASM, 68000/Z80 e 65C816), embora ainda no HELLO WORLD! :earth_americas: :earth_asia:
 
-Outros grandes interesses meus, são Sistemas Operativos, sobretudo, Distros Linux e sobretudo, as mínimas, que fazem computadores de 15 anos rodarem como novos!! :penguim:
+Outros grandes interesses meus, são Sistemas Operativos, sobretudo, Distros Linux e sobretudo, as mínimas, que fazem computadores de 15 anos rodarem como novos!! :penguin:
 
 Esse interesse foi crescendo com a instalação que fiz de ARCH e Gentoo, pra fins didáticos.
 
@@ -19,9 +19,13 @@ Tenho inclusive como projeto quase iniciado, a criação de uma distro, talvez b
 Também tenho grande interesse em:
 
 HARDWARE :cd:
+
 REDES DE COMPUTAÇÃO :satellite:
+
 VULNERABILIDADES :eyes:
+
 HACK ÉTICO :muscle: :unlock:
+
 PYGAME :snake: :space_invader:
 
 ## LINGUAGENS QUE ESTUDO:
@@ -33,10 +37,10 @@ Também como usuário de Hardware ultrapassado :turtle: e Distros Linux, amo res
 
 ##ONDE ME ENCONTRAR: :mag:
 
-[![GITHUB]: :octocat:
+## GITHUB: :octocat:
 https://github.com/daedallu
 
-[![LINKEDIN]: :hammer: :wrench:
+## LINKEDIN: :hammer: :wrench:
 https://www.linkedin.com/in/adalberto-vieira-de-souza-junior-247738157/
 
 
