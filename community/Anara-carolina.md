@@ -33,6 +33,6 @@ Em 2022, aos 33 anos e mãe de duas crianças, decidi dar vida aos meus estudos,
 
 ## - contato
   Anara Martins <br>
-<a href = "mailto:anaramartins31@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:anaramartins21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/anara-martins-4740b0108/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+</div> git add community/Anara-carolina.md
