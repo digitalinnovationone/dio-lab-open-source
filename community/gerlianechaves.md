@@ -1,11 +1,13 @@
-<p align="center">
-    <img src="https://lh3.googleusercontent.com/pw/AIL4fc_COii042kGJQ9ZAvLDh7-V3WuWO5YOfNUMHtCXMVdZzbDz7vMfl0PD6fuaTOBOQsF6MQIlccyS0kWSUqZfK4TfsUivqzm9zuA-iKDMfdYvo8ycUvXu7V-GTIMIGADLN9L8i9LdUE04Bocd4W5wr7sGJAPxHLM0-cg85Hz3G0ddBuER_qaIyFVKZdqD29ACQ3LKNk_9Tu5-bQBvbGAUtEAD51wjiLrkLgbhMmNdbyUJ-MfrYaMGn-YU6DbEsZ2K1LCfzfGFblhxpv2SnnWIMqfmK-bg38kH_wE4o4KWkVQMUo2T7iz30tOSGrCcvyqt7onKhl-8uk8FCaoCt5f66FIEzqBKjWyR9ieBh1rFBcdflW6SoQDU0YrwT5yzvsZlX7cAgwJBOx43bO5h-xRSFDZQtExr20zzbjEpgtViOlrvP4lHS86fT_06MJB3iOHydWGBL-plCtN5rkMiHa3btOZOJEbM5K0kislssoMDepzDYLlBlNcMe7pNYO_-mxfDHwxikLXe6zKgiCrQTle3YWvODzexqp16U59Svq9BiLBW20-vE-5hPUlys8X8OGmleR7Mx6xtPYiYeAeKWDVm0kwvmdmdKc-aufJdGnTnCKCURh3l2UzyMJKFGfPJlGDNBbonFOrIZkCd6Q29h-R_tWHkpZ3F73gEUH2j4sfzNMW_qr0ZRnOlj0RcXEGAqQ8x2mSiAuDkjYXdkzpgkG-Rg9t9VlLH-c6Hq_zCXHPFZmCO3DtK8xzynSJEXTdT7Gv49dbyzAFeqdB7zTgAxSQHQfXxxd6ffFS5BK5PMNOS-3lRqDzpFdTs3x4gqzWEvFmvPmVIoSzbs7K2cg_ke_F5JEMZXwC7k4IX8X89dSw4QtM8QHqhQTXLuUelQBqSpYMJ5HrCmGWY9N-zGGS9TrocEerjFNwd9rgxOwIJrqB3-RfPITwHzMXSNzRg0LTiiJhUlXShKbFV6zFHzo-d7x9BEggB4L1JL7sxnVYQtaZDAa9-CvbJ-utG6Y5QvorV45rGSg=w843-h632-s-no?authuser=0" alt="Descrição da Imagem" style="border-radius: 50%;"height="100"/>
+<p>
     <h1 align="center">Gerliane Chaves</h1>
-    
+</p>
+
+<p style="text-align: justify;">
+    OLÁ! Meu nome é Gerliane Chaves, acadêmica em engenharia elétrica pelo IFMA e pesquisadora na área de robótica, adentrando o mundo de desenvolvimento de software.
 </p>
 
 <div style="display: flex; justify-content: center;">
-    <a href="ttps://github.com/GerlianeChaves/ dio-lab-open-source/tree/main/community/gerlianechaves.md" style="margin-right: 10px;">
+    <a href="ttps://github.com/GerlianeChaves/dio-lab-open-source/tree/main/community/gerlianechaves.md" style="margin-right: 10px;">
         <img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge">
     </a>
     <a href="https://www.linkedin.com/in/gerlianechaves/">
@@ -13,9 +15,7 @@
     </a>
 </div>
 
-<p style="text-align: justify;">
-    OLÁ! Meu nome é Gerliane Chaves, acadêmica em engenharia elétrica pelo IFMA e pesquisadora na área de robótica, adentrando o mundo de desenvolvimento de software.
-</p>
+
 
 <div>
     <p>
