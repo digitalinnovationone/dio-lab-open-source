@@ -91,7 +91,7 @@
 		  <br>
 <span>		 
   <div align="right">
-<p><p><sub>🕸️ Me encontre por email:</sub><br>
+<p><p><sub>🕸️ Contato por email:</sub><br>
 <sub>   
 :email: email: <a href="mailto:maa.vaz@gmail.com" class="pui-text-blue"><i clase ="fa fa-sobre-o"></i> Marco Vaz</a></sub><br>                         
 </div>
