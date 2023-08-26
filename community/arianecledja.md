@@ -7,6 +7,7 @@ Olá, eu sou analista de sistemas e estou me aventurando pelo desenvolvimento Fu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0080f0?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/ariane-cledja-santos-5b04901b2/)
 [![Discord](https://img.shields.io/badge/Discord-60C?style=for-the-badge&logo=discord&logoColor=fff)](https://www.discord.com/in/ariane25#1946/)
 [![Email](https://img.shields.io/badge/Email-f00?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:ariane225040@gmail.com)
+
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-f99?style=for-the-badge)](https://web.dio.me/users/ariane225040/)
 
 ## Habilidades
@@ -23,5 +24,14 @@ Olá, eu sou analista de sistemas e estou me aventurando pelo desenvolvimento Fu
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arianecledja&theme=transparent&bg_color=000&border_color=EA1179&show_icons=true&icon_color=F0CAA3&title_color=EA1179&text_color=fff)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arianecledja&layout=compact&bg_color=000&border_color=EA1179&title_color=EA1179&text_color=FFF)
+
+## Links Úteis
+
+
+[Paletas de Cores](https://colorhunt.co/)
+
+[Como adicionar e estilizar ícones de linguagens de programação](https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b)
+
+[Tabela de código de cores RGB](https://www.rapidtables.org/pt/web/color/RGB_Color.html)
 
 
