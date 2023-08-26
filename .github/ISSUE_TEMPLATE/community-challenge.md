@@ -1,9 +1,9 @@
 ---
 name: Community Challenge
-about: Crie uma issue sobre o Desafio proposto a comunidade
+about: Idéias e estratégias para o treinamento de Git e GitHub
 title: "[DESAFIO]"
-labels: community challenge
-assignees: ''
+labels: documentation
+assignees: LincolnRL
 
 ---
 
