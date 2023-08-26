@@ -1,10 +1,11 @@
+
 ## Adriano Silva
 
 ## Estudante de Análise e Desnvolvimento de Sistemas | Entusiasta de Tecnologia
 
 ![Minha Foto](link_para_sua_foto.jpg)
 
-Olá! Sou um desenvolvedor de software apaixonado por resolver problemas por meio da programação e da tecnologia. Com anos de experiência em projetos desafiadores, desenvolvi uma sólida compreensão em linguagens de programação e desenvolvimento web.
+Olá! Sou um Estudante de Desnvolvimento de software, apaixonado por resolver problemas por meio da programação e da tecnologia. Procuro sempre ampliar meus conhecimentos atraves de cursos para  aprimorar minhas habilidades e desenvolver novas.
 
 ## Linguagens de Marcação e Estilo
 
