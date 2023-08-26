@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📌 Interested in Data Science
-- 🌱 Currently learning python and Data Analytics
+- 🌱 Currently learning Python and Data Analytics
 - 🎏 Into music, playing games and learn about new cultures
 - 💬 I’m looking for help with Computer Forensics
 - 🌐 :brazil: :us: :kr:
