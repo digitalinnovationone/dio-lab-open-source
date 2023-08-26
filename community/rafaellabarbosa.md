@@ -1,10 +1,8 @@
 
 # Rafaella Barbosa
-Olá, me chamo Rafaella, passei pelo processo de transição de carreira, da enfermagem para a tecnologia. 
+Olá, me chamo Rafaella, passei pelo processo de transição de carreira da enfermagem para a tecnologia. 
 
  Hoje sou Estudante de analise e desenvolvimento de sistemas e trabalho com desenvolvimento mobile - flutter.
-
-
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/rafaellacsta)
