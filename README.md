@@ -86,6 +86,7 @@ Aprender o básico sobre contribuição no GitHub.
 8. Crie um commit e adicione a mensagem indicando a adição do seu perfil `git commit -m"feat: add seunomedeusuario profile"`;
 9. Envie as alterações para o seu repositório remoto `git push origin feat/community/seunomedeusuario`; 
 10. Crie um **Pull Request**.
+11. Testando sincronização entre o repositorio remoto e local
 
 ### Instructions (EN/US)
 1. **Fork** the repository;
