@@ -3,8 +3,6 @@
 
 ## Estudante de Análise e Desnvolvimento de Sistemas | Entusiasta de Tecnologia
 
-![Minha Foto](link_para_sua_foto.jpg)
-
 Olá! Sou um Estudante de Desnvolvimento de software, apaixonado por resolver problemas por meio da programação e da tecnologia. Procuro sempre ampliar meus conhecimentos atraves de cursos para  aprimorar minhas habilidades e desenvolver novas.
 
 ## Linguagens de Marcação e Estilo
