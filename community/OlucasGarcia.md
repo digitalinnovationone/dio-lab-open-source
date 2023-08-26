@@ -29,5 +29,7 @@ Olá, tudo bem? 🖖🏻 Eu me chamo Lucas e fazem aproximadamente 8 meses que i
 
 ![C#](https://img.shields.io/badge/C%23-fff?style=for-the-badge&logo=c-sharp&logoColor=823085)
 
+![PHP](https://img.shields.io/badge/PHP-fff?style=for-the-badge&logo=php)
+
 
 
