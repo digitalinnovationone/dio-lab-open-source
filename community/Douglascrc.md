@@ -6,9 +6,8 @@
 Sou entusiasta tecnologia, uma pessoa que é resiliênte até alcançar o meu objetivo, gosto de desafios e correr riscos e ao mesmo tempo muito analista e observador. Gosto de ajudar os outros em seus problemas e assim aprender ainda mais de forma contínua.
 
 <div>
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglascrc&theme=radical&show_icons=true)
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglascrc&layout=compact&langs_count=16&theme=radical"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Albino-Marques&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglascrc&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -19,10 +18,9 @@ Sou entusiasta tecnologia, uma pessoa que é resiliênte até alcançar o meu ob
 </div>
 
 ## Conecte-se comigo
-<div align="center">  
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/douglasbuscampos/)
-
-  [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/douglascamposcr/)
+<div>  
+<a href="https://www.linkedin.com/in/douglasbuscampos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+<a href="https://www.discord.com/in/douglascamposcr/" target="_blank"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord"></a>  
 </div>
 
 <div align="center">
