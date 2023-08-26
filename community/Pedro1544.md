@@ -22,7 +22,6 @@ Meu nome é Pedro Henrique e estou iniciando minha jornada na área de tecnologi
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Compartilhando Artigos</title>
 </head>
 <body>
 
