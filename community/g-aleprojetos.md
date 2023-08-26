@@ -1,12 +1,12 @@
-  <img src="img/photo.jpg" alt="Desktop" title="Desktop"  />
+  <img src="https://raw.githubusercontent.com/g-aleprojetos/g-aleprojetos/main/img/photo.jpg" alt="Desktop" title="Desktop"  />
 
-### Hello<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Alexandre, welcome to my portfolio.
+### Hello<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px">, I'm Alexandre, welcome to my portfolio.
 
 <h3 align="left">Programming Languages</h3>
-<p align="left"><a href="https://pt.wikipedia.org/wiki/Linguagem_assembly" target="_blank"> <img src="img/assembly.png" alt="assembly" width="50" height="50"/></a>&nbsp &nbsp <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>&nbsp &nbsp 
+<p align="left"><a href="https://pt.wikipedia.org/wiki/Linguagem_assembly" target="_blank"> <img src="https://raw.githubusercontent.com/g-aleprojetos/g-aleprojetos/main/img/assembly.png" alt="assembly" width="50" height="50"/></a>&nbsp &nbsp <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>&nbsp &nbsp 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/></a></p>
 
-<img align="right" src="img/github.png" alt="Desktop" title="Desktop" width="350" />
+<img align="right" src="https://raw.githubusercontent.com/g-aleprojetos/g-aleprojetos/main/img/github.png" alt="Octodex" title="Desktop" width="350" />
 
 <h3 align="left">Frontend Development</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>&nbsp &nbsp 
