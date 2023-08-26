@@ -32,7 +32,7 @@ Sou um entusiasta da tecnologia que adora explorar o mundo do c√≥digo. Quando n√
 
 
 
-## GitHub Status
+## GitHub Status 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabloPicinini&theme=transparent&bg_color=000&border_color=f1c232&show_icons=true&icon_color=f1c232&title_color=f1c232&hide_title=true&&text_color=38761d)
 
