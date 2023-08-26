@@ -1,10 +1,15 @@
-<h2 align="left">Olá 👋! Meu nome é Natasha, sou estudante de tecnologia e sou de São Paulo.</h2>
+<h2>Natasha Freitas</h2>
 
-###
+<div>
+  <a href="https://www.linkedin.com/in/natasha-freitas-da-silva-5073b3197/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
+  </a>
+  <a href="natashafreitas085@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
+  </a>
+</div>
 
-<img align="right" height="150" src="https://lh3.googleusercontent.com/pw/AIL4fc_TMg4BOxmNaOqlfiq2TlcHgU5MzpunOQ4H2fR1ZnoAJeQUjwvBMvpZrFX0519DHM8HuRroZKBdIRipcc7J_7d8aAaWc17lb-I3XcqEJpMWM6WUozlP2y4QeKhYNu5v_u7c18zrf-0hWMA7mKWl-A5pkygjJ_MZBZZCiLFJ5NZRkjxT8gsSp7hMeP44sHiV_gnL1UQiK6lFGh8j4-jAqA5FdSvWi1__HksUJwDQAN-0zWUXi65usFzaM8q8-6R2oycONQO7jBC1FiNg6Ru7lnC80ByRHSmrkWUk_z9-Lq_cuy-iojAX_6a_VZijtJxJPSCGwNN3ICp6H8y9-mHuXatVRJx4w6jKi9AxlLF6EyZ9kRwunOibci7Molpf_tnSCDV74sD31A45733XJLVaI-lOcfkYo1f4192QU3DHVDZ-kPaMNLSAzqmrK2vAmgNQETKdnYPFFKpDlE3uIgzvdERHZTBAyXJGTyu2gOfiJ2is28uRwc2cAA6z98scQW-GkOhoer_9XO85dAzr1Ryl3IiG8XrTSNqDwykRp3m3puaphvbRkTAm5YTfkcU9DcDQgQL1GONeqQkMiDrpavjS9W9GMWGcDTYXyzHaLuEI0MjF03QCRSqpMlw17vTTgC0Fd7RTm3jYG7OPZjICadF8A7xcXphUSnNX8dt2SRK-ifNVo_bB4jx9onDK6zH3RGv1bahrSZ9ygrcVw4cc5rSdVK1dPitrrqUf8PoAvdXykKSY5eXpV0TwliELOvlbhNnZ2DENtu0cp6vnK-1VwxEIt_l_XKIx3ySNYPw6qEFYgBNjFuWz6ZR9C3qzVpYXLXY9IDsH6uEnAXC7sGvxCnodKB_pAYvTxPyym4Myz-XilPosq6NQ2ZfGdifrId3M9i6bqdlLCQ6qy88p8ehjTFxtnfaz5TnqTGiGSc2XXGNICsyVtDYuCODZHNLkQ3mR2tM7PxFWzP9YdV0p3TyOeCQbgqU92vHYQdYRHA=s745-no?authuser=0"  />
-
-###
+<img src="https://lh3.googleusercontent.com/pw/AIL4fc_DmtjHiFWqtLMmbRFSvW6xhbs47oWrMKoPCAp9h8M6uI4-KlzEUERGu2sTlee4Ruk65Z08d7VIA8UH6310UKuWmpFP0BTdGKv9-NgKcJUEh-3K24qQ4ioJNoVf1PSoWU6ad5CXKKipf14XINvVyJf7msFmVCTT3XnfGBd6mPinq-pevEr69Pr7le0iGa5jV6Y6XPiYPTBSuqvcbpm5jnB_t-5psuMzFxqXZB-e6ApIuHF8ckxZfAoq-QdAIjxMswuwF4K7v37BUNtpmcDbiCZ1Y9ukkTJXHFHJX8GmpJS6RnL-zKTomo9vJxZDRNYHJP-dZjGmxqCiZrAvql1GgehDm4H6wW5ERZiGNhRBuLI4vrcysA30g351Kwbxa5MP0lbnykg6TobkM_5SbZEKRQEIsDoH_EBitwHS0QDeVNMCk0q_gcfnGS1SNYvRMx5ycaLKFbsWWGvzddSlrcfo0ryVzsbWA3qiJp29V4FJdNg0XCeOA9E3-t_hEQRS5YzetQItu2qF__2vwv86TXxji03SA0lpLV3BcU5PCddzBI0WX1R350BosyxGaqCoo2cMn4Ss290_mtFb-IKbAGF4J9RsXRiVUQ6qYQ0uN4dQMuidEAMb1OyuD1DL0kyjHTVXIfUjh2O_YZ5mNNAQy5xn9AzZwKeAsH0NG7x8zrTxAC7BJTRz5pfKXANTy0Q88rKyH5fdLFkGoHD5atN06-dIzS1ci3ymC-5dT8SPSfFO_sF4Kw5Eow9lCWMy16TntLX_6DCjtHCKm-ZeIvON3bxfo_ocktOxfXrjSnnUliUVhWJF_cBsG0z5QycpI9l1V4E5i24hIbku62Ub9pjyY12AKqMHo7lYLDVckkKtP9oWOny7ZjJLdHyps7cmxITOGnYGSpBg-iEi345QbSqSBDB8fU0CEX8c1J1VGGki5dZqr3-eEGNbUGTW-UufupJxutW07bPwE7FvbC0SMUu_tKCy__8mzdtdoYqokg=s745-no?authuser=0" height="200" alt="imagem ilustrativa"/>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -18,13 +23,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/natasha-freitas-da-silva-5073b3197/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
-  </a>
-  <a href="natashafreitas085@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
-  </a>
-</div>
+
 
 ###
