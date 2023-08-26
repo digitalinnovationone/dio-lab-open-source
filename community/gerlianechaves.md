@@ -1,6 +1,16 @@
 <p>
     <h1 align="center">Gerliane Chaves</h1>
+    <div style="display: flex; justify-content: center;">
+        <a href="ttps://github.com/GerlianeChaves/dio-lab-open-source/tree/main/community/gerlianechaves.md" style="margin-right: 10px;">
+            <img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge">
+        </a>
+        <a href="https://www.linkedin.com/in/gerlianechaves/">
+            <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8" alt="LinkedIn Badge">
+        </a>
+    </div>
+
 </p>
+
 
 <p style="text-align: justify;">
     OLÁ! Meu nome é Gerliane Chaves, acadêmica em engenharia elétrica pelo IFMA e pesquisadora na área de robótica, adentrando o mundo de desenvolvimento de software.
