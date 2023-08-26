@@ -1,5 +1,5 @@
 # Álvaro Gonçalves Rodrigues
-Meu nome é Álvaro Gonçalves e adoro a área da computação e tecnologia, atualmente comecei a cursar ADS e espero me desenvolver na área.
+Meu nome é Álvaro Gonçalves Rodrigues e adoro a área da computação e tecnologia, atualmente comecei a cursar ADS e espero me desenvolver na área.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-264CE4?style=for-the-badge)](https://www.dio.me/users/alvarogoncalves923)
