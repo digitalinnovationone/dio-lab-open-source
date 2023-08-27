@@ -1,0 +1,9 @@
+public class quemsou   {
+    public static void main(String[] args) throws Exception {
+
+        String nome = "Ingrid Loíse Santos";
+         int idade = 25;
+        String estudando = "Java, javascript, css e html";
+
+        System.out.printf("Olá sou %s, tenho %d e estudo %s, para ser programadora back-end.", nome, idade, estudando);
+    }}
