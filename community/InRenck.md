@@ -1,6 +1,8 @@
 # InRenck
 
-Bem-vindo(a) ao perfil da In Renck 😁
+Bem-vindo(a) ao meu perfil 😁
+
+Meu nome é Inghara, estou estudando ADS e estou amando aprender cada vez mais sobre programação.
 
 ## Conecte-se comigo
 
