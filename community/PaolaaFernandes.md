@@ -11,7 +11,7 @@
 
 ### **Contatos:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F4F4F?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/paola-fernandes/) [![Gmail](https://img.shields.io/badge/Gmail-4F4F4F?style=for-the-badge&logo=gmail)](https://www.instagram.com/paolaafernandes/) [![Instagram](https://img.shields.io/badge/Instagram-4F4F4F?style=for-the-badge&logo=instagram)](https://www.instagram.com/paolaafernandes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F4F4F?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/paola-fernandes/) [![Gmail](https://img.shields.io/badge/Gmail-4F4F4F?style=for-the-badge&logo=gmail)](mailto:paolaaf83@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-4F4F4F?style=for-the-badge&logo=instagram)](https://www.instagram.com/paolaafernandes/)
 
 ### **Estatísticas do GitHub:**
 
