@@ -2,8 +2,11 @@
 
 Meu nome é René Nakati, estou estudando Python com o objetivo de ingressar na área de ti.
 
+## Meus Projetos
 
-Fiz um programa simples para calculo de taxa da Cetesb para licenciamento ambiental. Se desejar, pode me ajudar a melhorar o código, pois estou dando meus primeiros passos. Segue link do github https://github.com/nakati/python-programa-calculo-taxa-cetesb
+Fiz um programa simples para calculo de taxa da Cetesb para licenciamento ambiental. Se desejar, pode me ajudar a melhorar o código, pois estou dando meus primeiros passos. 
+Segue link do github:
+https://github.com/nakati/python-programa-calculo-taxa-cetesb(https://github.com/nakati/python-programa-calculo-taxa-cetesb)
 
 
 ## Conecte-se Comigo
