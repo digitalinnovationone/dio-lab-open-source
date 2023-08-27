@@ -3,7 +3,7 @@
 <br />
 <br />
 
-Oi, me chamo **Douglas**, sou Desenvolvedor fullstack em formação, sou curioso por natureza e apaixonado por tecnologia. Atualmente, sou empreendedor de e-commerce e estou concluindo o módulo de Cienca da computação da Trybe e já utilizei diversas tecnologias em meus projetos.
+Oi, me chamo **Douglas**, sou Desenvolvedor fullstack em formação, sou curioso por natureza e apaixonado por tecnologia. Atualmente, sou empreendedor de [e-commerce](https://deixachoveramor.com.br/) e estou concluindo o módulo de Cienca da computação da Trybe e já utilizei diversas tecnologias em meus projetos.
 
 **Meus interesses pessoais:**
 
