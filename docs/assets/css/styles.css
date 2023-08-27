@@ -3,17 +3,17 @@
 
 
 :root {
-  --primary-color: #E94D5F;
-  --secondary-color: #30A3DC;
+    --primary-color: #E94D5F;
+    --secondary-color: #30A3DC;
 
-  --gray-600: #212327BF;
-  --gray-500: #707070;
-  --gray-300: #CED2D6;
-  --gray-200: #DEE2E6;
-  --gray-100: #E9EDF1;
+    --gray-600: #212327BF;
+    --gray-500: #707070;
+    --gray-300: #CED2D6;
+    --gray-200: #DEE2E6;
+    --gray-100: #E9EDF1;
 
-  --white: #FAFAFA;
-  --black: #0F0F0F;
+    --white: #FAFAFA;
+    --black: #0F0F0F;
 }
 
 html {
@@ -26,8 +26,8 @@ html {
     box-sizing: border-box;
 
     scrollbar-width: thin;
-    scrollbar-color: var(--gray-300) transparent; 
-} 
+    scrollbar-color: var(--gray-300) transparent;
+}
 
 ::-webkit-scrollbar {
     width: 0.4rem;
@@ -47,7 +47,13 @@ body {
     color: var(--black);
     background: var(--gray-100);
     width: 100vw;
+    margin: auto;
     overflow-x: hidden;
+}
+
+.content {
+    width: 70vw;
+    margin: auto;
 }
 
 a {
@@ -60,8 +66,8 @@ a:hover {
     color: var(--secondary-color);
 }
 
-ul > li,
-ol > li {
+ul>li,
+ol>li {
     margin: .5rem 1.25rem;
 }
 
@@ -81,7 +87,7 @@ header {
 }
 
 header div {
-    width: 100%;
+    width: 100vw;
     display: flex;
     flex-flow: row wrap;
     justify-content: space-between;
@@ -141,14 +147,13 @@ header div {
 }
 
 header nav {
-    width: 100%;
+    width: 100vw;
     display: flex;
     flex-flow: row wrap;
     justify-content: space-between;
     align-items: center;
     background: var(--gray-200);
     padding: .25rem 2rem;
-    box-shadow: inset 0 0.1rem 0.2rem var(--gray-500);
 }
 
 .menu {
@@ -174,18 +179,19 @@ header nav {
     color: var(--primary-color);
 }
 
-main, section {
+main,
+section {
     padding: 2rem 2rem 0;
 }
 
 #desafio {
     display: flex;
     flex-direction: column;
-    gap: 1rem;   
+    gap: 1rem;
 }
 
 #desafio p {
-    text-align: justify; 
+    text-align: justify;
 }
 
 #comunidade {
@@ -234,7 +240,7 @@ main, section {
     border: .125rem solid var(--secondary-color);
     border-radius: .35rem 0 0 .35rem;
     padding: .5rem 1.5rem;
-    cursor: pointer; 
+    cursor: pointer;
 }
 
 #searchInput:focus {
@@ -246,6 +252,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 100vw;
     border-top: .1rem solid var(--gray-300);
     background: var(--gray-200);
     margin-top: 2rem;
