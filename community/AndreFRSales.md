@@ -15,12 +15,11 @@ Escolhi a área de programação depois de uma palestra sobre sistemas e um quad
 
 # Languages & Frameworks
 
-![Android](https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android)
-![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=Kotlin)
-![iOS](https://img.shields.io/badge/iOS-000?style=for-the-badge&logo=apple)
-![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor)
-🚧 ![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=flutter)  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AndreFRSales&layout=compact&bg_color=000&border_color=512DA8&title_color=512DA8&text_color=FFF&hide_title=true)
 
