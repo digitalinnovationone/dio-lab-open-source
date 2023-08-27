@@ -9,9 +9,9 @@ Este é um arquivo criado para o Projeto do Curso *Contribuindo em um Projeto Op
 
 [Meu Perfil na Dio](https://web.dio.me/users/charlles_franco)
 
-[E-mail](mailto:charlles.franco@outlook.com)
-
 [LINKEDIN](https://www.linkedin.com/in/charlles-franco-aba41a82/)
+
+[Instagram](https://www.instagram.com/charllesm/)
 
 ---
 
