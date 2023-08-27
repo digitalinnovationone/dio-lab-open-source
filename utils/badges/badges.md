@@ -24,6 +24,7 @@
 </table>
 
 ## Social
+
 <table>
   <thead>
     <tr align="left">
@@ -77,6 +78,7 @@
 </table>
 
 ## Linguagens de Marcação e Estilo
+
 <table>
   <thead>
     <tr align="left">
@@ -122,6 +124,7 @@
 </table>
 
 ## Linguagens de Programação
+
 <table>
   <thead>
     <tr align="left">
@@ -146,7 +149,6 @@
         <code>![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)</code>
       </td>
     </tr>
-    <tr>
       <td>
         <img align="center" alt="Java" src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java">
       </td>
@@ -191,6 +193,7 @@
 </table>
 
 ## Bibliotecas e Frameworks
+
 <table>
   <thead>
     <tr align="left">
