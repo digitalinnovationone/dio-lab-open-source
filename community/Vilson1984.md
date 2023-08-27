@@ -2,7 +2,7 @@
 ### Oi! Sou estudante de TI e estou formando o meu portifólio, ansioso por uma colocação no mercado de trabalho.
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/vilson-camponucci-monteiro-379522107/)
-
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:vcmorion@hotmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/Vilson1984)
 
 
@@ -21,7 +21,8 @@
 
 
 ## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vilson1984&theme=dark&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vilson&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vilson1984&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 ## Minhas Contribuições
