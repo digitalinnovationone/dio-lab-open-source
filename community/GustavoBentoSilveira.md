@@ -1,6 +1,6 @@
 # Gustavo Bento Silveira
 
-Bacharel em Administração e estudante de Java+Angular
+Bacharel em Administração e estudante de Java+Angular em buscar de uma revolução na carreira.
 
 ## Conecte-se comigo
 
