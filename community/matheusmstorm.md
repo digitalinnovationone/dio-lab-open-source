@@ -8,7 +8,7 @@ Olá, eu sou Matheus Moura, vivo em Salvador-BA. Sou estudante do 6º semestre d
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-4169E1?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/matheus-moura-rodrigues-costa/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-4169E1?style=for-the-badge&logo=instagram&logoColor=black)](https://github.com/MatheusMStorm)
+[![Instagram](https://img.shields.io/badge/Instagram-4169E1?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/matheus.moura19/)
 
 # Hard Skills
 ![Python](https://img.shields.io/badge/Python-4169E1?style=for-the-badge&logo=python&logoColor=black) 
