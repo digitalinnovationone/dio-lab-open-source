@@ -10,7 +10,7 @@ Em primeiro crie seu projeto.
 Depois entre em contato enviando sua sujestão.
 
 ## Sobre mim:
-Técnico em informática e redes de computadores certificado pela microsoft. Atualmente estou na área de ensino de informática. Entusiasta de programação e com muita vontade de se tornar um desenvolvedor de software. Estou focano na linguagem python mas futuramente pretendo me especializar em outras linguagens.
+Técnico em informática e redes de computadores certificado pela microsoft. Atualmente estou na área de ensino de informática. Entusiasta de programação e com muita vontade de se tornar um desenvolvedor de software. Estou focando na linguagem python mas futuramente pretendo me especializar em outras linguagens.
 
 ## links para contato:
 
