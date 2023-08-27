@@ -12,4 +12,4 @@ Olá! Sou estudante do 4º período de Análise e Desenvolvimento de Sistemas na
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=graywhite&show_icons=true&icon_color=8B00FF&title_color=8B00FF&text_color=333)
 
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=abrahaomendes&repo=dio-lab-open-sorce&theme=graywhite&show_icons=true&icon_color=8B00FF&title_color=8B00FF&text_color=333)](https://github.com/abrahaomendes/dio-lab-open-sorce)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=stelabk&repo=dio-lab-open-source&bg_color=8B00FF&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/stelabk/dio-lab-open-source)
