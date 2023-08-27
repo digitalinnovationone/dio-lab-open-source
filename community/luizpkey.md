@@ -1,17 +1,17 @@
-# *Ola me chamo Luiz Mauricio*
+# *Olá me chamo Luiz Mauricio*
 ## Sobre Mim
-   Sou desenvolvedor a 13 anos, porém eu realmente comecei a me desenvolver em 2019(pilula vermelha rs), quando me apresentaram o mundo do JavaScript e vi que meu conhecimento poderia ir além. Desde então busquei conhecimento, não apenas para mudar de tecnologia, também aprender como uma técnica pode ser utilizada em outra, mesmo que antiga. E nessa busca uma das principais plataformas que me identifiquei foi [aqui na Dio](dio.me), pois aqui além do conhecimento eles praticam a evolução das pessoas.
+   Sou desenvolvedor a 13 anos, porém eu realmente comecei a me desenvolver em 2019(pílula vermelha rs), quando me apresentaram o mundo do JavaScript e vi que meu conhecimento poderia ir além. Desde então busquei conhecimento, não apenas para mudar de tecnologia, também aprender como uma técnica pode ser utilizada em outra, mesmo que antiga. E nessa busca uma das principais plataformas que me identifiquei foi [aqui na Dio](dio.me), pois aqui além do conhecimento eles praticam a evolução das pessoas.
 
    Eu sou um entusiasta de tecnologia com paixão por programação e análise de dados. Adoro aprender novas habilidades e aplicá-las em projetos interessantes.
 
 ## Projetos
 
-### MicroWave(Microondas)
-- **Descrição**: Fui desafiado a criar uma interface que simulasse um microondas.
+### MicroWave(Micro-ondas)
+- **Descrição**: Fui desafiado a criar uma interface que simulasse um micro-ondas.
 - **Link**: [MicroWave](https://github.com/luizpkey/MicroWaveConsole)
 
 ### Generic API
-- **Descrição**: Criei uma api genérica, além do aprendizado ela já me foi util para testar alguns projetos.
+- **Descrição**: Criei uma api genérica, além do aprendizado ela já me foi útil para testar alguns projetos.
 - **Link**: [Generic API](https://github.com/luizpkey/GenericAPI)
 
 ### Reproduzi o jogo Snake
