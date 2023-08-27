@@ -18,8 +18,7 @@
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
 
-## Bicliotecas e Frameworks 
-### Atualmente estudando 
+## Bibliotecas e Frameworks 
+### Atualmente Estudando 
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 
-S
