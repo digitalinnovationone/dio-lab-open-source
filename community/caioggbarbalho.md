@@ -13,7 +13,7 @@
 
 <br>
 
-- 🔭 I’m currently studying **Node.js**
+- 🔭 I’m currently studying **Java and AWS Cloud**
   
 - 👨‍💻 Knowledgeable about **HTML, CSS and JavaScript**
 
