@@ -1,132 +1,69 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Contribuindo em um Projeto Open Source no GitHub</span>
-</h1>
+# PORTFÓLIO PESSOAL
 
-Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
+Olá! Sou Marlon Marques Vieira, futuro Engenheiro de Software e Desenvolvedor Web.
 
-[![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
-[![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
+## Sobre Mim
 
-## Objetivo
-Aprender o básico sobre contribuição no GitHub.
+Sou um entusiasta novato no mundo da tecnologia, movido por uma imensa vontade de ingressar nesse campo dinâmico. Atualmente, sou estudante de Engenharia de Software e estou comprometido em trilhar um caminho de especialização no desenvolvimento e gerenciamento de software. Minha jornada profissional até agora tem sido na área de engenharia industrial, onde atuei como projetista mecânico e técnico de planejamento. No entanto, sinto uma forte chamada para seguir uma nova direção e explorar o fascinante universo da tecnologia.
 
-## Ferramentas
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+Com cada passo que dou, estou determinado a adquirir habilidades sólidas e conhecimento profundo na criação e gestão de software. Estou animado com as perspectivas que a área de Engenharia de Software oferece e estou comprometido em enfrentar os desafios com dedicação e entusiasmo. Minha transição de uma carreira na engenharia industrial para o mundo da tecnologia representa um novo capítulo emocionante em minha jornada profissional, e estou ansioso para aprender, crescer e contribuir para esse campo em constante evolução.
 
-## Percurso
-<table>
-  <thead>
-    <tr align="left">
-      <th>Nº</th>
-      <th>Etapas</th>
-      <th>Materiais de Apoio</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>01</td>
-      <td>Introdução ao Lab</td>
-      <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>02</td>
-      <td>Formas de Contribuir num Projeto Open Source</td>
-      <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>03</td>
-      <td>Desenvolvendo e Enviando uma Contribuição</td>
-      <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
-        </a>
-      </td>    
-    </tr>
-    <tr>
-      <td>04</td>
-      <td>Dicas e Materiais de Apoio</td>
-      <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
-        </a>
-      </td>    
-    </tr>
-  </tbody>
-  <tfoot></tfoot>
-</table>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
----
-##  Desafio: Profile README  Olá mundo
- Contribua no diretório "Community", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
- Inspire-se consultando os exemplos na pasta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
+## 🛠️Habilidades:
 
-### Instruções (PT/BR)
-1. Faça um **Fork** deste repositório;
-2. Clone localmente: `git clone https://github.com/SEUUSERNAME/dio-lab-open-source.git`;
-3. Adicione o remote upstream para manter seu repositório local atualizado: `git remote add upstream https://github.com/elidianaandrade/dio-lab-open-source.git`;
-    > Utilize o comando `git pull upstream main` para baixar e mesclar as alterações no seu repositório local com base na branch `main` deste repositório original de onde você fez o fork, ou `git fetch upstream main` para baixar sem mesclar. Veja mais em: [Primeiros Passos com Git e GitHub](https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
-4. Crie uma nova **branch** e nomeie como `feat/community/seunomedeusuario`: `git checkout -b feat/community/seunomedeusuario`;
-    > Exemplo: `git checkout -b feat/community/elidianaandrade`
-5. Dentro da pasta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
-    > Exemplo: `elidianaandrade.md` <br>
-6. Desenvolva o seu perfil. Para isso, você pode ver exemplos na pasta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils);
-    > **Observação:** Use os outros exemplos como inspiração e não cópia.
-7. Adicione suas alterações à "staging area" com o comando `git add community/seunomedeusuario.md`;
-8. Crie um commit e adicione a mensagem indicando a adição do seu perfil `git commit -m"feat: add seunomedeusuario profile"`;
-9. Envie as alterações para o seu repositório remoto `git push origin feat/community/seunomedeusuario`; 
-10. Crie um **Pull Request**.
 
-### Instructions (EN/US)
-1. **Fork** the repository;
-2. Clone locally: `git clone https://github.com/SEUUSERNAME/dio-lab-open-source.git`;
-3. Add upstream remote to keep your local repository up to date: `git remote add upstream https://github.com/elidianaandrade/dio-lab-open-source.git`;
-    > Use the command `git pull upstream main` to download and merge changes to your local repository based on the branch `main` from this original repository you forked it from, or `git fetch upstream main` to download without merging. See more at: [Getting Started with Git and GitHub](https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
-4. Create a new **branch** and name it as `feat/community/seunomedeusuario`: `git checkout -b feat/community/yourusername`;
-    > Example: `git checkout -b feat/community/elidianaandrade`
-5. Inside the folder [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community), create a file in Markdown (extension `.md`) and name it the same as your GitHub username;
-    > Example: `elidianaandrade.md` <br>
-6. Develop your profile. For this you can see examples in the folder [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community) and add some of the utilities present in the folder [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils);
-    > **Note:** Use the other examples as inspiration, not copy.
-7. Add your changes to the "staging area" with the command `git add community/yourusername.md`;
-8. Create a commit and add the message indicating the addition of your profile `git commit -m"feat: add yourusername profile"`;
-9. Push changes to your remote repository `git push origin feat/community/yourusername`; 
-10. Create a **Pull Request**.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### Utilitários
 
-[![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/badges/badges.md)
-[![Card Stats](https://img.shields.io/badge/Card%20Stats-E94D5F?style=for-the-badge)](https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
-[![Badges](https://img.shields.io/badge/Card%20Streak%20States-30A3DC?style=for-the-badge)](https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-streak-stats.md)
 
----
+## 📚Estudando Atualmente:
 
-## Contribua
-[![Star](https://img.shields.io/github/stars/elidianaandrade/dio-lab-open-source?style=social)](https://github.com/elidianaandrade/dio-lab-open-source/stargazers)
-[![Forks](https://img.shields.io/github/forks/elidianaandrade/dio-lab-open-source?style=social)](https://github.com/elidianaandrade/dio-lab-open-source/forks)
-[![GitHub Issues](https://img.shields.io/github/issues/elidianaandrade/dio-lab-open-source?style=social)](https://github.com/elidianaandrade/dio-lab-open-source/issues/)
 
- Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição além do seu exemplo de Profile README, é inserir outros utilitários na pasta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils), ou melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/docs). <br>
- Além disso, você também pode contribuir:
- 
-⚠️ Resolvendo, respondendo ou indicando **issues**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-⭐ Adicionando aos favoritos (**star**) 
 
-### Membros da comunidade que já contribuiram:
-<a href="https://github.com/elidianaandrade/dio-lab-open-source/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=elidianaandrade/dio-lab-open-source"/>
-</a>
 
-##
-<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+
+## 🛠️Ferramentas de trabalho:
+
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+
+
+
+## ☎️Contato:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/marlon-vieira-1ab43157/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarlonMLN)
+
+
+
+## 🧑‍💼Experiência Profissional:
+
+- **2021 - Até a Presente Data**
+  - **PROJETISTA - TRACTEBEL - ENGIE**
+  - Levantamento, Elaboração e desenvolvimento de projetos de SPCI e de estruturas metálicas, desenhos detalhados e As Built.
+
+- **2020 - 2021**
+  - **TÉCNICO DE PLANEJAMENTO E MEDIÇÃO - EBS EMPRESA BRASILEIRA DE SERVIÇOS**
+  - Elaboração de cronogramas físico e medição da obra de montagem de rede elétrica.
+
+- **2018 - 2020**
+  - **TÉCNICO DE PLANEJAMENTO - MANSERV MANUTENÇÃO**
+  - Elaboração de planejamento, cronogramas físico e controle em obra manutenção montagem eletromecânica.
+
+- **2016 - 2017**
+  - **PROJETISTA - VEIGA ENGENHARIA**
+  - Levantamento, Elaboração e desenvolvimento de projetos de SPCI e de estruturas metálicas, desenhos detalhados e As Built.
+
