@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=B58D31)](https://www.linkedin.com/in/marcos-melo-dos-santos-b56290139/)
 
 <div style="display: inline-block;">
-    <img width="400px" border="1px solid" align="center" src="https://media.discordapp.net/attachments/784229787492679690/1084574595757133834/Screenshot_20230312-173318-010.png" alt="home">
+    <img width="400px" border="1.1px solid" align="center" src="https://media.discordapp.net/attachments/784229787492679690/1084574595757133834/Screenshot_20230312-173318-010.png" alt="home">
 </div><br>
 
 ## Github Stats
