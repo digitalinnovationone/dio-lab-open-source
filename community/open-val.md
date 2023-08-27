@@ -1,4 +1,4 @@
- ![Cabeçalho do README, escrito "Desafio Digital Innovation One, Contribuindo com um Projeto Open Source.](/Dio%20projeto.png)
+ ![Cabeçalho do README, escrito "Desafio Digital Innovation One, Contribuindo com um Projeto Open Source.](https://uploaddeimagens.com.br/images/004/589/938/original/Dio_projeto.png?1693163287)
 # Sobre mim
 Oi 👋🏽
 
