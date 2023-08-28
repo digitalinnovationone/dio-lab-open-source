@@ -125,6 +125,8 @@ olá
 
 OLÁ SOU JUNIOR RODRIGUES
 
+lá de novo hahaha
+
 ### Membros da comunidade que já contribuiram:
 <a href="https://github.com/elidianaandrade/dio-lab-open-source/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=elidianaandrade/dio-lab-open-source"/>
