@@ -1,6 +1,4 @@
-# academy-template-readme-profile
-
-# Oi, me chamo Letícia 👋
+# Oi, me chamo Letícia👋
 
 ### Sobre mim
 
@@ -50,4 +48,5 @@
 <a href="https://www.linkedin.com/in/letícia-maria-meira-garcia-torres-lopes-274ab4276" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+### Perfil GitHub é Leticiameirag
 
