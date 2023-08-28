@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mim
 Eu sou desenvolvedor full-stack...  
-Sou estudande de analise e desenvolvimento de sistemas e redes de computadores.
+Sou estudande de analise e desenvolvimento de sistemas e redes de computadores e ja tenhos alguns projetos.
 ## Onde me econtrar?
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipemouradacruz/)
