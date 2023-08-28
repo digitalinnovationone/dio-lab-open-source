@@ -1,7 +1,7 @@
 # 🔗 Jefter Alexandre
 Sou Jefter alexandre, tenho 18 anos, atualmente sou jovem aprendiz na empresa irca em carpina-pe, curso engenharia da computação na UNIFBV em recife e também estudo programação de forma autodidata.
 
-I'm jefter alexandre, i'm 18 years old, and i'm currently a young apprentice at irca in carpina-pe, i'm studying computer engineering at unifbv in recife and i also study programming self-taught.
+I'm jefter alexandre, i have 18 years old, and i'm currently a young apprentice at irca in carpina-pe, i'm studying computer engineering at unifbv in recife and i also study programming self-taught.
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/jefteralex1/)
