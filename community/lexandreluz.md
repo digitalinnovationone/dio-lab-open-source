@@ -1,4 +1,4 @@
-<!--<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">-->
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://raw.githubusercontent.com/lexandreluz/lexandreluz/3bf9af0d0177b5ea44ada0832f6231903fef5b83/code-typing-animate.svg">
 
 <h1>
     <span> 🌎 Alexandre Luz</span>
