@@ -1,4 +1,4 @@
-## Olá Eu sou Leonardo Rocha
+## Olá Eu sou Leonardo Rocha Queiroz
 
 Desenvolvedor Front e Backend "FullStack" residente na Serra - Espírito Santo,Brasil, Cursando a graduação de análise e desenvolvimento de sistemas pela FAESA.
 Meus hobbies são Games , Criar servidores para jogar , aprender novas tecnologias com meu rapberryPI , e outras coisas nerdásticas.
