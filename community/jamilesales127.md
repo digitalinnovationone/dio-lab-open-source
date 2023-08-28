@@ -10,7 +10,7 @@
 ## Habilidades
 ![html5](https://img.shields.io/badge/html-000?style=for-the-badge&logo=html5&logoColor=f74780)
 ![css3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3&logoColor=f74780)
-
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=f74780)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamilesales127&theme=transparent&bg_color=000&border_color=fc6998&show_icons=true&icon_color=f74780&title_color=f74780&text_color=FFF)
