@@ -8,7 +8,7 @@ Faço faculdade de Sistema da informação e trabalho como dev C# SDK SAP B1
 ![HTML](https://img.shields.io/badge/HTML-red)
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![JS](https://img.shields.io/badge/JavaScript-yellow)
-![C#](https://img.shields.io/badge/C#-darkblue)
+![C#](https://img.shields.io/badge/CSharp-darkblue)
 ![SQL](https://img.shields.io/badge/SQL-orange)
 ![Java](https://img.shields.io/badge/Java-red)
 
