@@ -1,5 +1,6 @@
 # Jônatas Mota
-
+Cursando Análise e desenvolvimento de sistemas.
+Apaixonado por tecnologia e jogos.
 
 ## Tecnologias que estou estudando
 #### 
