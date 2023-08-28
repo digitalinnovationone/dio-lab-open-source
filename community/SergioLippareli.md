@@ -16,3 +16,6 @@ E ainda não tenho muitas experiências de trablho.
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c) 
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![HTML](https://img.shields.io/badge/HTML-red)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JS](https://img.shields.io/badge/JavaScript-yellow)
