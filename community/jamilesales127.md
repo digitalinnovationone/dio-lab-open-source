@@ -1,4 +1,4 @@
-# Jamile Sales | Dev FullStack em Formação
+# Jamile Sales | Dev em Formação
 
 ## Sobre mim
 ### Sou uma jovem apaixonada pela tecnologia, sou do interior da Bahia, estou cursando Análise e Desenvolvimento de Sistemas e faço cursos complementares para me tornar uma desenvolvedora fullstack.
