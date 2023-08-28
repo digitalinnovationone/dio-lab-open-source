@@ -226,3 +226,6 @@
   </tbody>
   <tfoot></tfoot>
 </table>
+
+## Links Badges Úteis
+ - [markdown-badges]( https://github.com/Ileriayo/markdown-badges )
