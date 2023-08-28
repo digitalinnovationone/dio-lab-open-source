@@ -6,7 +6,7 @@ Agora em Julho de 2023 consegui passar em um processo seletivo aqui do Rio de Ja
   **_"Uma máquina consegue fazer o trabalho de 50 homens ordinários. Nenhuma máquina consegue fazer o trabalho de um homem extraordinário. Elbert Hubbard, escritor"_**
 
 ### ****
-Me segue lá nas Redes Sociais 🤙.
+Me segue lá nas Redes Sociais 🤙.a
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/river251087_99335)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:riversdev42@outlook.com)
