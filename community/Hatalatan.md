@@ -1,5 +1,7 @@
 # Hatalatan
-Olá, sou Hatalatan, ou Guilherme, e busco pela DIO mais conhecimento e oportunidades na área de Desenvolvimento de Software.
+Olá, sou Hatalatan, ou Guilherme, e busco na DIO mais conhecimento e oportunidades na área de Desenvolvimento de Software.
+
+Sou apaixonado por video games e aprender coisas novas!
 
 ## Conecte-se Comigo!
 [![Github](https://img.shields.io/badge/Github-357?style=for-the-badge&logo=Github&logoColor=fffff)](https://github.com/Hatalatan/)
