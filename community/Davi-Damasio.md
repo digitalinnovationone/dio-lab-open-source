@@ -29,6 +29,6 @@ No momento não tenho experiências em trabalho empresarial, mas tenho prática 
 
 - **Descrição:** Um mapa da escola, interativo, criado utilizando html, css e Typescript, foi utilizado IONIC para fazer o port para aplicação android.
 
-### Obrigado por visitar o perfil, você pode conhecer mais sobre mim no meu perfil do LinkedIn
+### Obrigado por visitar o perfil, você pode conhecer mais sobre mim no meu perfil do LinkedIn.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/Davi-Damasio/)
 
