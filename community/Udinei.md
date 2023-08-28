@@ -1,5 +1,5 @@
 # Apresentação
-Olá! Meu nome é Udinei Silva, e com mais de 10 anos de experiência em TI e formação em Tecnologia e Processamento de Dados. Quero apresentar algumas das minhas habilidades, e estatísticas no GitHub, de projetos que criei e contribuições que tenho realizado.  E nesse BootCamp, busco atualizar meus conhecimentos para atuar como Dev AWS usando Java. E nessa oportunidade, agradecer também, a Deus e todos da DIO e Parceiros que ajudaram a realizar esse trabalho! Muito Obrigado!
+Olá! Meu nome é Udinei Silva, e com mais de 10 anos de experiência em TI e formação em Tecnologia e Processamento de Dados. Quero apresentar algumas das minhas habilidades, e estatísticas no GitHub, de projetos que criei e contribuições que tenho realizado. Nesse BootCamp, busco atualizar meus conhecimentos para atuar como Dev AWS usando Java. E nessa oportunidade, agradecer também, a Deus e todos da DIO e Parceiros que ajudaram a realizar esse trabalho! Muito Obrigado!
 
 
 # Minhas Habilidades
