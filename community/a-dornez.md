@@ -5,7 +5,7 @@ Hi! A being driven by coffe ☕ and curiosity 🚀, I'm an explorer seeking to d
 I love the idea of getting to know people from all arround the world through our own way to see and approach things. I'm really excited to see what the years to come have yet to show me!
 
 ## Let's connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/SEUUSERNAME/)    	
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/antonio-dias-b00008268/)    	
 ## Github Stats
 ![itHub Stats](https://github-readme-stats.vercel.app/api?username=a-dornez&theme=&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=FFA726&hide_title=true&text_color=FFF)
 
