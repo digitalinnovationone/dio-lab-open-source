@@ -3,7 +3,7 @@
 # 👋 Opa, me chamo Rodrigo Silva
 
 ## Sobre Mim:
-### Bom, sou um designer gráfico que se apaixonou por programação recentemente e está aprendendo algumas coisas para aplicar nos futuros projetos. conheça um pouco de mim descendo a página ^^ 
+### Bom, sou um designer gráfico que se apaixonou por programação recentemente e está aprendendo algumas coisas para aplicar nos futuros projetos. Conheça um pouco de mim descendo a página ^^ 
 
 ## Formação Acadêmica:
 ### Tecnólogo em Design Gráfico (2023) | **UniFbv**
