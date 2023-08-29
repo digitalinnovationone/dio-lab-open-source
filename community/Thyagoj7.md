@@ -26,7 +26,19 @@ Apaixonada por tecnologia atualmente em processo de migração de carreira, com 
 
 ### Habilidades
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" heigth="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" heigth="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40" />
 
 
 ### Conecte-se comigo
@@ -51,8 +63,9 @@ Apaixonada por tecnologia atualmente em processo de migração de carreira, com 
 [![padroes_de_projetos_DIO: Projeto realizado durante o bootcamp Santander da DIO onde, foi implementado padrões como, Singleton, Strategy e Facade.](https://github-readme-stats.vercel.app/api/pin/?username=thyagoj7&repo=padroes_de_projetos_DIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E34F26F&text_color=FFF)](https://github.com/Thyagoj7/padroes_de_projetos_DIO)
 
 ### Meus Repositórios GitHub
-[![Optabroker: ApiOptabroker é um projeto Java para implementar uma API utilizando o framework Spring Boot, A API é destinada para gerenciamento de usuários do sistema Optabroker.](https://github-readme-stats.vercel.app/api/pin/?username=thyagoj7&repo=Optabroker&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E34F26F&text_color=FFF)](https://github.com/Thyagoj7/Optabroker)
-[![Optabroker: ApiOptabroker é um projeto Java para implementar uma API utilizando o framework Spring Boot, A API é destinada para gerenciamento de usuários do sistema Optabroker.](https://github-readme-stats.vercel.app/api/pin/?username=thyagoj7&repo=Optabroker&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E34F26F&text_color=FFF)](https://github.com/Thyagoj7/Optabroker)
+[![Todo_App: Este é um projeto Java TodoApp simples criado usando o NetBeans IDE. O aplicativo permite que os usuários gerenciem suas tarefas diárias e acompanhem sua lista de tarefas. O projeto é escrito em Java e segue uma estrutura básica para ajudar os iniciantes a começar com o desenvolvimento Java.](https://github-readme-stats.vercel.app/api/pin/?username=thyagoj7&repo=Optabroker&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E34F26F&text_color=FFF)](https://github.com/Thyagoj7/Todo_App)
+[![Optabroker: ApiOptabroker é um projeto Java para implementar uma API utilizando o framework Spring Boot, A API é destinada para gerenciamento de usuários do sistema Optabroker.](https://github-readme-stats.vercel.app/api/pin/?username=thyagoj7&repo=Todo_App&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E34F26F&text_color=FFF)](https://github.com/Thyagoj7/Optabroker)
+
 
 
 ---
