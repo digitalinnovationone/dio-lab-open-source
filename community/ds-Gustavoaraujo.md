@@ -1,4 +1,3 @@
-
 # Hi, I am Gustavo Araújo! 👋
 
 
