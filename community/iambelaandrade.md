@@ -1,0 +1,10 @@
+# ISABELA ANDRADE
+Olá! meu nome é Isabela, sou uma entusiasta da programação dando os primeiros passos no mundo do código. Estou animada para aprender, construir e compartilhar projetos enquanto embarco nessa incrível jornada de aprendizado! 
+# Conecte-se comigo!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=993399)](https://www.linkedin.com/in/isabela-andrade-09b20a205/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=ff0084)](https://www.instagram.com/iambelaandrade/) [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=993399)](https://t.me/iambelaandrade) [![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=ff0084)](https://wa.me/+5567991178523)
+# Habilidades
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=ff0084) ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown&logoColor=993399) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=ff0084) ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=993399) ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=ff0084) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=993399)
+# Aprendendo 
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=ff0084)
+# GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iambelaandrade&theme=transparent&bg_color=000&border_color=993399&show_icons=true&icon_color=ff0084&title_color=ff0084&text_color=993399&hide_title=true&hide=stars)
