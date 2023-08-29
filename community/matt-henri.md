@@ -2,12 +2,12 @@
 
 ![tum](https://user-images.githubusercontent.com/110043609/202230007-7ad2516d-ec64-41e1-8914-b212d1e2e86c.png)
 
-# Olá! Eu sou o Mateus H. ✌️
+# - Olá! Eu sou o Mateus H. ✌️
 
 <p>Atualmente estou estudando JAVA, Git e Github. Estou focado em me desenvolver no Back-end.</p>
 <p>Já estudei o básico de HTML, CSS e Javascript.</p>
 
-<br>
+
 
 ## Conecte-se comigo 
 <br>
@@ -16,7 +16,7 @@
 
 ---
 
-<br>
+
 
 ## Most Used Languages
   <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-henri&layout=compact&hide_border=true&hide_title=true&text_color=FFF&bg_color=0d1117" /> 
@@ -25,7 +25,7 @@
 
   ---
 
-  ##  GitHub Stats
+  ##  GitHub Stats 
   <img width="49%" height="210px" src="https://github-readme-stats.vercel.app/api?username=matt-henri&show_icons=true&count_private=true&hide_border=true&hide_title=true&icon_color=276bff&text_color=c9d1d9&bg_color=0d1117" alt="Mateus Henrique github stats" /> 
 
 
