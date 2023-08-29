@@ -4,7 +4,7 @@
 
 <p>Progredindo constantemente nos estudos, possuo experiência introdutória na área de ciência de dados, onde desenvolvi conhecimento em aprendizado de máquina e bibliotecas associadas em Python <strong>(Scikit-learn, Numpy, Keras/Tensorflow, Pandas)</strong>, técnicas de organização, limpeza de dados e montagem de datasets para treinamento de modelo de machine learning. 
 
-Todo esse conhecimento foi adquirido através da partipação em um projeto no <strong>SENAI CIMATEC</strong> em parceria com uma empresa brasileira na área de <strong>Big Data / Inteligência Artificial </strong>, participação em um segundo projeto também pelo <strong>SENAI CIMATEC</strong> como bolsista na área de Big Data / Inteligência Artificial, em parceria com uma empresa multinacional britânica, e atualmente ainda sigo atuando na área, em um terceiro projeto, o <strong>HP VIALAB - Laboratório de Computação Visual e Inteligência Artificial</strong>.</p>
+Todo esse conhecimento foi adquirido através da partipação em um projeto no <strong>SENAI CIMATEC</strong> em parceria com uma empresa brasileira na área de <strong>Big Data / Inteligência Artificial </strong>, participação em um segundo projeto também pelo <strong>SENAI CIMATEC</strong> como bolsista na área de Big Data / Inteligência Artificial, em parceria com uma empresa multinacional britânica, e atualmente ainda sigo atuando na área, em um terceiro projeto, o <strong>HP VIALAB - Laboratório de Computação Visual e Inteligência Artificiaal</strong>.</p>
 
  ##
 
