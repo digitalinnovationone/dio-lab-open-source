@@ -16,7 +16,7 @@ apaixonada por arte, tecnologia e criar coisas!
 </samp>
 </h3>
 
-## <h1><samp> Minhas Skills Primárias </samp></h1>
+## <h1><samp> Minhas Skills </samp></h1>
 
 ### Frontend
 <p align="left">  
