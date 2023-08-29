@@ -15,6 +15,7 @@ Olá! Eu sou o Ricardo, estudante de Análise e Desenvolvimento de Sistemas
 ## Busco conhecimentos em:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%2302569B.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
 
 
 ## Github Stats
