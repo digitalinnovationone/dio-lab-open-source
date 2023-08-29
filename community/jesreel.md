@@ -1,5 +1,7 @@
 # Jesreel de Morais
 
+<img src="https://ebaconline.com.br/upload/cms/gnLVYc8r9V9qxNrcCWwnq.svg" min-width="400px" max-width="400px" width="400px" align="right">
+
 <p align="left"> 
   Analista de Sistemas no Centro Universitário de Santa Fé do Sul<br>
   Desenvolvedor PHP<br>
@@ -7,6 +9,7 @@
   Conhecimentos em Redes e Servidores Linux
 </p>
 <br>
+
 
 ## Conecte-se comigo!
 
@@ -24,7 +27,7 @@
   </a>
 </p>
 
-<img src="https://static.vecteezy.com/ti/vetor-gratis/p1/5638059-conceito-ilustracao-isometrica-man-digitando-linguagem-programacao-para-aplicativo-web-gratis-vetor.jpg" min-width="400px" max-width="400px" width="400px" align="right" style="margin-top: -400px;">
+
 
 <br><br>
 
