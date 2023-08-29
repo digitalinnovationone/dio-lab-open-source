@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=86B&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you,+my+name+is+Antonio+Bigonha;Welcome+to+my+Profile!)](https://git.io/typing-svg)
 
 ## About Me
-#### I am an Electric and Computer Enginner with an emphasis on statistical modelling of 5G Telecommunication Networks. I have great knowledge of probability and max-min algorithms, as well as thorethical Data Analytics and Machine Learning concepts. My Linkedin profile and my E-mail contact are given below
+#### I am an Electric and Computer Enginner with an emphasis on statistical modelling of 5G Telecommunication Networks. I have great knowledge of probability and max-min algorithms, as well as thorethical Data Analytics and Machine Learning concepts. My Linkedin profile and my E-mail and Whatsapp contact are given below
 
 LinkedIn	[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/antonio-bigonha-127033234/)
 E-Mail	[![E-Mail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/?hl=pt-BR#inbox?compose=GTvVlcSGMhdVgDzLFMwDmtftrdSrXgGgRdHvCzcqSHcHlzFNNMfjGSLTxGQrxbVjFLBrQhtZWmQjs)
