@@ -4,10 +4,9 @@
 ## About Me
 #### I am an Electric and Computer Enginner with an emphasis on statistical modelling of 5G Telecommunication Networks. I have great knowledge of probability and max-min algorithms, as well as thorethical Data Analytics and Machine Learning concepts. My Linkedin profile and my E-mail and Whatsapp contact are given below
 
-LinkedIn	[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/antonio-bigonha-127033234/)
-E-Mail	[![E-Mail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/?hl=pt-BR#inbox?compose=GTvVlcSGMhdVgDzLFMwDmtftrdSrXgGgRdHvCzcqSHcHlzFNNMfjGSLTxGQrxbVjFLBrQhtZWmQjs)
-WhatsApp	[![WhatsApp](https://img.shields.io/badge/whatsapp-000?style=for-the-badge&logo=whatsapp&logoColor=green)]
-(https://wa.me/55061996773900)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/antonio-bigonha-127033234/)
+[![E-Mail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/?hl=pt-BR#inbox?compose=GTvVlcSGMhdVgDzLFMwDmtftrdSrXgGgRdHvCzcqSHcHlzFNNMfjGSLTxGQrxbVjFLBrQhtZWmQjs)
+[![WhatsApp](https://img.shields.io/badge/whatsapp-000?style=for-the-badge&logo=whatsapp&logoColor=green)](https://api.whatsapp.com/send/?phone=5561996773900&text&type=phone_number&app_absent=0)
 
 ## Software Competences
 
