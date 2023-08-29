@@ -5,5 +5,4 @@ Meu nome é Samuel e estou começando agora no mundo da tecnologia, ainda não p
 ## Me acompanhe
 
   [![Meu Perfil da DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://web.dio.me/users/samuellsdnlucas/)
-  https://web.dio.me/users/samuellsdnlucas
-badge)]
+  https://web.dio.me/users/samuellsdnlucas)]
