@@ -1,14 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=header"/>
 
 # Olá! Eu sou Keu Araujo 👍😀 
-
-Minhas paixões são matemática, Python e análise de dados.
-------
+<p>Minhas paixões são matemática, Python e análise de dados.</p>
 
 ## Vamos nos conectar?
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/keu-araujo)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keu_araujos/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-00FF7F?style=for-the-badge&logo=linkedin&logoColor=black)](https://br.linkedin.com/in/keu-araujo)
+[![Instagram](https://img.shields.io/badge/Instagram-00FF7F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/keu_araujos/)
 ------
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=15&center=true&vCenter=true&width=1000&lines=SOU+ENTUSIASTA+DA++ÁREA+DE+DADOS+:%29)](https://git.io/typing-svg)
