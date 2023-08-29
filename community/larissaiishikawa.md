@@ -1,11 +1,13 @@
-# Hi! I'm Larissa 🙋🏻‍♀️
-## System Analyst and Developer (in development)   
+# Hi! I'm Larissa 💚
+## System Analyst and Developer (in development)
+I am currently enrolled in the second semester of Systems Analysis and Development at the Federal Technological University of Paraná (UTFPR-CP). Through this program, I have been able to acquire knowledge in the field of development, including programming languages such as C, Javascript (and consequently, HTML and CSS), and Python. Before that, I temporarily worked in the tourism industry, thanks to my fluency in English, basic level of Spanish, and communication skills. In addition to that, I am always seeking opportunities to learn, communicate, work in teams, challenge myself, and gain new experiences!    
+
 
 
 ![Larissa Ishikawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=larissaiishikawa&theme=shadow_green&show_icons=true)
 
 
-- 🔭 I’m currently working at **Clickweb!**
+- 🔭 I’m currently working at **Clickweb!** as a Project Assistant.
 
 - 🌱 I’m currently learning **Java!**
 
