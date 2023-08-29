@@ -1,11 +1,3 @@
----
-DIO Bootcamp Santander Ciência de Dados com Python
-Projeto: Contribuindo com um projeto opensource no Github
-Autor: Jesreel de Morais
-Iniciado em: 23/08/2023 01:35:20
-Atualizado em: 29/08/2023 15:19
----
-
 # Jesreel de Morais
 
 <p align="left"> 
@@ -32,7 +24,7 @@ Atualizado em: 29/08/2023 15:19
   </a>
 </p>
 
-<img src="https://static.vecteezy.com/ti/vetor-gratis/p1/4578699-man-working-with-computer-with-app-in-isometric-illustration-gratis-vetor.jpg" min-width="400px" max-width="400px" width="400px" align="right" style="margin-top: -400px;">
+<img src="https://static.vecteezy.com/ti/vetor-gratis/p1/5638059-conceito-ilustracao-isometrica-man-digitando-linguagem-programacao-para-aplicativo-web-gratis-vetor.jpg" min-width="400px" max-width="400px" width="400px" align="right" style="margin-top: -400px;">
 
 <br><br>
 
