@@ -1,6 +1,6 @@
 <div align="center">
   
-# Seja bem vindo(a)
+# Seja bem vindo(a)!
 
 #### Me chamo Keila Fricks Pacheco, sou formada em Sistemas de Informação. 
 ##### Eu sempre amei muito a tecnologia, pretendo sempre esta avançando cada vez mais, aprender algo novo todos os dias.
