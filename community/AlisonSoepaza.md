@@ -1,7 +1,7 @@
 ## Olá, sou Alison Soepaza 😎
 📊 Estou em uma empolgante jornada em direção ao mundo da análise de dados, buscando aprimorar minhas habilidades para transformar números em decisões.
 
-🤖 Meu principal interesse está na automação de processos, onde estou explorando o poder do Python para simplificar tarefas repetitivas e aumentar a eficiência.
+🤖 Meu principal interesse está na automação de processos, onde estou explorando o poder do Python para simplificar tarefas repetitivas e aumentar a eficiência 
 ## Habilidades
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
