@@ -1,5 +1,5 @@
 # Olá, me chamo Nathan
-### sou Front-End Developer, e estou me aprimorando para ser um desenvolvedor full stack
+### Sou um Front-End Developer em ascensão, confiável e com capacidades de adaptação excelentes
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanlanna&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanlanna&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
