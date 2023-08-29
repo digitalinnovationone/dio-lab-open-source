@@ -1,6 +1,6 @@
 # João Paulo Barreiros Cunha
 
-Profissional de TI com diversos cursos na área de suporte técnico e desenvolvimento. Possuo experiência de 8 (oito) anos na Secretaria Geral do Exército como Técnico de informática, atuando no atendimento ao usuário tanto presencial como remoto, instalação de softwares, cabeamento estruturado, manutenção de computadores, permissionamento em sistemas, Active Directory e manutenção e instalação de impressoras. também tive a oportunidade de trabalhar como Suporte técnico na HASEST durante 03 (três) meses, onde prestava suporte a quatro clínicas.
+Profissional de TI com diversos cursos na área de suporte técnico e desenvolvimento. Possuo experiência de 8 (oito) anos na Secretaria Geral do Exército como Técnico de informática, atuando no atendimento ao usuário tanto presencial como remoto, instalação de softwares, cabeamento estruturado, manutenção de computadores, permissionamento em sistemas, Active Directory e manutenção e instalação de impressoras. também tive a oportunidade de trabalhar como Suporte técnico na HASEST durante 03 meses, onde prestava suporte a quatro clínicas.
 
 ### Conecte-se comigo
 
