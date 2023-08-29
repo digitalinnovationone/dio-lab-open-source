@@ -1,29 +1,35 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Exemplos de Profile README</span>
+    <span> Profile README</span>
 </h1>
 
-  Aqui você confere uma lista de exemplos desenvolvida pela comunidade. Veja abaixo um exemplo simples de como você pode criar o seu Profile README para o Desafio da [Digital Innovation One](https://www.dio.me/) e faça a sua contribuição 😉🚀.
+ 
 
 
 ---
 
-# Nome Sobrenome
-Breve descrição sobre você.
+# Joaquim Ornellas
+Cientista Ambiental | Especialista em Geoprocessamento | Entusiasta de Python
+
+🌍 Apaixonado pelo meio ambiente e utilizando a tecnologia para resolver desafios ambientais.
+
+👨‍🔬 Com um mestrado em Ciências Ambientais, tenho um profundo entendimento das complexidades do nosso planeta e seus ecossistemas.
+
+💡 Proficiente em técnicas de geoprocessamento, tenho aplicado com sucesso análises espaciais para apoiar processos de tomada de decisão e abordar questões ambientais.
+
+💻 Habilidades em programação Python, aproveito o poder dessa linguagem versátil para desenvolver soluções inovadoras para análise e modelagem de dados ambientais.
+
+📈 Minha especialidade reside no desenvolvimento de ferramentas de software geoespaciais, automação de processos complexos e visualização de dados para insights acionáveis.
+
+Sempre em busca de oportunidades para expandir meu conhecimento e estar atualizado com os últimos avanços na pesquisa ambiental e tecnologia.
+
+🌐 Vamos nos conectar e explorar como podemos colaborar em projetos que impulsionem mudanças positivas para o nosso planeta.
 
 ### Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/SEUUSERNAME/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:SEUEMAIL@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/SEUUSERNAME/)
-
-
-### Habilidades
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/joaquimor_2/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:joaquimor_2@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/joaquim-lemos-ornellas-147311a8/)
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
