@@ -16,7 +16,7 @@ apaixonada por arte, tecnologia e criar coisas!
 </samp>
 </h3>
 
-## <h1> <img src="./Images/rocket.gif" width="30px"><samp> Minhas Skills Primárias </samp></h1>
+## <h1><samp> Minhas Skills Primárias </samp></h1>
 
 ### Frontend
 <p align="left">  
