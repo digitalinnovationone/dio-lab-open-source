@@ -46,9 +46,7 @@
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.                                              |
 | `test`         | Adiciona ou modifica testes no projeto.                                                                   |
 
-##### Exemplo commit
 
-`feat: adicionado novo arquivo`
 
 
 ## Referências
