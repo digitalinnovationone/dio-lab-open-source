@@ -1,6 +1,6 @@
 # Olá mundo!!!
 - Meu nome é Joás, sou estudante do curso de ciencia da computação na Universidade Federal e Rural do Semi-Arido (UFERSA) - Campus Mossoró, atualmente estou no primeiro periodo.
-- Nesse perfil do github, eu gostaria de compartilhar meus projetos pessoais, além daqueles densenvolvidos nas matérias da faculdade, além de contribuir com projetos Open Source.
+- Nesse perfil do github, eu gostaria de compartilhar meus projetos pessoais, além daqueles densenvolvidos nas matérias da faculdade, fora isso, quero contribuir com projetos Open Source.
 - Minha principais areas de interesse são o Backend e a ciencia de dados.
 
 ## Conecte-se comigo
