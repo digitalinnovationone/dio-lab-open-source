@@ -4,7 +4,7 @@ Formado em Gestão em Tecnologia da Informação, pela Universade Cruzeiro do Su
 Buscando especialização em novas áreas.
 
 
-## Conecte-se comigo - Redes Sociais
+## Conecte-se comigo - Redes SociaisS
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/fabio-felipe488/)
