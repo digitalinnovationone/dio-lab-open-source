@@ -16,3 +16,4 @@
 
 ## Minhas Contribuições
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=talitarufino&repo=dio-lab-open-source-desafio1&bg_color=ec63a1&border_color=fff&show_icons=true&icon_color=ffff&title_color=fff&text_color=FFF)
+
