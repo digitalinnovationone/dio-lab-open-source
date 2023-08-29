@@ -129,4 +129,5 @@ Aprender o básico sobre contribuição no GitHub.
 </a>
 
 ##
-<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+<div align="center">Feito com 💙 por <a href="https://github.com/gthiagosilva">Thiago</a>.</div>
+
