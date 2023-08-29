@@ -6,6 +6,8 @@
 
 LinkedIn	[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/antonio-bigonha-127033234/)
 E-Mail	[![E-Mail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/?hl=pt-BR#inbox?compose=GTvVlcSGMhdVgDzLFMwDmtftrdSrXgGgRdHvCzcqSHcHlzFNNMfjGSLTxGQrxbVjFLBrQhtZWmQjs)
+WhatsApp	[![WhatsApp](https://img.shields.io/badge/whatsapp-000?style=for-the-badge&logo=whatsapp&logoColor=green)]
+(https://wa.me/55061996773900)
 
 ## Software Competences
 
