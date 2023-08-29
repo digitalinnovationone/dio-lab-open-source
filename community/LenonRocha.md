@@ -1,9 +1,9 @@
 # Hello World, eu sou o Lenon <br><br>
 ## Quem eu sou:
 
-Estou em transição de carreira para a área de tecnologia, quero ser cientista de dados. Atualmente estou estudando Python, R e PowerBI.
+Estou em transição de carreira para a área de tecnologia, quero ser cientista de dados. Atualmente estou estudando Python, R e PowerBI.<br><br>
 
-## Habilidades
+## Habilidades<br>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="10"> **Python**<br>
 <img src="https://www.r-project.org/logo/Rlogo.png" height="10">  **R**<br>
