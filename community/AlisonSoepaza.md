@@ -1,5 +1,5 @@
 ## Olá, sou Alison Soepaza 😎
-📊 Estou em uma empolgante jornada em direção ao mundo da análise de dados, buscando aprimorar minhas habilidades para transformar números em decisões.
+📊 Estou em uma empolgante jornada em direção ao mundo da análise de dados, buscando aprimorar minhas habilidades para transformar números em decisões .
 
 🤖 Meu principal interesse está na automação de processos, onde estou explorando o poder do Python para simplificar tarefas repetitivas e aumentar a eficiência 
 ## Habilidades
