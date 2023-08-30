@@ -58,10 +58,18 @@
     </tr>
     <tr>
       <td>
-        <img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter">
+        <img align="center" alt="Threads" src="https://cdn.mos.cms.futurecdn.net/d25VPJcTxUEFcgzFvENMmE-320-80.jpg">
       </td>
       <td>
-        <code>[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/SEUUSERNAME)</code>
+        <code>[![Threads](https://cdn.mos.cms.futurecdn.net/d25VPJcTxUEFcgzFvENMmE-320-80.jpg)](https://www.threads.net/@SEUUSERNAME/)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="X" src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-handle.png.twimg.1920.png">
+      </td>
+      <td>
+        <code>[![X](https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-handle.png.twimg.1920.png)](https://twitter.com/SEUUSERNAME)</code>
       </td>
     </tr>
     <tr>
