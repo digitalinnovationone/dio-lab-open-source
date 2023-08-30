@@ -14,4 +14,4 @@ Olá, me chamo Aline Rangel, tenho 27 anos e estou no primeiro semestre da facul
 
 
 ## Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AlineRangell&repo=dio-lab-open-source&bg_color=FF69B4&&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO) 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AlineRangell&repo=dio-lab-open-source&bg_color=FF69B4&&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AlineRangell/dio-lab-open-source) 
