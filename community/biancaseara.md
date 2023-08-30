@@ -1,4 +1,4 @@
-# Bianca Seara
+# Bianca Seara 💞
 
 Tech lover em busca de dominar o mundo digital, da programação em Python à ciência de dados. 
 
