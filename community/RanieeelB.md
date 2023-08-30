@@ -1,5 +1,5 @@
 # Raniel Bezerra 
-Olá!
+Olá, Tudo bem?
 Sou iniciante na área de programação, curso sistemas de inforamação na universidade Estácio de Sá, com previsão de conclusão para 06/2026. \
 Estar imerso nessa área é incrível, tenho me esforçado muito nos estudos e até me dedico a codificar durante os intervalos do trabalho.\
 A medida que aprendo mais, meu desejo é retribuir e auxiliar a comunidade da melhor maneira possível.
