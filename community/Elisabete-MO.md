@@ -3,13 +3,11 @@
 
 <h3>I invite you to get to know me better by exploring my social media profiles...</h3>
 <hr>
-How to reach me :point_down: :
-<div align="center">
-<a href="https://github.com/Elisabete-MO/Elisabete-MO" target="blank"><img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40px"/></a>
-<a href="https://www.linkedin.com/in/elisabete-martinsdeoliveira" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40px"/></a>
-<a href="https://www.instagram.com/bete.mrt/" target="blank"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" width="40px"/></a>
-<a href="mailto:bete.mrt@gmail.com" target="blank"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="40px"/></a>
-</div>
+How to reach me :point_down: : </br>
+<a href="https://github.com/Elisabete-MO/Elisabete-MO" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40px"/></a>
+<a href="https://www.linkedin.com/in/elisabete-martinsdeoliveira" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40px"/></a>
+<a href="https://www.instagram.com/bete.mrt/" target="blank"><img align="center" src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" width="40px"/></a>
+<a href="mailto:bete.mrt@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="40px"/></a>
 <hr>
 <h3>...and my stacks</h3>
 <hr>
