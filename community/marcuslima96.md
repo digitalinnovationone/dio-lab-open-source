@@ -1,6 +1,6 @@
 # Marcus Lima
 
-Olá! Sou um entusiasta da tecnologia com 27 anos de idade. Com formação em Análise e Desenvolvimento de Sistemas, mergulhei de cabeça no mundo da codificação e venho explorando suas possibilidades desde então..
+Olá! Sou um entusiasta da tecnologia com 27 anos de idade. Com formação em Análise e Desenvolvimento de Sistemas, mergulhei de cabeça no mundo da codificação e venho explorando suas possibilidades desde então.
 
 ### Conecte-se comigo
 
