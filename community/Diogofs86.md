@@ -2,7 +2,7 @@
 
 ## Sobre
 
-Cursando Analise e Desenvolvimento de Sistemas, experiência área de manufatura atuando na manutençao máquinas e processo.
+Cursando Analise e Desenvolvimento de Sistemas, experiência na área de manufatura atuando na manutençao máquinas e processo.
 
 
 ## Objetivo
