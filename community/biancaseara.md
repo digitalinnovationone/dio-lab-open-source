@@ -16,10 +16,8 @@ Tech lover em busca de dominar o mundo digital, da programação em Python à ci
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
-
 ### Linguagens mais usadas
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=biancaseara&layout=compact&bg_color=050815&border_color=FF1493&title_color=FF1493&text_color=FFF&hide_title=True)
-
 
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=biancaseara&repo=dio-lab-open-source&bg_color=000&border_color=FF1493&show_icons=true&icon_color=FF69B4&title_color=FF1493&text_color=FFF)](https://github.com/biancaseara/dio-lab-open-source)
