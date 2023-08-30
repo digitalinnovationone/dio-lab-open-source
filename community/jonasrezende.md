@@ -1,6 +1,6 @@
 # Jonas Willian Silva Rezende
 
-Sou formada em zootecnia estou realizando transição de carreira partindo para o desenvolvimento mobile (flutter, dart). Atualmente trabalho em uma empresa de saúde como assistente de TI (suporte). Planejo conciliar minha área de formação com o desenvolvimento.
+Sou formado em zootecnia estou realizando transição de carreira partindo para o desenvolvimento mobile (flutter, dart). Atualmente trabalho em uma empresa de saúde como assistente de TI (suporte). Planejo conciliar minha área de formação com o desenvolvimento.
 
 ## Conecte-se Comigo
 
