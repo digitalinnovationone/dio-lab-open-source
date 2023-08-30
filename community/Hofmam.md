@@ -1,5 +1,5 @@
 # Gabriel Hofmam
-Posso dizer que estou no inicio de carreira como Desenvolvedor, desde pequeno possuo interesse em tudo quanto é área de tecnologia, e começo minha caminhada com as oportunidades que me surgem, buscando aprender, adquirir e entender novos conhecimentos, conheço um pouco sobre uma das mais belas linguagens de programação conhecidas por mim, Python, mas busco as especializaçãos naquilo que aparecer a minha frente até o descobrimento de minha verdadeira paixão.
+Posso dizer que estou no inicio de carreira como Desenvolvedor, desde pequeno possuo interesse em tudo quanto é área de tecnologia, e começo minha caminhada com as oportunidades que me surgem, buscando aprender, adquirir e entender novos conhecimentos, conheço um pouco sobre uma das mais belas linguagens de programação conhecidas, Python, mas busco as especializaçãos naquilo que aparecer a minha frente até o descobrimento de minha verdadeira paixão.
 
 
 ### Conecte-se comigo
