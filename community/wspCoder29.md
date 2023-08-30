@@ -8,7 +8,9 @@ https://www.youtube.com/watch?v=FE8BAELd3jQ
 
 
 Robo de telepresença construido com Raspberri Pi 
-https://studio.youtube.com/video/jw4dmACfz48/edit
+https://www.youtube.com/watch?v=jw4dmACfz48
 
 
+git commit -m"feat: add wspCoder29 profile"
 
+git push origin feat/community/wspCoder29
