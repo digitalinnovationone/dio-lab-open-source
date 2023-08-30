@@ -7,7 +7,7 @@
 # 🔎 Sobrem Mim
 **Olá, tenho 25 anos, sou formado em Sistemas de Informação, trabalho como Técnico de Informática, amo jogos, animes e mangás. Atualmente estou um pouco afastado do mundo da programação mas voltando aos poucos e tentando focar no desenvovimento de Apps Mobile com Flutter.**
 
-## 🌐 Conecte-se comigo!
+## 🌐 Conecte-se Comigo!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-210439?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/laudeni-alves-2854a1132/)
 [![Instagram](https://img.shields.io/badge/Instagram-210439?style=for-the-badge&logo=instagram)](https://www.instagram.com/laudeni_alves/)
 
@@ -17,7 +17,7 @@
 ![Android](https://img.shields.io/badge/Android-210439?style=for-the-badge&logo=android&logoColor=018C42)
 ![Windows](https://img.shields.io/badge/Windows-210439?style=for-the-badge&logo=windows&logoColor=fff)
 
-## 👨‍💻 GitHub status
+## 👨‍💻 GitHub Status
 [![GitHub Streak](https://streak-stats.demolab.com/?user=laudeni&theme=bear&background=210439&border=30A3DC&dates=fff)](https://git.io/streak-stats)
 
 ## 👨‍💻 Minhas Contribuições
