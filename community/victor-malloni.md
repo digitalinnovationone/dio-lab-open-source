@@ -7,6 +7,7 @@
 <img src="https://gifdb.com/images/high/cartoon-cat-sketch-drawing-computer-q6ahnmbmjt8tuj6a.webp" alt="Se voce quer, voce consegue" width="300" height="150">
 
 - **Nome:** Victor Malloni
+- **Faculdade:** Cursando ultimo periodo em Ciências da computação
 - **Endereço:** Recife
 - **E-mail:** mallonivictor02@gmail.com
 - **LinkedIn:** [LinkedIn Victor](https://www.linkedin.com/in/victor-moura-26a10a232/)
@@ -15,7 +16,7 @@
 
 ## Resumo:
 
-Minha trajetória inclui experiência em algumas áreas, incluindo Recepcionista, assistente de fotografia, modelador 3D e trabalho voluntário. Atualmente(2023.2), estou cursando o ultimo período de Ciências da Computação.
+Minha trajetória inclui experiência em algumas áreas, incluindo Recepcionista, assistente de fotografia, modelador 3D e trabalho voluntário. Atualmente(2023.2), estou cursando o ultimo período de Ciências da Computação. Minha jornada na programação começou na adolescência, com influências significativas vindas de minha própria família. Meu irmão, primo e tio me orientaram, e nos últimos três anos, minha parceira, que é especializada em desenvolvimento mobile com Kotlin, tem sido uma fonte de conhecimento inestimável.
 
 ## Experiência Profissional:
 
