@@ -1,7 +1,4 @@
-<h1>
-    <img align="center" width="40px" src="https://media.licdn.com/dms/image/D4D03AQFD3tmHx2tZ1Q/profile-displayphoto-shrink_800_800/0/1683116946524?e=2147483647&v=beta&t=8nZ5QkW_XUPEwMy7i-MKn4bTnr091qmMQARPpU04rY8">
-    <span>README do Douglas</span>
-</h1>
+# README do Douglas
 
  🚀🚀🚀Aqui você confere o meu README, seja bem vindo!🚀🚀🚀
 
@@ -18,8 +15,6 @@ Minha primeira experiência na Dio, o qual busco aprimorar meus conhecimentos em
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/douglasmfe/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:douglasmfe@gmail.com)
 
-
-
 ### Habilidades
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
@@ -29,20 +24,27 @@ Minha primeira experiência na Dio, o qual busco aprimorar meus conhecimentos em
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=douglasmfe-lab&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
+### Top Languages
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=douglasmfe-lab&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
-### Meus Principais Desafios de Projeto DIO
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?=douglasmfe-lab&repo=Jogo-de-Xadrez-em-JAVA&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/douglasmfe-lab/Jogo-de-Xadrez-em-JAVA)
+### Alguns projetos que possuo no meu perfil do Github
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasmfe-lab&repo=Jogo-de-Xadrez-em-JAVA&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/douglasmfe-lab/SEUREPOSITORIO)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasmfe-lab&repo=Projeto-Webservices-SpringBoot-Java11&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/douglasmfe-lab/Projeto-Webservices-SpringBoot-Java11)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasmfe-lab&repo=apirest-showproduct&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/douglasmfe-lab/apirest-showproduct)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasmfe-lab&repo=Jogo_de_dados_Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/douglasmfe-lab/Jogo_de_dados_Python)
+
+
+ 🚀🚀🚀
+
 
 ### Meus Principais Projetos da vida real
-<table>
-  <thead>
-    <tr align="left">
-      <th>2020</th>
-      <th>Correção de segurança em construtores de classes Java em instituições financeiros</th>
-    </tr>
-  </thead>
-</table>
 
----
+#### Ano: 2020
+##### *Correção de segurança em construtores de classes Java em instituições financeiras*
+
