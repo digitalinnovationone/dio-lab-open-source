@@ -1,7 +1,14 @@
 ---
 
 # Carol Ribeiro
-Breve descrição sobre você.
+Cientista de Dados, com experiência em gestão de pessoas e ampla experiência em gerenciamento de projetos e análise de dados. Capacidade comprovada de trabalhar colaborativamente com equipes multidisciplinares para coletar requisitos e extrair insights para direcionar decisões de negócios. Habilidade em projetar e implementar pipelines de dados, criando painéis visualmente atraentes e interativos usando ferramentas como Tableau, Python e SQL. Interessado em aplicar habilidades de ciência de dados a novos domínios e setores.
+
+Especialidades:
++ Gerenciamento de projetos, garantindo cumprimento de metas, prazos e orçamento.
++ Análise de dados, aprendizado de máquina e visualização de dados
++ Colaboração com equipes multidisciplinares
++ Projeto e implementação de pipelines de dados
++ Criação de dashboards interativas
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/carolribeirodev/)
