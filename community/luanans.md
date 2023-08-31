@@ -30,9 +30,9 @@ Minha graduação em Engenharia Biomédica pela UFPE me proporcionou uma sólida
 - Familiaridade com linguagens de consulta a banco de dados, como SQL.
 - Comunicação eficaz de resultados complexos.
 
-## Contato
+## Contatos
 Vamos conectar! [LinkedIn](https://www.linkedin.com/in/luana-nunes-s/)
 
 Estou empolgada para continuar aprendendo, enfrentar novos desafios e contribuir para projetos em ciência de dados. Se você está procurando alguém dedicado a transformar dados em insights acionáveis, adoraria conversar!
 
-*Última atualização: Agosto de 2023*
+*Última atualização: Setembro de 2023*
