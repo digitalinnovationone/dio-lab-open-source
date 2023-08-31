@@ -1,6 +1,6 @@
 # Talita Alves
 
-Sou Talita Alves, iniciante na área de desenvolvimento web. Sou formada em Bacharelado em Tecnologia da Informação e atualmente faço pós-graduação em Segurança da Informação.
+Sou Talita Alves, iniciante na área de desenvolvimento web. Formada em Bacharelado em Tecnologia da Informação e atualmente faço pós-graduação em Segurança da Informação.
 
 ## Minhas Habilidades 
 ![HTML5](https://img.shields.io/badge/HTML5-800000?style=for-the-badge&logo=html5)
