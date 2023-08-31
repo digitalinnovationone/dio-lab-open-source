@@ -10,8 +10,8 @@
     
 <div align="center">
   <a href="https://github.com/cbrasantos">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cbrasantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cbrasantos&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cbrasantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true&hide=stars"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cbrasantos&layout=compact&langs_count=7&theme=dark&hide_title=true&hide=stars"/>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
