@@ -1,5 +1,5 @@
 # RodrigoBeserra
-Meu nome é Rodrigo sou de São - Paulo.
+Meu nome é Rodrigo e sou de São Paulo - SP.
 
 Atualmente sou estudante de Ciência da Computação e estou desenvolvendo minhas habilidades em Python e Power BI com foco na análise de dados.
 
