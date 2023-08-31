@@ -257,3 +257,17 @@ footer p {
     font-size: .9rem;
     color: var(--black);
 }
+
+ul#fileList {
+    list-style: none;
+    padding: 0;
+    width: 350px;
+}
+
+ul#fileList li {
+    margin: 5px 0;
+    padding: 5px;
+    border: 2px solid var(--secondary-color); 
+    border-radius: 10px;
+    color: var(--secondary-color); 
+}
