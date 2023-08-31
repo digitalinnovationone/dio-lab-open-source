@@ -35,23 +35,21 @@
 9. Envie as alterações para o seu repositório remoto `git push origin feat/community/seunomedeusuario`; 
 10. Crie um **Pull Request**.
 
-## Convenção de Commits
+## Códigos do Terminal para utilizar no GitHub
 
-| Tipo de Commit | Descrição                                                                                                 |
-| -------------- | --------------------------------------------------------------------------------------------------------- |
-| `feat`         | Adiciona uma nova funcionalidade ao projeto.                                                              |
-| `fix`          | Corrige um bug ou problema no projeto.                                                                    |
-| `docs`         | Altera a documentação do projeto. Ex.: README, comentários no código.                                     |
-| `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.                                              |
-| `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.                                              |
-| `test`         | Adiciona ou modifica testes no projeto.                                                                   |
-
+|Código | Descrição  do Código                                                                                      |
+| -------------- | ------------------------------------------------------------------------------------------------ |
+| `git config --global user.name "Leonardo Comelli"`| Setar usuário                                                 |
+| `git config --global user.email leonardo@software-ltda.com.br`| Setar email                                       |
+| `git config --global core.editor vim `| Setar editor                                                              |
+| `git config --global merge.tool vimdiff`| Setar ferramenta de merge                                               |
+| `git config --global core.excludesfile ~/.gitignore` |  Setar arquivos a serem ignorados                          |
+| `git config --list` | Listar configurações                                                                        |
+| `git help` | Geral                                                                                                |
 ##### Exemplo commit
 
 `feat: adicionado novo arquivo`
 
 
 ## Referências
-- [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
-- [CONVENTIONAL COMMITS. Summary](https://www.conventionalcommits.org/en/v1.0.0/)
-- [GITHUB. Configurar diretrizes para os contribuidores do repositório](https://docs.github.com/pt/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
+- [GitHub](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
