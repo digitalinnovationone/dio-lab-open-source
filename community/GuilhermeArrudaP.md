@@ -5,7 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-38F?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/guilherme-arruda-pedroso/)
 [![E-mail](https://img.shields.io/badge/Email-38F?style=for-the-badge&logo=gmail)](mailto:guilherme.apedroso@gmail.com)
 
-
 ## Habilidades
 
 ![Markdown](https://img.shields.io/badge/Markdown-38F?style=for-the-badge&logo=markdown)
