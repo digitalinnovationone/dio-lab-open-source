@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=header"/>
+
 É com grande entusiasmo e determinação que me apresento a vocês como Daniel Oliveira, profissional em transição de carreira da área administrativa para o empolgante mundo da tecnologia. Ao longo dos últimos dez anos, acumulei uma sólida experiência no campo administrativo, moldando meu conjunto de habilidades e aprimorando minha capacidade de enfrentar desafios com criatividade e eficiência.
 
 Minha jornada profissional até agora tem sido marcada por uma busca constante por crescimento e evolução. No entanto, minha paixão pela tecnologia e o desejo de explorar novos horizontes me levaram a uma emocionante transição para a área de tecnologia, com foco específico em linguagens Java e desenvolvimento back end.
@@ -36,5 +38,8 @@ Bibliotecas e Frameworks
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielcooder&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=header"/>
 
 
