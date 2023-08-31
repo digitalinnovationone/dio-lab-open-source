@@ -8,7 +8,7 @@
 
 Tenho 20 anos, comecei a faculdade de **Engenharia de Software** da Unicesumar agora. Não sei *nada* sobre programação e só o fato de estar conseguindo realizar esse desafio e entender já me deixa animada. Conheci a **DIO** graças a faculdade.
 
-**Meu hobbie é ter hobbie**, faço tudo que me interessar: ler livros ou mangás, escrever, jogar, fazer desenho digital, assistir series, filmes, animes ou doramas, fazer amigurumis (bonecos de crochê) e de vez em quando tento algo na ✨**programação**✨(o design da página do blogger, onde eu só procurava htmls pela internet e tentava conectá-los para formar uma página bonitinha mesmo sem saber nada).
+**Meu hobby é ter hobbies**, faço tudo que me interessar: ler livros ou mangás, escrever, jogar, fazer desenho digital, assistir series, filmes, animes ou doramas, fazer amigurumis (bonecos de crochê) e de vez em quando tento algo na ✨**programação**✨(o design da página do blogger, onde eu só procurava htmls pela internet e tentava conectá-los para formar uma página bonitinha mesmo sem saber nada).
 
 Tenho altas espectativas com a faculdade e no Bootcamp do Santander [Mobile Android com Kotlin](https://web.dio.me/track/8e588712-f5c0-45f7-a777-761ae6b42d39). Me desejem sorte!😊
 
