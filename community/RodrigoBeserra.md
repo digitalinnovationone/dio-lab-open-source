@@ -1,4 +1,7 @@
 # RodrigoBeserra
+Meu nome é Rodrigo sou de São - Paulo.
+
+Atualmente sou estudante de Ciência da Computação e estou desenvolvendo minhas habilidades em Python e Power BI com foco na análise de dados.
 
 ## Habilidades
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=2509tiago&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
