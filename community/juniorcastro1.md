@@ -16,6 +16,6 @@ Sou um estudante de Engenharia da Computação no IFCE de Fortaleza.
 
 ### Github stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juniorcastro1&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juniorcastro1&theme=transparent&bg_color=000&border_color=6b9067&show_icons=true&icon_color=6b9067&title_color=7a53f9&text_color=FFF)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juniorcastro1&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juniorcastro1&layout=compact&bg_color=000&border_color=6b9067&title_color=7a53f9&text_color=FFF)
