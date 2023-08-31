@@ -23,7 +23,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-diogo&theme=transparent&bg_color=0089FF&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=FFF)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dev-diogo&bg_color=0089FF&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dev-diogo&bg_color=0089FF&border_color=30A3DC&title_color=FFF&text_color=FFF)
 
 
 
