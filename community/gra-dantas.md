@@ -1,11 +1,9 @@
-#Gra-Danttas
+# Gra-Danttas
 
 ## Conecte-se comigo
-[![LinkedIn](https://icons8.com.br/icon/44019/linkedin)](https://www.linkedin.com/in/graziela-dantas-p/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/graziela-dantas-p/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Gra-dantas/)
 
-[![GitHub](https://icons8.com.br/icon/52539/github)](https://www.github.com/Gra-dantas/)
-
-[![Email](https://icons8.com.br/icon/44829/nova-mensagem)]( Danttas.p@hotmail.com)
 
 ## Habilidade
 
