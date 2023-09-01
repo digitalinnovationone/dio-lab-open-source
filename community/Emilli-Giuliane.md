@@ -26,10 +26,15 @@ Estou cursando Técnico de Analise e Desenvolvimento de Sistemas desde fev/2023 
 <a href="https://github.com/Emilli-Giuliane">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emilli-Giuliane&layout=compact&langs_count=7&theme=nord"/>
 
+```
+
+
+```
+
 # Conecte-se comigo!
 
+### Minhas Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/linkedin-293914?style=for-the-badge&logo=Linkedin&logoColor=CDFF8C)](https://www.linkedin.com/in/emilli-giuliane-pereira-lima-b44912265/)
-<div>
-
+<left>
 [![E-mail](https://img.shields.io/badge/-Email-293914?style=for-the-badge)](mailto:mailtoemilligiuliane@gmail.com)
 
