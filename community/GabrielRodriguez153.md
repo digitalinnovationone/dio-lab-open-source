@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682A9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&pause=1000&color=4682A9&width=435&lines=Sejam+Bem+Vindo(a)+ao+Meu+GitHub+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682A9&size=45&center=true&vCenter=true&width=1200&lines=Sejam+Bem+Vindo(a)+ao+Meu+GitHub+✌;)](https://git.io/typing-svg)
 
 <div align="justify">
 <b>Olá, Me chamo Gabriel e Tenho 18 anos. Sou estudante do 2º Semestre do Curso de Desenvolvimento de Software Multiplataforma da FATEC de Registro. Estou na Busca de me tornar um programador Full-Stack.
@@ -17,26 +17,19 @@
 
 ## **Linguagens em Aprendizado**
 ![Angular](https://img.shields.io/badge/ANGULAR-000?style=for-the-badge&logo=angular) ![TYPE](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=264CE4)  
-![react](https://img.shields.io/badge/React-000?style=for-the-badge&logo=REACT)
+![node](https://img.shields.io/badge/React-000?style=for-the-badge&logo=REACT)
 ![MYSql](https://img.shields.io/badge/NodeJS-000?style=for-the-badge&logo=NODE.JS) ![php](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=264CE4)
 
 <br>
 
 ## **Estatísticas**
 <div> 
-  <img width="59%" height="200px" src="https://github-readme-stats.vercel.app/api?username=GabrielRodriguez153&show_icons=true&count_private=false&hide_border=false&title_color=4682A9&icon_color=4682A9&text_color=c9d1d9&bg_color=000117" /> 
-  <img width="61%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRodriguez153&hide_border=false&title_color=4682A9&text_color=4682A9&bg_color=000117" />
+  <img width="89%" height="200px" src="https://github-readme-stats.vercel.app/api?username=GabrielRodriguez153&show_icons=true&count_private=true&hide_border=false&title_color=4682A9&icon_color=4682A9&text_color=c9d1d9&bg_color=000117" /> 
+  <img width="81%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRodriguez153&layout=compact&hide_border=false&title_color=4682A9&text_color=4682A9&bg_color=000117" />
 </div>
 
-## **Contribuições**
+## **Contribuição**
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielRodriguez153&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GabrielRodriguez153/dio-lab-open-source)
-
-## **Idiomas**
-<div>
- <b>- INGLÊS (INTERMEDÍARIO);<BR>
- - ESPANHOL (BÁSICO);
- </b>
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682A9&height=120&section=footer"/>
