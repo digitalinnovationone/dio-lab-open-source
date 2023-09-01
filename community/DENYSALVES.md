@@ -3,7 +3,7 @@
 |:---:|:---|:---:|
 
 ## Sobre mim
-Sou um profissional de gestão de projetos e análise de requisitos, que também programo nas linguagens 
+Sou um profissional de gestão de projetos e análise de requisitos, que também programa nas linguagens Visual Basic e Delphi. 
 
 Sou professor universitário da área de Tecnologia da Informação e gerenciamento de projetos.
 
