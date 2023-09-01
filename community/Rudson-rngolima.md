@@ -22,7 +22,7 @@ Desenvolvimento Web | Desenvolvimento Full Stack | Back-end e Front-end Desenvol
 
 • Gerenciamento de Projetos Scrum.
 
-Sempre estou aberto a receber feedback de antigos colegas, superiores ou qualquer profissional interessante. Portanto, sinta-se à vontade para me contatar se quiser compartilhar suas opiniões ou trocar ideias. Estou ansioso para ouvir de você!!
+Sempre estou aberto a receber feedback de antigos colegas, superiores ou qualquer profissional interessante. Portanto, sinta-se à vontade para me contatar se quiser compartilhar suas opiniões ou trocar ideias. Estou ansioso para ouvir de você
 
 [Perfio - Bio](https://web.dio.me/users/rudson_olima?tab=skills)
 
