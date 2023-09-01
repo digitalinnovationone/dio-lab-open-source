@@ -3,6 +3,7 @@ Olá, sou um músico apaixonado que recentemente embarcou em uma empolgante jorn
 
 ## Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-ca2cec?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/OsorioFialho)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ca2cec?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/joão-osório-79052b9b)
 
 ## Habilidades
 [![GitHub](https://img.shields.io/badge/GitHub-ca2cec?style=for-the-badge&logo=github&logoColor=fff)](https://docs.github.com/)
