@@ -1,6 +1,6 @@
 # Daniel Lima
 
-## Sobre min:
+## Sobre mim:
 
 Sou professor de Educação Física (Bacharel e Licenciatura), estudo Análise e desenvolvimento de sistemas, trabalhei como atendente de telemarketing back office e estou em busca de novas oportunidades na área de TI.
 
