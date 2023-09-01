@@ -9,6 +9,6 @@ Formado em Segurança da informação, atualmente estou estudando programação 
 
 ## Github stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AstronCastron&theme=transparent&bg_color=909&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=FFF&hide_title=true&hide=stars)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AstronCastron&layout=compact&bg_color=000&border_color=fff&title_color=fff&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AstronCastron&layout=compact&bg_color=000&border_color=fff&title_color=ff&text_color=FFF)
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AstronCastron&repo=dio-lab-open-source&bg_color=090&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=FFF)](https://github.com/AstronCastron/dio-lab-open-source.git)
