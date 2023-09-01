@@ -13,8 +13,8 @@ Olá, me chamo Vitória Tamara, estudo Design, mas gosto de umas coisinhas de pr
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 
 ## GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vltorla&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vltoria&theme=radical)](https://git.io/streak-stats)
 
 ## Linguagens mais usadas
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vltorla&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vltoria&layout=compact&theme=radical)
 '-'
