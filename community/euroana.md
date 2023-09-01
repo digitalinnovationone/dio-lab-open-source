@@ -1,10 +1,10 @@
-## Ei, 
+## Ei, 🙂.
 
 Me chamo Roana, mas você pode me chamar de Rô. 
 
 Sou formada em Direito, mas atualmente decidi fazer transição de carreira para Análise de Dados. Ambas as profissões tem um ponto em comum: a resolução de problemas. Demorei para me desprender. Demorei para tomar essa decisão e compartilhar com mundo. Mas larguei disso e decidi aparecer aqui, porque todo mundo tem algo a ser compartilhado. Sério! 
 
-E eu sentia que precisava de um recomeço.
+E eu sentia que precisava de um recomeço ⭐
 
 Inclusive, tenho muitos medos. Um deles é de gostar de muitas coisas, mas aprendi que o mundo é feito de quem tem ideias. Você gostar de muitas coisas e ter muitas ideias não é problema nenhum. Durante a faculdade participei de pesquisas na área de privacidade e novas tecnologias, finalizando esse ciclo com a monografia sobre a aplicação da tecnologia blockchain na proteção de dados das escriturações societárias. Acho que isso deu um plot na minha cabeça, rs.
 
