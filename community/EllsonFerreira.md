@@ -39,3 +39,5 @@ Amo poder fazer parte desse mundo de descobertas que é viver usando tecnologia.
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=EllsonFerreira&repo=Interface-Netflix&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/EllsonFerreira/Interface-Netflix.git)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=EllsonFerreira&repo=Snake-Game&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/EllsonFerreira/Snake-Game.git)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=EllsonFerreira&repo=Cadastro-itens&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/EllsonFerreira/Cadastro-itens.git)
