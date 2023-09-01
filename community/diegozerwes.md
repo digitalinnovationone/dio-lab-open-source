@@ -17,4 +17,4 @@ Estou no 4º período de Análise e Desenvolvimento de Sistemas.
 ## 🖥️ 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegozerwes)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-henrique-zerwes-ferreira-20259157/)
-![Gmail](https://img.shields.io/badge/zerwes.diego@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/zerwes.diego@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
