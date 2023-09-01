@@ -1,6 +1,7 @@
 # Meu Perfil de Desenvolvedor
 
 ![Esse sou eu:](https://photos.app.goo.gl/RJsHSrGf8N7F3hF69)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/eudbergalvesdeoliveira/)
 
 Sou desenvolvedor full-stack com especialização em back-end, apaixonado por tecnologia e programação. Aqui está um pouco mais sobre mim:
 
