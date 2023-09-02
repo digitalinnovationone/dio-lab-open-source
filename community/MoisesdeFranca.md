@@ -1,6 +1,6 @@
 # Moises de França
 
-Olá, meu nome é Moisés de França. Estou atualmente em processo de transição de carreira para o campo da tecnologia. Atualmente, estou no 4º semestre do curso de Análise e Desenvolvimento de Sistemas.
+Olá! Meu nome é Moisés de França, atualmente no 4º semestre do curso de Análise e Desenvolvimento de Sistemas. Além disso, estou participando de um bootcamp fullstack em Java e Angular como parte da minha transição de carreira para o campo da tecnologia.
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/moises-henrique-developer/)
 
