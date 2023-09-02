@@ -1,6 +1,6 @@
 # Ryan Felipe
 
-Olá, é um prazer tê-lo aqui. Vamos aproveitar e criar uma conexão?!
+Olá, é um prazer ter você aqui. Vamos aproveitar e criar uma conexão?!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ryanfelipe87/)
 
