@@ -1,7 +1,7 @@
 # Natalie Rodrigues
 Sobre Mim
 
-Olá! Meu nome é Natalie e tenho 30 anos. Estou cursado Análise e Desenvolvimento de Sistemas e fazendo o bootcamp em Ciencia de Dados.
+Olá! Meu nome é Natalie e tenho 30 anos. Estou cursado Análise e Desenvolvimento de Sistemas e fazendo o bootcamp em Ciencia de Dados com Python.
 
 ## Habilidades
 Python: Estou desenvolvendo minhas habilidades neste bootcamp.
@@ -10,5 +10,5 @@ Gosto muito da área de prevenção a fraudes em cotexto geral, tenho diversas e
 
 [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)](https://docs.python.org/)
 
-## Conecte-se comigo
+## Me siga no Insta
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=0E76A8)](https://instagram.com/iamnaatti)
