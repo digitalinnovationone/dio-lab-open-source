@@ -9,7 +9,9 @@ Essa é uma área que me apaixona, e estou ansioso para compartilhar conheciment
 Vamos explorar o mundo dos dados juntos!
 <br>
 <h2>Conecte-se comigo</h2>
+<div>
    <a href="https://www.linkedin.com/in/gabriel-vilarinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 <br>
 <div align="center">
   <a href="https://github.com/GabrielVila">
