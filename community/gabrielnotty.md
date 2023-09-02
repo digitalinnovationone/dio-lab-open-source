@@ -1,4 +1,4 @@
-# Hey I'm, Gabriel Vinícius00FFFF 👋
+# Hey I'm, Gabriel Vinícius 👋
 Olá, meu nome é Gabriel. Tenho aproximadamente 2 anos de experiência como técnico de informática, e recentemente ingressei no mundo da programação.
 
 
