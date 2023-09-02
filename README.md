@@ -18,5 +18,8 @@ Vamos explorar o mundo dos dados juntos!
 </div>
 
 <br>
-## Principais Projetos
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=GabrielVila&repo=Sistema-bancario&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+## Tecnologias
+<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="PowerBI" height="30" width="30" src="https://e7.pngegg.com/pngimages/252/727/png-clipart-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle.png">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+
