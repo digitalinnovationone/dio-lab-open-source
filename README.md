@@ -16,3 +16,7 @@ Vamos explorar o mundo dos dados juntos!
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielVila&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVila&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+<br>
+## Principais Projetos
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api?username=GabrielVila&repo=Sistema-bancario&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
