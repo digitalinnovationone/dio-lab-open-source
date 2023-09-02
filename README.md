@@ -10,7 +10,7 @@ Vamos explorar o mundo dos dados juntos!
 <br>
 <h2>Conecte-se comigo</h2>
    <a href="https://www.linkedin.com/in/gabriel-vilarinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+<br>
 <div align="center">
   <a href="https://github.com/GabrielVila">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielVila&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
