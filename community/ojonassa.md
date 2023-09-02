@@ -1,7 +1,7 @@
 
 # Quem sou
 
-Me chamo Jonas Saraiva, tenho 25 anos, Analista de Testes como profissão e Engenheiro de Produção por formação.
+Me chamo Jonas Saraiva, tenho 25 anos, Analista de Testes como profissão e Engenheiro de Produção por formação
 
 
 ## ⚙️Hard skills
