@@ -16,4 +16,3 @@ Obrigado!!!
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roggermiller&theme=transparent&bg_color=000&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff&hide_title=true&hide=stars)
-e=ricardosouzaa&theme=transparent&bg_color=ec63a1&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff&hide_title=true&hide=stars)
