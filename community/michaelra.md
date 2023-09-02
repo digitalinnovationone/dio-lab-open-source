@@ -12,5 +12,5 @@
 </table>
 
 ### Contribuindo em um Projeto Open Source no GitHub
-[![Repo DIO ](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MichaelAC13/dio-curso-git-github.git)
+[![Repo DIO ](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MichaelAC13/dio-curso-git-github.git) 
 
