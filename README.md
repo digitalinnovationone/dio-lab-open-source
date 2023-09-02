@@ -1,4 +1,4 @@
-## Sejam bem vindos ao meu perfil ⭐!! 
+<h1> Sejam bem vindos ao meu perfil ⭐!! </h1>
 <br>
 Me chamo Gabriel Vilarinho e estou empolgado em compartilhar um pouco sobre mim. Atualmente, estou imerso em uma jornada de aprendizado voltada para Ciência de Dados.
 
@@ -8,7 +8,7 @@ Essa é uma área que me apaixona, e estou ansioso para compartilhar conheciment
 
 Vamos explorar o mundo dos dados juntos!
 <br>
-# Conecte-se comigo
+<h2>Conecte-se comigo</h2>
    <a href="https://www.linkedin.com/in/gabriel-vilarinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <div align="center">
@@ -19,7 +19,7 @@ Vamos explorar o mundo dos dados juntos!
 
 
 <br>
-# Tecnologias
+<h2>Tecnologias</h2>
 <div style="display: inline_block"><br>
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PowerBI" height="30" width="30" src="https://e7.pngegg.com/pngimages/252/727/png-clipart-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle.png">
