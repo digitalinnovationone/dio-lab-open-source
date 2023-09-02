@@ -19,4 +19,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuPoisk&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DuPoisk&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ## Meus Projetos
-#5B2FBA
+[![Repo MyHabits](https://github-readme-stats.vercel.app/api/pin/?username=DuPoisk&repo=nlw11_myhabits&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DuPoisk/NLW11_MyHabits)
+[![Repo Guess the number - Game](https://github-readme-stats.vercel.app/api/pin/?username=DuPoisk&repo=st05_guess-the-number-game&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DuPoisk/st05_Guess-the-number-GAME)
+[![Repo Timer](https://github-readme-stats.vercel.app/api/pin/?username=DuPoisk&repo=st05_timer_2.0_darkmode&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DuPoisk/st05_Timer_2.0_darkMode)
