@@ -1,6 +1,6 @@
-# Juliana Silva
+# Juliana Silva Nascimento
 
-Olá! Meu nome é Juliana Silva, tenho 18 anos e comecei há pouco tempo meus estudos de programação. Atualmente estou fazendo o bootcamp Santander Java+Angular na DIO!
+Olá! Meu nome é Juliana Silva Nascimento, tenho 18 anos e comecei há pouco tempo meus estudos de programação. Atualmente estou fazendo o bootcamp Santander Java+Angular na DIO!
 
 ## Conecte-se comigo
 [![DIO](https://img.shields.io/badge/meu_perfil_na_dio-000?style=for-the-badge)](https://www.dio.me/users/ju_snascimento)
