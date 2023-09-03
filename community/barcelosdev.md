@@ -22,6 +22,42 @@ Atualmente, estou estudando sobre desenvolvimento mobile com Flutter, além de j
 
 ### Stack
 
+<style>
+    @import url("https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css");
+
+    .skills {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px
+    }
+
+    .skills div {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        width: 56px;
+        height: 56px;
+
+        border-radius: 12px;
+        border: solid 1px rgba(0, 0, 0, 0.04);
+
+        box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1)
+    }
+
+    .skills i {
+        font-size: 32px;
+    }
+
+    @media (prefers-color-scheme: dark) {
+        .skills div {
+            border: solid 1px #e9e9e910;
+            background-color: rgba(0, 0, 0, 0.1);
+        }
+    }
+</style>
+
 <div class="skills">
     <div>
         <i class="devicon-javascript-plain colored"></i>
@@ -60,39 +96,3 @@ Atualmente, estou estudando sobre desenvolvimento mobile com Flutter, além de j
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32"/>
     </div>
 </div>
-
-<style>
-    @import url("https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css");
-
-    .skills {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 12px
-    }
-
-    .skills div {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-
-        width: 56px;
-        height: 56px;
-
-        border-radius: 12px;
-        border: solid 1px rgba(0, 0, 0, 0.04);
-
-        box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1)
-    }
-
-    .skills i {
-        font-size: 32px;
-    }
-
-    @media (prefers-color-scheme: dark) {
-        .skills div {
-            border: solid 1px #e9e9e910;
-            background-color: rgba(0, 0, 0, 0.1);
-        }
-    }
-</style>
