@@ -33,14 +33,14 @@ Olá! Seja bem-vindo(a). Sou Jakson, tenho 36 anos, sou natural de Patrocínio-M
 ### Social Media
 [![Perfil DIO](https://img.shields.io/badge/DIO/PERFIL-darkblue)](https://www.dio.me/users/jaomfive)
 [![LINKDIN](https://img.shields.io/badge/Linkdin-blue)](https://www.linkedin.com/in/jaksondeoliveiramartins/)
-[![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/Jakson421)
+[![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/jaksondeoliveramartins)
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jakson421&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=fff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaksondeoliveiramartins&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=fff)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jakson421&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jaksondeoliveiramartins&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jakson421&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/jakson421/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaksondeoliveiramartins&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/jaksondeoliveiramartins/dio-lab-open-source)
 ----
  
   ## Algumas Tecnologias utilizadas:
