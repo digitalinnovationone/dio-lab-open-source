@@ -1,5 +1,5 @@
 # 🙉Aryh Sanches
-    👋 Olá! Sou Ariosvaldo, um programador iniciante de 18 anos apaixonado pelo mundo da programação. 💻 Tenho conhecimento em várias tecnologias, incluindo HTML, CSS3, JavaScript, C++, PHP e MySQL. 🌐 Embora meu conhecimento seja básico em todas elas, estou ansioso para continuar aprendendo e aprimorando minhas habilidades. 🚀 Meu objetivo é construir uma carreira sólida na área da programação e contribuir para projetos empolgantes no futuro.
+👋 Olá! Sou Ariosvaldo, um programador iniciante de 18 anos apaixonado pelo mundo da programação. 💻 Tenho conhecimento em várias tecnologias, incluindo HTML, CSS3, JavaScript, C++, PHP e MySQL. 🌐 Embora meu conhecimento seja básico em todas elas, estou ansioso para continuar aprendendo e aprimorando minhas habilidades. 🚀 Meu objetivo é construir uma carreira sólida na área da programação e contribuir para projetos empolgantes no futuro.
 
 ## 💻Tecnologias
 
