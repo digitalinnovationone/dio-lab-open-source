@@ -1,6 +1,6 @@
 # Olá! Me chamo jefferson, Sejam bem vindos ao meu ponto de partida!🚀
 
-Tenho 19 anos e decidi começar na área da tecnologia por curiosidade e paixão, e desde então venho buscando agregar conhecimento participando de cursos e botcamps.
+Tenho 19 anos e decidi começar na área da tecnologia por curiosidade e paixão, e desde então venho buscando agregar conhecimento participando de cursos e bootcamps.
 
 **META**
 Minha meta é me tornar um desenvolvedor Full-Stack.
