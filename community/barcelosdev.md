@@ -20,75 +20,19 @@ Falo bastante, mas também sou um excelente ouvinte. Me interesso por UX/UI Desi
 
 Atualmente, estou estudando sobre desenvolvimento mobile com Flutter, além de já ter tido experiência com React Native. Posteriormente, pretendo estudar mobile nativo, com Kotlin e Jetpack Compose.
 
-### Stack
+### Stack 
 
-<style>  
-    @import url("https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css");  
-
-    .skills {  
-        display: flex;  
-        flex-wrap: wrap;  
-        gap: 12px  
-    }  
-    .skills div {  
-        display: flex;  
-        flex-direction: column;  
-        justify-content: center;  
-        align-items: center;  
-        width: 56px;  
-        height: 56px;  
-        border-radius: 12px;  
-        border: solid 1px rgba(0, 0, 0, 0.04);  
-        box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1)  
-    }  
-
-    .skills i {  
-        font-size: 32px;  
-    }  
-
-    @media (prefers-color-scheme: dark) {  
-        .skills div {  
-            border: solid 1px #e9e9e910;  
-            background-color: rgba(0, 0, 0, 0.1);  
-        }  
-    }  
-</style>  
-
-<div class="skills">
-    <div>
-        <i class="devicon-javascript-plain colored"></i>
-    </div>
-    <div>
-        <i class="devicon-typescript-plain colored"></i>
-    </div>
-    <div>
-        <i class="devicon-react-plain colored"></i>
-    </div>
-    <div>
-        <i class="devicon-tailwindcss-plain colored"></i>
-    </div>
-    <div>
-        <i class="devicon-nodejs-plain colored"></i>
-    </div>
-    <div>
-        <i class="devicon-express-original"></i>
-    </div>
-    <div>
-        <i class="devicon-nestjs-plain colored"></i>
-    </div>
-    <div>
-        <i class="devicon-postgresql-plain colored"></i>
-    </div>
-    <div>
-        <i class="devicon-mongodb-plain colored"></i>
-    </div>
-    <div>
-        <i class="devicon-docker-plain colored"></i>
-    </div>
-    <div>
-        <i class="devicon-git-plain colored"></i>
-    </div>
-    <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32"/>
-    </div>
+<div style="display:flex;flex-wrap:wrap;gap:12px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32"/>
 </div>
