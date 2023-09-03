@@ -19,6 +19,6 @@
 ### Meus Principais Desafios de Projeto DIO
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Gondrai&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gondrai/dio-lab-open-source)
 
-![octocat-GitHub]()
+![octocat-1693349131504](https://github.com/Gondrai/Gondrai/assets/66333927/be1b3a64-09fb-4641-b394-7a0ab71f5417)
 
 
