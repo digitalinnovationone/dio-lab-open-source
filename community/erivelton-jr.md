@@ -11,3 +11,7 @@ Olá! Meu nome é Erivelton Junior, estudo Analise e Desenvolvimento de Sistemas
 ## Habilidades
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+
+## Status
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erivelton-jr&show_icons=true&theme=radical) 
