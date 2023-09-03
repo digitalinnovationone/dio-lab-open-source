@@ -70,15 +70,16 @@ Olá sou o Diego, tenho o título de bacharel em Ciências da computação pela 
 [![Repo credit application](https://github-readme-stats.vercel.app/api/pin/?username=DiegoCotta&repo=credit-application-system&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DiegoCotta/credit-application-system)
 [![Repo padrões de projetos spring boot](https://github-readme-stats.vercel.app/api/pin/?username=DiegoCotta&repo=padroes-projetos-spring-boot&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DiegoCotta/padroes-projetos-spring-boot)
 
-## Meus Principais Repositórios 
+## Meus Principais Repositórios :heartbeat:
 [![Desafio picpay](https://github-readme-stats.vercel.app/api/pin/?username=DiegoCotta&repo=desafio-android-picpay&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DiegoCotta/desafio-android-picpay)
 [![Repo certificado udacity](https://github-readme-stats.vercel.app/api/pin/?username=DiegoCotta&repo=nd940-cap-advanced-android-programming-project-starter&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DiegoCotta/nd940-cap-advanced-android-programming-project-starter)
 [![Kotlin Multiplatform](https://github-readme-stats.vercel.app/api/pin/?username=DiegoCotta&repo=WhosThatPokemon&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DiegoCotta/WhosThatPokemon)
 [![Multi Module Android](https://github-readme-stats.vercel.app/api/pin/?username=DiegoCotta&repo=Multi-Module-Android&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DiegoCotta/Multi-Module-Android)
 
 
-  <div align="center">
-<br><h3 align="centre"><b>Total de Visitas</b></h2>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Diego-Cotta}/count.svg" /></p> 
-
+<div align="center">
+  <br>
+  <h3 align="centre"><b>Total de Visitas</b></h3>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Diego-Cotta}/count.svg" /></p> 
+</div>
 ---
