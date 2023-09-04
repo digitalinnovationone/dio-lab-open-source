@@ -1,5 +1,5 @@
 # Olá, meu nome é Gustavo
-
+Desenvolvedor de software altamente proativo e motivado, com uma forte ética de trabalho e paixão pela programação.
 ## Conecte-se Comigo!
 [![Github](https://img.shields.io/badge/Github-357?style=for-the-badge&logo=Github&logoColor=fffff)](https://www.github.com/Cecato)
 [![LINKDIN](https://img.shields.io/badge/Linkdin-blue)](https://www.linkedin.com/in/gustavo-cecato-b1b9821b8/)
