@@ -26,9 +26,6 @@ Em 2021 comecei a faculdade de Análise e Desenvolvimento de Sistemas e agora qu
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 
-
-
-
 ## 🔗 Vamos trabalhar juntos?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/vinicius-mateus-924807181/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/viniciuslimadev/)
