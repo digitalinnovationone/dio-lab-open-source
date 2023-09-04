@@ -27,21 +27,5 @@ Desde então, busco desenvolver o meu conhecimento nesse ramo de programação, 
 
 ## Meus Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebert-sl&theme=transparent&bg_color=000&border_color=4727CD&show_icons=true&icon_color=a387e6&title_color=d1b7f2&text_color=FFF)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ebert-sl&layout=compact&bg_color=000&border_color=4727CD&title_color=d1b7f2&text_color=FFF)
-
-
-## Repositórios Principais
-
-### Projetos da DIO (Digital Innovation One)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ebert-sl&repo=dio_projects&bg_color=000&border_color=4727CD&show_icons=true&icon_color=a387e6&title_color=d1b7f2&text_color=FFF)](https://github.com/ebert-sl/dio_projects)
-
-### Projetos da freeCodeCamp
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ebert-sl&repo=freecodecamp_projects&bg_color=000&border_color=4727CD&show_icons=true&icon_color=a387e6&title_color=d1b7f2&text_color=FFF)](https://github.com/ebert-sl/freecodecamp_projects)
-
-### Projeto Final do Curso "Fundamentos do Python 1" da Cisco
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ebert-sl&repo=maratonapython_ifpi&bg_color=000&border_color=4727CD&show_icons=true&icon_color=a387e6&title_color=d1b7f2&text_color=FFF)](https://github.com/ebert-sl/maratonapython_ifpi)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebert-sl&theme=transparent&bg_color=000&border_color=4727CD&show_icons=true&icon_color=a387e6&title_color=d1b7f2&text_color=FFF) | ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ebert-sl&layout=compact&bg_color=000&border_color=4727CD&title_color=d1b7f2&text_color=FFF) |
+| :-: | :-: |
