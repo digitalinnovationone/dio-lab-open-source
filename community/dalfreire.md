@@ -2,7 +2,7 @@
 
 Seja bem vindo!
 
-Graduando em Análise e Desenvolvimento de Sistemas pela Unicesumar e Bacharel em Ciências Biológicas pela Universidade Estadual de Montes Claros. Gosta de tecnologia e artes (música, cinema, desenho e literatura). Estou em transição de carreira e em breve quero estar com os dois pés fincados no mercado de TI.
+Casado, pai de 3 crianças, graduando em Análise e Desenvolvimento de Sistemas pela Unicesumar e Bacharel em Ciências Biológicas pela Universidade Estadual de Montes Claros. Gosta de tecnologia e artes (música, cinema, desenho e literatura). Estou em transição de carreira e em breve quero estar com os dois pés fincados no mercado de TI.
 
 ## Conecte-se comigo
 
