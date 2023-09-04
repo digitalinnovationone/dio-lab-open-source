@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Sou Jeferson Viana formado em Técnologo em Radiologia  e atualmente estou em transição de carreira. Atualmente sou Desenvolvedor FullStack e estudante de Ciência da computação pela TRYBE.</p>
+<p align="left">Sou Jeferson Viana formado em Técnologo em Radiologia  e estou em transição de carreira. Atualmente sou Desenvolvedor FullStack e estudante de Ciência da computação pela TRYBE.</p>
 
 <h4 align="left">💻  (HardSkills)</h4>
 <h5>Fundamentos</h5><p>Unix & Bash, Lógica de programação, Git, Github & Internet, JS & DOM, HTML & CSS Avançado e JS Avançado & Testes Unitários, assim como metodologias ágeis e habilidades comportamentais.</p>
