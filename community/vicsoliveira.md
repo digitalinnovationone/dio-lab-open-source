@@ -5,11 +5,11 @@ de formação (Engenharia Sanitária e Ambiental).
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://web.dio.me/users/victoriagoliveira10/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:victoriagoliveira10@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/SEUUSERNAME/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/victoriaoliveira12/)
 
 ### Habilidades
-![PYTHON](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=30A3DC)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql&logoColor=30A3DC)
+[![PYTHON](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=30A3DC)](https://docs.python.org/3/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=30A3DC)](https://www.postgresql.org/docs/)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=0)](https://docs.github.com/)
 
