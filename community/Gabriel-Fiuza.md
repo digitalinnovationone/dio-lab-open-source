@@ -1,6 +1,6 @@
 # Sobre mim
 
-Meu nome é Gabriel Fiuza, tenho 20 anos e sou estudante de Engenharia de Controle e Automação da UFOP, Ouro Preto. Tive o primeiro contato com a programção 3 meses antes de entrar na faculdade e lá me interessei ainda mais por isso. Hoje procuro cada vez mais me inteirar sobre e buscar novas tecnologias.
+Meu nome é Gabriel Fiuza, tenho 20 anos e sou estudante de Engenharia de Controle e Automação da UFOP, Ouro Preto. Tive o primeiro contato com a programção alguns meses antes de entrar na faculdade e lá me interessei ainda mais por isso. Hoje procuro cada vez mais me inteirar sobre e buscar novas tecnologias.
 
 # Principais skills
 
