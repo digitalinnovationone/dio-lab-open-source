@@ -4,8 +4,8 @@ Jhonny Nobrega
 Olá! eu sou o Jhonny, e bem vindo ao meu perfil do GitHub, fique a vontade!
 
 Conecte-se comigo;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5858FA?style=for-the-badge&logo=linkedin&logoColor=000)](https://www.linkedin.com/in/jhonny-nobrega-604842245/);
-[![Instagram](https://img.shields.io/badge/Instagram-5858FA?style=for-the-badge&logo=instagram&logoColor=000)](https://www.instagram.com/eu_sou_o_jhonny/);
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5858FA?style=for-the-badge&logo=linkedin&logoColor=000)](https://www.linkedin.com/in/jhonny-nobrega-604842245/)
+[![Instagram](https://img.shields.io/badge/Instagram-5858FA?style=for-the-badge&logo=instagram&logoColor=000)](https://www.instagram.com/eu_sou_o_jhonny/)
 
 
 
