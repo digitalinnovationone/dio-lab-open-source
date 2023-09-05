@@ -1,6 +1,6 @@
 ## Hey, I'm Daniel
 
-Entusiastar da tecnologia, atualmente graduando em ciência da computação na UFOPA e me especializando em desenvolvimento de aplicativos com Kotlin. Sou bolsista em um projetos de desenvolvimento de sistemas web no Midias Lab.
+Entusiastar da tecnologia, atualmente graduando em ciência da computação na UFOPA e me especializando em desenvolvimento de aplicativos com Kotlin. Sou bolsista em um projetos de desenvolvimento de sistemas web no Mídias Lab.
 
 ## Tecnologias
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
