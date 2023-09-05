@@ -1,7 +1,6 @@
 # Endrigo R. de Carvalho
     Engenheiro de Computação e desenvolvedor backend C/C++ desde 2010.
 
-
 # Conhecimentos 
 
 ![C](https://img.shields.io/badge/%20-%20C%20-%20black?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
