@@ -4,13 +4,25 @@
 
 O que eu posso dizer sobre mim? Eu gosto de programar.
 
-Comecei a programar com 12 anos, Basic no MSX e Assembly Z80. Aprendi programação em Fortran na faculdade de Física e MOO Programming Language. Depois da faculdade trabalhei no Departamento de TI de uma empresa de São Carlos, gerenciando redes em Linux, Servidores de Banco de Dados MySQL. E como hobby, programava para o meu Palm IIIxe, o que me levou a trabalhar para a Palm, programando em C e C++, onde fiquei até a empresa ser adquirida pela HP.
+Comecei a programar com 12 anos, Basic no TK90X e Assembly Z80. Aprendi programação em Fortran na faculdade de Física e MOO Programming Language. Depois da faculdade trabalhei no Departamento de TI de uma empresa de São Carlos, gerenciando redes em Linux, Servidores de Banco de Dados MySQL. E como hobby, programava para o meu Palm IIIxe, o que me levou a trabalhar para a Palm, programando em C e C++, onde fiquei até a empresa ser adquirida pela HP.
 
 Mudei de área, comecei a trabalhar com cartografia e agrimensura e entrei na gradução de agrimensura. O trabalho envolvia análise de mapas de culturas agrícola. Nesta área desenvolvi conhecimentos, além das ferramentas da área, em Python, R e PostgreSQL com PostGIS analisando os mapas através processamento para geoestátistica.
 
 Em nova mudança de área, voltando à programação para android, adquiri conhecimento em Dart e Flutter e Kotlin.
 
-### Conecte-se comigo
+What can I say about myself? I like programming.
+
+___
+###### English Version
+
+I started programming at the age of 12, Basic in and Assembly Z80. I learned programming in Fortran at the Faculty of Physics and MOO Programming Language. After college I worked in the IT Department of a company in São Carlos, managing Linux networks, MySQL Database Servers. And as a hobby, I programmed for my Palm IIIxe, which led me to work for Palm, programming in C and C++, where I stayed until the company was acquired by HP.
+
+I changed areas, started working with cartography and surveying and entered the surveying graduation. The work involved analysis of agricultural crop maps. In this area I developed knowledge, in addition to the tools of the area, in Python, R and PostgreSQL with PostGIS analyzing the maps through processing for geostatistics.
+
+In another change of area, returning to programming for android, I acquired knowledge in Dart and Flutter and Kotlin.
+___
+
+### Conecte-se comigo | My contacts
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/odantonio/)
 [![GMail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:olavobda@gmail.com)
@@ -21,7 +33,7 @@ Em nova mudança de área, voltando à programação para android, adquiri conhe
 [![Reddit](https://img.shields.io/badge/Reddit-000?style=for-the-badge&logo=reddit&logoColor=FF4500)](https://www.reddit.com/u/Obdantonio)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=5865F2)](https://www.discord.com/in/mantys)
 
-### Habilidades
+### Habilidades | SKills
 
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
