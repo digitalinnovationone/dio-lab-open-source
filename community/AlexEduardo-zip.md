@@ -7,7 +7,7 @@ Meu nome é Alex, sou estudante de Ciência da Computação na Universidade Fede
 
 # Usamos muito C e C++ na faculdade
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlexEduardo-zip&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 # Entre em contato comigo atraves do Linkedin ou Email!
 
