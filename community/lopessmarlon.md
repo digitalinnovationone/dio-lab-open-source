@@ -15,7 +15,7 @@
 <h2>Cursos e Certificações</h2>
 
 <li>Lean Six Sigma White Belt - FM2S</li>
-<li><a href+"https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-MarlonLopesLino-793729.pdf">Scrum Fundamentals Certified - SCRUMstudy</a></li>
+<li><a href="https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-MarlonLopesLino-793729.pdf">Scrum Fundamentals Certified - SCRUMstudy</a></li>
 <li><a href="https://www.udemy.com/certificate/UC-343d0128-7e79-44a2-bb45-596f08f1d308/">Formação Spark com PySpark : o Curso Completo - Udemy</a></li>
 
 <h2>Hobbies</h2>
