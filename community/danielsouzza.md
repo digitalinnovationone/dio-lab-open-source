@@ -19,8 +19,15 @@ Entusiastar da tecnologia, atualmente graduando em ciência da computação na U
 ##
 
 ## Principais Projetos
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/danielsouzza/Trainer-APP)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/danielsouzza/streaming-App-Infinity)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/danielsouzza/PooBank)
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px; width: 50%; margin-left: 25%;">
+<a href="https://github.com/danielsouzza/Trainer-APP">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielsouzza&repo=Trainer-APP&theme=react&bg_color=1F222E&title_color=3BEFF7&icon_color=30A3DC&hide_border=true&show_icons=true" alt="PythonExercises">
+</a>
+<a href="https://github.com/danielsouzza/streaming-App-Infinity">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielsouzza&repo=streaming-App-Infinity&hide_border=true&bg_color=1F222E&title_color=3BEFF7&icon_color=30A3DC&theme=react&show_icons=true" alt="Docker-ProjetoDIO-TS-Market">
+</a>
+<a href="https://github.com/danielsouzza/PooBank">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielsouzza&repo=PooBank&theme=react&bg_color=1F222E&title_color=3BEFF7&icon_color=F8D866&hide_border=true&show_icons=false" alt="AdviceGenerator">
+</a>
+</div>
