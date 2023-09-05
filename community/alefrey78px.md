@@ -12,5 +12,10 @@ e alavancar a carreira. Desse modo adquiri alguns cursos e também me inscrevi n
 ## Alguns dos meus conhecimentos
 
 | Descrição | Nível de conhecimento |
-| Python    | Básico
-| Java      | Básico
+|-----------|-----------------------|
+| Python    | Básico                |
+| Java      | Básico                |
+| C         | Básico                |
+| Kotlin    | Básico                |
+| Linux     | Intermediário         |
+
