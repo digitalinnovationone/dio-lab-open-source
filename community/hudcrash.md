@@ -5,3 +5,5 @@ Estou em busca de desafios estimulantes em uma empresa visionária, onde eu poss
 Sou um solucionador criativo e versátil, capaz de implementar iniciativas inovadoras que impulsionam e agilizam a produtividade. Sou formado em Ciência da Computação e enho habilidades em HTML, CSS, Java Script, Wordpress e utilizo métodologias ágeis como Kanban e Scrum para otimizar o trabalho e qualidade.
 
 Além disso, sou colaborativo, capaz de trabalhar com equipes multifuncionais em projetos complexos. Minha abordagem centrada no cliente e minha capacidade de adaptação me permitem entender as necessidades e oferecer soluções personalizadas que geram resultados tangíveis.
+
+## Meus casos
