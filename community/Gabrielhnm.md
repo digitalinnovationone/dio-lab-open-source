@@ -18,6 +18,3 @@ Sou Gabriel, trabalho com engenharia de dados e estou cursando ADS.
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=30A3DC)
 ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
  
-
-
----
