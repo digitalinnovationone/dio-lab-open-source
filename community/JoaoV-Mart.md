@@ -1,9 +1,9 @@
 <h1>
-    <img align="center" src="../IMG-20210517-WA0028 (2).jpg">
+    <img align="center" height="100" width="100" style= "border-radius: 50%;" src="https://s32907.pcdn.co/wp-content/uploads/2021/10/departamento-ti-capa.jpg">
     <span>João Vítor F Martiniano</span>
 </h1>
 
----
+Estudando desenvolvimento full stack.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/anisk1216/)
