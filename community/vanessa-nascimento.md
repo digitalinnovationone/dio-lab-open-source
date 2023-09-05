@@ -35,7 +35,7 @@ Estou sempre aberta a novos desafios, parcerias e oportunidades de aprendizado. 
 ### ✨ GitHub Stats
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanessa-nascimento&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vanessa-nascimento&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&full_width=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vanessa-nascimento&layout=compact&bg_color=000&heigth=300&border_color=30A3DC&title_color=E94D5F&text_color=FFF&full_width=true)
 
 ### 💡 Meus Principais Desafios de Projeto DIO
 ---
@@ -82,7 +82,7 @@ Estou sempre aberta a novos desafios, parcerias e oportunidades de aprendizado. 
     </tr>
     <tr>
       <td>30/07/2022</td>
-      <td>Finalista do 3o Prêmio Não Aceito Corrupção</td>
+      <td>Premiação: Finalista do 3o Prêmio Não Aceito Corrupção</td>
       <td align="center">
         <a href="https://www.sbtnews.com.br/noticia/brasil/218031-premio-nao-aceito-corrupcao-anuncia-vencedores-da-3-edicao-confira">
            <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-c7b9ff?style=for-the-badge">
