@@ -3,7 +3,7 @@
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9400D3?style=for-the-badge&logo=linkedin&logoColor=000)](https://www.linkedin.com/in/nathaliasallim/) [![Instagran](https://img.shields.io/badge/Instagram-9400D3?style=for-the-badge&logo=instagram&logoColor=000)](https://instagram.com/natthhcordeiros)
 
-[![Email](https://img.shields.io/badge/Email-9400D3?style=for-the-badge&logo=microsoft-outlook&logoColor=000)](malito:nathaliacsallim@hotmail.com) [![Discord](https://img.shields.io/badge/Discord-9400D3?style=for-the-badge&logo=discord&logoColor=000)](https://discord.gg/pDbY76q8Qf)
+[![Email](https://img.shields.io/badge/Email-9400D3?style=for-the-badge&logo=microsoft-outlook&logoColor=000)](<a href = "mailto:nathaliacsallim@hotmail.com">) [![Discord](https://img.shields.io/badge/Discord-9400D3?style=for-the-badge&logo=discord&logoColor=000)](https://discord.gg/pDbY76q8Qf)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NathaliaSallim&theme=transparent&bg_color=000&border_color=9400D3&show_icons=true&icon_color=9400D3&title_color=9400D3&text_color=FFF)
 
