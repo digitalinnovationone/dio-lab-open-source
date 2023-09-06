@@ -12,4 +12,4 @@ Então, sou mais um entusiasta da tecnologia, formado em engenharia de computaç
 HTML | CSS | Javascript | SQL | Métodos ágeis
 
 ### Top Languages
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jphsc&bg_color=000&border_color=30A3DC&title_color=408ec5&text_color=FFF&locale=pt-br&border_radius=30) <br>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jphsc&bg_color=000&border_color=30b9Dh&title_color=408ec5&text_color=FFF&locale=pt-br&border_radius=30) <br>
