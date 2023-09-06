@@ -1,5 +1,5 @@
 
-###Eduardo Griesang
+# Eduardo Griesang
 
 I'm a current freelancer Front-End developer but I'm trying to migrate to a Full-Stack position by doing the Santander Full-Stack Bootcamp.
 
