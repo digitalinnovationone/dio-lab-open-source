@@ -4,7 +4,7 @@
 
  ### Olá eu me chamo Nelson, vamos nos conhecer melhor?
 
-É um prazer imenso ter você aqui comigo, pois bem como já havia dito meu nome é Nelson, tenho 20 anos, sou novo no mundo da programação e estou em busca de oportunidades em ensino e trabalho, sou apaixonado pela tecnologia e você gosta tanto como eu da área de TI?
+É um prazer imenso ter você aqui comigo, pois bem como já havia falado meu nome é Nelson, tenho 20 anos, sou novo no mundo da programação e estou em busca de oportunidades em ensino e trabalho, sou apaixonado pela tecnologia e você gosta tanto como eu da área de TI?
 
 
  # Conecte-se Comigo
@@ -12,7 +12,8 @@
 
  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub)](https://github.com/nelsonterapia)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=Gmail)](nelsondamazio76@gmail.com)
-[![Perfil_dio](https://img.shields.io/badge/Perfil_dio-000?style=for-the-badge&logo=Perfil_dio)](nelsondamazio76@gmail.com)
+[![Perfil_dio](https://img.shields.io/badge/Perfil_dio-000?style=for-the-badge&logo=Perfio_dio)](https://www.dio.me/users/nelsondamazio1)
+
  
 # GitHub Status
 
