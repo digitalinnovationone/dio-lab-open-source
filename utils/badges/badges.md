@@ -1,228 +1,109 @@
 # Badges
 
-<table>
-  <tr>
-    <td>
-      Gerador
-    </td>
-    <td>
-       <a href="https://shields.io/">
-          shields.io
-       </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Fonte
-    </td>
-    <td>
-       <a href="https://github.com/badges/shields">
-          badges/shields
-       </a>
-    </td>
-  </tr>
-</table>
+| Gerador | [shields.io](https://shields.io/) | 
+| --- | --- |
+| Fonte | [badges/shields](https://github.com/badges/shields) |
 
 ## Social
-<table>
-  <thead>
-    <tr align="left">
-      <th>Badge</th>
-      <th>Markdown</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>
-        <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8">
-      </td>
-      <td>
-        <code>[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/SEUUSERNAME/)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord">
-      </td>
-      <td>
-        <code>[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/SEUUSERNAME/)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook">
-      </td>
-      <td>
-        <code>[![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/SEUUSERNAME/)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter">
-      </td>
-      <td>
-        <code>[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/SEUUSERNAME)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram">
-      </td>
-      <td>
-        <code>[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/SEUUSERNAME/)</code>
-      </td>
-    </tr>
-  </tbody>
-  <tfoot></tfoot>
-</table>
+
+| Badge | Markdown |
+| --- | --- |
+| ![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8) | `[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/SEUUSERNAME/)` |
+| ![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord) | `[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/SEUUSERNAME/)` |
+| ![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook) | `[![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/SEUUSERNAME/)` |
+| ![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter) | `[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/SEUUSERNAME)` |
+| ![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram) | `[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/SEUUSERNAME/)` |
 
 ## Linguagens de Marcação e Estilo
-<table>
-  <thead>
-    <tr align="left">
-      <th>Badge</th>
-      <th>Markdown</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>
-        <img align="center" alt="Markdown" src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown">
-      </td>
-      <td>
-        <code>![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5">
-      </td>
-      <td>
-        <code>![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4">
-      </td>
-      <td>
-        <code>![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="Sass" src="https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass">
-      </td>
-      <td>
-        <code>![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)</code>
-      </td>
-    </tr>
-  </tbody>
-  <tfoot></tfoot>
-</table>
+
+| Badge | Markdown |
+| --- | --- |
+| ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) | `![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)` |
+| ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) | `![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)` |
+| ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) | `![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)` |
+| ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass) | `![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)` |
 
 ## Linguagens de Programação
-<table>
-  <thead>
-    <tr align="left">
-      <th>Badge</th>
-      <th>Markdown</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>
-        <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript">
-      </td>
-      <td>
-        <code>![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript">
-      </td>
-      <td>
-        <code>![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="Java" src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java">
-      </td>
-      <td>
-        <code>![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="Python" src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python">
-      </td>
-      <td>
-        <code>![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="C" src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c">
-      </td>
-      <td>
-        <code>![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C">
-      </td>
-      <td>
-        <code>![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085">
-      </td>
-      <td>
-        <code>![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)</code>
-      </td>
-    </tr>
-  </tbody>
-  <tfoot></tfoot>
-</table>
 
-## Bibliotecas e Frameworks
-<table>
-  <thead>
-    <tr align="left">
-      <th>Badge</th>
-      <th>Markdown</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>
-        <img align="center" alt="React" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react">
-      </td>
-      <td>
-        <code>![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react">
-      </td>
-      <td>
-        <code>![React Native](https://img.shields.io/badge/React-Native-000?style=for-the-badge&logo=React-Native)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F">
-      </td>
-      <td>
-        <code>![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)</code>
-      </td>
-    </tr>
-  </tbody>
-  <tfoot></tfoot>
-</table>
+| Badge | Markdown |
+| --- | --- |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) | `![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)` |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript) | `![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)` |
+| ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) | `![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)` |
+| ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) | `![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)` |
+| ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c) | `![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)` |
+| ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C) | `![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)` |
+| ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085) | `![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)` |
+
+## Frameworks Front-end
+
+| Badge | Markdown |
+| --- | --- |
+| ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) | `![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)` |
+| ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular) | `![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular)` |
+| ![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vue.js) | `![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vue.js)` |
+| ![Ember.js](https://img.shields.io/badge/Ember.js-000?style=for-the-badge&logo=ember.js) | `![Ember.js](https://img.shields.io/badge/Ember.js-000?style=for-the-badge&logo=ember.js)` |
+
+## Frameworks Back-end
+
+| Badge | Markdown |
+| --- | --- |
+| ![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express) | `![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)` |
+| ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-000?style=for-the-badge&logo=ruby) | `![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-000?style=for-the-badge&logo=ruby)` |
+| ![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django) | `![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django)` |
+
+## Mobile
+| Badge | Markdown |
+| --- | --- |
+| ![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react) | `![React Native](https://img.shields.io/badge/React-Native-000?style=for-the-badge&logo=React-Native)` |
+
+## Cloud
+
+| Badge | Markdown |
+| --- | --- |
+| ![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws) | `![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws)` |
+| ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-000?style=for-the-badge&logo=microsoft-azure) | `![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-000?style=for-the-badge&logo=microsoft-azure)` |
+| ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000?style=for-the-badge&logo=google-cloud) | `![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000?style=for-the-badge&logo=google-cloud)` |
+
+## Outras Tecnologias
+
+| Badge | Markdown |
+| --- | --- |
+| ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker) | `![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)` |
+| ![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes) | `![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes)` |
+| ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git) | `![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)` |
+| ![Jenkins](https://img.shields.io/badge/Jenkins-000?style=for-the-badge&logo=jenkins) | `![Jenkins](https://img.shields.io/badge/Jenkins-000?style=for-the-badge&logo=jenkins)` |
+
+## Sistemas Operacionais
+| Badge | Markdown |
+| --- | --- |
+| ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows) | `![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows)` |
+| ![macOS](https://img.shields.io/badge/macOS-000?style=for-the-badge&logo=apple) | `![macOS](https://img.shields.io/badge/macOS-000?style=for-the-badge&logo=apple)` |
+| ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux) | `![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)` |
+| ![iOS](https://img.shields.io/badge/iOS-000?style=for-the-badge&logo=ios&logoColor=white) | `![iOS](https://img.shields.io/badge/iOS-000?style=for-the-badge&logo=ios&logoColor=white)` |
+
+## Ferramentas de Desenvolvimento
+
+| Badge | Markdown |
+| --- | --- |
+| ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000?style=for-the-badge&logo=visual-studio-code) | `![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000?style=for-the-badge&logo=visual-studio-code)` |
+| ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000?style=for-the-badge&logo=intellij-idea) | `![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000?style=for-the-badge&logo=intellij-idea)` |
+| ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-000?style=for-the-badge&logo=eclipse-ide) | `![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-000?style=for-the-badge&logo=eclipse-ide)` |
+| ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-000?style=for-the-badge&logo=sublime-text) | `![Sublime Text](https://img.shields.io/badge/Sublime%20Text-000?style=for-the-badge&logo=sublime-text)` |
+
+## Controle de Versão
+
+| Badge | Markdown |
+| --- | --- |
+| ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github) | `![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)` |
+| ![GitLab](https://img.shields.io/badge/GitLab-000?style=for-the-badge&logo=gitlab) | `![GitLab](https://img.shields.io/badge/GitLab-000?style=for-the-badge&logo=gitlab)` |
+| ![Bitbucket](https://img.shields.io/badge/Bitbucket-000?style=for-the-badge&logo=bitbucket) | `![Bitbucket](https://img.shields.io/badge/Bitbucket-000?style=for-the-badge&logo=bitbucket)` |
+| ![SVN](https://img.shields.io/badge/SVN-000?style=for-the-badge&logo=subversion) | `![SVN](https://img.shields.io/badge/SVN-000?style=for-the-badge&logo=subversion)` |
+
+## Bancos de Dados
+
+| Badge | Markdown |
+| --- | --- |
+| ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql) | `![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)` |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql) | `![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)` |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb) | `![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)` |
