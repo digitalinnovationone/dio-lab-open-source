@@ -48,7 +48,7 @@
 
 ##### Exemplo commit
 
-`feat: adicionado novo arquivo`
+`feat:envia email para o cliente quando o produto é enviado`
 
 
 ## Referências
