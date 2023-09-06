@@ -13,7 +13,7 @@
   <h2>⚙️ Estatísticas:</h2>
   
 <div align="center">
-        <img height="180em" align="left"  src="https://github-readme-stats.vercel.app/api?username=LeonardoRSantos&show_icons=true&hide=contribs,prs&cache_seconds    =86400&theme=blue-green"/>     
+        <img height="180em" align="left"  src="https://github-readme-stats.vercel.app/api?username=LeonardoRSantos&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue-green"/>     
             <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoRSantos&layout=compact&langs_count=7&theme=blue-green"/>  
 </div>
 
@@ -71,7 +71,6 @@
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
 
 ## Minhas Contribuições
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LeonardoRSantos&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](thhps://github.com/83Rafa/dio-lab-open-source)
 
 <h2 align="center"> Meus Principais Projetos na Minha Carreira: </h2>
@@ -99,7 +98,7 @@
             <td>10/07/2023</td>
             <td>Sistema Bancário em Java</td>
                 <td align="center">
-                    <a href="https://www.linkedin.com/posts/leonardo-2864471b7_bank-appbank-java-activity-7101728452977831937-LMHI?utm_source=share&utm_medium                =member_desktop">
+                    <a href="https://www.linkedin.com/posts/leonardo-2864471b7_bank-appbank-java-activity-7101728452977831937-LMHI?utm_source=share&utm_medium=member_desktop">
                         <img align="center" alt="link" src="https://img.shields.io/badge/Link-E94D5F?style=for-the-badge">
                     </a>
                 </td>
