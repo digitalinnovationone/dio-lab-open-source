@@ -1,4 +1,4 @@
-# Bruno Rngel
+# Bruno Rangel
 
 Bem-vindo(a) ao meu perfil!
 
