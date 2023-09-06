@@ -40,3 +40,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{HeannaReis}/count.svg" /></p> 
 <br></div>
 
+[![Star](https://img.shields.io/github/stars/HeannaReis/HeannaReis?style=social)](https://github.com/HeannaReis/HeannaReis/stargazers)
+[![Forks](https://img.shields.io/github/forks/HeannaReis/HeannaReis?style=social)](https://github.com/HeannaReis/HeannaReis/forks)
+[![GitHub Issues](https://img.shields.io/github/issues/HeannaReis/HeannaReis?style=social)](https://github.com/HeannaReis/HeannaReis/issues/) 
