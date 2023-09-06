@@ -25,3 +25,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pela Uninter, sempre gos
 
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)](https://git-scm.com/doc)
 
+## GitHub Status
+
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=edimaron&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=BLUE&text_color=FFF)
+
