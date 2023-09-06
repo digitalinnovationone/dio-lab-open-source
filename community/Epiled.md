@@ -15,9 +15,9 @@
 
 <br>
 
-##💻 Tecnóligias que tenho experiência
+<h2>💻 Tecnologias que tenho experiência</h2>
   
-<div align="center">
+<div>
   <img align="center" alt="Felipe-Handlebars" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original-wordmark.svg" />
   <img align="center" alt="Felipe-HTML5" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" />
   <img align="center" alt="Felipe-CSS3" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" />
@@ -31,7 +31,7 @@
 
 <br>
 
-##📲 Redes sociais e formas de contato
+<h2>📲 Redes sociais e formas de contato</h2>
   
 <div style="margin-top: 15px";> 
  <a href="mailto:felipe.deam98@gmail.com" target="_blank">
@@ -47,3 +47,9 @@
    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
  </a>
 </div>
+
+<h2>Portifólios</h2>
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Epiled)
+[![Dio](https://img.shields.io/badge/dio-%23121011.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://web.dio.me/users/felipedeandrademendonca?tab=projects&page=1)
+[![Kitsu](https://img.shields.io/badge/site-%23121011.svg?style=for-the-badge&logo=kitsu&logoColor=white)](https://epiled.github.io/Meu-Site/)
