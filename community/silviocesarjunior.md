@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name's Silvio Cesar
 
-- 🔭 I am Frontend Developer | JavaScript | React | React native. 
+- 🔭 I am Frontend/Mobile Developer | JavaScript | React | React native. 
 - 💬 Currently I work in a clt regme as a pcp assistant and act as a freelancer in my spare time, I seek to work with a collaborative and challenging team. I try to gain knowledge from various free bootcamps throughout the year such as Rocketseat, Dio, Alura and JsStack.
 * HTML | React Hooks | ReactJs | React native | MongoDb | Firebase | Styled CSS
 * Netlify | Heroku | Github.io - deploy front-end
