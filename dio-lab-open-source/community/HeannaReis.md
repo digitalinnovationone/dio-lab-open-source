@@ -39,4 +39,7 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{HeannaReis}/count.svg" /></p> 
 <br></div>
-[![GitHub stars](https://img.shields.io/github/stars/seu-usuario/seu-repositorio.svg?style=social)](https://github.com/HeannaReis/seu-repositorio/stargazers)
+
+[![Star](https://img.shields.io/github/stars/HeannaReis/HeannaReis?style=social)](https://github.com/HeannaReis/HeannaReis/stargazers)
+[![Forks](https://img.shields.io/github/forks/HeannaReis/HeannaReis?style=social)](https://github.com/HeannaReis/HeannaReis/forks)
+[![GitHub Issues](https://img.shields.io/github/issues/HeannaReis/HeannaReis?style=social)](https://github.com/HeannaReis/HeannaReis/issues/)
