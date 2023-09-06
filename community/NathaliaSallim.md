@@ -10,10 +10,10 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NathaliaSallim&bg_color=000&border_color=9400D3&title_color=9400D3&text_color=FFF)
 
 ## Tecnologias
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/Java-9400D3?style=for-the-badge&logo=Java&logoColor=000)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=red)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=00)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=red) ![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=00)
 
 ## Minhas contribuições
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
