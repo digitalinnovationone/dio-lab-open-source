@@ -1,6 +1,6 @@
 # Matheus Santos
 
-## 🚀 Sobre mim
+## Sobre mim
 Olá! Me chamo Matheus e sempre fui fascinado pela área de dados, este é o primeiro contato que tenho com ferramentas de tecnologia de forma espontânea e pretendo registrar minha evolução. Atualmente tenho 24 anos e sou recém formado em Segurança da Informação e estou buscando minha introdução a área de dados.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-5F04B4?style=for-the-badge&logo=Linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/matheus-dos-santos-maria) 
