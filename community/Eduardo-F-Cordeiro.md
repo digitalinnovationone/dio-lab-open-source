@@ -7,6 +7,7 @@ Me chamo Eduardo de Farias e estou atualmente cursando Engenharia de Software na
 Sempre gostei muito de tecnologia👩‍💻 e de jogos eletrônicos🎮 e espero estar encontrando aqui um espaço para o meu desenvolvimento.
 
 ## Mais Sobre Mim
+
 ### Meu Notion com algumas informções sobre cursos que fiz ou estou fazendo e etc...
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=White)](https://www.notion.so/programacao-edu/caderno-de-estudos-eb2c6217b57249309762e1d80435ba1b?pvs=4) 
 
