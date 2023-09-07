@@ -41,7 +41,7 @@ Formado em **Análise e Desenvolvimento de Sistemas** pela **Universidade de Mog
 
 ### Banco de dados
 
-![MySQL](https://img.shields.io/badge/MySQl-294961?style=for-the-badge&logo=mysql)![SQLServer](https://img.shields.io/badge/SQLServer-777?style=for-the-badge&logo=sqlserver)
+![MySQL](https://img.shields.io/badge/MySQl-294961?style=for-the-badge&logo=mysql)![SQLServer](https://img.shields.io/badge/SQLServer-666?style=for-the-badge&logo=sqlserver)
 
 ### Frameworks
 
