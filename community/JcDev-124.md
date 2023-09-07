@@ -6,7 +6,7 @@
 
 ## 💡 Visão Geral
 
-Como um entusiasta da computação, estou sempre sedento por conhecimento e desafios emocionantes. Minha paixão pela programação me levou a dominar várias linguagens e tecnologias, tornando-me um desenvolvedor versátil e criativo.
+Como um entusiasta da computação, estou sempre sedento por conhecimento e desafios emocionantes. Minha paixão pela programação me levou a dominar várias linguagens e tecnologias, tornando-me um desenvolvedor versátil e criativo!
 
 ## 🌟 Habilidades
 
