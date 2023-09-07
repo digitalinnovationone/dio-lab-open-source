@@ -1,5 +1,7 @@
 
-## 👋 Olá tudo bem!!! me chamo Henrique Ronald.
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://img.freepik.com/vetores-gratis/composicao-da-rodada-de-codificacao_1284-40752.jpg?w=740&t=st=1694122432~exp=1694123032~hmac=d7ec24bc4f8c1414b4c4f6902b0780e6955a0dc3ffe82a43c01686a321b650fc" style="boder-radius: 50%">
+
+## 👋 Olá tudo bem!!! me chamo Henrique Ronald 
 ***Seja bem vindo(a) a minha pagina de perfil.***
 
 ### 👨🏽‍💻 About me:
