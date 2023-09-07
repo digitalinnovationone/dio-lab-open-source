@@ -5,7 +5,7 @@
 
 ## Conecte-se comigo, Podemos compartilhar ideias, aprendizados e até   trabalharmos juntos:
 
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/vittu.a/)   [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/vittudev) [![Whatsapp](https://img.shields.io/badge/Whatsapp-000?style=for-the-badge&logo=Whatsapp)](https://api.whatsapp.com/qr/FZ6SV2IJIEYII1?autoload=1&app_absent=0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/werricsson-santos/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/vittu.a/)   [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/vittudev) [![Whatsapp](https://img.shields.io/badge/Whatsapp-000?style=for-the-badge&logo=Whatsapp)](https://api.whatsapp.com/qr/FZ6SV2IJIEYII1?autoload=1&app_absent=0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/victor-alano-18297728b/)
 
 <h2 align="left"> Sobre mim:
 
