@@ -2,7 +2,7 @@
 # CINTIA UZÊDA - Cikau
 
 ## SOBRE MIM
-![Meu desenho a la Stardew Valley]("C:\Users\Cintia\Downloads\desenhomeu.jpeg")
+
 - Idade: **32 anos** 👵🏽
 - Signo: **Touro** ♉
 - MBTI: **INFJ**
@@ -14,6 +14,7 @@
 - Licenciada em Letras Vernáculas com Língua Estrangeira pela Universidade Católica do Salvador;
 - Pós-Graduada em Comunicação e Marketing Digitais pela Universidade Católica do Salvador;
 - Graduanda em Análise e Desenvolvimento de Sistemas pela Estácio de Sá. 
+
 ## 🦾 DOMÍNIO DAS TECNOLOGIAS 
 
 ### 🛠 HTML5
