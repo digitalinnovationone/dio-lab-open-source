@@ -50,6 +50,7 @@ Gosto muito de viajar, amo animais e divido meu tempo livre também com filmes, 
 
 ![Docker](https://img.shields.io/badge/Docker-063c92?style=for-the-badge&logo=docker&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
@@ -57,7 +58,7 @@ Gosto muito de viajar, amo animais e divido meu tempo livre também com filmes, 
 ## GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bmsrangel&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bmsrangel&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bmsrangel&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&hide_title=true&text_color=FFF)
 
 ## Repositórios Favoritos
 
