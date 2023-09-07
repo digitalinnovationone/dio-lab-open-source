@@ -1,11 +1,11 @@
-<h1 align="center">🗺️ Hello World </h1>
+<<h1 align="center">🗺️ Hello World </h1>
 <h3 align="center">👋Olá tudo bem? Sou Victor Duarte Alano</h3>
 
 ------
 
 ## Conecte-se comigo, Podemos compartilhar ideias, aprendizados e até   trabalharmos juntos:
 
-[![LinkedIn](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=Telegram&logoColor=0E76A8)](   /) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/wericson.santos/)   [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Werricsson-Santos) [![Whatsapp](https://img.shields.io/badge/Whatsapp-000?style=for-the-badge&logo=Whatsapp)](https://github.com/Werricsson-Santos) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/werricsson-santos/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/vittu.a/)   [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/vittudev) [![Whatsapp](https://img.shields.io/badge/Whatsapp-000?style=for-the-badge&logo=Whatsapp)](https://api.whatsapp.com/qr/FZ6SV2IJIEYII1?autoload=1&app_absent=0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/werricsson-santos/)
 
 <h2 align="left"> Sobre mim:
 
@@ -61,6 +61,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="38" height="38"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="38" height="38"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" width="38" height="38" />
-          
-          
-    
+
