@@ -1,5 +1,14 @@
 # Bruno Rangel
 
+[![GitHub](https://img.shields.io/badge/bmsrangel-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/bmsrangel/)
+[![LinkedIn](https://img.shields.io/badge/Bruno_Rangel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-machado-da-silva-rangel/)
+[![Discord](https://img.shields.io/badge/bmsrangel-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/bmsrangel/)
+[![X](https://img.shields.io/badge/bmsrangel-000?style=for-the-badge&logo=x)](https://twitter.com/bmsrangel)
+[![Instagram](https://img.shields.io/badge/bmsrangel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bmsrangel/)
+[![Youtube](https://img.shields.io/badge/bmsrangel1-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/bmsrangel1/)
+
+##
+
 Bem-vindo(a) ao meu perfil!
 
 Meu nome é Bruno, um ser-humaninho apaixonado por tecnologia desde meus 4 anos de idade, quando usei um computador pela primeira vez.
@@ -11,15 +20,6 @@ Em 2017 descobri minha paixão pelo desenvolvimento de software e desde então u
 Minha curiosidade e resiliência são grandes aliadas no meu dia-a-dia: além de gostar de explorar as novidades na área, tenho determinação suficiente para não desistir no primeiro tropeço.
 
 Gosto muito de viajar, amo animais e divido meu tempo livre também com filmes, séries e jogos eletrônicos.
-
-## Conecte-se comigo
-
-[![GitHub](https://img.shields.io/badge/bmsrangel-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/bmsrangel/)
-[![LinkedIn](https://img.shields.io/badge/Bruno_Rangel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-machado-da-silva-rangel/)
-[![Discord](https://img.shields.io/badge/bmsrangel-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/bmsrangel/)
-[![X](https://img.shields.io/badge/bmsrangel-000?style=for-the-badge&logo=x)](https://twitter.com/bmsrangel)
-[![Instagram](https://img.shields.io/badge/bmsrangel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bmsrangel/)
-[![Youtube](https://img.shields.io/badge/bmsrangel1-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/bmsrangel1/)
 
 ## Habilidades
 
@@ -34,17 +34,24 @@ Gosto muito de viajar, amo animais e divido meu tempo livre também com filmes, 
 
 ### Frameworks e Bibliotecas
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-000?style=for-the-badge&logo=react)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-### Bancos de Dados e Ferramentas
+### Bancos de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+
+### Ferramentas
+
+![Docker](https://img.shields.io/badge/Docker-063c92?style=for-the-badge&logo=docker&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ## GitHub Stats
