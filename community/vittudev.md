@@ -29,15 +29,6 @@
 - 💬 Comunicação
 - ⏱️ Gerenciamento do Tempo
 
-
-<h2 align="left"> GitHub Stats:
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vittudev&hide_progress=compact&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vittudev&show_icons=true&theme=tokyonight)  
-
-
 <h2 align="left"> Tecnologias de estudo atual:
 
 -----------
@@ -47,8 +38,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="38" height="38"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="38" height="38"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="38" height="38"/>
-          
-                  
+                       
 
 <h2 align="left"> Tecnologia de estudo futuro:
 
@@ -61,4 +51,18 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="38" height="38"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="38" height="38"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" width="38" height="38" />
+
+
+<h2 align="left"> GitHub Streak Stats:
+
+-------
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vittudev&hide_progress=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vittudev&show_icons=true&theme=tokyonight)  
+
+<h2 align="left"> Streak Contributions:
+
+------
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vittudev&theme=tokyonight)](https://git.io/streak-stats)
 
