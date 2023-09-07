@@ -17,3 +17,6 @@ Iniciei recentemente como dev Node.JS, porém pretendo me especializar em Java.
 
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=naldo84&repo=cofreinteligente&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FF3)](https://github.com/naldo84/cofreinteligente)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=naldo84&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FF3)](https://github.com/naldo84/dio-lab-open-source)
+
