@@ -1,9 +1,9 @@
 # Simone Braghin
 
 ####
-Olá! Meu nome é Simone Braghin. Estou na jornada de transição "integrada" de carreira - onde busco somar tecnologias e data science a minha formação e atuação nas áreas de  Sociologia, Ciência Política e Assessoria de Investimentos.
+Olá! Meu nome é Simone Braghin. Estou na jornada de transição "integrada" de carreira - onde busco somar tecnologias e data science a minha formação e atuação nas áreas de  Sociologia, Ciência Política e Assessoria de Investimentos. 
 
-Hoje, atuo no mercado financeiro e estou me especializando em análises de dados e desenvolvimento web para o mercado financeiro, visando tornar-me uma melhor profissional e agregar mais valor ao meu setor de atuação e empresa.
+Hoje atuo no mercado financeiro e estou me especializando em análises de dados e desenvolvimento web para o mercado financeiro, visando tornar-me uma melhor profissional e agregar mais valor ao meu setor de atuação e empresa.
 
 Ademais, aprender linguagens de programação irá corroborar com minha formação em pesquisa, enquanto estudante de doutorado.
 
