@@ -20,4 +20,9 @@ Costumo trablhar com HTML,CSS e JavaScript e estou amando.
 [![LINKDIN](https://img.shields.io/badge/Linkdin-blue)](https://www.linkedin.com/in/joilson-neto/)
 [![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/AdemilsonSimiao](https://github.com/JoilsonSampaioN))
 
+<<<<<<< HEAD
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JoilsonSampaioN)](https://git.io/streak-stats)
+=======
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JoilsonSampaioN)](https://git.io/streak-stats)
+>>>>>>> ae30c9ae77a9da5822f9b058e77144bab2d83d65
