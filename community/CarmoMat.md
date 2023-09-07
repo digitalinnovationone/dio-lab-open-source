@@ -1,4 +1,4 @@
-# Olá, ! 👋
+# Olá, Pessoal! 👋
 
 Eu sou Matheus henrique! 🚀
 
@@ -19,7 +19,7 @@ Bem-vindo ao meu cantinho no GitHub, onde eu compartilho um pouco do que faço e
 
 ## 💬 Vamos Conectar?
 
-- 💬 Vamos trocar ideias? Me siga no [Twitter](https://twitter.com/seutwitter).
+- 💬 Vamos trocar ideias? Me siga no [Twitter](https://twitter.com/seutwitterr).
 - 📫 Ou me mande um email em [matheushgdocarmo@gmail.com].
 - 👔 Veja meu perfil profissional no [LinkedIn](https://www.linkedin.com/in/matheus-henrique-5a4487143/).
 
