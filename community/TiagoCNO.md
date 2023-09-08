@@ -2,7 +2,7 @@
 
 ## 👋 Meu nome é Tiago Oliveira
 
-Tenho 24 anos e sou um Biológo formado pela Universidade Mackenzie e tenho um grande interesse em tecnologia, principalmente na área de Ciência de Dados. Estou em transição de carreira e ainda desenvolvendo minhas habilidades na área para poder juntar minha paixão pela Biologia com a Tecnologia.
+Tenho 24 anos, sou um Biológo formado pela Universidade Mackenzie e tenho um grande interesse em tecnologia, principalmente na área de Ciência de Dados. Estou em transição de carreira e ainda desenvolvendo minhas habilidades na área para poder juntar minha paixão pela Biologia com a Tecnologia.
 
 Tenho buscado aprender mais sobre a área de Dados através de cursos e Bootcamps.
 
