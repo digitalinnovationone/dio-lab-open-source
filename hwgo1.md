@@ -5,7 +5,6 @@
 ![HTML](https://img.shields.io/badge/HTML-red)
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![JS](https://img.shields.io/badge/JavaScript-yellow)
-![PHP](https://img.shields.io/badge/PHP-darkblue)
 ![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white")
 
 ### Um pouco sobre mim...
