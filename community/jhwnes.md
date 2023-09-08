@@ -4,8 +4,7 @@ Olá, eu sou o Jhones! Atualmente sou técnologo em Análise e Desenvolvimento d
 ## Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-90EE90?style=for-the-badge&logo=linkedin&logoColor=006400)](https://www.linkedin.com/in/jhones-alifer-b99497262/)
 
-[Meu Perfil na DIO](https://web.dio.me/users/jhonesalifer?tab=skills)
-
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-90EE90?style=for-the-badge)](https://web.dio.me/users/jhonesalifer)
 
 ## Estou estudando
 ![JavaScript](https://img.shields.io/badge/JavaScript-90EE90?style=for-the-badge&logo=javascript)
