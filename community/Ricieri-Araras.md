@@ -14,3 +14,5 @@ Tive inúmeras experiências com informática desde o famoso MS-DOS, o surgiment
 
 [![PythonAnywhere](https://www.pythonanywhere.com/static/anywhere/images/PA-logo.svg)](https://ricieri72.pythonanywhere.com/)
 
+[![Git Hub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)](https://github.com/Ricieri-Araras/PythonApp)
+
