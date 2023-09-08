@@ -6,7 +6,7 @@
 
 [![Perfil DIO](https://img.shields.io/badge/-DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/allicedimello/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-080808?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/allicedimello/)
-[![Discord](https://img.shields.io/badge/Discord-080808?style=for-the-badge&logo=discord)](https://www.discord.com/in/allicedimello/)
+[![Discord](https://img.shields.io/badge/Discord-080808?style=for-the-badge&logo=discord)](https://www.discord.com/channels/allicedimello/)
 [![E-mail](https://img.shields.io/badge/-Email-080808?style=for-the-badge&logo=microsoft-outlook&logoColor=4869ee)](mailto:allicedimello@live.com)
 
 <h2> 🧠 Habilidades </h2>
@@ -26,6 +26,6 @@
 
 <h2> 📈 GitHub Stats </h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allicedimello&theme=transparent&bg_color=080808&border_color=666666&show_icons=true&icon_color=b81414&title_color=a0a0a0&text_color=FFF)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=allicedimello&theme=shadow-red&background=080808&border=666666&dates=FFF)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=allicedimello&layout=compact&bg_color=080808&border_color=666666&title_color=a0a0a0&&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=allicedimello&layout=compact&bg_color=080808&border_color=666666&title_color=a0a0a0&&text_color=FFF)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allicedimello&theme=transparent&bg_color=080808&border_color=666666&show_icons=true&icon_color=b81414&title_color=a0a0a0&text_color=FFF)   
+[![GitHub Streak](https://streak-stats.demolab.com/?user=allicedimello&theme=shadow-red&background=080808&border=666666&dates=FFF)](https://git.io/streak-stats)  <img src="https://i.ibb.co/hKbLpPK/octocat-allicedimello.png" width="200px" height="200px" />
