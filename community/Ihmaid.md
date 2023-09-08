@@ -44,7 +44,7 @@
     <h2>Suporte</h2>
     <span>Sinta-se a vontade para enviar issues e pull requests!</span>
     <br>
-    <span>Tem interesse em me auxiliar no meu aprendizado? Entre em contato comigo! Agradeço muito!❤</span>
+    <span>Tem interesse em me auxiliar no meu aprendizado? Entre em contato comigo! Agradeço muito!!❤</span>
 </div>
 <div>
 <h2>
