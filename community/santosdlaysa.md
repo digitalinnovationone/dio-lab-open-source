@@ -1,16 +1,17 @@
-👋 Olá, Prazer Laysa.
+<h1>👋 Olá, Prazer Laysa.</h1>
+
 <br>
 👩‍💻 Tenho 25 anos, sou bacharel em Direito e atualmente estou estudando para ser desenvolvedora de software, sou Acadêmica no curso de Análise e Desenvolvimento de Sistemas
 pela Uninter a distância.
 <br>
-
+<br>
 <div align="left">
   <a href="https://github.com/santosdlaysa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santosdlaysa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=24"/>
 </div>
 
 
-### Conecte-se comigo 👋
+<h1>### Conecte-se comigo 👋</h1>
 
   <div>
   <a href="https://www.linkedin.com/in/laysa-diniz-948864b6" target="_blank">
