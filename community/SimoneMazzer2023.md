@@ -1,4 +1,4 @@
-# Sejam bem vindos ao meu Github! 
+# Sejam bem vindos! 
 
 ## Sou Simone Mazzer.
 
