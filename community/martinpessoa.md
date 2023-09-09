@@ -15,4 +15,4 @@ Iniciei minha jornada em programação logo no meu primeiro emprego de operador 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
 
 ### Projetos
-![PeçaÚnica(https://pecaunica.com.br)]
+[PeçaÚnica](https://pecaunica.com.br)
