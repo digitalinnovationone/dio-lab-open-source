@@ -19,3 +19,12 @@ e alavancar a carreira. Desse modo adquiri alguns cursos e também me inscrevi n
 | Kotlin    | Básico                |
 | Linux     | Intermediário         |
 
+## Aprendendo...
+
+Alguns projetos simples para treinar programação:
+
+[Jogo da Velha em Python](https://github.com/alefrey78px/Jogo_Da_Velha)
+
+[Jogo da Forca em Python](https://github.com/alefrey78px/Jogo_Da_Forca)
+
+[Cofrinho, projeto de POO do curso de ADS da UNINTER](https://github.com/alefrey78px/Cofrinho)
