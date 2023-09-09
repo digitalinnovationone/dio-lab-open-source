@@ -19,10 +19,10 @@
 
 <h5>Conecte comigo</h5>
 <p>
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/adalbertobelo/">
+  <a href="https://www.linkedin.com/in/adalbertobelo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8" alt="LinkedIn">
   </a>
-  <a href="https://www.discord.com/in/kkkovisky/">
+  <a href="https://www.discord.com/in/kkkovisky/"target="_blank">
     <img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord" alt="Discord">
   </a>
 </p>
@@ -30,7 +30,7 @@
 <h2>Habilidades</h2>
 
 <center>
-  <a href="https://github.com/83Rafa">
+  <a href="https://github.com/adalbertobelo/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adalbertobelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adalbertobelo&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
   </a>
