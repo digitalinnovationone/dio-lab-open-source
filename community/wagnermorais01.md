@@ -3,14 +3,12 @@
 ## Perfil
 "Sou um desenvolvedor Full Stack
 iniciante apaixonado por criar
-soluções web abrangentes. Tenho
-habilidades tanto no desenvolvimento
+soluções web abrangentes. Estou aprendendo habilidades tanto no desenvolvimento
 de front-end, criando interfaces
 intuitivas e responsivas, quanto no
 back-end, implementando lógica de
 negócios e gerenciando bancos de
-dados. Estou em constante
-aprendizado e sempre em busca de
+dados. Sempre em busca de
 novos desafios para aprimorar minhas
 habilidades e criar experiências
 digitais incríveis".
