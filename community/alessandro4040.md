@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Com mais de 15 anos de experiência em comunicação, incluindo PABX, rádio comunicação, manutenção eletrônica e configuração, possuo habilidades sólidas nesse campo. Além disso, tenho mais de 10 anos de conhecimento em elétrica e monitoramento, como câmeras e alarmes IP. Atualmente, estou aprimorando minha formação com uma graduação em Engenharia da Computação, visando a expansão dos meus conhecimentos em comunicação. Comprometido em estar atualizado e em constante evolução, busco oferecer soluções inovadoras para atender às demandas do mercado, reconhecendo a importância contínua desse campo no presente e no futuro."
+"Com mais de 15 anos de experiência em comunicação, incluindo PABX, rádio comunicação, manutenção eletrônica e configuração, possuo habilidades sólidas nesse campo. Além disso, tenho mais de 10 anos de conhecimento em elétrica e monitoramento, como câmeras e alarmes IP. Atualmente, estou aprimorando minha formação com uma graduação em Engenharia da Computação, visando a expansão dos meus conhecimentos em comunicação. Comprometido em estar bem atualizado e em constante evolução, busco oferecer soluções inovadoras para atender às demandas do mercado, reconhecendo a importância contínua desse campo no presente e no futuro."
 
 
 # 💻 Tech Stack:
