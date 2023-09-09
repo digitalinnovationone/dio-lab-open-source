@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/adalbertobelo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8" alt="LinkedIn">
   </a>
-  <a href="https://www.discord.com/user/kkkovisky#9718" target="_blank"></a>
+  <a href="https://www.discord.com/user/kkkovisky" target="_blank"></a>
     <img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord" alt="Discord">
   </a>
 </p>
