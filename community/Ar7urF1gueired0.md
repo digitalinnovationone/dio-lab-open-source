@@ -5,7 +5,7 @@
 
 <i>* Estudante de Ciência da Computação em busca de aprendizado na área de dados.</i>
 
-<i>* Aluno da Universidade Federal de São Paulo [UNIFESP](https://www.unifesp.br/).</i>
+<i>* Aluno da Universidade Federal de São Paulo [(UNIFESP)](https://www.unifesp.br/).</i>
 </header>
 
 <div style="display: inline_block"><br>
@@ -13,11 +13,11 @@
 <h2 align = "left"> Redes Sociais e contato </h2>
 <p>
 	
-<i> Instagram: [Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/artur_figueiredo_/) </i> 
+<i>Instagram: [artur_figueiredo_](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/artur_figueiredo_/)</i> 
 
-<i> Email: arturfig.br@gmail.com </i>
+<i>Email: arturfig.br@gmail.com</i>
 
-<i> Whatsapp: +55 (11) 97500-2820 </i>
+<i>Whatsapp: +55 (11) 97500-2820</i>
 
 </p>
 </div>
