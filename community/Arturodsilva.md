@@ -1,6 +1,6 @@
 # Artur Rodrigues
 
-## Olá! Me chamo Artur Rodrigues, tenho 25 anos e estou buscando minha primeira oportunidade na àrea de técnologia. 
+## Olá! Me chamo Artur, tenho 25 anos e estou buscando minha primeira oportunidade na àrea de técnologia. 
 ## Conecte-se comigo! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/artur-rodrigues-4bbaa51a3/)
