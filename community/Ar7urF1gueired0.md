@@ -8,6 +8,7 @@
 <i>* Aluno da Universidade Federal de São Paulo [(UNIFESP)](https://www.unifesp.br/).</i>
 </header>
 
+
 <div>
   <a href="https://github.com/Ar7urF1gueired0">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ar7urF1gueired0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -28,7 +29,6 @@
 </p>
 </div>
 
-
 <div style="display: inline_block"><br>
 
 <h2 align = "left"> SoftSkills </h2>
@@ -44,7 +44,6 @@
   
 </p>
 </div>
-
 
 <div style="display: inline_block"><br>
   
