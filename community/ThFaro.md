@@ -2,7 +2,7 @@
 # Thiago Faro
 Atualmente em transição para a área de T.I, comecei minha jornada acadêmica em turismo e Hotelaria e a partir daí obtive experiências que resultaram em 15 anos de empreendedorismo e jobs no ramo gastronômico, onde desenvolvei soft skills como: liderança, dinamismo, trabalho em equipe, assertividade e raciocínio lógico.
 
-Buscando um novo desafio ingressei no curso de Análise e Desenvolvimento de Sistemas. Durante o curso, já tive a oportunidade de adquirir conhecimentos como:
+Buscando um novo desafio ingressei no curso de Análise e Desenvolvimento de Sistemas. Durante esse tempo, já tive a oportunidade de adquirir conhecimentos como:
 
 - JAVA (INTERMEDIÁRIO)
 - HTML (INTERMEDIÁRIO)
