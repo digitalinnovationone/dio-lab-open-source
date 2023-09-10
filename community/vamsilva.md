@@ -3,7 +3,7 @@
 ## Quem sou eu?
 - Cursando 7º semestre em Análise e Desenvolvimento de Sistemas
 - Em busca de oportunidade como desenvolvedor backend
-- Já trabalhei como tradutor (Portugês - Japonês)
+- Trabalho como tradutor (Português - Japonês)
 - Amo jogar videogame e assistir série
 
 ## Concete-se comigo
