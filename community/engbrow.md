@@ -1,6 +1,6 @@
 🔍<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=695aa6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=695aa6&size=40&center=true&vCenter=true&width=1000&lines=HELLO!!;My+name+is+Fernando+Soares;I'm+37+years+old;I+from+Brazil,Joinville+SC;I'm+mesmerized+in+Cloud+Computing;Data+architecture;Backend+Dev+and+Devops;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=695aa6&size=40&center=true&vCenter=true&width=1000&lines=HELLO!!;My+name+is+Fernando+Soares;I'm+37+years+old;I+from+Brazil,Joinville+SC;I'm+enthusiast+in+Cloud+Computing;Data+architecture;Backend+Dev+and+Devsecops/SRE;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center"> 
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=engbrow&show_icons=true&count_private=true&hide_border=true&title_color=695aa6&icon_color=695aa6&text_color=695aa6&bg_color=0d1117" alt="Fernando Soares github stats" /> 
