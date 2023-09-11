@@ -1,4 +1,4 @@
-# Gus963
+# Gusta963
 Olá! Me chamo Gustavo e sempre tive curiosidade em aprender sobre este vasto mundo tecnológico.
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=42C920)](https://www.linkedin.com/in/gustavo-fernandes-9b8289257/)
