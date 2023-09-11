@@ -15,7 +15,7 @@ Também tenho algum conhecimento em CI/CD.
 | ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)                       | ![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=00FF00)    | ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) |
 | ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)                         | ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=FF0000) | ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)|
 | ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)       | ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=ffffff)       |
-| [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) | ![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=30A3DC) |
+| [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) | ![Flutter](https://img.shields.io/badge/-000?style=for-the-badge&logo=flutter&logoColor=30A3DC) |
 | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/) |
 | ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=Windows&logoColor=30A3DC)                |
 | ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FFFFFF)                      |
