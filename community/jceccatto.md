@@ -21,5 +21,5 @@ Obrigado por dar uma passada por aqui!
 
 
 ## Meus status no Github
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jceccatto&theme=transparent&bg_color=000&border_color=000&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFFF00&hide_title=true&hide=stars)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jceccatto&layout=compact&langs_count=7&theme=nord)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jh.ceccatto&theme=transparent&bg_color=000&border_color=000&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFFF00&hide_title=true&hide=stars)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jh.ceccatto&layout=compact&langs_count=7&theme=nord)
