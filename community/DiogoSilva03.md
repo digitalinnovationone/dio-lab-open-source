@@ -6,7 +6,7 @@ Opa, me chamo Diogo, tenho 20 anos e, desde criança, sempre me interessei por t
 ## Linguagem de Programação:
 | Aprendendo   |
 | ------- |  |
-| Phyton   |   
+| Python   |   
 | C#  |   
 
 
