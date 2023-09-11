@@ -1,11 +1,9 @@
 ## Hey, Ceccatto por aqui!
 
 ### Sobre
-<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/vulcan-salute_1f596.png" width="60" height="60"/>
 Bem vindo ao meu perfil, meu nome é João Henrique, sou apaixonado por tecnologia e inovação. Esta area ainda esta em desenvolvimento, mas em tecnologia isso é o normal, Buscando me aprimorar sempre mais tanto em software quanto em hardware.
 
 Obrigado por dar uma passada por aqui!
-<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/vulcan-salute_1f596.png" width="60" height="60"/>
 
 
 ## Minhas Habilidades
@@ -21,5 +19,8 @@ Obrigado por dar uma passada por aqui!
 
 
 ## Meus status no Github
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jh.ceccatto&theme=transparent&bg_color=000&border_color=000&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFFF00&hide_title=true&hide=stars)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jh.ceccatto&layout=compact&langs_count=7&theme=nord)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jceccatto&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jceccatto&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+****
+
+
