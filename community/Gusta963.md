@@ -3,7 +3,7 @@ Olá! Me chamo Gustavo e sempre tive curiosidade em aprender sobre este vasto mu
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=42C920)](https://www.linkedin.com/in/gustavo-fernandes-9b8289257/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=42C920)](https://github.com/Gusta963)
-
+[![Spotify](https://img.shields.io/badge/Spotify-000?style=for-the-badge&logo=Spotify&logoColor=42C920)](https://open.spotify.com/user/31iyx6r43wgy6by3k7kuxlzwymoq?si=5603e0cdf990405e)
 
 ## Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=42C920)
