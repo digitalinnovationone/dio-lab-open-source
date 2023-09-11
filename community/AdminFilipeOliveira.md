@@ -55,6 +55,19 @@ ___
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AdminFilipeOliveira&theme=transparent)
 
+## Principais Projetos
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=AdminFilipeOliveira&repo=tqi_Kotlin_bakend_developer_2023&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AdminFilipeOliveira/tqi_Kotlin_bakend_developer_2023)
+
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=AdminFilipeOliveira&repo=API-credit-application-system&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AdminFilipeOliveira/API-credit-application-system)    
+
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=AdminFilipeOliveira&repo=IMC_APP&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AdminFilipeOliveira/IMC_APP) 
+
+## Minhas Contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdminFilipeOliveira&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AdminFilipeOliveira/dio-lab-open-source)
+
+
 
 <h1>
 Visitors: <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/AdminFilipeOliveira/count.svg" /></p>
