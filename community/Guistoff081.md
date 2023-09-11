@@ -1,7 +1,7 @@
 # Hi there! 👋
 ## My name's Elisson Guímel! 😺
 
-### About me
+### 🔭 About me
 - 💻 I am a Fullstack Developer 
 - 🤖 I'm currently studying Data Science and Machine Learning
 - When I'm not coding, I'm probably enjoying life with my family, playing some games or my guitar
