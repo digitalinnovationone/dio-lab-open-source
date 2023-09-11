@@ -14,17 +14,6 @@ Minha primeira linha de código foi um "Hello World" em Python. No meu tempo liv
 ##### Conecte comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/adalbertobelo/)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/user/kkkovisky)
-
-## Habilidades
-
-<div align="center">
-  <a href="https://github.com/adalbertobelo/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adalbertobelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adalbertobelo&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
-  </a>
-</div>
-
 
 ## Minhas Linguagens de Marcação e Estilos
 
@@ -42,8 +31,5 @@ Minha primeira linha de código foi um "Hello World" em Python. No meu tempo liv
 ![Mendix](https://img.shields.io/badge/Mendix-000?style=for-the-badge&logo=mendix)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 
-## Minhas Contribuições
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=adalbertobelo&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/adalbertobelo/dio-lab-open-source)
 
 #### Espero que goste do meu perfil! By👋
