@@ -48,8 +48,8 @@ Sou apaixonado por tecnologia, música e esportes, e sigo o estilo clássico. Go
   </a>
 </div>
 
-- [Nome do Projeto 1](link-do-projeto-1): Descrição breve do projeto 1.
-- [Nome do Projeto 2](link-do-projeto-2): Descrição breve do projeto 2. -->
+<!-- - [Nome do Projeto 1](link-do-projeto-1): Descrição breve do projeto 1.
+- [Nome do Projeto 2](link-do-projeto-2): Descrição breve do projeto 2. --> -->
 
 <!-- Seção Contato -->
 ## 📫 Como Entrar em Contato
