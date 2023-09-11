@@ -1,3 +1,3 @@
 # Maira Gomes
 
-Pesquisadora e Historiadora mergulhando no mundo da TI
+Pesquisadora e Historiadora mergulhando no mundo da
