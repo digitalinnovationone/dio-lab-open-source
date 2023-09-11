@@ -40,4 +40,4 @@ Criatividade
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Arturodsilva&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
-[![DIO](https://camo.githubusercontent.com/eba75662c4aaf21104aecdc0e3934b4cc1a0c6910d9df65a0873589a0abaa3b2/68747470733a2f2f6865726d65732e6469676974616c696e6e6f766174696f6e2e6f6e652f6173736574732f64696f6d652f6c6f676f2d6d696e696d697a65642e706e67)](https://github.com/Arturodsilva//)
+[![DIO](https://camo.githubusercontent.com/eba75662c4aaf21104aecdc0e3934b4cc1a0c6910d9df65a0873589a0abaa3b2/68747470733a2f2f6865726d65732e6469676974616c696e6e6f766174696f6e2e6f6e652f6173736574732f64696f6d652f6c6f676f2d6d696e696d697a65642e706e67)](https://www.dio.me/users/arturodriguesilva2)
