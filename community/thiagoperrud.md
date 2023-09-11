@@ -1,6 +1,6 @@
 # println("Olá Mundo, eu sou o Thiago!") 👋🏻
 👨🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas - Centro Universitário SENAC.<br>
-💡 Apaixonado por programação e música.<br>
+💡 Apaixonado por programação e música!<br>
 ✍🏻 Aprendendo tecnologias como: Java, JavaScript, mySQL, React Native e Angular.<br>
 
 ## Conecte-se comigo!
@@ -16,7 +16,7 @@
 ![Angular](https://img.shields.io/badge/Angular-fff?style=for-the-badge&logo=angular&logoColor=C3002F)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagoperrud&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=codeSTACKr&hide_title=true)![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thiagoperrud&layout=compact&theme=codeSTACKr&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagoperrud&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=codeSTACKr) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thiagoperrud&layout=compact&theme=codeSTACKr)
 
 ## Minhas contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagoperrud&repo=dio-lab-open-source&theme=codeSTACKr)](https://github.com/thiagoperrud/dio-lab-open-source)
