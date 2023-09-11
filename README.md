@@ -8,7 +8,7 @@ Repositório desenvolvido para fins didáticos, com a disponibilização de mate
 
 [![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
 [![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
-
+iniciar leitura git e principais comandos 
 ## Objetivo
 Aprender o básico sobre contribuição no GitHub.
 
@@ -86,7 +86,7 @@ Aprender o básico sobre contribuição no GitHub.
 8. Crie um commit e adicione a mensagem indicando a adição do seu perfil `git commit -m"feat: add seunomedeusuario profile"`;
 9. Envie as alterações para o seu repositório remoto `git push origin feat/community/seunomedeusuario`; 
 10. Crie um **Pull Request**.
-
+11 . atualizar repositorio local 
 ### Instructions (EN/US)
 1. **Fork** the repository;
 2. Clone locally: `git clone https://github.com/SEUUSERNAME/dio-lab-open-source.git`;
