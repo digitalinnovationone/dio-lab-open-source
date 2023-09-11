@@ -6,4 +6,4 @@ Sou o Stephano, e sou um estudante do último ano do curso de graduação em Qu�
 
 - 💬 Estou sempre aberto a conexões e colaborações. Se você deseja trocar ideias, sinta-se à vontade para entrar em contato comigo.
 
-- 📧 sforsa.silva@gmail.com
+- 📧 sforsa.silva@gmail.com 
