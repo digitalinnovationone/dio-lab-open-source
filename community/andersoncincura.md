@@ -24,6 +24,5 @@
 <img src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown"> <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5">
 
 ## Redes Sociais
-
-<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/anderson-felipe-silva-cincura-51b390a2//)">
-<img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=0E76A8)](https://instagram.com/andersonfelipesilvacincura?igshid=OGQ5ZDc2ODk2ZA)">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/anderson-felipe-silva-cincura-51b390a2/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://instagram.com/andersonfelipesilvacincura?igshid=OGQ5ZDc2ODk2ZA)">
