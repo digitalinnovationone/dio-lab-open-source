@@ -18,3 +18,5 @@ Sou uma apaixonada por desenvolvimento e análise de dados, já atuei mais de 5 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 ## Minhas Contribuições
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=annegaldino&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
