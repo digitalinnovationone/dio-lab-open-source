@@ -25,5 +25,3 @@ Meu objetivo é contribuir para projetos que tenham um impacto positivo na vida 
     <img height="170cm" src= "https://github-readme-stats.vercel.app/api?username=lucasseccatto&show_icons=true&theme=radical"/>
     <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasseccatto&layout=compact&langs_count=16&theme=radical"/>
 </div>
-
-
