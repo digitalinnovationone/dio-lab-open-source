@@ -17,7 +17,7 @@ Atualmente Estudando Pela [Digital Innovation One](https://www.dio.me)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReryssonLSilva&theme=black&bg_color=000&border_color=343434&show_icons=true&icon_color=0FFF50&title_color=0FFF50&text_color=FFF)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=green-nur&background=000&border=343434&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ReryssonLSilva&theme=green-nur&background=000&border=343434&dates=FFF)](https://git.io/streak-stats)
 
 ## 🔗 Conecte-se Comigo
 
