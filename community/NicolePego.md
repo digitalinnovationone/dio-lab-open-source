@@ -1,6 +1,6 @@
 # NicolePego
 ## 🚀 Sobre mim
-Sou Bacharel em Ciência da Nutrição e escritora de livros infantil, além de voluntária em um projeto social de Judô de alto rendimento. No momento, em transição de carreira para Desenvolvedor Full Stack.
+Sou Bacharel em Ciência da Nutrição e escritora de livros infantil, além de voluntária em um projeto social de Judô e Ju-Jitsu de alto rendimento. No momento, em transição de carreira para Desenvolvedor Full Stack.
 
 ## 💡 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/nicole-pêgo-4242b3214/)
