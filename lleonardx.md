@@ -14,7 +14,6 @@ Trabalho 2 anos como QA.
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg")
 
 ### GitHub Stats
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=lleonardx&show_icons=true&theme=radical)
