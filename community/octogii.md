@@ -11,7 +11,8 @@
 
 ## Habilidades
 [![GITHUB](https://img.shields.io/badge/GITHUB-DD2A7B?style=for-the-badge&logo=GITHUB)](https://github.com/gili23)
-## Git Hub
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=dd2a7f&border=fff&dates=fff)](https://git.io/streak-stats)
-## Minhas contribuições
+## GitHub status
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gili23&theme=transparent&bg_color=f17ea1&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=FFF)
+## Sequência
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gili23&repo=octogili&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gili23/octogili)
