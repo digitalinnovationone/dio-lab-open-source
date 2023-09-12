@@ -1,6 +1,6 @@
 # Bem vindo
 <div align="center">
-    <iframe src="https://giphy.com/embed/Nx0rz3jtxtEre" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mrw-top-escalator-Nx0rz3jtxtEre"></a></p>
+    <img height="240" width="480" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN25wZ290NjBzdnVxYmh5bHZ3dGY0MnVuYTRwdXV3b2N6cHdyY21jZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif"/>
 </div>
 
 ## Quem sou eu?
