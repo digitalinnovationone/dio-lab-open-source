@@ -46,4 +46,4 @@ Aqui estão alguns dos projetos que me orgulho de ter trabalhado:
 
 
 
-Espero que goste do meu perfil e dos projetos que compartilhei. Sinta-se à vontade para entrar em contato comigo e colaborar em projetos interessantes!c
+Espero que goste do meu perfil e dos projetos que compartilhei. Sinta-se à vontade para entrar em contato comigo e colaborar em projetos interessantes!
