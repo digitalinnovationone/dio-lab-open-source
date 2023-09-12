@@ -1,5 +1,6 @@
 # Enzzo Natan Ferraz
 
+
 ## Sobre Mim
 Olá! Me chamo Enzzo e sou um fascinado por tecnologia e design. Moro na cidade de Florianópolis, tenho 20 anos e desde cedo, descobri minha paixão por essas áreas e tenho me dedicado a aprimorar minhas habilidades. Estou constantemente buscando oportunidades para aprender e crescer profissionalmente nesses campos fascinantes. 
 

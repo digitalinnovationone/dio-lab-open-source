@@ -1,4 +1,5 @@
 
+
 # Elis Cavalcante 
 
 Meu nome é Elisabeth e estou estudando Ciência de dados para me adaptar à profissão do futuro ,e assim poder fazer parte desta grande revolução tecnológica  que trás muitas oportunidades de desenvolvimento profissional e pessoal devido ao seu grande dinamismo e possibilidade de conhecer pessoas que de fato querem mudar o mundo com suas criações,assim como eu.
