@@ -17,5 +17,4 @@ Trabalho 2 anos como QA.
 ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg")
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ll3onardx&theme=transparent&bg_color=013&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ll3onardx&layout=compact&bg_color=013&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=lleonardx&show_icons=true&theme=radical)
