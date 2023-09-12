@@ -1,6 +1,6 @@
 <body>
   <div>
-    <h2>Olá eu sou o David ????</h2>
+    <h2>Olá eu sou o David</h2>
     <p>Sou estudante de Análise e Desenvolvimento de Sistemas, procurando me aprimorar mais a cada dia!</p>
   </div>
   
