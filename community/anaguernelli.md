@@ -1,6 +1,6 @@
 # Ana Beatriz Guernelli
 
-Apaixonada por tecnologia e atualemente formada em Análise e Desenvolvimento de Sistemas em busca de desafios e procurando sempre meu máximo aprimoramento.
+Apaixonada por tecnologia e atualmente formada em Análise e Desenvolvimento de Sistemas em busca de desafios e procurando sempre meu máximo aprimoramento.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ana-beatriz-guernelli-9937a8209/)
