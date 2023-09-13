@@ -1,4 +1,4 @@
-# Olá, meu nome é Handressa Benedetto,
+# Olá, meu nome é Handressa Benedetto
 
 Tenho 24 anos, sou estudante de programação e acadêmica de Engenharia de Software. Estudo programação há alguns meses, no entanto sempre fui fascinada por tecnologia, amo estudar e tenho muitos sonhos e com certeza estou dando um passo enorme com este Bootcamp para conquistá-los.
 
