@@ -1,12 +1,27 @@
 # Olá, meu chamo João! 
 
-Atualmente trabalho como desenvolvedor WEB, com mais de 6 anos de experiência, sou formado em Análise e Desenvolvimento de Sistemas.
+Sou um desenvolvedor web com mais de 6 anos de experiência na área de tecnologia. Tenho formação em Análise e Desenvolvimento de Sistemas, o que me proporcionou uma base sólida em programação e design de sistemas. 
+
+Sou apaixonado pelo mundo da tecnologia e estou constantemente atualizando minhas habilidades para estar sempre à frente das últimas tendências e inovações no campo. 
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/joao-neto-10b05162/)
 
 # Linguagens de Programação
-![PHP](https://img.shields.io/badge/php-000?style=for-the-badge&logo=php)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+![Static Badge](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&color=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=#F7DF1E)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=#4479A1)
+![SqlServer](https://img.shields.io/badge/MSSQL-000?style=for-the-badge&logo=microsoftsqlserver&logoColor=#CC2927)
+
+## Bibliotecas e Frameworks
+
+![Lumen](https://img.shields.io/badge/Lumen-black?style=for-the-badge&logo=lumen)
+![Cakephp](https://img.shields.io/badge/Cakephp-black?style=for-the-badge&logo=cakephp)
+![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel)
+![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress)
+
+### Aprendendo
+![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android)
+![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin)
+![Kotlin](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
