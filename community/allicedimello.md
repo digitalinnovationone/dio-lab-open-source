@@ -16,7 +16,7 @@ Estudante de Sistemas de Informação na UNEB, em busca de conhecimento e oportu
 [![Perfil DIO](https://img.shields.io/badge/-DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/allicedimello/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-080808?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/allicedimello/)
 [![Discord](https://img.shields.io/badge/Discord-080808?style=for-the-badge&logo=discord)](https://www.discord.com/channels/allicedimello/)
-[![E-mail](https://img.shields.io/badge/-Email-080808?style=for-the-badge&logo=microsoft-outlook&logoColor=4869ee)](mailto:allicedimello@outlook.com)
+[![E-mail](https://img.shields.io/badge/-Email-080808?style=for-the-badge&logo=microsoft-outlook&logoColor=4869ee)](mailto:allicedimello@live.com)
 [![GitLab](https://img.shields.io/badge/GitLab-080808?style=for-the-badge&logo=gitlab)](https://gitlab.com/allicedimello)
 
 <h2> 🧠 Habilidades </h2>
