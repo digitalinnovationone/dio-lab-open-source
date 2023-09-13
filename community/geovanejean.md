@@ -3,14 +3,13 @@
 ## Olá, sou Geovane Souza! 👋
 
 - 💻 Atualmente, estudo Kotlin e estou imerso no BootCamp da DIO em parceria com o Santander.
-- 🚀 Já desenvolvi um projeto no Android Studio em apenas 10 dias - uma calculadora de IMC (meu projeto est+a no GitHub).
-- 📱 Estou trabalhando em um emocionante aplicativo chamado TaskBeats, utilizando tecnologias como RecyclerView, MVVM Architecture, Mockito, Task List Fragment e FindViewById.
+- 🚀 Já desenvolvi um projeto no Android Studio em apenas 10 dias - uma calculadora de IMC (meu projeto est+a no GitHub) em uma comunidade chamada DevSpace.
+- 📱 Estou trabalhando em um emocionante aplicativo chamado TaskBeats, utilizando tecnologias como RecyclerView, MVVM Architecture, Mockito, Task List Fragment e FindViewById, isso também no DevSpace.
 
 Sinta-se à vontade para explorar meus projetos e acompanhar meu progresso aqui no GitHub. Qualquer feedback ou colaboração é muito bem-vindo!
 
 ## Conecte=se comigo 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/geovane99//)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/geovane99//) 
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram)](https://www.instagram.com/geovane.99/)
 
 ## Habilidades 
