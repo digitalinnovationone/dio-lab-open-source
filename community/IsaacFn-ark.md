@@ -1,5 +1,5 @@
 # Isaac FN
-Olá sou o Isaac estou estudando como contribuir em um Projeto Open Source no GitHub com a ajuda da DIO, e busco aprender cada vez mais!  
+Olá sou o Isaac e estou estudando como contribuir em um Projeto Open Source no GitHub com a ajuda da DIO, e busco aprender cada vez mais!  
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/isaac-ferreira-do-nascimento-3b0968123)
