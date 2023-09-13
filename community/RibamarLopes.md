@@ -1,8 +1,7 @@
 
-# José Ribamar LopesNetp
+# José Ribamar Lopes Neto
 
-## Sobre mim
-Sou José Ribamar, um professor de química que está transicionando de carreira buscando se especializar em Java.
+Sou José Ribamar, um professor de química que está transicionando de carreira buscando se especializar na área de tecnológia.
 
 ## Minhas redes
 
@@ -18,8 +17,8 @@ Sou José Ribamar, um professor de química que está transicionando de carreira
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RibamarLopes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RibamarLopes&theme=transparent&bg_color=000000&border_color=345&show_icons=true&icon_color=07FDEB&title_color=FFA700&text_color=A3E7FF)
 
-## Desáfios de projeto DIO
+## Contribuições em projetos
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=fff)](https://github.com/elidianaandrade/dio-lab-open-source)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000000&border_color=234&show_icons=true&icon_color=07FDEB&title_color=FFA700&text_color=A3E7FF)](https://github.com/elidianaandrade/dio-lab-open-source)
