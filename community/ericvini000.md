@@ -1,6 +1,6 @@
 # ERIC VINICIUS FELIX SILVA
 
-> Meu nome é Eric Vinicius Felix Silva e tenho 19 anos. Adoro trabalhar com desenvolvimento de software, sempre me desafiando em sites com Codewars ou HackerRank para consolidar meu conhecimento, conheço e pratico diversas linguagens como Javascript/Typescript, Node Js, Python, C#, SQL e outras tecnologias. Meu maior sonho é criar algo que contribua para a comunidade do TI.
+> Meu nome é Eric Vinicius Felix Silva e tenho 19 anos. Adoro trabalhar com desenvolvimento de software, sempre me desafiando em sites com Codewars ou HackerRank para consolidar meu conhecimento, conheço e pratico diversas linguagens como Javascript/Typescript, Node Js, Python, C#, SQL e outras tecnologias. Meu maior sonho é criar algo que contribua para a comunidade do TI e conhecendo mais pessoas da área.
 
 ## Github Stats
 
