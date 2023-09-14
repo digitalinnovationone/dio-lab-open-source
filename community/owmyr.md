@@ -28,4 +28,3 @@ Procuro dar início a minha carreira na área da tecnologia provando meu potenci
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/owmyr) 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/olmir-stocker-neto/)
-
