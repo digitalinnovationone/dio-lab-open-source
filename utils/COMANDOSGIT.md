@@ -50,4 +50,4 @@ If you want to config your scope of work use the tags below.
 - Combine all in one commit
   - `$ git commit -a -m "your message here"`
 - Change the message to commit
-  - `$git commit -amend "new message here"`
+  - `$ git commit -amend "new message here"`
