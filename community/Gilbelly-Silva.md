@@ -1,6 +1,6 @@
 # :coffee: :computer: Quem é Gilbelly Silva?
 
-Cristã, amo a natureza, família, amigos, boa música, café. Graduada em Engenharia Agrícola e Ambiental pela Universidade Federal Rural de Pernambuco, porém estou em transição de carreira para Desenvolvedora de Software, sempre busco atender as expectativas da empresa sabendo que poderei contribuir positivamente para um bom andamento da minha função, colaborando para atingir as metas almejadas, uma verdadeira entusiasta Full Stack.
+Cristã, amo a natureza, família, amigos, boa música, café. Graduada em Engenharia Agrícola e Ambiental pela Universidade Federal Rural de Pernambuco, porém estou em transição de carreira para Desenvolvedora de Software, fiz um curso presencial de Full Stack, e gostei bastante de Front end. Sempre busco atender as expectativas da empresa sabendo que poderei contribuir positivamente para um bom andamento da minha função, colaborando para atingir as metas almejadas, uma verdadeira entusiasta Full Stack.
 
 ## Conecte-se comigo
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilbelly-silva/)
