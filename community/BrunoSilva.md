@@ -2,6 +2,7 @@
 
 Sou Paraense, morando a mais de 15 anos em brasilia-DF, tenho 28 anos, atualmente estudando back-end com foco em .net.
 
+
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/bruno-silva-2545771a3/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/BrunoSilva-N)
