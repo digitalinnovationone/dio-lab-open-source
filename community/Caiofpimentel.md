@@ -1,5 +1,5 @@
 
-# Caio Pimentel
+# Caio Felipe da Silva Pimentel
 Meu nome é Caio, tenho 30 anos, sou estudande de Analise e desenvolvimento de sistemas e termino no primeiro semestre de 2024, atualmente trabalho como trainne de desenvolvimento na empresa SIS Innov & Tech, focado na area de low-code, utilizando PEGA Systems e Innoveo.
 Sou de São Paulo, SP.
 
