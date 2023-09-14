@@ -1,5 +1,4 @@
 # Olá, eu sou Joyce 👋
-
 Sou uma estudante de tecnologia iniciante, estou sempre buscando aprender coisas novas para meu desenvolvimento pessoal e profissional.
 
 ## Minhas Habilidades
