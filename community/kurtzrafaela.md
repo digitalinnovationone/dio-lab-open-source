@@ -1,7 +1,7 @@
 # Rafaela Kurtz Tavares
 Olá, eu sou a Rafa! 
 
-Especialista em comunicação com foco em experiência digital. Trabalho como Conversasional Designer numa empresa de segmento financeiro.
+Especialista em comunicação com foco em experiência digital. Trabalho como Conversational Designer numa empresa de segmento financeiro.
 
 Estou me aprimorando na área tech através do Front-End para transformar plataformas digitais em espaços intuitivos e práticos. 
 
