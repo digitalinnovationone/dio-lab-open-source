@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/demetriuscoutinho)
 
 ### Sobre mim
-Eu sou desenvolvedor backend, tenho 5 anos de experiência com java e Spring boot, com foco no desenvolvimento de microsserviços. 
+Eu sou desenvolvedor backend, tenho 5 anos de experiência com java e Spring boot, com foco no desenvolvimento de API's Rest em Arquitetura de Microsserviços. 
 
 ### Hard Skills
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
