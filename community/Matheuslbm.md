@@ -1,5 +1,5 @@
 #Matheuslbm
-Olá, eu sou Matheus, tenho 26 anos e atualmente sou vendedor da Osklen, faço analise e desenvolvimento de sistemas 
+Olá, sou Matheus, tenho 26 anos e atualmente sou vendedor da Osklen, faço analise e desenvolvimento de sistemas 
 e quero ser um desenvolvedor, sou iniciante e estou participando do bootcamp da DIO.
 
 ## Conecte-se comigo
