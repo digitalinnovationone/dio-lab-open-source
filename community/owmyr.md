@@ -9,7 +9,7 @@ Procuro dar início a minha carreira na área da tecnologia provando meu potenci
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=owmyr&theme=tokyonight&background=000&border=CF9FFF&dates=FFF)](https://git.io/streak-stats)
 
-## Linguagens
+## Skills
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) 
 
@@ -18,7 +18,7 @@ Procuro dar início a minha carreira na área da tecnologia provando meu potenci
 ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 
 
-# 🤜🤛 Minhas Contribuições
+## Minhas Contribuições
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=owmyr&repo=dio-lab-open-source&bg_color=000&border_color=CF9FFF&show_icons=true&icon_color=FFF&title_color=CF9FFF&text_color=FFF)](https://github.com/owmyr/dio-lab-open-source)
 
