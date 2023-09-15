@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas Israel! 👋
+# Olá pessoal, eu sou o Lucas Israel! 👋
 
 
 ## 🚀 Sobre mim
