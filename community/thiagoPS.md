@@ -1,6 +1,6 @@
 # Thiago P. S. - Full Stack
 
-## Formado na Escola TÃ©cnica em Desenvolvimento Web - Full Stack com Ãªnfase Ã  Empreeendedorismo e InovaÃ§Ã£o.
+## Formado na Escola Técnica em Desenvolvimento Web - Full Stack com ênfase à Empreeendedorismo e Inovação.
 
 ### Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
