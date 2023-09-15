@@ -7,7 +7,7 @@ Sou um apaixonado por tecnologia, programador e analista de sistemas, sempre em 
 - 🌎 Busco constantemente certificações para aprimorar minha expertise na área.
 
 ## Conecte-se comigo
-   <a href="https://www.linkedin.com/in/83rafasoares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/fernandosantyis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:fpsantis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
