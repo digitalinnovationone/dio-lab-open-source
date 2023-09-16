@@ -13,7 +13,7 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/pt)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kinhaprata&theme=transparent&border_transpcolor=30A3DC&show_icons=false&icon_color=30A3DC&_title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kinhaprata&theme=dracula&border_transpcolor=30A3DC&show_icons=false&icon_color=30A3DC&_title_color=E94D5F&text_color=FFF)
 
 
 ## Meus projetos da Dio
