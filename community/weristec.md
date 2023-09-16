@@ -18,7 +18,7 @@
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/ribeirowelton10//)
-[![E-mail](https://"https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=yellow)](mailto:ribeirowelton10@gmail.com)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:ribeirowelton10@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/antonio-welton-ribeiro-souza-a594b613b/)
 
 
@@ -41,9 +41,11 @@
 
 ### Produção e Versionamento
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.git.com/)
+[![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.docker.com/)
 
 ### Gerenciamento de dependências
-![Composer](https://img.shields.io/badge/Composer-000?style=for-the-badge&logo=composer&logoColor=C3002F)
+![Composer](https://img.shields.io/badge/Composer-000?style=for-the-badge&logo=composer&logoColor=yellow)
 
 ![Springboot](https://img.shields.io/badge/Springboot-000?style=for-the-badge&logo=Springboot&logoColor=C3002F)
 
