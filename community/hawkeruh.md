@@ -36,5 +36,5 @@ Looking forward to branch out my languages and tools. Feel free to reach out.<sp
 
 ## Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hawkeruh&theme=duskfox&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hawkeruh)](https://git.io/streak-stats)
 
