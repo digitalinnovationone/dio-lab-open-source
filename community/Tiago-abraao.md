@@ -14,8 +14,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Tiago-abraao&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">  
 ## Conecte-se comigo
+
+<div align="center">  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/tiago-abraao-94a07025b/recent-activity/all/)
 </div>
