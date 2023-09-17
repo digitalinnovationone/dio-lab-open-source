@@ -18,4 +18,4 @@ Me chamo Raimundo tenho 26 anos, possuo expertise em elaboração de projetos el
 
 ## Minhas contribuições
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=raijunior&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
