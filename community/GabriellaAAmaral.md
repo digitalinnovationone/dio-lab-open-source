@@ -3,7 +3,7 @@ Bem-vindo(a) ao meu perfil do GitHub!
 
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNINASSAU e fazendo cursos livres sobre análise de dados.
 
-## Minhas contribuições com a DIO
+## Minhas contribuições na DIO
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GabriellaAAmaral&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GabriellaAAmaral/dio-lab-open-source)
 
 
