@@ -20,7 +20,6 @@ Se você quiser trocar ideias, aprender juntos ou simplesmente bater um papo, es
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://dio.me/users/willlevil)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://instagram.com/uiryan.carvalho?igshid=OGQ5ZDc2ODk2ZA==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/william-carvalho-bezerra-95298727a/)
-
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:willlevil@gmail.com)
 
 <br>
