@@ -58,3 +58,6 @@ https://github.com/RyanBrittes/dio-lab-open-source/blob/9814a75afdf715f38b31b91f
 👨‍💻 Nome do autor <br>
 📕 Ocupação do autor
 <!--Neste trecho podem ser inseridas informações do autor do projeto do projeto-->
+
+### Adicional:
+Os trechos de código foram utilizados utilizando apenas o MarkDown, para saber como utilizar este recurso acesso o [GUIA DO GITHUB](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet)
