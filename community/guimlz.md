@@ -1,7 +1,7 @@
 
 # Guimlz
 
-Olá! Me chamo Guilherme Martins, tenho 22 anos  e estou iniciando minha jornada no mundo DEV! :)
+Olá! Me chamo Guilherme Martins, tenho 22 anos e sou de Osasco-SP. Estou iniciando minha jornada no mundo DEV! :)
 
 ## Conecte-se comigo
 
