@@ -3,7 +3,7 @@
 
 <br>
 
-Sou formada em Marketing e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Realizo testes exploratórios e funcionais em plataformas de E-commerce e aplicativos, na posição de Analista de Suporte e tenho experiência como Analista de Testes Freelancer, onde atuei em diversos projetos nas áreas da educação, finanças e serviços.
+Sou formada em Marketing e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Realizo testes exploratórios e funcionais em plataformas de E-commerce e aplicativos como Analista de Testes Freelancer, onde atuei em diversos projetos nas áreas da educação, finanças e serviços. 
 
 No momento, estudo sobre automação de testes e programação nas plataformas Alura e Qualiters Club.
 
