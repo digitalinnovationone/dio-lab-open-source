@@ -24,5 +24,5 @@ Olá, me chamo Saory, desenvolvo projetos em Front-End e Mobile! Estou no 3º Se
 
 ### GitHub Stats
 
-![GitHub Stats](image.png)
-![Languages](image-1.png)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saory18&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Saory18&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
