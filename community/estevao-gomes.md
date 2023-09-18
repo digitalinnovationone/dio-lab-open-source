@@ -5,9 +5,11 @@ Embora já tenha tido experiências no mercado de trabalho como engenheiro, tend
 
 ## Vamos conversar?
 Entre em contato comigo pelo Linkedin:
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/estevao-gomes-pereira/)
 
-Ou visite meu <a src="https://estevao-gomes.dev">Portfólio </a>.
+Ou visite meu <a href="https://estevao-gomes.dev">Portfólio </a>.
 
 
 
