@@ -2,7 +2,7 @@
 ## Bem-vindo ao meu ponto de partida nesse universo Git e Github. 
 
 ### Agora vou te contar um pouco sobre mim!
-Como eu já disse antes me chamo Igor, tenho 26 anos e sou apaixonado por tecnologia, estou em transição de carreira, cursando analise e desenvolvimento de sistemas e me aprofundando em desenvolvimento na linguagem Java através de cursos e bootcamps, atualmente minhas habilidades são de nível básico porem me esforço ao máximo e estou sempre em busca de aprender cada vez mais. Tenho como objetivo me tornar um desenvolvedor back-end e um especialista em Java.
+Olá! Me chamo Igor, tenho 26 anos e sou apaixonado por tecnologia, estou em transição de carreira, cursando analise e desenvolvimento de sistemas e me aprofundando em desenvolvimento na linguagem Java através de cursos e bootcamps, atualmente minhas habilidades são de nível básico porem me esforço ao máximo e estou sempre em busca de aprender cada vez mais. Tenho como objetivo me tornar um desenvolvedor back-end e um especialista em Java.
 
 ### Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230000FF)](https://www.linkedin.com/in/igor-francisco-da-silva-115175218/)
