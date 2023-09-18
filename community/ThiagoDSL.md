@@ -1,7 +1,7 @@
 # Thiago Lacerda
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/thiago-lacerda-288763187/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/thiago_danilo/) [![Instagram](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/ThiagoDSL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/thiago-lacerda-288763187/) [![Instagram](https://img.shields.io/badge/Instagram-001?style=for-the-badge&logo=instagram)](https://www.instagram.com/thiago_danilo/) [![Instagram](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/ThiagoDSL)
 
 ## Habilidades
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c) ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C) ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
