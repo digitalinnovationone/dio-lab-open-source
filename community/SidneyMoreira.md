@@ -3,25 +3,26 @@
 </div>
 
 
+
 <div align="center">
 Ainda estou trabalhando no meu perfil. <br>
 Sinta-se à vontade para enviar sujestões e ajudar-me a deixar com um layout legal.  <br>
 Me pergunte qualquer coisa <a href="https://github.com/SidneyMoreira/SidneyMoreira/issues/new"><b>Aqui</b></a><br>
 ou <a href="mailto:sidmoreira.hp@gmail.com"><b>email</b></a> me.
 <i>Happy Coding!</i> 😊
-
 </div>
 
 ### Habilidades
 
 ![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)![Robotframework](https://img.shields.io/badge/Robotframework-000?style=for-the-badge&logo=robotframework)![Selenium Webdriver](https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=selenium)![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)![GitHub](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github)![Github Actions](https://img.shields.io/badge/Githubactions-000?style=for-the-badge&logo=githubactions)![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)![MacOs](https://img.shields.io/badge/Macos-000?style=for-the-badge&logo=macos)![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)![Widows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows)![Oracle PL/SQL](https://img.shields.io/badge/Oracle-000?style=for-the-badge&logo=oracle)
 
-
 <div align="center">
   <h2>
     Estátisticas 
   </h2>
-[![Sidney Moreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=SidneyMoreira&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&line_height=20&layout=compact)](https://github.com/SidneyMoreira/github-readme-stats)
+
+![Sidney Moreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=SidneyMoreira&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&line_height=20&layout=compact)
+
 
 ## Linguages Mais Usadas
 
