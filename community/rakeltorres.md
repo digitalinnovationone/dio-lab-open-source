@@ -11,15 +11,18 @@ Iniciante na programação e apaixonada por tecnologia. Ao trabalhar com a área
 ## 💻 Minhas habilidades e estudos:
 
 | Linguagem | status |
+|--- |--- |
 | ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=HTML5) | ✅ |
 | ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=CSS3) | ✅ |
 |![Javascript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript) | Aprendendo |
 
 | Bibliotecas e Frameworks | status |
+|--- |--- |
 | ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F) | Aprendendo |
 | ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) | Aprendendo |
 
 | Soft skill | status |
+|--- |--- |
 | Comunicativa| ✅ |
 | Inteligência emocional | ✅|
 
