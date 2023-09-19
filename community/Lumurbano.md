@@ -24,6 +24,6 @@ Formada em Letras, pós-graduada em Literatura e Crítica Literária e estudante
 
 ## Minhas contribuições
 
-dio-lab-open-source
+Projeto dio-lab-open-source
     
 
