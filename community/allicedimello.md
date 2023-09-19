@@ -40,7 +40,9 @@ Estudante de Sistemas de Informação na UNEB, em busca de conhecimento e oportu
 
 <p align="left">
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=allicedimello&layout=compact&bg_color=080808&border_color=666666&title_color=a0a0a0&&text_color=FFF)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allicedimello&theme=transparent&bg_color=080808&border_color=666666&show_icons=true&icon_color=b81414&title_color=a0a0a0&text_color=FFF)   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=allicedimello&theme=shadow-red&background=080808&border=666666&dates=FFF)](https://git.io/streak-stats)  
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=allicedimello&layout=compact&bg_color=080808&border_color=666666&title_color=acacac&&text_color=faebd7)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allicedimello&theme=transparent&bg_color=080808&border_color=666666&show_icons=true&icon_color=8a0303&title_color=acacac&text_color=faebd7)   
+[![GitHub Streak](https://streak-stats.demolab.com/?user=allicedimello&theme=shadow-red&background=080808&border=666666&dates=faebd7)](https://git.io/streak-stats)  
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=allicedimello.allicedimello&left_color=080808&right_color=8a0303)
 </p>
