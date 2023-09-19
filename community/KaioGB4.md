@@ -1,6 +1,6 @@
 
 # Kaio Baldo
-Hi, my name is Kaio and I'm a recent high school graduate. I am seeking knowledge and personal development in programming projects, especially learning front end.
+Hi, my name is Kaio and I'm a recent high school graduate. I am seeking knowledge and personal development in programming projects, especially learning front-end.
 
 ## Entre em contato comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=4F0199)](linkedin.com/in/kaio-grativol-baldo-071a74150/)
