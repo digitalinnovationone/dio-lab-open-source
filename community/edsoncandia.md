@@ -4,9 +4,9 @@
 
 ## "_Olá_ !  Meu apelido e ~~Ramon~~, trabalhei por 27 anos em uma Estatal elétrica.
 
-## Tenho uma linda`<sup>` familia`</sup>`,minha base para meus propositos de vida e prospecção.`<kbd>`
+## Tenho uma linda familia,minha base para meus propositos de vida e prospecção.
 
-## Sempre acompanhei  de longe **`<mark>`_tecnologias_`<mark>`** e atualmente estou tendo a maior oportunidade de aprender e poder compartilhar trocando conhecimentos."
+## Sempre acompanhei  de longe **_tecnologias_** e atualmente estou tendo a maior oportunidade de aprender e poder compartilhar trocando conhecimentos."
 
 ## [🔗](https://www.elinkedin%20edson_candia&)  CONECTE-SE COMIGO
 
@@ -25,4 +25,4 @@
 
 [^1]: FRONT-END
     
-[^2]: BACK-END![edsoncandia](/assets/edsoncandia.md)![edsoncandia](File type invalid (1))
+[^2]: BACK-END 
