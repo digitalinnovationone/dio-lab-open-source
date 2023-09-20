@@ -3,6 +3,7 @@ Desenvolvedor .NET em formação. Sou formado em farmácia pela Universidade Fed
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/george-nascimento-321b50248/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](geo.nascimento.job@gmail.com)
+
 ## Habilidades
 ### Hard skills
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
