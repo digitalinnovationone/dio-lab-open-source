@@ -7,7 +7,7 @@ Sou iniciante na área de programação. Atuo no setor industrial há oito anos,
 Estou buscando me especializar em ciência de dados e aliar minha experiência profissional com conhecimento de programação para integração de equipamentos e fornecimento de base de dados e informação para tomadas de decisões estratégicas nas organizações.
 
 ## Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/fernandolsilva97/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=Linkedin&logoColor=0E76A8)](www.linkedin.com/in/fernandolsilva97)
 
 
 ## Habilidades
