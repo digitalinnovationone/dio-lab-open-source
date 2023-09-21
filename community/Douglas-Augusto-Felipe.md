@@ -9,6 +9,8 @@
 <a href="https://github.com/Douglas-Augusto-Felipe">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Douglas-Augusto-Felipe&show_icons=true&theme=tokyonight"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Augusto-Felipe&layout=compact&theme=tokyonight"/> 
+</a>
+</div>
  
  ### -  Habilidades
 <div style="display: inline_block"><br>
