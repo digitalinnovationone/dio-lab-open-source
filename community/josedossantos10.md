@@ -1,6 +1,6 @@
 # José Antônio 
 
-Olá, Seja bem-vindo ao meu perfil. Eu me chamo José Antônio, sou bacharel em Sistemas de Informação (UFRPE-UAST) e tenho Especialização Inteligência Artificial (UPE). Ao longo dos anos, venhos adquirindo cada vez mais habilidades, atuando em projetos de desenvolvimento e pesquisa nas áreas de Engenharia da Dados, Processamento de Linguagem Natural, Aprendizado de Máquina, Data Warehouse e Banco de Dados.
+Olá, Seja bem-vindo ao meu perfil. Eu me chamo José Antônio, sou bacharel em Sistemas de Informação (UFRPE-UAST) e tenho Especialização Inteligência Artificial (UPE). Ao longo dos anos, venho adquirindo cada vez mais habilidades, atuando em projetos de desenvolvimento e pesquisa nas áreas de Engenharia da Dados, Processamento de Linguagem Natural, Aprendizado de Máquina, Data Warehouse e Banco de Dados.
 
 <p align="center">
     <img src="https://img.shields.io/badge/-000?logo=startrek" width=40>
