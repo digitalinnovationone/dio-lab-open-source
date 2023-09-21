@@ -7,5 +7,5 @@ Low-code com OutSystem
 Nuvem AWS
 
 Entre em contado comigo!
-[Linkedin]{https://www.linkedin.com/in/ssantos-ana/}
+Linkedin: https://www.linkedin.com/in/ssantos-ana/
 E-mail: Beatriz0103@gmail.com
