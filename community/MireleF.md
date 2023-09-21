@@ -1,5 +1,7 @@
 
+
 # Mirele Freire
+
 
 
 
@@ -15,4 +17,9 @@ Sou estudante de administração na Universidade PUC-Rio e atualmente não traba
 
 
 ##  Habilidades
-[![SQL](https://img.shields.io/badge/sql-0a6789?style=for-the-badge&logo=SQL&logoColor=white)](https://www.mysql.com/) [![GIT](https://img.shields.io/badge/GIT-f1951a?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![github](https://img.shields.io/badge/github-3d2599?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![SQL](https://img.shields.io/badge/sql-0a6789?style=for-the-badge&logo=mySQL&logoColor=white)](https://www.mysql.com/) [![GIT](https://img.shields.io/badge/GIT-f1951a?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![github](https://img.shields.io/badge/github-3d2599?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MireleF&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&hide_title=true&hide=stars_color=E94D5F&text_color=FFF)
