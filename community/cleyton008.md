@@ -26,4 +26,4 @@ Sou graduado em Tecnologia da Informação pela Universidade Estadual de Goiás.
 
 # Minhas Contribuições
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Cleyton008&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cleyton008/carrinho-compras-java)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Cleyton008&repo=carrinho-compras-java&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cleyton008/carrinho-compras-java)
