@@ -1,4 +1,4 @@
-#Juliane Vaz
+## Juliane Vaz
 
 Olá, sou técnica em Processamento de dados e em Dezembro/2022 eu concluí o curso de Análise e Desenvolvimento de Sistemas.
 
@@ -21,12 +21,11 @@ Estou buscando uma transição de carreira para a área de tecnologia da informa
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 	  
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
+
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JullyVaz&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Minhas contribuições
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JullyVaz&repo=Bio_If&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JullyVaz/Bio_IF)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JullyVaz&repo=dio-lab-open-source-fork&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JullyVaz/dio-lab-open-source-fork)
