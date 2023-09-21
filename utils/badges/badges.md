@@ -186,6 +186,15 @@
         <code>![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)</code>
       </td>
     </tr>
+    <tr>
+      <td>
+        <img align="center" alt="PL" <img alt="Static Badge" src="https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000">
+      </td>
+      <td>
+        <code>![PL]("https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000")>
+        </code>
+      </td>
+    </tr>    
   </tbody>
   <tfoot></tfoot>
 </table>
