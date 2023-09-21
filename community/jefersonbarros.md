@@ -1,4 +1,4 @@
-# Jeferson Barros
+# Jeferson Barros 
 
 Olá, me chamo Jeferson e estou no início de uma nova trajetória. Atualmente em processo de transição de carreira, sou estudante de Sistemas de Informação no primeiro semestre da faculdade Descomplica UniAmérica. Sempre amei ciência e o mundo da tecnologia. Estou curtindo cada momento.
 
