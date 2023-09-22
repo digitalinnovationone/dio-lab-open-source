@@ -29,8 +29,6 @@ no BTI (Bacharelado em Tecnologia da Informação) no IMD/UFRN, com foco em dese
 
 
 </p>
-
-  
   
   
 
