@@ -51,3 +51,15 @@ If you want to config your scope of work use the tags below.
   - `$ git commit -a -m "your message here"`
 - Change the message to commit
   - `$git commit -amend "new message here"`
+
+### View logs in command line
+- Simple log
+  - `$ git log`
+- Log in one line
+  - `$ git log --oneline`
+- Show commits that not be in actual branch
+  - `$ git log --oneline --all`
+- Decoreted logs (with colors)
+  - `$ git log --oneline --all --decorate`
+- Decoreted logs (with graph)
+  - `$ git log --oneline --all --decorate --graph`
