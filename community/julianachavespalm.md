@@ -22,12 +22,6 @@ Proficiência em metodologia ágil (Scrum), Azure DevOps (APIs, casos de teste, 
 ### [Ampli] - [2022] - [2024]
 #### Tecnólogo: Análise e desenvolvimento de sistema
 
-## Habilidades
-- Lista de suas habilidades relevantes, como linguagens de programação, software, ferramentas, idiomas, etc.
-
-## Certificações
-- Lista de quaisquer certificações relevantes que você possui.
-
 ## Idiomas
 - Inglês fluente
 
