@@ -22,4 +22,4 @@ Atuo com diversas linguagens em migrações de sistemas legado para novas arquit
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edsonmomm&theme=dracula&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-[![Edson Momm's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=edsonmomm&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,javascript&theme=dracula&show_icons=true)](https://github.com/edsonmomm)
+[![Edson Momm's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=edsonmomm&stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,javascript&theme=dracula&show_icons=true)](https://github.com/edsonmomm)
