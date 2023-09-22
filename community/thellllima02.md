@@ -11,6 +11,8 @@ No meu tempo livre, gosto de pedalar, viajar de uma cidade a outra a borda da �
 
 Em resumo, sou uma pessoa comunicativa, curiosa e interessada pelo conhecimento. Espero fazer a diferença onde estiver, dar meu melhor.
 
+Abraço.
+
 ## Você pode me encontrar no links abaixo
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theel.santos/)
