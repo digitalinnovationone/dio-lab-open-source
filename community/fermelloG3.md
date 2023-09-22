@@ -35,4 +35,3 @@
 <div align="center">
   <p>Fique à vontade para explorar meus repositórios e projetos no GitHub. Estou sempre aberto a colaborações e novas oportunidades de aprendizado. Vamos codificar juntos! 🚀</p>
 </div>
-
