@@ -3,7 +3,7 @@
 
 
 ### 🚀 Sobre mim
-Moro no Rio de Janeiro e atualmente sou Designer Digital e Web Designer. Larguei a área de humanas - História - para me dedicar à uma antigão paixão: a tecnologia. Há 5 anos faço designs para sites, redes sociais, pequens negócios e projetos educacionais. Estou estudando programação e meu foco é Desenvolvimento Mobile IOS, mais precisamente a linguagem Swift.
+Moro no Rio de Janeiro e atualmente sou Designer Digital e Web Designer. Larguei a área de humanas - História - para me dedicar à uma antiga paixão: a tecnologia. Há 5 anos faço designs para sites, redes sociais, pequenos negócios e projetos educacionais. Estou estudando programação e meu foco é Desenvolvimento Mobile IOS, mais precisamente a linguagem Swift.
 
 <h3 align="left">Contato</h3>
 <p align="left">
