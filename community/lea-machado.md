@@ -1,5 +1,7 @@
 # Letícia Machado
-Olá, comecei a estudar programação recentemente e atualmente estou focando em aprender um pouco mais sobre Python.
+Olá, boas vindas ao meu perfil!
+Eu iniciei meus estudos de programação recentemente e atualmente curso Engenharia de Software e estou no segundo semestre.
+Tenho conhecimento na linguagem Python e atualmente estou no início do aprendizado de Kotlin.
 
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/let%C3%ADcia-machado-1576b7211/)
