@@ -2,7 +2,7 @@
 
 
 ## Sobre Mim
-Estou fazendo faculdade de análise e desenvolvimento de sistemas. Buscando uma oportunidade na área de programação.
+Estou fazendo faculdade de análise e desenvolvimento de sistemas. Buscando uma oportunidade na área de programação. 😉😉
 
 ## Rede Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/pedro-henrique-23418b213/)
