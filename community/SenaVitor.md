@@ -21,5 +21,5 @@
 
 <p align="left">
  <img alt="My GitHub Stats - Vitor Lucas" src="https://github-readme-stats.vercel.app/api?username=SenaVitor&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="190"> 
- <img alt="My Most Used Programming Languages - Andrew Monteiro" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenaVitor&layout=compact&hide_border=true&langs_count=8&theme=tokyonight">
+ <img alt="My Most Used Programming Languages - Vitor Lucas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenaVitor&layout=compact&hide_border=true&langs_count=8&theme=tokyonight">
 </p>
