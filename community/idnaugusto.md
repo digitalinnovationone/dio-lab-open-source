@@ -2,6 +2,9 @@
 
 Olá, me chamo Nicolas, tenho 24 anos e atualmente sou estudante de Análise e Desenolvimento de Sistemas. Estou no último período do curso (2/2).
 
+# Meu perfil
+[![GitHub](htpps://img.shields.io.badge/GitHub-ec63a1?style=for-the-badge&logo=github&logoColor=fff)](htpps://github.com/idnaugusto)
+
 ## 🧠 Conecte-se comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/nicolas-augustoo/) 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://web.dio.me/users/nicolas_augusto1999?tab=skills)
