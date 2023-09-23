@@ -1,6 +1,6 @@
 # Andrade André Marques
 
-Front-end Developer from Nova Lima-MG, Brazil, graduating at Software Engineering. My first "Hello World" was in 2021 when I had contact with HTML, CSS and a little bit of JavaScript and Notepad++.
+Front-end Developer from Belo Horizonte-MG, Brazil, graduating at Software Engineering. My first "Hello World" was in 2021 when I had contact with HTML, CSS and a little bit of JavaScript and Notepad++.
 Passionate about arts and technology, some of my hobbies are games, watching and reading..
 
 ## Connect with me
