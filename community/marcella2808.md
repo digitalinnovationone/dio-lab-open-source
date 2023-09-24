@@ -17,4 +17,4 @@ Desde pequena, sempre quis ter várias profissões, mas nenhuma delas tinha rela
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-126BC4?style=for-the-badge&logo=linkedin&logoColor=0E76A8%logoColor=white)](https://www.linkedin.com/in/marcella-carneiro-b8428b26b/)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcellacarneiro&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ABEADF&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcella2808&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ABEADF&text_color=FFF)
