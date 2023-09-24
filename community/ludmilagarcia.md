@@ -40,8 +40,6 @@
 - 👯 Estou procurando colaborar em projetos que eu possa praticar as tecnologias que estou aprendendo.
 - Tenho um perfil no Instagram onde compartilho dicas do Mundo da Programação, o perfil é o @mundo.daprogramacao.
 
----
-
 ## Conecte-se comigo
 
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.linkedin.com/in/ludmilagarciaofc/)
