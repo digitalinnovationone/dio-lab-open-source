@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Form</title>
+</head>
+<body>
+   <form action="" method="post" enctype="multipart/form-data">
+       <fieldset>
+           <legend>Formulario</legend>
+       <label for="info">Informática</label>
+       <input type="checkbox" name="curso[]"  id="info" value="info"> </br>
+       <label for="meca">Mecatrônica</label>
+       <input type="checkbox" nome="curso[]" id="meca" value="meca"> </br>
+       <input type="color" name="cor"> </br>
+       <input type="date" name="data"> </br>
+       <input type="datetime-local" name="datahora"> </br>
+       <input type="email" name="email"> </br>
+       <input type="file" name="documento"> </br>
+       <input type="hidden" name="escondido"> </br>
+       <input type="month" name="mes"> </br>
+       <input type="number" name="numero"> </br>
+       <input type="password" name="senha"> </br>
+       <label for="um"> 1 ano</label>
+       <input type="radio" name="ano" id="um" value="1"> </br>
+       <label for="dois"> 2 ano</label>
+       <input type="radio" name="ano" id="dois" value="2"> </br>
+       <label for="tres"> 3 ano</label>
+       <input type="radio" name="ano" id="tres" value="3"> </br>
+       <input type="range" name="lista"> </br>
+       <input type="search" name="buscar"> </br>
+       <input type="tel" name="telefone"> </br>
+       <input type="text" name="nome" placeholder="João"> </br>
+       <input type="time" name="hora"> </br>
+       <input type="url" name="site"> </br>
+       <input type="week" name="semana"> </br>
+       <label for="sem">Semestre</label>
+       <select name="semestre" id="sem" required>
+           <option></option>
+           <option value="1">1º Semestre</option>
+           <option value="2">2º Semestre</option>
+           <option value="3">3º Semestre</option>
+           <option value="4">4º Semestre</option>
+       </select>
+
+
+   <button type="submit">Enviar</button>
+   <button type="reset">Limpar</button>
+</fieldset>
+   </form>
+</body>
+</html>
