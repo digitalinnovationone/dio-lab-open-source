@@ -4,7 +4,7 @@ Descrição da alteração que está sendo proposta.
 
 **Tipo de alteração**
 
-- [X] Resolução do Desafio Profile README
+- [ ] Resolução do Desafio Profile README
 - [ ] Correção de bug
 - [ ] Nova funcionalidade
 - [ ] Alteração na documentação
@@ -12,9 +12,9 @@ Descrição da alteração que está sendo proposta.
 
 **Checklist**
 
-- [X] Minhas alterações não deletam partes do projeto
-- [X] Minhas alterações não introduzem novos problemas
-- [X] Minha contribuição está de acordo com o [Guia de Contribuição](https://github.com/elidianaandrade/dio-lab-open-source/blob/main/CONTRIBUTING.md)
+- [ ] Minhas alterações não deletam partes do projeto
+- [ ] Minhas alterações não introduzem novos problemas
+- [ ] Minha contribuição está de acordo com o [Guia de Contribuição](https://github.com/elidianaandrade/dio-lab-open-source/blob/main/CONTRIBUTING.md)
 
 **Comentários adicionais**
 
