@@ -22,6 +22,7 @@ Com o ápice da pandemia quis mostrar ao mundo a importância da tecnologia nas 
 + Ver séries e filmes
 + Ir restaurantes ou cafés diferentes
 + Caminhar
++ Escrever
 
 
 # Conecte-se comigo
