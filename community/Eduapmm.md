@@ -1,5 +1,4 @@
 ## Título perfil
-
 # Eduardo Mattos
 Após um longo período, e muitas experiências adquiridas na área de Contábil e Administração, busco me inserir, e aprender ainda mais na área da Tecnologia da Informação, realizando essa transição de carreia afim de me aprimorarainda mais, não só profissionalmente, como pessoalmente. Para isso faço a faculdade de Análise e Desenvolvimento de Sistemas na faculdade FMU e varios cursos em paralelo para acelerar meu aprendizado.
 
