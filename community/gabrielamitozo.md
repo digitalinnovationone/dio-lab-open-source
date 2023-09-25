@@ -1,4 +1,4 @@
-## Bela Mittozo
+## Gabriela Mitozo
 
 Olá, me chamo **Gabriela Mitozo**, e meu nome artístico é **Bela Mittozo**. Sou **bacharela em Música com habilitação em piano e pós graduada em Musicoterapia**. 
 Sempre amei e tive facilidade com tecnologia e percebi com o tempo que até mesmo na música eu utilizava ferramentas tecnológicas. Meu TCC na pós graduação falava justamente da utilizações de tecnologia na Musicoterapia. 
