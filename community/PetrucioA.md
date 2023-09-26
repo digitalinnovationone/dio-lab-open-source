@@ -2,7 +2,7 @@
 
 Olá, eu sou o Petrucio Alberto, um estudante de Análise e Desenvolvimento de Sistemas apaixonado por testes e automação. Atualmente, estou focado em desenvolver minhas habilidades na área de testes de software.
 
-## Características
+## Características.
 
 
 - **Apaixonado por Testes**: Garantir a qualidade do software por meio de testes.
@@ -10,7 +10,7 @@ Olá, eu sou o Petrucio Alberto, um estudante de Análise e Desenvolvimento de S
 - **Habilidades em Automação**: Possuo habilidades em automação de testes, especialmente em automação web, utilizando frameworks como Selenium e Cucumber.
 
 
-## Experiência Profissional
+## Experiência Profissional.
 
 No momento, estou em fase de aprendizado e criação de projetos pessoais relacionados à área de testes e automação de testes. Estou participando de bootcamps e cursos online para aprimorar minhas habilidades
 
