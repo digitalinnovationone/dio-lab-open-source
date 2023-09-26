@@ -1,5 +1,8 @@
 # Silvio Pinheiro da Costa Filho
+Hello World!
 
+Eu sou o Silvio, um apaixonado estudante de Desenvolvimento Web com conhecimento em tecnologias como HTML 5, CSS 3, JavaScript e Angular! 🚀💻
+Ansioso para aprender mais e criar soluções inovadoras. Adoro resolver problemas e estou sempre à procura de novos desafios na área de tecnologia da informação!
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/silviofilho98/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/silvio_pinheiro98/)
 ## Habilidades
