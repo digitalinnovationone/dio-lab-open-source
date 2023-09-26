@@ -3,6 +3,8 @@
 ![Alt text](1032270766spider-animated-gif-3-2.gif) 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=FIRA+CODE&weight=900&size=40&pause=1000&color=3D2B88&background=AC0A0A00&center=verdadeiro&vCenter=verdadeiro&multiline=true&repeat=verdadeiro&width=600&lines=HI!+I%C2%B4m+Lucas+Abranches!)](https://git.io/typing-svg)
 
+
+
 <div align=center>
 
 ## **Connect with me**
