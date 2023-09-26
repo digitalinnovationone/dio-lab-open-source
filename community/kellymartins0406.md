@@ -25,7 +25,7 @@ Notion, Git e GitHub
 ## Aprendizados
 
 
-Estudar programação e desenvolver projetos, tem feito com que eu desenvolva pensamento analitico, pois os projetos são uma construção que demanda estrutura básica bem desenhada para poder evoluir. 
+Estudar programação e desenvolver projetos, tem feito com que eu desenvolva pensamento analitico, pois os projetos são uma construção que demanda estrutura básica bem desenhada para poder evoluir! 
 
 
 ## Meus artigos
