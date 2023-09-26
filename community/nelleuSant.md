@@ -1,5 +1,6 @@
 # Suellen Santiago
-👋Olá! Sou estudante de administração e ciência de dados, e também apaixonada pelas animações do Studio Ghibli.
+### 👋Olá! </br>
+Sou estudante de administração e ciência de dados, e também apaixonada pelas animações do Studio Ghibli.
 
 <img align="right" height="300px" src=https://media.giphy.com/media/9dGIYGEDr8k4lJh7ge/giphy.gif align="center">
 
