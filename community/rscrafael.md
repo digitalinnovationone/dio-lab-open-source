@@ -1,7 +1,7 @@
 
 ## Resumo 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas em busca de aperfeiçoamento e conhecimento constante.
+Estudante de Análise e Desenvolvimento de Sistemas 4ºS período em busca de aperfeiçoamento e conhecimento constante.
 
 ## Linguagens de programação
 
