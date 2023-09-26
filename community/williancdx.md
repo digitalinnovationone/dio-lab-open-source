@@ -2,7 +2,7 @@
 
 ## Seja bem vindo ao meu perfil
 
-#### Me chamo Willian Silva sou Bacharel em Ciências Contábeis, Engeheiro de Software, e Pós-Graduando em MBA Gestão da Tecnologia da Informação para Corporação
+#### Me chamo Willian Silva sou Bacharel em Ciências Contábeis, Engenheiro de Software.
 
 #### Faço parte da comunidade DIO - Digital Innovation One, e venho me desenvolvendo muito com os curso e bootcamps que a plataforma oferece
 
