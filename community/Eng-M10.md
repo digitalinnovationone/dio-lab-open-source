@@ -1,6 +1,6 @@
 ![Foto_de_Perfil](https://scontent.fmpm1-1.fna.fbcdn.net/v/t39.30808-1/375179532_836446438106182_6758472377328600052_n.jpg?stp=dst-jpg_p160x160&_nc_cat=108&ccb=1-7&_nc_sid=6e0f69&_nc_eui2=AeE8VJfkEpu1N7Evloi0o5RFOyz7qcoy7607LPupyjLvrX0m1Tze3zeZjgPFK_HQso54iwgA4Lt9kOp6s20dia2T&_nc_ohc=ML9p3pPUOm0AX-rH32i&_nc_pt=5&_nc_ht=scontent.fmpm1-1.fna&oh=00_AfAO4q1JtSQvKpW_YXbZAaRTIVLdcXnS5yb5OrzEUbGcyQ&oe=6517C9BB) 
 
-# __Muvimbene_Daniel_Maposse__ (Eng-M10)
+# __Muvimbene_Daniel_Maposse__ (~*Eng-M10*~)
 
 Meu nome é Muvimbene Daniel Maposse, sou estudante de Licenciatura em Informática com Habilitações em Engenharia de Desenvolvimento de Sistemas na Universidade Pedagógica de Maputo em Moçambique, a tempo integral.
 Amo tecnologia e minha maior motivação é necessariamente o impacto que as tecnologias  tem na vida das pessoas.
