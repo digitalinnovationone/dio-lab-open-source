@@ -43,7 +43,6 @@ Além das habilidades técnicas, minhas habilidades interpessoais também são e
 - **Trabalho em Equipe**: Trabalho bem em equipes colaborativas e contribuo para um ambiente positivo.
 - **Resolução de Problemas**: Sou habilidoso em identificar e resolver desafios técnicos e organizacionais.
 - **Adaptabilidade**: Posso me adaptar a novas tecnologias e cenários rapidamente.
-- **Liderança**: Posso liderar projetos e equipes quando necessário.
 
 Essas habilidades interpessoais complementam minhas habilidades técnicas, tornando-me um profissional completo e eficaz.
 
