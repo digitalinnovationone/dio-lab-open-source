@@ -6,7 +6,7 @@
 ---
 
 # Marcio Rogerio de Sá
-Em trensição de carreira
+Em transição de carreira
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/marcio_r_sa/)
