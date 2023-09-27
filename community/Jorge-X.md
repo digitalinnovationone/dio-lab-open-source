@@ -10,9 +10,8 @@
   <a href="https://github.com/Jurredr/github-widgetbox">
      <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Jorge-X&data=followers,repositories,stars,commits&theme=aether" alt="GitHub WirdgetBox" />     
   </a>
-  <a href="https://github.com/vitorkol/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jorge-x's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jorge-X&theme=monokai-metallian&hide_border=true"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jorge-X&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-X&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 <p align="center">
