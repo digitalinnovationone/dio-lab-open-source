@@ -19,8 +19,3 @@ Sou estudante de Engenharia de Software interessado em ser desenvolvedor Full St
 
 ## Github Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guichardx2&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-## Minhas contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Guichardx2&repo=MarketSystem&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Guichardx2/MarketSystem)
-
-
