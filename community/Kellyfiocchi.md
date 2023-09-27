@@ -1,4 +1,4 @@
-## Olá, eu sou a Kelly Fiochi
+## Oi oi, eu sou a Kelly Fiochi
 👩🏻‍💻4° Semestre em Gestão de Tecnologia da Informação.
 
 ✅Teste de Software (EBAC).
