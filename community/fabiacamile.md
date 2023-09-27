@@ -1,8 +1,8 @@
 # Fabia Camile
-Sou uma entusiasta de Data Science com formação em Ciências Biomédicas, focado em aplicar técnicas de Machine Learning para solucionar problemas na área da saúde. 
+Sou uma entusiasta de Data Science com formação em Ciências Biomédicas, focada em aplicar técnicas de Machine Learning para solucionar problemas na área da saúde. 
 
 - 🌱 Atualmente estou aprendendo Python, Pandas, Numpy e outras bibliotecas essenciais para análise de dados e Machine Learning.
-- 👯 Estou aberto a colaborações e a aprender com outros profissionais e entusiastas em Data Science.
+- 👯 Estou aberto a colaborações e a aprender com outros profissionais de Tecnologia.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/fabiacamile) 
