@@ -11,7 +11,6 @@ Administradora migrando para ciência de dados. Cada dia uma lágrima e muito ap
 
 ### Habilidades
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=30A3DC)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=SQL&logoColor=E94D5F)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
