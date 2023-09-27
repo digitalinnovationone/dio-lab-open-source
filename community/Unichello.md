@@ -2,7 +2,7 @@
 ---
 
 # Pedro Barichello
-Estudante da UFRN, cursando Bacharelado em Tecnologia da Informação. 
+Cursando Bacharelado em Tecnologia da Informação na UFRN. 
 
 ### Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/pedrobarichello/)
