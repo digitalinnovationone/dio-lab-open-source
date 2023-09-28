@@ -1,20 +1,15 @@
 ---
-name: Feature request
-about: Sugira uma ideia para este repositório
-title: "[SUGESTÃO]"
+name: Comunnity Challange
+about: create a Issue about the community challenge
+title: "[DESAFIO]"
 labels: enhancement
 assignees: ''
 
 ---
 
-**Sua sugestão está relacionada a um problema? Por favor descreva.**
-Uma descrição clara e concisa de qual é o problema.
+**Tem alguma sugestão para quem for fazer o Desafio? Por favor descreva. Uma descrição do que pode ser feito.**
+siga as instruções caso não entenda.
 
-**Descreva a solução que você gostaria**
-Uma descrição clara e concisa do que você quer que aconteça.
-
-**Descreva as alternativas que você considerou**
-Uma descrição clara e concisa de quaisquer soluções ou recursos alternativos que você considerou.
-
-**Contexto adicional**
-Adicione qualquer outro contexto ou captura de tela sobre a solicitação de recurso aqui.
+**Descreva como você realizou o seu Uma descrição sobre como você fez o seu.**
+Idealizei algo que gostaria de adicionar a contribuição e escrevi com minhas palavras.
+Links úteis
