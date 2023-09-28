@@ -1,5 +1,5 @@
 # Introdução
-Olá, me chamo Wanderson, tenho 20 anos, sou do Rio de Janeiro-RJ, atualmente cursando Análise e Desenvolvimento de Sistemas.
+Olá, me chamo Wanderson, tenho 20 anos, sou do Rio de Janeiro/RJ, atualmente cursando Análise e Desenvolvimento de Sistemas.
 
 # Conecte-se comigo
 
