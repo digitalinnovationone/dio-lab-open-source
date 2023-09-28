@@ -1,5 +1,5 @@
 # Rafael Novais 
-![Alt text](image-1.png)
+![oimeuchapa](https://gartic.com.br/imgs/mural/re/realez4/oi-meu-chapa.png)
 
 ## Sobre mim
 *Olá, colegas programadores e entusiastas Devs!* 
