@@ -4,7 +4,7 @@ Sou um profissional em transição de carreira. Formado em filosofia e teologia,
 
 Além disso, estudo por conta a linguagem que domínio melhor é python, meu ponto focal, para desenvolvimento web, e, atualmente, para inteligência artificial. O que não me impede de dizer que possuo bons conhecimentos em outras linguagens como JavaScript e C.
 
-### Conecte-se comigo
+### Contatos
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://dio.me/users/renan_gomes5)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:renanmcg18@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/renan-manieri-cardoso-gomes-6982bb230/)
@@ -28,11 +28,11 @@ Além disso, estudo por conta a linguagem que domínio melhor é python, meu pon
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Renanmcg&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Renanmcg&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-### Meus Principais Desafios de Projeto DIO
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+### Desafios de Projeto DIO
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Renanmcg&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Renanmcg/dio-lab-open-source)
 
 
-### Meus Principais Artigos na DIO
+### Artigos na DIO
 <table>
   <thead>
     <tr align="left">
