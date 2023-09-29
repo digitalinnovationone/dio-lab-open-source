@@ -29,8 +29,9 @@ Sou desenvolvendor Full Stack, voltado para o back-end, estou cursando Ciências
 
 ## Featured projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renato-Chaves&repo=Sbeam&theme=radical)](https://github.com/Renato-Chaves/Sbeam)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renato-Chaves&repo=ReCalculator&theme=radical)](https://github.com/Renato-Chaves/ReCalculator)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renato-Chaves&repo=MiniAES&theme=radical)](https://github.com/Renato-Chaves/ReCalculator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renato-Chaves&repo=DIO-Pokedex&theme=radical)](https://github.com/Renato-Chaves/DIO-Pokedex)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renato-Chaves&repo=MiniAES&theme=radical)](https://github.com/Renato-Chaves/MiniAES)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=106099)
