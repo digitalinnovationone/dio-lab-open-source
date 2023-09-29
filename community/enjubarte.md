@@ -1,6 +1,6 @@
 # Douglas C. Santos
 Olá, sou Douglas da Costa Santos, faço Sistemas da Informação no Instituto Federal de Sergipe.
-Busco na DIO uma forma de ampliar meu horizonte de conhecimento.
+Busco na DIO uma forma de ampliar meu horizonte de conhecimento
 
 ## Conecte-se Comigo!
 [![Github](https://img.shields.io/badge/Github-357?style=for-the-badge&logo=Github&logoColor=fffff)](https://www.github.com/enjubarte)
