@@ -42,6 +42,6 @@ Olá! Sou um entusiasta da tecnologia com experiência em várias áreas, inclui
 ## Contato
 
 - GitHub: [Sanremy](https://github.com/Sanremy)
-- LinkedIn: [Rodrigo Cavalcante](https://www.linkedin.com/in/rodrigo-cavalcante-00898122a/)
+- ([![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/SEUUSERNAME/))
 
 Se você tem alguma oportunidade interessante ou projeto em mente, não hesite em entrar em contato comigo. Estou sempre aberto a novas colaborações e desafios emocionantes!
