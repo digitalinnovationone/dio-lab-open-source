@@ -16,7 +16,7 @@
 
 
 </div>
-<br>
+<div style="display: inline_block"><br>
 <h2>Minhas Linguagens de Marcação e Estilos</h2>
 
 <img align="center" alt="Ryan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -27,7 +27,7 @@
 <img align="center" alt="Ryan-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" alt="Ryan-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
 <img align="center" alt="Ryan-javacript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-
+</div>
 
 
 
