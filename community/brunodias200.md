@@ -5,6 +5,13 @@
   <p>I'm graduated in the Analysis and Systems Development course from "FATEC Arthur de Azevedo" course in 2017
   </p>
   <p>Nowadays I have experience mainly in Java, Kotlin, PHP, Python and JavaScript</p>
+  <p>My next steps include:</p>
+  <ul>
+    <li>Learn C#</li>
+    <li>Improve my Java skills</li>
+    <li>Improve my VueJS Skills</li>
+    <li>Get better using ORMs like Eloquent and Hibernate to connect to databases</li>
+  </ul>
 </div>
 Frameworks: <br>
 <ul>
@@ -55,6 +62,20 @@ Frameworks: <br>
       <li>
         Spring
       </li>
+    </ul>
+  </li>
+</ul>
+
+Other Skills: <br>
+<ul>
+  <li>Databases:
+    <ul>
+      <li>MySQL</li>
+      <li>Postgres</li>
+      <li>MongoDB</li>
+      <li>SQL Server</li>
+      <li>Oracle DB</li>
+      <li>SQLite</li>
     </ul>
   </li>
 </ul>
