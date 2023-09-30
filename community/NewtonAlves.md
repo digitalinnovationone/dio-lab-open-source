@@ -1,6 +1,6 @@
 # Newton Alves
 
-Olá, sou Newton, 31 anos e iniciante em python, javascript, html5.
+Olá, sou Newton, 31 anos e iniciante em python, javascript.
 Meu estudo foi em dev de jogos na engine RPG Maker.
 Hoje trilho um caminho em desenvolver jogos em engine como Godot e Unity.
 
