@@ -47,7 +47,7 @@
 | `test`         | Adiciona ou modifica testes no projeto.                                                                   |
 
 ## 50 minutos de desafios Git e GitHub
-[Desafios para treino](https://www.youtube.com/watch?v=kB5e-gTAl_s)
+- [Desafios para treino](https://www.youtube.com/watch?v=kB5e-gTAl_s)
 
 ##### Exemplo commit
 
