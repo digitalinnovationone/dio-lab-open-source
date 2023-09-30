@@ -46,7 +46,7 @@
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.                                              |
 | `test`         | Adiciona ou modifica testes no projeto.                                                                   |
 
-##### 50 minutos de desafios Git e GitHub
+## 50 minutos de desafios Git e GitHub
 [Desafios para treino](https://www.youtube.com/watch?v=kB5e-gTAl_s)
 
 ##### Exemplo commit
