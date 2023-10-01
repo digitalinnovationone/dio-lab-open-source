@@ -3,7 +3,7 @@
 aproximadamente 15 anos</p>
 
 <h4>Conecte-se Comigo</h4>
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?logo=GitHub&logoColor=black&label=GitHub&color=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=flat&logo=GitHub&logoColor=white&label=GitHub&labelColor=black&color=blue&link=https%3A%2F%2Fgithub.com%2Falebona%2F">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/alexandrabona/)
 
 <h4>Habilidades</h4>
