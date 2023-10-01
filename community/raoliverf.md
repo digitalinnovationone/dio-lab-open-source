@@ -1,6 +1,6 @@
 # Raisa Figueiredo
 
-Olá, tenho 28 anos e desde 2022 estou nesse mundo da programação e aproveitando cada novo aprendizado. 
+Olá, tenho 28 anos e desde 2022 estou nesse mundo da programação e aproveitando cada novo aprendizado. Seja bem vindx!
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BA8BE5?style=for-the-badge&logo=linkedin&logoColor)](https://www.linkedin.com/in/raisa-figueiredo-9288048a/)
