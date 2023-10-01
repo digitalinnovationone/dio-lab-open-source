@@ -16,7 +16,7 @@ Nothing connects us more than stories. Here is mine.
 
 ## PORTFOLIO
 
-[![FLAGRARE TECH](https://img.shields.io/badge/-FLAGRARE%20TECH%20-000?style=for-the-badge)](flagrare.tech)
+[![FLAGRARE TECH](https://img.shields.io/badge/-FLAGRARE%20TECH%20-000?style=for-the-badge)](https://flagrare.tech)
 
 ## SOCIAL
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/flagrare/)
