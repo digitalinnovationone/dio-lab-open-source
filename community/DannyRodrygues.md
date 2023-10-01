@@ -1,4 +1,4 @@
-### Olaaa!! Me chamo Daniella Rodrigues, estudante de Programaçao, te convidso a acessar meu GitHub e conhecer um pouco mais sobre mim e meu projetos j[a realizados.
+### Olaaa!! Me chamo Daniella Rodrigues, estudante de Programaçao, te convido a acessar meu GitHub e conhecer um pouco mais sobre mim e meu projetos ja realizados.
 
 <!--
 **DannyRodrygues/DannyRodrygues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
