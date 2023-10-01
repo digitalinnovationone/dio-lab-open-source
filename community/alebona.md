@@ -4,7 +4,7 @@ aproximadamente 15 anos</p>
 
 <h4>Conecte-se Comigo</h4>
 [![Github](https://img.shields.io/badge/Github-357?style=for-the-badge&logo=Github&logoColor=fffff)](https://www.github.com/alebona)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-357?style=for-the-badge&logo=linkedin&logoColor=ffff)](https://www.linkedin.com/in/alexandrabona/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/alexandrabona/)
 
 <h4>Habilidades</h4>
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
