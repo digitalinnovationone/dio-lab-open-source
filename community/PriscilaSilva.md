@@ -16,5 +16,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erikalira&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=erikalira&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prisilvas&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prisilvas&layout=compact&theme=dark)
