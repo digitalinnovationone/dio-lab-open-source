@@ -6,7 +6,7 @@ Oi! Me chamo Eduarda Melo, tenho 23 anos e recentemente me formei em Processos G
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-31A3DC?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/eduardassmelo/)
 [![E-mail](https://img.shields.io/badge/-Email-31A3DC?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:eduardassmelo7@gmail.com)
 [<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">](https://www.dio.me/users/dudassmelo_2)
-[![GitHub](https://img.shields.io/badge/github-E94D5F.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.discord.com/in/SEUUSERNAME/)
+[![GitHub](https://img.shields.io/badge/github-E94D5F.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dudassmelo)
 
 ## GitHub Stats
 
