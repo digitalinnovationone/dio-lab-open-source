@@ -10,10 +10,10 @@
 
 ## Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/brenda-c-092707142/)
-[![GitHub](https://img.shields.io/badge/GitHub-FFF?style=for-the-badge&logo=github)](https://github.com/Brenda-Caroline)
-[![Discord](https://img.shields.io/badge/Discord-FFF?style=for-the-badge&logo=discord)](https://www.discord.com/in/brendacaroline./)
-[![Gmail](https://img.shields.io/badge/Gmail-FFF?style=for-the-badge&logo=gmail)](https://www.gmail.com/2014brendacs0@gmail.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/brenda-c-092707142/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Brenda-Caroline)
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/brendacaroline./)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](https://www.gmail.com/2014brendacs0@gmail.com/)
 
 
 ## Habilidades
