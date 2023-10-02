@@ -1,12 +1,10 @@
-
-
 # Olga Nunes 
 
 Olá! sou Olga, técnica em eletrotécnica, Tecnóloga em Automação, atualmente migrando para a área de desenvolvimento, tenho estudado Front-end e back-end. 
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/olgajdango)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/olga-nunes)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/olga-nunes)
 
 
 ### Habilidades em desenvolvimento
