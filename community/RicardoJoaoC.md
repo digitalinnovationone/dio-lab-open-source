@@ -1,11 +1,10 @@
 <h1>
-    <a href="https://www.dio.me/">
+    <a href="https://web.dio.me/users/ricardo_candiotto/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png">
- Ricardo Candiotto
+ Ricardo Candiotto's DIO Profile
 </a>
 
 ### Conecte-se comigo:
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/ricardo_candiotto/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-candiotto/) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/RicardoJoaoC)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/RicardoJoaoC)
@@ -29,3 +28,5 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RicardoJoaoC&repo=trilha-net-poo-desafio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RicardoJoaoC/trilha-net-poo-desafio)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RicardoJoaoC&repo=trilha-net-fundamentos-desafio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RicardoJoaoC/trilha-net-fundamentos-desafio)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RicardoJoaoC&repo=Gerador&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RicardoJoaoC/Gerador)
