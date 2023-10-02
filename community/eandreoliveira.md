@@ -9,7 +9,7 @@ Olá! Meu nome é Eduardo, sou formado em Química. Trabalhei como professor por
 
 ### Habilidades
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=kotlin)
+![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=kotlin)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
@@ -20,4 +20,4 @@ Olá! Meu nome é Eduardo, sou formado em Química. Trabalhei como professor por
 
 
 ### Meus Principais Projetos
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eandreoliveira&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/eandreoliveira/imc)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eandreoliveira&repo=imc&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/eandreoliveira/imc)
