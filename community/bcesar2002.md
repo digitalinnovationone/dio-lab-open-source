@@ -20,4 +20,4 @@ Hello, my name is Bruno Cesar and I am currently a Data Scientist in Brazil.
 
 
 ### Contact Me
-[![LinkedIn](https://www.linkedin.com/in/bruno-c%C3%A9sar-f-silva-276b6b1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bruno-c%C3%A9sar-f-silva-276b6b1/)
