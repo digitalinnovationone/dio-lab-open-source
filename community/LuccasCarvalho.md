@@ -1,5 +1,5 @@
 <a href="https://github.com/Luccas-carvalho">
-     <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Luccas-carvalho&data=repositories,stars,commits&theme=aether" alt="GitHub WirdgetBox" />     
+     <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Luccas-carvalho&data=repositories,stars,commits&theme=carbon" alt="GitHub WirdgetBox" />     
   </a>
 
 ## Hello World ☕
@@ -13,7 +13,7 @@
 
 | Progression |
 |-------------|
-|![Luccas Carvalho GitHub stats](https://github-readme-stats.vercel.app/api?username=Luccas-carvalho&show_icons=true&theme=cobalt) &nbsp; [![GitHub Streak](https://streak-stats.demolab.com?user=Luccas-carvalho&theme=vue-dark)](https://git.io/streak-stats)|
+|![Luccas Carvalho GitHub stats](https://github-readme-stats.vercel.app/api?username=Luccas-carvalho&show_icons=true&theme=darcula) &nbsp; [![GitHub Streak](https://streak-stats.demolab.com?user=Luccas-carvalho&theme=darcula)](https://git.io/streak-stats)|
 
 ---
 
