@@ -20,7 +20,7 @@ Aprender o básico sobre contribuição no GitHub.
 <table>
   <thead>
     <tr align="left">
-      <th>Nº</th>
+      <th>Nº </th>
       <th>Etapas</th>
       <th>Materiais de Apoio</th>
     </tr>
