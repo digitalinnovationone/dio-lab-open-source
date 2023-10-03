@@ -13,11 +13,9 @@ Sempre estou buscando aprender coisas novas e me manter atualizado nas últimas 
 💻 Atuo na área de chatbots e RPA há 3 anos, onde venho aprimorando minhas habilidades e conhecimentos para desenvolver soluções eficientes e eficazes para os projetos.
 ```
 ---
-
 | GitHub Stats |
 |-------------|
-|<img src="https://github-readme-stats.vercel.app/api?username=Luccas-carvalho&show_icons=true&theme=darcula" width="450" height="450" align="center"/> <img src="https://streak-stats.demolab.com?user=Luccas-carvalho&theme=darcula" width="475" height="475" align="center"/>|
-
+|<img src="https://github-readme-stats.vercel.app/api?username=Luccas-carvalho&show_icons=true&theme=darcula" width="350"> &nbsp; <img src="https://streak-stats.demolab.com?user=Luccas-carvalho&theme=darcula" width="370">|
 
 ---
 
