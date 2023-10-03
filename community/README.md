@@ -9,13 +9,14 @@
 
 ---
 
-# Nome Sobrenome
-Breve descrição sobre você.
+# Osmar Ayrton do Nascimento Pereira
+Sou tecnólogo em Análise e Desenvolvimento de Sistemas e ao longo do meu curso, participei de diversos projetos que me permitiram adquirir habilidades sólidas em programação, trabalhando com linguagens como C, Java e PHP. Além disso, tenho experiência com bancos de dados, incluindo MySQL e PostgreSQL, onde desenvolvi consultas, triggers e views.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/SEUUSERNAME/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:SEUEMAIL@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/SEUUSERNAME/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:osmarayrton@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/osmarayrton/)
+
 
 
 ### Habilidades
