@@ -31,8 +31,11 @@
 6. Desenvolva o seu perfil. Para isso, você pode ver exemplos na pasta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils);
     > **Observação:** Use os outros exemplos como inspiração e não cópia.
 7. Adicione suas alterações à "staging area" com o comando `git add community/seunomedeusuario.md`;
+    > **Observação:** Você pode utilizar o comando `git add .` para adicionar todas as alterações de uma vez só.
 8. Crie um commit e adicione a mensagem indicando a adição do seu perfil `git commit -m"feat: add seunomedeusuario profile"`;
-9. Envie as alterações para o seu repositório remoto `git push origin feat/community/seunomedeusuario`; 
+    > **Observação:** Verificar a [`Convenção de Commits`](https://github.com/kkademorais/dio-lab-open-source/blob/main/CONTRIBUTING.md#conven%C3%A7%C3%A3o-de-commits) para escrever a mensagem do seu commit de forma clara e padronizada.
+9. Envie as alterações para o seu repositório remoto `git push origin feat/community/seunomedeusuario`;
+    > **Observação:** Você pode utilizar o comando `git push origin` para mandar as alterações sem precisar especificar a URL, desde que você tenha feito o passo **3**. 
 10. Crie um **Pull Request**.
 
 ## Convenção de Commits
