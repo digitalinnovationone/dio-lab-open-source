@@ -1,6 +1,6 @@
 # Murilo Guedes
 
-Atualmente aluno de graduação em biotecnologia e programador nas horas vagas. Nos anos que passei na faculdade descobri a bioinformática e, desde então, venho melhorando minhas abilidades com programação e análise de dados para trabalhar na área.  
+Atualmente aluno de graduação em biotecnologia e programador nas horas vagas. Nos anos que passei na faculdade descobri a bioinformática e, desde então, venho melhorando minhas habilidades com programação e análise de dados para trabalhar na área.  
 
 # Tecnologias que tenho interesse
 
