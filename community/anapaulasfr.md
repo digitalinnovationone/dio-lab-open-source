@@ -4,7 +4,7 @@
 
 🚀 Participei do bootcamp Web Full Stack, no qual fiz parte de uma equipe colaborativa que desenvolveu um site desde a concepção até a implementação. Trabalhamos com tecnologias essenciais para o desenvolvimento web, como JavaScript, HTML e CSS, atuando na criação de interfaces interativas e responsivas. Utilizamos o Git e o GitHub como ferramentas de controle de versão.
 
-📚 Atualmente cursando graduação em Análise e Desenvolvimento de Sistemas (2º semestre) e participando deste bootcamp, Ciência de Dados com Python.
+📚 Atualmente cursando graduação em Análise e Desenvolvimento de Sistemas (2º semestre) e participando deste bootcamp - Ciência de Dados com Python.
 
 ## Objetivo
 🎯 Contribuir com soluções inovadoras na área de tecnologia, especialmente em análise de dados, área com a qual mais me identifico.
