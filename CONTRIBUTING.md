@@ -50,7 +50,6 @@
 
 `feat: adicionado novo arquivo`
 
-
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
 - [CONVENTIONAL COMMITS. Summary](https://www.conventionalcommits.org/en/v1.0.0/)
