@@ -1,17 +1,17 @@
 ---
 name: Community Challenge
 about: Crie uma issue sobre o Desafio proposto a comunidade
-title: "[DESAFIO]"
-labels: community challenge
+title: "[DESAFIO] DIO"
+labels: Community Challenge
 assignees: ''
 
 ---
 
 *Tem alguma sugestão para quem for fazer o Desafio? Por favor descreva.*
-Uma descrição do que pode ser feito. 
+Uma caixa com palavras chaves de possiveis "erros ao tentar commitar seu primeiro projeto". 
 
 *Descreva como você realizou o seu*
-Uma descrição sobre como você fez o seu.
+Tive um pouco de dificuldade, então refiz ele duas vez passo a passo.
 
 *Links úteis*
-- [Nome do Link](URL)
+- [Guia Profile](https://elidianaandrade.github.io/dio-lab-open-source/)
