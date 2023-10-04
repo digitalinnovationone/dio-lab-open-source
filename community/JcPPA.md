@@ -5,7 +5,7 @@ Júlio César Oliveira Bellini
 > *"As pessoas raramente reconhecem as oportunidades da vida, porque muitas vezes elas estão disfarçadas de trabalho*." (**Max Weber**)
 
 
-##  <img src="https://cdn-icons-png.flaticon.com/512/1462/1462401.png" height="25px"/>Dominio Profissional
+##  <img src="https://cdn-icons-png.flaticon.com/512/1462/1462401.png" height="25px"/>Domínio Profissional
 **<span style="color:red">**Jurista**</span>** 		|	**<span style="color:green">**Historiador**</span>** 		| **<span style="color:yellow">**Cientista de Dados**</span>**	 (graduando)
 #Especialista em Direito Digital e Proteção de Dados*
 #Especialista em Segurança da Informação*
