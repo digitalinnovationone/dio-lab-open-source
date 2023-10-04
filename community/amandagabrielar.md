@@ -1,10 +1,7 @@
  ## **Seja - Bem Vindo !**  🚀
-Eu me chamo Amanda sou desenvolvedora full-stack, estudante de Analise e Desenvolvimento de Sistemas.. Aos 28 anos, tenho unido minha paixão pela tecnologia à dedicação à maternidade, desafiando convenções. Desde a infância, fui cativada pelo mundo da tecnologia, e aos 25 anos, esse fascínio voltou à minha vida.
 
-Como mãe, busquei equilibrio entre a maternidade e estudo, organizando meu tempo e mantendo meus horarios organizados, prezo muito pelo desenvolvimento dos meus filhos momentos em familia são os que me trazem tranquilidade.
-
-Busco entrar na área de tecnologia, acreditando que é onde posso expressar minha criatividade e contribuir para um mundo melhor. 
-Minha vida é marcada por fé, e determinação, espero inspirar outras pessoas a perseguirem seus sonhosum dia.
+Olá, me chamo Amanda sou estudante de Analise e Desenvolvimento de Sistemas.
+Esse é meu GitHub onde você podera ver as tecnologias das quais tenho estudado.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/amanda-gabriela-rodrigues/)
@@ -26,8 +23,4 @@ Minha vida é marcada por fé, e determinação, espero inspirar outras pessoas 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=00FF00)
 
 ### GitHub Stats
-<div>
-  <a href="https://github.com/amandagabrielar">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=amandagabrielar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amandagabrielar&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
