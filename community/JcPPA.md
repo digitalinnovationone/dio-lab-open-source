@@ -13,7 +13,7 @@
 **<span style="color:red">**Jurist**</span>** 		|	**<span style="color:green">**Historian**</span>** 		| **<span style="color:yellow">**Data scientist**</span>**	 (studying...) |
 
 <p>Specialist in Digital Law and Data Protection;</p>
-Information Security Specialist.</p>
+<p>Information Security Specialist.</p>
 
 
 ## <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height="20px"/> My Python Study Guide 
