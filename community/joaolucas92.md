@@ -3,7 +3,7 @@
 ## Um pouco sobre mim:
 Meu nome é João Lucas, tenho 30 anos, e sou formado em Tec. em Análise e Desenvolvimento de Sistemas pela Faculdade Paranaense (FACCAR), em 2012.
 Nunca atuei profissionalmente na área de TI, porque após a faculdade, e enquanto procurava emprego, fui convocado para vaga no concurso dos Correios e decidi assumir, onde trabalhei por 7 anos e meio, até outubro de 2021.
-No início desse ano voltei estudar programção e quero me tornar desenvolvedor Java, que é a linguagem que mais me identifico em trabalhar. Tenho certeza que ganhando uma oportunidade serei um grande profissional!
+No início desse ano voltei estudar programção e quero me tornar desenvolvedor Java, que é a linguagem que mais me identifico em trabalhar. Tenho certeza que ganhando uma oportunidade serei um excelente profissional!
 
 ## Conecte-se com minhas redes:
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/jlucas_damatta)
