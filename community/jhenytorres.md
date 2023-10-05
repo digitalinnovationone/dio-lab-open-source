@@ -6,7 +6,7 @@ Oii :) Sou Jheniffer Torres e sou estudante de Analise e desenvolvimento de sist
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/jhenytorres/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/JhenyTorres)
 
-## Habilidades
+## Habilidades :) 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jhenytorres&layout=compact&bg_color=c8a2c8&border_color=696969&#title_color#=ed30cf&text_color=696969)
 
 
