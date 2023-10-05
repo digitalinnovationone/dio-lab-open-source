@@ -1,12 +1,15 @@
-# Diego Lança de Oliveira
+# Olá!, sou o Diego 🎮
 
-## Sobre
+## Sobre Mim
 
-Olá, me chamo Diego Lança de Oliveira, tenho 19 anos e atualmente faço faculdade de **Engenharia de Computação**, na UNAERP. Sempre fui apaixonado por computadores desde quando era criança, jogando quase sempre. Por fim, decidi que esse é o caminho profissional que desejo seguir: Desenvolvimento de Games. Já tenho um leve conhecimento de programação pois trabalhei com uma pequena parte dela, com MySQL, Node.js, HTML e CSS e PHP, e na faculdade, aprendo em C. Mas em casa, também venho aprendendo C#, Python e Lua, estudando também Udemy, seguindo meus estudos na área de games.
+- 🎂 19 anos
+- 🖥️ **Engenharia de Computação**
+- 👾 A caminho de ser Game Developer
+- 📓 Python, Lua, Udemy
 
-## Interesse / Aprendendo
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=diego.lanca&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+## Aprendendo Atualmente
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
