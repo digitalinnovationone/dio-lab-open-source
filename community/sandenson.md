@@ -140,3 +140,5 @@ Um dos meus principais objetivos de vida no momento é me mudar para a cidade de
 [![Super Mario World](https://github-readme-stats.vercel.app/api/pin/?username=sandenson&repo=samba-mario-world&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/sandenson/samba-mario-world)
 
 [![Flutter Bookstore](https://github-readme-stats.vercel.app/api/pin/?username=sandenson&repo=flutter-bookstore&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/sandenson/flutter-bookstore)
+
+[![Nx-React-Next-Nest-Prisma Template](https://github-readme-stats.vercel.app/api/pin/?username=sandenson&repo=nx-react-next-nest-prisma&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/sandenson/nx-react-next-nest-prisma)
