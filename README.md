@@ -97,7 +97,7 @@ Aprender o básico sobre contribuição no GitHub.
 5. Inside the folder [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community), create a file in Markdown (extension `.md`) and name it the same as your GitHub username;
     > Example: `elidianaandrade.md` <br>
 6. Develop your profile. For this you can see examples in the folder [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community) and add some of the utilities present in the folder [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils);
-    > **Note:** Use the other examples as inspiration, not copy.
+    > **Note:** Use the other examples as inspiration, not copy;
 7. Add your changes to the "staging area" with the command `git add community/yourusername.md`;
 8. Create a commit and add the message indicating the addition of your profile `git commit -m"feat: add yourusername profile"`;
 9. Push changes to your remote repository `git push origin feat/community/yourusername`; 
