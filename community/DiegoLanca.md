@@ -1,6 +1,6 @@
 # Olá!, sou o Diego 🎮
 
-## Sobre Mim
+## 🤗 Sobre Mim
 
 - 🎂 19 anos
 - 🖥️ **Engenharia de Computação**
@@ -9,7 +9,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=diego-lanca&data=repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
-## Aprendendo Atualmente
+## ⭐ Aprendendo Atualmente
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
@@ -21,7 +21,7 @@
 
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 
-## Redes Sociais
+## 📱 Redes Sociais
 
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/diego.lancaa/)
 
