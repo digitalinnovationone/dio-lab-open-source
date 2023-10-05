@@ -40,7 +40,7 @@ Information Security Specialist.</p>
 ## Supplementary Material for Beginners
 1. [Documentação com Markdown: Introdução e sintaxe básica - Blog Inteligência Urbana](https://www.inteligenciaurbana.org/search/label/Markdown?&max-results=16) (*Elson Fabiano Alves*);
 2. [Curso Introdutório de Python - Curso em Vídeo 
-](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) (*Professor Gustavo Guanabara*)
+](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) (*Professor Gustavo Guanabara*).
 
 
 
