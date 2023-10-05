@@ -10,7 +10,7 @@
 
 
 ##  <img src="https://cdn-icons-png.flaticon.com/512/1462/1462401.png" height="25px"/>Professional domain
-**<span style="color:red">**Jurist**</span>** 		|	**<span style="color:green">**Historian**</span>** 		| **<span style="color:yellow">**Data scientist**</span>**	 (studying...)
+**<span style="color:red">**Jurist**</span>** 		|	**<span style="color:green">**Historian**</span>** 		| **<span style="color:yellow">**Data scientist**</span>**	 (studying...) |
 
 <p>Specialist in Digital Law and Data Protection;</p>
 Information Security Specialist.</p>
