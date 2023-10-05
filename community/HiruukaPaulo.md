@@ -3,7 +3,7 @@
 Olá, meu nome é João Paulo, tenho 20 anos e estudo programação pela DIO e pela Escola DNC. Meu foco atual é procurar um emprego na vaga de DEV Júnior, atuando na parte de front-end.
 
 # Conecte-se comigo!
-![LinkedIn](https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=0E76A8)   (https://github.com/HirukkaPaulo)
+[![LinkedIn](https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/HirukkaPaulo)
 
 
 # Habilidades
