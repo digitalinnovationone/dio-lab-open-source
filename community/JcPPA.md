@@ -5,7 +5,8 @@
 
 
 
-> *"As pessoas raramente reconhecem as oportunidades da vida, porque muitas vezes elas estão disfarçadas de trabalho*." (**Max Weber**)
+> *"As pessoas raramente reconhecem as oportunidades da vida, porque muitas vezes elas estão disfarçadas de trabalho*." 
+(**Max Weber**)
 
 
 ##  <img src="https://cdn-icons-png.flaticon.com/512/1462/1462401.png" height="25px"/>Professional domain
