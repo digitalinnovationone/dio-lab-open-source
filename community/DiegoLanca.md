@@ -7,7 +7,7 @@
 - 👾 A caminho de ser Game Developer
 - 📓 Python, Lua, Udemy
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=diego.lanca&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=diego-lanca&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 ## Aprendendo Atualmente
 
