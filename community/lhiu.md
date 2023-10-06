@@ -1,7 +1,7 @@
 # Lhiu
 
 ## Sobre Mim
-Hi, devs. Meu nome é Lucas, curso Física e adoro de aprender coisas novas no meu tempo livre.      
+Hi, devs. Meu nome é Lucas, curso Física e adoro aprender coisas novas no meu tempo livre.      
 
 ## Habilidades
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
