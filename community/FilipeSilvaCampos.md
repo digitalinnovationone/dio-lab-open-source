@@ -11,7 +11,6 @@
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FilipeSilvaCampos&theme=transparent&bg_color=000&border_color=00FA9A&show_icons=true&icon_color=30A3DC&title_color=00FA9A&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FilipeSilvaCampos&layout=compact&bg_color=000&border_color=00FA9A&title_color=00FA9A&text_color=FFF)
 
-## Minhas Contribuições
+## Minhas ContribuiÃ§Ãµes
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FilipeSilvaCampos&repo=Elements_Arena&bg_color=000&border_color=00FA9A&show_icons=true&icon_color=30A3DC&title_color=00FA9A&text_color=FFF)](https://github.com/FilipeSilvaCampos/Elements_Arena)
