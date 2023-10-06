@@ -18,9 +18,9 @@
 <!--  <img align="center" alt="Jayme-Matlib" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" target="_blank"/>  -->
 <!--   <img align="center" alt="Jayme-PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" target="_blank"/> -->
 
-</div>
+</div><br>
 
-<div> 
+<div>
 
 ## Conecte-se comigo
 <!--   https://dev.to/envoy_/150-badges-for-github-pnk -->
@@ -30,22 +30,17 @@
   <a href="https://www.udemy.com/user/jaymerson-ferreira-da-silva/?key=subscribed_courses&wishlisted_courses=1&subscribed_courses=1" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" target="_blank"></a>
   <a href="https://www.dio.me/users/jaymerson_ferreira_s" target="_blank"><img src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge" target="_blank"></a>
 
-</div>
+</div><br>
 
 ## GitHub Stats
-<div align="center">  
+<div align="center">
   
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JaymersonFerreira&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="Alan Vasconi github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JaymersonFerreira&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaymersonFerreira&layout=compact&hide_border=true&title_color=87CEFA&text_color=87CEFA&bg_color=0d1117" />
   
   [![Gráfico de Atividades no Github](https://github-readme-activity-graph.vercel.app/graph?username=JaymersonFerreira&bg_color=0d1117&color=87CEFA&line=ffffff&point=b47707&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-
-
-
-
-
 <!--   <a href="https://instagram.com/jayme.json" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
 
 </div>
