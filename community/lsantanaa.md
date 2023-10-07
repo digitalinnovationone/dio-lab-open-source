@@ -1,10 +1,10 @@
-# Olá eu sou o [Leonardo de Sant'Ana])(https://github.com/lsantanaa) 👋
+# Olá eu sou o [Leonardo de Sant'Ana](https://github.com/lsantanaa) 👋
 
 - 👩‍💻📚 Sempre buscando evolução! 
 - 🖥️ Front End Developer
 - 💼 Trabalho como auxiliar de informática
 
-<div align="center">
+<div align="center" >
  <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=lsantanaa&show_icons=true&theme=chartreuse-dark&include_all_commits=true"
