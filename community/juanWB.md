@@ -1,5 +1,5 @@
 # Juan Alejandro
-Olá, tenho 23 anos e venho estudando mais a área de tecnologia a algum tempo. Acabei me apaixonando pela area, venho conhecendo um pouco mais sobre ela a cada dia e sua imensa diversidade. Curso Análise e Desenvolvimento de Sistema na Uninassau, atualmente no segundo período.
+Olá, tenho 23 anos e venho estudando na área de tecnologia a algum tempo. Acabei gostando muito da area, venho conhecendo um pouco mais sobre ela a cada dia e sua diversidade. Curso Análise e Desenvolvimento de Sistema na Uninassau, atualmente no segundo período.
 
 ## Tecnologias em Aprendizado
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
