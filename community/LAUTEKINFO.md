@@ -34,7 +34,7 @@ Sou pernambucano da cidade de Petrolina, sou Tecnólogo em análise e desenvolvi
   <tbody align="left">
     <tr>
       <td>16/08/2023</td>
-      <td>Aprovado no Bootcamp 2023, Ciência de dados #CommunityWeek</td>
+      <td>Aprovado no Bootcamp 2023, Ciência de dados</td>
       <td align="center">
         <a href="https://web.dio.me/articles/aprovado-no-bootcamp-2023-ciencia-de-dados?back=/articles">
            <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
