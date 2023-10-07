@@ -17,7 +17,7 @@ Olá, me chamo Katiuscia, me formei em Administração, mas sempre tive bastante
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="30"/> <a href="https://github.com/Qiskit" target="_blank"> <img src="https://qiskit.gallerycdn.vsassets.io/extensions/qiskit/qiskit-vscode/0.5.5/1558430568405/Microsoft.VisualStudio.Services.Icons.Default" alt="Qiskit" width="30" height="30"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> 
 </a> <br><br>
 
-## Stats
+## GitHub Stats
 
 ![Katiuscia's GitHub stats](https://github-readme-stats.vercel.app/api?username=katiesmorais&theme=aura&show_icons=true)
 
