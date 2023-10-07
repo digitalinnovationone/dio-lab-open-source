@@ -1,5 +1,7 @@
 # Gaahta
 
+Olá, me chamo Gláucia Fernandes Borges, apelidada de Gaah, sou fotógrafa há 10 anos, estou procura do meu primeiro emprego na área da Tecnologia e sou estudante de Computação no IFRJ -Instituto Federal do Rio de Janeiro.
+
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gaahta/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://www.instagram.com/gaahta/)
