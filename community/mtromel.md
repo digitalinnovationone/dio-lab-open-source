@@ -30,6 +30,7 @@ Entre outras...
 |     1| Python    |
 |     2| R         |
 |     3| SQL       |
+|4     | JavaScript|
 
 
 ## Minhas Contribuições
