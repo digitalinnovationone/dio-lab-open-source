@@ -50,6 +50,11 @@
 
 `feat: adicionado novo arquivo`
 
+git add .
+
+git commit -m""
+
+git push origin your_branch
 
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
