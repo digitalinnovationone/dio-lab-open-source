@@ -44,6 +44,9 @@
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/users/yanmsn/)
 
 ### Idiomas
-Português (Brasil): Nativo
+- Português (Brasil): Nativo
+- English (US): Intermediário
 
-English (US): Intermediário
+### Certificacões | Bootcamps
+Outubro 2023
+- [Potencia Técnica IFOOD - Programação do Zero by DIO](https://www.dio.me/certificate/FDA7F6AF)
