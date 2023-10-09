@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> a0f6eb40d92fd6ae589f85590c599a486889f5d1
 # Olá, seja bem-vinda(o) 😁
 
 Me chamo Andressa!
@@ -26,6 +30,11 @@ Me chamo Andressa!
 ![HTML](https://img.shields.io/badge/HTML-a52a2a )
 
 
+<<<<<<< HEAD
 ## Minhas contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=andressamagalhaess&repo=dio-lab-open-source&bg_color=f5f5dc&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=000&text_color=000)](https://github.com/andressamagalhaess/dio-lab-open-source)
 
+=======
+# Minhas contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=andressamagalhaess&repo=dio-lab-open-source&bg_color=f5f5dc&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=000&text_color=000)](https://github.com/andressamagalhaess/dio-lab-open-source)
+>>>>>>> a0f6eb40d92fd6ae589f85590c599a486889f5d1
