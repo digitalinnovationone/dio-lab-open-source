@@ -47,6 +47,6 @@
 - Português (Brasil): Nativo
 - English (US): Intermediário
 
-### Certificacões | Bootcamps
+### Certificações | Bootcamps
 Outubro 2023
 - [Potencia Técnica IFOOD - Programação do Zero by DIO](https://www.dio.me/certificate/FDA7F6AF)
