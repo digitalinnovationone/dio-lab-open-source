@@ -1,22 +1,21 @@
-[PTBR]
 
-- 👋 Olá, me chamo Samuel Flores Junior
-- 👀 Meu interesse é Desenvolvimento de Jogos;
-- 🌱 Estou atualmente aprendendo Java
-- 💞️ Viso collaborar em projetos open-source...
-- 📫 Como chegar até mim: samuel.sfjunior@gmail.com
-
-[EN]
-
-- 👋 Hi, I’m Samuel Flores Junior
-- 👀 I’m interested in game development;
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: samuel.sfjunior@gmail.com
+# Samuel-SFJ
 
 
 
-<!---
-Samuel-SFJ/Samuel-SFJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+## 🚀 Sobre mim
+Olá, meu nome é Samuel Flores Junior, atualmente tenho 28 anos.
+Trabalho em outra área mas pretendo entrar no campo da programação, com o objetivo final de Desenvolvimento de Jogos, porém pretendo primeiro seguir uma carreira de back-end Java. Curiosamente, no meu ramo atual as ferramentas usadas são todas desenvolvidas já nesta mesma linguagem, o que me leva a sempre imaginar como são ou poderiam ser feitas as funcionalidades no pano de fundo.
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelsfjunior/)
+
+
+
+## 🛠 Habilidades
+Java...
+
