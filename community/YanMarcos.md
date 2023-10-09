@@ -42,7 +42,7 @@
 # Social
 ### Redes Sociais
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/users/yanmsn/)
-[![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/yan-marcos-168143295)
+[![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yan-marcos-168143295)
 
 ### Idiomas
 - Português (Brasil): Nativo
