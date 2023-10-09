@@ -23,6 +23,6 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusJMR&repo=simple-todo-app&bg_color=1c093d&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ViniciusJMR/simple-todo-app)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusJMR&repo=credit-request-system&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ViniciusJMR/simple-todo-app)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusJMR&repo=credit-request-system&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ViniciusJMR/credit-request-system)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusJMR&repo=pokemon-api&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ViniciusJMR/simple-todo-app)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusJMR&repo=pokemon-api&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ViniciusJMR/pokemon-api)
