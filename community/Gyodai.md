@@ -43,7 +43,7 @@ Gosto muito da área de DEV e pretendo me especializar nessa área.
     </tr>
        <tr>
       <td>
-        <img align="center" alt="Java" src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java">
+        <img align="center" alt="Java" src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg">
       </td>
       <td>
         <code>Básico</code>
@@ -85,8 +85,6 @@ Gosto muito da área de DEV e pretendo me especializar nessa área.
   <tfoot></tfoot>
 </table>
 
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LuisCrespoDev&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 # Minhas Contribuições
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=edsonmy&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gyodai/dio-lab-open-source)
