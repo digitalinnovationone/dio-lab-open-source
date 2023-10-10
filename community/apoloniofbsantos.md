@@ -1,5 +1,5 @@
 # apoloniofbsantos
-Olá! Eu sou Felipe, e estou começando os meus primeiros passos na programação. 
+Olá! Eu sou Felipe, e estou começando os meus primeiros passos em programação.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/felipe-santos-b471a2165/)
