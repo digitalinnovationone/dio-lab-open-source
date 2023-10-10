@@ -7,7 +7,7 @@ Gosto muito da área de DEV e pretendo me especializar nessa área.
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/Gyodai) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/eduardo-batista-jota/)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/edubjota)
-[![Email]("https://img.shields.io/badge/-Email-000?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=E94D5F")](edubjota@outlook.com)
+[![Email]("https://img.shields.io/badge/-Email-000?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=E94D5F")](https://edubjota@outlook.com)
 
 # Habilidades
 <table>
