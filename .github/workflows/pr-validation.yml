@@ -1,4 +1,4 @@
-name: Workflow 1 - PR Validation
+name: DIO Workflow 1 - PR Validation
 
 on:
   pull_request_target:
@@ -46,3 +46,5 @@ jobs:
         EOT
             gh pr comment ${{ github.event.pull_request.number }} --body-file=message.txt
             gh pr edit ${{ github.event.pull_request.number }} --add-label "automerge"
+      env:
+        GH_TOKEN: ${{ secrets.FALVOJR_PAT }}
