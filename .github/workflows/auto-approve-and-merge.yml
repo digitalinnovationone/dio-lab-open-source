@@ -1,7 +1,7 @@
 name: Auto Approve and Merge PRs
 
 on:
-  pull_request_target:
+  pull_request:
     types:
       - opened
       - synchronize
@@ -33,17 +33,17 @@ jobs:
         echo "Ei! Parece que algo não deu certo com o seu PR. Ele deve conter apenas um arquivo .md na pasta 'community/', e o nome desse arquivo deve ser o mesmo que o seu nome de usuário no GitHub. Dê uma olhada nas instruções no README.md e no CONTRIBUTE.md para acertar. Assim que fizer as correções, atualize o PR para que possamos avaliá-lo novamente. Se continuar com problemas, infelizmente a revisão será manual e pode demorar um pouquinho. Valeu pela contribuição 👊😉" > message.txt
         gh pr comment ${{ github.event.pull_request.number }} --body-file=message.txt
       env:
-        GH_TOKEN: ${{ secrets.MY_PAT }}
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Approve PR
       uses: hmarr/auto-approve-action@v2.1.0
       with:
-        github-token: "${{ secrets.MY_PAT }}"
+        github-token: "${{ secrets.GITHUB_TOKEN }}"
         
     - name: Merge PR
       uses: pascalgn/automerge-action@v0.13.1
       with:
-        GITHUB_TOKEN: "${{ secrets.MY_PAT }}"
+        GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
         MERGE_LABELS: ""
         MERGE_COMMIT_MESSAGE: "automatic"
         MERGE_METHOD: "squash"
@@ -54,4 +54,4 @@ jobs:
         echo "E aí! Seu PR com o arquivo .md na pasta 'community/' está perfeito e já foi aprovado! Muito obrigado por se juntar à comunidade 🚀" > message.txt
         gh pr comment ${{ github.event.pull_request.number }} --body-file=message.txt
       env:
-        GH_TOKEN: ${{ secrets.MY_PAT }}
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
