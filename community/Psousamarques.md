@@ -13,7 +13,6 @@ me interessei por programação de software. Em 2023 decidi me aperfeiçoar aind
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
-
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![React Native](https://img.shields.io/badge/React-Native-000?style=for-the-badge&logo=React-Native)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
