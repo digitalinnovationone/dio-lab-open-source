@@ -18,5 +18,9 @@ me interessei por programação de software. Em 2023 decidi me aperfeiçoar aind
 ![React Native](https://img.shields.io/badge/React-Native-000?style=for-the-badge&logo=React-Native)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 
+---
+
+11/10/2023
+
 
 
