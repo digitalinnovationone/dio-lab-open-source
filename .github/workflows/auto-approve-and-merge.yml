@@ -10,11 +10,10 @@ jobs:
   auto-approve-and-merge:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout code from PR
+    - name: Checkout code from PR (Safe Checkout)
       uses: actions/checkout@v2
       with:
-        ref: ${{ github.event.pull_request.head.ref }}
-        repository: ${{ github.event.pull_request.head.repo.full_name }}
+        ref: ${{ github.event.pull_request.head.sha }}
         
     - name: Validate PR
       run: |
@@ -38,11 +37,13 @@ jobs:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Approve PR
+      if: success()
       uses: hmarr/auto-approve-action@v3
       with:
         github-token: "${{ secrets.GITHUB_TOKEN }}"
         
     - name: Merge PR
+      if: success()
       uses: pascalgn/automerge-action@v0.15.6
       with:
         GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
