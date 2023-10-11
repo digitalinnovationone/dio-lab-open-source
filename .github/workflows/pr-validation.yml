@@ -37,8 +37,12 @@ jobs:
       if: success()
       run: |
         REPO_URL=${{ github.event.pull_request.head.repo.html_url }}
-        echo "Aí sim hein! Seu PR foi aprovado 🥳 Você já pode submeter a URL do seu repositório na plataforma da DIO: $REPO_URL. Faremos o merge aqui em breve. Muito obrigado por fazer parte da nossa comunidade 🚀" > message.txt
-        gh pr comment ${{ github.event.pull_request.number }} --body-file=message.txt
-        gh pr edit ${{ github.event.pull_request.number }} --add-label "automerge"
-      env:
-        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            cat <<EOT > message.txt
+        Aí sim hein! Seu PR foi aprovado 🥳 Você já pode submeter o seu projeto na plataforma da DIO, segue sua URL:
+        \`\`\`
+        $REPO_URL
+        \`\`\`
+        Faremos o merge aqui em breve. Muito obrigado por fazer parte da nossa comunidade 🚀
+        EOT
+            gh pr comment ${{ github.event.pull_request.number }} --body-file=message.txt
+            gh pr edit ${{ github.event.pull_request.number }} --add-label "automerge"
