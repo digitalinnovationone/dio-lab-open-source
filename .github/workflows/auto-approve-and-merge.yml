@@ -13,8 +13,7 @@ jobs:
     - name: Checkout code from PR (Safe Checkout)
       uses: actions/checkout@v4
       with:
-        ref: ${{github.event.pull_request.head.ref}}
-        repository: ${{github.event.pull_request.head.repo.full_name}}
+        ref: ${{ github.event.pull_request.head.sha }}
         
     - name: Validate PR
       run: |
