@@ -41,7 +41,7 @@ jobs:
 
     - name: Merge PR
       uses: pascalgn/automerge-action@v0.15.6
-      with:
+      env:
         GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
         MERGE_LABELS: ""
         MERGE_COMMIT_MESSAGE: "Merged: Inclusão do perfil ${{ github.actor }}"
