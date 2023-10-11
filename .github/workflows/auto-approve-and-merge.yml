@@ -15,18 +15,28 @@ jobs:
       
     - name: Validate PR
       run: |
-        # Verifica se há apenas um arquivo .md adicionado na pasta community.
-        FILE_COUNT=$(git diff --name-only origin/main..HEAD | grep '^community/.*\.md$' | wc -l)
+        # Obtenha o nome do arquivo .md adicionado ou modificado na pasta community.
+        FILE_NAME=$(git diff --name-only origin/main..HEAD | grep '^community/.*\.md$')
+        FILE_BASENAME=$(basename $FILE_NAME .md)
+
+        # Verifica se há apenas um arquivo .md adicionado ou modificado na pasta community.
+        FILE_COUNT=$(echo $FILE_NAME | wc -l)
         
         if [[ $FILE_COUNT -ne 1 ]]; then
-          echo "There should be exactly one .md file added in the community/ directory."
+          echo "There should be exactly one .md file added or modified in the community/ directory."
+          exit 1
+        fi
+
+        # Verifica se o nome do arquivo corresponde ao nome do usuário do GitHub que abriu o PR.
+        if [[ $FILE_BASENAME != "${{ github.actor }}" ]]; then
+          echo "The .md file name should match the GitHub username."
           exit 1
         fi
 
     - name: Post Comment if Validation Fails
       if: failure()
       run: |
-        echo "Ei! Seu PR deveria conter só um arquivo .md com o nome do seu usuário do GitHub na pasta 'community/'. Dá uma olhada no README.md e no CONTRIBUTE.md pra conferir as instruções. Por conta disso, a revisão do seu PR será manual e pode demorar um pouquinho. Valeu pela contribuição!" > message.txt
+        echo "Ei! Parece que algo não deu certo com o seu PR. Ele deve conter apenas um arquivo .md na pasta 'community/', e o nome desse arquivo deve ser o mesmo que o seu nome de usuário no GitHub. Dê uma olhada nas instruções no README.md e no CONTRIBUTE.md para acertar. Assim que fizer as correções, atualize o PR para que possamos avaliá-lo novamente. Se continuar com problemas, infelizmente a revisão será manual e pode demorar um pouquinho. Valeu pela contribuição 👊😉" > message.txt
         gh pr comment ${{ github.event.pull_request.number }} --body-file=message.txt
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -47,7 +57,7 @@ jobs:
     - name: Post Comment for Approved and Merged PRs
       if: success()
       run: |
-        echo "E aí! Seu PR com o arquivo .md na pasta 'community/' está perfeito e já foi aceito! Muito obrigado por se juntar à comunidade 🚀" > message.txt
+        echo "E aí! Seu PR com o arquivo .md na pasta 'community/' está perfeito e já foi aprovado! Muito obrigado por se juntar à comunidade 🚀" > message.txt
         gh pr comment ${{ github.event.pull_request.number }} --body-file=message.txt
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
