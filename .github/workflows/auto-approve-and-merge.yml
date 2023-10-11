@@ -15,29 +15,37 @@ jobs:
       
     - name: Validate PR
       run: |
-        # Obtenha todos os arquivos .md adicionados ou modificados na pasta community e coloque-os em um array.
-        IFS=$'\n' read -d '' -r -a FILES_ARRAY < <(git diff --name-only origin/main..HEAD | grep '^community/.*\.md$')
+        validate_single_md_file() {
+          local file_count=$1
+          if [[ $file_count -ne 1 ]]; then
+            echo "ERROR: There should be exactly one .md file added or modified in the community/ directory."
+            exit 1
+          fi
+        }
         
-        # Conta o número de arquivos .md modificados ou adicionados.
-        FILE_COUNT=${#FILES_ARRAY[@]}
-    
-        # Debugging: Imprime os valores capturados para fins de depuração.
-        echo "DEBUG: FILES = ${FILES_ARRAY[*]}"
+        validate_filename_matches_github_actor() {
+          local file_basename=$1
+          local github_actor=$2
+          if [[ $file_basename != "$github_actor" ]]; then
+            echo "ERROR: The .md file name '$file_basename' does not match the GitHub username '$github_actor'."
+            exit 1
+          fi
+        }
+        
+        # Obtenha o nome do arquivo .md adicionado ou modificado na pasta community.
+        FILE_NAME=$(git diff --name-only origin/main..HEAD | grep '^community/.*\.md$')
+        FILE_BASENAME=$(basename $FILE_NAME .md)
+        
+        # Verifica se há apenas um arquivo .md adicionado ou modificado na pasta community.
+        FILE_COUNT=$(echo $FILE_NAME | wc -l)
+        
+        # Debugging: Vamos imprimir os valores e ver o que está sendo capturado
+        echo "DEBUG: FILE_NAME = $FILE_NAME"
+        echo "DEBUG: FILE_BASENAME = $FILE_BASENAME"
         echo "DEBUG: GITHUB ACTOR = ${{ github.actor }}"
-            
-        # Verifica se apenas um arquivo .md foi adicionado ou modificado.
-        if [[ $FILE_COUNT -ne 1 ]]; then
-           echo "There should be exactly one .md file added or modified in the community/ directory."
-           echo "Number of files detected: $FILE_COUNT"
-           exit 1
-        fi
-    
-        # Verifica se o nome do arquivo corresponde ao nome do usuário do GitHub que abriu o PR.
-        if [[ ${FILES_ARRAY[0]} != "community/${{ github.actor }}.md" ]]; then
-           echo "The .md file name should match the GitHub username inside the 'community/' directory."
-           echo "Expected: community/${{ github.actor }}.md, Found: ${FILES_ARRAY[0]}"
-           exit 1
-        fi
+        
+        validate_single_md_file $FILE_COUNT
+        validate_filename_matches_github_actor $FILE_BASENAME ${{ github.actor }}
 
     - name: Post Comment if Validation Fails
       if: failure()
