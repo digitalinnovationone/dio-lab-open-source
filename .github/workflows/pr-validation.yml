@@ -30,14 +30,13 @@ jobs:
       if: failure()
       run: |
         cat <<EOT > message.txt
-        Olá! Parece que houve um problema com o seu PR 🧐
-        Aqui estão algumas coisas para verificar:
+        Olá! Parece que houve um problema com o seu PR 🧐 Aqui estão algumas coisas para verificar:
         - O PR deve conter o arquivo \`community/${{ github.actor }}.md\`
-        - O nome desse arquivo deve coincidir **exatamente** com o seu nome de usuário no GitHub, sendo sensível a maiúsculas e minúsculas.
+        - O nome desse arquivo deve coincidir **exatamente** (_case-sensitive_) com o seu nome de usuário no GitHub.
 
         Para obter mais detalhes e garantir que tudo esteja correto, confira nossas instruções no [README.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/README.md) e [CONTRIBUTE.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTE.md).
 
-        Se o seu PR tem um objetivo diferente, não se preocupe! Ele será analisado manualmente por nossa equipe, o que pode levar um pouco mais de tempo. Pedimos paciência nesse processo 🥹
+        Se o seu PR tem um objetivo diferente, não se preocupe! Ele será analisado manualmente por nossa equipe, o que pode levar um pouco mais de tempo. Pedimos paciência nesse processo 🙏
 
         Agradecemos sua contribuição e compreensão 👊😉
         EOT
