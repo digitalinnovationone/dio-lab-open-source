@@ -15,17 +15,17 @@ jobs:
       
     - name: Validate PR
       run: |
-        AUTHOR_NAME=$(git log -1 --pretty=format:'%an')
+        AUTHOR_NAME="${{ github.actor }}"
         FILE_PATH="community/$AUTHOR_NAME.md"
         
         if [[ ! -f $FILE_PATH ]]; then
             echo "ERROR: Expected a file at $FILE_PATH, but it doesn't exist."
             exit 1
         fi
-    
+        
         # Debugging: Vamos imprimir os valores e ver o que está sendo capturado
         echo "DEBUG: EXPECTED FILE_PATH = $FILE_PATH"
-        echo "DEBUG: COMMIT AUTHOR NAME = $AUTHOR_NAME"
+        echo "DEBUG: PR AUTHOR USERNAME = $AUTHOR_NAME"
 
     - name: Post Comment if Validation Fails
       if: failure()
