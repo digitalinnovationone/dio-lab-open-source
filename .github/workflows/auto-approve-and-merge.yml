@@ -36,7 +36,7 @@ jobs:
     - name: Approve and Comment PR
       if: success()
       run: |
-        echo "E aí! Seu PR com o arquivo `.md` na pasta `community/` foi aprovado com sucesso! Obrigado por fazer parte da nossa comunidade 🚀" > message.txt
+        echo "Aí sim hein, parabéns 🥳 Seu PR foi aprovado e faremos o merge em breve! Muito obrigado por fazer parte da nossa comunidade 🚀" > message.txt
         gh pr comment ${{ github.event.pull_request.number }} --body-file=message.txt
       env:
         GH_TOKEN: ${{ secrets.FALVOJR_PAT }}
@@ -45,6 +45,4 @@ jobs:
       uses: pascalgn/automerge-action@v0.15.6
       env:
         GITHUB_TOKEN: "${{ secrets.FALVOJR_PAT }}"
-        MERGE_LABELS: "automerge"
-        MERGE_REMOVE_LABELS: "automerge"
         
