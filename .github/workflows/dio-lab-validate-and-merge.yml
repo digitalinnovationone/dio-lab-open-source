@@ -63,10 +63,11 @@ jobs:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   merge:
-      runs-on: ubuntu-latest
-
-      steps:
-      - name: Merge PR
-        uses: pascalgn/automerge-action@v0.15.6
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    runs-on: ubuntu-latest
+    needs: validate-and-comment
+    
+    steps:
+    - name: Merge PR
+      uses: pascalgn/automerge-action@v0.15.6
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
