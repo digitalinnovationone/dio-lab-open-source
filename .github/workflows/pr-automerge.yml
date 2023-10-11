@@ -13,4 +13,4 @@ jobs:
     - name: Merge PR
       uses: pascalgn/automerge-action@v0.15.6
       env:
-        GITHUB_TOKEN: ${{ secrets.FALVOJR_PAT }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
