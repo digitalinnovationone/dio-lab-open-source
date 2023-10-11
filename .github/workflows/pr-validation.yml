@@ -1,4 +1,4 @@
-name: PR Validation
+name: Workflow 1 - PR Validation
 
 on:
   pull_request_target:
