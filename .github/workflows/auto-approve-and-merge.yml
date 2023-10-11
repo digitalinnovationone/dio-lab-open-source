@@ -1,0 +1,53 @@
+name: Auto Approve and Merge PRs
+
+on:
+  pull_request:
+    types:
+      - opened
+      - synchronize
+
+jobs:
+  auto-approve-and-merge:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+      
+    - name: Validate PR
+      run: |
+        # Verifica se há apenas um arquivo .md adicionado na pasta community.
+        FILE_COUNT=$(git diff --name-only origin/main..HEAD | grep '^community/.*\.md$' | wc -l)
+        
+        if [[ $FILE_COUNT -ne 1 ]]; then
+          echo "There should be exactly one .md file added in the community/ directory."
+          exit 1
+        fi
+
+    - name: Post Comment if Validation Fails
+      if: failure()
+      run: |
+        echo "Ei! Seu PR deveria conter só um arquivo .md com o nome do seu usuário do GitHub na pasta 'community/'. Dá uma olhada no README.md e no CONTRIBUTE.md pra conferir as instruções. Por conta disso, a revisão do seu PR será manual e pode demorar um pouquinho. Valeu pela contribuição!" > message.txt
+        gh pr comment ${{ github.event.pull_request.number }} --body-file=message.txt
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Approve PR
+      uses: hmarr/auto-approve-action@v2.1.0
+      with:
+        github-token: "${{ secrets.GITHUB_TOKEN }}"
+        
+    - name: Merge PR
+      uses: pascalgn/automerge-action@v0.13.1
+      with:
+        GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+        MERGE_LABELS: ""
+        MERGE_COMMIT_MESSAGE: "automatic"
+        MERGE_METHOD: "squash"
+        
+    - name: Post Comment for Approved and Merged PRs
+      if: success()
+      run: |
+        echo "E aí! Seu PR com o arquivo .md na pasta 'community/' está perfeito e já foi aceito! Muito obrigado por se juntar à comunidade 🚀" > message.txt
+        gh pr comment ${{ github.event.pull_request.number }} --body-file=message.txt
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
