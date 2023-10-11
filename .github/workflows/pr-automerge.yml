@@ -1,0 +1,16 @@
+name: DIO Workflow 2 - PR Automerge
+
+on:
+  pull_request_target:
+    types:
+      - labeled
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    if: github.event.label.name == 'automerge'
+    steps:
+    - name: Merge PR
+      uses: pascalgn/automerge-action@v0.15.6
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
