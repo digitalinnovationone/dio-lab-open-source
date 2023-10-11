@@ -39,12 +39,12 @@ jobs:
         echo "E aí! Seu PR com o arquivo `.md` na pasta `community/` foi aprovado com sucesso! Obrigado por fazer parte da nossa comunidade 🚀" > message.txt
         gh pr comment ${{ github.event.pull_request.number }} --body-file=message.txt
       env:
-        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GH_TOKEN: ${{ secrets.FALVOJR_PAT }}
 
     - name: Merge PR
       uses: pascalgn/automerge-action@v0.15.6
       env:
-        GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+        GITHUB_TOKEN: "${{ secrets.FALVOJR_PAT }}"
         MERGE_LABELS: ""
         LOG: "TRACE"
         
