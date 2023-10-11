@@ -38,6 +38,7 @@ jobs:
       run: |
         echo "Aí sim hein! Seu PR foi aprovado e faremos o merge em breve 🥳 Muito obrigado por fazer parte da nossa comunidade 🚀" > message.txt
         gh pr comment ${{ github.event.pull_request.number }} --body-file=message.txt
+        gh pr add-labels ${{ github.event.pull_request.number }} --label automerge
       env:
         GH_TOKEN: ${{ secrets.FALVOJR_PAT }}
 
