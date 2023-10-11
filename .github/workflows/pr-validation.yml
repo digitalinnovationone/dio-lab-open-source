@@ -1,4 +1,4 @@
-name: Auto Approve and Merge PRs
+name: Workflow 1 - PR Validation
 
 on:
   pull_request_target:
@@ -7,7 +7,7 @@ on:
       - synchronize
 
 jobs:
-  auto-approve-and-merge:
+  validate:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code from PR (Safe Checkout)
@@ -28,7 +28,7 @@ jobs:
     - name: Post Comment if Validation Fails
       if: failure()
       run: |
-        echo "Ei!? Parece que algo não deu certo com o seu PR. Ele deve conter apenas um arquivo `.md` na pasta `community/` e o nome desse arquivo deve ser o mesmo que o seu nome de usuário no GitHub (atenção, a verificação é sensível a maiúsculas e minúsculas!). Dê uma olhada nas instruções no README.md e no CONTRIBUTE.md para acertar. Assim que fizer as correções, atualize o PR para que possamos avaliá-lo novamente. Se continuar com problemas, infelizmente a revisão será manual e pode demorar um pouquinho. Valeu pela contribuição 👊😉" > message.txt
+        echo "Ei!? Parece que algo não deu certo com o seu PR. Ele deve conter apenas um arquivo `.md` na pasta `community/` e o nome desse arquivo deve ser o mesmo que o seu nome de usuário no GitHub. Revise e tente novamente." > message.txt
         gh pr comment ${{ github.event.pull_request.number }} --body-file=message.txt
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -41,10 +41,4 @@ jobs:
         gh pr comment ${{ github.event.pull_request.number }} --body-file=message.txt
         gh pr edit ${{ github.event.pull_request.number }} --add-label "automerge"
       env:
-        GH_TOKEN: ${{ secrets.FALVOJR_PAT }}
-
-    - name: Merge PR
-      uses: pascalgn/automerge-action@v0.15.6
-      env:
-        GITHUB_TOKEN: "${{ secrets.FALVOJR_PAT }}"
-        
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
