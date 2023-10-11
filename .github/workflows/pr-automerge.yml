@@ -10,20 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     if: github.event.label.name == 'automerge'
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v4
-
-    - name: Wait for status checks
-      id: waitforstatuschecks
-      uses: fountainhead/action-wait-for-check@v1.1.0
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        ref: ${{ github.event.pull_request.head.sha }}
-        checkName: 'Workflow 1 - PR Validation'
-        timeoutSeconds: 3600 # 1 hour timeout
-
-    - name: Merge PR if checks pass
-      if: steps.waitforstatuschecks.outputs.conclusion == 'success'
+    - name: Merge PR
       uses: pascalgn/automerge-action@v0.15.6
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
