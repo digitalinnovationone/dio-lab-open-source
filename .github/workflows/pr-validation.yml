@@ -9,6 +9,7 @@ on:
 jobs:
   validate:
     runs-on: ubuntu-latest
+    
     steps:
     - name: Checkout code from PR (Safe Checkout)
       uses: actions/checkout@v4
@@ -28,7 +29,18 @@ jobs:
     - name: Post Comment if Validation Fails
       if: failure()
       run: |
-        echo "Ei!? Parece que algo não deu certo com o seu PR. Ele deve conter apenas um arquivo `.md` na pasta `community/` e o nome desse arquivo deve ser o mesmo que o seu nome de usuário no GitHub. Revise e tente novamente." > message.txt
+        cat <<EOT > message.txt
+        Olá! Parece que houve um problema com o seu PR 🧐 Aqui estão algumas coisas para verificar:
+        - O PR deve conter o arquivo \`community/${{ github.actor }}.md\`
+        - O nome desse arquivo deve coincidir **exatamente** (_case-sensitive_) com o seu nome de usuário no GitHub.
+
+        Para obter mais detalhes e garantir que tudo esteja correto, confira nossas instruções no [README.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/README.md) e [CONTRIBUTE.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTE.md).
+
+        Se o seu PR tem um objetivo diferente, não se preocupe! Ele será analisado manualmente por nossa equipe, o que pode levar um pouco mais de tempo. Pedimos paciência nesse processo 🙏
+
+        Agradecemos sua contribuição e compreensão 👊😉
+        EOT
+
         gh pr comment ${{ github.event.pull_request.number }} --body-file=message.txt
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -37,14 +49,15 @@ jobs:
       if: success()
       run: |
         REPO_URL=${{ github.event.pull_request.head.repo.html_url }}
-            cat <<EOT > message.txt
-        Aí sim hein! Seu PR foi aprovado 🥳 Você já pode submeter o seu projeto na plataforma da DIO, segue sua URL:
+        cat <<EOT > message.txt
+        Aí sim hein! Seu PR foi aprovado 🥳 Você já pode submeter o seu projeto na plataforma da DIO. Segue sua URL:
         \`\`\`
         $REPO_URL
         \`\`\`
         Faremos o merge aqui em breve. Muito obrigado por fazer parte da nossa comunidade 🚀
         EOT
-            gh pr comment ${{ github.event.pull_request.number }} --body-file=message.txt
-            gh pr edit ${{ github.event.pull_request.number }} --add-label "automerge"
+
+        gh pr comment ${{ github.event.pull_request.number }} --body-file=message.txt
+        gh pr edit ${{ github.event.pull_request.number }} --add-label "automerge"
       env:
         GH_TOKEN: ${{ secrets.FALVOJR_PAT }}
