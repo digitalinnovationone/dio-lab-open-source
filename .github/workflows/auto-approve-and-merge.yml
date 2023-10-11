@@ -36,7 +36,7 @@ jobs:
     - name: Approve and Comment PR
       if: success()
       run: |
-        echo "Aí sim hein, parabéns 🥳 Seu PR foi aprovado e faremos o merge em breve! Muito obrigado por fazer parte da nossa comunidade 🚀" > message.txt
+        echo "Aí sim hein! Seu PR foi aprovado e faremos o merge em breve 🥳 Muito obrigado por fazer parte da nossa comunidade 🚀" > message.txt
         gh pr comment ${{ github.event.pull_request.number }} --body-file=message.txt
       env:
         GH_TOKEN: ${{ secrets.FALVOJR_PAT }}
