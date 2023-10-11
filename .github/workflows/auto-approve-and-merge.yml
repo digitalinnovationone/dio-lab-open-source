@@ -1,11 +1,10 @@
 name: Auto Approve and Merge PRs
 
 on:
-  pull_request_target:
+  pull_request:
     types:
       - opened
       - synchronize
-      - edited
 
 jobs:
   auto-approve-and-merge:
