@@ -1,4 +1,4 @@
-name: Workflow 2 - PR Automerge
+name: DIO Workflow 2 - PR Automerge
 
 on:
   pull_request_target:
