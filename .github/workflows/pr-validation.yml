@@ -1,0 +1,63 @@
+name: DIO Workflow 1 - PR Validation
+
+on:
+  pull_request_target:
+    types:
+      - opened
+      - synchronize
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code from PR (Safe Checkout)
+      uses: actions/checkout@v4
+      with:
+        ref: ${{ github.event.pull_request.head.sha }}
+        
+    - name: Validate PR
+      run: |
+        AUTHOR_NAME="${{ github.actor }}"
+        FILE_PATH="community/$AUTHOR_NAME.md"
+        
+        if [[ ! -f $FILE_PATH ]]; then
+            echo "ERROR: Expected a file at $FILE_PATH, but it doesn't exist."
+            exit 1
+        fi
+        
+    - name: Post Comment if Validation Fails
+      if: failure()
+      run: |
+        cat <<EOT > message.txt
+        Olá! Parece que houve um problema com o seu PR 🧐 Aqui estão algumas coisas para verificar:
+        - O PR deve conter o arquivo \`community/${{ github.actor }}.md\`
+        - O nome desse arquivo deve coincidir **exatamente** (_case-sensitive_) com o seu nome de usuário no GitHub.
+
+        Para obter mais detalhes e garantir que tudo esteja correto, confira nossas instruções no [README.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/README.md) e [CONTRIBUTE.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTE.md).
+
+        Se o seu PR tem um objetivo diferente, não se preocupe! Ele será analisado manualmente por nossa equipe, o que pode levar um pouco mais de tempo. Pedimos paciência nesse processo 🙏
+
+        Agradecemos sua contribuição e compreensão 👊😉
+        EOT
+
+        gh pr comment ${{ github.event.pull_request.number }} --body-file=message.txt
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Approve and Comment PR
+      if: success()
+      run: |
+        REPO_URL=${{ github.event.pull_request.head.repo.html_url }}
+        cat <<EOT > message.txt
+        Aí sim hein! Seu PR foi aprovado 🥳 Você já pode submeter o seu projeto na plataforma da DIO. Segue sua URL:
+        \`\`\`
+        $REPO_URL
+        \`\`\`
+        Faremos o merge aqui em breve. Muito obrigado por fazer parte da nossa comunidade 🚀
+        EOT
+
+        gh pr comment ${{ github.event.pull_request.number }} --body-file=message.txt
+        gh pr edit ${{ github.event.pull_request.number }} --add-label "automerge"
+      env:
+        GH_TOKEN: ${{ secrets.FALVOJR_PAT }}
