@@ -25,36 +25,24 @@ jobs:
             exit 1
         fi
         
-        echo "DEBUG: EXPECTED FILE_PATH = $FILE_PATH"
-        echo "DEBUG: PR AUTHOR USERNAME = $AUTHOR_NAME"
-
     - name: Post Comment if Validation Fails
       if: failure()
       run: |
         echo "Ei! Parece que algo não deu certo com o seu PR. Ele deve conter apenas um arquivo .md na pasta 'community/', e o nome desse arquivo deve ser o mesmo que o seu nome de usuário no GitHub. Dê uma olhada nas instruções no README.md e no CONTRIBUTE.md para acertar. Assim que fizer as correções, atualize o PR para que possamos avaliá-lo novamente. Se continuar com problemas, infelizmente a revisão será manual e pode demorar um pouquinho. Valeu pela contribuição 👊😉" > message.txt
         gh pr comment ${{ github.event.pull_request.number }} --body-file=message.txt
-      env:
-        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Approve PR
-      if: success()
-      uses: hmarr/auto-approve-action@v3
-      with:
-        github-token: "${{ secrets.GITHUB_TOKEN }}"
-        
-    - name: Merge PR
-      if: success()
-      uses: pascalgn/automerge-action@v0.15.6
-      with:
-        GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
-        MERGE_LABELS: ""
-        MERGE_COMMIT_MESSAGE: "automatic"
-        MERGE_METHOD: "squash"
-        
-    - name: Post Comment for Approved and Merged PRs
+    - name: Approve and Comment PR
       if: success()
       run: |
         echo "E aí! Seu PR com o arquivo .md na pasta 'community/' está perfeito e já foi aprovado! Muito obrigado por se juntar à comunidade 🚀" > message.txt
         gh pr comment ${{ github.event.pull_request.number }} --body-file=message.txt
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Merge PR
+      uses: pascalgn/automerge-action@v0.15.6
+      with:
+        GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+        MERGE_LABELS: ""
+        MERGE_COMMIT_MESSAGE: "Merged: Inclusão do perfil ${{ github.actor }}"
+        MERGE_METHOD: "squash"
