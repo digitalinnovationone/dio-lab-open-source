@@ -1,4 +1,4 @@
-name: Workflow 2 - Automerge PRs
+name: Workflow 2 - PR Automerge
 
 on:
   pull_request:
