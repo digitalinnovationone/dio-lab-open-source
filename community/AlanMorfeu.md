@@ -13,6 +13,7 @@ Sempre tive uma conexão com tecnologia por meio de video games, e foi só depoi
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 
 ## Conecte-se comigo
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/alan_david_pereira/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/AlanMorfeu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/alan-david-pereira-002556205/)
 
