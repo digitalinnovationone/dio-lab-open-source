@@ -11,9 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code from PR (Safe Checkout)
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
       with:
-        ref: ${{ github.event.pull_request.head.sha }}
+        ref: ${{github.event.pull_request.head.ref}}
+        repository: ${{github.event.pull_request.head.repo.full_name}}
         
     - name: Validate PR
       run: |
@@ -42,7 +43,7 @@ jobs:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Merge PR
-      uses: "pascalgn/automerge-action@v0.15.6"
+      uses: pascalgn/automerge-action@v0.15.6
       env:
         GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
         MERGE_LABELS: ""
