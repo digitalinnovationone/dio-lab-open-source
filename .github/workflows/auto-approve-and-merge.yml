@@ -38,12 +38,12 @@ jobs:
     - name: Approve PR
       uses: hmarr/auto-approve-action@v2.1.0
       with:
-        github-token: "${{ secrets.GITHUB_TOKEN }}"
+        github-token: "${{ secrets.MY_PAT }}"
         
     - name: Merge PR
       uses: pascalgn/automerge-action@v0.13.1
       with:
-        GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+        GITHUB_TOKEN: "${{ secrets.MY_PAT }}"
         MERGE_LABELS: ""
         MERGE_COMMIT_MESSAGE: "automatic"
         MERGE_METHOD: "squash"
