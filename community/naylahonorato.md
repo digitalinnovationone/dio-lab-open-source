@@ -1,10 +1,13 @@
-# Oii! Eu sou a Nayla Honorato
+ # _Oii! Eu sou a Nayla Honorato!_
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=naylahonorato&show_icons=true&theme=monokai&custom_title=NaylaHonorato&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naylahonorato&layout=compact&langs_count=8&card_width=320&&bg_color=272822&title_color=eb1f6a&text_color=FFF" />
+</a>
 
-![Nayla Honorato GitHub stats](https://github-readme-stats.vercel.app/api?username=naylahonorato&theme=monokai&show_icons=true)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=naylahonorato&bg_color=272822&border_color=30A3DC&title_color=eb1f6a&text_color=FFF)
-
+##
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
