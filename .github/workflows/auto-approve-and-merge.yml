@@ -1,7 +1,7 @@
 name: Auto Approve and Merge PRs
 
 on:
-  pull_request:
+  pull_request_target:
     types:
       - opened
       - synchronize
@@ -10,9 +10,12 @@ jobs:
   auto-approve-and-merge:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout code
+    - name: Checkout code from PR
       uses: actions/checkout@v2
-      
+      with:
+        ref: ${{ github.event.pull_request.head.ref }}
+        repository: ${{ github.event.pull_request.head.repo.full_name }}
+        
     - name: Validate PR
       run: |
         AUTHOR_NAME="${{ github.actor }}"
@@ -23,7 +26,6 @@ jobs:
             exit 1
         fi
         
-        # Debugging: Vamos imprimir os valores e ver o que está sendo capturado
         echo "DEBUG: EXPECTED FILE_PATH = $FILE_PATH"
         echo "DEBUG: PR AUTHOR USERNAME = $AUTHOR_NAME"
 
@@ -36,12 +38,12 @@ jobs:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Approve PR
-      uses: hmarr/auto-approve-action@v2.1.0
+      uses: hmarr/auto-approve-action@v3
       with:
         github-token: "${{ secrets.GITHUB_TOKEN }}"
         
     - name: Merge PR
-      uses: pascalgn/automerge-action@v0.13.1
+      uses: pascalgn/automerge-action@v0.15.6
       with:
         GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
         MERGE_LABELS: ""
