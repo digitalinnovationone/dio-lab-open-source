@@ -15,37 +15,17 @@ jobs:
       
     - name: Validate PR
       run: |
-        validate_single_md_file() {
-          local file_count=$1
-          if [[ $file_count -ne 1 ]]; then
-            echo "ERROR: There should be exactly one .md file added or modified in the community/ directory."
+        AUTHOR_NAME=$(git log -1 --pretty=format:'%an')
+        FILE_PATH="community/$AUTHOR_NAME.md"
+        
+        if [[ ! -f $FILE_PATH ]]; then
+            echo "ERROR: Expected a file at $FILE_PATH, but it doesn't exist."
             exit 1
-          fi
-        }
-        
-        validate_filename_matches_github_actor() {
-          local file_basename=$1
-          local github_actor=$2
-          if [[ $file_basename != "$github_actor" ]]; then
-            echo "ERROR: The .md file name '$file_basename' does not match the GitHub username '$github_actor'."
-            exit 1
-          fi
-        }
-        
-        # Obtenha o nome do arquivo .md adicionado ou modificado na pasta community.
-        FILE_NAME=$(git diff --name-only origin/main..HEAD | grep '^community/.*\.md$')
-        FILE_BASENAME=$(basename $FILE_NAME .md)
-        
-        # Verifica se há apenas um arquivo .md adicionado ou modificado na pasta community.
-        FILE_COUNT=$(echo $FILE_NAME | wc -l)
-        
+        fi
+    
         # Debugging: Vamos imprimir os valores e ver o que está sendo capturado
-        echo "DEBUG: FILE_NAME = $FILE_NAME"
-        echo "DEBUG: FILE_BASENAME = $FILE_BASENAME"
-        echo "DEBUG: GITHUB ACTOR = ${{ github.actor }}"
-        
-        validate_single_md_file $FILE_COUNT
-        validate_filename_matches_github_actor $FILE_BASENAME ${{ github.actor }}
+        echo "DEBUG: EXPECTED FILE_PATH = $FILE_PATH"
+        echo "DEBUG: COMMIT AUTHOR NAME = $AUTHOR_NAME"
 
     - name: Post Comment if Validation Fails
       if: failure()
