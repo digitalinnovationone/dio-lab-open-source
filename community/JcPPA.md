@@ -47,7 +47,7 @@ Information Security Specialist.</p>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JcPPA&theme=bear&background=000&border=950760&dates=FFF)](https://git.io/streak-stats)
 
 > <h><img src="https://i.pinimg.com/originals/23/4b/27/234b27d7a98e9c55c8dab16375d02c8a.gif" height="100px"/> 
-<span style="color:red">**Continue your studies...**</span>
+<span style="color:red">**Continue your studies!**</span>
 
 
 
