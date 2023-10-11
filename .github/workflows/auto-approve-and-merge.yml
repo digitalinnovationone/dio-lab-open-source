@@ -45,6 +45,6 @@ jobs:
       uses: pascalgn/automerge-action@v0.15.6
       env:
         GITHUB_TOKEN: "${{ secrets.FALVOJR_PAT }}"
-        MERGE_LABELS: ""
-        LOG: "DEBUG"
+        MERGE_LABELS: "automerge"
+        MERGE_REMOVE_LABELS: "automerge"
         
