@@ -1,16 +1,14 @@
-name: DIO Workflow - Validação e Auto-Merge de PRs
+name: DIO Lab Workflow
 
 on:
   pull_request_target:
     types:
       - opened
       - synchronize
-      - labeled
 
 jobs:
-  validate:
+  validate-and-comment:
     runs-on: ubuntu-latest
-    if: github.event.action != 'labeled'
 
     steps:
     - name: Checkout code from PR (Safe Checkout)
@@ -66,7 +64,6 @@ jobs:
 
   merge:
       runs-on: ubuntu-latest
-      if: github.event.action == 'labeled' && github.event.label.name == 'automerge'
 
       steps:
       - name: Merge PR
