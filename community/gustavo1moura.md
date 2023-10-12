@@ -1,11 +1,16 @@
 # Gustavo1Moura
+## Sobre
+Possuo experiência +5 anos com Banco de Dados SQL SERVER, executando diversas atividades como criação, monitoramento, análise de estruturas, geração de diversos relatórios gerenciais;
+Possuo experiência +6 anos na linguagem C#, Dot Net, em projetos na área jurídica e financeira. 
+Conhecimento com Entity Framework, MVC, GIT, SCRUM. 
+Possuo experiência 4 anos na linguagem PHP.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffe?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gustavommoura/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-ffe?style=for-the-badge&logo=GitHub&logoColor=0E76A8)](https://github.com/gustavo1moura?tab=repositories)
-## Habilidades
 
+## Habilidades
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
