@@ -16,6 +16,7 @@ jobs:
       if: github.event.action == 'labeled' && github.event.label.name != 'run dio workflow'
       run: |
         echo "WARN: Workflow was triggered by another label, not [run dio workflow]. Skipping execution..."
+        echo "::set-output name=skip::true"
         exit 78  # exit code 78 is a neutral exit for GitHub Actions, meaning the action was skipped.
     
     - name: Checkout code from PR (Safe Checkout)
@@ -51,7 +52,7 @@ jobs:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Comment PR on Failure
-      if: failure()
+      if: failure() && steps.check-label.outputs.skip != 'true'
       run: |
         cat <<EOT > message.txt
         Olá! Parece que houve um problema com o seu PR 🧐 Aqui estão algumas coisas para verificar:
