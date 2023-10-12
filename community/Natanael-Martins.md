@@ -1,7 +1,7 @@
 # Olá!
 Me chamo Natanael Fernando Martins, tenho 30 anos e sou natural de Alfenas, MG. Minha jornada profissional começou na programação, onde atuei como analista de sistemas desenvolvedor, trabalhando principalmente com linguagens como Java e PL/SQL.
 
-Atualmente, estou dedicando meu tempo ao aprimoramento dos meus conhecimentos cursando faculdade análise e  desenvolvimento de sistemas. Tenho focado em cursos que abrangem diversas tecnologias, como Java, SQL Server, Klodi, .NET, entre outras.
+Atualmente, estou dedicando meu tempo ao aprimoramento dos meus conhecimentos cursando faculdade análise e  desenvolvimento de sistemas. Tenho focado em cursos que abrangem diversas tecnologias, como Java, SQL Server, Kotlin, .NET, entre outras.
 
 ## 🛠️ Skills
 <div style="display: inline_block"><br>
