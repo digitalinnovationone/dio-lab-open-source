@@ -5,12 +5,19 @@ on:
     types:
       - opened
       - synchronize
+      - labeled
 
 jobs:
   validate-and-comment:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Check Triggering Label [run dio workflow]
+      if: github.event.action == 'labeled' && github.event.label.name != 'run dio workflow'
+      run: |
+        echo "WARN: Workflow was triggered by another label, not [run dio workflow]. Skipping execution..."
+        exit 78  # exit code 78 is a neutral exit for GitHub Actions, meaning the action was skipped.
+    
     - name: Checkout code from PR (Safe Checkout)
       uses: actions/checkout@v4
       with:
@@ -26,7 +33,7 @@ jobs:
             exit 1
         fi
 
-    - name: Comment PR on Success and Label as [automerge]
+    - name: Comment PR on Success and Add Label [automerge]
       if: success()
       run: |
         REPO_URL=${{ github.event.pull_request.head.repo.html_url }}
