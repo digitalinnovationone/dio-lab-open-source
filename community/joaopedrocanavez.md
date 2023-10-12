@@ -1,5 +1,5 @@
 # Canavez
-Opa, sou canavez, ou João, e busco pela DIO mais conhecimento e oportunidades de serviço em ADS
+Opa, sou canavez, ou João, e busco pela DIO mais conhecimento e oportunidades de serviço em ADS.
 
 ## Conecte-se Comigo!
 [![Github](https://img.shields.io/badge/Github-357?style=for-the-badge&logo=Github&logoColor=fffff)](https://www.github.com/joaopedrocanavez)
