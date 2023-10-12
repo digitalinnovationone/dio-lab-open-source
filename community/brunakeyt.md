@@ -11,8 +11,13 @@
 
 ## Certificação
 <div>
-Link certificação: https://www.credly.com/badges/3aafeba7-1bf0-433e-8122-076fe6abcd48/public_url
   
+Azure AI fundamentals
+<br>
+Link certificação: https://www.credly.com/badges/3aafeba7-1bf0-433e-8122-076fe6abcd48/public_url
+
+Azure data fundamentals
+<br>
 Link certificação: https://www.credly.com/badges/175138a7-e041-4b51-b56e-eb859fc95d4d/public_url
 </div>
 
