@@ -25,7 +25,7 @@ jobs:
         
     - name: Validate PR
       run: |
-        AUTHOR_NAME="${{ github.actor }}"
+        AUTHOR_NAME="${{ github.event.pull_request.user.login }}"
         FILE_PATH="community/$AUTHOR_NAME.md"
         
         if [[ ! -f $FILE_PATH ]]; then
@@ -55,7 +55,7 @@ jobs:
       run: |
         cat <<EOT > message.txt
         Olá! Parece que houve um problema com o seu PR 🧐 Aqui estão algumas coisas para verificar:
-        - O PR deve conter o arquivo \`community/${{ github.actor }}.md\`
+        - O PR deve conter o arquivo \`community/${{ github.event.pull_request.user.login }}.md\`
         - O nome desse arquivo deve coincidir **exatamente** (_case-sensitive_) com o seu nome de usuário no GitHub.
 
         Para obter mais detalhes e garantir que tudo esteja correto, confira nossas instruções no [README.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/README.md) e [CONTRIBUTE.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTE.md).
