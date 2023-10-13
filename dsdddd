@@ -1,0 +1,1035 @@
+[33mcommit 8959c5ea86c0a99203530c21e905182a21a76a45[m[33m ([m[1;36mHEAD -> [m[1;32mfeat/community/carlosamaralcm[m[33m)[m
+Author: Carlos Amaral <carlos.amaral.dev@outlook.com>
+Date:   Fri Oct 13 13:57:34 2023 -0400
+
+    feat: add CarlosAmaralCM profile
+
+[33mcommit 4375f52b75652c0a4242c6188f27fe1b8354ee1f[m[33m ([m[1;31mupstream/main[m[33m, [m[1;32mmain[m[33m)[m
+Merge: b298c808 254516e6
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:24:27 2023 +0000
+
+    Merge pull request #2409 from MateusBertazzo/feat/community/MateusBertazzo
+
+[33mcommit b298c808bb29a98d0f38b31a93c4aa555039bbcd[m
+Merge: 8b9ef618 963ab468
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:23:32 2023 +0000
+
+    Merge pull request #2405 from Luiiz-Souza/feat/community/Luiiz-Souza
+
+[33mcommit 8b9ef6184963f2bb6bd833d8838a4a92f316ca78[m
+Merge: 621fd23f 81ad7b94
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:23:24 2023 +0000
+
+    Merge pull request #2404 from lucascesca/feat/community/lucascesca
+
+[33mcommit 621fd23fded503e0a489818c2dcaf28365183ff0[m
+Merge: 797e3b47 4e7cbc31
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:22:35 2023 +0000
+
+    Merge pull request #2401 from paulopcrp/feat/community/paulopcrp
+
+[33mcommit 797e3b47083d3b95a325b372183450a4c59ac2ac[m
+Merge: e0821aa7 bf7ae963
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:22:18 2023 +0000
+
+    Merge pull request #2399 from limaand/feat/community/limaand
+
+[33mcommit e0821aa70272ef8b992a0a2e4f2fe35dfd652933[m
+Merge: 4458c676 bf208e9b
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:21:56 2023 +0000
+
+    Merge pull request #2398 from Estebanjgg/feat/community/Estebanjgg
+
+[33mcommit 4458c67605a6748dd1b5cf9e5b819704e73413dc[m
+Merge: 1613dd3d 9f0e37c8
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:21:44 2023 +0000
+
+    Merge pull request #2396 from Mourishitz/feat/community/Mourishitz
+
+[33mcommit 1613dd3d358b4286ca57f1d549a5108823400937[m
+Merge: 4db847ef b15a8e98
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:21:30 2023 +0000
+
+    Merge pull request #2395 from CaioSiqueira01/feat/community/CaioSiqueira01
+
+[33mcommit 4db847ef6d69bd0682ad7710b69513040c20b842[m
+Merge: ea086006 0cc08ee8
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:21:15 2023 +0000
+
+    Merge pull request #2393 from heroshg/feat/community/heroshg
+
+[33mcommit ea086006041e8b4aa1b7bd87b6131e2ab0c42e9b[m
+Merge: 016e53f5 2cdf2d79
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:20:51 2023 +0000
+
+    Merge pull request #2392 from stonefullstm/feat/community/stonefullstm
+
+[33mcommit 016e53f5cb43c2042bee1a8a3f180407ebd8a17a[m
+Merge: 01d3b475 ae9715e0
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:20:38 2023 +0000
+
+    Merge pull request #2390 from kauangsilva/feat/community/kauangsilva
+
+[33mcommit 01d3b475f12fd695263ed32454ce00b01e6acd7b[m
+Merge: 98f4b79f 87beec9c
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:19:49 2023 +0000
+
+    Merge pull request #2387 from otaviotfcunha/feat/community/otaviotfcunha
+
+[33mcommit 98f4b79f6b255c5bf006813a4b4897a456380574[m
+Merge: e53105bf f51049c8
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:19:41 2023 +0000
+
+    Merge pull request #2386 from LucasLanzaP/feat/community/LucasLanzaP
+
+[33mcommit e53105bfb82bf2fc0b772480848a3de6c6566b89[m
+Merge: 713f2f8f b1f5f20f
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:19:19 2023 +0000
+
+    Merge pull request #2384 from LucasMurakami/feat/community/LucasMurakami
+
+[33mcommit 713f2f8f1b9f148516b91f661ebc8ac66d0342dc[m
+Merge: f744d2d6 7bbbaa79
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:19:03 2023 +0000
+
+    Merge pull request #2383 from ppanebianco/feat/comuniy/ppanebianco
+
+[33mcommit f744d2d65d919947420449b7514cbfd32ef149fa[m
+Merge: aff89135 9b9fcf11
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:18:57 2023 +0000
+
+    Merge pull request #2382 from igortrombini/feat/community/igortrombini
+
+[33mcommit aff89135c7ff3026524fdd850148bd6ed6a3bf5c[m
+Merge: f63339b5 a4f6d2ec
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:18:39 2023 +0000
+
+    Merge pull request #2380 from RodrigoFreireA/feat/community/RodrigoFreireA
+
+[33mcommit f63339b57a66f7c220c26f49c1eea6d8d986a7af[m
+Merge: f97e58a8 5e2490c5
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:18:13 2023 +0000
+
+    Merge pull request #2379 from MatheusVict/feat/community/MatheusVict
+
+[33mcommit f97e58a86025109c2e39e2985e427d405fcb317c[m
+Merge: 4dbe6238 6b0d2dc3
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:17:47 2023 +0000
+
+    Merge pull request #2376 from UriasAreias/feat/community/UriasAreias
+
+[33mcommit 4dbe6238cc4ed40e7887aa236c60049f70d4854f[m
+Merge: 34f468e7 efeda6e3
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:17:46 2023 +0000
+
+    Merge pull request #2377 from viniciusbarboosa/feat/community/viniciusbarboosa
+
+[33mcommit 34f468e70f1ef3ca55303453d7ee99d0b4f2de1b[m
+Merge: 68c080e6 7eb014bb
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:17:08 2023 +0000
+
+    Merge pull request #2375 from MateusHenriquegringo/feat/community/MateusHenriquegringo
+
+[33mcommit 68c080e6ff958d45067a7bff889dfbfa1463d123[m
+Merge: 0ad3dc58 460b4c46
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:17:02 2023 +0000
+
+    Merge pull request #2374 from gabiceemi/feat/community/gabiceemi
+
+[33mcommit 0ad3dc5858040c3301df312d320128da610770fc[m
+Merge: 3692f17f 8f283943
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:16:36 2023 +0000
+
+    Merge pull request #2373 from felpfsf/feat/community/felpfsf
+
+[33mcommit 3692f17fe1687e41f610a5ff6fe57d802e8ca4ad[m
+Merge: 1d5ec219 66cd8b12
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:16:19 2023 +0000
+
+    Merge pull request #2372 from leocmoura/feat/community/leocmoura
+
+[33mcommit 1d5ec219357e827b30c4a29fe85e5f4cb2e35a01[m
+Merge: 14c79ffa b09fcbb0
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:15:49 2023 +0000
+
+    Merge pull request #2370 from erlanbelo21/feat/community/erlanbelo21
+
+[33mcommit 14c79ffafe012513b4d2e81ad33c72562c3b7011[m
+Merge: 3f9f0ecb ef515a9c
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:15:31 2023 +0000
+
+    Merge pull request #2369 from pedrofava1/feat/community/pedrofava1
+
+[33mcommit 3f9f0ecb472be518ec2de2351a76afe4c0d58b2a[m
+Merge: 334ac630 d169bfef
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:15:06 2023 +0000
+
+    Merge pull request #2367 from ederusena/feat/community/ederusena
+
+[33mcommit 334ac6303a910ec19226bb53dc03cab4128f1694[m
+Merge: 2d23ad52 0c3d6505
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:14:47 2023 +0000
+
+    Merge pull request #2366 from JWRibas/feat/community/JWRibas
+
+[33mcommit 2d23ad527bd4ba4adc286dd15102a4e3e4212a03[m
+Merge: 60fb41c5 991b4575
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:14:29 2023 +0000
+
+    Merge pull request #2365 from luccpass/feat/community/luccpass
+
+[33mcommit 60fb41c5afff0a393b102771b15e25d511ef368b[m
+Merge: 2402da90 51a91a5c
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:14:04 2023 +0000
+
+    Merge pull request #2363 from jmarcoshss/feat/community/jmarcoshss
+
+[33mcommit 2402da90a9eebfdd499bb05903e858d394b2a5c0[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: af582575 926ee931
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:13:48 2023 +0000
+
+    Merge pull request #2362 from RSuio/feat/community/RSuio
+
+[33mcommit af5825750a05c22946d82dc5d5c6d002590f31d2[m
+Merge: c759bacb 1ba4e47a
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:13:30 2023 +0000
+
+    Merge pull request #2361 from NFTSZ/feat/community/NFTSZ
+
+[33mcommit c759bacbb6e344ae8dc8eff2076236b42fa7c71a[m
+Merge: 0d2f1c01 ed258622
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:12:37 2023 +0000
+
+    Merge pull request #2358 from thiagopinotti/feat/community/thiagopinotti
+
+[33mcommit 0d2f1c0170a2feb5a1d878bfaaa29313383669e9[m
+Merge: 8262ca4d a6448f26
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:12:05 2023 +0000
+
+    Merge pull request #2356 from NiksonDiniz/feat/community/NiksonDiniz
+
+[33mcommit 8262ca4d6a32c3e03120b73f33bcde30165faba3[m
+Merge: 9595791c 9d399de9
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:02:02 2023 +0000
+
+    Merge pull request #2305 from adrianoct42/feat/community/adrianoct42
+
+[33mcommit 9595791c7b3d5437532e3a613e71cd2ea07e0cfb[m
+Merge: c487753a 89b76f1d
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:01:39 2023 +0000
+
+    Merge pull request #2303 from matheusg1/feat/community/matheusg1
+
+[33mcommit c487753aa8e4345a600bfdfba023c7d2c8e921e6[m
+Merge: 6883464e 18f3f5ee
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:01:10 2023 +0000
+
+    Merge pull request #2301 from murilojssilva/feat/community/murilojssilva
+
+[33mcommit 6883464eb114fb03823661afbe7f73a9944c4bc7[m
+Merge: 933f19b8 186a2554
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:01:09 2023 +0000
+
+    Merge pull request #2300 from jeffdiger/feat/community/jeffdiger
+
+[33mcommit 933f19b84ab44f7cc6a5f5da049afabb9deccf4d[m
+Merge: 71de9f35 8244fc2e
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:00:53 2023 +0000
+
+    Merge pull request #14973 from Luan-Masson/main
+
+[33mcommit 71de9f3593459f84975b688af254526791208cdc[m
+Merge: 94489f81 ccc56907
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:00:29 2023 +0000
+
+    Merge pull request #2298 from johnidk/feat/community/johnidk
+
+[33mcommit 94489f81dabbd4f4c92790ce4b5e8069a6269277[m
+Merge: 77ecabd6 9bd5f5f5
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:00:20 2023 +0000
+
+    Merge pull request #2297 from caioskywalker/feat/community/caioskywalker
+
+[33mcommit 77ecabd6683b5a0db58c3bf743dbb4240d75d544[m
+Merge: 3a707997 f80d12fc
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 17:00:11 2023 +0000
+
+    Merge pull request #14971 from lucianordn/feat/community/lucianordn
+
+[33mcommit 3a707997183f309156fb4d4d938c26ab97c06448[m
+Merge: 6f752f0e 016b8c6a
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:59:52 2023 +0000
+
+    Merge pull request #2296 from bernardomelor/feat/community/bernardomelor
+
+[33mcommit 6f752f0e70ecf6517a1526d7935aed2b9c75c403[m
+Merge: e7c1e3e5 311a2fee
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:59:36 2023 +0000
+
+    Merge pull request #2295 from Jandersolutions/main
+
+[33mcommit e7c1e3e56a24cd0483691390218fb0d1dd999e69[m
+Merge: f0bd93f0 727c9273
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:59:21 2023 +0000
+
+    Merge pull request #2294 from yohana-teixeira01/feat/community/yohana-teixeira01
+
+[33mcommit f0bd93f0f5e416e7eb90dc26afca4b0d91f775fc[m
+Merge: 9bd4d9a6 8e65b2eb
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:59:13 2023 +0000
+
+    Merge pull request #2293 from cabralzgrv/feat/community/cabralzgrv
+
+[33mcommit 8244fc2e899bfce365cf5a86f1d8490032d81d79[m
+Author: Luan Masson <luan0masson@gmail.com>
+Date:   Fri Oct 13 13:59:08 2023 -0300
+
+    feat: add Luan-Masson profile
+
+[33mcommit 9bd4d9a6c5782d2abe0b960e31b59d6686f2070a[m
+Merge: fce5e24b dcf92a69
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:58:56 2023 +0000
+
+    Merge pull request #2292 from ArtNicke/main
+
+[33mcommit fce5e24b41a69c2c6b2d3d84780541ef15c72b34[m
+Merge: 0f94de14 39866046
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:58:37 2023 +0000
+
+    Merge pull request #14963 from th-maia/feat/community/th-maia
+
+[33mcommit 0f94de146e9f075add59839386f805863bf90cff[m
+Merge: 6acdf32a 167774f4
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:58:31 2023 +0000
+
+    Merge pull request #2290 from emersonsmp/feat/community/emersonsmp
+
+[33mcommit 6acdf32a637f5d56716c6a1a729b7ef846611ce5[m
+Merge: fab19035 9b24c5dc
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:58:16 2023 +0000
+
+    Merge pull request #2289 from hidelgionovela/feat/community/hidelgionovela
+
+[33mcommit 39866046d6f9c691c3a10a64038be1270fd07a1d[m
+Merge: 1231ca10 fab19035
+Author: thiago maia <98316512+th-maia@users.noreply.github.com>
+Date:   Fri Oct 13 13:58:08 2023 -0300
+
+    Merge branch 'digitalinnovationone:main' into feat/community/th-maia
+
+[33mcommit fab19035367dc003e59079efe0dcda034cd68857[m
+Merge: 6cd24b77 a32d3840
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:57:57 2023 +0000
+
+    Merge pull request #2287 from MateusWei/feat/community/MateusWei
+
+[33mcommit 6cd24b77090fabb33b17d8d822a4b4a434700b3d[m
+Merge: bcff1cbc 2cacf508
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:57:30 2023 +0000
+
+    Merge pull request #2286 from AlfredoLSN/feat/community/alfredolsn
+
+[33mcommit bcff1cbc476b21706671cdf4dc45fb10493e867d[m
+Merge: 705e2b0b c62b1cbd
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:57:14 2023 +0000
+
+    Merge pull request #2284 from anikape/feat/community/anikape
+
+[33mcommit 705e2b0bdccbfcead8d86bbaedf82e8f634ae40b[m
+Merge: 61a72d82 690ff3ab
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:56:32 2023 +0000
+
+    Merge pull request #2282 from jxhnlcs/feat/community/jxhnlcs
+
+[33mcommit 61a72d8263b3ddfd532e9fde38b882e97e235574[m
+Merge: d2f01738 74640840
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:56:18 2023 +0000
+
+    Merge pull request #2281 from CrislayneSoares/feat/community/CrislayneSoares
+
+[33mcommit d2f01738c571344e1bf60d76f3f5a89bef842521[m
+Merge: b06b9ac1 556d3994
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:55:56 2023 +0000
+
+    Merge pull request #2279 from abnerjs/feat/community/abnerjs
+
+[33mcommit b06b9ac1c19b0de000d45e42510a37a0cf7fba1a[m
+Merge: 924c93b4 a742e463
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:55:30 2023 +0000
+
+    Merge pull request #2276 from matheusbezerraa/feat/community/matheusbezerraa
+
+[33mcommit 924c93b47209c1f4c5a44cd9b9bc6bb16ed60247[m
+Merge: 1ac8de4c 05528ce1
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:55:13 2023 +0000
+
+    Merge pull request #2274 from LuizBrenoDev/feat/community/LuizBrenoDev
+
+[33mcommit 1ac8de4c46a7a201318fb572f8a63770cabc8e95[m
+Merge: e0020ae2 c6554cf6
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:54:50 2023 +0000
+
+    Merge pull request #2270 from pkielblock/feat/community/pkielblock
+
+[33mcommit e0020ae2fb02fd59c4654b328993a70fa67cf5de[m
+Merge: 85f146c0 d773d1cd
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:54:48 2023 +0000
+
+    Merge pull request #2273 from LSBorsalino/feat/community/LSBorsalino
+
+[33mcommit 85f146c0cba4123dff9c6daecd9202b7bb2a6021[m
+Merge: de2f37d5 32db42d4
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:54:22 2023 +0000
+
+    Merge pull request #2268 from felipebdn/feat/community/felipebdn
+
+[33mcommit de2f37d5b1cd1eff09a58c1fa4308b07174483b2[m
+Merge: 544729ed 362ad6df
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:54:02 2023 +0000
+
+    Merge pull request #2267 from felipemike/feat/community/felipemike
+
+[33mcommit 544729ed3fb002ed4e9a0d9d0d49a55964157727[m
+Merge: 4c1a0d11 5fdd82f8
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:54:00 2023 +0000
+
+    Merge pull request #2263 from luanalmeida18/feat/community/luanalmeida18
+
+[33mcommit 4c1a0d1124cc6ca3f07503b528d6eb6306bfa98d[m
+Merge: d563b5d4 abd54db9
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:53:22 2023 +0000
+
+    Merge pull request #2262 from gustaoliveira1/feat/community/gustaoliveira1
+
+[33mcommit d563b5d403efe4437fa85bc78add66f00ba6c5a4[m
+Merge: ded7e9fc d6be4466
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:53:14 2023 +0000
+
+    Merge pull request #2260 from 4ssun/feat/community/4ssun
+
+[33mcommit ded7e9fcc01e86f137feffcd5b4ca022ab16b7d5[m
+Merge: 2a3b715e a189fd9a
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:52:42 2023 +0000
+
+    Merge pull request #2258 from jauafelipe/feat/community/jauafelipe
+
+[33mcommit 2a3b715eed0dfc41f521a03d16b8404a634bf590[m
+Merge: 2d558920 f3aee483
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:52:28 2023 +0000
+
+    Merge pull request #2256 from delfo2/feat/community/delfo2
+
+[33mcommit 2d55892073a9071c8b5bb6a177e53f5b2a16c3aa[m
+Merge: 2f72b7bb 06cdf746
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:52:12 2023 +0000
+
+    Merge pull request #2254 from nextmarte/feat/community/nextmarte
+
+[33mcommit 2f72b7bbbf7c9c1322b7df58f17efddaf9db5a74[m
+Merge: 36d3157d d8621b03
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:52:09 2023 +0000
+
+    Merge pull request #2253 from DanilloSouza03/feat/community/DanilloSouza03
+
+[33mcommit 36d3157d164b758cd5fd3bf30c4427963b8ecf90[m
+Merge: 5f87685d 79397000
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:51:24 2023 +0000
+
+    Merge pull request #2252 from MariaCaroll/feat/community/MariaCaroll
+
+[33mcommit 5f87685d451902a2052943e91bdec171af3a2637[m
+Merge: 7d388528 8c21d74c
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:51:17 2023 +0000
+
+    Merge pull request #2248 from fronthendy/feat/community/fronthendy
+
+[33mcommit 7d3885285a747f88c168094465acd65f9244ffa5[m
+Merge: d6924041 53909786
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:51:11 2023 +0000
+
+    Merge pull request #2250 from gabrielkalbaitzrusso/feat/community/gabrielkalbaitzrusso
+
+[33mcommit d6924041002af6809cd4f0fab177169122814c34[m
+Merge: 83733c1a b4780a36
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:50:36 2023 +0000
+
+    Merge pull request #2243 from rodrigosalsa7/feat/community/rodrigosalsa7
+
+[33mcommit 83733c1a6cef19abdb24990f1a5a5c4da98f876d[m
+Merge: 37878723 7bedec57
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:50:20 2023 +0000
+
+    Merge pull request #2242 from RaphaelGMoreira/main
+
+[33mcommit 378787231b059b1219ec48eda1152bd4c6a86915[m
+Merge: badcbdfd e89c0ea8
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:50:03 2023 +0000
+
+    Merge pull request #2241 from queelgomes/feat/community/queelgomes
+
+[33mcommit badcbdfd9a7154d32b8724978c9f0829582144ee[m
+Merge: d5c0a4b7 6ec84210
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:49:48 2023 +0000
+
+    Merge pull request #2240 from mariyzx/feat/community/mariyzx
+
+[33mcommit d5c0a4b79fb594c1a591f52d9b2feb0dfc65268e[m
+Merge: edc1de78 103936ec
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:49:39 2023 +0000
+
+    Merge pull request #1995 from joaofanchini/main
+
+[33mcommit edc1de785fa93105d4bf7a9731cd6fd8c765f22a[m
+Merge: 32142daa 5fae53bb
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:49:38 2023 +0000
+
+    Merge pull request #2239 from Xandowski/feat/community/Xandowski
+
+[33mcommit 32142daaa3008d029a34212c753a0e960536208a[m
+Merge: 49cca815 94f36087
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:49:15 2023 +0000
+
+    Merge pull request #2237 from lombardi-g/main
+
+[33mcommit 49cca8151640d7770c31843b28729f9c3463bdb9[m
+Merge: 4a4916ae dc6de2d7
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:49:12 2023 +0000
+
+    Merge pull request #2238 from eddulemod/feat/community/eddulemod
+
+[33mcommit f80d12fc2742775f6a1c944ddaff9d6ec552d42b[m
+Author: lucianordn <147545188+lucianordn@users.noreply.github.com>
+Date:   Fri Oct 13 13:48:59 2023 -0300
+
+    Add files via upload
+
+[33mcommit 4a4916aec3a223ad2e0383d2b4a587a0f9ec3078[m
+Merge: 681768da b2447731
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:48:57 2023 +0000
+
+    Merge pull request #2234 from FernandoSSI/feat/community/FernandoSSI
+
+[33mcommit 681768da4644dc80f03420d5da61d79ee02f7f9f[m
+Merge: e9dc8245 e965b3f3
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:48:43 2023 +0000
+
+    Merge pull request #2236 from pedrovsbenevides/main
+
+[33mcommit e9dc82454e3101496d989621e260beec7d3a2060[m
+Merge: 10a68d46 38544b6e
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:47:51 2023 +0000
+
+    Merge pull request #2229 from diogod14/feat/community/diogod14
+
+[33mcommit 10a68d4603e8a03a4a22dbcd8771c19442dc7822[m
+Merge: 53a93d5f 2bc59302
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:47:37 2023 +0000
+
+    Merge pull request #2228 from Sandrapenha01/Sandrapenha01-patch-1-1
+
+[33mcommit 53a93d5f61a8bdddddd8e8d06ca7a8b36c781260[m
+Merge: 15cadd47 1ea90b71
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:47:11 2023 +0000
+
+    Merge pull request #2226 from felipelabs/feat/community/felipelabs
+
+[33mcommit 15cadd47ee764886bf60540b857c298d8c68834a[m
+Merge: 2080d8a2 5d1ad593
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:46:54 2023 +0000
+
+    Merge pull request #2225 from WillianMarquezini/feat/community/willianmarquezini
+
+[33mcommit 2080d8a26226bf233631732158bd5b252133c080[m
+Merge: 05d62185 781e9414
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:46:31 2023 +0000
+
+    Merge pull request #2224 from Julianadev/feat/community/julianadev
+
+[33mcommit 05d621856acb777891d213dc9021ddec7c071877[m
+Merge: 30727823 e51a78d2
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:46:12 2023 +0000
+
+    Merge pull request #2221 from GabrielG1997/feat/community/GabrielG1997
+
+[33mcommit 30727823d181f1c2c825cdd5a367200a1bd7610e[m
+Merge: b278ed25 86b3e4d9
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:45:52 2023 +0000
+
+    Merge pull request #2218 from arthurgmv/feat/community/arthurgmv
+
+[33mcommit b278ed25712f8a7039b54e36562d4fdc822bd2e1[m
+Merge: 647e862b edf36e62
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:45:21 2023 +0000
+
+    Merge pull request #2215 from jbispo23/feat/community/jbispo23
+
+[33mcommit 647e862bd54ae221b872eb4024096f3bf9babf39[m
+Merge: 1ac6afd0 44fdc48a
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:45:18 2023 +0000
+
+    Merge pull request #2217 from welersonfrr/feat/community/welersonfrr
+
+[33mcommit 1ac6afd0928aa7eb8a10efea85a870be02757d6e[m
+Merge: 2c48ef76 4f002a37
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:44:24 2023 +0000
+
+    Merge pull request #2212 from marlupatrocinio/feat/community/marlupatrocinio
+
+[33mcommit 2c48ef76c0e08a9b7a6983e294fc85f216d3b0e3[m
+Merge: 1a5172aa be237ee6
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:44:09 2023 +0000
+
+    Merge pull request #2210 from moisesdreckmann/feat/community/moisesdreckmann
+
+[33mcommit 1a5172aadc31fda4419f40df1b0659e206b769f5[m
+Merge: 1a4b8a10 f73eb947
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:44:07 2023 +0000
+
+    Merge pull request #2211 from findCarolinaCosta/main
+
+[33mcommit 1a4b8a10e18770d33fa3a142ed48ee76ceeb9e67[m
+Merge: 48b9c7e6 6b3ed065
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:43:54 2023 +0000
+
+    Merge pull request #2209 from matheus00laj/main
+
+[33mcommit 48b9c7e6796528828c1745ef0e03d620b712ffc2[m
+Merge: b73f624b 54966059
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:43:25 2023 +0000
+
+    Merge pull request #14969 from Angelo-Cecilio/feat/community/Angelo-Cecilio
+
+[33mcommit b73f624bdfc0543e6a05864bd1ec2c61437d01c9[m
+Merge: ef941b37 d39a71fc
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:43:22 2023 +0000
+
+    Merge pull request #2208 from AshenSkies/feat/community/AshenSkies
+
+[33mcommit ef941b375be05776d0699c981641bba2cc40f41b[m
+Merge: c2aab2df 110dabaa
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:42:58 2023 +0000
+
+    Merge pull request #2206 from JulianoLopesM/feat/community/JulianoLopesM
+
+[33mcommit c2aab2df0a68c0c220dbfd5968aae0c1e9ba4760[m
+Merge: baa22ca3 8844c727
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:42:35 2023 +0000
+
+    Merge pull request #2205 from vitusantana/feat/community/vitusantana
+
+[33mcommit baa22ca3cd9ea6f4385dc8f03fa0b41b17957225[m
+Merge: 70c351bf 38b3d8e6
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:42:21 2023 +0000
+
+    Merge pull request #2204 from peemiranda/feat/community/peemiranda
+
+[33mcommit 70c351bfaa49781aac00a8f410746ab29a15266b[m
+Merge: d6d910f3 76f9099e
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:42:04 2023 +0000
+
+    Merge pull request #2203 from Matysys/feat/community/matysys
+
+[33mcommit d6d910f318ce6412c39a79c269866ad5b187f796[m
+Merge: d2dccd10 78434a76
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:41:57 2023 +0000
+
+    Merge pull request #2202 from thaisgonsales/feat/community/thaisgonsales
+
+[33mcommit d2dccd1005c2687cfc2d18bc7ab5749c9e495d4a[m
+Merge: fc990b88 c0d8ad06
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:41:33 2023 +0000
+
+    Merge pull request #2200 from Joaohvr1/feat/community/Joaohvr1
+
+[33mcommit fc990b884fd8d3f00a740e88e625a85a16cf52c3[m
+Merge: 1e672a25 f3fa70d2
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:41:15 2023 +0000
+
+    Merge pull request #2199 from nicolasvitorino/feat/community/nicolasvitorino
+
+[33mcommit 1e672a25e580215f7d7ef90f521fc2b8145feb6a[m
+Merge: 6bb64f08 e2ed2a81
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:41:10 2023 +0000
+
+    Merge pull request #2198 from allanhanauer/feat/community/allanhanauer
+
+[33mcommit 6bb64f08f1959d253a57fb4bc5ca19cc81cf9905[m
+Merge: f70aa0f3 5e506daa
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:40:27 2023 +0000
+
+    Merge pull request #2195 from Renan-Gomide/feat/community/Renan-Gomide
+
+[33mcommit f70aa0f33e9537ecca988e7dd31f20d57983d161[m
+Merge: 5276ed83 a9dd7a6c
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:40:12 2023 +0000
+
+    Merge pull request #2193 from devbrunnolima/feat/community/devbrunnolima
+
+[33mcommit 5276ed83ce99049055b51cf9abb935c0ef571861[m
+Merge: 08fef278 1c62bbf6
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:39:37 2023 +0000
+
+    Merge pull request #2192 from Elvis2347/feat/community/Elvis2347
+
+[33mcommit 08fef27863c2507cc8c3ce03366c144a7150e528[m
+Merge: c5b4afcc 0714d8e9
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:39:24 2023 +0000
+
+    Merge pull request #2190 from igorjcg/feat/community/igorjcg
+
+[33mcommit c5b4afccef4caf7d2c868dd6650fae91787a9864[m
+Merge: ccbc3f30 3c237c22
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:38:59 2023 +0000
+
+    Merge pull request #2188 from julianatsoc/feat/community/julianatsoc
+
+[33mcommit ccbc3f30df98d987f2570c4d279d011b33e4bd35[m
+Merge: dd791ec0 e7cc3b97
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:38:55 2023 +0000
+
+    Merge pull request #14967 from devthiagofraga/feat/community/devthiagofraga
+
+[33mcommit dd791ec08bca9d72b2e701eed56ee4826d1484ca[m
+Merge: 6c32bfef 4cec7f90
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:38:48 2023 +0000
+
+    Merge pull request #14966 from dscardozo/feat/community/dscardozo
+
+[33mcommit 6c32bfef2aa3aa05b95f4ef20064b0c6238fc6be[m
+Merge: cd338b97 ec81218f
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:38:35 2023 +0000
+
+    Merge pull request #2187 from matheus-kittler/feat/community/matheus-kittler
+
+[33mcommit cd338b976524e7b66b55c0ad8f2a0043c21e22d5[m
+Merge: ccc0b99d abf489ff
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:38:06 2023 +0000
+
+    Merge pull request #2186 from LucasAssayag/feat/community/LucasAssayag
+
+[33mcommit ccc0b99d2dc38aa4569d73eb54e9b890c1d82fcd[m
+Merge: 1d4ff976 b69efca0
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:37:30 2023 +0000
+
+    Merge pull request #2183 from Araujo-Raiara/feat/community/araujo-raiara
+
+[33mcommit 1d4ff97604fa41598e6c89b3c4091d9838f46718[m
+Merge: b7757872 69d0597a
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:37:15 2023 +0000
+
+    Merge pull request #2182 from larissaqr24/feat/community/larissaqr24
+
+[33mcommit b7757872683c511cccd1a91155ed0eab18e4e515[m
+Merge: 138f091a 4fd58afd
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:37:01 2023 +0000
+
+    Merge pull request #2181 from Akurejs/feat/community/Akurejs
+
+[33mcommit 138f091ae1c30e2162009707501c2f35c23b1213[m
+Merge: 312402bb 99f23ebb
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:36:54 2023 +0000
+
+    Merge pull request #2180 from Sidneymetal/feat/community/Sidneymetal
+
+[33mcommit 312402bb75fde9824da14b2ee425d682deee9462[m
+Merge: 6652cbc5 92ecdb3b
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:36:24 2023 +0000
+
+    Merge pull request #2179 from julianabreu/feat/community/julianabreu
+
+[33mcommit 6652cbc58553788a0c690d4ce24f958e5a267a9a[m
+Merge: 04cdbc98 70c09f6b
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:36:11 2023 +0000
+
+    Merge pull request #2176 from AlissonSilva07/feat/community/AlissonSilva07
+
+[33mcommit 04cdbc98b3cbe98c26311b09490998f58d08af7c[m
+Merge: 7b2e83c7 306d084b
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:35:21 2023 +0000
+
+    Merge pull request #2175 from vitorbizarra/feat/community/vitorbizarra
+
+[33mcommit 7b2e83c72dfbc04fe7a0394a59b8fe7e23957032[m
+Merge: 16bcf8db 6a24728b
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:35:21 2023 +0000
+
+    Merge pull request #2174 from brufz/feat/community/brufz
+
+[33mcommit 16bcf8dbe9dd714a05ec393b2128249a2ccc075d[m
+Merge: 3d40a295 ef050261
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:34:56 2023 +0000
+
+    Merge pull request #2173 from thiagomurgia/feat/community/thiagomurgia
+
+[33mcommit 54966059c553aad9496cb7d69063ea6aa12ce79e[m
+Author: Angelo-Cecilio <angelocecilio@hotmail.com>
+Date:   Fri Oct 13 13:34:52 2023 -0300
+
+    feat: add Angelo-Cecilio profile
+
+[33mcommit 3d40a295462a04cea19834d01ac5c8c789e00d0e[m
+Merge: c620c6e7 e5591024
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:34:18 2023 +0000
+
+    Merge pull request #2171 from beatrizdesousa/feat/community/beatrizdesousa
+
+[33mcommit c620c6e7f4d795463d04fc77aff4db5a15267b8c[m
+Merge: e44e0b8f 56502835
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:34:06 2023 +0000
+
+    Merge pull request #2170 from ldnovaes/feat/community/ldnovaes
+
+[33mcommit e44e0b8f1cd28d0931e33eaee4d1dd438afd66ab[m
+Merge: 717d2f33 9bab8bcf
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:33:51 2023 +0000
+
+    Merge pull request #2169 from hanamaru93/feat/community/hanamaru93
+
+[33mcommit 717d2f33b3a6773e6e890383cca9bc8205132f15[m
+Merge: 0e7dbee6 45406828
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:33:34 2023 +0000
+
+    Merge pull request #2167 from gustavococoo/feat/community/gustavococoo
+
+[33mcommit 0e7dbee6b35a8c7c8b43772b4bf6a2a98e5a0bf0[m
+Merge: 79ec938f fd1e9a00
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:33:25 2023 +0000
+
+    Merge pull request #2166 from AlcenirSantos/feat/community/AlcenirSantos
+
+[33mcommit 79ec938f9409f854473645e6226d01c9a6267539[m
+Merge: 04e1e74a 143870d6
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:33:14 2023 +0000
+
+    Merge pull request #2159 from bmotadev/feat/community/bmotadev
+
+[33mcommit 04e1e74a0cb8080812c76d1d63f3fcb1a680074e[m
+Merge: 4e91600c eab447ff
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:33:04 2023 +0000
+
+    Merge pull request #2165 from thalesnishida/feat/community/thalesnishida
+
+[33mcommit 4e91600c53f61bc38c33bed1572a02f309ab8349[m
+Merge: cef2bae2 2b3aff4c
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:32:48 2023 +0000
+
+    Merge pull request #2164 from Douglasbm040/feat/community/Douglasbm040
+
+[33mcommit cef2bae2874e8868c8312208ae53909b75127c03[m
+Merge: db36242a 0ca56002
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:32:28 2023 +0000
+
+    Merge pull request #2162 from leonardocjr/feat/community/leonardocjr
+
+[33mcommit db36242ac1634e6425836535cd45fc3aa74a67ef[m
+Merge: 34d7147b b3a5e268
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:32:22 2023 +0000
+
+    Merge pull request #2161 from sergiocaetano1973/feat/community/sergiocaetano1973
+
+[33mcommit 34d7147b2d3f6b05f13c144cb3af5d9835594813[m
+Merge: 7996b0fe bffc9cc8
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:32:20 2023 +0000
+
+    Merge pull request #2157 from ronilsonalves/feat/community/ronilsonalves
+
+[33mcommit 7996b0fed1245466ff84daca40bd4cb288dead01[m
+Merge: 751af1a3 a0aa3b10
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:32:14 2023 +0000
+
+    Merge pull request #2158 from fabiodobeck/main
+
+[33mcommit 751af1a3431bb745d93cc490aeae6161598c891e[m
+Merge: 68ca984d 0e9359fb
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:30:34 2023 +0000
+
+    Merge pull request #2155 from matheusmendescosta/feat/community/matheusmendescosta
+
+[33mcommit 68ca984da9f15384673f025a8f7f01884e10c611[m
+Merge: 4ff573e8 44cf1b82
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:30:22 2023 +0000
+
+    Merge pull request #2154 from KaikiWilson/feat/community/KaikiWilson-1
+
+[33mcommit 4ff573e863f5c096e57346345c397941c110f309[m
+Merge: 6245a18e 58747d8b
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:30:07 2023 +0000
+
+    Merge pull request #2151 from EwertonHecsley/ewertonHecsley
+
+[33mcommit 6245a18e6d4e8433bea709accc70d14421655416[m
+Merge: 47bb2558 577c9a5b
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:29:41 2023 +0000
+
+    Merge pull request #2148 from davmath/feat/community/davmath
+
+[33mcommit 47bb255861aebc5d7f1af3dfa012bd95d89a0c01[m
+Merge: 46752fc5 b0e474a5
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:29:14 2023 +0000
+
+    Merge pull request #2147 from hugojrhg/feat/community/hugojrhg
+
+[33mcommit 46752fc5a8beefd643102f1b1be7b09c48fd837b[m
+Merge: 58c4cc6f 12184bd7
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:28:51 2023 +0000
+
+    Merge pull request #2145 from Rafaelocm/feat/community/Rafaelocm
+
+[33mcommit 58c4cc6f7453a6696a50e8cb81b3d964ff926e50[m
+Merge: 07939855 f1aa596a
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:28:31 2023 +0000
+
+    Merge pull request #2143 from eduardomausa/eduardomausa
+
+[33mcommit 07939855d3f050c51c5a18844f6e9509b7366da9[m
+Merge: 45238001 465803ec
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 13 16:28:17 2023 +0000
+
+    Merge pull request #2142 from aimwill16/feat/community/aimwill16
+
+[33mcommit 45238001d4f8607dc017edf68d0894bb806d260d[m
+Merge: 421a3e61 30f87375
+Author: github-action
