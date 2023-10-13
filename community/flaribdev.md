@@ -27,5 +27,3 @@ Estudioso em tecnologia da informação. Formado em Sistemas de Informações pe
 ### Meus Principais Artigos na DIO
 
 Não há artigos publicados ainda
-
----
