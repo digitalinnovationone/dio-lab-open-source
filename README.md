@@ -31,7 +31,7 @@ Aprender o básico sobre contribuição no GitHub
       <td>01</td>
       <td>Introdução ao Lab</td>
       <td align="center">
-        <a href="">
+        <a href="https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>
@@ -40,26 +40,35 @@ Aprender o básico sobre contribuição no GitHub
       <td>02</td>
       <td>Formas de Contribuir num Projeto Open Source</td>
       <td align="center">
-        <a href="">
+        <a href="https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/8e9e1f35-5571-40c4-863f-2279ba388aeb">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
         </a>
       </td>
     </tr>
     <tr>
       <td>03</td>
-      <td>Desenvolvendo e Enviando uma Contribuição</td>
+      <td>Desenvolvendo uma Contribuição</td>
       <td align="center">
-        <a href="">
+        <a href="https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/55390e77-8893-4a65-ac62-c8bea564528d">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>    
     </tr>
     <tr>
       <td>04</td>
+      <td>Enviando uma Contribuição</td>
+      <td align="center">
+        <a href="https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/9e6f7eb2-86cc-4a66-b31c-80d3d774667d">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
+    <tr>
+      <td>05</td>
       <td>Dicas e Materiais de Apoio</td>
       <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+        <a href="https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/9e6f7eb2-86cc-4a66-b31c-80d3d774667d">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>    
     </tr>
