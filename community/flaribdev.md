@@ -28,4 +28,3 @@ Estudioso em tecnologia da informação. Formado em Sistemas de Informações pe
 
 Não há artigos publicados ainda
 
----
