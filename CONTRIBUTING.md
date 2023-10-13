@@ -49,6 +49,42 @@
 ## Desafios Git e GitHub
 - [50 minutos de desafios para treino](https://www.youtube.com/watch?v=kB5e-gTAl_s)
 
+## Clonando diretórios no Git
+
+### Primeiro utilizamos o Versionamento de Código com Git
+ 
+ $ `git config --global user.name` "USERNAME"
+
+ $ `git config --global user.email` USERNAME@gmail.com
+
+ $ `git config --global init.defaultBranch`
+
+ $ `git config --global --list`
+
+### Depois Criamos e clonamos o diretório 
+
+`mkdir` = comando básico do terminal para criar pasta; 
+
+`git` init = cria um repositório .git;
+
+`cat` = exibir o conteúdo da pasta;
+
+`git` remote -v = repositórios remotos vinculados;
+
+`cd` = entrar em um diretório
+
+`git clone` ➡ clona um repositório Git existente para um novo diretório(pasta) local;
+
+`git commit` ➡ grava alterações no repositório;
+
+`git pull` ➡ puxa as alterações do repositório remoto para o local(busca e mescla);
+
+`git push `➡ empurra as alterações do repositório local para o remoto;
+
+## Refêrencias 
+-[Digital Inovation One]().
+
+
 ##### Exemplo commit
 
 `feat: adicionado novo arquivo`
