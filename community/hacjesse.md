@@ -2,7 +2,7 @@
 
 - 🔭 Sou Tecnólogo em Tecnologias em Sistemas para Internet
 - 🌱 Estou atualmente estudando Desenvolvimento Web e Python
-- 😄 Pronomes:ele/dele
+- 😄 Pronomes: ele/dele
 - ⚡ Fato interessante: A primeira foto do mundo levou oito horas para ser capturada
 
 ### Contat-me
