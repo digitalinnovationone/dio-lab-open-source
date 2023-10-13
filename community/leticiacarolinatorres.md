@@ -5,7 +5,7 @@ Me chamo Letícia, tenho 27 anos,cursava Direito mas decidi mudar de área, prim
 
 ## Objetivo
 
-Tenho o objetivo de trabalhar na área de programação em Portugal, onde morei por 5 anos, pretendo acabar meus estudos e focar nesse objetivo de retornar a Portugal com um trabalho na área de data scientist
+Tenho o objetivo de trabalhar na área de programação em Portugal, onde morei por 5 anos, pretendo acabar meus estudos e focar nesse objetivo de retornar a Portugal com um trabalho na área de data scientist.
 
 ## Conhecimentos
 
