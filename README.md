@@ -92,8 +92,8 @@ Aprender o básico sobre contribuição no GitHub.
 2. Clone locally: `git clone https://github.com/YOUR_USERNAME/dio-lab-open-source.git`;
 3. Add upstream remote to keep your local repository up to date. For example: `git remote add upstream https://github.com/elidianaandrade/dio-lab-open-source.git`;
     > Use the command `git pull upstream main` to download and merge changes to your local repository based on the branch `main` from this original repository you forked it from, or `git fetch upstream main` to download without merging. See more at: [Getting Started with Git and GitHub](https://github.com/digitalinnovationone/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
-4. Create a new **branch** and name it as `feat/community/YOUR_USERNAME`: `git checkout -b feat/community/YOUR_USERNAME`;
-    > Example: `git checkout -b feat/community/elidianaandrade`
+4. Create a new **branch** and name it as `feat/community/dscardozo`;
+    > Example: `git checkout -b feat/community/dscardozo` 
 5. Inside the folder [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), create a file in Markdown (extension `.md`) and name it the same as your GitHub username;
     > Example: `elidianaandrade.md` <br>
 6. Develop your profile. For this you can see examples in the folder [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) and add some of the utilities present in the folder [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils);
