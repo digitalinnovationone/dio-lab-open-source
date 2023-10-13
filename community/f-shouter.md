@@ -4,7 +4,7 @@ Descrevendo um pouco sobre mim!
 ## 😊 Olá, plataforma Dio! Ou seja lá quem estiver lendo isso hehehe.
 Bom...Sou uma estudande universitária em Engenharia de Software, 2 semestre ainda cursando. Tenho 22 anos e ainda não sei em que área vou me dedicar, mas já estou começando a estudar. 
 
-## 📚 Sobre meus estudos!
+## 📚 Sobre meus estudos!!
 Faço e estudei alguns cursos já, como: O curso em vídeo do professor Guanabara! Grande professor. HTML e CSS.
 Durante a faculdade estudei um pouco da linguagem Python, e agora banco de dados com SQL.
 
