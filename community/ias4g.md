@@ -1,16 +1,10 @@
 # Olá 👋, sejam muito bem-vindos ao meu perfil no GitHub.
 Sou [Izael Silva](https://github.com/ias4g), e este é meu perfil no GitHub. Aqui você encontrará uma visão geral das minhas contribuições, projetos e interesses. Sinta-se à vontade para explorar e entrar em contato!
 
-<br/>
-
 ## Sobre Mim
 - 👩‍💻 Desenvolvedor de Software.
 - 🎓 Estudante de Ciência da computação.
 - 🌍 São Paulo/SP.
-
-
-<br/>
-
 
 ## Contato
 - 📧 E-mail: [izaell.oficial@gmail.com](izaell.oficial@gmail.com)
@@ -18,15 +12,11 @@ Sou [Izael Silva](https://github.com/ias4g), e este é meu perfil no GitHub. Aqu
 |[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/silva.i.a/)|[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/izaelsilva/)|[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/oficialemunah)|
 |--|--|--|
 
-<br/>
-
 ## Minhas Contribuições
 - 📦 Contribuições em projetos open source.
 
 |[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ias4g&repo=dio-lab-open-source&bg_color=fff&border_color=7A56D6&show_icons=true&icon_color=7A56D6&title_color=7A56D6&text_color=FF3860)](https://github.com/ias4g/dio-lab-open-source)|[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ias4g&repo=uninove-ciencia-da-computacao&bg_color=fff&border_color=7A56D6&show_icons=true&icon_color=7A56D6&title_color=7A56D6&text_color=FF3860)](https://github.com/ias4g/uninove-ciencia-da-computacao)|
 |-|-|
-
-<br/>
 
 ## Habilidades
 - #### 💻 Linguagens de Marcação e Estilo
@@ -49,21 +39,15 @@ Sou [Izael Silva](https://github.com/ias4g), e este é meu perfil no GitHub. Aqu
 
 ---
 
-<br/>
-
 - #### 🛢️ Databases
 |![PostgreSQL](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql)|![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql)|
 |-|-|
-
-<br/>
 
 ## Projetos Destacados
 
 |[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ias4g&repo=projeto-ideias-saudaveis&bg_color=fff&border_color=7A56D6&show_icons=true&icon_color=7A56D6&title_color=7A56D6&text_color=FF3860)](https://github.com/ias4g/projeto-ideias-saudaveis )|[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ias4g&repo=blood-donation&bg_color=fff&border_color=7A56D6&show_icons=true&icon_color=7A56D6&title_color=7A56D6&text_color=FF3860)](https://github.com/ias4g/blood-donation)|
 |-|-|
 |[![Repo Ecoleta Desktop](https://github-readme-stats.vercel.app/api/pin/?username=ias4g&repo=ecoleta-desktop&bg_color=fff&border_color=7A56D6&show_icons=true&icon_color=7A56D6&title_color=7A56D6&text_color=FF3860)](https://github.com/ias4g/ecoleta-desktop)|[![Repo Criative House](https://github-readme-stats.vercel.app/api/pin/?username=ias4g&repo=criative-house&bg_color=fff&border_color=7A56D6&show_icons=true&icon_color=7A56D6&title_color=7A56D6&text_color=FF3860)](https://github.com/ias4g/criative-house)|
-
-<br/>
 
 ## Contribuições Futuras
 Planejo continuar contribuindo para projetos open source e trabalhar em novos projetos interessantes. Fique à vontade para me acompanhar para obter atualizações sobre minhas atividades.
@@ -73,8 +57,6 @@ Planejo continuar contribuindo para projetos open source e trabalhar em novos pr
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ias4g&theme=buefy&background=fff&border=7A56D6&dates=000)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ias4g&theme=transparent&bg_color=fff&border_color=7A56D6&show_icons=true&icon_color=7A56D6&title_color=7A56D6&text_color=FF3860)
-
-<br/>
 
 ## Licença
 Este perfil é licenciado sob [Licença MIT](https://github.com/Ias4g/uninove-ciencia-da-computacao/blob/main/LICENSE).
