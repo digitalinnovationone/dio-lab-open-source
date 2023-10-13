@@ -5,12 +5,20 @@ on:
     types:
       - opened
       - synchronize
+      - labeled
 
 jobs:
   validate-and-comment:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Check Triggering Label [run dio workflow]
+      if: github.event.action == 'labeled' && github.event.label.name != 'run dio workflow'
+      run: |
+        echo "WARN: Workflow was triggered by another label, not [run dio workflow]. Skipping execution..."
+        echo "::set-output name=skip::true"
+        exit 78  # exit code 78 is a neutral exit for GitHub Actions, meaning the action was skipped.
+    
     - name: Checkout code from PR (Safe Checkout)
       uses: actions/checkout@v4
       with:
@@ -18,7 +26,7 @@ jobs:
         
     - name: Validate PR
       run: |
-        AUTHOR_NAME="${{ github.actor }}"
+        AUTHOR_NAME="${{ github.event.pull_request.user.login }}"
         FILE_PATH="community/$AUTHOR_NAME.md"
         
         if [[ ! -f $FILE_PATH ]]; then
@@ -26,7 +34,7 @@ jobs:
             exit 1
         fi
 
-    - name: Comment PR on Success and Label as [automerge]
+    - name: Comment PR on Success and Add Label [automerge]
       if: success()
       run: |
         REPO_URL=${{ github.event.pull_request.head.repo.html_url }}
@@ -44,11 +52,11 @@ jobs:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Comment PR on Failure
-      if: failure()
+      if: failure() && steps.check-label.outputs.skip != 'true'
       run: |
         cat <<EOT > message.txt
         Olá! Parece que houve um problema com o seu PR 🧐 Aqui estão algumas coisas para verificar:
-        - O PR deve conter o arquivo \`community/${{ github.actor }}.md\`
+        - O PR deve conter o arquivo \`community/${{ github.event.pull_request.user.login }}.md\`
         - O nome desse arquivo deve coincidir **exatamente** (_case-sensitive_) com o seu nome de usuário no GitHub.
 
         Para obter mais detalhes e garantir que tudo esteja correto, confira nossas instruções no [README.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/README.md) e [CONTRIBUTE.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTE.md).
