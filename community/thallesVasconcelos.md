@@ -17,8 +17,8 @@ Meu nome é Thalles Vasconcelos, tenho 22 anos,e sou estudante de Ciência da Co
 
 ## Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rodeuz&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Thalles Vasconcelos GitHub stats](https://github-readme-stats.vercel.app/api?username=thallesVasconcelos&show_icons=true&theme=tokyonight)
 
 ## Minhas Contribuições
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Rodeuz&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Rodeuz&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thallesVasconcelos/dio-lab-open-source/tree/feat/community/thallesvasconcelos)
