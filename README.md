@@ -2,6 +2,7 @@
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
     <span> Contribuindo em um Projeto Open Source no GitHub</span>
+    <p>Alteração feita para teste</p>
 </h1>
 
 Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
@@ -10,7 +11,7 @@ Repositório desenvolvido para fins didáticos, com a disponibilização de mate
 [![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
 
 ## Objetivo
-Aprender o básico sobre contribuição no GitHub.
+Aprender o básico sobre contribuição no GitHub
 
 ## Ferramentas
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
@@ -102,6 +103,22 @@ Aprender o básico sobre contribuição no GitHub.
 8. Create a commit and add the message indicating the addition of your profile `git commit -m"feat: add YOUR_USERNAME profile"`;
 9. Push changes to your remote repository `git push origin feat/community/YOUR_USERNAME`; 
 10. Create a **Pull Request**.
+
+### Instrucciones  (ES/ES)
+1. **Fork** the el repositorio;
+2. Clonar localmente: `git clone https://github.com/SEUUSERNAME/dio-lab-open-source.git`;
+3. Agregue control remoto ascendente para mantener actualizado su repositorio local: `git remote add upstream https://github.com/elidianaandrade/dio-lab-open-source.git`;
+    > Utilice el comando `git pull upstream main` para descargar y fusionar cambios en su repositorio local según la rama `main` de este repositorio original del que lo bifurcó, o `git fetch upstream main` para descargar sin fusionar. Ver más en:  [Comenzando con Git y GitHub](https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
+4. Cree una nueva **branch** y asígnele el nombre `feat/community/seunomedeusuario`: `git checkout -b feat/community/yourusername`;
+    > Ejemplo: `git checkout -b feat/community/elidianaandrade`
+5. Dentro de la carpeta  [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community), cree un archivo en Markdown (extensión `.md`) y nombre es lo mismo que tu nombre de usuario de GitHub;
+    > Ejemplo: `elidianaandrade.md` <br>
+6. Desarrolla tu perfil. Para esto puedes ver ejemplos en la carpeta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community) y agregar algunas de las utilidades presentes en la carpeta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils);
+    > **Nota:** Utilice los otros ejemplos como inspiración, no como copia.
+7. Agregue sus cambios al "área de preparación" con el comando `git add community/yourusername.md`;
+8. Cree una confirmación y agregue el mensaje que indica la adición de su perfil `git commit `git commit -m"feat: add yourusername profile"`;
+9. Envíe los cambios a su repositorio remoto `git push origin feat/community/yourusername`; 
+10. Cree una **Pull Request**.
 
 ### Utilitários
 
