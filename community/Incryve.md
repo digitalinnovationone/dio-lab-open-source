@@ -6,7 +6,7 @@ Hi 👋, I'm Yve
 🔭 I’m currently working as **an Automation Engineer & Systems and Technology Manager** <br>
 🌱 I’m learning **Java BackEnd @ Dio.me** <br> 📫 Reach me at **yve.salazar@gmail.com**
 
-## Let's connect!
+## Let's connect
 [![Github](https://img.shields.io/badge/Github-357?style=for-the-badge&logo=Github&logoColor=fffff)](https://www.github.com/Incryve)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-357?style=for-the-badge&logo=linkedin&logoColor=ffff)](https://www.linkedin.com/in/yve-salazar/)
 
