@@ -8,7 +8,7 @@ Some of my hobbies are games, watching, reading and spend time with my cats. Als
 
 - Portuguese (native);
 - English (intermediary/advanced);
-- Spanish (basic)
+- Spanish (basic).
 
 ## Connect with me
 
