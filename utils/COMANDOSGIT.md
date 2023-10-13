@@ -25,7 +25,9 @@ If you want to config your scope of work use the tags below.
   - `$ git config --system user.email [your_mail_here]`
 
 ## 📚 Basics Commands
-
+### Display information about the current state of your repository
+  - `$ git status `
+    
 ### Create a new repository
   - Create a local repository
     - `$ git init`
