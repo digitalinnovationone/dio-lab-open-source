@@ -149,7 +149,7 @@ Aprender o básico sobre contribuição no GitHub
 
 ⭐ Adicionando aos favoritos (**star**) 
 
-### Membros da comunidade que já contribuiram:
+### Membros da comunidade que já contribui:
 <a href="https://github.com/elidianaandrade/dio-lab-open-source/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=elidianaandrade/dio-lab-open-source"/>
 </a>
