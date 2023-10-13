@@ -1,20 +1,19 @@
 # José Mário
 
-Olá, sou José Mário, um entusiasta de tecnologia com experiência em diversas linguagens de programação. Abaixo estão alguns dos projetos em que trabalhei, destacando as tecnologias que domino.
+Olá, sou José Mário, um entusiasta de tecnologia com experiência em algumas linguagens de programação. Abaixo estão alguns dos projetos em que trabalhei, destacando as tecnologias utilizadas.
 
 ## Projetos
 
-### Projeto de Gerenciamento de Estoque (Java)
+### Projeto de Controle de Estoque (Java)
 
-![Java](https://img.shields.io/badge/Java-Expert-orange)
+![Java](https://)
 
-Este projeto envolveu o desenvolvimento de um sistema de gerenciamento de estoque em Java. Implementei recursos avançados de OOP e integração com banco de dados para criar uma aplicação eficiente.
-
+Este projeto envolveu o desenvolvimento de um sistema de gerenciamento de estoque em Java e Postgresql.
 ### Análise de Dados com Python
 
-![Python](https://img.shields.io/badge/Python-Advanced-green)
+![Python](https://n)
 
-Participei de um projeto de análise de dados usando Python, onde apliquei técnicas de ciência de dados e bibliotecas como NumPy e Pandas para extrair insights valiosos a partir de conjuntos de dados complexos.
+Participei de um projeto de automação em Python, onde o objetivo era simular varios usuarios acessando o site simultaneamente para realizar ações corriqueiras.
 
 ### Automatização de Tarefas com VBA
 
