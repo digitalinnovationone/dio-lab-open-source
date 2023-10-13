@@ -1,3 +1,7 @@
+<div>
+  <img src="https://fomotis.github.io/Demonstration/pics/Octocat.png" width="150px"/>
+</div>
+
 # Git's Commands
 
 This page is about some commands from Git. 
