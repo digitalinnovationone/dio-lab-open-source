@@ -72,6 +72,13 @@
         <code>[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/SEUUSERNAME/)</code>
       </td>
     </tr>
+      <td>
+        <img align="center" alt="Email" src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF">
+      </td>
+      <td>
+        <code>[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:SEUEMAIL)</code>
+      </td>
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
