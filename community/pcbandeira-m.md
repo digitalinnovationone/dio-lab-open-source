@@ -2,7 +2,7 @@
 
 Front-end Developer from Mossoró-RN, I recently made my career transition and now I'm learning as much as possible to get my first tech opportunity. I already had contact with HTML, CSS, JavaScript, Java, C#, SASS and a little bit of React.
 
-Some of my hobbies are games, watching, reading and spend time with my cats.
+Some of my hobbies are games, watching, reading and spend time with my cats. Also, I live running, biking and crossfit.
 
 ## Languages
 
