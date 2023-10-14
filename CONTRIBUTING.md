@@ -49,9 +49,6 @@
 ## Desafios Git e GitHub
 - [50 minutos de desafios para treino](https://www.youtube.com/watch?v=kB5e-gTAl_s)
 
-##### Exemplo commit
-
-`feat: adicionado novo arquivo`
 
 
 ## Referências
