@@ -9,4 +9,4 @@ Meu nome é Frank Ramon Sales de Sousa, sou estudante de Licênciatura em Ciênc
  ![Python](https://img.shields.io/badge/Python-FFF?style=for-the-badge&logo=python)
   ![C](https://img.shields.io/badge/C-FFF?style=for-the-badge&logo=c)
    ![HTML5](https://img.shields.io/badge/HTML5-FFF?style=for-the-badge&logo=html5)
-    ![CSS3](https://img.shields.io/badge/CSS3-FFF?style=for-the-badge&logo=css3&logoColor=264CE4) 
+    ![CSS3](https://img.shields.io/badge/CSS3-FFF?style=for-the-badge&logo=css3&logoColor=264CE4)
