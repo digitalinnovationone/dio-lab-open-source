@@ -2,7 +2,7 @@
 ##
 Muito bom estar fazendo parte dessa experiencia incrível na área da tecnologia. Pretendo me aprofundar cada vez mais nesse mundo cheio de oportunidades e de grandes desafios para melhorar assim minha forma de resolver problemas em meio a programação...
 
-Logo abaixo estão minhas redes sociais: ainda não utilizo o Linkedin mas logo criarei minha conta.
+Logo abaixo estão minhas redes sociais: ainda não utilizo o Linkedin mas logo criarei minha conta. logo logo...
 
 ## Conecte-se comigo através das minhas redes sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/SEUUSERNAME/)
