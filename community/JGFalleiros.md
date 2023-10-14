@@ -1,4 +1,4 @@
-# Hi my name is João 
+# Hi my name is João Guilherme
 
 ## 💫 Liitle Bit More About Me
 
