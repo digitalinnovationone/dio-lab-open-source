@@ -18,7 +18,7 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
-![Amazon AWS](https://img.shields.io/badge/-AWS-FF9A00?style=for-the-badge&logo=amazonaws&labelColor=FF9A00)&nbsp;
+![Amazon AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws&labelColor=0D1117)&nbsp;
 
 ## GitHub Stats
 ![José Santana's GitHub stats](https://github-readme-stats.vercel.app/api?username=JLucasRS&theme=algolia&_icons=true&hide_title=true)
