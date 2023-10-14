@@ -35,7 +35,7 @@
 9. Envie as alterações para o seu repositório remoto `git push origin feat/community/SEU_USERNAME`; 
 10. Crie um **Pull Request**.
 
-## Convenção de Commits
+## Convenção de Commits 
 
 | Tipo de Commit | Descrição|
 | ---------------|----------|
