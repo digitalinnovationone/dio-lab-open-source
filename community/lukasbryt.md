@@ -1,4 +1,4 @@
-## Lucas Brito
+**Lucas Brito**
 ## 🚀 Sobre mim
 
 Olá! Sou o Lucas brito, faço Sistemas para Internet e estágio em DevOps com Front-end
