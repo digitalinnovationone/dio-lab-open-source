@@ -37,7 +37,7 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Stats by @anuraghazra</a>
+        <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Stats by @anuraghazra @RenanSdeOliveira</a>
       </td>
     </tr>
     <tr>
