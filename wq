@@ -1,0 +1,232 @@
+[33mcommit d08848f408a077d8d905507aa88487c8432919cd[m[33m ([m[1;36mHEAD -> [m[1;32mfeat/community/JulianadeOliveira21[m[33m, [m[1;31mupstream/main[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 0dfad3a 1046a6c
+Author: Elidiana Andrade <97471199+elidianaandrade@users.noreply.github.com>
+Date:   Tue Aug 22 21:41:23 2023 -0300
+
+    Merge pull request #428 from Joao-Cardosoo/feat/community/Joao-Cardosoo
+    
+    feat: add Joao-Cardosoo profile
+
+[33mcommit 0dfad3a8b305b08b7b0d8004ebf660ab68554b94[m
+Merge: 82e7445 5d9ced9
+Author: Elidiana Andrade <97471199+elidianaandrade@users.noreply.github.com>
+Date:   Tue Aug 22 21:41:06 2023 -0300
+
+    Merge pull request #427 from JulianoStulp/feat/community/JulianoStulp
+    
+    feat: add JulianoStulp profile
+
+[33mcommit 82e74455f87d1ce5297aebcb17e16db54c7b3001[m
+Merge: af6de72 87d8871
+Author: Elidiana Andrade <97471199+elidianaandrade@users.noreply.github.com>
+Date:   Tue Aug 22 21:40:50 2023 -0300
+
+    Merge pull request #426 from cleberjunior/feat/community/cleberjunior
+    
+    feat: add cleberjunior profile
+
+[33mcommit af6de7239f243b54555a69af73efe6dfa5d2d9a7[m
+Merge: 6a2186a 3137ce5
+Author: Elidiana Andrade <97471199+elidianaandrade@users.noreply.github.com>
+Date:   Tue Aug 22 21:40:17 2023 -0300
+
+    Merge pull request #425 from bruribeiro108/feat/community/bruribeiro108
+    
+    feat: add bruribeiro108 profile
+
+[33mcommit 6a2186a04613a88993999a092b6e70bab9340ed5[m
+Merge: ac15b26 c350bea
+Author: Elidiana Andrade <97471199+elidianaandrade@users.noreply.github.com>
+Date:   Tue Aug 22 21:39:55 2023 -0300
+
+    Merge pull request #423 from Belletati/feat/community/Belletati
+    
+    feat: add Belletati profile
+
+[33mcommit ac15b2607357056314fb4c3e53be7b98afda2626[m
+Merge: 15ff5be de4230d
+Author: Elidiana Andrade <97471199+elidianaandrade@users.noreply.github.com>
+Date:   Tue Aug 22 21:39:36 2023 -0300
+
+    Merge pull request #420 from RafaelDaSilva1984/feat/community/RafaelDaSilva1984
+    
+    feat: add RafaelDaSilva1984 profile
+
+[33mcommit 15ff5be6f61469e17b3f825161d7f82a0b73af6c[m
+Merge: 2865807 6b78afd
+Author: Elidiana Andrade <97471199+elidianaandrade@users.noreply.github.com>
+Date:   Tue Aug 22 21:39:00 2023 -0300
+
+    Merge pull request #419 from Gabsll/feat/community/Gabsll
+    
+    Feat/community/gabsll
+
+[33mcommit 2865807ba5a39a4d9499735500ae8512354deb33[m
+Merge: 53bc8ff 6dc3aae
+Author: Elidiana Andrade <97471199+elidianaandrade@users.noreply.github.com>
+Date:   Tue Aug 22 21:38:35 2023 -0300
+
+    Merge pull request #418 from ladcs/Ladcs-Profile
+    
+    feat: ladcs profile in community
+
+[33mcommit 6dc3aae9d8fa933636bb2ce82c2a7dfcc9d0c773[m
+Author: Elidiana Andrade <97471199+elidianaandrade@users.noreply.github.com>
+Date:   Tue Aug 22 21:37:17 2023 -0300
+
+    refactor: rename ladcsProfile to ladcs.md
+
+[33mcommit 53bc8fff7590752992536fbe8bb94ef3f40eafa3[m
+Merge: b2615bf eda442e
+Author: Elidiana Andrade <97471199+elidianaandrade@users.noreply.github.com>
+Date:   Tue Aug 22 21:36:44 2023 -0300
+
+    Merge pull request #417 from AlissonJB13/feat/community/AlissonJB13
+    
+    feat: add AlissonJB13 profile
+
+[33mcommit b2615bf902ed959fd95a7686d57e9db88f2d46bd[m
+Merge: 95e06b5 6a5b0ce
+Author: Elidiana Andrade <97471199+elidianaandrade@users.noreply.github.com>
+Date:   Tue Aug 22 21:36:32 2023 -0300
+
+    Merge pull request #416 from luizfernandopavanello/feat/community/luizfernandopavanello
+    
+    feat: add luizfernandopavanello profile
+
+[33mcommit 95e06b588a4d3a4f9fe7a969b522683cb29b2eec[m
+Merge: aabbb01 24390ff
+Author: Elidiana Andrade <97471199+elidianaandrade@users.noreply.github.com>
+Date:   Tue Aug 22 21:36:17 2023 -0300
+
+    Merge pull request #415 from LucasSimoes89/main
+    
+    feat add LucasSimoes89 profile
+
+[33mcommit aabbb010f8190c40970d1276e3fd7b91537115f4[m
+Merge: b0d4397 94bf939
+Author: Elidiana Andrade <97471199+elidianaandrade@users.noreply.github.com>
+Date:   Tue Aug 22 21:36:01 2023 -0300
+
+    Merge pull request #412 from lucasramosdev/feat/community/lucasramosdev
+    
+    feat: add lucasramosdev profile
+
+[33mcommit b0d43973593eec65147af186651d4c748a1db41c[m
+Merge: eaf962b 1f4f0be
+Author: Elidiana Andrade <97471199+elidianaandrade@users.noreply.github.com>
+Date:   Tue Aug 22 21:35:47 2023 -0300
+
+    Merge pull request #411 from ennymoraes/feat/community/ennymoraes
+    
+    feat: add ennymoraes profile
+
+[33mcommit eaf962bb51a45958d0fa55efb4248710686976ca[m
+Author: Elidiana Andrade <97471199+elidianaandrade@users.noreply.github.com>
+Date:   Tue Aug 22 21:34:09 2023 -0300
+
+    refactor: rename felipebdp to felipebdp.md
+
+[33mcommit 422e6701c31f11846a9c1b6e9a8fe639acf16590[m
+Merge: f22a048 a1d8558
+Author: Elidiana Andrade <97471199+elidianaandrade@users.noreply.github.com>
+Date:   Tue Aug 22 21:33:32 2023 -0300
+
+    Merge pull request #405 from fernandodelin/feat/community/fernandodelin
+    
+    feat: add fernandodelin profile
+
+[33mcommit a1d8558f9bf5d5102f9df0d40cabe7b076bb5593[m
+Author: Elidiana Andrade <97471199+elidianaandrade@users.noreply.github.com>
+Date:   Tue Aug 22 21:33:23 2023 -0300
+
+    refactor: rename fernandodelin to fernandodelin.md
+
+[33mcommit f22a048a35ccb6d04d70f2bb5722a70485a8d948[m
+Author: Elidiana Andrade <97471199+elidianaandrade@users.noreply.github.com>
+Date:   Tue Aug 22 21:32:30 2023 -0300
+
+    refactor: rename JoaoGaBRiel-X to JoaoGaBRiel-X.md
+
+[33mcommit 1671f004340df094f7f15f77c640fa2de8b6b7df[m
+Merge: 35b95ca 07257bc
+Author: Elidiana Andrade <97471199+elidianaandrade@users.noreply.github.com>
+Date:   Tue Aug 22 21:31:50 2023 -0300
+
+    Merge pull request #410 from JoaoEmanuel1/feat/community/JoaoEmanuel1
+    
+    feat: add JoaoEmanuel1 profile
+
+[33mcommit 35b95ca96198952f6885a4cdde77129782305633[m
+Merge: 99285b6 5fb5b1b
+Author: Elidiana Andrade <97471199+elidianaandrade@users.noreply.github.com>
+Date:   Tue Aug 22 21:30:12 2023 -0300
+
+    Merge pull request #404 from taynanmancilla/feat/community/taynanmancilla
+    
+    feat: add taynanmancilla profile
+
+[33mcommit 99285b62a47a1569a817829f6c38afad3b0ddda3[m
+Merge: dd6d725 aa428cb
+Author: Elidiana Andrade <97471199+elidianaandrade@users.noreply.github.com>
+Date:   Tue Aug 22 21:29:58 2023 -0300
+
+    Merge pull request #402 from thiagosantos2021/feat/community/thiagosantos2021
+    
+    feat: add thiagosantos2021 profile
+
+[33mcommit dd6d72576cb65b9db8764c7c15dcd17a857c2082[m
+Merge: 4ff528c 2eacbd7
+Author: Elidiana Andrade <97471199+elidianaandrade@users.noreply.github.com>
+Date:   Tue Aug 22 21:29:31 2023 -0300
+
+    Merge pull request #401 from FelipeBDP/patch-1
+    
+    feat: add felipebdp profile
+
+[33mcommit 4ff528cdd1af968b934ff6ed08faeaf828e0822a[m
+Merge: c58ab27 dd62318
+Author: Elidiana Andrade <97471199+elidianaandrade@users.noreply.github.com>
+Date:   Tue Aug 22 21:29:09 2023 -0300
+
+    Merge pull request #397 from Dan-Teles/feat/community/Dan-Teles
+    
+    feat: add Dan-Teles profile
+
+[33mcommit c58ab270ef2aecfb44cc81d2eaf70b3de38f35cd[m
+Merge: 2453442 3714a34
+Author: Elidiana Andrade <97471199+elidianaandrade@users.noreply.github.com>
+Date:   Tue Aug 22 21:28:44 2023 -0300
+
+    Merge pull request #400 from rixargolo/feat/community/rixargolo
+    
+    feat: add rixargolo profile
+
+[33mcommit 2453442a90244cc61ce87caaf8db1a8a9803a512[m
+Merge: e4dafed ec283c2
+Author: Elidiana Andrade <97471199+elidianaandrade@users.noreply.github.com>
+Date:   Tue Aug 22 21:28:28 2023 -0300
+
+    Merge pull request #398 from Estevan-Tomazini/feat/community/Estevan-tomazini
+    
+    feat: add Estevan-Tomazini profile
+
+[33mcommit e4dafeddbd676848b63c21ee8b4b077bf4e7c10f[m
+Merge: fed63ad 09dfcf5
+Author: Elidiana Andrade <97471199+elidianaandrade@users.noreply.github.com>
+Date:   Tue Aug 22 21:27:43 2023 -0300
+
+    Merge pull request #396 from 2509tiago/feat/community/2509tiago
+    
+    feat: add 2509tiago profile
+
+[33mcommit fed63adfe3ac3951e2330ba2821399b2b6c6e665[m
+Merge: 9cb9b5c c2ab4c7
+Author: Elidiana Andrade <97471199+elidianaandrade@users.noreply.github.com>
+Date:   Tue Aug 22 21:27:29 2023 -0300
+
+    Merge pull request #395 from HenriqueMessias/main
+    
+    feat: add HenriqueMessias profile
+
+[33mc

@@ -11,7 +11,10 @@ Repositório desenvolvido para fins didáticos, com a disponibilização de mate
 [![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
 
 ## Objetivo
-Aprender o básico sobre contribuição no GitHub.
+Aprender o básico sobre contribuição no GitHub
+
+## What is Lorem Ipsum?
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 
 ## Ferramentas
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
@@ -31,7 +34,7 @@ Aprender o básico sobre contribuição no GitHub.
       <td>01</td>
       <td>Introdução ao Lab</td>
       <td align="center">
-        <a href="">
+        <a href="https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>
@@ -40,26 +43,35 @@ Aprender o básico sobre contribuição no GitHub.
       <td>02</td>
       <td>Formas de Contribuir num Projeto Open Source</td>
       <td align="center">
-        <a href="">
+        <a href="https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/8e9e1f35-5571-40c4-863f-2279ba388aeb">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
         </a>
       </td>
     </tr>
     <tr>
       <td>03</td>
-      <td>Desenvolvendo e Enviando uma Contribuição</td>
+      <td>Desenvolvendo uma Contribuição</td>
       <td align="center">
-        <a href="">
+        <a href="https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/55390e77-8893-4a65-ac62-c8bea564528d">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>    
     </tr>
     <tr>
       <td>04</td>
+      <td>Enviando uma Contribuição</td>
+      <td align="center">
+        <a href="https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/9e6f7eb2-86cc-4a66-b31c-80d3d774667d">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
+    <tr>
+      <td>05</td>
       <td>Dicas e Materiais de Apoio</td>
       <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+        <a href="https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/9e6f7eb2-86cc-4a66-b31c-80d3d774667d">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>    
     </tr>
@@ -68,7 +80,7 @@ Aprender o básico sobre contribuição no GitHub.
 </table>
 
 ---
-##  Desafio: Profile README
+##  Desafio: Profile README - Carolina
  Contribua no diretório "Community", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
  Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
 
@@ -87,6 +99,7 @@ Aprender o básico sobre contribuição no GitHub.
 8. Crie um commit e adicione a mensagem indicando a adição do seu perfil `git commit -m"feat: add SEU_USERNAME profile"`;
 9. Envie as alterações para o seu repositório remoto `git push origin feat/community/SEU_USERNAME`; 
 10. Crie um **Pull Request**.
+11. 
 
 ### Instructions (EN/US)
 1. **Fork** the repository;
@@ -103,6 +116,7 @@ Aprender o básico sobre contribuição no GitHub.
 8. Create a commit and add the message indicating the addition of your profile `git commit -m"feat: add YOUR_USERNAME profile"`;
 9. Push changes to your remote repository `git push origin feat/community/YOUR_USERNAME`; 
 10. Create a **Pull Request**.
+11. 
 
 ### Instrucciones  (ES/ES)
 1. **Fork** the el repositorio;
@@ -136,7 +150,8 @@ Aprender o básico sobre contribuição no GitHub.
  Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição além do seu exemplo de Profile README, é inserir outros utilitários na pasta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils), ou melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/docs). <br>
  Além disso, você também pode contribuir:
  
-⚠️ Resolvendo, respondendo ou indicando **issues**
+⚠️ Resolvendo, respondendo ou indicando  **issues**
+
 
 ⭐ Adicionando aos favoritos (**star**) 
 
@@ -144,6 +159,6 @@ Aprender o básico sobre contribuição no GitHub.
 <a href="https://github.com/elidianaandrade/dio-lab-open-source/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=elidianaandrade/dio-lab-open-source"/>
 </a>
-
+# ALTERAÇÃO
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
