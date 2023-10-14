@@ -77,11 +77,11 @@ Aprender o básico sobre contribuição no GitHub
 </table>
 
 ---
-##  Desafio: Profile README
+##  Desafio: Profile README (PT/BR)
  Contribua no diretório "Community", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
  Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
 
-### Instruções (PT/BR)
+### Instruções
 1. Faça um **Fork** deste repositório;
 2. Clone localmente: `git clone https://github.com/SEU_USERNAME/dio-lab-open-source.git`;
 3. Adicione o remote upstream para manter seu repositório local atualizado. Por exemplo: `git remote add upstream https://github.com/elidianaandrade/dio-lab-open-source.git`;
@@ -97,7 +97,13 @@ Aprender o básico sobre contribuição no GitHub
 9. Envie as alterações para o seu repositório remoto `git push origin feat/community/SEU_USERNAME`; 
 10. Crie um **Pull Request**.
 
-### Instructions (EN/US)
+---
+##  Challenge: Profile README (EN/US)
+
+Contribute on "Community" repository, creating a README profile having informations about that you want to share with community. For this, you must input: badges indicating your skills; cards with your statistics on GitHub and projects that you made it, contributed or that want that other people colaborate. Futhermore, you can input also links for your projects challenge and article in the Dio's pratform [Digital Innovation One](https://www.dio.me/).<br>
+Inspire consulting examples in the file [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community), check out some utilities in the file [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils) and use your creativity to creat yours 😊💙.
+
+### Instructions
 1. **Fork** the repository;
 2. Clone locally: `git clone https://github.com/YOUR_USERNAME/dio-lab-open-source.git`;
 3. Add upstream remote to keep your local repository up to date. For example: `git remote add upstream https://github.com/elidianaandrade/dio-lab-open-source.git`;

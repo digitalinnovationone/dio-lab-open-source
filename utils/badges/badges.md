@@ -233,3 +233,7 @@
   </tbody>
   <tfoot></tfoot>
 </table>
+
+## Mais informações
+
+Para mais badges, acesse esse [artigo](https://dev.to/envoy_/150-badges-for-github-pnk) que você irá encontrar vários.
