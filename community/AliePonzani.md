@@ -18,7 +18,9 @@ Estou entusiasmada com minha jornada no mundo da programação e ansiosa para ap
 
 Durante meu primeiro semestre na faculdade, tive a oportunidade de participar de um projeto de iniciação científica. Fui convidada por um professor após me destacar na aula de matemática. O objetivo do projeto era desenvolver um site educacional para auxiliar os alunos do primeiro semestre de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) a compreender equações lineares 3x3.
 
-![Tela Inicial](https://github.com/AliePonzani/dio-lab-open-source/blob/main/community/.github_community/AliePonzani-TelaInicial.png)
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/115513954/275295070-97925215-21c0-4a91-b34f-4f34d27b3ef7.png" width="500px"/>
+</div>
 
 #### Tecnologias Utilizadas
 
@@ -42,7 +44,9 @@ Este projeto representou uma oportunidade emocionante de aplicar meus conhecimen
 
 O projeto "TADS 2022 - Senac" é um site desenvolvido em React. Este projeto foi criado com o objetivo de proporcionar aos alunos das turmas de Análise e Desenvolvimento de Sistemas uma plataforma para construir suas próprias páginas sobre os temas de sua escolha.
 
-![Site TADS 2022](https://github.com/AliePonzani/dio-lab-open-source/blob/main/community/.github_community/AliePonzani-Tads2022.png)
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/115513954/275295077-8e51354e-033a-48a7-9896-fea026b868a7.png" width="500px"/>
+</div>
 
 #### Principais Características
 
