@@ -36,8 +36,8 @@ jobs:
         fi
         
         # Verifique se este é o único arquivo modificado
-        CHANGED_FILES=$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }})
-        if [[ "$CHANGED_FILES" != "$FILE_PATH" ]]; then
+        NUM_CHANGED_FILES=$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} | wc -l)
+        if [[ "$NUM_CHANGED_FILES" -ne 1 ]]; then
             echo "ERROR: There are other files changed besides $FILE_PATH."
             exit 1
         fi
