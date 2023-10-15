@@ -47,5 +47,4 @@
       </td>
     </tr>
   </tbody>
-  <tfoot></tfoot>
 </table>
