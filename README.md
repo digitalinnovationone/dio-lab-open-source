@@ -74,7 +74,7 @@ Aprender o básico sobre contribuição no GitHub.
 ### Instruções (PT/BR)
 1. Faça um **Fork** deste repositório;
 2. Clone localmente: `git clone https://github.com/SEU_USERNAME/dio-lab-open-source.git`;
-3. Adicione o remote upstream para manter seu repositório local atualizado. Por exemplo: `git remote add upstream https://github.com/elidianaandrade/dio-lab-open-source.git`;
+3. Adicione o remote upstream para manter seu repositório local atualizado. Por exemplo: `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git`;
     > Utilize o comando `git pull upstream main` para baixar e mesclar as alterações no seu repositório local com base na branch `main` deste repositório original de onde você fez o fork, ou `git fetch upstream main` para baixar sem mesclar. Veja mais em: [Primeiros Passos com Git e GitHub](https://github.com/digitalinnovationone/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
 4. Crie/Referêncie uma nova **branch** e nomeie como `feat/community/SEU_USERNAME`: `git checkout -b feat/community/SEU_USERNAME`;
     > Exemplo: `git checkout -b feat/community/elidianaandrade`
@@ -90,7 +90,7 @@ Aprender o básico sobre contribuição no GitHub.
 ### Instructions (EN/US)
 1. **Fork** the repository;
 2. Clone locally: `git clone https://github.com/YOUR_USERNAME/dio-lab-open-source.git`;
-3. Add upstream remote to keep your local repository up to date. For example: `git remote add upstream https://github.com/elidianaandrade/dio-lab-open-source.git`;
+3. Add upstream remote to keep your local repository up to date. For example: `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git`;
     > Use the command `git pull upstream main` to download and merge changes to your local repository based on the branch `main` from this original repository you forked it from, or `git fetch upstream main` to download without merging. See more at: [Getting Started with Git and GitHub](https://github.com/digitalinnovationone/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
 4. Create a new **branch** and name it as `feat/community/YOUR_USERNAME`: `git checkout -b feat/community/YOUR_USERNAME`;
     > Example: `git checkout -b feat/community/elidianaandrade`
