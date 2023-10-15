@@ -1,16 +1,11 @@
 <h1>
   ## :tulip:  Milena Johnston :blue_book: 
-
-    
 </h1
-
-
 
 Olá! Eu sou a Milena, apaixonada por Ciência e Análise de Dados. Meu hiperfoco é direcionado para essas áreas e a cada dia eu me esforço para aprender mais e mais. 🧠💡
 🌱 Atualmente, estou mergulhando no mundo do Java e Python, adicionando mais habilidades ao meu repertório de programação. Adoro a sensação de desvendar novos desafios e as infinitas possibilidades que a programação oferece. 🌱💻
 
 ### Conecte-se comigo
-
 
 <a href="https://web.dio.me/users/milenajohnjohn">
   <img width="100" src="https://i.imgur.com/OvsyqE1.png" style="background-color: #8A2BE2; padding: 4px;">
@@ -95,4 +90,3 @@ Olá! Eu sou a Milena, apaixonada por Ciência e Análise de Dados. Meu hiperfoc
     </tr>
   </tbody>
 </table>
-
