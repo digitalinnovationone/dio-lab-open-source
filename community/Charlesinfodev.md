@@ -12,7 +12,9 @@
 
 
 ## GitHub Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Charlesdev&theme=transparent&bg_color=ec63a1&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff&hide_title=true&hide=stars)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Charlesinfodev&theme=transparent&bg_color=ec63a1&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff&hide_title=true&hide=stars)
+
 
 ## Minhas contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Charlesinfodev&repo=dio-lab-open-source&bg_color=ec63a1&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)](https://github.com/Charlesinfodev/dio-lab-open-source.git)
