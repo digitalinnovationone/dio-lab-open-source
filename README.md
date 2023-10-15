@@ -1,6 +1,6 @@
 ## Apresentação 🙋‍♀️
 <h3 align="left">Olá, me chamo Sarah Torres!</h3>
-<h4 align="left">Sou estudante na área da Ciência da Computação, tenho 30 anos, iniciei meu estudos na área da tecnologia no início de 2022 com a finalidade de fazer a transição de carreira, pois eu atuava como Tatuadora. Meu objetivo é me tornar uma desenvolvedora full stack, tem sido uma jornada bem desafiadora, cheia de aprendizados e troca de conhecimentos. </h4> 
+<h4 align="left">Sou estudante na área da Ciência da Computação, tenho 30 anos, iniciei meus estudos na área da tecnologia no início de 2022 com a finalidade de fazer a transição de carreira, pois eu atuava como Tatuadora. Meu objetivo é me tornar uma desenvolvedora full stack, tem sido uma jornada bem desafiadora, cheia de aprendizados e troca de conhecimentos. </h4> 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sarah-torres-236250238/" target="_blank">
