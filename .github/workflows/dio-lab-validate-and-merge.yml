@@ -78,8 +78,8 @@ jobs:
       run: |
         cat <<EOT > message.txt
         Olá! Parece que houve um problema com o seu PR 🧐 Aqui estão algumas coisas para verificar:
-        - Seu PR deve incluir/alterar **apenas** o arquivo \`community/${{ github.event.pull_request.user.login }}.md\`;
-        - O nome desse arquivo deve ser **exatamente (_case-sensitive_)** igual ao nome de usuário no GitHub.
+        - Seu PR deve modificar **apenas** o arquivo \`community/${{ github.event.pull_request.user.login }}.md\` (dê uma olhadinha na aba _"Files changes"_);
+        - O nome desse arquivo deve ser **exatamente** igual ao nome de usuário no GitHub (nossa validação é _case-sensitive_).
 
         Para obter mais detalhes e garantir que tudo esteja correto, confira nossas instruções nos arquivos [README.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/README.md) e [CONTRIBUTE.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTE.md) (que NÃO devem ser modificados, por serem genéricos).
 
