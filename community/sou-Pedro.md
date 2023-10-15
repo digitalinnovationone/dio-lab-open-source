@@ -8,7 +8,7 @@ Olá, eu me chamo Pedro e sou um estudante de Análise e Desenvolvimento de Sist
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sou-Pedro&theme=&background=white&border=2832c2&dates=2832c2)](https://git.io/streak-stats)
 
 ## 🔗 Conecte-se Comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-1338BE?style=for-the-badge)](https://www.dio.me/users/Junior_elias1404)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-1338BE?style=for-the-badge)](https://www.dio.me/users/pedrogomesgarcia111)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2832c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrogomesgarcia/)
 [![GitHub](https://img.shields.io/badge/GitHub-2832c2?style=for-the-badge&logo=github&logoColor=fff)](https://www.dio.me/users/pedrogomesgarcia111)
 
