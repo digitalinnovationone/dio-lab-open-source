@@ -23,7 +23,6 @@ jobs:
       uses: actions/checkout@v4
       with:
         ref: ${{ github.event.pull_request.head.sha }}
-        fetch-depth: 0
         
     - name: Validate PR
       run: |
@@ -36,17 +35,21 @@ jobs:
             exit 1
         fi
         
+        # Get the list of changed files using the GitHub CLI
+        files_changed=$(gh api repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files --paginate | jq -r '.[].filename')
+        
         # List changed files for debugging purposes
-        CHANGED_FILES=$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }})
         echo "Changed files:"
-        echo "$CHANGED_FILES"
+        echo "$files_changed"
         
         # Check if this is the only modified file
-        NUM_CHANGED_FILES=$(echo "$CHANGED_FILES" | wc -l)
+        NUM_CHANGED_FILES=$(echo "$files_changed" | wc -l)
         if [[ "$NUM_CHANGED_FILES" -ne 1 ]]; then
             echo "ERROR: More files were changed besides $FILE_PATH."
             exit 1
         fi
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Comment PR on Success and Add Label [automerge]
       if: success()
