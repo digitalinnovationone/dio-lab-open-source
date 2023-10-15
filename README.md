@@ -165,7 +165,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 ⚠️ Resolvendo, respondendo ou indicando  **issues**
 
 
-⭐ Adicionando aos favoritos (**star**) 
+⭐ Adicionando aos favoritos (**star**) ⭐
 
 ##TESTE DE MESCLAGEM
 
