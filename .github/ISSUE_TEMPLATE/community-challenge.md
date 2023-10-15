@@ -1,17 +1,16 @@
 ---
-name: Community Challenge
-about: Crie uma issue sobre o Desafio proposto a comunidade
-title: "[DESAFIO]"
-labels: Community challenge
+name: Community challenge
+about: 'crie uma issue sobre o desafio proposto a comunidade '
+title: "[Desafio] Open Source "
+labels: desafio da comunidade
 assignees: ''
 
 ---
 
-*Tem alguma sugestão para quem for fazer o Desafio? Por favor descreva.*
-Uma descrição do que pode ser feito. 
+Como estou iniciando fiz o desafio de acordo com ensinamento do curso 
+presta bastante atenção.
 
-*Descreva como você realizou o seu*
-Uma descrição sobre como você fez o seu.
+realizei o desafio com o aprendizado do curso projeto open source no GitHub
 
-*Links úteis*
-- [Nome do Link](URL)
+(https://digitalinnovationone.github.io/dio-lab-open-source/)
+(https://github.com/digitalinnovationone/dio-lab-open-source/issues/14935)
