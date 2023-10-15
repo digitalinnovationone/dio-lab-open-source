@@ -29,8 +29,16 @@ jobs:
         AUTHOR_NAME="${{ github.event.pull_request.user.login }}"
         FILE_PATH="community/$AUTHOR_NAME.md"
         
+        # Verifique se o arquivo esperado existe
         if [[ ! -f $FILE_PATH ]]; then
             echo "ERROR: Expected a file at $FILE_PATH, but it doesn't exist."
+            exit 1
+        fi
+        
+        # Verifique se este é o único arquivo modificado
+        CHANGED_FILES=$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }})
+        if [[ "$CHANGED_FILES" != "$FILE_PATH" ]]; then
+            echo "ERROR: There are other files changed besides $FILE_PATH."
             exit 1
         fi
 
@@ -56,8 +64,8 @@ jobs:
       run: |
         cat <<EOT > message.txt
         Olá! Parece que houve um problema com o seu PR 🧐 Aqui estão algumas coisas para verificar:
-        - O PR deve conter o arquivo \`community/${{ github.event.pull_request.user.login }}.md\`
-        - O nome desse arquivo deve coincidir **exatamente** (_case-sensitive_) com o seu nome de usuário no GitHub.
+        - Seu PR deve conter **apenas** o arquivo \`community/${{ github.event.pull_request.user.login }}.md\`
+        - O nome desse arquivo deve ser **exatamente (_case-sensitive_)** igual ao nome de usuário no GitHub.
 
         Para obter mais detalhes e garantir que tudo esteja correto, confira nossas instruções no [README.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/README.md) e [CONTRIBUTE.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTE.md).
 
