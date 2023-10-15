@@ -12,6 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    # Verifica se a execução foi acionada pela etiqueta [run dio workflow]
     - name: Check Triggering Label [run dio workflow]
       if: github.event.action == 'labeled' && github.event.label.name != 'run dio workflow'
       run: |
@@ -19,30 +20,32 @@ jobs:
         echo "::set-output name=skip::true"
         exit 78  # exit code 78 is a neutral exit for GitHub Actions, meaning the action was skipped.
     
+    # Realiza o checkout seguro do código do PR
     - name: Checkout code from PR (Safe Checkout)
       uses: actions/checkout@v4
       with:
         ref: ${{ github.event.pull_request.head.sha }}
-        
+
+    # Valida o PR de acordo com as recomendações do README.md e CONTRIBUTE.md
     - name: Validate PR
       run: |
         AUTHOR_NAME="${{ github.event.pull_request.user.login }}"
         FILE_PATH="community/$AUTHOR_NAME.md"
         
-        # Check if the expected file exists
+        # Verifica se o arquivo esperado existe
         if [[ ! -f $FILE_PATH ]]; then
             echo "ERROR: Expected a file at $FILE_PATH, but it doesn't exist."
             exit 1
         fi
         
-        # Get the list of changed files using the GitHub CLI
+        # Obtém a lista de arquivos modificados usando a CLI do GitHub
         files_changed=$(gh api repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files --paginate | jq -r '.[].filename')
         
-        # List changed files for debugging purposes
+        # Lista os arquivos modificados para fins de depuração
         echo "Changed files:"
         echo "$files_changed"
         
-        # Check if this is the only modified file
+        # Verifica se este é o único arquivo modificado
         NUM_CHANGED_FILES=$(echo "$files_changed" | wc -l)
         if [[ "$NUM_CHANGED_FILES" -ne 1 ]]; then
             echo "ERROR: More files were changed besides $FILE_PATH."
@@ -51,6 +54,7 @@ jobs:
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+    # Comenta no PR se foi bem-sucedido e adiciona a etiqueta [automerge]
     - name: Comment PR on Success and Add Label [automerge]
       if: success()
       run: |
@@ -68,6 +72,7 @@ jobs:
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+    # Comenta no PR em caso de falha, destacando as recomendações do README.md e CONTRIBUTE.md
     - name: Comment PR on Failure
       if: failure() && steps.check-label.outputs.skip != 'true'
       run: |
@@ -87,6 +92,7 @@ jobs:
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+  # Realiza o merge do PR, caso o job "validate-and-comment" tenha sido executado com sucesso ;)
   merge:
     runs-on: ubuntu-latest
     needs: validate-and-comment
