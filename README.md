@@ -80,6 +80,7 @@ Aprender o básico sobre contribuição no GitHub.
     > Exemplo: `git checkout -b feat/community/elidianaandrade`
 5. Dentro da pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
     > Exemplo: `elidianaandrade.md` <br>
+    > Exemplo: `isaacsilva-qu.md` <br>
 6. Desenvolva o seu perfil. Para isso, você pode ver exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils);
     > **Observação:** Use os outros exemplos como inspiração e não cópia.
 7. Adicione suas alterações à "staging area" com o comando `git add community/SEU_USERNAME.md`;
@@ -96,6 +97,7 @@ Aprender o básico sobre contribuição no GitHub.
     > Example: `git checkout -b feat/community/elidianaandrade`
 5. Inside the folder [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), create a file in Markdown (extension `.md`) and name it the same as your GitHub username;
     > Example: `elidianaandrade.md` <br>
+    > Example: `isaacsilva-qu.md` <br>
 6. Develop your profile. For this you can see examples in the folder [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) and add some of the utilities present in the folder [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils);
     > **Note:** Use the other examples as inspiration, not copy.
 7. Add your changes to the "staging area" with the command `git add community/YOUR_USERNAME.md`;
