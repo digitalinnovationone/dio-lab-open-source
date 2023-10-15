@@ -88,35 +88,35 @@ Aprender o básico sobre contribuição no GitHub.
 10. Crie um **Pull Request**.
 
 ### Instructions (EN/US)
-1. **Fork** the repository;
+1. **Fork** this repository;
 2. Clone locally: `git clone https://github.com/YOUR_USERNAME/dio-lab-open-source.git`;
-3. Add upstream remote to keep your local repository up to date. For example: `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git`;
-    > Use the command `git pull upstream main` to download and merge changes to your local repository based on the branch `main` from this original repository you forked it from, or `git fetch upstream main` to download without merging. See more at: [Getting Started with Git and GitHub](https://github.com/digitalinnovationone/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
-4. Create a new **branch** and name it as `feat/community/YOUR_USERNAME`: `git checkout -b feat/community/YOUR_USERNAME`;
+3. Add the upstream remote to keep your local repository updated. For instance: `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git`;
+    > Use the command `git pull upstream main` to download and merge the changes in your local repository based on the `main` branch of this original repository from which you forked, or `git fetch upstream main` to download without merging. Learn more at: [Getting Started with Git and GitHub](https://github.com/digitalinnovationone/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
+4. Create/Reference a new **branch** and name it `feat/community/YOUR_USERNAME`: `git checkout -b feat/community/YOUR_USERNAME`;
     > Example: `git checkout -b feat/community/elidianaandrade`
-5. Inside the folder [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), create a file in Markdown (extension `.md`) and name it the same as your GitHub username;
+5. Inside the [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) folder, create a Markdown file (extension `.md`) and name it after your GitHub username;
     > Example: `elidianaandrade.md` <br>
-6. Develop your profile. For this you can see examples in the folder [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) and add some of the utilities present in the folder [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils);
-    > **Note:** Use the other examples as inspiration, not copy.
+6. Develop your profile. For that, you can see examples in the [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) folder and add some of the utilities available in the [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) folder;
+    > **Note:** Use the other examples as inspiration, not as a copy.
 7. Add your changes to the "staging area" with the command `git add community/YOUR_USERNAME.md`;
-8. Create a commit and add the message indicating the addition of your profile `git commit -m"feat: add YOUR_USERNAME profile"`;
-9. Push changes to your remote repository `git push origin feat/community/YOUR_USERNAME`; 
+8. Create a commit and add a message indicating the addition of your profile `git commit -m"feat: add YOUR_USERNAME profile"`;
+9. Push the changes to your remote repository `git push origin feat/community/YOUR_USERNAME`;
 10. Create a **Pull Request**.
 
-### Instrucciones (ES)
-1. **Fork** el repositorio;
-2. Clona localmente: `git clone https://github.com/USERNAME/dio-lab-open-source.git`;
-3. Agrega un remoto "upstream" para mantener actualizado tu repositorio local: `git remote add upstream https://github.com/elidianaandrade/dio-lab-open-source.git`;
-    > Utiliza el comando `git pull upstream main` para descargar y fusionar los cambios en tu repositorio local basado en la rama `main` de este repositorio original del cual lo bifurcaste, o `git fetch upstream main` para descargar sin fusionar. Obtén más información en: [Getting Started with Git and GitHub](https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
-4. Crea una nueva **branch** y nómbrala como desees. `feat/community/seunomedeusuario`: `git checkout -b feat/community/yourusername`;
+### Instrucciones (ES/ES)
+1. Haz un **Fork** de este repositorio;
+2. Clona localmente: `git clone https://github.com/TU_USERNAME/dio-lab-open-source.git`;
+3. Añade el remote upstream para mantener tu repositorio local actualizado. Por ejemplo: `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git`;
+    > Usa el comando `git pull upstream main` para descargar y fusionar los cambios en tu repositorio local basado en la rama `main` de este repositorio original del cual hiciste el fork, o `git fetch upstream main` para descargar sin fusionar. Aprende más en: [Primeros Pasos con Git y GitHub](https://github.com/digitalinnovationone/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
+4. Crea/Referencia una nueva **branch** y nómbrala `feat/community/TU_USERNAME`: `git checkout -b feat/community/TU_USERNAME`;
     > Ejemplo: `git checkout -b feat/community/elidianaandrade`
-5. Dentro de la carpeta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community), crea un archivo en formato Markdown (extensión `.md`) y nómbralo igual que tu nombre de usuario de GitHub;
+5. Dentro de la carpeta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crea un archivo en Markdown (extensión `.md`) y nómbralo con el mismo nombre de tu usuario en GitHub;
     > Ejemplo: `elidianaandrade.md` <br>
-6. Desarrolla tu perfil. Para esto, puedes ver ejemplos en la carpeta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community) y añadir algunas de las utilidades presentes en la carpeta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils);
-    > **Nota**: Utiliza los otros ejemplos como inspiración, no como copia.
-7. Agrega tus cambios a la "zona de preparación" con el comando: `git add community/yourusername.md`;
-8. Sube los cambios a tu repositorio remoto:  `git commit -m"feat: add yourusername profile"`;
-9. Push changes to your remote repository `git push origin feat/community/yourusername`; 
+6. Desarrolla tu perfil. Para eso, puedes ver ejemplos en la carpeta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) y añadir algunas de las utilidades presentes en la carpeta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils);
+    > **Nota:** Usa los otros ejemplos como inspiración y no como copia.
+7. Agrega tus cambios al "área de preparación" con el comando `git add community/TU_USERNAME.md`;
+8. Crea un commit y añade un mensaje indicando la adición de tu perfil `git commit -m"feat: add TU_USERNAME profile"`;
+9. Envía los cambios a tu repositorio remoto `git push origin feat/community/TU_USERNAME`;
 10. Crea un **Pull Request**.
 
 ### Utilitários
