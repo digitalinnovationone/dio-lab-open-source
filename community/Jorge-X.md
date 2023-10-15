@@ -10,9 +10,8 @@
   <a href="https://github.com/Jurredr/github-widgetbox">
      <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Jorge-X&data=followers,repositories,stars,commits&theme=aether" alt="GitHub WirdgetBox" />     
   </a>
-  <a href="https://github.com/vitorkol/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jorge-x's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jorge-X&theme=monokai-metallian&hide_border=true"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jorge-X&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-X&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -26,6 +25,7 @@
 <a href="https://www.linkedin.com/in/jorge-luis-5130b8268/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 <a href="https://www.instagram.com/jorge000x/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" style="background-color: black;"></a>
 <a href="https://github.com/Jorge-X" target="_blank"><img src="https://img.shields.io/badge/-Github-%23000000?style=for-the-badge&logo=github&logoColor=white" style="background-color: black;">
+<a href="https://www.dio.me/users/jorgeluissousa04" target="_blank"><img src="https://img.shields.io/badge/DIO-808080?style=for-the-badge&logo=D&logoColor=white" ></a>
 </a> </div>
 
   
@@ -61,5 +61,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Jorge-X}/count.svg" /></p> 
 <br></div>
   
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>
