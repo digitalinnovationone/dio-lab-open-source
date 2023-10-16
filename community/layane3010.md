@@ -2,7 +2,7 @@
 
 Então, sou Layane, moro no estado do Pará, estudo programação, gosto da área da tecnologia e busco conhecimento sempre, acredito que a educação é um grande divisor de águas. Gostaria de me conectar a outros programadores para compartilhamos conhecimento.
 
-### Conecte-se comigo
+### Conecte-se Comigo
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/layane3010/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=google-gmail&logoColor=E94D5F)](layane:limalayane9@gmail.com)
