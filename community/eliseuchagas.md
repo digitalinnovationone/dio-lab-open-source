@@ -7,7 +7,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/eliseu.chagassilva)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/eliseu_chagass)
 [![Blog](https://img.shields.io/badge/Blog_Professor_Eliseu_Chagas-000?style=for-the-badge&logo=notion)](https://professoreliseuchagas.notion.site/)
-[![Blog](https://img.shields.io/badge/youtube-000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCAQqWqSUmQdOqjQ_5xfXOBA)
+[![youtube](https://img.shields.io/badge/youtube-000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCAQqWqSUmQdOqjQ_5xfXOBA)
 
 ## Sobre mim:
 Sou professor, tenho pós graduação em radio-oncologia pelo hospital israelita Albert Einstein, que trata-se do diagnóstico e tratamento de câncer por meio de radiações. Sou docente em diversas matérias em diferentes areas do conhecimennto. Você pode conhecer mais sobre mim acessando meu blog construído no notion, acesse https://professoreliseuchagas.notion.site/
