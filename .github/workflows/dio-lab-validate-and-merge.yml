@@ -5,21 +5,12 @@ on:
     types:
       - opened
       - synchronize
-      - labeled
 
 jobs:
   validate-and-comment:
     runs-on: ubuntu-latest
 
-    steps:
-    # Verifica se a execução foi acionada pela etiqueta [run dio workflow]
-    - name: Check Triggering Label [run dio workflow]
-      if: github.event.action == 'labeled' && github.event.label.name != 'run dio workflow'
-      run: |
-        echo "WARN: Workflow was triggered by another label, not [run dio workflow]. Skipping execution..."
-        echo "::set-output name=skip::true"
-        exit 78  # exit code 78 is a neutral exit for GitHub Actions, meaning the action was skipped.
-    
+    steps:   
     # Realiza o checkout seguro do código do PR
     - name: Checkout code from PR (Safe Checkout)
       uses: actions/checkout@v4
@@ -74,14 +65,14 @@ jobs:
 
     # Comenta no PR em caso de falha, destacando as recomendações do README.md e CONTRIBUTE.md
     - name: Comment PR on Failure
-      if: failure() && steps.check-label.outputs.skip != 'true'
+      if: failure()
       run: |
         cat <<EOT > message.txt
         Olá! Parece que houve um problema com o seu PR 🧐 Aqui estão algumas coisas para verificar:
-        - Seu PR deve conter **apenas** o arquivo \`community/${{ github.event.pull_request.user.login }}.md\`
-        - O nome desse arquivo deve ser **exatamente (_case-sensitive_)** igual ao nome de usuário no GitHub.
+        - Seu PR deve modificar **apenas** o arquivo \`community/${{ github.event.pull_request.user.login }}.md\` (dê uma olhadinha na aba _"Files changed"_);
+        - O nome desse arquivo deve ser **exatamente** igual ao nome de usuário no GitHub (nossa validação é _case-sensitive_).
 
-        Para obter mais detalhes e garantir que tudo esteja correto, confira nossas instruções no [README.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/README.md) e [CONTRIBUTE.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTE.md).
+        Para obter mais detalhes e garantir que tudo esteja correto, confira nossas instruções nos arquivos [README.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/README.md) e [CONTRIBUTE.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTE.md) (que NÃO devem ser modificados, por serem genéricos).
 
         Se o seu PR tem um objetivo diferente, não se preocupe! Ele será analisado manualmente por nossa equipe, o que pode levar um pouco mais de tempo. Pedimos paciência nesse processo 🙏
 
