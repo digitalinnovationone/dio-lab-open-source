@@ -95,6 +95,21 @@
         <code>[![Reddit](https://img.shields.io/badge/Reddit-000?style=for-the-badge&logo=reddit&logoColor=FF4500)](https://www.reddit.com/u/SEUUSERNAME)</code>
       </td>
     </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+      </td>
+      <td>
+        <code>[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/DDI+DDD+SEU_NUMERO_WHATSAPP)</code>
+      </td>
+    </tr>
+      <td>
+        <img align="center" alt="Email" src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF">
+      </td>
+      <td>
+        <code>[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:SEUEMAIL)</code>
+      </td>
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
@@ -241,6 +256,13 @@
         <code>![Kotlin](https://img.shields.io/badge/Kotlin-000?&style=for-the-badge&logo=kotlin&logoColor=B73BFE)</code>
       </td>
     <tr>
+      <td>
+        <img align="center" alt="PL" <img alt="Static Badge" src="https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000">
+      </td>
+      <td>
+        <code>![PL]("https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000")></code>
+      </td>
+    </tr>    
   </tbody>
   <tfoot></tfoot>
 </table>
