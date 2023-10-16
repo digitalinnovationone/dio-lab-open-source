@@ -55,3 +55,21 @@ If you want to config your scope of work use the tags below.
   - `$ git commit -a -m "your message here"`
 - Change the message to commit
   - `$git commit -amend "new message here"`
+
+ ### 🌿 Branch Commands
+ - Create a new branch
+   - `$ git branch [branch_name]`
+ - List all branches
+   - `$ git branch`
+ - Switch to a branch
+   - `$ git checkout [branch_name]`
+ - Merge a branch into the current branch
+   - `$ git merge [branch_name]`
+ - Delete a branch (locally)
+   - `$ git branch -d [branch_name]`
+ - Delete a branch on the remote repository
+   - `$ git push --delete [remote_name] [branch_name]`
+ - Rename the current branch
+   - `$ git branch -m [new_branch_name]`
+ - View the commit history of a branch
+   - `$ git log [branch_name]`
