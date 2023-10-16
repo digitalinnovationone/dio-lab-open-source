@@ -14,4 +14,4 @@
 #### Contacts
 
 - ✉️ Email: devlucao@gmail.com
-- 👤 LinkedIn: https://www.linkedin.com/in/lucasr-freitas/ 
+- 👤 LinkedIn: https://www.linkedin.com/in/lucasr-freitas/
