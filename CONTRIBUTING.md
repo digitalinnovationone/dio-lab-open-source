@@ -52,6 +52,8 @@
 ## Desafios Git e GitHub
 - [50 minutos de desafios para treino](https://www.youtube.com/watch?v=kB5e-gTAl_s)
 
+## Sugestão de Curso DIO
+- [Versionamento de Código com Git e GitHub](https://www.dio.me/courses/versionamento-de-codigo-com-git-e-github)
 
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
