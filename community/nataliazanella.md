@@ -33,13 +33,6 @@ Me chamo Natália, sigo no momento em transção de carreira, porém recentement
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rehpedroso&repo=dio-lab-open-source&bg_color=9932CC&border_color=000&show_icons=true&icon_color=000&text_color=FFF)](https://github.com/NataliaZanella/dio-lab-open-source)
 
-  
- 
 
-
-
-
-
----
 
 
