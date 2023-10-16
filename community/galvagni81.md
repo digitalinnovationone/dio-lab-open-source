@@ -21,4 +21,6 @@ Já atuei como desenvolvedor durante 6 anos (de 2003 à 2009) e estou retomei me
 <br><br><br>
 ## 🚀 *GitHub Stats*
 ---
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=galvagni81&theme=transparent&bg_color=770092&border_color=a058f5&show_icons=true&icon_color=91ff95&title_color=91ff95&text_color=FF0)
+
