@@ -8,7 +8,8 @@
 
 ## Quem sou eu:
 
-Sou brasileiro, casado, tenho 2 filhas e 1 neto. Comecei na área de programação em 1994, estou aqui na Dio para revisar conceitos e aprender coisas novas, pois nessa área estudamos sempre.
+Sou brasileiro, casado, tenho 2 filhas e 1 neto. Comecei na área de programação em 1994,
+estou aqui na Dio para revisar conceitos e aprender coisas novas, pois nessa área estudamos sempre.
 
 ## Onde me encontrar:
 
