@@ -5,10 +5,10 @@
 <h2> Conecte-se comigo </h2>
 
 <p>
-    Git hub: github.com/WellanBenvindo
-    instagran: @wellanbenvindo
-    linkedin : https://www.linkedin.com/in/wellan-rayan-b0382b138/
-    DIO: https://www.dio.me/users/wellanbenvindo25
+    Git hub: github.com/WellanBenvindo <br>
+    instagran: @wellanbenvindo <br>
+    linkedin : https://www.linkedin.com/in/wellan-rayan-b0382b138/<br>
+    DIO: https://www.dio.me/users/wellanbenvindo25 <br>
 
  </p>
 
