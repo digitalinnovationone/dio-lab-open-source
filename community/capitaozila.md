@@ -24,7 +24,7 @@
 
 <!-- GIF Cobrinha -->
 <h2 align="center">:snake: Snake.gif :snake:</h2>
-<p align="center">Watch my GitHub contributions in motion:</p>
+<p align="center">Watch my -GitHub- contributions in motion:</p>
 <p align="center"><img src="https://github.com/Capitaozila/Capitaozila/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contributions"></p>
 
 <!-- Imagem Fofinha -->
