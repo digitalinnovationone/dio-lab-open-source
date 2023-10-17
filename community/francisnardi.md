@@ -1,9 +1,6 @@
 # Francisco Nardi
 
-## LinkedIn
-<a href = "https://linkedin.com/in/francisnardi" target="_blank"><img src="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BdEbUxygbR7KgwFJdUzFGTw%3D%3D" target="_blank"></a>
-
-### Summary
+## Summary
 
 - Currently works as a Python Back-end and DevOps Engineer in a Build & Run Project (Idealization, Development, and Support) for Burger King and Popeyes restaurant chains operating in Brazil via e-Deploy IT Consulting (Python, JavaScript, SQLite, Postman, Azure).
 - Previously worked as a .NET Back-end and DevOps Engineer at Itau Unibanco (2+ years) in a Build & Run Project for Process Automation at Itau Unibanco - Digital and Electronic Signature of Retail and Wholesale Bank Products (C#, JavaScript, MS SQL, Postman, RTC, Control-M, AWS).
