@@ -1,4 +1,8 @@
 # Gustavo K. Procópio
+28 Anos.
+
+Trabalho como Analista de Infraestrutura mas focado em Segurança da Informação, trabalhando na parte de Blue Team, no momento.
+Meus objetivos nesse github é aprender mais sobre o mundo da programação para realmente entender como as coisas funcionam, ampliar minhas habilidade para alcançar um nível bem mais acima do que eu estou no momento na área de Segurança.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gustavo-procopio-187123213/)
