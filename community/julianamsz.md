@@ -1,6 +1,6 @@
 ## QUEM SOU EU
 
-# 📚☕Olá! Sou estudante de Engenharia de Sistemas e entusiasta do mundo de inovação e projetos, com foco na gestão e análises de melhorias.
+  # 📚☕Olá! Sou estudante de Engenharia de Sistemas e entusiasta do mundo de inovação e projetos, com foco na gestão e análises de melhorias.
 
 ## 📌SOFT SKILLS
 
@@ -15,3 +15,4 @@
   # ✅ Excell Avançado
   # ✅ NoSQL
   # ✅ Python
+
