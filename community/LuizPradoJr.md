@@ -17,7 +17,7 @@
 <img  width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=LuizPradoJr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-# Conecte-se comigo
+## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luizpradojr/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/LuizPradoJr/)
