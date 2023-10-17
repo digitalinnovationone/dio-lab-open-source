@@ -103,6 +103,7 @@ Aprender o básico sobre contribuição no GitHub.
 8. Create a commit and add a message indicating the addition of your profile `git commit -m"feat: add YOUR_USERNAME profile"`;
 9. Push the changes to your remote repository `git push origin feat/community/YOUR_USERNAME`;
 10. Create a **Pull Request**.
+11. Commit: git commint -m"Texto do commit aqui"
 
 ### Instrucciones (ES/ES)
 1. Haz un **Fork** de este repositorio;
