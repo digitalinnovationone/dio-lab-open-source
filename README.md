@@ -1,149 +1,74 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Contribuindo em um Projeto Open Source no GitHub</span>
-</h1>
+# Welcome! I'm Ygor! 📐✏️👷🏻📸👨🏻‍💻️✍🏻
+## 💫 About Me:
 
-Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
+🔭 I’m currently studying at 42 Software Engineer school.<br>
+👯 I’m looking to collaborate on open source and art projects.<br>
+🤝 I’m looking for help with creative programming and urban data science!<br>
+🌱 I’m currently learning C/C++ and Python.<br>
+💬 Ask me about anything! I love to exchange ideas!<br>
+📫 You can reach me out through: ygor.sena@alumni.usp.br<br>
+😄 He/His<br>
+⚡ Fun fact: I completed a 10-day Vipassana Meditation retreat.
 
-[![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
-[![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ygor-sena) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ygorgsena) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ygorgsena) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ygor.goes.378)
 
-## Objetivo
-Aprender o básico sobre contribuição no GitHub.
+## 💻 Tech Stack:
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-## Ferramentas
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+## 📊 GitHub Stats:
+[![](https://github-readme-stats.vercel.app/api?username=ygor-sena&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight)](https://github.com/ygor-sena?tab=repositories)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ygor-sena&theme=tokyonight&hide_border=true)<br/>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ygor-sena&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/ygor-sena?tab=repositories)
 
-## Percurso
-<table>
-  <thead>
-    <tr align="left">
-      <th>Nº</th>
-      <th>Etapas</th>
-      <th>Materiais de Apoio</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>01</td>
-      <td>Introdução ao Lab</td>
-      <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>02</td>
-      <td>Formas de Contribuir num Projeto Open Source</td>
-      <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>03</td>
-      <td>Desenvolvendo e Enviando uma Contribuição</td>
-      <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
-        </a>
-      </td>    
-    </tr>
-    <tr>
-      <td>04</td>
-      <td>Dicas e Materiais de Apoio</td>
-      <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
-        </a>
-      </td>    
-    </tr>
-  </tbody>
-  <tfoot></tfoot>
-</table>
 
----
-##  Desafio: Profile README
+## 🚀 42 Cursus Syllabus
 
- Contribua no diretório "Community", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
- Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
+- [basecamp](https://github.com/ygor-sena/42sp-piscine) → Fundamentals of Shell Script and C Programming.
 
-### Instruções (PT/BR)
-1. Faça um **Fork** deste repositório;
-2. Clone localmente: `git clone https://github.com/SEU_USERNAME/dio-lab-open-source.git`;
-3. Adicione o remote upstream para manter seu repositório local atualizado. Por exemplo: `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git`;
-    > Utilize o comando `git pull upstream main` para baixar e mesclar as alterações no seu repositório local com base na branch `main` deste repositório original de onde você fez o fork, ou `git fetch upstream main` para baixar sem mesclar. Veja mais em: [Primeiros Passos com Git e GitHub](https://github.com/digitalinnovationone/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
-4. Crie/Referêncie uma nova **branch** e nomeie como `feat/community/SEU_USERNAME`: `git checkout -b feat/community/SEU_USERNAME`;
-    > Exemplo: `git checkout -b feat/community/elidianaandrade`
-5. Dentro da pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
-    > Exemplo: `elidianaandrade.md` <br>
-6. Desenvolva o seu perfil. Para isso, você pode ver exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils);
-    > **Observação:** Use os outros exemplos como inspiração e não cópia.
-7. Adicione suas alterações a "staging area" com o comando `git add community/SEU_USERNAME.md`;
-8. Crie um commit e adicione a mensagem indicando a adição do seu perfil `git commit -m"feat: add SEU_USERNAME profile"`;
-9. Envie as alterações para o seu repositório remoto `git push origin feat/community/SEU_USERNAME`; 
-10. Crie um **Pull Request**.
+### Phase 1
 
-### Instructions (EN/US)
-1. **Fork** this repository;
-2. Clone locally: `git clone https://github.com/YOUR_USERNAME/dio-lab-open-source.git`;
-3. Add the upstream remote to keep your local repository updated. For instance: `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git`;
-    > Use the command `git pull upstream main` to download and merge the changes in your local repository based on the `main` branch of this original repository from which you forked, or `git fetch upstream main` to download without merging. Learn more at: [Getting Started with Git and GitHub](https://github.com/digitalinnovationone/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
-4. Create/Reference a new **branch** and name it `feat/community/YOUR_USERNAME`: `git checkout -b feat/community/YOUR_USERNAME`;
-    > Example: `git checkout -b feat/community/elidianaandrade`
-5. Inside the [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) folder, create a Markdown file (extension `.md`) and name it after your GitHub username;
-    > Example: `elidianaandrade.md` <br>
-6. Develop your profile: For that, you can see examples in the [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) folder and add some of the utilities available in the [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) folder;
-    > **Note:** Use the other examples as inspiration, not as a copy.
-7. Add your changes to the "staging area" with the command `git add community/YOUR_USERNAME.md`;
-8. Create a commit and add a message indicating the addition of your profile `git commit -m"feat: add YOUR_USERNAME profile"`;
-9. Push the changes to your remote repository `git push origin feat/community/YOUR_USERNAME`;
-10. Create a **Pull Request**.
+- [libft](https://github.com/ygor-sena/42cursus-libft) → My very own C library! It reproduces some of C libraries.
+- [get_next_line](https://github.com/ygor-sena/42cursus-get-next-line) → Returns a line read from file descriptors.
+- [ft_printf](https://github.com/ygor-sena/42cursus-ft-printf) → My very own printf implementation!.
+- [born2berrot](https://github.com/ygor-sena/42cursus-born2beroot) → Set up a Linux Server on a virtual machine.
+- [fdf](https://github.com/ygor-sena/42cursus-FdF) → A wireframe viewer for 3D maps using MinilibX.
+- [minitalk](https://github.com/ygor-sena/42cursus-minitalk) → Data exchange programs using UNIX signals.
 
-### Instrucciones (ES/ES)
-1. Haz un **Fork** de este repositorio;
-2. Clona localmente: `git clone https://github.com/TU_USERNAME/dio-lab-open-source.git`;
-3. Añade el remote upstream para mantener tu repositorio local actualizado. Por ejemplo: `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git`;
-    > Usa el comando `git pull upstream main` para descargar y fusionar los cambios en tu repositorio local basado en la rama `main` de este repositorio original del cual hiciste el fork, o `git fetch upstream main` para descargar sin fusionar. Aprende más en: [Primeros Pasos con Git y GitHub](https://github.com/digitalinnovationone/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
-4. Crea/Referencia una nueva **branch** y nómbrala `feat/community/TU_USERNAME`: `git checkout -b feat/community/TU_USERNAME`;
-    > Ejemplo: `git checkout -b feat/community/elidianaandrade`
-5. Dentro de la carpeta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crea un archivo en Markdown (extensión `.md`) y nómbralo con el mismo nombre de tu usuario en GitHub;
-    > Ejemplo: `elidianaandrade.md` <br>
-6. Desarrolla tu perfil. Para eso, puedes ver ejemplos en la carpeta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) y añadir algunas de las utilidades presentes en la carpeta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils);
-    > **Nota:** Usa los otros ejemplos como inspiración y no como copia.
-7. Agrega tus cambios al "área de preparación" con el comando `git add community/TU_USERNAME.md`;
-8. Crea un commit y añade un mensaje indicando la adición de tu perfil `git commit -m"feat: add TU_USERNAME profile"`;
-9. Envía los cambios a tu repositorio remoto `git push origin feat/community/TU_USERNAME`;
-10. Crea un **Pull Request**.
+### Phase 2
 
-### Utilitários
+- [push_swap](https://github.com/ygor-sena/42cursus-push-swap) → Implementation of a sorting algorithm to solve a two-stack problem.
+- [minishell](https://github.com/ygor-sena/42cursus-minishell) → Our own little Shell based on Bash.
+- [philosophers](https://github.com/ygor-sena/42cursus-philosophers) → Dining philosophers problem with threads, mutexes and semaphores.
+- [netpractice](https://github.com/ygor-sena/42cursus-NetPractice) → Small-scale network configuration with TCP/IP and static routing.
+- [miniRT](https://github.com/ygor-sena/42-cursus-miniRT) → Implementation of ray tracing using Phong algorithm to render simple shapes.
 
-[![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
-[![Card Stats](https://img.shields.io/badge/Card%20Stats-E94D5F?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
-[![Badges](https://img.shields.io/badge/Card%20Streak%20States-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-streak-stats.md)
+### Phase 3
+
+- [cpp_modules](https://github.com/ygor-sena/42cursus-cpp-piscine) → Introduction to OOP with C++.
+
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
 ---
+<p align="center">
+    <img alt="ygorsena's visitors" src="https://komarev.com/ghpvc/?username=ygorsena&color=blue&style=for-the-badge&label=visitors" />	
+</p>
 
-## Contribua
-[![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/stargazers)
-[![Forks](https://img.shields.io/github/forks/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/forks)
-[![GitHub Issues](https://img.shields.io/github/issues/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/issues/)
-
- Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição além do seu exemplo de Profile README, é inserir outros utilitários na pasta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils), ou melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/docs). <br>
- Além disso, você também pode contribuir:
- 
-⚠️ Resolvendo, respondendo ou indicando **issues**
-
-⭐ Adicionando aos favoritos (**star**) 
-
-### Membros da comunidade que já contribuiram:
-<a href="https://github.com/elidianaandrade/dio-lab-open-source/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=elidianaandrade/dio-lab-open-source"/>
-</a>
-
-##
-<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
