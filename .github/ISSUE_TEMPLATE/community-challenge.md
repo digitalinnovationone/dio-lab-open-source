@@ -2,16 +2,19 @@
 name: Community Challenge
 about: Crie uma issue sobre o Desafio proposto a comunidade
 title: "[DESAFIO]"
-labels: 'community challenge'
+labels: community challenge
 assignees: ''
 
 ---
 
-*Tem alguma sugestão para quem for fazer o Desafio? Por favor descreva.*
-Prestar muito a atenção pois é um conteúdo complicado porém muito legal de se aprender.
+*Sua sugestão está relacionada a um problema? Por favor descreva.*
+Não.
 
-*Descreva como você realizou o seu*
-Olhando a explicação e replicando.
+*Descreva a solução que você gostaria*
+Adicionar informações referentes a padronização das mensagens dos commits no Guia de Contribuição.
 
-*Links úteis*
-- N/A
+*Descreva as alternativas que você considerou*
+Inserir uma tabela demonstrando os tipos de commits e uma descrição a respeito do seu uso.
+
+*Contexto adicional*
+N/A.
