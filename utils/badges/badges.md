@@ -185,19 +185,6 @@
       <td>
         <code>![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)</code>
       </td>
-      <td>
-        <img align="center" alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-      </td>
-      <td>
-        <code>![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)</code>
-      </td>
-    </tr>
-      <td>
-        <img align="center" alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
-      </td>
-      <td>
-        <code>![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)</code>
-      </td>
     </tr>
   </tbody>
   <tfoot></tfoot>
