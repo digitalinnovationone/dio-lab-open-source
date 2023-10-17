@@ -7,3 +7,4 @@ atualmente tenho conhecimentos em:
 -Maquinas Virtuais
 -Linux
 -Squid
+-C#
