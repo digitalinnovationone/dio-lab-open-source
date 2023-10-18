@@ -88,6 +88,17 @@ Aprender o básico sobre contribuição no GitHub.
 9. Envie as alterações para o seu repositório remoto `git push origin feat/community/SEU_USERNAME`; 
 10. Crie um **Pull Request**.
 
+11. ## Convenção de Commits
+
+|Tipo de Commits | Descrição                                                                                 |
+|----------------|-------------------------------------------------------------------------------------------|
+|`feat`          | Adiciona uma nova funcionalidade ao projeto                                               |
+|`flix`          | Corrige um bug ou problema no projeto.                                                    |
+|`docs`          | Altera a documentação do projeto. Ex.: README, comentários no código.                     |
+|`style`         | Realiza mudanças na aparência, sem alterar a funcionalidade.                              |
+|`refactor`      | Realiza mudanças no código que não alteram a funcionalidade.                              |
+|`test`          | Adiciona ou modifica teste de projetos.                                                   |
+
 ### Instructions (EN/US)
 1. **Fork** this repository;
 2. Clone locally: `git clone https://github.com/YOUR_USERNAME/dio-lab-open-source.git`;
