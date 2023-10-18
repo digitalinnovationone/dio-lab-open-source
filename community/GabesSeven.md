@@ -9,10 +9,12 @@
 
 ## Sobre mim 🎯
 
-💻 Trabalho como Back End Junior<br>
-🧑‍💻 Pós-graduando em Cibersegrança Ofesiva, Bacharel em Ciência da Computação e Técnico em Eletrônica
-📚 Apaixonado por Segurança da Informação, mas mente aberto para tudo que seja de exatas, humanas ou biológicas<br>
-🏞️ Amo natureza, trilha, acampar...
+💻 Desenvolvedor Back End Junior <br>
+🧑‍💻 Pós-graduando em Cibersegurança Ofesiva pela ACADI-TI <br>
+🧑‍💻 Bacharel em Ciência da Computação pela UNESP <br>
+🧑‍💻 Técnico em Eletrônica pelo IFMT <br>
+📚 Apaixonado por Segurança da Informação, mas mente aberto para tudo que seja de exatas, humanas ou biológicas <br>
+🏞️ Amo natureza, trilha, acampar... <br>
 🐱 Amo animais...<br>
 
 <br>
