@@ -62,7 +62,7 @@
 
 ![SHELL SCRIPT](https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white&style=for-the-badge) &nbsp;
 
-![ASSEMBLY](https://img.shields.io/badge/assemblyscript-#007AAC?logo=assemblyscript&logoColor=white&style=for-the-badge) &nbsp;
+![ASSEMBLY](https://img.shields.io/badge/assemblyscript-007AAC?logo=assemblyscript&logoColor=white&style=for-the-badge) &nbsp;
 
 ### Banco de dados
 
@@ -103,5 +103,3 @@
 <a href="https://github.com/GabesSeven/github-readme-stats">
   <img align="center" width='33.5%'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabesSeven&layout=compact&theme=onedark"/>  
 </a>
-
-<a href="https://app.daily.dev/GabesSeven"><img src="https://api.daily.dev/devcards/a6f433c8c780480ea3c3296f29cc1a73.png?r=pdw" width="400" alt="GabesSeven's Dev Card"/></a>
