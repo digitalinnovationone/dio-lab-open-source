@@ -2,7 +2,7 @@
 # Elisangela Macedo
 
 Esse é o meu primeiro contato com Git e Github.
-Desafio: Contribuindo em um Projeto Open Source no Github
+Sou da a área de governança de TI e meu objetivo e me atualizar e ter mais conhecimdneto técnico.
 
 
 
@@ -17,8 +17,6 @@ Desafio: Contribuindo em um Projeto Open Source no Github
 
 
 |Trabalho em Equipe| Comunicação|Gerenciamento do Tempo|
-|------------------||------------|---------------------|
-
 
 
 ## Meus Projetos
