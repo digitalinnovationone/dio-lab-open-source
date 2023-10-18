@@ -30,7 +30,7 @@
 _I've been studying and working a lot, so I don't get to participate in social media very often._
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/AASanticioli)
-[![Linkedin](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/AleSanticioli)
+[![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin)]()
   
   </div>
   <br/>
@@ -65,27 +65,13 @@ _I've been studying and working a lot, so I don't get to participate in social m
   </div>
   <br/>
 
-
-
-  <div style="order: 6">
-  
-  ### I've already had contact with this cloud
-
-![Azure](https://img.shields.io/badge/azure-000?style=for-the-badge&logo=microsoftazure)
-
-  </div>
-  <br/>
-
-
-
   <div style="order: 7">
   
   ### And some tools
 
-![Jira](https://img.shields.io/badge/jira-000?style=for-the-badge&logo=jira)
+
 ![VSCode](https://img.shields.io/badge/vscode-000?style=for-the-badge&logo=visualstudiocode)
 ![Eclipse](https://img.shields.io/badge/eclipse-000?style=for-the-badge&logo=eclipse)
-![Confluence](https://img.shields.io/badge/confluence-000?style=for-the-badge&logo=confluence)
 ![Notion](https://img.shields.io/badge/notion-000?style=for-the-badge&logo=notion)
 ![PowerPoint](https://img.shields.io/badge/powerpoint-000?style=for-the-badge&logo=microsoftpowerpoint)
 ![Excel](https://img.shields.io/badge/excel-000?style=for-the-badge&logo=microsoftexcel)
@@ -95,20 +81,7 @@ _I've been studying and working a lot, so I don't get to participate in social m
   <br/>
 
 
-  <div style="order: 8">
-  
-  ### Concepts I've been focusing on:
 
-* Agile Development
-* Solid Principles
-* Clean Code
-* Clean Architecture
-* Domain Driven Design (I've just started to read the blue Evans book)
-* Design Patterns
-* TDD
-
-  </div>
-  <br/>
 
 
   <div style="order: 9">
