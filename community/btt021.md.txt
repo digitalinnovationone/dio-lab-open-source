@@ -1,0 +1,39 @@
+# Olá, THIAGO SOUZA 
+
+Atualmente não trabalho na área da tecnologia,tenho 36 anos .
+Iniciando na área da tecnologia da informação através de cursos e bootcamp aprimorando e aproveitando a oprtunidade que a internet propõe.
+realizei bootcamp conhecendo a AWS, Descubra a Nuvem, Talento Cloud Pro, Trabalhando com equipes ágeis e  sobre Git e GitHub do curso versionamento de código com git e GitHub da 
+[Digital innovation one](https://www.dio.me/)
+
+
+##💾 Documentação 
+
+[Documentação Git](https://git-scm.com/doc)
+
+[Perfil DIO](https://web.dio.me/users/thiagobtt87?page=1&tab=achievements)
+
+[Perfil GitHub](https://github.com/Thbtt)
+
+[Perfil Linkedin](https://www.linkedin.com/in/thiago-luiz-403014290/)
+
+[Perfil instagram](https://www.instagram.com/thiagobtt021/)
+
+
+
+## 🛠️ Resumos das Aulas 
+
+
+| Salvando Alterações no Repositório Local | 
+
+[Aulas](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/potencia-tech-ifood-programacao-do-zero&tab=undefined&moduleId=undefined)
+
+[contribuição Resumos](https://github.com/Thbtt/dio-lab-open-source/commit/c3312752af31efc67d73e1c08a6b9cd0dd5c9b41)
+
+[Resumos](https://github.com/Thbtt/dio-lab-open-source)
+
+[Resumos](https://github.com/Thbtt/dio)
+
+
+
+## Referências 
+[Digital Innovation one]
