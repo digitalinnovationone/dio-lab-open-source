@@ -120,6 +120,22 @@ Aprender o básico sobre contribuição no GitHub.
 9. Envía los cambios a tu repositorio remoto `git push origin feat/community/TU_USERNAME`;
 10. Crea un **Pull Request**.
 
+### 説明書 (JP/日本語)
+1. このリポジトリの **Fork** を作成します。
+2. ローカルにクローンを作成します: `git clone https://github.com/あなたのユーザーネーム/dio-lab-open-source.git`;
+3. リモート アップストリームを追加して、ローカル リポジトリを最新の状態に保ちます。例: `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git`;
+    > コマンド `git pull upstream main` を使用して、フォーク元のこの元のリポジトリの `main` ブランチに基づいてローカル リポジトリに変更をダウンロードしてマージするか、マージせずにダウンロードするには `git fetch upstream main` を使用します。詳細については、[Git と GitHub の最初のステップ](https://github.com/digitalinnovationone/dio-curso-git-github/blob/main/materiais-de-apoio/03-Primeiros-passos-com-git) を参照してください。 -e-github.md)。
+4. 新しい **branch** を作成/参照し、`feat/community/あなたのユーザーネーム` という名前を付けます。 `git checkout -b feat/community/あなたのユーザーネーム`;
+    > 例: `git checkout -b feat/community/elidianaandrade`
+5. [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) フォルダー内に Markdown ファイル (`.md`) 拡張子 を作成し、名前を付けますGitHub ユーザー名と同じ名前。
+    > 例: `elidianaandrade.md` <br>
+6. プロフィールを作成します。これを行うには、[`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) フォルダー内の例を参照し、 [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) フォルダー;
+    > **注意:** 他の例はコピーではなく、インスピレーションとして使用してください。
+7. コマンド `git add community/あなたのユーザーネーム.md` を使用して、「ステージング領域」に変更を追加します。
+8. コミットを作成し、プロファイルの追加を示すメッセージを追加します `git commit -m"feat: add あなたのユーザーネーム profile"`;
+9. 変更をリモート リポジトリ `git push origin feat/community/あなたのユーザーネーム` にプッシュします。
+10. **Pull Request** を作成します。
+
 ### Utilitários
 
 [![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
