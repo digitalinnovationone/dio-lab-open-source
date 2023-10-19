@@ -6,6 +6,6 @@
 ≈ 1 anos de estudos em Java.
 ≈ 3 anos de estudos pratincando com javascript e nodeJS.
 ≈ 1 anos de estudos em sabendo utilizar docker docker compose para ambiente de desevolvimento.
-> https://www.linkedin.com/in/leandrofalcao
+> https://www.linkedin.com/in/leandro-falcao
 
 
