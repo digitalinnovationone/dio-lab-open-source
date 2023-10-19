@@ -49,6 +49,7 @@
 ##### Exemplo commit
 
 `feat: adicionado novo arquivo`
+`style: Alterando  a Cor `
 
 
 ## Referências
