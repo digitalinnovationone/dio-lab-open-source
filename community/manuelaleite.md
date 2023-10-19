@@ -1,7 +1,7 @@
 
 # ✨ Olá, sou a Manuela Leite de Souza
 
-Aluna de graduação em Física Médica na Universidade de São Paulo. Atualmente sou Desenvolvedora Machine Learning com foco para aplicabilidade de algoritmos de inteligência artificial na área da saúde, utilizando a linguagem de programação Python. Também possuo conhecimentos de estatística utilizando a linguagem de programação R.
+Aluna de graduação em Física Médica na Universidade de São Paulo. Atualmente sou desenvolvedora machine learning com foco para aplicabilidade de algoritmos de inteligência artificial na área da saúde, utilizando a linguagem de programação Python. Também possuo conhecimentos de estatística utilizando a linguagem de programação R.
 
 Meu maior interesse é me desenvolver ainda mais na área da tecnologia, principalmente trazendo grandes resultados para a área da saúde e também da educação.
 
