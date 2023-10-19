@@ -31,7 +31,7 @@
 ### My GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=r47orr&theme=transparent&bg_color=000&hide_border=true&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r47orr-C&theme=transparent&hide_border=true&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r47orr&theme=transparent&hide_border=true&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My main developed projects during DIO Bootcamp:
 
