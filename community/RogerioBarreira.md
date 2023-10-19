@@ -1,7 +1,7 @@
 
 Rogerio Martins Barreira
 
-Desenvolvedor front-end em constante evolução, apaixonado pelo aprendizado e gamer nas horas vagas.
+Desenvolvedor front-end em constante evolução, apaixonado pelo aprendizado e gamer nas horas vagas
 
 Habilidades
 IOS GitHub
