@@ -27,7 +27,6 @@
     <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrissoares&theme=tokyonight&hide_border=true" />
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrissoares&show_icons=true&layout=donut&theme=tokyonight&hide_border=true" />
 </div>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img height="200" src="https://github-profile-trophy.vercel.app/?username=chrissoares&column=-1&theme=tokyonight&no-frame=true" alt="chrissoares" /></a> </p>
 
 <h3 align="left">Languages:</h3>
 <table >
