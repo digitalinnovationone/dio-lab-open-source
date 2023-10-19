@@ -16,6 +16,8 @@
 ![Dart](https://img.shields.io/badge/dart-000?style=for-the-badge&logo=dart&logoColor=0175C2)
 ![Flutter](https://img.shields.io/badge/flutter-000?style=for-the-badge&logo=flutter&logoColor=02569B)
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=3776AB)
+![Linux](https://img.shields.io/badge/linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Bash](https://img.shields.io/badge/gnubash-000?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 ![Sphinx](https://img.shields.io/badge/sphinx-000?style=for-the-badge&logo=sphinx&logoColor=FEFEFE)
 ![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=4479A1) 
 ![SQLite](https://img.shields.io/badge/sqlite-000?style=for-the-badge&logo=sqlite&logoColor=003B57)
