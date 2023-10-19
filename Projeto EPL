@@ -1,0 +1,183 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Willyan-k/dio-lab-open-source/blob/main/Projeto%20EPL\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "**Extract**"
+      ],
+      "metadata": {
+        "id": "Cz7tvdTmlEcc"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "sdw2023_api_url = 'https://sdw-2023-prd.up.railway.app'"
+      ],
+      "metadata": {
+        "id": "3iV8mRwjlzBJ"
+      },
+      "execution_count": 44,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "import pandas as pd\n",
+        "df = pd.read_csv('SDW2023.CSV')\n",
+        "user_ids = df['UserID'].tolist()\n",
+        "print(user_ids)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "bcGKvMi8lhFr",
+        "outputId": "4d593c14-49d2-478c-955a-d72d88203316"
+      },
+      "execution_count": 45,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "[5056, 4795, 4757, 4755]\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "import requests\n",
+        "import json\n",
+        "\n",
+        "def get_user(id):\n",
+        "  response = requests.get(f'{sdw2023_api_url}/users/{id}')\n",
+        "  return response.json() if response.status_code == 200 else None\n",
+        "\n",
+        "users = [user for id in user_ids if (user := get_user(id)) is not None]\n",
+        "print(json.dumps(users, indent=2))"
+      ],
+      "metadata": {
+        "id": "v16kNZGhnLiu"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "**Transform**"
+      ],
+      "metadata": {
+        "id": "699_tp2wlYaA"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "!pip install openai"
+      ],
+      "metadata": {
+        "id": "by4xTF120Xs0"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "openai_api_key = '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'"
+      ],
+      "metadata": {
+        "id": "t9u1ChUV1xBt"
+      },
+      "execution_count": 50,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "import openai\n",
+        "\n",
+        "openai.api_key = openai_api_key\n",
+        "\n",
+        "def generate_ai_news(user):\n",
+        "  completion = openai.ChatCompletion.create(\n",
+        "    model=\"gpt-3.5-turbo\",\n",
+        "    messages=[\n",
+        "    {\n",
+        "        \"role\": \"system\",\n",
+        "        \"content\": \"Você é um especialista em marketing bancário.\"\n",
+        "     },\n",
+        "     {\n",
+        "        \"role\": \"user\",\n",
+        "        \"content\": f\"Crie uma mensagem para {user['name']} sobre a impotância dos investimentos (máximo de 100 caracteres)\"\n",
+        "     }\n",
+        "  ]\n",
+        ")\n",
+        "  print(completion.choices[0].message)\n",
+        "\n",
+        "\n",
+        "for user in users:\n",
+        "  news = generate_ai_news(user)\n"
+      ],
+      "metadata": {
+        "id": "JY_JCiHsliFz"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "**Load**"
+      ],
+      "metadata": {
+        "id": "Ix78NjRRlcAK"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "def update_user(user):\n",
+        "  response = requests.put(f\"{sdw2023_api_url}/users/{user['id']}\", json=user)\n",
+        "  return True if response.status_code == 200 else False\n",
+        "\n",
+        "for user in users:\n",
+        "  success = update_user(user)\n",
+        "  print(f\"User {user['name']} updated? {success}!\")"
+      ],
+      "metadata": {
+        "id": "3lsOgr5klioG"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ],
+  "metadata": {
+    "colab": {
+      "name": "Olá, este é o Colaboratory",
+      "provenance": [],
+      "history_visible": true,
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "display_name": "Python 3",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 0
+}
