@@ -6,6 +6,19 @@
 - Fiz o curso de Introdução à Ciências da Computação com Python Parte 1 pela Universidade de São Paulo.
 - No momento, estou fazendo o CS50P, Introduction to Progamming With Python, Harvardx
 - Estudando Python 
+## Minha Biografia 
+### Um pouco  sobre mim!
+
+ 👋 Olá, sou ANTÔNIO (José Antônio)
+
+*Começei a carreira profissional em um campo completamente diferente, mas sempre busquei novos desafios, o que está me levando uma transformação de carreira notável após os 50 anos*. 
+
+*Após décadas de trabalho em uma área distinta, decidi seguir minha paixão pela tecnologia . Me matriculei no curso de CIÊNCIAS DE DADOS na Universidade Estácio de Sá, mergulhando de cabeça no aprendizado de programação, desenvolvimento de software e administração de sistemas, tudo isso em uma idade em que muitos considerariam aposentadoria*. 
+
+*Com uma ética de trabalho inabalável, enfrentando o desafio de aprender novas habilidades e adquirir conhecimentos técnicos avançados. Estou a poucos passos de chegar ao objetivo  final*.
+*Minha capacidade de adaptação e habilidades técnicas sólidas  me ajudará a ter sucesso em uma  nova carreira*.
+
+*Espero ser inspiração para alguém que busca fazer uma transição de carreira bem-sucedida para a área de TI  ou para outras áreas após os 50 anos, provando que nunca é tarde demais para seguir sua paixão e alcançar o sucesso em um novo campo de trabalho*.
 
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseAntonioMartins&show_icons=true&theme=dracula)
@@ -33,6 +46,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/@JoseAntonio_dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAntonioMartins&hide_progress=true) 
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoseAntonioMartins&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseAntonioMartins&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JoseAntonioMartins/dio-lab-open-source)
 
