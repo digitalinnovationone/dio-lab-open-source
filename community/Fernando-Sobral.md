@@ -11,9 +11,7 @@
 ## Resumo Profissional
 Sou um entusiasta da tecnologia e da inovação, formado em Ciência da Computação e atualmente atuo como líder na equipe de suporte e implantação de sistemas. Minha trajetória me proporcionou a aquisição de habilidades valiosas em consultas SQL para bancos de dados, capacitando-me a extrair insights significativos a partir de dados complexos. Além disso, tenho experiência sólida na linguagem de programação C# e na criação de aplicações funcionais.
 
-Minha destreza no pacote Office, com ênfase no Excel, amplia minha capacidade de análise e embasa minhas decisões. Estou constantemente em busca de aprimoramento e atualização de conhecimento, participando ativamente de cursos online focados em programação de sistemas e consultas SQL. Minha paixão pela tecnologia e sua constante evolução impulsiona minha dedicação ao aprendizado contínuo.
-
-Estou ansioso para conectar-me com você e explorar oportunidades de colaboração em futuros projetos!
+!
 
 
 ## Formação Acadêmica
