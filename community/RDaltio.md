@@ -8,14 +8,15 @@ Sou um jovem desenvolvedor de software com experiência em várias linguagens de
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/r.daltio22/)
 
 ## Habilidades
-    ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-    ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-    ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-    ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
-    ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-    ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-    ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=005C84)
-    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![JS](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS3)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=005C84)
+
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RDaltio&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
