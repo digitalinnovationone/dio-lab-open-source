@@ -1,7 +1,7 @@
 # 👋🏻 Carlos Alberto Bizerra Silva junior
 
- Olá , me chamo carlos ,  sou estudante de Analise e desenvolvimento de Softwar.
- Altuamente buscando a primeira oportunidade na área de programação , apaixonado por tecnologia , estou buscando conhecimento para conseguir a tão sonhada vaga como programador.
+ Olá, me chamo Carlos,  sou estudante de Análise e desenvolvimento de Software.
+ Altuamente buscando a primeira oportunidade na área de programação, apaixonado por tecnologia, estou buscando conhecimento para conseguir a tão sonhada vaga como programador.
  Tenho 24 anos, sou focado no que faço e busco sempre aprender para me desenvolver e crescer profissionalmente.
 
 ### Conecte-se comigo
