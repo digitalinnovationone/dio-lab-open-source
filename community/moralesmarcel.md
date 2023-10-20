@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/typing-svg)
 
 ### Meu nome é Marcel Franz Morales, sou natural de Pelotas no Rio grande do sul.
-> Sou graduado em Análise e Desenvolvimento de Sistemas na UCPel e atualmente acadêmico no curso de Engenharia Elétrica no IFSul.
+> Sou graduado em Análise e Desenvolvimento de Sistemas na UCPel e acadêmico no curso de Engenharia Elétrica no IFSul.
 
 
 ## Conecte-se comigo:
