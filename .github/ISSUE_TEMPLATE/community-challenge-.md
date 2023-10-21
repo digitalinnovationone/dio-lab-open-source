@@ -8,3 +8,5 @@ assignees: ''
 ---
 
 *Faça com calma e atenção, seguindo o passo a passo*
+
+Boa sorte!
