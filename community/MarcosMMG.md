@@ -42,7 +42,7 @@ Além da programação, sou entusiasta de tecnologia. Meus hobbies incluem aprec
  
   - Badges by <a href="https://shields.io/">shields.io</a><br>
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
+  - Developer vector created by<a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
  
   <div align="right">Made with 💜 by <a href="https://github.com/elidianaandrade">EA</a>.</div>
 
