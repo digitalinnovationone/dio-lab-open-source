@@ -1,4 +1,4 @@
-# Oie!!!😊​
+# Oie!!
 
 ## Bem vindos ao meu perfil
 
