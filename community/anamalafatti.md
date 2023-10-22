@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ana Malafatti</h1>
 <h3 align="center">A passionate Tech Support 📎 from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anamalafatti&label=Profile%20views&color=0e75b6&style=flat" alt="anamalafatti" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anamalafatti" alt="anamalafatti" /></a> </p>
-
 - 💻 I’m currently working on [Fenitti 🐦🔥](www.fenitti.com)
 
 - 📚 All of my projects are available at [https://github.com/anamalafatti](https://github.com/anamalafatti)
