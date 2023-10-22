@@ -1,6 +1,4 @@
-
 # 👩🏽‍🦱 Enise Cunha Resende
-
 Sou Bacharel em Sistemas da Informação e trabalho como analista de sistemas.
 Adoro ler, estudar e aprender.
 Estou em busca de novos aprendizados e novos desafios.
@@ -19,7 +17,6 @@ Ainda não tem muita coisa aqui pois criei minha conta a pouco, mas espero que e
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enisecr&theme=transparent&bg_color=003&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enisecr&bg_color=003&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 
 
 # Repositórios Cursos DIO
