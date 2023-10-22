@@ -4,7 +4,7 @@
     <h2>Vamos trocar ideias.</h2>
     <p> Eu sou João Ajuricaba e faz um  tempo que luto para aprender e se possível ajudar. Estou buscando aprender programação e estou cursando Analise e Desenvolvimento de Sistemas , acredito que a lógica de programação é o caminho para o aprendizado de alunos nas escolas públicas.
     </p>
-    <p>Vamos construir o mundo novo trilhando a educação e a ciência e filosofia.
+    <p>Vamos construir o mundo novo trilhando a educação ,ciência e filosofia para construirmos nossa sociedade mais harmônica e mais igualitária.
     </p>
 </div>
 <div>
