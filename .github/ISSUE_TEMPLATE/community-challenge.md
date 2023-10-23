@@ -1,7 +1,7 @@
 ---
 name: Community Challenge
 about: Crie uma issue sobre o desafio dessa comunidade
-title: "[DESAFIO] O SUPREMO "
+title: "[DESAFIO]"
 labels: Community challenge
 assignees: ''
 
