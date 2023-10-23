@@ -9,7 +9,7 @@ Desenvolvedor .Net com background em engenharia mecânica e pós-graduação em 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiotito&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias utilizadas no dia-dia
+## Tecnologias utilizadas no dia-dia:
 
 <div style="display: inline_block"<br/>>
   <img align="center" alt = "C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
