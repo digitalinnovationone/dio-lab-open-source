@@ -20,10 +20,10 @@ Comecei na programação com 13 anos com a linguagem Java, assistindo a vídeos 
 
 ### Meus Principais Desafios de Projeto DIO
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueFelixDev&repo=contatos-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/HenriqueFelixDev/contatos-dio)
+[![Contatos DIO](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueFelixDev&repo=contatos-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/HenriqueFelixDev/contatos-dio)
 
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueFelixDev&repo=consulta-cep-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/HenriqueFelixDev/consulta-cep-dio)
+[![Consulta CEP DIO](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueFelixDev&repo=consulta-cep-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/HenriqueFelixDev/consulta-cep-dio)
 
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueFelixDev&repo=santander-bootcamp-projeto-final&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/HenriqueFelixDev/santander-bootcamp-projeto-final)
+[![Santander Bootcamp - Projeto Final](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueFelixDev&repo=santander-bootcamp-projeto-final&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/HenriqueFelixDev/santander-bootcamp-projeto-final)
