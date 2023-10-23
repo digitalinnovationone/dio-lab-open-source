@@ -1,7 +1,7 @@
 # Bragiont
 
 
-Olá, meu nome é Tamires Bragion, formada em Ciencias Contabeis e servidora pública municipal. Atualmente estou aprendendo programação através da DIO.
+Olá, meu nome é Tamires Bragion, sou formada em Ciencias Contabeis e servidora pública municipal. Atualmente estou aprendendo programação através da DIO.
 
 ---
 
