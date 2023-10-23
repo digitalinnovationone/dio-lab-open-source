@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=40&center=true&vCenter=true&width=1200&duration=2001&pause=1100&lines=Olá+Me+chamo+Marcos+Aurelio+V.+Mendes;Formado+em+Análise+e+Desenvolvimento+de+Sistemas;na+Cruzeiro+do+Sul;Fique+a+vontade!+:%29+)](https://git.io/typing-svg)
 
 <div>
- <img align="right" width=200x alt="notebook picture" src="https://user-images.githubusercontent.com/62142146/208130941-c4543e17-d067-48ea-bec2-f0bd8765470e.png"><br>
+ <img align="right" width=500x alt="notebook picture" src="https://user-images.githubusercontent.com/62142146/208130941-c4543e17-d067-48ea-bec2-f0bd8765470e.png"><br>
 - Pode me chamar de Mendes ✌ <br>
- - {Desenvolvedor JAVA};<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> <br><br>
+ - {Desenvolvedor JAVA};<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> <br>
 -  Me aperfeiçoando cada dia um pouco mais com a programação!!! <br><br>
 - Amo tecnologia!!!💻<br>
 - Atualmente estudando Java, javascript, HTML e Mysql 🧑🏼‍🎓<br>
@@ -19,11 +19,11 @@
 </div>
 
 ## Conecte-se comigo
-
 <a href="https://www.dio.me/users/marcosmendesm10"><img src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge" target="_blank"></a>
 <a href = "mailto:marcosmendesm10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marcosmendes44/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/marcosmendes44" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+[![GitHub](https://img.shields.io/badge/GitHbt-000?style=for-the-badge&logo=github&logoColor=white)](+https://github.com/Mendes44)
 
 ---
    
@@ -64,14 +64,6 @@
 
 </div>
    
-<h2 align="center">Entre em contato:</h2>
-
-<a href = "mailto:marcosmendesm10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/marcosmendes44/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/marcosmendes44" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-[![GitHub](https://img.shields.io/badge/GitHbt-000?style=for-the-badge&logo=github&logoColor=white)](+https://github.com/Mendes44)
-
-
 </div>
 <h3 align="center">Um Desenvolvedor Apaixonado do Brasil!
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f7&height=180&section=footer"/>
