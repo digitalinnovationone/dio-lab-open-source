@@ -20,7 +20,7 @@ Vamos se conectar?
 
 ## Habilidades
 
-- Suporte
+- Tech Support
+- Sys Admin
 - AWS
 - Infraestrutura
-- Win Admin
