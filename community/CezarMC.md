@@ -5,14 +5,14 @@
 ## Um pouco mais sobre essa pessoa 
 - Meu nome é Cezar Margutti Caimi
 - Tenho 25 anos 
-- Sou uma pessoa legal, gosto de conversar e aprender um pouco mais sobre as coisa e como elas funcionam na pratica.
+- Sou uma pessoa legal, gosto de conversar e aprender um pouco mais sobre as coisas e como elas funcionam na prática.
 - Gosto de desafios como esses, tenho muito para aprender.
-- Sou vendedor de peças para automovel, estou no ramo a mais de 4 anos, trabalho na empresa [Auto Peças Borucar](https://www.instagram.com/auto_pecas_borucar/).
-- Tenho cursos como montagem e manutenção de computadores, aonde atuo como robby e não é trabalho apenas momentos de lazer.  
+- Sou vendedor de peças para automóvel, estou no ramo há mais de 4 anos, trabalho na empresa [Auto Peças Borucar](https://www.instagram.com/auto_pecas_borucar/).
+- Tenho cursos como montagem e manutenção de computadores, aonde atuo como hobby e não é trabalho, apenas momentos de lazer.  
 - Tenho como redes socias para fins de pesquisa e passar o tempo [facebook](https://www.facebook.com/cezar.margutti/) [Instagram](https://www.instagram.com/cezarmargutti/)
-- Gosto de jogar Fps,MOBA entre outros. 
+- Gosto de jogar FPS, MOBA entre outros. 
 
 ## OBSERVAÇÂO
-Estou querendo ingressar na area do desenvolvimento, porque gosto muito dessa area estou abraçando pequenas oportunidades para conseguir um futuro mais tranquilo.
+Estou querendo ingressar na área do desenvolvimento, porque gosto muito dessa área e estou abraçando pequenas oportunidades para conseguir um futuro mais tranquilo.
 
-começo da jornada ao desenvolverdor Data:23/10/23 
+Começo da jornada de desenvolvedor Data:23/10/23 
