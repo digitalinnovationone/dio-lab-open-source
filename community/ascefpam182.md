@@ -23,4 +23,4 @@ Estudante de pós-graduação em Full Stack Java Developer pela Faculdade de Mar
 
 ### Meus Principais Desafios de Projeto DIO
 
-[![Repo Dio](https://github-readme-stats.vercel.app/api/pin/?username=ascef182&repo=smartdoc-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ascefpam182/smartdoc-dio)
+[![Repo Dio](https://github-readme-stats.vercel.app/api/pin/?username=ascef182&repo=smartdoc-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ascef182/smartdoc-dio)
