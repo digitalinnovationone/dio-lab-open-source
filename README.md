@@ -98,6 +98,8 @@ Aprender o básico sobre contribuição no GitHub.
 18. | 'refactor'     | Realiza mudanças no código que não alteram a funcionalidade.             |
 19. | 'test'         | Adiciona ou monifica testes no projeto.                                  |
 
+20. Referencias 
+
 ### Instructions (EN/US)
 1. **Fork** this repository;
 2. Clone locally: `git clone https://github.com/YOUR_USERNAME/dio-lab-open-source.git`;
