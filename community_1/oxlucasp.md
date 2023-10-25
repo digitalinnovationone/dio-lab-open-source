@@ -1,4 +1,4 @@
-# Lucas Passos
+#oxlucasp
 
 ## Sobre Mim
 Olá! Eu sou Lucas, atualmente estou migrando da área de gestão de pessoas para tecnologia. Atuo como helpdesk há 1 mês e tenho experiência com projetos ágeis na área de gestão.
