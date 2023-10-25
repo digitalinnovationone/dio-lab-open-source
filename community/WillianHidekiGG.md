@@ -10,12 +10,12 @@
 </h1>
 <p>
 
-**Sobre mim:**<p> Sou Formado em Análise Desenvolvimento de Sistemas, com foco em estudos Front-and e no tempo livre crio jogo. Gosto de criar sites dinâmico, criativos que atenda os objetivos esperados e fascinado por apreender sobre assuntos englobando tecnologia.</p>
+<span><div align="center" style="color:purple">**Sobre mim:**</div></span><p> Sou do estado de São Paulo, formado em Análise Desenvolvimento de Sistemas, com foco em estudos Front-and e no tempo livre crio jogo. Gosto de criar sites dinâmico, criativos que atenda os objetivos esperados e fascinado por apreender sobre assuntos englobando tecnologia.</p>
 
 ---------
 
 
- <h2 style="margin:10px" align="center">Sobre meu
+ <h2 style="margin:10px" align="center"><span style="color:purple">Sobre meu</span>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="WolfWillian-git" align="center" heigth="30" width="40"/> :
                   
 
@@ -25,7 +25,7 @@
 </h2>
 
 
-<h2 align="center">Estudando atualmente📚: <br/>
+<h2 align="center"><span style="color:purple">Estudando atualmente📚:</span> <br/>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="WlfWillian-CSS" style="margin:10px" heigth="100" width="100" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="WlfWillian-HTML" style="margin:10px" heigth="100" width="100"/> 
@@ -37,7 +37,7 @@
 </h2>
 
 
-<h2 align="center">Ferramentas Proeficiente⚙️:
+<h2 align="center"><span style="color:purple">Ferramentas Proeficiente⚙️:</span>
 <div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="WlfWillian-VisualCode" style="margin:10px"  heigth="100" width="100" />
