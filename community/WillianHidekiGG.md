@@ -3,6 +3,8 @@
 <h1 align="center"> Oi!! Sou <a href="https://www.linkedin.com/in/willian-hideki-gushiken-gondim-7a41b622b/"><span style="color:purple">Willian Hideki</span>🐺</a>
 
 
+
+
 <p align="center">
  <div><a href="https://www.linkedin.com/in/willian-hideki-gushiken-gondim-7a41b622b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8b008b" target="_blank" style="margin:5px"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/willianhidekigg@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=8b008b" target="_blank" style="margin:5px"></a></div>
@@ -10,7 +12,9 @@
 </h1>
 <p>
 
-<span><div align="center" style="color:purple">**Sobre mim:**</div></span><p> Sou do estado de São Paulo, formado em Análise Desenvolvimento de Sistemas, com foco em estudos Front-and e no tempo livre crio jogo. Gosto de criar sites dinâmico, criativos que atenda os objetivos esperados e fascinado por apreender sobre assuntos englobando tecnologia.</p>
+<span><div align="center" style="color:purple">**Sobre mim:**</div></span><p> Sou do estado de São Paulo, formado em Análise Desenvolvimento de Sistemas, com foco em estudos Front-and e no tempo livre crio jogo. Gosto de criar sites dinâmico, criativos que atenda os objetivos esperados e fascinado por aprender sobre assuntos englobando tecnologia.</p>
+
+
 
 ---------
 
