@@ -9,6 +9,3 @@
 📱 **Especialidades**
 - 📚 Pergunte-me sobre C#, Python, Automação de testes E2E, Mobile!
 
-### 📊 Estatísticas no GitHub
-
-![LeoHenriqueLuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoHenriqueLuz&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
