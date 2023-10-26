@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 📚 Posgraduando na USP Esalq, no curso de Digital Business.
-- 👨‍💻 Analista de dados.
+- 👨‍💻 Analista de dados junior
 
 ## Experiência
 
