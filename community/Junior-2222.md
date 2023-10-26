@@ -6,7 +6,12 @@
 <h1>
 <div align="center">📎Junior Reis ✔</div>
 </h1>
-
+<div align="center">
+    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=79EB00)](https://www.linkedin.com/in/Junior-2222/)<sub>
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-7e00?style=for-the-badge)](https://www.dio.me/users/Junior-2222)<sup>
+[![GitHub](https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=79EB00)](https://github.com/Junior-2222)
+</div>
 
 
 
@@ -16,6 +21,9 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junior-2222&theme=sunset-gradient&bg_color=0000&border_color=0000&show_icons=true&icon_color=aaa&title_color=fff1&text_color=FFF)](https://github.com/Junior-2222)
 [![GitHub Streak](https://streak-stats.demolab.com?user=junior-2222&theme=sunset-gradient&border_radius=66&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&background=33%2C00EBBE%2C010C50&border=0C008A&fire=79EB00&ring=003F55&dates=10001D88)](https://git.io/streak-stats)
+
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=junior-2222&theme=default&margin-w=15&hide_border=true">
+
 
 </div>
 
@@ -55,11 +63,19 @@
 <hr>
 <hr>
 <hr>
-
+<br>
+  <div align="center">
+    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/Junior-2222/)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-088?style=for-the-badge)](https://www.dio.me/users/Junior-2222)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=red)](https://github.com/Junior-2222)
+</div>
+<hr>
+<hr>
 <h2 style="border-radius:200px;border: 8px solid black;min-width: 200px;background-color:#0599 ">
 
-<pre align="center" style="margin-right:30px;background-color:#0f54;border-radius:200px;border: 5px solid #fff4; color: #fffe ;min-width: 100px;" >
-✉️ Contato 🌎⤵
+<pre align="center" style="margin-right:30px;background-color:#79EB0088;border-radius:20px;border: 2px solid #fff9; color: #fffe ;min-width: 100px;" >
+✉️ Contato 🌎↕🇧🇷 🌐
 </pre>
 
 <img align="right" alt="Face Junior Reis" height="100em" width="100px"
@@ -79,24 +95,13 @@ Reis 🚀
 </h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=435&height=90&lines=Oi%2C+estou+dispon%C3%ADvel+para+atuar+web;++++++++++++++++...+ou+em+games.)](https://www.linkedin.com/in/Junior-2222/)
-🎒🎓 ✔
+
+🎒🎓✔
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&background=000&center=true&vCenter=true&multiline=true&random=false&width=470&height=90&lines=Tenho+diploma+T%C3%A9cnico+em+informatica.;e+Ci%C3%AAncia+da+computa%C3%A7%C3%A3o+incompleta.)](https://www.linkedin.com/in/Junior-2222/)
 
 </div>
-
-<hr>
-
 <br>
-
-  
-  <div align="center">
-    
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/Junior-2222/)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-088?style=for-the-badge)](https://www.dio.me/users/Junior-2222)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=red)](https://github.com/Junior-2222)
-
-  </div>
   
 <hr>
 <hr>
