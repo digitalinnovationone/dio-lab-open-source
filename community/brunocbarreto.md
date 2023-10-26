@@ -1,4 +1,3 @@
-
 # Bruno Barreto
 
 ## Redes Sociais
