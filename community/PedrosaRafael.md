@@ -6,3 +6,4 @@ Estou estudando An√°lise e Desenvolvimento de Sistemas, ainda sou iniciante na √
 DIO
 https://web.dio.me/users/radonape/?tab=achievements
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)] https://www.linkedin.com/in/rafael-pedrosa-333059289/
