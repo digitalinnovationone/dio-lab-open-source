@@ -5,14 +5,14 @@ tenho uma paixão crescente pelo mundo da programação e do desenvolvimento web
 
 Além de meu compromisso acadêmico,  também estou me aventurando no mundo do desenvolvimento Front-end,
 aprimorando minhas habilidades no SENAI. Como uma iniciante na programação,
-eu estou focada em aprender as bases essenciais, incluindo HTML5 e CSS3,
+ estou focada em aprender as bases essenciais, incluindo HTML5 e CSS3,
 que são linguagens fundamentais para a construção de sites e aplicações web.
 
 Apesar de minhas atividades acadêmicas e profissionais em ascensão, 
 também desempenho um papel importante como dona de casa e mãe. 💼🏠 
 
 Sou uma jovem que estou comprometida em construir uma carreira sólida no mundo da tecnologia e da programação,
-enquanto mantenho um equilíbrio entreminha vida doméstica. 
+enquanto mantenho um equilíbrio entre minha vida doméstica. 
 Minha jornada de aprendizado e crescimento é uma prova de minha determinação e vontade de me destacar no
 campo de Análise e Desenvolvimento de Sistemas e Front-end.💪📚🌟
 
