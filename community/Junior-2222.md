@@ -1,6 +1,7 @@
 <hr>
 <hr>
-
+<img align="right" alt="Face Junior Reis" height="100em" width="100px"
+  style="border-radius:50%;border: 1px solid #fff7;min-width: 100px;" src="https://avatars.githubusercontent.com/u/88167100?v=4"/>
 
 <h1>
 <div align="center">📎Junior Reis ✔</div>
@@ -13,7 +14,7 @@
 <hr>
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junior-2222&theme=sunset-gradient&bg_color=1195&border_color=0f95&show_icons=true&icon_color=fff5&title_color=3fd5&text_color=FFF)](https://github.com/Junior-2222)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junior-2222&theme=sunset-gradient&bg_color=0000&border_color=0000&show_icons=true&icon_color=aaa&title_color=fff1&text_color=FFF)](https://github.com/Junior-2222)
 [![GitHub Streak](https://streak-stats.demolab.com?user=junior-2222&theme=sunset-gradient&border_radius=66&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&background=33%2C00EBBE%2C010C50&border=0C008A&fire=79EB00&ring=003F55&dates=10001D88)](https://git.io/streak-stats)
 
 </div>
@@ -57,12 +58,12 @@
 
 <h2 style="border-radius:200px;border: 8px solid black;min-width: 200px;background-color:#0599 ">
 
-<pre align="center" style="margin-right:3px;background-color:#0f54;border-radius:200px;border: 10px solid #fff4; color: #fffe ;min-width: 100px;" >
+<pre align="center" style="margin-right:30px;background-color:#0f54;border-radius:200px;border: 5px solid #fff4; color: #fffe ;min-width: 100px;" >
 ✉️ Contato 🌎⤵
 </pre>
 
 <img align="right" alt="Face Junior Reis" height="100em" width="100px"
-  style="border-radius:0%;margin-right:70px;border: 4px solid #000;min-width: 100px;" src="https://avatars.githubusercontent.com/u/88167100?v=4"/>
+  style="border-radius:0%;margin-right:60px;border: 4px solid #000;min-width: 100px;" src="https://avatars.githubusercontent.com/u/88167100?v=4"/><img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   
 </h2>
 <div align="center">
