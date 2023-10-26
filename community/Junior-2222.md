@@ -3,7 +3,7 @@
 
 
 <h1>
-<center>📎Junior Reis ✔</center>
+<div align="center">📎Junior Reis ✔</div>
 </h1>
 
 
@@ -65,7 +65,7 @@
   style="border-radius:0%;margin-right:70px;border: 4px solid #000;min-width: 100px;" src="https://avatars.githubusercontent.com/u/88167100?v=4"/>
   
 </h2>
-<center>
+<div align="center">
 <h3>
 🎮🚀
 Junior 🚀
@@ -82,15 +82,21 @@ Reis 🚀
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&background=000&center=true&vCenter=true&multiline=true&random=false&width=470&height=90&lines=Tenho+diploma+T%C3%A9cnico+em+informatica.;e+Ci%C3%AAncia+da+computa%C3%A7%C3%A3o+incompleta.)](https://www.linkedin.com/in/Junior-2222/)
 
-
+</div>
 
 <hr>
 
 <br>
 
+  
+  <div align="center">
+    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/Junior-2222/)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-088?style=for-the-badge)](https://www.dio.me/users/Junior-2222)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=red)](https://github.com/Junior-2222)
+
+  </div>
+  
 <hr>
 <hr>
-</center>
+
