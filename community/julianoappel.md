@@ -2,8 +2,8 @@
 
 * 💻 Apaixonado por programação, tecnologia e inovação!
 * 🤝 Sempre disposto a ajudar e a aprender
-* 👨‍💻 Junior software developer na Solinftec
-* 🎓 Cursando Análise e Desenvolvimento de Sistemas - Anhanguera
+* 👨‍💻 Junior software developer
+* 🎓 Formado em Análise e Desenvolvimento de Sistemas - Anhanguera
 * 🎓 Formado em Ciências Contábeis - PUC PR
 
 <div align="left">
