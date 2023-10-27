@@ -14,5 +14,6 @@
 ## Tecnologias
 
 - 💻 Linguagens de programação: Apredendo Python.
+- Excel avançado
 - 🗃️ Banco de dados: SQL Server, MySQL.
 
