@@ -1,5 +1,5 @@
 #  Denis Alves
-Bem vindo ao meu perfil. Trabalho com tecnologia desde os anos 2000 e busco novos conhecimentos na parte de programação.
+Bem vindo ao meu perfil. Trabalho com tecnologia desde os anos 2000 e busco novos conhecimentos em programção.
 
 ## Minhas Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
