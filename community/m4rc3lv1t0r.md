@@ -7,7 +7,7 @@
 
 ## Experiência
 
-- 💼 Trabalho atualmente como analista de dados.
+- 💼 Trabalho atualmente como analista de dados em uma distribuidora de alimentos.
 - 🔧 Minhas habilidades incluem desenvolvimento gestão comercial, vendas, analise de dados.
 - 🌐 Já contribuí para diversos projetos com equipes comerciais.
 
