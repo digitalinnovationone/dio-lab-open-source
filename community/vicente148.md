@@ -9,6 +9,5 @@
 
 
 # 📊GitHub Stats :
-              ![](https://github-readme-stats.vercel.app/api?username=vicente148&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vicente148&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
