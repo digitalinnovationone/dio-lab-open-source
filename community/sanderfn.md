@@ -1,23 +1,36 @@
-# Frederico Sander Neves Cota
-Sou estudante de Analise e Desenvolvimento de Sistemas, iniciei meus estudos em abril de 2023 com previsão de termino em setembro de 2026. Tenho interesse em atuar na área de TI como desenvolvedor Back End, em linguagens de programação orientada a objeto como Java, C#, Python, SQL, PHP, Banco de Dados relacionais e não relacionais. Possuo uma sólida experiência profissional com mais de 9 anos de atuação no setor público onde trabalhei em cargos técnicos, de supervisão e de gerenciamento e 6 anos no setor privado. Sou um profissional dinâmico, dedicado e muito interessado em novas tecnologias para a melhoria da produtividade e melhoria continua.
+# Olá meu nome é Frederico Sander Neves Cota 👋
 
-### Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/SEUUSERNAME/)
-[![E-mail:](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:sanderfn@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/sanderfn/)
+## Um breve resumo!
+Sou um estudante de Análise e Desenvolvimento de Sistemas. Minha paixão por tecnologia e programação me impulsiona a buscar oportunidades na área de TI, com um foco pelo desenvolvimento Backend. Tenho especial interesse em linguagens de programação orientadas a objetos, como Java, C#, Python, SQL e PHP, bem como em sistemas de Banco de Dados, tanto relacionais quanto não relacionais.
+
+- 🔭 Hoje trabalho na área de saneamento básico e estou aguardando uma oportunidade na área de desenvolvimento de software.
+- 🌱 Atualmente eu estou aprendendo Java e Python
+  
+##
 
 ### Habilidades
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+<div style="display: inline_block"><br>
+  <img aling="center" alt="San-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img aling="center" alt="San-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  <img aling="center" alt="San-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img aling="center" alt="San-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>
 
+### Conecte-se comigo
+<div style="display: inline_block"><br>
+  <a href="mailto:sanderfn@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_black">
+  <a href="mailto:sanderfn@hotmail.com"><img src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_black">
+  <a href="https://www.linkedin.com/in/sanderfn"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black">  
+</div>
+
+##
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanderfn&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=FFF&hide_title=true&hide=stars)
+<div>
+  <a href="https://github.com/sanderfn">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sanderfn&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=FFF&hide_title=true&hide=stars"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanderfn&layout=compact&langs_count=16&theme=transparent&bg_color=000&border_color=30A3DC"/>
+</div>
+    
+##    
 
 
-### Meus Principais Desafios de Projeto DIO
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sanderfn&repo=dio-trilha-java-basico&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com//Sanderfn/dio-trilha-java-basico)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sanderfn&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com//Sanderfn/dio-lab-open-source)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sanderfn&repo=dio-git-e-github&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com//Sanderfn/dio-git-e-github)
