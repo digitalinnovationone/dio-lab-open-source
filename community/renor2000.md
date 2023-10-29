@@ -1,7 +1,7 @@
 # - 👋 Olá, meu nome é Mário Sérgio Renor!
 
 ##Apresentação
-Analista de Sistemas e Programador, com experiência também em liderança, projetos e suporte, de Nível Superior e 3 idiomas, , tendo 28 anos de carreira profissional, no Brasil e no exterior, nos ambientes web, desktop, multimídia(mídias digitais) e mobile. Foco em Desenvolvimento(análise/programação/sustentação/suporte/treinamento).
+Analista de Sistemas e Programador, com experiência também em liderança, projetos e suporte, de Nível Superior e 3 idiomas, tendo 28 anos de carreira profissional, no Brasil e no exterior, nos ambientes web, desktop, multimídia(mídias digitais) e mobile. Foco em Desenvolvimento(análise/programação/sustentação/suporte/treinamento).
 
 ##Características
 . Histórico impecável de conduta, portas abertas e bom relacionamento com chefes e colegas.
