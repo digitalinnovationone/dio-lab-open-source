@@ -39,20 +39,3 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wanderson-Fer&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
-### Meus Principais Desafios de Projeto DIO
-[![Repo DIO Versionamento de Código com Git e GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E34F26F&text_color=FFF)](https://github.com/CientistaPY/dio-curso-git-github.git)
-[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E34F26F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gimenez10&layout=compact&bg_color=000&border_color=30A3DC&title_color=E34F26F&text_color=FFF)
-
-
-### Meus Repositórios GitHub
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gimenez10&repo=project-flexbox-dio-master&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E34F26F&text_color=FFF)](https://github.com/Gimenez10/project-flexbox-dio-master)
-
-
-### Meus Principais Artigos na DIO
-- [Como Iniciar Uma Carreira sem Experiencia aos 40 anos?](https://web.dio.me/articles/como-iniciar-na-carreira-sem-experiencia-aos-40-anos?back=%2Farticles&page=1&order=oldest)
-- [Inteligência Artificial e Python: Potencializando a Era Tecnológica](https://web.dio.me/articles/inteligencia-artificial-e-python-potencializando-a-era-tecnologica?back=%2Farticles&page=1&order=oldest)
-
-Feito com 💙 por [Rafael](https://web.dio.me/users/rapha_gimenez).
