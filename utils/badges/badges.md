@@ -85,7 +85,7 @@
         <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
       </td>
       <td>
-        <code>[![GitHub](https://img.shields.io/badge/GitHbt-000?style=for-the-badge&logo=github&logoColor=white)](+https://github.com/SEUUSERNAME)</code>
+        <code>[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](+https://github.com/SEUUSERNAME)</code>
       </td>
     </tr>
       <td>
