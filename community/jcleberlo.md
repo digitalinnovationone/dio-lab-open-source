@@ -12,7 +12,7 @@ Meu nome é [Cléber Oliveira](https://www.dio.me/users/jcleberlo),  estou cursa
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:jcleberlo@hotmail.com)
 [![Github](https://img.shields.io/badge/Github-black?informational?style=flat&logo=github&logoColor=white)](https://github.com/jcleberlo/)
 
-## GitHub Stats
+## GitHub Status
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcleberlo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30ADC&text_color=FFF)
 
