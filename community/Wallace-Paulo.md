@@ -6,7 +6,7 @@ Designer Gráfico | Desenvolvedor Front-end | UI/UX Design
 
 <center>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/wallace-paulo-425735216/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ffcd00)](https://www.linkedin.com/in/wallacepaulo/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logoColor=ffcd00&logo=github)](https://github.com/Wallace-Paulo)
 
 </center>
