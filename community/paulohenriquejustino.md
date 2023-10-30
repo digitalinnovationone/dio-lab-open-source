@@ -21,7 +21,7 @@ Olá, sou Paulo Henrique, apaixonado por tecnologia desde cedo. Recentemente, fi
 ![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=paulohenriquejustino&show_icons=true&theme=transparent)
 
 ---
-### Conecte-se comigo
+### Conecte-se comigo:
 
 <a href="phjustino125@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  phjustino125@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
