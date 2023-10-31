@@ -12,16 +12,27 @@ Eu sou um entusiasta da tecnologia, venho me desenvolvendo como autodidata e est
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/eliandrodviana) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/eliandrodviana/)
 ## ⚛️ Habilidades
+  
+<div>
+<code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" title="HTML"></code>
+<code><img height="40" src="https://camo.githubusercontent.com/b059b3150634ebbb37fac310309b3c4a841b0ecdabcc7409c0067397f8a3931b/687474703a2f2f696f31332d686967682d6470692e61707073706f742e636f6d2f696d616765732f435353335f4c6f676f2e737667" title="CSS"></code> 
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" title="JAVASCRIPT"></code> 
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" title="TYPESCRIPT"></code> 
+<code><img height="40" src="https://cdn.auth0.com/blog/react-js/react.png" title="REACT"></code> 
+<code><img height="40" src="https://next-book-portfolio-site.vercel.app/images/next.svg" title="NEXT"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS"></code>
+<code><img height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" title="Git"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/465px-Postgresql_elephant.svg.png" title="Postgres"></code>
+</div> 
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css1/css3-original.svg" title="css" alt="CSS" width="40" height="40"/>&nbsp;
+## 📚 Estudando
+<div>
 
-
-## ⚛️ Aprendendo
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="CSharp" width="40" height="40"/>&nbsp;
+  <a><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" title="AWS"></a>
+  <a><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" title="C#"></a>
+  <a><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" title="dotnet"></a>
+  <a><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" title="Golang"></a>
+</div>
 
 ## 🛠️ Ferramentas
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
