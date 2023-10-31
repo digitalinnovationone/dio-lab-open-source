@@ -18,8 +18,6 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 
-![React](https://img.shields.io/badge/&logo=react)
-
 
 ## GitHub Stats
 
