@@ -16,8 +16,8 @@
 
 ### 📌 Projetos em Destaque
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VinnySts&repo=dio-lab-open-source&bg_color=5f59f7&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=fff)](https://github.com/VinnySts/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VinnySts&repo=dio-lab-open-source&bg_color=5f59f7&border_color=fff&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=fff)](https://github.com/VinnySts/dio-lab-open-source)
 
 ### 🚀 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VinnySts&bg_color=5f59f7&border_color=30A3DC&title_color=fff&text_color=fff)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VinnySts&bg_color=5f59f7&border_color=fff&title_color=fff&text_color=fff)
