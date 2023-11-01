@@ -6,8 +6,8 @@
 
 ### Estatíticas no GitHub
 
-[dgomp's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgomp&show_icons=true&theme=dracula)
+![dgomp's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgomp&show_icons=true&theme=dracula)
 
 ### Outros links
 
-[dgomp's LinkedIn](https://www.linkedin.com/in/jdiegomparente/)
+![dgomp's LinkedIn](https://www.linkedin.com/in/jdiegomparente/)
