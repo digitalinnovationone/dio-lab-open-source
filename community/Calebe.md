@@ -3,8 +3,6 @@
 ## Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/calebe-ribeirodev/)
 
-[![GitHub](https://img.shields.io/badge/GitHbt-000?style=for-the-badge&logo=github&logoColor=white)](+https://github.com/Calebeans)
-
 ## Habilidades
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
