@@ -4,7 +4,7 @@
 
 😎 Me chamo **Guilherme Souza de Oliveira**.
 
-**Graduando Engenharia da Computação** na FAMETRO.
+**Graduando Engenharia da Computação** na FAMETRO
 
 👩‍💻 Trabalho atualmente na [TechLog](https://www.econodata.com.br/consulta-empresa/03613289000102-TECHLOG-SERVICOS-DE-GESTAO-E-SISTEMAS-INFORMATIZADOS-LTDA) sendo Suporte Técnico
 
