@@ -9,7 +9,6 @@ Olá, me chame de SharkTax, apaixonado por tecnologia . Atualmente fazendo facul
 
 --- 
 
-<<<<<<< HEAD
 ### Meus Conhecimentos
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,8 +23,6 @@ Olá, me chame de SharkTax, apaixonado por tecnologia . Atualmente fazendo facul
 
 ---
 
-=======
->>>>>>> e16e01095572bd15bad2b1cc96d39a208ff5f491
 <div style='display: inline_block'><br>
 
 ### Conecte-se comigo:
@@ -37,9 +34,4 @@ Olá, me chame de SharkTax, apaixonado por tecnologia . Atualmente fazendo facul
 
 <a href="https://www.linkedin.com/in/victor-pinheiro-709823237/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Victor Maciel Pinheiro-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-<<<<<<< HEAD
 </a>
-=======
-</a>
-
->>>>>>> e16e01095572bd15bad2b1cc96d39a208ff5f491
