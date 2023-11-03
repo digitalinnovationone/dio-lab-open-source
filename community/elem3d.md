@@ -19,13 +19,21 @@ Sanitation Technician - [IFSC](https://www.ifsc.edu.br/)  |  Pedagogy (incomplet
 
 I’m a total newb, but am eager to learn more! Currently I'm learning C with [CS50x](https://cs50.harvard.edu/x/2023/) and also Mark Down, HTML, CSS and VCS via Git in a [DIO bootcamp for game development](https://web.dio.me/track/potencia-tech-ifood-desenvolvimento-de-jogos?tab=about). Plus teaching myself stuff with YouTube tutorials and sites...
 
+
 <div>
 <p align="center">
 <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=elem3d&show_icons=true&theme=radical&rank_icon=github&card_width=150&border_radius=15&card" />
  <a href="https://git.io/streak-stats"><img height="150cm" src="https://streak-stats.demolab.com?user=elem3d&theme=radical&border_radius=15&exclude_days=Sun&card_width=350" alt="GitHub Streak" /></a>
-<img height="200cm" width="350cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elem3d&layout=compact" />
 </p>
 </div>
+
+<h4><p align="center"> <b>Hard Skils</b></p><h4>
+
+<p align="center">
+
+<img height="100cm" src="https://github.com/elem3d/img/blob/main/Donut00_radical.png" />
+
+</p>
 
 ### 🔌 Let's get conected
 
