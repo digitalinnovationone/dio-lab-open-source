@@ -3,7 +3,7 @@
 
 ## (🏗️ *Página em construção*!🏗️)
 
-Olá! Seja bem vindo à minha página no GitHub! 
+Olá! Seja bem vindo à minha página no **GitHub**!
 
 Eu sou o **Rafael Sol Maker** (RSM), ou pode me chamar apenas 'Rafael'.
 
