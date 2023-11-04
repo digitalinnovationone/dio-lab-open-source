@@ -4,7 +4,7 @@
 # Alessandro Tregansin
 
 # Quem sou eu?
-Olá, me chamo Alessandro Diogo Tregansin, estou começando a minha caminhada nesse fascinante mundo da TI, sou estudante em Análise e Desenvolvimento de Sistemas, no momento trablaho na aéra da metalurgia e estou buscando uma oportunidade para estagiar, estou sempre buscando evolução, apreendizado e novos desafios.
+Olá, me chamo Alessandro Diogo Tregansin, estou começando a minha caminhada nesse fascinante mundo da TI, sou estudante em Análise e Desenvolvimento de Sistemas, no momento trabalho na área da metalurgia e estou buscando uma oportunidade para estagiar. Estou sempre buscando evolução, apreendizado e novos desafios.
 Para o lado pessoal, gosto de me exercitar, correr e fazer musculação, gosto de ouvir música e sou um grande fã de games.
 
 ### Conecte-se comigo
