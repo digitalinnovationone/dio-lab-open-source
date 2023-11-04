@@ -19,14 +19,12 @@ Linguagens de programação: Python, MySQL, PostgreSQL, Java, Javascript, HTML, 
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-https://github.com/andersoncmaciel
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](
+https://github.com/andersoncmaciel)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-https://br.linkedin.com/in/anderson-carlos-maciel-934402287?trk=people-guest_people_search-card
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/anderson-carlos-maciel-934402287?trk=people-guest_people_search-card)
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-https://twitter.com/andersoncm67
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/andersoncm67)
 
 
 
