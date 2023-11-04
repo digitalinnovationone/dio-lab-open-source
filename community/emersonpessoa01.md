@@ -94,3 +94,4 @@
 [![portfolio-emerson](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=portfolio-emerson)](https://github.com/emersonpessoa01/portfolio-emerson)
 [![namorados-boticario](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=namorados-boticario)](https://github.com/emersonpessoa01/namorados-boticario)
 [![portfolio-emerson](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=website-motos)](https://github.com/emersonpessoa01/website-motos)
+[![alura-plus](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=alura-plus-responsive)](https://github.com/emersonpessoa01/alura-plus-responsive)
