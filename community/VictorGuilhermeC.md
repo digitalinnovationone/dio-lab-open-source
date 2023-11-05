@@ -8,7 +8,7 @@ Apesar de ter originalmente me formado como advogado, resolvi me dedicar integra
 
 
 ## :computer: Habilidades 
-<li> <color="#F7DF1E">Javascript
+<li> Javascript
 <li> HTML
 <li> CSS
 <li> Node.JS
