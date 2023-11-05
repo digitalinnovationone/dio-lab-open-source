@@ -1,10 +1,11 @@
-# Bianca Soares
-<p>📌 Desenvolvedora Front-End em formação.</p>
-<p>📌Curitiba, Paraná, Brasil.</p>
+# Olá, bem vindo(a) ao meu perfil, eu sou a Bianca! 
+## Sobre mim:
+📌 Estou atualmente em processo de transição de carreira, da área jurídica para a área de tecnologia. Minhas experiências profissionais como advogada, assistente jurídico e estagiária de Direito me proporcionaram valiosas competências, dentre elas a resolução de problemas, pensamento crítico, comunicação eficaz, gestão de tempo, agilidade, organização, trabalho em equipe, ética e empatia. Estas habilidades são transferíveis e complementam a minha jornada na área de tecnologia.
 
-## Redes Sociais:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/hsoaresbianca/)
-[![GitHub](https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/hsoaresbianca)
+📌 Neste momento, estou em busca de oportunidades na área de tecnologia, seja como trainee, estagiária ou desenvolvedora júnior. Estou comprometida em aprimorar minhas habilidades e ampliar meu conhecimento técnico. Por estes motivos, estou cursando Análise e Desenvolvimento de Sistemas, com previsão de conclusão em agosto de 2024. Além disso, minha abordagem para adquirir habilidades técnicas também inclui a leitura de livros e a realização de cursos online em tópicos como lógica de programação, HTML, CSS, JavaScript, Desenvolvimento Web e Front-End.
 
-## Linguagens Mais Utilizadas:
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hsoaresbianca&layout=compact&bg_color=fff&border_color=000&title_color=000&text_color=000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsoaresbianca)](https://github.com/hsoaresbianca/github-readme-stats)
+
+📌 Estou animada com as possibilidades que a tecnologia oferece e estou pronta para contribuir em equipes dinâmicas e criativas. Também estou aberta a conexões, oportunidades de colaboração e aprendizado. Se você está interessado em me ajudar a crescer nesta nova fase da minha carreira, ou se compartilhamos interesses na tecnologia, ficarei feliz em me conectar.
+
+[![linkedin](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/hsoaresbianca/) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hsoaresbianca) [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/hsoaresbianca/) [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://https://discord.com/channels/@hsoaresbianca/)
