@@ -1,16 +1,12 @@
-# Cinthia Monfré Villares
+# Ivanildo Adelino da Silva Junior
 
-Minha jornada de transição de carreira tem sido empolgante e repleta de aprendizados. Com minha experiência em e-commerce e marketplace desde 2013, construí um conjunto valioso de habilidades no campo do e-commerce. Desenvolver meu interesse por projetos e me envolver com a equipe de TI alimentou minha paixão por desafios tecnológicos.
-
-Neste ano, estou iniciando meus estudos em programação como parte de minha busca por novas oportunidades e desafios profissionais. Essa transição é uma decisão corajosa, mas estou animada para expandir meus horizontes e explorar um novo campo. Acredito que minha experiência anterior, combinada com minhas novas habilidades em programação, me permitirá trazer uma perspectiva única e valiosa para minha futura carreira.
-
-Estou ansiosa para o que o futuro reserva e estou determinado a aproveitar ao máximo as oportunidades que surgirem.
+Estudante de Análise e Desenvolvimento de Sistesmas, buscando me desenvolver cada vez mais e atrás de desafios e oportunidades.
 
 ### Conecte-se comigo
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://github.com/CinthiaMonfre)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:cinthia.monfre@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/cinthia-monfr%C3%A9-villares-43082740/)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/ivanildoodlinavi65)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:ivanildoodlinavi65@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/0dl1n/)
 
 ### Habilidades
 
@@ -27,5 +23,7 @@ Estou ansiosa para o que o futuro reserva e estou determinado a aproveitar ao m�
 
 ### Meus Principais Desafios de Projeto DIO
 
+
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
 [![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
+
