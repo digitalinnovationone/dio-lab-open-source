@@ -3,12 +3,9 @@
 <div>
    <img align="left" height="120cm" width="100cm" src="https://github.com/elem3d/img/blob/main/Hi-there_Asuna-Watase.gif" />
    <h3><b><i>&nbsp&nbspHelllo there!</i></b></h3>
-   |&nbsp&nbsp🧒🏽 I'm a 23 year old woman from Florianópolis-SC, Brazil.&nbsp |&nbsp&nbspI'm currently a 3D modeling student at <a href="https://epicschool.com.br/">Epic School Floripa</a>
+   🧒🏽 I'm a 23 year old woman from Florianópolis-SC, Brazil. I'm currently a 3D modeling student at <a href="https://epicschool.com.br/">Epic School Floripa</a> and have concluded the course's Adobe Softwears modules.
 </div>
-
-
-<p>|&nbsp&nbspand have concluded the course's Adobe Softwears &nbsp |&nbsp&nbspmodules. I'm currently a 3D modeling student at </p>
-<a href="https://epicschool.com.br/">Epic School Floripa</a> and have concluded the course's Adobe Softwears modules. I started to get interested in coding in 2022 when I took an online course at <a href="https://microcamp.eadplataforma.app/">MicrocampOn</a> and had my first contact with programming using nodes in Unreal4. I'm mostly interested in Game Development, but am curious about Computer Science and most programming languages.
+I started to get interested in coding in 2022 when I took an online course at <a href="https://microcamp.eadplataforma.app/">MicrocampOn</a> and had my first contact with programming using nodes in Unreal4. I'm mostly interested in Game Development, but am curious about Computer Science and most programming languages.
 
 
 ### 👩🏽‍🎓 Academics
@@ -27,13 +24,14 @@ I’m a total newb, but am eager to learn more! Currently I'm learning C with [C
 </p>
 </div>
 
-<h4><p align="center"> <b>Hard Skils</b></p><h4>
-
-<p align="center">
-
-<img height="100cm" src="https://github.com/elem3d/img/blob/main/Donut00_radical.png" />
-
-</p>
+  <p align="center">
+<img height="25cm" src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c" />
+<img height="25cm" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
+<img height="25cm" src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown" />
+<img height="25cm" src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0" />
+   
+<p align="center"><img height="200cm" src="https://github.com/elem3d/img/blob/main/Donut00_radical.png" /></p>
+ 
 
 ### 🔌 Let's get conected
 
@@ -41,7 +39,6 @@ I’m a total newb, but am eager to learn more! Currently I'm learning C with [C
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-purpleyellow?style=for-the-badge&logo=linkedin&logoColor=%23F7F011&labelColor=%231C0030&color=%231C0030)](https://www.linkedin.com/in/elem-bernardi-marafigo-4b13a8298/)
 [![GITHUB](https://img.shields.io/badge/GitHub-purpleyellow?style=for-the-badge&logo=github&logoColor=%23F7F011&labelColor=%231C0030&color=%231C0030)](+https://github.com/elem3d)
 [![YOUTUBE](https://img.shields.io/badge/youtube-purpleyellow?style=for-the-badge&logo=youtube&logoColor=%23F7F011&labelColor=%231C0030&color=%231C0030)](https://www.youtube.com/channel/UCch3yHMRzz0i22n9yEvHhjQ)
-
 [<img alt="DIO-profile" height="20" width="60" src="https://ac-landing-pages-user-uploads-production.s3.amazonaws.com/0000051657/57a99613-e158-472a-8037-77895ee89923.png" />](https://www.dio.me/users/elem_marafigo)
 
 
@@ -91,8 +88,3 @@ I’m a total newb, but am eager to learn more! Currently I'm learning C with [C
 <p align="center">
 📘Hollow City: The Second Novel of Miss Peregrine's Peculiar Children by Ransom Riggs
 </p>
-
-<!---
-elem3d/elem3d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
