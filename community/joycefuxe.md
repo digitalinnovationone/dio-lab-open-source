@@ -33,5 +33,3 @@ Sou apaixonada por tecnologia e pretendo ser desenvolvedora Front-End. Busco opo
 ## Meus Principais Artigos
 
 - ENTENDENDO GIT E GITHUB FÁCIL - RESUMO + ADICIONAIS👩‍💻 | [Ler Artigo](https://web.dio.me/articles/entendendo-git-e-github-facil-resumo-adicionais?back=/articles)
-
- 
