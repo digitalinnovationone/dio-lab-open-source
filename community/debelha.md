@@ -2,7 +2,7 @@
 <br>
 <br>
 
-👩🏾 I'm Brazilian, specifically from the ghetto — independent, hardworking and studious
+👩🏾 I'm Brazilian, specifically from the ghetto 
 
 🪪 In 2021, I migrated from the health area to technology through a full stack web development bootcamp. Since then, I've been actively seeking to acquire as much knowledge as possible to excel as a professional in the field
 
