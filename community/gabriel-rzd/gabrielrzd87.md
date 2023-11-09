@@ -1,4 +1,4 @@
-# Olá eu sou o Gabriel Rezende (Gabrielrzd87)
+# Olá eu sou o Gabriel Rezende (gabrielrzd87)
 
 Profissional especializado com mais de 15 anos de atuação, expertise em desenvolver soluções personalizadas, inovadoras e sustentáveis, 
 atendendo às demandas por melhores resultados. Capaz de estabelecer prazos, definir estratégias e solucionar problemas complexos, 
