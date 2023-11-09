@@ -1,8 +1,9 @@
-<h1> Olá, eu sou o Anderson 👋🏽 </h1>
-<h1><img align="right" alt="Developer vector created by storyset - www.freepik.com" height="220" src="https://img.freepik.com/vetores-gratis/ilustracao-do-conceito-de-controle-de-versao_114360-3249.jpg?w=826&t=st=1699506485~exp=1699507085~hmac=4fc389bb10d2030e94b3b7160dc8eded1e85cdf40b2b9e83a2d12615a72f8fa9"> </h1>
+<h1> Olá, eu sou o Anderson 👋🏽</h1> 
 
-
-<p aling ="justify"> Olá meu nome é Anderson Antonio Lustosa Ribeiro da silva, tenho 33 anos, sou estudante de Análise e Desenvolvimento de Sistesmas, em constante busca de conhecimmento para me desenvolver e conquistar minha mudança na área profissional.</p> <br><br>
+<img align="center" alt="Developer vector created by storyset - www.freepik.com" height="250" src="https://img.freepik.com/vetores-gratis/ilustracao-do-conceito-de-controle-de-versao_114360-3249.jpg?w=826&t=st=1699506485~exp=1699507085~hmac=4fc389bb10d2030e94b3b7160dc8eded1e85cdf40b2b9e83a2d12615a72f8fa9"> 
+ 
+<p aling ="center"> Olá meu nome é Anderson Antonio Lustosa Ribeiro da silva, tenho 33 anos, sou estudante de Análise e Desenvolvimento de Sistesmas, em constante busca de conhecimmento para me desenvolver e conquistar minha mudança na área profissional.
+</p> <br><br>
 
 <h2> Conecte-se comigo </h2>
 
