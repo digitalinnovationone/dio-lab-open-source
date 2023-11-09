@@ -1,4 +1,4 @@
-# Ryan de Oliveira
+# Ryan de Oliveira Domingos
 
 Futuro desenvolvedor de Front-End / Future Front-End Developer
 
