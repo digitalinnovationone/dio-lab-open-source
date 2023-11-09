@@ -1,5 +1,5 @@
 <h1 align='center'>Hello! 👋 I'm Lucas Carturani</h1>
-<p align='center'>Back-end Developer</p>
+<p align='center'>Fullstack Developer</p>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/lucas-carturani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
