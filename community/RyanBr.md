@@ -20,6 +20,7 @@ Futuro desenvolvedor de Front-End / Future Front-End Developer
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyanBr3&theme=transparent&bg_color=fff&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E234a&text_color=00000)
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ryanbr3&layout=compact&bg_color=fff&border_color=30A3DC&title_color=e234a&text_color=00000)
 
 ### Meus Principais Projetos
