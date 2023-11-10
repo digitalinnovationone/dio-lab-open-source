@@ -17,13 +17,5 @@ Analista Junior | JavaScript | Bot | HTML | CSS | Machine learning |
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 ### GitHub Stats
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iarac-s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=iarac-s&layout=compact&theme=tokyonight&langs_count=8&card_width=320)
-
-
-### Meus Principais Desafios de Projeto DIO
-
-
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
-[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
-
