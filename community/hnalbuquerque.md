@@ -1,6 +1,6 @@
 # Helan Alves
 
-Estudante de Engenharia Quimica, atualmente estagiario na Radix na área de processos e estudando programação como um todo para se colocar no meio, entender como as coisas funcionam e no futuro conseguir me especializar melhor em alguma área.
+Estudante de Engenharia Quimica, atualmente estagiário na Radix na área de processos e estudando programação como um todo para se colocar no meio, entender como as coisas funcionam e no futuro conseguir me especializar melhor em alguma área.
 
 ### Conecte-se comigo
 
