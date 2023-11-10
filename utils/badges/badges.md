@@ -270,7 +270,15 @@
       <td>
         <code>![PL]("https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000")></code>
       </td>
-    </tr>    
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Ruby" <img alt="Static Badge" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+      </td>
+      <td>
+        <code>![Ruby]("https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white")></code>
+      </td>
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
@@ -331,10 +339,10 @@
   <tbody align="left">
     <tr>
       <td>
-        <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql">
+        <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
       </td>
       <td>
-        <code>![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=005C84)</code>
+        <code>![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)</code>
       </td>
     </tr>
     <tr>
