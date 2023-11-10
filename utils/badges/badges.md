@@ -72,6 +72,14 @@
         <code>[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/SEUUSERNAME/)</code>
       </td>
     </tr>
+      <tr>
+      <td>
+        <img align="center" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white">
+      </td>
+      <td>
+        <code>[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.seulink.com/)</code>
+      </td>
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
