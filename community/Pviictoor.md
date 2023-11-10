@@ -2,7 +2,7 @@
 # Paulo Lima
 
 Sou tecnico de diagnostico e reparo a 18 anos, e atualmente começei a me interessar pelo desenvolvimento.   
-Me sinto pronto para aprender, nunca é tarde para começar! 
+**Me sinto pronto para aprender, nunca é tarde para começar!**
 
 ### *Conecte-se comigo*
 
@@ -20,13 +20,15 @@ Me sinto pronto para aprender, nunca é tarde para começar!
 ### *Estatisticas*
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pviictoor&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pviictoor&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### *Projetos*
 
 Escrevi um codigo muito simples em C++ para um arduino.  
-O codigo habilita portas para analogicas e digitais para ser usado em jogos.
+O codigo habilita portas analogicas e digitais para ser usado em jogos, atraves de uma biblioteca joystick 2.0.
+Tudo que precisa saber aqui ↓
 
-Segue projeto:
+**Segue projeto:**
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/pviictoor/Analog_Button)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=pviictoor&repo=Analog_button&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/pviictoor/Analog_Button)
