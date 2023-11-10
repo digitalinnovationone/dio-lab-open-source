@@ -110,6 +110,14 @@
         <code>[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:SEUEMAIL)</code>
       </td>
     </tr>
+  </tr>
+      <td>
+        <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red">
+      </td>
+      <td>
+        <code>[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:SEUGMAIL)</code>
+      </td>
+    </tr>
       </tr>
       <td>
         <img align="center" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white">
@@ -277,6 +285,14 @@
       </td>
       <td>
         <code>![Ruby]("https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white")></code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Lua" <img alt="Static Badge" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+      </td>
+      <td>
+        <code>![Lua]("https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white")></code>
       </td>
     </tr>
   </tbody>
