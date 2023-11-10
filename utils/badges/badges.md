@@ -284,7 +284,7 @@
         <img align="center" alt="PL" <img alt="Static Badge" src="https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000">
       </td>
       <td>
-        <code>![PL]("https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000")></code>
+        <code>![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)></code>
       </td>
     </tr>
     <tr>
@@ -292,7 +292,7 @@
         <img align="center" alt="Ruby" <img alt="Static Badge" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
       </td>
       <td>
-        <code>![Ruby]("https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white")></code>
+        <code>![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)></code>
       </td>
     </tr>
     <tr>
@@ -300,7 +300,7 @@
         <img align="center" alt="Lua" <img alt="Static Badge" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
       </td>
       <td>
-        <code>![Lua]("https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white")></code>
+        <code>![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)></code>
       </td>
     </tr>
     <tr>
@@ -308,7 +308,7 @@
         <img align="center" alt="Golang" <img alt="Static Badge" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
       </td>
       <td>
-        <code>![Golang]("https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white")></code>
+        <code>![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)></code>
       </td>
     </tr>
     <tr>
@@ -316,7 +316,7 @@
         <img align="center" alt="Elixir" <img alt="Static Badge" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white">
       </td>
       <td>
-        <code>![Elixir]("https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white")></code>
+        <code>![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)></code>
       </td>
     </tr>
   </tbody>
