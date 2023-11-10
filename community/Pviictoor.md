@@ -2,7 +2,7 @@
 # Paulo Lima
 
 Sou tecnico de diagnostico e reparo a 18 anos, e atualmente começei a me interessar pelo desenvolvimento.   
-**Me sinto pronto para aprender, nunca é tarde para começar!**
+**Me sinto pronto para aprender. Nunca é tarde para começar!**
 
 ### *Conecte-se comigo*
 
