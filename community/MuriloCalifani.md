@@ -4,17 +4,17 @@ _________________________
 
 ## 🚀 Sobre mim
 
-    * Engenheiro Civil por fomação
-    * Iniciando no mundo da programação por meio do Bootcamp Santander, fazendo Ciência de Dados com Python
-    * Experiência com gestão de equipes e composição de Kpis utilizando ferramentas como Power Bi.
+    * Analista e desenvolvedor de sistemas por fomação
+    * Aprendendo cada dia mais sobre programação em especial POO com Java e flutter.
+    * Experiência com gestão de equipes e desenvolvimento mobile.
 
 # Conecte-se a Mim
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/murilocalifani)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-baron-pereira/)
 
 ## Status do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuriloCalifani&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Murilo-Baron&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Trilha
 
