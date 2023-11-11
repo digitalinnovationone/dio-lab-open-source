@@ -73,6 +73,7 @@ Aprender o básico sobre contribuição no GitHub.
  Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
 
 ### Instruções (PT/BR) 
+to chegando;
 1. Faça um **Fork** deste repositório;
 2. Clone localmente: `git clone https://github.com/SEU_USERNAME/dio-lab-open-source.git`;
 3. Adicione o remote upstream para manter seu repositório local atualizado. Por exemplo: `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git`;
