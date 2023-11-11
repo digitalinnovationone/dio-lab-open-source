@@ -4,22 +4,13 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kauan&show_icons=true&count_private=true&hide_border=false&title_color=461e91&icon_color=461e91&text_color=dbc8ee&bg_color=0d1117" alt="C4m0mila github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauan&layout=compact&hide_border=false&title_color=461e91&text_color=dbc8ee&bg_color=0d1117" />
 </div>
 
 <br>
-
-<div style="display: inline_block" align="center">
-  <h3>Main Skills</h3>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
- 
-  <div> 
   <h3>Studying in this moment</h3>
      <img align= "center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   </div>
   
 </div><br/>
 
-
+<p>Baseado no Readme da Camila: https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/community/C4m0mila.md
