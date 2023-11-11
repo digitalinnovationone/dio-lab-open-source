@@ -134,6 +134,14 @@
         <code>[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com)</code>
       </td>
     </tr>
+  </tr>
+      <td>
+        <img align="center" alt="Medium" src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white">
+      </td>
+      <td>
+        <code>[![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@seuusuario)</code>
+      </td>
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
