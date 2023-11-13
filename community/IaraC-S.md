@@ -17,5 +17,5 @@ Analista Junior | JavaScript | Bot | HTML | CSS | Machine learning |
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iarac-s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iarac-s&show_icons=true&theme=tokyonight&include_all_commits=true&count_)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=iarac-s&layout=compact&theme=tokyonight&langs_count=8&card_width=320)
