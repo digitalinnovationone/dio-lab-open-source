@@ -61,7 +61,7 @@
         <img align="center" alt="X" src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x">
       </td>
       <td>
-        <code>[![X](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://x.com/SEUUSERNAME)</code>
+        <code>[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/SEUUSERNAME)</code>
       </td>
     </tr>
     <tr>
