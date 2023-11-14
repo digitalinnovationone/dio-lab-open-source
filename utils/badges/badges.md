@@ -549,10 +549,10 @@
     </tr>
     <tr>
       <td>
-        <img align="center" alt="Vscode" src="https://img.shields.io/badge/Vscode-35495E?style=for-the-badge&logo=visualstudiocode&logoColor=blue">
+        <img align="center" alt="Vscode" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
       </td>
       <td>
-        <code>![Vscode](https://img.shields.io/badge/Vscode-35495E?style=for-the-badge&logo=visualstudiocode&logoColor=blue)</code>
+        <code>![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)</code>
       </td>
     </tr>
   </tbody>
