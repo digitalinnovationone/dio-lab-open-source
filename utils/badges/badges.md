@@ -50,18 +50,18 @@
     </tr>
     <tr>
       <td>
-        <img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook">
+        <img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
       </td>
       <td>
-        <code>[![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/SEUUSERNAME/)</code>
+        <code>[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SEUUSERNAME/)</code>
       </td>
     </tr>
     <tr>
       <td>
-        <img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter">
+        <img align="center" alt="X" src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x">
       </td>
       <td>
-        <code>[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/SEUUSERNAME)</code>
+        <code>[![X](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://x.com/SEUUSERNAME)</code>
       </td>
     </tr>
     <tr>
@@ -82,10 +82,10 @@
     </tr>
     <tr>
       <td>
-        <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+        <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
       </td>
       <td>
-        <code>[![GitHub](https://img.shields.io/badge/GitHbt-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)</code>
+        <code>[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)</code>
       </td>
     </tr>
     <tr>
@@ -140,6 +140,22 @@
       </td>
       <td>
         <code>[![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@seuusuario)</code>
+      </td>
+    </tr>
+  </tr>
+      <td>
+        <img align="center" alt="Linktree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
+      </td>
+      <td>
+        <code>[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktree.com/@seuusuario)</code>
+      </td>
+    </tr>
+  </tr>
+      <td>
+        <img align="center" alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+      </td>
+      <td>
+        <code>[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/profile/@seuusuario)</code>
       </td>
     </tr>
   </tbody>
