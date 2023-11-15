@@ -1,6 +1,6 @@
 # Thais Araujo de Alencar
 
-Desenvolvedora Front-End e estudante de Analise e Desenvolvimento de Sistemas (conclusão em dez/2023).
+Desenvolvedora Front-End e estudante de Análise e Desenvolvimento de Sistemas (conclusão em dez/2023).
 
 ### Conecte-se comigo
 
