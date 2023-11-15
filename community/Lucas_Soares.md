@@ -1,4 +1,4 @@
-# Lucas Soares
+# Lucas Soares.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gabriel-soares-1366a2146/)
