@@ -22,7 +22,7 @@
 
 [![Data-Science-com-Python](https://github-readme-stats.vercel.app/api/pin/?username=wallacefirmo1&repo=Data-Science-com-Python)](https://github.com/wallacefirmo1/budget-generator)
 
-[![RPA-Robotic-Process-AutomationRPA-Robotic-Process-Automation](https://github-readme-stats.vercel.app/api/pin/?username=wallacefirmo1&repo=RPA-Robotic-Process-AutomationRPA-Robotic-Process-Automation)](https://github.com/wallacefirmo1/budget-generator)
+[![RPA-Robotic-Process-AutomationRPA-Robotic-Process-Automation](https://github-readme-stats.vercel.app/api/pin/?username=wallacefirmo1&repo=RPA-Robotic-Process-Automation)](https://github.com/wallacefirmo1/budget-generator)
 
 [![budget-generator](https://github-readme-stats.vercel.app/api/pin/?username=wallacefirmo1&repo=budget-generator)](https://github.com/wallacefirmo1/budget-generator)
 
