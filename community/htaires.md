@@ -10,9 +10,9 @@
       <div>
         <b>Taíres Holanda</b>
       </div>
-      Analista Financeiro Sênior 
+      Analista Financeiro Sênior
       <div> 
-      Em transição de carreira para Cientista de Dados
+      Em transição de carreira para Cientista de Dados/ Analista de Dados
       <br>
     </td>
   </tr>
