@@ -1,2 +1,0 @@
-# Continuando com Bereguinha Games
-
