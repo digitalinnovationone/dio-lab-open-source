@@ -11,7 +11,7 @@ Apaixonada por tecnologia e atualmente em uma empolgante transição de carreira
 
 #### Perfil na DIO
 
-<img height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuEEfzeGFiMg3rGnsHuzpymRxrcWRU-KuwsNJiXDxuHPFeo94bndbiFiqmXLaDdbFNkCo&usqp=CAU)](https://www.dio.me/users/gessyca_borges" />
+<img height="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuEEfzeGFiMg3rGnsHuzpymRxrcWRU-KuwsNJiXDxuHPFeo94bndbiFiqmXLaDdbFNkCo&usqp=CAU)](https://www.dio.me/users/gessyca_borges" />
 
 ---
 
