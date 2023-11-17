@@ -1,4 +1,4 @@
-### Tranquilo? Sou Felipe, prazer! 😎
+### Tranquilo? Sou Felipe, prazer! 😎 
 
 ## Informações ℹ️
 - Sou estudante de Sistemas de Informação na Universidade Federal do Rio Grande (FURG)
