@@ -1,68 +1,68 @@
-• GIT CLONE URL -> Clona um código já existente;
+• GIT CLONE URL --> Clona um código já existente;
 
 
 
-• MKRDIR -> Cria um diretório;
+• MKRDIR --> Cria um diretório;
 
 
 
-• CD "NOME DA PASTA" -> Entra na pasta;
+• CD "NOME DA PASTA" --> Entra na pasta;
 
 
 
-• CD .. ->  Retorna um nível na pasta;
+• CD .. -->  Retorna um nível na pasta;
 
 
 
-• GIT INIT -> Cria repositório local;
+• GIT INIT --> Cria repositório local;
 
 
 
-• CAT CONFIG -> Ver as configurações do repositório;
+• CAT CONFIG --> Ver as configurações do repositório;
 
 
 
-• GIT REMOTE ADD ORIGIN URL -> Adiciona repositório local ao remoto;
+• GIT REMOTE ADD ORIGIN URL --> Adiciona repositório local ao remoto;
 
 
 
-• CD .GET -> Entra na pasta e mostra o arquivo GIT;
+• CD .GET --> Entra na pasta e mostra o arquivo GIT;
 
 
 
-• GIT STATUS ->  Vê o status da nossa área de preparação ou árvore de preparação;
+• GIT STATUS -->  Vê o status da nossa área de preparação ou árvore de preparação;
 
 
 
-• TOUCH READ.ME -> Cria o arquivo Read.me;
+• TOUCH READ.ME --> Cria o arquivo Read.me;
 
 
 
-• GIT ADD . -> Insere todos os arquivos da pasta no commit;
+• GIT ADD . --> Insere todos os arquivos da pasta no commit;
 
 
 
-• GIT ADD "NOME DO ARQUIVO" -> Insere o documento especificado no commit;
+• GIT ADD "NOME DO ARQUIVO" --> Insere o documento especificado no commit;
 
 
 
-• GIT COMMIT -M "mensagem para subir no commit" -> Insere a mensagem no commit;
+• GIT COMMIT -M "mensagem para subir no commit" --> Insere a mensagem no commit;
 
 
 
-• GIT LOG ->  Mostra o status do commit;
+• GIT LOG -->  Mostra o status do commit;
 
 
 
-• RM -RF .GIT -> Sai do projeto caso iniciarmos o init na pasta incorreta;
+• RM -RF .GIT --> Sai do projeto caso iniciarmos o init na pasta incorreta;
 
 
 
-• GIT RESTORE "NOME DO ARQUIVO" -> Restaura o último estado do arquivo;
+• GIT RESTORE "NOME DO ARQUIVO" --> Restaura o último estado do arquivo;
 
 
 
-• GIT COMMIT --AMEND -> Edita a mensagem do último commit;
+• GIT COMMIT --AMEND --> Edita a mensagem do último commit;
 
 
 
@@ -92,7 +92,7 @@
 
 
 
-• GIT PULL -> Puxa as alterações feitas online para o reposositorio local mesclando as alteracoes;
+• GIT PULL --> Puxa as alterações feitas online para o reposositorio local mesclando as alteracoes;
 
 
 
