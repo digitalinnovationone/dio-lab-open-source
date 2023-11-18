@@ -15,7 +15,7 @@ Entre em contato:
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduverderio&layout=donut&theme=dracula"/>
 </div>
 
-### Linguagens de programação:
+### Linguagens de programação: 
 
 <div style="display: inline_block"><br>
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
