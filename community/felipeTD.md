@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/filipe-tortora-6b6a57119/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fedispato/)
 [![Perfil DIO](https://img.shields.io/badge/Perfil%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/FEDISPATO)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fedispato@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=orange)](mailto:fedispato@gmail.com)
 
 ### Habilidades
 
