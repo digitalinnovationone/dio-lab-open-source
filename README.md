@@ -3,14 +3,15 @@
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
     <span> Contribuindo em um Projeto Open Source no GitHub</span>
 </h1>
-
+    
 Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
 
 [![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
 [![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
 
 ## Objetivo 🎯
-Aprender o básico sobre contribuição no GitHub.
+Aprender o básico sobre contribuição no GitHub
+
 
 ## Ferramentas 🛠️
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
@@ -88,7 +89,7 @@ Aprender o básico sobre contribuição no GitHub.
 9. Envie as alterações para o seu repositório remoto `git push origin feat/community/SEU_USERNAME`; 
 10. Crie um **Pull Request**.
 
-### Instructions (EN/US)
+### Instructions (PT/PT)
 1. **Fork** this repository;
 2. Clone locally: `git clone https://github.com/YOUR_USERNAME/dio-lab-open-source.git`;
 3. Add the upstream remote to keep your local repository updated. For instance: `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git`;
