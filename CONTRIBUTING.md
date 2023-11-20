@@ -48,8 +48,7 @@
 | `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.                                                   |
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.                                                   |
 | `test`         | Adiciona ou modifica testes no projeto.        |
-| `chore`        | Remove código não utilizado   |
-| `perf`         | Otimiza a função de renderização |
+
 ## Desafios Git e GitHub
 - [50 minutos de desafios para treino](https://www.youtube.com/watch?v=kB5e-gTAl_s)
 
