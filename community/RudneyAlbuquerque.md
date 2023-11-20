@@ -24,8 +24,7 @@
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=Windows&logoColor=fff)
-![microsoft-office](https://img.shields.io/badge/microsoft-office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=0D1117)
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=Windows&logoColor=fff)<a href="https://github.com/4ssun"><img alt="Office" src="https://camo.githubusercontent.com/7a9f81fa65414698593f11241441b84b05a384143dc213abf28836863e7f7de2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f4f66666963652d4438334230313f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f6666696365266c6f676f436f6c6f723d7768697465"></a>
 
 <h3 align="left">Languages and Tools👀 I’m interested in:  </h3>
 
