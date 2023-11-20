@@ -8,6 +8,9 @@ Me chamo Breno Villas Boas, atualmente me encontro em transição de carreida pa
 
 Possuo experiências com C# e Unity adquiridas em 2021, durante o curso superior de tecnologia em Jogos Digitais - IFBA
 
+**Atuação profissional:**
+💻 Back-End Developer
+
 ## :desktop_computer: Onde me encontrar:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-villas-boas)
 
