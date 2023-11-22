@@ -1,5 +1,5 @@
 
-# ola, me chamo Luciano!
+# Olá, sou Luciano Fernandes!
 ## Apaixonado pela área da tecnologia e sua complexidade
 - atualmente faço faculdade de ADS, cursos e bootcamp na plataforma da Dio. Tenho conhecimento em javascript, Html e CSS, continuo estudando e buscando cada vez mais evoluir, quero ser desenvolvedor fullstack e jogos.
 ## Tecnologia que estão em minha metas de estudos:
