@@ -7,6 +7,3 @@
 
 > **Objetivos atuais:**
 - Migrar de profissão para área de tecnologia
-
-
-  
