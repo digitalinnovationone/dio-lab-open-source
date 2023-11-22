@@ -39,7 +39,3 @@
 ## Minhas Contribuições
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lufernds&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/lufernds/dio-lab-open-source)
-
-
-
-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
