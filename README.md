@@ -79,21 +79,6 @@ Aprender o básico sobre contribuição no GitHub.
     > Utilize o comando `git pull upstream main` para baixar e mesclar as alterações no seu repositório local com base na branch `main` deste repositório original de onde você fez o fork, ou `git fetch upstream main` para baixar sem mesclar. Veja mais em: [Primeiros Passos com Git e GitHub](https://github.com/digitalinnovationone/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
 4. Crie/Referêncie uma nova **branch** e nomeie como `feat/community/SEU_USERNAME`: `git checkout -b feat/community/SEU_USERNAME`;
     > Exemplo: `git checkout -b feat/community/elidianaandrade`
-    
-    > Propósito e as melhores práticas para criar uma nova branch:
-   Ao criar uma nova branch para contribuir para este repositório, é importante seguir algumas práticas recomendadas. A nomenclatura da branch segue um padrão específico para facilitar a organização e entendimento das contribuições. Aqui estão algumas diretrizes a serem seguidas:
-
-    > feat/community/SEU_USERNAME: Esta é a estrutura recomendada para o nome da branch.
-feat: Abreviação de "feature" (recurso em inglês), indicando que a branch é destinada a uma nova funcionalidade ou aprimoramento.
-    > community: Refere-se à área ou categoria à qual sua contribuição está relacionada. No exemplo, "community" sugere que a contribuição está relacionada à comunidade ou interação social.
-    > SEU_USERNAME: Substitua por seu nome de usuário, tornando a branch única para cada colaborador.
-    
-Ao adotar essa convenção, tornamos o processo de revisão e mesclagem mais fácil, pois é mais simples entender o propósito da branch.
-
-Lembre-se de manter sua branch sempre atualizada em relação à branch principal (main) deste repositório. Isso pode ser feito usando o comando git pull upstream main para baixar e mesclar as alterações mais recentes na branch principal em sua branch local.
-
-Ao seguir estas práticas, contribuímos para um ambiente colaborativo mais organizado e eficiente. Certifique-se de revisar e seguir as instruções iniciais para garantir uma experiência de contribuição suave. 
-
 5. Dentro da pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
     > Exemplo: `elidianaandrade.md` <br>
 6. Desenvolva o seu perfil. Para isso, você pode ver exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils);
