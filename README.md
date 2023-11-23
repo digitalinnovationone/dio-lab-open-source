@@ -79,7 +79,8 @@ Aprender o básico sobre contribuição no GitHub.
     > Utilize o comando `git pull upstream main` para baixar e mesclar as alterações no seu repositório local com base na branch `main` deste repositório original de onde você fez o fork, ou `git fetch upstream main` para baixar sem mesclar. Veja mais em: [Primeiros Passos com Git e GitHub](https://github.com/digitalinnovationone/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
 4. Crie/Referêncie uma nova **branch** e nomeie como `feat/community/SEU_USERNAME`: `git checkout -b feat/community/SEU_USERNAME`;
     > Exemplo: `git checkout -b feat/community/elidianaandrade`
-Propósito e as melhores práticas para criar uma nova branch.
+    
+    > Propósito e as melhores práticas para criar uma nova branch:
    Ao criar uma nova branch para contribuir para este repositório, é importante seguir algumas práticas recomendadas. A nomenclatura da branch segue um padrão específico para facilitar a organização e entendimento das contribuições. Aqui estão algumas diretrizes a serem seguidas:
 
     > feat/community/SEU_USERNAME: Esta é a estrutura recomendada para o nome da branch.
