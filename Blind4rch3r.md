@@ -1,4 +1,3 @@
-
 # Airton Alves Medina
 
 Eterno Aprendiz de Binary Exploitation.
