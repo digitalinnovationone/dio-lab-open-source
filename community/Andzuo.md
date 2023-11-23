@@ -1,4 +1,5 @@
 # Andzuo
+  ### analista de suporte ao usuário; sou comunicativo, trabalho bem em equipe e tenho facilidade de aprendizagem. Migrando de carreira para desenvolvimento de software, estou preparado para lidar com novas tecnologias e possuo amplo conhecimento em terminal/Linux, manutenção de hardware/software, banco de dados SQL e restAPI. Tenho boa comunicação oral e escrita. Sou ágil e proativo, características aprimoradas pela minha experiência em ambientes de helpdesk. Estou determinado a crescer junto à empresa e agregar valor com meu trabalho.
 
 ## Conecte-se comigo
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andzuo)
@@ -20,6 +21,9 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andzuo&theme=transparent&bg_color=023535&border_color=30A3DC&show_icons=true&icon_color=008F8C&title_color=0FC2C0&text_color=0FC2C0)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Andzuo&layout=compact&bg_color=023535&border_color=30A3DC&title_color=0FC2C0&text_color=FFF)
 
 ## Minhas Contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Andzuo&repo=controle-financeiro&bg_color=023535&border_color=30A3DC&show_icons=true&icon_color=008F8C&title_color=0FC2C0&text_color=FFF)](https://github.com/Andzuo/controle-financeiro)
