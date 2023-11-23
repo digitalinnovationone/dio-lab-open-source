@@ -1,6 +1,6 @@
 # Dayane dos Reis
 
-### Olá Dev! Seja bem vindo ao meu perfilno GitHub! 👋🏻👋🏻
+### Olá Dev! Seja bem vindo ao meu perfil no GitHub! 👋🏻👋🏻
 
 Meu nome é Dayane, tenho 28 anos, estudo administração, gosto de aprender conteúdos novos e me desafiar.       
 Visando aprimoramento pessoal e/ou opção de carreira, decidi experimentar adentrar na área de T.I que vem me despertado bastante interesse ultimamente.     
