@@ -226,7 +226,7 @@
       </td>
     </tr>
     <tr>
-      <td>
+      <td><!-- Adicionada a linguagem de programação delphi -->
         <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
       </td>
       <td>
@@ -341,6 +341,14 @@
       </td>
       <td>
         <code>![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)></code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Delphi" <img alt="Static Badge" src="https://img.shields.io/badge/Delphi-DD0031?style=for-the-badge&logo=Delphi&logoColor=white">
+      </td>
+      <td>
+        <code>![Delphi](https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white)></code>
       </td>
     </tr>
   </tbody>
