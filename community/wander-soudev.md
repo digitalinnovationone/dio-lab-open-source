@@ -1,6 +1,6 @@
 # Wanderson Lapa nascimento
 
-Estudante de Gestão em TI
+Estudante de Gestão em TI.
 
 ### Conecte-se comigo
 
