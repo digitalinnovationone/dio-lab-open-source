@@ -1,5 +1,5 @@
 # ***Evandro L Fernandes***
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=12F722&center=true&vCenter=true&random=false&width=435&separator=%3C&lines=Cloud+%7C+SRE+%7C+DevOps%3C+Linux+%7C+Docker+%7C+Kubernetes.%3CCertifieds%3A+1X+AWS+%E2%9C%85;+1X+Azure+%E2%9C%85.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=12F722&center=false&vCenter=true&random=false&width=435&separator=%3C&lines=Cloud+%7C+SRE+%7C+DevOps%3C+Linux+%7C+Docker+%7C+Kubernetes.%3CCertifieds%3A+1X+AWS+%E2%9C%85;+1X+Azure+%E2%9C%85.)](https://git.io/typing-svg)
 
 ---
 ### Conecte-se comigo
@@ -38,6 +38,8 @@
 ---
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elfernandes-dev&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=12F722FF&text_color=FFF)
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elfernandes-dev&layout=compact&bg_color=000&border_color=30A3DC&title_color=12F722FF&text_color=FFF)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=elfernandes-dev&theme=chartreuse-dark&background=000&border=&dates=FFF)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=elfernandes-dev&theme=chartreuse-dark&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
