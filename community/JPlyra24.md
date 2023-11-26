@@ -1,7 +1,7 @@
 # JPlyra24
 
 Olá, me chamo João Lyra, sou estudante de Engenharia de Software na Universidade de Pernambuco campus Garanhuns, e esse é o desafio
-"Contribuindo em um Projeto Open Source no GitHub" da Digital Innovation One
+"Contribuindo em um Projeto Open Source no GitHub" da Digital Innovation One.
 
 ## Conecte-se comigo
 
