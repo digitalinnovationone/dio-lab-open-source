@@ -14,6 +14,6 @@
 
 ### **_GitStatus_**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrooov&theme=transparent&bg_color=1a1b27&border_color=1a1b27&show_icons=true&icon_color=FF3860&title_color=FF3860&text_color=FF3860)
-<img width=89% src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif"/>
+<img width=38% src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif"/>
 
 # _Never give up your dreams_! 
