@@ -1,4 +1,4 @@
-# Sobre Mim 🤓
+# About me 🤓
 
 [<img src="https://avatars.githubusercontent.com/u/33658763?v=4" width=70px height=70px>](https://github.com/booletec)
 
