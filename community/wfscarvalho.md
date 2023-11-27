@@ -2,6 +2,13 @@
 <h1 align="center">Hi 👋, I'm Wesley da Silva</h1>
 <h3 align="center">A enthusiastic learner that aim to be an expert</h3>
 
+## About
+
+With over five years of experience in supporting, administering, and optimizing CRM systems for the pharmaceutical industry, I am a Veeva/Salesforce CRM Specialist. I hold ITIL and Copado certifications and have expertise in CRM configuration, integration, process improvement, and end-user support.
+
+I am responsible for the Veeva/Salesforce CRM Org administration, integration with internal and external systems, such as SAP, FTP, PowerBI, and legacy systems, and the creation and management of metrics, reports, and insights. I also provide consultancy and suggestions for enhancing the sales performance and business value of the CRM system and processes. My goal is to transform business with data and enable the best customer experience for the pharma industry.
+<br><br><br>
+
 
  <p align="center"><img src="https://streak-stats.demolab.com?user=wfscarvalho&theme=transparent&date_format=j%20M%5B%20Y%5D&hide_current_streak=true" (https://git.io/streak-stats)/></p> 
  
@@ -9,13 +16,14 @@
 ## Contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleyfrancisco/) 
-
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:wfscarvalho@gmail.com)
-
 [![StackOverflow](https://img.shields.io/badge/Stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22278821)
-
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wfscarvalho)
 <br><br>
+
+
+
+
 ## Main Languages
 
 
@@ -38,21 +46,9 @@
 
 
 
-## Techs
+## Languages and Tools:
 
 
-  ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
- ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
- ![jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
- ![Ansible](https://img.shields.io/badge/ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
- ![VIM](https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white)
- ![NeoVim](https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
- ![Obsidian](https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
- ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
- ![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
- 
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
 
