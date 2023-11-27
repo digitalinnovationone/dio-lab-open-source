@@ -1,11 +1,13 @@
-<img align="left" alt="Developer vector created by storyset - www.freepik.com" height="380" src="" padding-right="10">
+<img align="left" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/nilosandes/dio-lab-open-source/assets/71954555/38378197-0119-415a-8bec-308ab33f6320" padding-right="10">
 <!-- <a href="https://storyset.com/web">Web illustrations by Storyset</a> --> 
 
 <h1>
     <a href="https://github.com/nilosandes">
-     <img align="center" alt="Nilo Sandes photo" width="36x" style="border-radius:50%;" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a>
+     <img align="center" alt="Nilo Sandes photo" width="55px" src="https://github.com/nilosandes/dio-lab-open-source/assets/71954555/981c6f33-9b4d-4982-bbcb-556326524ba1"></a>
     <span>Nilo Sandes</span>
 </h1>
+
+<!-- ![Nilo_Perfil](https://github.com/nilosandes/dio-lab-open-source/assets/71954555/981c6f33-9b4d-4982-bbcb-556326524ba1) -->
 
 <p align="justify">Estudante de Análise e Desenvolvimento de Sistemas, nascido em Recife-PE. Gosto bastante de Frontend, mas também tenho conhecimento em Python, Java, C# e bancos de dados.<br>Gosto de filmes, séries e games, mas também corro, pedalo e gosto comida e de viajar.</p>
 
@@ -36,12 +38,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-
-<h3>Ferramentas</h3>
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
 <h3>Linguagens mais utilizadas</h3>
 
