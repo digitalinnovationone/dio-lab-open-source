@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Wesley da Silva</h1>
-<h3 align="center">A enthusiastic learner that aim to be an expert.</h3>
+<h3 align="center">A enthusiastic learner that aim to be an expert</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wfscarvalho&label=Profile%20views&color=0e75b6&style=flat" alt="wfscarvalho" /> </p>
 
