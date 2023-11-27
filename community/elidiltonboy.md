@@ -1,6 +1,6 @@
 # Quem sou
 Olá! Sou a Elidilton boy e sou formado em Gestão da  tecnologia da informação. 
-Estou aprofundando na area de T.I para migrar de profissao e quero muito estar pronto para novos desafios.
+Estou aprofundando na area de T.I para migrar de profissão e quero muito estar pronto para novos desafios.
 
 ### Conecte Comigo
 
