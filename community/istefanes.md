@@ -1,6 +1,6 @@
 # Istéfanes
 
-Desenvolvedor apaixonado pelo que faz, estou sempre buscando adquirir novos conhecimentos, experiências e novos desafios.
+Desenvolvedor apaixonado pelo que faz, sempre buscando adquirir novos conhecimentos, experiências e novos desafios.
 
 ### Conecte-se comigo
 
