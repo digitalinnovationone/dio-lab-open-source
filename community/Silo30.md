@@ -1,4 +1,4 @@
-# 👋 Olá! Meu nome é Silo de Menezes
+# 👋 Olá! Eu me chamo Silo de Menezes
 
 Meu objetivo é crescer como programador e Webdesigner. Estou sempre atrás de novas oportunidades de aprender mais. 
 
