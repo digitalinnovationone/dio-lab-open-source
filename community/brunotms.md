@@ -25,7 +25,7 @@ Olá, sou Bruno Sampaio, um profissional com mais de 20 anos de experiência em 
 
 <div align="center" style="display-flex; padding: 1rem">
     <a href="https://github.com/brunotms">
-    <img height="120rem"src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunotms&layout=compact&bg_color=000&border_color=30A3DC&title_color=ffa500&text_color=FFF"/>
+    <img height="120rem"src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunotms&layout=compact&bg_color=000&border_color=30A3DC&title_color=ffa500&text_color=FFF" target="_blank"/>
     <img height="130rem"src="https://streak-stats.demolab.com/?user=brunotms&theme=bear&background=000&border=ffa500&dates=pink&locale=pt_BR"  target="_blank"/></a>
 </div>
 
