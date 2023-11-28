@@ -29,7 +29,7 @@ Olá, sou Bruno Sampaio, um profissional com mais de 20 anos de experiência em 
     <img height="130rem"src="https://streak-stats.demolab.com/?user=brunotms&theme=bear&background=000&border=ffa500&dates=pink&locale=pt_BR"  target="_blank"/></a>
 </div>
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=brunotms&show_icons=true&&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=brunotms&show_icons=true&&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/brunotms)
 </div>
 
 ## 🏅 Badges
