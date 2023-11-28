@@ -1,7 +1,7 @@
 
-# Gabriel M Pires
+# Olá, seja bem vindo! me chamo Dário Junior
 
-Estudante de Ciências da Computação, buscando me desenvolver.
+Sou formado em Análise e Desenvolvimento de Sistemas.
 
 ### Conecte-se comigo
 
