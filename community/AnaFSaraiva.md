@@ -1,6 +1,6 @@
 # Hello World
 > ##  Me chamo Ana Paula Saraiva
-    Sou desenvolvedora front-end junior, estou estudando cibersegurança pelo Becas Santander através da plataforma DIO.
+>>Sou desenvolvedora front-end junior, estou estudando cibersegurança pelo Becas Santander através da plataforma DIO.
 
 Vamos nos conectar? Me adiciona, faz uma pergunta!
 
