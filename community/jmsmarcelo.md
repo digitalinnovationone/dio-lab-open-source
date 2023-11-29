@@ -26,5 +26,5 @@ Eterno estudante de Programação.
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jmsmarcelo&layout=compact&bg_color=000&border_color=378141&title_color=378141&text_color=FFF)
 
 ## Meus Projetos
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=clock&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=hasd&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+[![Repo jmsmarcelo Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=clock&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/Clock)
+[![Repo jmsmarcelo Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jmsmarcelo&repo=hasd&bg_color=000&border_color=378141&show_icons=true&icon_color=30A3DC&title_color=378141&text_color=FFF)](https://github.com/jmsmarcelo/hasd)
