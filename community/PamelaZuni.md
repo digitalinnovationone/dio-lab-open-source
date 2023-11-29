@@ -8,7 +8,7 @@ Self-taught code, specializing in front-end development. Campus Expert Digital I
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/https://www.linkedin.com/in/pamelarodriguesqueiroz/)
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://www.linkedin.com/in/https://www.linkedin.com/in/pamelarodriguesqueiroz/PamelaZuni)
-[![Email](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcRzCbcgmKLSNfVcDwDjcVTLlpxNxczrtjfBbDhnThLrWDSfptBMGXjbplsWDtWcNkgCXqRJF)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcRzCbcgmKLSNfVcDwDjcVTLlpxNxczrtjfBbDhnThLrWDSfptBMGXjbplsWDtWcNkgCXqRJF)
 
 
 ### Skills
