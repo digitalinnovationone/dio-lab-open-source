@@ -2,7 +2,7 @@
 # Leonardo Hansen Laranja;
 # 36 anos, casado, uma filha(Cecília).
 
-👨‍🔬👨‍⚕️👦 Olá, sou Leonardo Laranja, farmacêutico, especialista em Oncologia pelo Conselho Regional de Farmácia, atuo em Oncologia há 10 anos e no momento sou farmacêutico Responsável Técnico em uma clínica de Oncologia. Resumidamente, trabalho com manipulação de quimioterápicos, gestão de estoque de medicamentos de alta complexidade, acompanhamento de efeitos adversos graves passíveis de notificação, etc...
+👨‍🔬👨‍⚕️👦 Olá, sou Leonardo Laranja, farmacêutico, especialista em Oncologia pelo Conselho Regional de Farmácia, atuo em Oncologia há 10 anos e no momento sou farmacêutico Responsável Técnico em uma clínica de Oncologia. Resumidamente, trabalho com manipulação de quimioterápicos, gestão de estoque de medicamentos de alta complexidade, acompanhamento de efeitos adversos graves passíveis de notificação, etc.
 
 👨‍🦽🛌🤢Em Janeiro de 2023 me afastei por suspeita de um tumor extremamente raro (do qual conheço, uma vez que trabalho na área), e por sorte não era nada grave, apenas uma inflamação crônica, que foi resolvido por uma cirurgia de grande porte considerando a suspeita inicial. Com isso, fiquei afastado por 6 meses e me vi a necessidade de conhecer novas áreas (para ocupar a mente, e para esquecer o trauma em que passei). Conversando com meu primo que já trabalha com programação (Front-end), ele me indicou alguns cursos para contato com a área (iniciei com o B7Web). 
 
