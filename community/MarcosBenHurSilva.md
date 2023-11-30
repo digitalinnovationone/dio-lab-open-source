@@ -13,7 +13,8 @@ Frameworks: Django, Spring Boot
 Controle de Versão: Git
 Metodologias Ágeis: Scrum, Kanban
 
-## 💼 Experiência Profissional Banrisul - Dev. FullStack (02/2023 - 05/2023)
+## 💼 Experiência Profissional 
+Banrisul - Dev. FullStack (02/2023 - 05/2023)
 
 Participação em equipes de desenvolvimento utilizando C# e .Net.
 Implementação de funcionalidades em projetos C#.
