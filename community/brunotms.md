@@ -49,6 +49,10 @@ Olá, sou Bruno Sampaio, um profissional com mais de 20 anos de experiência em 
 </a>
 
 
+<a href="https://brunotms.github.io/PetLife/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunotms&repo=PetLife&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" target="_blank" />
+</a>
+
 <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{brunotms}/count.svg" target="_blank" /></p>
