@@ -1,7 +1,7 @@
 
 # Hey, I'm Felipe Augusto
 
-Tech student, enthusiast of any theme that envolves the constant learning. Get to know me more and what I'm studing now on my [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-augusto-3b651184/)
+Tech student, enthusiast of any theme that involves constant learning. Get to know me more and what I'm studying now on my [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-augusto-3b651184/)
 
 ## 📃 Certificates
 
