@@ -1,7 +1,7 @@
 # Dev-FJ
 
 
-Hello, my name is Filipe. I'm a Brazilian guy who is determined to learn how to code in various languages. Feel free to contact me.
+Hello, my name is Filipe. I'm a Brazilian guy who is determined to learn how to code in various programming languages. Feel free to contact me.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFA500)](https://www.linkedin.com/in/filipe-junqueira-pedras-passos-1a8013187/)                                                                                 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=FFA500)](https://github.com/dev-fj) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=FFA500)](mailto:SEUGMAIL)
