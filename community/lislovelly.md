@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋 , Sou a Elisângela Silva de Mendonça</h1><h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por códigos, buscando a evolução sempre !</h3><p align="left"> 
+<h1 align="center">Olá 👋 , Sou a Elisângela Silva de Mendonça</h1><h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por códigos, buscando sempre a evolução!</h3><p align="left"> 
 
 
 - 📫 👯 Conecte-se comigo
