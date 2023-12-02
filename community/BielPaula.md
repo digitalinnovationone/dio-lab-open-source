@@ -4,11 +4,11 @@
 
 **CONECTE-SE COMIGO**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-paula-palmeira-48171825a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-paula-palmeira-48171825a/)
 
 **COMPETÊNCIA BÁSICA**
 
-[![Microsoft](https://img.shields.io/badge/Microsoft-purple?style=for-the-badge&logo=Microsoft&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
+![Microsoft](https://img.shields.io/badge/Microsoft-purple?style=for-the-badge&logo=Microsoft&logoColor=white)
 
 **CARTÃO - ESTATÍSTICAS**
 
