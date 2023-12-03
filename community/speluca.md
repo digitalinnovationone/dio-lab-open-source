@@ -10,7 +10,7 @@
 - 📫 How to reach me **silvapedrolucas418@gmail.com**
 
 - ⚡ Fun fact **I like trying to solve bugs that aren't mine**
-### 😎 About me 
+### 😎 About mee 
 ~~~p
 print("so let's go!")
 
