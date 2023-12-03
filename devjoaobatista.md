@@ -9,6 +9,7 @@ Developer since 2022, working mainly in JavaScript projects, using:
 - Prisma
 - Postgresql
 - Prettier and ESlint
+- 
 
 
 Currently i'm studying about API'S using NodeJS end NestJS.
