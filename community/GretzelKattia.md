@@ -2,7 +2,7 @@
 
 #  Olá, meu nome é Gretzel Kattia👋🏻 
 
-Uma nova desenvolvedora front-end em busca de aprendizagem e aprimoramento das habilidades iniciais, com o intuito decolar nesta bela área da tecnologia. 🚀
+Através de minha busca por conhecimento, almejo me tornar uma profissional altamente qualificada e capaz de criar soluções inovadoras e criativas para os desafios que surgem no dia a dia nessa bela área da tecnologia. Com determinação e perseverança, estou pronta para enfrentar os desafios que possam surgir em meu caminho e me tornar uma referência na área de desenvolvimento front-end. 🚀
 
 ### Conecte-se comigo
 
