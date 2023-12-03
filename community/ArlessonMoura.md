@@ -16,10 +16,12 @@
     <div align="center">
       <img width="40%" alt="Beach of Boa Viagem's neighborhood" src="https://thumbs2.imgbox.com/f5/49/qXbG8FEf_t.jpg" /> 
       <img width="40%" alt="Beach of Boa Viagem's neighborhood" src="https://thumbs2.imgbox.com/4f/ae/jBM9DiL4_t.jpg" />
-      <img height="300" width="40%" alt="Landmark 0 of the city" src="img/Recife-Marco-Zero.webp" />
+      <img height="300" width="40%" alt="Landmark 0 of the city" src="https://thumbs2.imgbox.com/e1/98/owo1lCKu_t.jpg" />
       <img height="300" width="40%" alt="Street of Bom Jesus" src="https://thumbs2.imgbox.com/13/6b/KxKsOVZm_t.jpg" /> 
     </div>    
   </details>
+
+  <!-- bug commit -->
 
   <p align="left">
     I hold a degree in Economics and have an MBA in Project Management. Since December 2020, I have been actively learning software development. I am a professional with front-end experience in JavaScript/TypeScript, Angular and React; I am well-versed in Agile Methodologies. Additionally, I have received full-stack training, covering React/Angular, JavaScript, Node, Docker, NX, PHP, Laravel, PostgreSQL, MySQL, MongoDB, and Unit/Integration Testing.
