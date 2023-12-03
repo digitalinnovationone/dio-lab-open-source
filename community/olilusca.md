@@ -1,6 +1,6 @@
 # Lucas Oliveira
 • Estudante de TI  
-• iniciante no mundo da programação
+• iniciante no mundo da programação  
 ## Redes sociais:
 [![Instagram](https://img.shields.io/badge/-Instagram-100000?style=for-the-badge&logo=instagram&logoColor=)](https://www.instagram.com/moluscass/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=)](https://github.com/olilusca)  
