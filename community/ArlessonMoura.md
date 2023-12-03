@@ -16,7 +16,7 @@
     <div align="center">
       <img width="40%" alt="Beach of Boa Viagem's neighborhood" src="https://thumbs2.imgbox.com/f5/49/qXbG8FEf_t.jpg" /> 
       <img width="40%" alt="Beach of Boa Viagem's neighborhood" src="https://thumbs2.imgbox.com/4f/ae/jBM9DiL4_t.jpg" />
-      <img height="300" width="40%" alt="Landmark 0 of the city" src="img/Recife-Marco-Zero.webp" />
+      <img height="300" width="40%" alt="Landmark 0 of the city" src="https://thumbs2.imgbox.com/e1/98/owo1lCKu_t.jpg" />
       <img height="300" width="40%" alt="Street of Bom Jesus" src="https://thumbs2.imgbox.com/13/6b/KxKsOVZm_t.jpg" /> 
     </div>    
   </details>
