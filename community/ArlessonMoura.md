@@ -21,8 +21,6 @@
     </div>    
   </details>
 
-  <!-- bug commit -->
-
   <p align="left">
     I hold a degree in Economics and have an MBA in Project Management. Since December 2020, I have been actively learning software development. I am a professional with front-end experience in JavaScript/TypeScript, Angular and React; I am well-versed in Agile Methodologies. Additionally, I have received full-stack training, covering React/Angular, JavaScript, Node, Docker, NX, PHP, Laravel, PostgreSQL, MySQL, MongoDB, and Unit/Integration Testing.
     <br>
@@ -106,7 +104,7 @@
     <div>
       <img src="https://thumbs2.imgbox.com/ba/ba/IZMkvrpj_t.png" alt="contact me" width="90" height="90"/>
     </div>    
-    <h3 align="left" style="margin: 0;">Contact me:</h3>
+    <h3 align="left" margin="0">Contact me:</h3>
   </div>
   
   <p align="left">
