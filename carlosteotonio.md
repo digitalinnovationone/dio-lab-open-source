@@ -1,14 +1,14 @@
-
-
 # Carlos Teotônio
 
 Olá! Tenho 42 anos, sou gerente de TI. Trabalho na área de tecnologia desde 1998 e atualmente estudo ferramentas e linguagens direcionadas para Quality Assurance.
+
    
 
 ## Vamos conversar?!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/carlos-teot%C3%B4nio-900abb71/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/carlosteotonio/)
+
 
 
 ## Habilidades
