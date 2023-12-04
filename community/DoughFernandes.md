@@ -1,11 +1,16 @@
-# **Douglas Fernandes**
-Olá, sejam bem vindos ao meu mundo!!
 
-Tenho 27 anos, Estudado engenharia de software, Udemy.com | DIO.me
+# Olá, sejam bem vindos ao meu mundo!!
 
-Cidade: São paulo, SP,
-02/12/2023.
+Sejá bem vindo, meu nome é Douglas Tenho 27 anos,sou estudante de engenharia de software na Udemy.com | DIO.me.
 
+Nascido em Salto de Pirapora - SP
+
+
+## **Hobbys**
+
+- 🎮 Video Game 🎮
+- 🖥️ Estudar 🖥️
+- 📺 Assistir Filmes 📺
 
 
 ## **Conecte-se comigo**
@@ -17,17 +22,19 @@ Cidade: São paulo, SP,
 
 
 
-## **Habilidades**
+## **Habilidades de front-end**
 
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 
+
+
 ## **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DoughFernandes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![DoughFernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=DoughFernandes&show_icons=true&theme=dark)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DoughFernandes&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DoughFernandes/dio-lab-open-source)
 
 ## **Minhas Contribuições**
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=DougFernandes&theme=bear&background=000&border=30A3DC&dates=FFF)
+![GitHub Streak](https://streak-stats.demolab.com/?user=DougFernandes&theme=_icons=true&theme=dark)
