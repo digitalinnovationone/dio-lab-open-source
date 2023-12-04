@@ -16,11 +16,10 @@
       <div align="center">
         <img width="40%" alt="Beach of Boa Viagem's neighborhood" src="https://github.com/ArlessonMoura/ArlessonMoura/blob/main/img/pas%C3%A1rgada.jpg?raw=true" />
         <img width="40%" alt="Beach of Boa Viagem's neighborhood" src="https://github.com/ArlessonMoura/ArlessonMoura/blob/main/img/pas%C3%A1rgada2.jpg?raw=true" />
-        <img height="300" width="40%" alt="Landmark 0 of the city" src="img/Recife-Marco-Zero.webp" />
+        <img height="300" width="40%" alt="Landmark 0 of the city" src="https://raw.githubusercontent.com/ArlessonMoura/ArlessonMoura/main/img/Recife-Marco-Zero.webp" />
         <img height="300" width="40%" alt="Street of Bom Jesus" src="https://github.com/ArlessonMoura/ArlessonMoura/blob/main/img/rua-bom-jesus.jpg?raw=true" />
       </div>
-    </details>
-  
+    </details>      
     <p align="left">
       I hold a degree in Economics and have an MBA in Project Management. Since December 2020, I have been actively learning software development. I am a professional with front-end experience in JavaScript/TypeScript, Angular and React; I am well-versed in Agile Methodologies. Additionally, I have received full-stack training, covering React/Angular, JavaScript, Node, Docker, NX, PHP, Laravel, PostgreSQL, MySQL, MongoDB, and Unit/Integration Testing.
       <br>
@@ -102,8 +101,7 @@
       <h3 align="center">
       Contact me:
       </h3>
-    </div>
-    
+    </div>    
     <p align="center">
       <a target="_blank" href="https://linkedin.com/in/arlesson-moura">
         <img src="https://github.com/ArlessonMoura/ArlessonMoura/blob/main/img/linkedin.png?raw=true" width="50" height="50"/>
