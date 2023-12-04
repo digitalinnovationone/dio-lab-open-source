@@ -16,7 +16,7 @@
       <div align="center">
         <img width="40%" alt="Beach of Boa Viagem's neighborhood" src="https://github.com/ArlessonMoura/ArlessonMoura/blob/main/img/pas%C3%A1rgada.jpg?raw=true" />
         <img width="40%" alt="Beach of Boa Viagem's neighborhood" src="https://github.com/ArlessonMoura/ArlessonMoura/blob/main/img/pas%C3%A1rgada2.jpg?raw=true" />
-        <img height="300" width="40%" alt="Landmark 0 of the city" src="img/Recife-Marco-Zero.webp" />
+        <img height="300" width="40%" alt="Landmark 0 of the city" src="https://raw.githubusercontent.com/ArlessonMoura/ArlessonMoura/main/img/Recife-Marco-Zero.webp" />
         <img height="300" width="40%" alt="Street of Bom Jesus" src="https://github.com/ArlessonMoura/ArlessonMoura/blob/main/img/rua-bom-jesus.jpg?raw=true" />
       </div>
     </details>
