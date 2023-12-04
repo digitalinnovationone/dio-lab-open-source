@@ -1,7 +1,7 @@
 # Cauan Cem
 
 ## Sobre Mim
-Olá, me chamo Cauan Cem, sou estudante de Análise e Desenvolvimento de Sistemas, gosto de aprender cada dia mais sobre novas tecnologias.
+Olá, eu me chamo Cauan Cem, sou estudante de Análise e Desenvolvimento de Sistemas. Sou muito dedicado e gosto de aprender cada dia mais sobre novas tecnologias.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauan-c-165bb9203/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CacoCem) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cauancem/)
