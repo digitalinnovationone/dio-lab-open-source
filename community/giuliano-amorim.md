@@ -1,7 +1,7 @@
 
 # Giuliano Lopes Vieira Amorim
 
-Programador em constante evolução.
+Programador em constante evolução. :rocket:
 
 ## Meios de conexão:
 
@@ -26,13 +26,7 @@ Programador em constante evolução.
 
 ### Outros (em evolução)
 
-
-## GitHub Stats
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-
-
 ## Línguas:
 
-### Português: fluente
-### Inglês: intermediário
+### :brazil:: fluente
+### :england:: intermediário
