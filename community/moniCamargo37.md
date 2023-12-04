@@ -1,5 +1,4 @@
 # Hi there, I'm Monica Camargo! 👋
-## Full Stack Web Developer
 
 I'm a Full Stack Web Developer proficient in JavaScript, TypeScript, React.js, Node.js, Express.js, MongoDB, HTML & CSS.
 
@@ -11,7 +10,7 @@ Ready to perform and expand my capabilities in a professional tech environment.
 - 🪄 Passionate about programming and development
 
 ### Interests
-- 🦮 Travelling
+- ✈️ Travelling
 - 🎲 Boardgames
 - 🎬 Films & soap operas
 
@@ -30,4 +29,4 @@ JavaScript | HTML5 | CSS3 | React | MongoDB | Express.js | Node.js | Postman | H
 
 Feel free to reach out, collaborate, or explore these projects further!
 
-![Monica's GitHub Stats](https://github.com/MoniCamargo37)
+![Monica's GitHub](https://github.com/MoniCamargo37)
