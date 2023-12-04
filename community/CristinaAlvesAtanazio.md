@@ -5,7 +5,7 @@
 
 - 💼 Site Reliability Engineer
 - 💼 Pós graduanda em Ciência de Dados
-- ❤️ Aspirante a tecnologia e amante de dados
+- ❤️ Aspirante a tecnologia e amante de dados ❤️
 - 💬 Pergunte-me sobre qualquer coisa [ aqui ](https://github.com/CristinaAlvesAtanazio/CristinaAlvesAtanazio/issues)
 
 [![Github](https://img.shields.io/github/followers/CristinaAlvesAtanazio?label=Follow&style=social)](https://github.com/CristinaAlvesAtanazio)
