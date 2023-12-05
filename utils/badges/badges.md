@@ -243,18 +243,18 @@
     </tr>
     <tr>
       <td>
-        <img align="center" alt="Java" src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java">
+        <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
       </td>
       <td>
-        <code>![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)</code>
+        <code>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)</code>
       </td>
     </tr>
     <tr>
       <td>
-        <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+        <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
       </td>
       <td>
-        <code>![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)</code>
+        <code>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</code>
       </td>
     </tr>
     <tr>
@@ -341,6 +341,14 @@
       </td>
       <td>
         <code>![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)></code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Delphi" <img alt="Static Badge" src="https://img.shields.io/badge/Delphi-DD0031?style=for-the-badge&logo=Delphi&logoColor=white">
+      </td>
+      <td>
+        <code>![Delphi](https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white)></code>
       </td>
     </tr>
   </tbody>
