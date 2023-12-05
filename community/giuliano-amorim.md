@@ -1,7 +1,8 @@
 
-# Giuliano Lopes Vieira Amorim
+# Hello Guys, Giuliano Lopes Vieira Amorim...
 
-Programador em constante evolução. :rocket:
+Morador do Espírito Santo, servidor público estadual, e programador em constante evolução. :rocket:
+
 
 ## Meios de conexão:
 
@@ -9,24 +10,39 @@ Programador em constante evolução. :rocket:
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:giuliano_lopes72@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/giuliano-amorim-56823a135/)
 
+
 ## Conhecimento Técnico:
 
+### Linguagens de Marcação e Estilo:
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
+
+### Linguagens de Programação:
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+
+### Bibliotecas e Frameworks:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Sistema Operacional:
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+
+### Ferramentas:
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 
 ## Projetos
 
-### DIO
+### DIO(digital innovation one)
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/giuliano-amorim/dio-lab-open-source)
 
 ### Outros (em evolução)
 
+
 ## Línguas:
 
 ### :brazil:: fluente
 ### :england:: intermediário
+
+
