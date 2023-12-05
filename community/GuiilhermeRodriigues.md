@@ -32,4 +32,4 @@ Aprendi e Revi alguns comando do Git que sao bastante importantes no dia a dia d
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/guilherme-rodrigues-22887a1a3/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/rodriigues_guiilherme/)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-000?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=5571994011428&text&type=phone_number&app_absent=0)
-<a href = "mailto:guilherme.jose.ti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:gui.rodrigues786@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
