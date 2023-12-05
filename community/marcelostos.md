@@ -1,6 +1,6 @@
 ### Oi!! Eu sou o Marcelo Santos
     - Sou estudante da Universidade Federal de Sergipe, e estou cursando Ciência da Computação
-    - Atualmente, estou estudando a de Ciência de dados e suas varias aplicações
+    - Atualmente estou estudando a de Ciência de dados e suas varias aplicações
     - Sou iniciante estou sedento por aprender coisas novas!!
 
 <div>
