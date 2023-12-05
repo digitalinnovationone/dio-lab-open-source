@@ -21,10 +21,9 @@
       </div>
     </details>      
     <p align="left">
-      I hold a degree in Economics and have an MBA in Project Management. Since December 2020, I have been actively learning software development. I am a professional with front-end experience in JavaScript/TypeScript, Angular and React; I am well-versed in Agile Methodologies. Additionally, I have received full-stack training, covering React/Angular, JavaScript, Node, Docker, NX, PHP, Laravel, PostgreSQL, MySQL, MongoDB, and Unit/Integration Testing.
-      <br>
-      I emphasize my extensive familiarity with teamwork, always using empathy to understand and validate the feelings and ambitions of my team.
-    </p>
+        I hold a degree in Economics with an MBA in Project Management and have embarked on a journey in software development. Along the way, I've acquired skills in React, Angular, JavaScript, Docker, PHP, Laravel,             TDD, and SQL/NoSQL. I bring professional front-end expertise with Angular and React, complemented by Agile proficiency.
+        <br>
+        I highlight my teamwork skills, consistently applying empathy to understand and validate my team's feelings and ambitions.   
   </div>
   
   <div>
