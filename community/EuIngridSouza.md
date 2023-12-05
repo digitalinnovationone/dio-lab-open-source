@@ -1,6 +1,6 @@
 <h1 >
      <img align="center" width="60px" src="https://i.postimg.cc/w3X1qgHh/eu-mascote-int.png)](http://https://i.postimg.cc/w3X1qgHh/eu-mascote-int.png">
-    <span style="font-size:50px"> Ingrid Souza</span>
+    <span style="font-size:55px"> Ingrid Souza</span>
 </h1>
 
 
