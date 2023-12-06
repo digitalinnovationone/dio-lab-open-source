@@ -23,6 +23,6 @@ PHP | .Net C# | JavaScript | HTML | CSS | SQL | Scrum
 | Tecnologia  | Nível   |
 | -------     | -------- |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)     | Intermediário   |
-| ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)      | Básico   |
+| ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)      | Intermediário   |
 | ![C#](https://img.shields.io/badge/csharp-000?style=for-the-badge&logo=csharp)      | Básico   |
 | ![MySql](https://img.shields.io/badge/mySql-000?style=for-the-badge&logo=mysql)      | Básico   |
