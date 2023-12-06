@@ -36,6 +36,6 @@ Sou Desenvolvedor Web Full-Stack e Analista de Dados em formação, com paixão 
 
 [![Python-txt](https://github-readme-stats.vercel.app/api/pin/?username=OsmarCelestino&repo=Python-txt&theme=vision-friendly-dark)](https://github.com/OsmarCelestino/Python-txt)
 
-## 📰 Artigos e Desafios
+## 📰 Artigos e Desafios 
 <!-- Links para seus artigos e desafios na plataforma DIO -->
 - [![Desafio-Contribuir-Git](https://github-readme-stats.vercel.app/api/pin/?username=OsmarCelestino&repo=dio-lab-open-source&theme=vision-friendly-dark)](https://github.com/OsmarCelestino/dio-lab-open-source)
