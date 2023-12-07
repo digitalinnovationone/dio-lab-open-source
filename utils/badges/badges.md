@@ -404,6 +404,14 @@
         <code>![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)</code>
       </td>
     </tr>
+     <tr>
+      <td>
+        <img align="center" alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+      </td>
+      <td>
+        <code>![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)</code>
+      </td>
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
