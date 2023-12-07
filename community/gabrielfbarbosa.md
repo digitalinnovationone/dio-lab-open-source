@@ -1,6 +1,6 @@
 # [**Gabriel F Barbosa**](https://github.com/gabrielfbarbosa)
 
-### Sou Programador Android buscando aprimorar meus conhecimentos em desenvolvimento de softwares e apps.
+### Sou Programador, apaixonada por tecnologia, buscando aprimorar os meus conhecimentos em desenvolvimento de softwares e apps.
 
 ## Conecte-se
 
