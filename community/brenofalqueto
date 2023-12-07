@@ -1,0 +1,6 @@
+# Olá,
+## Me chamo Breno.
+---
+_Estou me aventurando numa área, que para mim é nova, apesar da minha formação._
+_Comecei a cursar Sistemas de Informação neste ano ~~(2023)~~, e tenho gostado muito da área, principalmente na parte de **desenvolvimento de jogos**.
+_**Dito isto, espero conseguir aprender e progredir bastante com o curso da DIO!**_
