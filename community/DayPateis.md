@@ -24,7 +24,4 @@
 
 ## Minhas contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DayPateis&repo=dio-lab-open-source&bg_color=DDa0DD&border_color=9400D3&show_icons=true&icon_color=9400D3&title_color=9400D3&text_color=9400D3)](https://github.com/DayPateis/dio-lab-open-source)
-<<<<<<< HEAD
-=======
 
->>>>>>> 7d00e5d89e09b7b3db646ef3a6e694aefea00fdd
