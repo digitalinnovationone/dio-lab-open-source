@@ -1,3 +1,4 @@
-# Olá, meu nome é Marco Vinicius (vcmarco) 
+# Olá, eu sou Marco Vinicius (vcmarco) 👍
 
- Estou estudando pela [DIO](https://www.dio.me/) e pretendo me tornar um dev back-end
+Estou estudando na [DIO](https://web.dio.me/home) e pretendo virar um dev back-end
+
