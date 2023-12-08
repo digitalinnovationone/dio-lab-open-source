@@ -1,6 +1,6 @@
 # DIO | Teste de contribuição repositório
 
-Repositório para teste de contribuição Git e Github.   
+Repositório para teste de contribuição Git e Github  
 
 
 
