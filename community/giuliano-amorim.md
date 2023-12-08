@@ -38,9 +38,17 @@ Morador do Espírito Santo, servidor público estadual, e programador em constan
 
 ### DIO(digital innovation one)
 
+#### "Contribuindo em um Projeto Open Source no GitHub"
+
+Este projeto prático foi especialmente desenhado para que estudantes de tecnologia, como você, possam mergulhar de cabeça e experimentar na prática o poder do trabalho colaborativo e da inovação contínua que o Open Source proporciona. Idealizada pela Elidiana Andrade, Expert, DIO.
+
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/giuliano-amorim/dio-lab-open-source)
 
-### Outros (em evolução)
+### Beecrowd 
+
+Beecrowd é uma plataforma que disponibiliza problemas que estimulam e desenvolvem o raciocínio lógico e o domínio de diversas linguagens de programação.
+
+<https://www.beecrowd.com.br/judge/pt/profile/879740>
 
 
 ## Línguas:
