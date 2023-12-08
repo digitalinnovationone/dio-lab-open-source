@@ -1,7 +1,7 @@
-# 🌎 About:
+# 🌎 About me:
 
-Oi, esse é o meu README feito para o desafio de Git e GitHub da Dio Cursos<br>
 
+Fala pessoal, esse é o meu README feito para o desafio de Git e GitHub da Dio Cursos!
 <br>
 <br>
 # 💻 Tech Stack:
