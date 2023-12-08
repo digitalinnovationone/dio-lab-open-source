@@ -5,7 +5,7 @@ Meu nome é Ricardo Souza Cruz, sou Desenvolvedor de Software Júnior na empresa
 
 Apesar de ser formado em Licenciatura em Física, pela UFSCar, tenho grande interesse na área de programação e tenho aprendido tudo por conta, utilizando plataformas online.
 
-Sinta-se a vontade para entrar em contato!
+Sinta-se a vontade para entrar em contato!!
 
 ## Habilidades
 
