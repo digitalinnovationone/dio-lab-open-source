@@ -8,7 +8,7 @@ Sou técnico em mecânica industrial pelo IFRJ (Out/2021) e atualmente curso Eng
 
 Recentemente (2023) iniciei meus estudos em análise de dados, sendo as principais ferramentas de estudo SQL, Python e Git em geral. Conforme problemas surgem, procuro elaborar soluções inteligentes criando ferramentas com os conhecimentos da minha área de engenharia com programação.
 
-## 🚀 A estrada até aqui
+## 🚀 A estrada até aqui!
 
 Durante meu primeiro semestre da graduação fui apresentado a disciplina de programação, iniciando minha jornada estudando linguagem C. Como eu sempre tive curiosidade em aprender a programar e adorei a experiência no curso de programação da faculdade, decidi buscar formas de envolver programação e os conhecimentos do meu curso de engenharia, onde fui capaz de desenvolver ferramentas úteis no meu estágio e para o meu dia a dia.
 
