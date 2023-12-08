@@ -1,7 +1,7 @@
 
 # Diego José Soek
 
-Fullstack Senior developer
+Full Stack Senior Software Developer
 
 ### Conecte-se comigo
 
