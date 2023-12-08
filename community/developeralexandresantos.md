@@ -31,7 +31,7 @@
 
 
 ## REDES SOCIAIS 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://instagram.com/gabbii1_?igshid=NGVhN2U2NjQ0Yg==) 
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/developeralexandresantos) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-aparecido-dos-santos-41343018/)
     
 
