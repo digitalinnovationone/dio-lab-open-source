@@ -14,6 +14,7 @@
 <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="40" align="center">
 <img alt="JavaScript" src="https://brandslogos.com/wp-content/uploads/images/large/kotlin-logo.png" width="35" height="30" align="center">
 <img alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" width="35" height="35" align="center">
+<img alt="JavaScript" src="https://pngimg.com/uploads/mysql/mysql_PNG22.png" width="75" height="75" align="center">
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WALDENIO312x&theme=transparent&bg_color=003&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=A91&text_color=FFF)
