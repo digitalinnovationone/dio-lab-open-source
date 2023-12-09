@@ -1,5 +1,5 @@
 
-# Olá mundo! Eu sou o Raffiz
+# Olá mundo! Eu sou o Raffiz!
 ### Sou um hacker ético que ama um bom desafio! Usuário de ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 Comecei cedo na programação com meu arduino com 16 anos, desde então venho
