@@ -95,6 +95,9 @@ Aprender o básico sobre contribuição no GitHub.
     > Use the command `git pull upstream main` to download and merge the changes in your local repository based on the `main` branch of this original repository from which you forked, or `git fetch upstream main` to download without merging. Learn more at: [Getting Started with Git and GitHub](https://github.com/digitalinnovationone/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
 4. Create/Reference a new **branch** and name it `feat/community/YOUR_USERNAME`: `git checkout -b feat/community/YOUR_USERNAME`;
     > Example: `git checkout -b feat/community/elidianaandrade`
+
+XXX
+
 5. Inside the [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) folder, create a Markdown file (extension `.md`) and name it after your GitHub username;
     > Example: `elidianaandrade.md` <br>
 6. Develop your profile: For that, you can see examples in the [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) folder and add some of the utilities available in the [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) folder;
