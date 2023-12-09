@@ -16,7 +16,7 @@ Ao longo da minha carreira, passei por vários setores em uma agência bancária
 
 Desde sempre, o desenvolvimento de software foi meu sonho. Atualmente, estou direcionando meus estudos para esta área, buscando aprimorar minhas habilidades técnicas em programação.
 
-## Objetivos
+## Objetivos.
 
 - Expandir meus conhecimentos em linguagens de programação como [C#],[Java],[Dart].
 - Contribuir para projetos significativos na área de desenvolvimento de software.
