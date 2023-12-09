@@ -6,7 +6,7 @@ Olá, eu sou Herbert Emidio, um profissional determinado e dedicado com uma sól
 
 Ao longo da minha carreira, passei por vários setores em uma agência bancária, onde destaquei minhas habilidades de gestão e resolução de problemas. Minha experiência diversificada me permitiu desenvolver uma mentalidade analítica e estratégica, fundamentais para enfrentar desafios complexos.
 
-## Educação
+## Educação.
 
 - **Graduação em Administração de Empresas (Área de Projetos Gerenciais):** [UNIP], [2019]
 
