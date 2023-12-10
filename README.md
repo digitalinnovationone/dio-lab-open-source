@@ -4,7 +4,7 @@
     <span> Contribuindo em um Projeto Open Source no GitHub</span>
 </h1>
 
-<h2>Repo atualizado com sucesso, By @adrianomatos!!!</h2>
+<h2>Repo atualizado com sucesso, By @adrianomatos!!! for DIO curse</h2>
 
 Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
 
