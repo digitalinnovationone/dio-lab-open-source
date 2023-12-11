@@ -6,7 +6,7 @@
 
 Olá! Me chamo Rafael e sou Analista de Dados atualmente cursando Engenharia de Software.
 
-Estou buscando minha primeira oportunidade de trabalho na aréa , pois me apaixonei por dados.
+Estou buscando minha primeira oportunidade de trabalho na aréa , estou apaixonado por dados.
 
 
 ### Habilidades
