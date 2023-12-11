@@ -5,8 +5,13 @@ quando decidi estudar para seguir carreira na área de TI, mas ainda não decidi
 
 ## Minhas habilidades
 
-Atualmente estou estou estudando os fundamentos: lógica de programação e resolução de problemas(pensamento computacional), mas logo que terminar de fundamentar essa base pretendo ir para
-POO, CSS, HTML e JavaScript, além disso também quero aprender inglês e gerenciamento de projetos.
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) 
+
+
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
 ## Contate-me
