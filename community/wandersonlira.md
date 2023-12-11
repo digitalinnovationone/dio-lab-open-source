@@ -1,4 +1,4 @@
-# Olá, me chamo Wanderson Lira 👋
+# Olá, me chamo Wanderson Lira! 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wandersonlira&theme=ayu-mirage&show_icons=true)
 
