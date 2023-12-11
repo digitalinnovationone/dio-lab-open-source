@@ -1,9 +1,9 @@
 ---
-name: Community Challenge
-about: Crie uma issue sobre o Desafio proposto a comunidade
-title: "[DESAFIO]"
-labels: 'community challenge'
-assignees: ''
+name: Community Challenge Open Source
+about: Crie uma issue sobre o Desafio proposto para a comunidade
+title: "[DESAFIO]CyberSecurity"
+labels: community challenge cyber-security
+assignees: Ailson2023Jr
 
 ---
 
