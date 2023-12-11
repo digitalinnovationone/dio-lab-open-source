@@ -14,7 +14,7 @@ Atualmente trabalho como professor de matemática, atuando principalmente com co
 
 ## Projetos e Estatísticas
 
-[![JeanCarloBV](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&hide=prs&theme=radical)](https://github.com/JeanCarloBV)
+[![JeanCarloBV](https://github-readme-stats.vercel.app/api?username=JeanCarloBV&show_icons=true&hide=prs&theme=radical)](https://github.com/JeanCarloBV)
 
 ## Habilidades
 
