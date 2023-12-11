@@ -1,5 +1,4 @@
 # Matheus Emmanuel 🎈
-</div>
 
 ## Sobre Mim
 Sou Formado em Marketing e Turismo, e  estou iniciando nessa jornada de aprendizado no universo da programação pelos bootcamps DIO.
