@@ -1,5 +1,5 @@
 # Felipe Lima
-Muito prazer, sou estudante de ADS (Análise e desenvolvimento de software), e tenho como objetivo seguir na carreira de analista de dados.
+Muito prazer, sou estudante de ADS (Análise e desenvolvimento de sistemas), e tenho como objetivo seguir na carreira de analista de dados.
 ## Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lipelima04) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:felipelimaoliveira20@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-oliveira-36b2a6218/)
 
