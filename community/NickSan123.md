@@ -1,7 +1,7 @@
 
 # Nicolai Martins
 
-QA - Analista de Teste/Automatizador
+Programador C# e Java
 
 ### Conecte-se comigo
 
