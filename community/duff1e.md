@@ -1,5 +1,5 @@
 
-# 🎃 Dafany Pedott 
+# 🎃 Dafany Pedott 🎃
 
 Olá, podem me chamar de Duffie. Sou estudante de Informática para Internet na Fundação Liberato. Minhas principais características são a vontade de aprender, resolução de problemas e criatividade.
 
