@@ -1,6 +1,6 @@
 ### Olá! Me chamo Lívia Silva :woman_technologist:
 ###### Sou iniciante na área de Programação, mas sempre fui apaixonada por linguagens e acabei me encontrando no mundo da Tecnologia da Informação. Espero logo, logo ingressar em uma graduação na área para ajudar com o meu desenvolvimento e crescimento. 
-###### Tenho hobbies diversos. Adoro ler, escrever, assistir séries e filmes de terror (principalmente). E foi assim - assistindo séries, filmes e lendo -, que consegui ficar fluente em Inglês. Com isso percebi que adoro aprender novas línguas e hoje estudo, também, para aprender Libras.
+###### Tenho hobbies diversos. Adoro ler, escrever, assistir séries e filmes de terror (principalmente). E foi assim - assistindo séries, filmes e lendo -, que consegui ficar fluente em Inglês. Com isso, percebi que adoro aprender novas línguas e hoje estudo, também, para aprender Libras.
 ### Você pode me encontrar em: 
 [![Perfil DIO](https://img.shields.io/badge/DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/liviaas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liviaas/)
@@ -19,3 +19,4 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+### Minhas contribuições:
