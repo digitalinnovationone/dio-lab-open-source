@@ -1,5 +1,4 @@
 # Dayane Pateis de Sousa
- ![Alt text](image-2.png)
  Sou estudande de Sistemas para internet, estou fazendo os cursos da Dio, da Google (UX/UI), JavaScript, HTML, Python, entre outros.
 
 ## Conecte-se comigo
