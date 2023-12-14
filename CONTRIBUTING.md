@@ -41,13 +41,13 @@
 ## Convenção de Commits 
 
 | Tipo de Commit | Descrição|
-| ---------------|----------|
-| `feat`         | Adiciona uma nova funcionalidade ao projeto.   |
-| `fix`          | Corrige um bug ou problema no projeto.         |
-| `docs`         | Altera a documentação do projeto. Ex.: README, comentários no código.                                            |
-| `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.                                                   |
-| `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.                                                   |
-| `test`         | Adiciona ou modifica testes no projeto.        |
+| ---------------|-----------------------------------------------------------------------------------------------------|
+| `feat`         | Adiciona uma nova funcionalidade ao projeto.                                                        |
+| `fix`          | Corrige um bug ou problema no projeto.                                                              |
+| `docs`         | Altera a documentação do projeto. Ex.: README, comentários no código.                               |
+| `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.                                        |
+| `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.                                        |
+| `test`         | Adiciona ou modifica testes no projeto.                                                             |
 
 ## Desafios Git e GitHub
 - [50 minutos de desafios para treino](https://www.youtube.com/watch?v=kB5e-gTAl_s)
