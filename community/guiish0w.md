@@ -1,6 +1,6 @@
 ## Olá Mundo! Pode me chamar de guiish0w
 
-- Futuro Desenvolvedor Full Stack
+- Futuro Desenvolvedor Full Stack.
 - Apaixonado por tecnologia, desenvolvimento e design. 
 
 ## 📫 Conecte-se comigo
