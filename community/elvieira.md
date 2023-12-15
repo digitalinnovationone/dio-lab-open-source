@@ -1,5 +1,3 @@
-<img align="right" height="590em" src="./src/GithubCard.png"/>
-
 # Olá, eu sou o Elias Vieira!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elvieira&color=blue&label=Visualizações+do+Perfil" alt="Visualizações do Perfil" />
