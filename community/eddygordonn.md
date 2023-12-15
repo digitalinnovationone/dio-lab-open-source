@@ -1,7 +1,7 @@
 
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E8DF7&random=false&width=435&lines=Ol%C3%A1%2C+Sejam+bem+Vindos+ao+meu+perfil.)](https://git.io/typing-svg)
-# Edison Alves
+# Edison Alves Luz
 
 Sou Graduado em Sistema de informação, trabalhei alguns anos como analista de sistemas, agora estou me aprofundando no mundo da programação. Busando ficar atualizado com as novas tecnologias.
 
