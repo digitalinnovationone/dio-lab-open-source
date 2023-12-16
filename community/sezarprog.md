@@ -2,6 +2,7 @@
 # Julio Duarte
 
 A maior parte da minha carreira foi na área de TI, atuando no suporte técnico.
+Desde o DOS 3.0, acompanhando e envolvido em todas as versões do Windows diretamente até 2011, posteriormente envolvido com gestão administrativa de serviços de Outsoursing de impressão e manutenção industrial.👀
 
 Atuei posteriomente em posiçõs de liderança que causaram distanciamento do hard da operação, passando a focar em custos e metricas. 😒
 
