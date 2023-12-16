@@ -1,6 +1,6 @@
 # Olá meu nome é Pedro
 
-### Sou um estudande de Ciências da Computação em busca de aprimoramentos de programação, almejando ser um profissional Full Stack Developer
+### Sou um estudande de Ciências da Computação em busca de aprimoramentos de programação, almejando ser um profissional Full Stack Developer.
 
 ## Minhas redes sociais 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-nicolas-vieira-649963201/)
