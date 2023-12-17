@@ -71,6 +71,11 @@ Aprender o básico sobre contribuição no GitHub.
 
  Contribua no diretório "Community", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
  Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
+ Contribuição: Comandos básicos git/github que qualquer um deve saber são = 
+ -O git pull, que manda as mudanças feitas no seu repositório remoto do github para o repositório do seu computador; 
+ -O git push, que envia as alterações feitas no seu repositório local para o remoto.
+ 
+ 
 
 ### Instruções (PT/BR) 
 1. Faça um **Fork** deste repositório;
