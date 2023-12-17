@@ -19,7 +19,7 @@ Meu contato com computadores foi muito novinho e sempre tive paixão e muita cur
 ### Habilidades das quais ainda almejo!
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-<img src="https://img.shields.io/badge/Inglês-%2300A86B?style=flat-square&labelColor=%23414141logoColor=white" />
+![Ingles](https://img.shields.io/badge/Ingles-0095D5?style=for-the-badge&)
 
 
 ### Entre em contato comigo!
