@@ -1,6 +1,6 @@
 # Geferson Araújo
 
-Retornando aos estudos sobre programação e buscando entender e aprender mais sobre Git/Github e Kotlin.
+Retornando aos estudos sobre programação, realizando o BOOTCAMP da DIO, buscando entender e aprender mais sobre Git/Github e Kotlin.
 
 ### Conecte-se comigo
 
