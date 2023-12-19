@@ -2,7 +2,7 @@
 
 # welcome to my GitHub! 😄
 - 🔭 I’m currently working on gamejam with friends
-- 🌱 I’m currently learning Java and python
+- 🌱 I’m currently learning Mobile dev
 - ✨curiosity about me: occasionally i make songs and sounds effects for games
 - 📫 How to reach me: viniciusrosalima14@gmail.com
 <div>
