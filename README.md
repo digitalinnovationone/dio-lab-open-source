@@ -5,7 +5,7 @@
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
     <span> Contribuindo em um Projeto Open Source no GitHub</span>
 </h1>
-By: Rafa
+By: Rafa || com updates
 <br> 
 Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
 
