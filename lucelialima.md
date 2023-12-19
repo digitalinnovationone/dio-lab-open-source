@@ -1,7 +1,7 @@
 # Lucelia Lima
 
 
-Mestre em Ciência da Computação e concluir a Residência em Sistema de Informação, busco transição de carreira na área de SI ou CD.
+Mestra em Ciência da Computação e concluir a Residência em Sistema de Informação, busco transição de carreira na área de SI ou CD.
 
 
 ## Conecte-se comigo
