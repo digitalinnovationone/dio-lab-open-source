@@ -1,4 +1,4 @@
-# Olá, eu sou o Gabriel
+# Olá, eu me chamo Gabriel!
 Tenho 17 anos, sou estudante de informática e tenho muito interesse em ingressar no ramo da programação 
 
 ## Você pode me encontra aqui:
@@ -8,12 +8,12 @@ Tenho 17 anos, sou estudante de informática e tenho muito interesse em ingressa
 
 ## Habilidades
 
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=30A3DC)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=orange)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=FFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
 
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=red)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 ## Git Stats
