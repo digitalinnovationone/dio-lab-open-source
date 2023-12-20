@@ -18,4 +18,3 @@ Hello, at the moment I post this document I am 24 years old, I love technology a
 ## Meet Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/gui-beraldo/)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/gui_beraldo/?tab=achievements)
-
