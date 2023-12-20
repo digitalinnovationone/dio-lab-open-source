@@ -12,5 +12,5 @@ Olá, eu sou a Rebeca Barbosa, estudante de Análise e Desenvolvimento de Sistem
 ## Habilidades
 ![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQLite](https://img.shields.io/badge/SQLite-100000?style=for-the-badge&logo=sqlite&logoColor=07405E)
-
-
+![HTML5](https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=css3&logoColor=white)
