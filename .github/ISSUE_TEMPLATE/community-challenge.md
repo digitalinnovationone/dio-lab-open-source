@@ -1,17 +1,12 @@
 ---
-name: Community Challenge
-about: Crie uma issue sobre o Desafio proposto a comunidade
+name: Community challenge
+about: Crie uma issue sobre o Desafio proposto à comunidade
 title: "[DESAFIO]"
-labels: 'community challenge'
+labels: Community challenge
 assignees: ''
 
 ---
 
-*Tem alguma sugestão para quem for fazer o Desafio? Por favor descreva.*
-Prestar muito a atenção pois é um conteúdo complicado porém muito legal de se aprender.
+Minha primeira Templete feita junto com o curso da DIO.
 
-*Descreva como você realizou o seu*
-Olhando a explicação e replicando.
-
-*Links úteis*
-- N/A
+[https://web.dio.me/track/9bada25e-4784-4932-ba20-fbb4c1b71855](DIO)
