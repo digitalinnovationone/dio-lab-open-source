@@ -24,7 +24,3 @@
 | Preview | Parameters |
 |:-------:|:----------:|
 | [![GitHub Streak](https://streak-stats.demolab.com/?user=elidianaandrade&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats) | `theme=bear` `background=000` `dates=FFF`|
-
-```
-
-```
