@@ -1,1 +1,0 @@
-Perfil de exemplo :)
