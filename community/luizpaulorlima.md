@@ -1,10 +1,8 @@
 # Hello, sou o Luiz Paulo Lima
-Mas pode me chamar só de Luiz...
 
 ## Sobre mim
-* Cursando o 2º Período de Análise e Desenvolvimento de Sistemas na Gran Faculdade.
-
-* Formado em Bacharelado em Direito pelo Centro Universitário Salesiano de São Paulo
+* Cursando o 2º Período de **Análise e Desenvolvimento de Sistemas** na Gran Faculdade.
+* Bacharel em Direito pelo Centro Universitário Salesiano de São Paulo, campus de Lorena.
 
 ## Conecte-se comigo
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luiz-paulo-ribeiro-de-lima-b76727177/)
