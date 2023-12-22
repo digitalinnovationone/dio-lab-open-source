@@ -13,7 +13,9 @@ Realização de Diagrama de Ishikawa, para rastreamento de possíveis problemát
  
 #### Formação Acadêmica:
     🎓 Técnico em Administração - Senac
+    abr/22 - out/23
     🎓 Colégio Centenário - Ensino Médio
+    2018 - 2020
 
 ## GitHub
 
