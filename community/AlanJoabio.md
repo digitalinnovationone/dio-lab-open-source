@@ -11,8 +11,6 @@
 
 </h4>
 
-
-
 ### About me/Sobre em mim!
 
 In addition to discovering this great transmission and interest in the area of technology, this area permeates several sciences and has been presenting itself as a promising career in current times in the face of constant technological advancement, and also with excellent opportunities in the job market now and in the future.
@@ -27,7 +25,11 @@ I'm passionate about technology! So I chose this career, because I want to acqui
 HTML, CSS, JavaScript, JAVA, Python, Bootstrap, Git, Linux, Windows, Figma, Canvas, Network security.
 </p>
 
+-----------------------------------------
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AlanJoabio&repo=dio-lab-open-source&bg_color=0000&border_color=6bbbca&show_icons=true&icon_color=6bbbca&title_color=6bbbca&text_color=fff)](https://github.com/AlanJoabio/dio-lab-open-source) 
+
+--------------------------
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlanJoabio&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlanJoabio&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlanJoabio&theme=nord_dark) |
 | :-: | :-: | :-: |
@@ -37,8 +39,10 @@ HTML, CSS, JavaScript, JAVA, Python, Bootstrap, Git, Linux, Windows, Figma, Canv
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlanJoabio&theme=nord_dark&bg_color=2D3742&border_color=6bbbca&show_icons=true&icon_color=6bbbca&title_color=6bbbca&text_color=6bbbca)
 
+---------------------
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlanJoabio&bg_color=2D3742&border_color=6bbbca&title_color=6bbbca&text_color=6bbbca)
 
+--------------------------------
 
 Sobre mim em Portuquês
 ======================
