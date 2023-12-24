@@ -3,7 +3,7 @@
 
 Olá! Sou o Lucas Brito, faço Sistemas para Internet e estágio em DevOps com Front-end
 
-### **Entre em contato para me conhecer.**
+### **Entre em contato e venha me conhecer melhor :).**
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-DC6930?style=for-the-badge)](https://lukasbryt.github.io/)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-1F87BA?style=for-the-badge)](https://web.dio.me/users/lucasdez2010)
