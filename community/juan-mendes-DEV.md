@@ -6,7 +6,7 @@
 
 <div style="display: inline_block">
         
-### Sobre mim   👨‍💻 
+### Sobre mim   
 
 "Sou um desenvolvedor web apaixonado por criar sites únicos, atraentes e rápidos que atendam às necessidades e expectativas dos usuários. Minha jornada na área inclui experiência sólida em HTML5, CSS, Javascript e Node.js, permitindo-me dominar técnicas de responsividade, performance e estilos.
 
