@@ -1,5 +1,5 @@
 
-# OLÁ ME CHAMO IGOR E SOU UM SOFTWERE DEVELOPER JAVA
+# OLÁ, ME CHAMO IGOR E SOU UM SOFTWERE DEVELOPER JAVA
 
 Sou um desenvolvedor de software há mais de 2 anos, com experiência no ensino de programação e robótica no Observatório Astronômico Antares (MACT). Além disso, conduzi projetos independentes utilizando Java, Spring Boot, APIs RESTful, Python e C++.
 
@@ -8,7 +8,7 @@ Vamos nos conectar para trocar ideias e experiencias:
 
 
 <div>
- <a href="https://www.linkedin.com/in/igorpereirag/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="78"  height="25" /></a>  
+ <a href="https://www.linkedin.com/in/igorpereirag/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="85"  height="30" /></a>  
 
 </div>
 
