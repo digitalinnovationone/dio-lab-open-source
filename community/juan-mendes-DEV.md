@@ -17,7 +17,7 @@ Minha abordagem proativa e habilidade para pensar fora da caixa me permitem enfr
   </div>
         
   <div align="center">
-<br/><br/>
+<br/><br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juan-mendes-DEV)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan--dev--front--end/)
