@@ -12,7 +12,7 @@
 
 Com conhecimentos em Vue.js, TypeScript e ES6, destaco-me na criação de interfaces dinâmicas e interativas. Aprofundando meu expertise com Node.js, desenvolvo aplicativos web robustos e escaláveis, visando entregar experiências online de alta qualidade.
 
-Minha abordagem proativa e habilidade para pensar fora da caixa me permitem enfrentar desafios complexos, sempre buscando por inovação e soluções criativas. Estou constantemente em busca de novas formas de superar expectativas, aprimorando a experiência do usuário e entregando projetos web excepcionais que vão além das demandas do mercado atual."
+Minha abordagem proativa e habilidade para pensar fora da caixa me permitem enfrentar desafios complexos, sempre buscando por inovação e soluções criativas. Estou constantemente em busca de novas formas de superar expectativas, aprimorando a experiência do usuário e entregando projetos web excepcionais que vão além das demandas do mercado atual"
 
   </div>
         
