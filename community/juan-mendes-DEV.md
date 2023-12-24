@@ -17,23 +17,16 @@ Minha abordagem proativa e habilidade para pensar fora da caixa me permitem enfr
   </div>
         
   <div align="center">
+<br/><br/>
 
-<a href="https://github.com/juan-mendes-DEV">
-  ### git-hub
-</a>
-<a href="https://www.linkedin.com/in/juan--dev--front--end/">
-  ### linkedin
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juan-mendes-DEV)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan--dev--front--end/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100077294463765)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juan_pittbullboxe_mg/)
 
-<a href="https://www.facebook.com/profile.php?id=100077294463765">
-  ### facebook
-</a>
-
-<a href="https://www.instagram.com/juan_pittbullboxe_mg/">
-  ### instagram
-</a>
 <br/><br/>  
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juan-mendes-DEV&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 <div>
 </div>
 </div>
