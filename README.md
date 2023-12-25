@@ -22,7 +22,7 @@ Aprender o básico sobre contribuição no GitHub.
     <tr align="left">
       <th>Nº</th>
       <th>Etapas</th>
-      <th>Materiais de Apoio</th>
+      <th>Material de Apoio</th>
     </tr>
   </thead>
   <tbody align="left">
@@ -31,7 +31,7 @@ Aprender o básico sobre contribuição no GitHub.
       <td>Introdução ao Lab</td>
       <td align="center">
         <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+           <img align="center" alt="Materiais de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>
     </tr>
@@ -55,7 +55,7 @@ Aprender o básico sobre contribuição no GitHub.
     </tr>
     <tr>
       <td>04</td>
-      <td>Dicas e Materiais de Apoio</td>
+      <td>Dica e Material de Apoio</td>
       <td align="center">
         <a href="">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
