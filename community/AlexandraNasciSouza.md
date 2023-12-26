@@ -1,4 +1,4 @@
-# Alexandra Nascimento Souza
+# Alexandra Nascimento
 
 Desenvolvedora Backend na Thoughtworks desde Abril de 2022.
 
