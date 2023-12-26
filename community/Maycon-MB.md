@@ -1,5 +1,5 @@
 
-# Maycon Bruno Montes Gomes Constancio
+# Maycon Bruno
 ## Formado em Sistemas de Informação
 
 ### Conecte-se comigo
