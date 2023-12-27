@@ -4,6 +4,8 @@
 # Eu me chamo Ricardo Natale
 ## E atualmente curso ciência da computação na  [*Descomplica*](https://descomplica.com.br/faculdade/) 
 
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardovieiraoliveiranatale/)
+
 *Estudando* :construction_worker:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) _estudando pela_ [Py4e](https://www.py4e.com)
