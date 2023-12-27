@@ -2,14 +2,19 @@
 
 ## Sobre mim
 
-Sou um estudante de Ciências da Computação de 30 anos, planejando mudar o foco atual de minha carreira para Front End.
+Sou um estudante de Ciências da Computãção de 30 anos, buscando mudar o foco atual de minha carreira profissional para Front End.
 
-## Experiências
+# Experiências
 
-Tenho 3 anos de experiência como Analista de Sistemas utilizando ferramentas da IBM (IBM Sterling B2B Integrator, IBM Connect:Direct, IBM File Gateway, IBM Control Center). Possuo também conhecimento em banco de dados (SQL Server, MySQL, DB2, Oracle).
+Tenho 3 anos de experiência como Analista de Sistemas utilizando ferramentas da IBM (IBM Sterling B2B Integrator, IBM Connect:Direct, IBM File Gateway, IBM Control Center).
+Também tenho conhecimentos em banco de dados (SQL Server, MySQL, DB2, Oracle) e protocolos (FTP, SFTP, HTTP).
 
-## Contato
+# Contato
 
-Você pode entrar em contato comigo por quaisquer motivos através de meu [EMAIL](nicolasmrod93@gmail.com) e/ou [LinkedIn](https://www.linkedin.com/in/nicolasmrod/).
+Podem entrar em contato comigo por quaisquer meios descritos abaixo:
 
-Obrigado por visitar meu READme!
+[EMAIL](nicolasmrod93@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/nicolasmrod/)
+
+
+Obrigado por visitar meu READme!!
