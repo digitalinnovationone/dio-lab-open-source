@@ -31,3 +31,7 @@ Sou um desenvolvedor backend e estudante de ciências da computação. Estou me 
 ## Github Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CassioAllan&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+## Github Repositories
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CassioAllan&repo=https://github.com/CassioAllan?tab=repositories&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/CassioAllan?tab=repositories)
