@@ -1,5 +1,6 @@
 
-# Oiee! Eu sou Ana Carolina, Seja bem vindo(a)😆
+# Oiee! Eu sou Ana Carolina, Seja bem vindo(a)😆<img src="https://github.com/carolbalbs/carolbalbs/blob/main/octocat-mascote1.png" alt="octoCarol" width="200" height="200"/> 
+
 
 ## Sobre
 Graduanda Interdisciplinar em Ciência, Tecnologia e Inovação com foco em Ciência de Dados e Ciência da Computação (UFBA). Aluna pesquisadora, Integrante do Grupo de Estatística e Ciência de Dados - Teórica, Aplicada e Computacional. Presidente e Fundadora do Clube de Robótica - Robôchicas (Projeto Extensionista de Fomento a Mulheres na Tecnologia). Atualmente, na pesquisa estou trabalhando com R, utilizando o pacote stringr para trabalhar com Regex e desenvolvendo uma API, com pacote Plumber. Gosto da área de desenvolvimento web, possuo conhecimento intermediário em HTML/CSS e Javascript, estou aprofundando meus estudos nos frameworks mais utilizados: nodeJS, reactJS e typescript.
@@ -16,7 +17,7 @@ Acesse alguns dos projetos e veja-os funcionando em execução direta via reposi
 - [Data Science](a)
 - [Robotica](https://github.com/robochicas)
 
-![PYh.gif](PYh.gif)
+![ ](https://github.com/carolbalbs/carolbalbs/blob/main/PYh.gif)
 
 ## Contato
 
