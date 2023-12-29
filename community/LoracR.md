@@ -18,7 +18,7 @@
 ![Espanhol](https://img.shields.io/badge/-espanhol-B55F05?style=for-the-badge)
  
 
- ## Estuando atualmente 
+ ## Estudando atualmente 
 ![Inglês](https://img.shields.io/badge/-Inglês-8B2808?style=for-the-badge) 
 
 ![Redes](https://img.shields.io/badge/-redes-0B1E35?style=for-the-badge)
