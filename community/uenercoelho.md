@@ -17,8 +17,8 @@
   - [![LinkedIn](https://img.shields.io/badge/uenercoelho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uenercoelho/)
   - [![Discord](https://img.shields.io/badge/@uenercoelho-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@uenercoelho/)
   - <a href="https://www.dio.me/users/uenercoelho2" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=DIO&message=@uenercoelho&color=313238&labelColor=8257e5" alt="Rocketseat Project Spacetime" />
-  </a>
+      <img src="https://img.shields.io/static/v1?label=DIO&message=UenerCoelho&color=313238&labelColor=8257e5" alt="Rocketseat Project Spacetime" />
+    </a>
 
 
 <br>
