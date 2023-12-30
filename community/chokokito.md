@@ -2,7 +2,7 @@
 
 ## _(Miguel Rocha)_
 
-### Estudante de programação, motivado em criar soluções que impactem o mundo de alguma maneira. :)
+### Estudante de programação, motivado em criar soluções que impactem o mundo de alguma maneira. 🦊
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miguelferocha/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-fernando-rocha-a9431a288/)
 
