@@ -1,7 +1,9 @@
 # Olá, sou o Everton, tudo bem?
 
 Eu sou um estudante de engenharia da computação, a procura de estágios para adquirir experiência profissional, minha historia com a programação começou há quase uns 8 ou 9 mês atrás,
-quando decidi estudar para seguir carreira na área de TI, mas ainda não decidi uma carreira, porém estou iniciando com front-end.
+quando decidi estudar para seguir carreira na área de TI,porém minha historia com a tecnologia começou antes, na verdade tudo inicou-se quan-
+do eu estava com um netbook aonde usava windows pirata, cançado da pirataria, resolvi dar uma chance para o linux, e até hoje ele é meu sistema operacional para uso pessoal e estudos, desde então venho ficando cada vez mais facinado com essa boa dadiva de Deus que é a tecnolo-
+gia.
 
 ## Minhas habilidades
 
