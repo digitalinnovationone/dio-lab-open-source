@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F8F8FF&center=true&vCenter=true&width=1000&lines=OL%C3%81%2C+MEU+NOME+%C3%89+PEDRO+HENRIQUE+!;SOU+PROGRAMADOR+FULLSTACK❤️)](https://git.io/typing-svg)
 
-- 🔭 I´m working with front-end ...
-- 🌱 I´m learning in IFPE Palmares ...
-- 😄 Pronouns:He/His ...
+- 🔭 I´m working with front-end.
+- 🌱 I´m learning in IFPE Palmares.
+- 😄 Pronouns:He/His.
 
 **Linguagens e Ferramentas:**  
 <img align="right" alt="Rafa-yoda" src="http://i748.photobucket.com/albums/xx122/luuuh/mini%20gifs%20bichinhos/plakgif.gif">
