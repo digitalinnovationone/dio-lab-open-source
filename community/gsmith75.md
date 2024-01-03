@@ -20,5 +20,7 @@ Olá, me chamo Gustavo e sou graduando de Sistemas de Informação pela Universi
 
 ## 📈 Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsmith75&theme=transparent&bg_color=000&border_color=fuchsia&show_icons=true&icon_color=fuchsia&title_color=fuchsia&text_color=FFF)![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gsmith75&layout=compact&bg_color=000&border_color=fuchsia&title_color=fuchsia&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsmith75&theme=transparent&bg_color=000&border_color=fuchsia&show_icons=true&icon_color=fuchsia&title_color=fuchsia&text_color=FFF)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gsmith75&layout=compact&bg_color=000&border_color=fuchsia&title_color=fuchsia&text_color=FFF)
 
