@@ -8,7 +8,7 @@
 
 # Habilidades
 
-> <h2>UX | UI designer</h2>
+> <h2>UX  UI designer</h2>
 ![Habilidades](https://github.com/Tarcilalves/MyForkDesafio/assets/107896645/5395d85c-4e90-4c83-ae2b-6ef15f26a6de)
 
 > <h2>Ferramentas</h2>
