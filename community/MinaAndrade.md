@@ -1,7 +1,7 @@
 ﻿# Hi 👋, I'm MinaAndrade ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
 
 ## 👩🏻 Sobre mim
-Sou uma eterna aprendiz, que procura dar o melhor em tudo em que me proponho a fazer. Tenho interesse em trabalhar na área de programação afim de colocar em prática os conhecimentos adquiridos na faculdade e em cursos realizados. Meu foco é em BackEnd mas tenho interesse em aprender FrontEnd e Banco de Dados.
+Sou uma eterna aprendiz, que procura dar o melhor em tudo em que me proponho a fazer. Tenho interesse em trabalhar na área de programação afim de colocar em prática os conhecimentos adquiridos na faculdade e em cursos realizados. Meu foco é em **BackEnd** mas tenho interesse em aprender **FrontEnd** e **Banco de Dados**.
 
 ## 📫 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-B22222?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmina-andrade/) [![Discord](https://img.shields.io/badge/Discord-B22222?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@yasmina08/)
