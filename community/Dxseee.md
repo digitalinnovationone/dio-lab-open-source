@@ -1,6 +1,6 @@
 # Diogo da Anunciação dos Santos 
 
-### Olá pessoal. Meu nome é  Diogo, tenho 21 anos,  sou formado em Segurança da Informação, e gosto muito desse munfo ligado a tecnologia.
+### Olá pessoal. Meu nome é  Diogo, tenho 21 anos,  sou formado em Segurança da Informação, e gosto muito desse mundo ligado a tecnologia.
 
 ## Conecte-se comigo !! 
 
