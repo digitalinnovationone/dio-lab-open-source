@@ -1,7 +1,7 @@
 ### Olá, bem vindo ao meu GIT 👋
 
 
-- 🔭 Atualmente estou desempregado
+- 🔭 Atualmente estou desempregado.
 - 🌱 Estou aprendendo Javascrip para Front-end e PHP para Back-end
 - 📫 Contate-me: goncalesmatheus1@gmail.com
 
