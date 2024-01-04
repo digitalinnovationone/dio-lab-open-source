@@ -1,6 +1,6 @@
 ### Olá, comunidade! Meu nome é Marcos.
 
-Estudante de desenvolvimento Web.
+Estudante de desenvolvimento Web
 
 
 
