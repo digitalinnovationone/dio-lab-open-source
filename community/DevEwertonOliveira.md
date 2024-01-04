@@ -10,4 +10,3 @@ Tenho paixão em interfaces web, games, mobile dentre outros
 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%232D9EEA?style=flat-square&labelColor=%23414141&logo=visual-studio-code&logoColor=white)
-
