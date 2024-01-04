@@ -67,7 +67,7 @@
 >  + Code versioning with Git and GitHub
 >  + Working in agile teams
 >  + Introduction to Modern Software Development
->  + ChatGPT for Devs
+>  + ChatGPT for Devs  
 
 <br>
 
