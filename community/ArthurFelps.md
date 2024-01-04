@@ -1,6 +1,6 @@
 # Arthur Felipe
 
-Futuro Dev cursando Engenharia da Computação na UNIUBE.
+Futuro Dev cursando Engenharia de Computação na UNIUBE.
 
 ## Conecte-se comigo
 
