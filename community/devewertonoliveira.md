@@ -7,7 +7,7 @@ Tenho paixão em interfaces web, games, mobile dentre outros
 #### Techs
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23EFD81D?style=flat-square&labelColor=%23414141&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-%23EFD81D?style=flat-square&labelColor=%23414141&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React	-%23EFD81D?style=flat-square&labelColor=%23414141&logo=javascript&logoColor=white)
 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%232D9EEA?style=flat-square&labelColor=%23414141&logo=visual-studio-code&logoColor=white)
