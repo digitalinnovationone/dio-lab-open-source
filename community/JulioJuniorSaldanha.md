@@ -1,6 +1,6 @@
-#  Olá eu sou o @JulioJuniorSaldanha
+#  Olá eu sou o Julio Junior Saldanha Alegre
 - 👀 Sou interessado em desenvolvimento web 
-- 🌱 Estou cursando a faculdade de ADS
+- 🌱 Estou cursando a faculdade de Analise e desenvolvimento de sistemas (ADS)
 
 ### Principais tecnologias:
 <div style="display: inline_block"><br>
