@@ -5,21 +5,5 @@ front-end e mobile Android.
 
 ### Card - Most Used Languages Compact
 
-| Preview | Parameters |
-|:-------:|:----------:|
-| ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elidianaandrade&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)| `layout=compact` `bg_color=000` `border_color=30A3DC` `title_color=E94D5F` `text_color=FFF`|
-
-```
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-```
-
-## Card - Repository
-
-| Preview | Parameters |
-|:-------:|:----------:|
-| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)| `bg_color=000` `border_color=30A3DC` `icon_color=30A3DC` `title_color=E94D5F` `text_color=FFF`|
-
-```
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
-```
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tiagoorl&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
