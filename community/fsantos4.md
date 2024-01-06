@@ -1,6 +1,6 @@
 # Fernando Santos
 
-Olá, pessoal, me chamo Fernando Santos, trabalho há pouco mais de 15 anos como designer gráfico e atualmente estou mergulhando na jornada de aprendizagem no mundo dos códigos. Espero obter sucesso nessa nova jornada. 
+Olá, pessoal, me chamo Fernando Santos, trabalho há pouco mais de 15 anos como designer gráfico e atualmente estou mergulhando na jornada de aprendizagem no mundo dos códigos. Espero obter sucesso nessa nova jornada. Vamos nessa!!
 
 # Saiba mais sobre mim 🙋🏼‍♂️
 
