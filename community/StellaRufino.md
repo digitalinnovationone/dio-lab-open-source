@@ -1,7 +1,7 @@
 ### Hello World, Stella Rufino here 👋
 <strong>
 
-<p align="left"> 
+<p align="left">  
  Eu sou Engenheira de Software Backend Júnior apaixonada por tecnologia e sua capacidade transformadora. Alguns dos meus conhecimentos são em microsserviços, testes unitários, desenho de soluções e desenvolvimento na nuvem AWS. Experiência em projetos como Bootcamp Santander e modernização da plataforma de comissão do Itaú Consignado. Atualmente, cursando Ciência da Computação no Centro Universitário Senac para aprimorar ainda mais minhas habilidades. ❤💻</strong><br>
 </p>
 
