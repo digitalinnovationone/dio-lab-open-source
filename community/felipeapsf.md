@@ -1,12 +1,23 @@
-# Olá! 👋
+# Felipe - Desenvolvedor .NET
 
-- 💻 Atualmente desenvolvedor .Net.
+Olá, eu sou Felipe, um desenvolvedor .NET. Atualmente, meu foco principal é o desenvolvimento utilizando a linguagem C#.
 
-## Linguagen e Plataforma
+## Sobre mim
 
-- [C#]
-- [.Net]
+- 👨‍💻 Desenvolvedor .NET
 
-## Estatísticas do GitHub
+## Tecnologias e Ferramentas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=felipeapsf&show_icons=true&count_private=true&hide=contribs)
+- **Linguagens de Programação:** C#
+- **Frameworks e Bibliotecas:** .NET Core
+- **Banco de Dados:** PostgreSQL
+- **IDE:** Visual Studio
+
+## Estatísticas GitHub
+
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=felipeapsf&show_icons=true&count_private=true&hide=contribs,prs)
+
+## Contato
+
+- 📧 Email: felipe_apsf@hotmail.com
+- 💼 LinkedIn: [Felipe no LinkedIn](https://www.linkedin.com/in/felipe-fidalgo-abb3a258/)
