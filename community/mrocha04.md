@@ -20,5 +20,5 @@ Bacharel em sistemas de informação.
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrocha04&theme=transparent&bg_color=00308F&border_color=30A3DC&show_icons=true&icon_color=6CB4EE&title_color=007FFF&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrocha04&theme=transparent&bg_color=00308F&border_color=00308F&show_icons=true&icon_color=6CB4EE&title_color=007FFF&text_color=ffffff)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mrocha04&layout=compact&bg_color=00308F&border_color=00308FC&title_color=6CB4EE&text_color=ffffff)
