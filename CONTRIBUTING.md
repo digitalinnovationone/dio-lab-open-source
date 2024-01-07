@@ -48,7 +48,7 @@
 | `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.                                                   |
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.                                                   |
 | `test`         | Adiciona ou modifica testes no projeto.        |
-| Desafio Issue  | Update para concluir issue aberta.             |
+| Desafio        | Update para concluir issue aberta.             |
 
 ## Desafios Git e GitHub
 - [50 minutos de desafios para treino](https://www.youtube.com/watch?v=kB5e-gTAl_s)
