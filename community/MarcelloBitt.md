@@ -1,7 +1,7 @@
 ---
 
 # Marcello Bittencourt
-Tenho 32 anos e estudo desenvovlimento web, mas sou formado como técnico mecânico e sigo em transição de carreira
+Tenho 32 anos e estudo desenvovlimento web, mas sou formado como técnico mecânico e sigo em transição de carreira.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/marcello_lbj)
