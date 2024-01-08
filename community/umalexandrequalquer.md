@@ -6,7 +6,7 @@ Sou um fã de tecnologia e estou sempre procurando aprender coisas novas, seja n
 
 ## Projetos Simples.
 ### Projeto 1: Site de cotação.
-Desenvolvi uma página front-end utilizando Vue.js, a qual se conectava a uma API de cotação de moedas, Essa página exibia os valores atuais das moedas e permitia a pesquisa de outras moedas disponíveis no site.
+Desenvolvi uma página front-end utilizando Vue.js, a qual se conectava a uma API de cotação de moedas, essa página exibia os valores atuais das moedas e permitia a pesquisa de outras moedas disponíveis no site.
 
 ### Projeto 2: Site Pessoal.
 Desenvolvi um website pessoal utilizando Vue.js com o intuito de compartilhar formas de contato, como número de telefone e perfis em redes sociais, facilitando assim a comunicação comigo.
