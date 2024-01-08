@@ -15,7 +15,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www. linkedin.com/in/cassiabaptiston/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" alt="https://www.linkedin.com/in/cassiabaptiston/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cassiabaptiston" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" alt="https://www.linkedin.com/in/cassiabaptiston/" height="30" width="40" /></a>
 </p >
 
 <h3 align="left">Idiomas e ferramentas:</h3>
