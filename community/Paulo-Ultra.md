@@ -17,6 +17,8 @@ Sou mais proeminente no backend com Java e Spring Framework, pois é onde foquei
 ![MySQL](https://img.shields.io/badge/MySQL-CCC?style=for-the-badge&logo=mysql)
 ![OracleSQL](https://img.shields.io/badge/OracleSQL-CCC?style=for-the-badge&logo=oracle)
 ![Spring](https://img.shields.io/badge/Spring-CCC?style=for-the-badge&logo=spring)
+![AWS](https://img.shields.io/badge/AWS-CCC?style=for-the-badge&logo=aws)
+![Azure](https://img.shields.io/badge/Azure-CCC?style=for-the-badge&logo=azure)
 
 ## Github Stats
 
