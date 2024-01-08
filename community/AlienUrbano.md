@@ -2,7 +2,7 @@
 
 ## Quem sou eu?
 
-**Desenvolvedor Fullstack**, um **apaixonado** por tecnologia e **viciado** em descobrir como as coisas funcionam, melhorar, contribuir e solucionar problemas para que possamos sempre ter deixado algo melhor e *honrar os gigantes do passado nos quais montamos em seus ombros para vermos mais longe.* 
+**Desenvolvedor Fullstack**, um **apaixonado** por tecnologia e **viciado** em descobrir como as coisas funcionam, melhorar, contribuir e solucionar problemas para que possamos sempre ter deixado algo melhor e *honrar os gigantes do passado nos quais subimos em seus ombros para vermos mais longe.* 
 
 Me dedico a trilhar meu caminho na tecnologia, sempre aprendendo, contribuindo e me realizando como profissional. 
 
@@ -21,11 +21,10 @@ Curso **A**nálise e **D**esenvolvimento de **S**istemas, assim como cursos livr
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-Vscode	![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
 ## Onde me encontrar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-gabriel-neves-santos-73b181283/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:paulogabrielneves@hotmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://https://discord.com/channels/@alienurbano/)
