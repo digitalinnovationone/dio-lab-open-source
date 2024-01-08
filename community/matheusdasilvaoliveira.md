@@ -1,5 +1,7 @@
 # 🧑‍💻 Matheus da Silva Oliveira
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CED1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-vindo!+:%29;Vamos+Codar!!!;)](https://git.io/typing-svg)
+
 ##### 🎓Aluno de Engenharia da Computação na PUC-Rio
 ##### ⚡Técnico em Eletrônica
 ##### 💻Paixão por Programação
@@ -16,11 +18,12 @@
 
 ## Habilidades
 
-![HTML](https://img.shields.io/badge/HTML-D14836?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+![HTML](https://img.shields.io/badge/HTML-D14836?style=for-the-badge&logo=html5&logoColor=FFF)
+![CSS3](https://img.shields.io/badge/CSS3-4169E1?style=for-the-badge&logo=css3&logoColor=FFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFF)
+[![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=FFF)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=FFF)](https://docs.github.com/)
 
 ### GitHub Stats
 
