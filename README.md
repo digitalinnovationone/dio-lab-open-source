@@ -4,7 +4,6 @@
     <span> Contribuindo em um Projeto Open Source no GitHub</span>
 </h1>
 
-## Teste de Pull Rafael Baltar
 
 Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
 
