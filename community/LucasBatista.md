@@ -25,7 +25,7 @@ Atualmente, estou cursando o Ensino Médio Integrado em Desenvolvimento de Siste
 ## 📊 Estatísticas do GitHub
 ![Lucas Batista GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBatista37&show_icons=true&theme=transparent)
 
-## 🌐 Redes Sociais
+## 🌐 Redes Social
 - [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_batista38/)
 - [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.batista9734@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-batista-004212263)
