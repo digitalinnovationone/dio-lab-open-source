@@ -4,7 +4,7 @@
 
 ### Ei, tudo bem? 👋
 
-> Meu nome é Aline, sou desenvolvedora Full Stack
+> Meu nome é Aline, sou desenvolvedora Full Stack;
 
 - 👩‍💼 Graduada em Sistemas de Informação 💙
 - 👩‍💼 Graduada em Nutrição 💙
