@@ -1,6 +1,6 @@
 # Hello word! Welcome to my DEV World. 👨‍💻
 
-Me chamo *Tiago Henrique, e atualmente curso Análise e Desenvolvimento de Sistemas. Focado em **Desenvolvimento Back End* estou cada dia mais evoluindo meus conhecimentos e perfomando minhas skills, para assim futuramente contribuir em projetos grandes com mais facilidade.
+Me chamo *Tiago Henrique*, e atualmente curso Análise e Desenvolvimento de Sistemas. Focado em *Desenvolvimento Back End* estou cada dia mais evoluindo meus conhecimentos e perfomando minhas skills, para assim futuramente contribuir em projetos grandes com mais facilidade.
 Sou também apaixonado pelo mundo Tech. Irei continuar cada dia mais aperfeiçoando minhas habilidades para me tornar um *DEV de respeito*.
 
 ## 💻 Por que TI?
@@ -31,3 +31,4 @@ Sou muito bom em trabalho em equipe, e no meio de tudo fazer uns códigos que é
 
 ### Ferramentas
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
