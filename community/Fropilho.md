@@ -1,5 +1,4 @@
 # Olá, muito prazer. Me chamo Frederico.
-
 # 👋🏻
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=700&color=42C920&multiline=true&random=false&width=435&height=85&lines=Seja+bem+vindo+ao+meu+GITHUB+%E2%9C%8C%EF%B8%8F;Fique+%C3%A1+vontade%2C+olhe+por+a%C3%AD.;Se+precisar%2C+%C3%A9+s%C3%B3+chamar.)](https://git.io/typing-svg)
