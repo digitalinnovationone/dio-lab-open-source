@@ -31,7 +31,7 @@ Prazer Sou Deogracia Manuel de Castro, angolano, tenho 22 anos de idade, futuro 
 
 
 
-## Contacto
+## Contactos
 
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-60a7e0?style=for-the-badge)](https://web.dio.me/users/deopmdecastro?tab=achievements)
