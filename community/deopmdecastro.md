@@ -43,7 +43,7 @@ Prazer Sou Deogracia Manuel de Castro, angolano, tenho 22 anos de idade, futuro 
 ## Contribuições
 Adoro contribuir para a comunidade open source. Confira meus projetos no GitHub e sinta-se à vontade para colaborar ou dar feedback!
 
-[![GitHub](https://img.shields.io/github/followers/deopmdecastro?label=Siga%20no%20GitHub&style=social)](link-do-seu-perfil)
+[![GitHub](https://img.shields.io/github/followers/deopmdecastro?label=Siga%20no%20GitHub&style=social)](https://github.com/deopmdecastro)
 
 ## Estatísticas do GitHub
 [![Estatísticas](https://github-readme-stats.vercel.app/api?username=deopmdecastro&show_icons=true&locale=pt-BR&&theme=dark)](https://github.com/deopmdecastro?tab=repositories)
