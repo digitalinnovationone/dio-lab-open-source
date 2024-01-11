@@ -29,7 +29,7 @@ Desenvolvedor Full Stack cursando Análise e Desenvolvimento de Sistemas na Est�
 <img src="https://img.shields.io/badge/Inglês-%2300A86B?style=flat-square&labelColor=%23414141logoColor=white" />
 </div>
 
-#### 📫 Você pode me encontrar em:
+#### 📫 Você pode me encontrar em: 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&labelColor=%230A66C2&logo=linkedin&logoColor=black&link=https://www.linkedin.com/in/arthurgalanti/)](https://www.linkedin.com/in/denisson-vasconcelos-da-silva/)
 [![GitHub](https://img.shields.io/badge/-GitHub-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=github&logoColor=black&link=https://twitter.com/galantidev)](https://github.com/Denisson1991)
