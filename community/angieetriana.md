@@ -1,4 +1,4 @@
-# Olá, mundo!
+# Olá, mundo!!
 
 ## 💬Sobre mim 
 Me chamo **Angie Triana**, tenho 26 anos, atualmente trabalho na área da saúde mas estou em busca de novos conhecimentos. Me identifiquei com a programação e estou realizando cursos para ampliar cada vez mais meu conhecimento. Atualmente focando no desenvolvimento **front-end**. 
