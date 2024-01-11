@@ -1,7 +1,7 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Contribuindo em um Projeto Open Source no GitHub</span>
+    <span> Contribuindo em um projeto Open Source no GitHub</span>
 </h1>
 
 Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
@@ -104,6 +104,7 @@ Aprender o básico sobre contribuição no GitHub.
 9. Push the changes to your remote repository `git push origin feat/community/YOUR_USERNAME`;
 10. Create a **Pull Request**.
 
+    
 ### Instrucciones (ES/ES)
 1. Haz un **Fork** de este repositorio;
 2. Clona localmente: `git clone https://github.com/TU_USERNAME/dio-lab-open-source.git`;
