@@ -1,6 +1,6 @@
 
 ## Deopmdecastro 💻
-Prazer Sou Deogracia Manuel de Castro, angolano, tenho 21 anos de idade, futuro Desenvolvedor Full-Stack, estudante de Analise e Desenvolvimento de Sistemas na AIEC
+Prazer Sou Deogracia Manuel de Castro, angolano, tenho 22 anos de idade, futuro Desenvolvedor Full-Stack, estudante de Analise e Desenvolvimento de Sistemas na AIEC
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdeopmdecastro">
     <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fdeopmdecastro&label=Visitantes%20(HOJE%2FTotal)&labelColor=%2360a7e0&countColor=%2360a7e0&labelStyle=upper" />
@@ -31,7 +31,7 @@ Prazer Sou Deogracia Manuel de Castro, angolano, tenho 21 anos de idade, futuro 
 
 
 
-## Contacto
+## Contactos
 
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-60a7e0?style=for-the-badge)](https://web.dio.me/users/deopmdecastro?tab=achievements)
