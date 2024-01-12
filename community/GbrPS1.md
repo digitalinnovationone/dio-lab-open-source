@@ -1,4 +1,4 @@
-### Olá meu nome é Gabriel dos Anjos👋
+### Olá meu nome é Gabriel dos Anjos 👋
 
 Tenho 26 Anos, Formado em Ciencias da computação no 2º semestre de 2023 pela universidade Cruzeiro do sul. Apaixonado por tecnologia. Ingressando no mercado de trabalho após anos em uma área completamente diferente e buscando oportunidades.
 
