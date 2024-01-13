@@ -14,7 +14,7 @@
 ## Meu stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanSouzafs&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## Faço(muito raramente) desenhos:
+## Faço (muito raramente) desenhos:
 ![Screenshot of two dogs on the street](https://art.ngfiles.com/images/760000/760898_ocomaltine_two-dogs-on-the-street.png?f1545950602)
 [Link do desenho no Newgrounds](https://www.newgrounds.com/art/view/ocomaltine/two-dogs-on-the-street)
 
