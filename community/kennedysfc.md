@@ -1,4 +1,4 @@
-#### Olá Mundo! Pode me chamar de Kennedy <img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/man-technologist.gif" width="30" style="vertical-align: middle;">
+#### Olá Mundo! Me chamo Kennedy <img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/man-technologist.gif" width="30" style="vertical-align: middle;">
 
 Futuro Engenheiro de Software cursando Análise e Desenvolvimento de Sistemas na UNINOVE, Aprendendo a resolver problemas!
 
