@@ -2,9 +2,9 @@
 
 ## Sobre min 👨‍💻
 
-      Entusiasta da área desenvolvimento de TI, busco, de acordo com a proposta do meu curso BSI e minhas afinidades, me tornar um profissional com perfil voltado à resolução de problemas e para isso, completei algumas grades que me auxiliaram, e ainda auxiliam, na montagem desse perfil. Ademais, indo além da grade do Bacharelado, fiz alguns cursos pelo ENAP, sendo alguns deles: “inovando na arquitetura de projetos” e “arquitetura de soluções para transformação digital” os quais, creio eu, complementam o perfil de BSI. Estes cursos me apresentaram conceitos inicias de processos e metodologias, além de uma bibliografia base rica – assim julgo – como “Lean Startup”, “Design Thinking” e “Lean Inception”, que tive a oportunidade de ler posteriormente. 
+Entusiasta da área desenvolvimento de TI, busco, de acordo com a proposta do meu curso BSI e minhas afinidades, me tornar um profissional com perfil voltado à resolução de problemas e para isso, completei algumas grades que me auxiliaram, e ainda auxiliam, na montagem desse perfil. Ademais, indo além da grade do Bacharelado, fiz alguns cursos pelo ENAP, sendo alguns deles: “inovando na arquitetura de projetos” e “arquitetura de soluções para transformação digital” os quais, creio eu, complementam o perfil de BSI. Estes cursos me apresentaram conceitos inicias de processos e metodologias, além de uma bibliografia base rica – assim julgo – como “Lean Startup”, “Design Thinking” e “Lean Inception”, que tive a oportunidade de ler posteriormente. 
 
-      PS: Futuro Dev Javeiro #_#/ ♨️
+PS: Futuro Dev Javeiro #_#/ ♨️
 
 ## Me encontre nas seguintes redes 📫
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-frota-6779b9234/)
