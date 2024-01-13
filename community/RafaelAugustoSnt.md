@@ -1,6 +1,6 @@
 ### Olá! Eu sou Rafael Santana 👋
 
-- 🔭 Atualmente estou cursando analise e desenvolvimento de sistemas, proucurando um estagio e estou fazendo curso pela udemy.
+- 🔭 Atualmente estou cursando analise e desenvolvimento de sistemas (ADS), proucurando um estagio e estou fazendo curso pela udemy.
 
 - 👨‍💻 CERTIFICAÇÕES CONCLUIDAS:
 
