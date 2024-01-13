@@ -24,3 +24,8 @@ Tenho projetos voltado a área de desenvolvimento web, design e experiencia com 
 ✅  [Github ](https://github.com/NataliaReiis)
 ✅  [Linkedin ](https://www.linkedin.com/in/nat%C3%A1lia-reis-965763165/)
 ✅  [Behance ](https://www.behance.net/nataliareiis)
+
+
+
+
+
