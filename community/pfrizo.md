@@ -1,6 +1,6 @@
 # Pedro Frizo
 
-- 🎓 Graduando em Ciência da Computação
+- 🎓 Graduando em Ciência da Computação (2022 - 2025)
 - 🚀 Buscando oportunidades na área de desenvolvimento
 
 ### Conecte-se comigo
