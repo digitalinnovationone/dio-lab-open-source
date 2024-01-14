@@ -1,0 +1,15 @@
+$ git remote add upstream https://github.com/aikawamarcelo/dio-lab-open-source.git //faz referências ao repositório original
+
+git remote -v
+
+git checkout -b feat/community/aikawamarcelo
+
+touch community/aikawamarcelo.md
+
+git add community/aikawamarcelo.md
+
+git commit -m "feat: add aikawamarcelo profile"
+
+git log
+
+q // Para sair do git log
