@@ -42,4 +42,3 @@ Afixionado por tecnologia e aviação, praticante de paraquedismo e trekking
 
 ### Minhas Badges
 [![Credly](https://www.credly.com/users/paulo-rosa.5455ddfa)](https://www.credly.com/users/paulo-rosa.5455ddfa)  [![Microsoft](https://learn.microsoft.com/en-us/users/paulorosa)](https://learn.microsoft.com/en-us/users/paulorosa)  [![Google](https://www.cloudskillsboost.google/public_profiles/4849848c-6f3d-41b9-9b6d-46e08c4575b8)](https://www.cloudskillsboost.google/public_profiles/4849848c-6f3d-41b9-9b6d-46e08c4575b8)
-
