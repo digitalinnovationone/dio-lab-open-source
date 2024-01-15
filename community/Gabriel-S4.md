@@ -10,7 +10,7 @@
 
 ![image](https://github.com/Gabriel-S4/dio-lab-open-source/assets/155675504/1ffa768e-bb20-46f9-9ff9-5adf56ceeed7)
 
-📌 → Estou atualmente aprendendo Javascript, porém tenho um grande interesse em aumentar meus conhecimentos sobre desenvolvimento de software. 
+📌 → Tenho um grande conhecimento de Edição de vídeo e Edição de imagens. Atualmente aprendendo Javascript, porém tenho um grande interesse em aumentar meus conhecimentos sobre desenvolvimento de software. 
 
 ![image](https://github.com/Gabriel-S4/dio-lab-open-source/assets/155675504/83e564db-66d4-4959-a4ef-e88f47023359)
 
