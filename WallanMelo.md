@@ -1,6 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D41b22&height=180&section=header&text=Wallan+Melo&fontSize=27&fontColor=00CED1&animation=twinkling&fontAlignY=35"/>
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-Vindo+ao+meu+perfil!;Hello,+Welcome+to+my+world!;)](https://git.io/typing-svg)
-
 
 # Wallan Melo
 Cursando Bacharelado em Sistemas de Informação no [IFNMG-Januária](https://www.ifnmg.edu.br/januaria)
