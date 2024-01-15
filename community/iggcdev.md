@@ -1,4 +1,17 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Ivo Gabriel Goes Correia</h1>
+<h3 align="center">I am a dedicated student and a technology enthusiast!</h3>
+
+- 🔭 I’m currently working on **Register in Django**
+
+- 🌱 I’m currently learning **A.I and Machine Learning**
+
+- 🤝 I’m looking for help with **A.I and Machine Learning**
+
+- 👨‍💻 All of my projects are available at [https://github.com/iggcdev](https://github.com/iggcdev)
+
+- 💬 Ask me about **python**
+
+- 📫 How to reach me **iggcdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
