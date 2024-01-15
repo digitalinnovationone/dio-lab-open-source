@@ -9,7 +9,7 @@ não foram documentados no git, então estou trabalhando em um portifolio pessoa
 
 ### 📌 Projetos em Destaque
 
-[![dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source)](https://github.com/paipel/dio-lab-open-source)
+[dio-lab-open-source](https://github.com/paipel/dio-lab-open-source)
 
 ### 🚀 Linguagens Mais Usadas
 
