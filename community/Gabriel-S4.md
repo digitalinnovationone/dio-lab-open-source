@@ -14,5 +14,4 @@
 
 📌 → Tenho um grande conhecimento de Edição de vídeo e Edição de imagens. Atualmente aprendendo Javascript, porém tenho um grande interesse em aumentar meus conhecimentos sobre desenvolvimento de software. 
 
-![image](https://github.com/Gabriel-S4/dio-lab-open-source/assets/155675504/83e564db-66d4-4959-a4ef-e88f47023359)
-
+![java script](https://github.com/Gabriel-S4/dio-lab-open-source/assets/155675504/c96dd9ea-dd17-46d0-a21e-85b397d00f40)
