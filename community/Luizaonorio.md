@@ -1,16 +1,13 @@
 # Luiza Onorio
-
+#### Luiza Duarte Onorio, atualmente cursando Sistemas de informação, pela Universidade do Sul de Santa Catarina - UniSul e com formação prevista para Março de 2025.
+&nbsp;
+&nbsp;
 
 ## 🙋 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/adonis-trindade-jr/)
 [![e-mail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook)](mailto:luiza.onorio@hotmail.com)
 
-
-
-## 🔎 Sobre
-
-#### Luiza Duarte Onorio, atualmente cursando Sistemas de informação, pela Universidade do Sul de Santa Catarina - UniSul e com formação prevista para Março de 2025.
-
+&nbsp;
 
 ## 📗 Habilidades
 
@@ -23,8 +20,10 @@
 ![Git](https://img.shields.io/badge/Git%20-000?style=for-the-badge&logo=git&logoColor=E94D5F) 
 ![GitHub](https://img.shields.io/badge/GitHub%20-000?style=for-the-badge&logo=github&logoColor=30A3DC)
 
+&nbsp;
+
 
 ## 🚀 Certificações
 
-#### AWS Cloud Practitioner - até 2026
+#### AWS Cloud Practitioner - até 2026.
 
