@@ -1,6 +1,6 @@
-### Olá, meu nome é Gustavo 👾
+### 👾 Hello, meu nome é Jairo Rozan
 
-🌱 Desenvolvedor Web 
+Desenvolvedor Web e Games
 
 
 ![zrozan GitHub stats](https://github-readme-stats.vercel.app/api?username=zrozan&show_icons=true&theme=dark)
