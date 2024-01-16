@@ -1,7 +1,7 @@
 <h1>✨I'm Esther de Freitas✨</h1>
 <div><img width="100%"src="https://github.com/andreasbm/readme/blob/master/assets/line.png"/></div>
 
-<img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Festherdefreitas&label=Visitantes%20 HOJE &labelColor=%235b187e&countColor=%235b187e&labelStyle=upper" />
+![Visitors](https://api.visitorbadge.io/api/visitors?path=estherdefreitas&labelColor=%23563d7c&countColor=%23fe428e)
 
 <table  width="100%">
   <tr>
