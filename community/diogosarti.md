@@ -1,4 +1,4 @@
-# Olá, eu sou Everton Vinicius, tudo bem?
+# Olá, eu sou Diogo Sarti, tudo bem?
 
 Sou um programador apaixonado com uma habilidade inata para resolver problemas complexos. Minha jornada na programação começou em 2020, quando destaquei-me ao desenvolver um aplicativo em React Native no ensino médio. Tenho experiência em várias linguagens e sou um líder de equipe natural, motivando e inspirando meus colegas em projetos acadêmicos.
 
