@@ -12,7 +12,7 @@ Estes são os meus primeiros passos com git/GITHUB.
 
 
 # Habilidades
-### IDE/Linguagens/Plataformas
+### IDE/Linguagem/Plataforma
 
 >[**Visual Studio**](https://visualstudio.microsoft.com/pt-br/)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -46,4 +46,5 @@ Estes são os meus primeiros passos com git/GITHUB.
 
 # Minhas contribuições
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CrislayneSoares&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/credy/SEUREPOSITORIO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CrislayneSoares&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/credyf/dio-lab-open-source/tree/main)
+
