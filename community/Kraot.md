@@ -1,11 +1,11 @@
 # 💾Matheus Alves Ribeiro / Kraot 🎮
 
 
-Estou a procura de crescimento
+Estou à procura de crescimento
 profissional e efetivação no
 mercado de tecnologia.
-Formado em engenharia de
-software e atualmente estou cursando um Pos-Graduação em Data Science e Analytics. No meu tempo livre gosto de passar o tempo jogando meu jogos na steam e outras plataformas. Um sonho que tenho no futuro é fazer meus propios jogos!
+Formado em Engenharia de
+Software e atualmente estou cursando um Pos-Graduação em Data Science e Analytics. No meu tempo livre gosto de passar o tempo jogando na steam e outras plataformas. Um sonho que tenho no futuro é fazer meus proprios jogos!
 ## Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Perfil%20%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/kraot07?tab=achievements)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-alves-ribeiro/)
