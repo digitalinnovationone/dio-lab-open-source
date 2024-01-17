@@ -82,7 +82,7 @@ Aprender o básico sobre contribuição no GitHub.
 5. Dentro da pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
     > Exemplo: `rafaeldscordeiro.md` <br>
 6. Desenvolva o seu perfil. Para isso, você pode ver exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils);
-    > **Observação:** Use os outros exemplos como inspiração e não cópia.
+    > **Observação:** Use os outros exemplos como inspiração e não cópia. DDDDDDDDD
 7. Adicione suas alterações a "staging area" com o comando `git add community/SEU_USERNAME.md`;
 8. Crie um commit e adicione a mensagem indicando a adição do seu perfil `git commit -m"feat: add SEU_USERNAME profile"`;
 9. Envie as alterações para o seu repositório remoto `git push origin feat/community/SEU_USERNAME`; 
