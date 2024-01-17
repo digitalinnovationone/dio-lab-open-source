@@ -5,7 +5,7 @@
 </div>
 
 ##
-#### 👩🏼‍🔬 Computer Scientist
+### 👩🏼‍🔬 Computer Scientist
 #### 💻 I’m currently working in Accenture with Back-end Java Senior
 #### 💻 In my free time, I write Python code for predictive models. 
 <p align="center">
