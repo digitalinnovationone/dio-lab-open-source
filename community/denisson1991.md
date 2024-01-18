@@ -1,4 +1,4 @@
-#### Olá Mundo! Pode me chamar de Denis <img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/man-technologist.gif" width="30" style="vertical-align: middle;">
+#### Olá Mundo! Pode me chamar de Denis  <img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/man-technologist.gif" width="30" style="vertical-align: middle;">
 
 Desenvolvedor Full Stack cursando Análise e Desenvolvimento de Sistemas na Estácio de Sá, apaixonado por resolver problemas!
 
