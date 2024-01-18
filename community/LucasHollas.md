@@ -1,6 +1,5 @@
 <div align="center">
 <h1>Hello there :vulcan_salute: I'm Lucas Hollas de Cairos, software developer and specialist in software engineering. Welcome to my profile!</h1>
- 
 <table>
   <tr>
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucashollas&theme=tokyonight"/></td>
