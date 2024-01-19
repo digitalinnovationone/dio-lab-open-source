@@ -1,24 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-<div class="container" style="text-align: center">
-<h1 style="font-size: 3em;margin-bottom: 20px;">Gabriel D'angelo</h1>
-<div class="menu">
-<ul style="list-style-type:none; display:flex;">
-<li><a href="#sobremim">Sobre mim</a></li>
-<li><a href="#contato">Contato</a></li>
-<li><a href="#estatisticas">Estatísticas</a></li>
-<li><a href="#linguagens">Competências</a></li>
-<li><a href="#estudando">Estou estudando</a></li>
-<li><a href="#projetos">Projetos</a></li>
-<li><a href="#extra">Extra</a></li>
-</ul>
-</div>
-</div>
 
-</body>
-</html>
+# Gabriel D'angelo
+- [Sobre mim](#sobre-mim) &nbsp; &nbsp; &nbsp; &nbsp; - [Contato](#contato) &nbsp; &nbsp; &nbsp; &nbsp; - [Estatísticas](#estatisticas) &nbsp; &nbsp; &nbsp; &nbsp; - [Competências](#competencias) &nbsp; &nbsp; &nbsp; &nbsp; - [Estou estudando](#estou-estudando) &nbsp; &nbsp; &nbsp; &nbsp; - [Projetos](#projetos) &nbsp; &nbsp; &nbsp; &nbsp; - [Extra](#extra)
