@@ -8,7 +8,7 @@
 <div class="container" style="text-align: center">
 <h1 style="font-size: 3em;margin-bottom: 20px;">Gabriel D'angelo</h1>
 <div class="menu">
-<ul style="display= flex; flex-wrap: wrap;flex-direction: row">
+<ul style="list-style-type:none; display:flex;">
 <li><a href="#sobremim">Sobre mim</a></li>
 <li><a href="#contato">Contato</a></li>
 <li><a href="#estatisticas">Estatísticas</a></li>
