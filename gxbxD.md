@@ -4,11 +4,11 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<body style="background: linear-gradient(to right, #6600cc, #ff99cc);color: #fff;font-family: 'Arial', sans-serif;margin: 0;padding: 0;display: flex;align-items: center;justify-content: center;height: 100vh;">
+<body>
 <div class="container" style="text-align: center">
 <h1 style="font-size: 3em;margin-bottom: 20px;">Gabriel D'angelo</h1>
 <div class="menu">
-<ul>
+<ul style="display= flex; flex-wrap: wrap;flex-direction: row">
 <li><a href="#sobremim">Sobre mim</a></li>
 <li><a href="#contato">Contato</a></li>
 <li><a href="#estatisticas">Estatísticas</a></li>
