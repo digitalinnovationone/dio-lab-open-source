@@ -2,7 +2,7 @@
 name: Bug report
 about: Crie um relatório para nos ajudar a melhorar
 title: "[BUG]"
-labels: bug, good first issue
+labels: bug, Community challenge
 assignees: ''
 
 ---
