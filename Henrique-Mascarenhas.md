@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Henrique Mascarenhas
+- 👀 I’m interested in learning javascript
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me Discord: mascalica#1413
+- 😄 Pronouns: they/them
+- ⚡ Fun fact: im learning how to program
