@@ -9,7 +9,7 @@ Olá, sou Tecnologo em Analise e Desenvolvimento de Sistemas. Atualmente, trabal
 ### Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/neemias-braga-6731901a6/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:neemiassanto217@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:neberson70@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/Nemobraga)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/neemiasbraga81?tab=skills&page=1)
 
@@ -26,16 +26,15 @@ Olá, sou Tecnologo em Analise e Desenvolvimento de Sistemas. Atualmente, trabal
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nemobraga&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nemobraga&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NEMOBRAGA&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NEMOBRAGA&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Minhas contribuições
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Nemobraga&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Nemobraga/dio-lab-open-source)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/neberson/dio-lab-open-source)
 
 # Repositórios:
 
-[![Repo Site de Eventos GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Nemobraga&repo=Site-de-Eventos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Nemobraga/Site-de-Eventos)
+[![Repo TIO GitHub](https://github-readme-stats.vercel.app/api/pin/?username=nemobraga&repo=Site-de-Eventos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Nemobraga/Site-de-Eventos)
 
-[![Repo curso laravel10 GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Nemobraga&repo=cursoLaravel10&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Nemobraga/cursoLaravel10)
-
+[![Repo celulas_vide GitHub](https://github-readme-stats.vercel.app/api/pin/?username=nemobraga&repo=cursoLaravel10&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Nemobraga/cursoLaravel10)
