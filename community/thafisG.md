@@ -1,14 +1,20 @@
 
 # Oi pessoal, meu nome é Thais Fernanda 😊
 
-Minha historia com a programação se iniciou desde pequena, o qual sempre fui apaixonada por robos. Quando entrei no ensino medio me inseri no mundo dos jogos digitais e aprendi sobre arduino, foi uma experiencia fantastica saber como o arduino pode falicitar a criação de diversas coisas. Ao me inserir nesse mundo tecnologico, aprendi durante meu ensino medio a linguagem C# e Unity. Assim que sai do ensino medio, ingressei na faculdade no curso de Gestão da Informação, tendo como visão me inserir no universo dos dados e da Informação, e assim poder criar coisas fantasticas.
+Sempre fui uma criança curiosa e fascinada pelo mundo da tecnologia. Ainda pequena tive robótica na escola, onde construía robôs com LEGO e achava muito massa como algo simples podia impactar em coisas grandiosas.
+
+No meu ensino médio, ingressei no Técnico em Programação de Jogos Digitais e me introduzir no mundo tecnológico. Tive a oportunidade de conhecer coisas além do curso técnico, como Arduino e um pouco de Robótica. O que me fez aprimorar minhas habilidades em programação e minha criatividade.
+
+Atualmente, sou estudante de Gestão da Informação na UFPE, onde trilho meu caminho para área de Ciência de Dados e Analise de Dados. Ao longo do meu percurso acadêmico, participei ativamente de diversos eventos e realizei diversos projetos, onde pude aprimorar minhas habilidades em C#, Python e SQL.
+
+Estou sempre em busca de desafios novos e oportunidades para aplicar meu conhecimento técnico e criatividade. Amo explorar como a inovação no campo da tecnologia e dados pode impulsionar diversas coisas!
 
 ## Objetivo 🎯
 Crescer dentro do mundo tecnologico e trabalhar na area de analise ou ciência de dados.
 
 ## Conecte-se comigo
 
-[![Link do Lab](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/thais-guedes-7a69b027b/)
+[![Link do linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/thais-guedes-7a69b027b/)
 
 ## Habilidades 🛠️
 - C# 
@@ -18,3 +24,4 @@ Crescer dentro do mundo tecnologico e trabalhar na area de analise ou ciência d
 - Bot Boos
 - SQL
 - Java (Básico)
+- Excel
