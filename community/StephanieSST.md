@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Meow+Script&size=24&duration=3500&pause=200&color=800080&background=FFFEFB00&center=true&vCenter=true&multiline=true&random=false&width=435&height=80&lines=Ol%C3%A1%2C+Mundo!;Meu+nome+%C3%A9+Stephanie!)](https://git.io/typing-svg)
 
-#### Tenho 24 anos, estou começando na área de programação. Atualmente trabalho como tripulante em navios de cruzeiro. Meus principais hobbies são: assistir filmes, séries e viajar/passear.
+#### *Tenho 24 anos, estou começando na área de programação. Atualmente trabalho como tripulante em navios de cruzeiro. Meus principais hobbies são: assistir filmes, séries e viajar/passear.*
 🎬🎶⚓	✈❄🌧
 
 ![Gif resolvendo um cubo mágico.](https://www.blog.oncube.com.br/wp-content/uploads/2022/02/cubogif.gif)
