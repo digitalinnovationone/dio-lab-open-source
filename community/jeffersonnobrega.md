@@ -12,7 +12,7 @@ Access **my presentation <a href="https://jeffersonnobrega.github.io/meusite/">p
 Please, visit **my <a href="https://github.com/jeffersonnobrega/guilda_dev">guilda**</a> to see my study projects.
           
 **Working:**
-- 🔭 Currently I work at BRB Serviços SA as a Computer Network Support Technician
+- 🔭 I currently work at BRB Serviços SA as a Computer Network Analyst.
 
 **Contact:**
 
