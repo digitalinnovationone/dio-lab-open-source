@@ -1,4 +1,5 @@
-# Thiago Marques™[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=A3324F&width=435&lines=Front-end+Developer+and+Motion+Designer+⚡)](https://git.io/typing-svg)
+# Thiago Marques™
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=A3324F&width=435&lines=Front-end+Developer+and+Motion+Designer+⚡)](https://git.io/typing-svg)
 
 Estou na área de criação desde 2005. Em 2014 me formei em Comunicação Visual e, desde então, desenvolvo projetos como designer gráfico para empresas de grande e pequeno porte. De acordo com o pedido do cliente, utilizo técnicas e soluções criativas para mostrar o valor da marca e alcançar o objetivo desejado.
 
@@ -28,7 +29,7 @@ CONECTE-SE COMIGO E SEJAM BEM-VINDOS!
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 # Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagomarques-dev&repo=dio-lab-open-source&bg_color=000&border_color=A3324F&show_icons=true&icon_color=A3324F&title_color=A3324F&text_color=FFF)](https://github.com/thiagomarques-dev/dio-lab-open-source)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=thiagomarques-dev&theme=bear&background=black&border=A3324F&dates=white)](https://git.io/streak-stats)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagomarques-dev&repo=dio-lab-open-source&bg_color=000&border_color=A3324F&show_icons=true&icon_color=A3324F&title_color=A3324F&text_color=FFF)](https://github.com/thiagomarques-dev/dio-lab-open-source)
 ___
 Thiago Marques™ - 2024 © Todos os direitos reservados.
