@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning DS/ML/AI 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Creating an useable ML model
-- ⚡ Fun fact: I always try to learn everything
+- ⚡ Fun fact: I always try to learn everything.
 
 ### Connect with me:
 
