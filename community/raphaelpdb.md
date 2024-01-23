@@ -6,3 +6,5 @@ Desafio DIO Lab Open Source
 - Adicionar arquivo em community com [username].md
 - Merge na brqnch main
 - Pull request no upstream
+
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
