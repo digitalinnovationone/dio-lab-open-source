@@ -1,7 +1,7 @@
 
-# Gabriel M Pires
+# Tairo Forbat Araujo  
 
-Estudante de Ciências da Computação, buscando me desenvolver.
+Analista de Sistemas 
 
 ### Conecte-se comigo
 
