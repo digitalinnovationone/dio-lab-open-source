@@ -1,7 +1,7 @@
 # Loohxy
 
 # Sobre mim
-Sou uma entusiasta da Programação, e estou adquirindo conhecimentos sólidos durante meu curso de Análise e Desenvolvimentos de Sistemas na Uninter. Embora eu ainda não tenha experiência profissional na área, estou extremamente motivada a ingressar no mercado de trabalho e contribuir para projetos desafiadores.
+Sou uma entusiasta da Programação, e estou adquirindo conhecimentos sólidos durante meu curso de Análise e Desenvolvimentos de Sistemas na Uninter. Embora eu ainda não tenha experiência profissional na área, estou extremamente motivada a ingressar no mercado de trabalho e contribuir para projetos desafiadores, me especializando cada vez mais!
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorena-carvalho-1a8aa2262/) 
