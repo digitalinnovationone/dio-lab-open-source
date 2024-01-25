@@ -1,5 +1,5 @@
 
-# Olá! <img align="center" width="7%" src="https://media4.giphy.com/media/iJsjsm6dhNPiQBvztq/200w.webp?cid=ecf05e47jc19wtj5p47ikodhz42fdlyiii8psf7699hrlpp6&ep=v1_stickers_search&rid=200w.webp&ct=s" />
+# Olá! 👋 <img align="center" width="7%" src="https://media4.giphy.com/media/iJsjsm6dhNPiQBvztq/200w.webp?cid=ecf05e47jc19wtj5p47ikodhz42fdlyiii8psf7699hrlpp6&ep=v1_stickers_search&rid=200w.webp&ct=s" />
 
 Sou Igor Ramos (Ele/Dele), e aos 27 anos, estou imerso em uma desfiadora jornada na programação. Iniciei minha trajetória em 2014, codando em Python e posteriormente explorando o desenvolvimento para web com HTML, CSS e Javascript, a possibilidade de criar qualquer coisa transformou a curiosidade em paixão.
 
