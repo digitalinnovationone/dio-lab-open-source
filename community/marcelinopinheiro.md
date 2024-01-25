@@ -1,6 +1,6 @@
 # Marcelino Pinheiro
     
-I'm Marcelino, a tech enthusiast who is dedicated to back-end development, web applications, machine learning, and data science. 
+I'm Marcelino, a tech enthusiast who is dedicated to back-end development, web applications, machine learning and data science. 
     
 I have experience in Java and Python, and you can check out my projects and contributions in my portfolio. 
     
