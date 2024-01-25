@@ -1,6 +1,6 @@
 # Olá Mundo! Pode me chamar de Assassino <img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/man-technologist.gif" width="30" style="vertical-align: middle;">
 
-Futuro Desenvolvedor Full Stack, apaixonado por resolver problemas!
+Futuro Desenvolvedor Full Stack, apaixonado por resolver problemas!!
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Farthurgalanti"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FRafaelAugusto33&label=Visitantes%20(HOJE%2FTotal)&labelColor=%235b187e&countColor=%235b187e&labelStyle=upper" /></a>
 
