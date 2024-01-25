@@ -83,7 +83,7 @@ Aprender o básico sobre contribuição no GitHub.
     > Exemplo: `rafaeldscordeiro.md` <br>
 6. Desenvolva o seu perfil. Para isso, você pode ver exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils);
     > **Observação:** Use os outros exemplos como inspiração e não cópia.
-7. Adicione suas alterações a "staging area" com o comando `git add community/SEU_USERNAME.md`.;
+7. Adicione suas alterações a "staging area" com o comando `git add community/SEU_USERNAME.md`;
 8. Crie um commit e adicione a mensagem indicando a adição do seu perfil `git commit -m"feat: add SEU_USERNAME profile"`;
 9. Envie as alterações para o seu repositório remoto `git push origin feat/community/SEU_USERNAME`; 
 10. Crie um **Pull Request**.
@@ -110,7 +110,7 @@ Aprender o básico sobre contribuição no GitHub.
 3. Añade el remote upstream para mantener tu repositorio local actualizado. Por ejemplo: `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git`;
     > Usa el comando `git pull upstream main` para descargar y fusionar los cambios en tu repositorio local basado en la rama `main` de este repositorio original del cual hiciste el fork, o `git fetch upstream main` para descargar sin fusionar. Aprende más en: [Primeros Pasos con Git y GitHub](https://github.com/digitalinnovationone/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
 4. Crea/Referencia una nueva **branch** y nómbrala `feat/community/TU_USERNAME`: `git checkout -b feat/community/TU_USERNAME`;
-    > Ejemplo: `git checkout -b feat/community/rafaeldscordeiro`git checkout -b feat/community/robert.silva
+    > Ejemplo: `git checkout -b feat/community/rafaeldscordeiro`
 5. Dentro de la carpeta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crea un archivo en Markdown (extensión `.md`) y nómbralo con el mismo nombre de tu usuario en GitHub;
     > Ejemplo: `rafaeldscordeiro.md` <br>
 6. Desarrolla tu perfil. Para eso, puedes ver ejemplos en la carpeta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) y añadir algunas de las utilidades presentes en la carpeta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils);
