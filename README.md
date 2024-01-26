@@ -13,7 +13,7 @@ Repositório desenvolvido para fins didáticos, com a disponibilização de mate
 Aprender o básico sobre contribuição no GitHub.
 
 ## Objetivo de Marcos 😁
-Conseguir aprender e me desenvolver em tecnologia, sendo esse projeto uns dos meus inícios
+Conseguir aprender e me desenvolver em tecnologia, sendo esse projeto uns dos meus inícios.
 
 ## Ferramentas 🛠️
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
