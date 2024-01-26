@@ -1,8 +1,9 @@
-# guedes11
+# Guedes11
 Olá,  meu nome é Kevem e estou iniciando minha jornada como Desenvolvedor de Software.
 
 ## Conecte-se Comigo
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kevem11/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevem-guedes-1243aa181/)
 
 ## Habilidades
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
