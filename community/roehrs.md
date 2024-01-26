@@ -51,9 +51,11 @@ Aprender o básico sobre contribuição no GitHub.
 
 <!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors?repo_id=34526884&limit=30" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors?repo_id=632909818&limit=30" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=34526884&limit=30&image_size=auto&color_scheme=dark" width="655" height="auto">
-    <img alt="Active Contributors of ant-design/ant-design - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=34526884&limit=30&image_size=auto&color_scheme=light" width="655" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=632909818&limit=30&image_size=auto&color_scheme=dark" width="655" height="auto">
+    <img alt="Active Contributors of digitalinnovationone/dio-lab-open-source - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=632909818&limit=30&image_size=auto&color_scheme=light" width="655" height="auto">
   </picture>
 </a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
