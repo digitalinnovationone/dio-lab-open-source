@@ -39,5 +39,3 @@ I'm Currently in the process of learning more about those technologies and creat
 ## On Github 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmanso28&theme=transparent&bg_color=000&border_color=EDB508&show_icons=true&icon_color=EDB508&title_color=a143fa&text_color=FFF)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pmanso28&bg_color=000&border_color=EDB508&title_color=a143fa&text_color=FFF)
