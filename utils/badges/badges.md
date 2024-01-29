@@ -45,7 +45,7 @@
         <img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
       </td>
       <td>
-        <code>[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://https://discord.com/channels/@SEUUSERNAME/)</code>
+        <code>[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@SEUUSERNAME/)</code>
       </td>
     </tr>
     <tr>
