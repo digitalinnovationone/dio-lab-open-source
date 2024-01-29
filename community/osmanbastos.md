@@ -3,11 +3,11 @@
 # Hi, I'm Osman Bastos.
 
 ### About me:
-<div>
+
     - Full-stack developer, student of Systems Analysis and Development at Universidade Estácio de Sá. Certificate in Agile culture and User Experience by FIAP, in People Management by SEBRAE.
 
     - I'm a fan of technology and geek culture. I have good communication, good interpersonal relationships, responsibility and leadership spirit. I have a passion for acquiring and sharing knowledge and I seek new experiences in the area of information technology.
-</div>
+
 ### Languages:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
