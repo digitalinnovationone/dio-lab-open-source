@@ -120,6 +120,22 @@ Aprender o básico sobre contribuição no GitHub.
 9. Envía los cambios a tu repositorio remoto `git push origin feat/community/TU_USERNAME`;
 10. Crea un **Pull Request**.
 
+## Anweisungen (DE)
+1. Erstellen Sie eine Fork dieses Repositories;
+2. Klonen Sie lokal: `git clone https://github.com/DEIN_BENUTZERNAME/dio-lab-open-source.git`;
+3. Fügen Sie den Upstream-Remote hinzu, um Ihr lokales Repository aktualisiert zu halten. Zum Beispiel: `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git`;
+    > Verwenden Sie den Befehl git pull upstream main, um Änderungen herunterzuladen und mit Ihrer lokalen Repository-Version basierend auf dem main-Branch dieses ursprünglichen Repositories zu verschmelzen, oder git fetch upstream main, um herunterzuladen, ohne zu verschmelzen. Siehe mehr unter: [Erste Schritte mit Git und GitHub](https://github.com/digitalinnovationone/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
+4. Erstellen/Referenzieren Sie einen neuen Branch und benennen Sie ihn als `feat/community/DEIN_BENUTZERNAME`: `git checkout -b feat/community/DEIN_BENUTZERNAME`;
+    > Beispiel: `git checkout -b feat/community/iamguinther`
+5. Innerhalb des Ordners [community](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) erstellen Sie eine Markdown-Datei (Erweiterung `.md`) und benennen Sie sie mit dem gleichen Namen wie Ihr GitHub-Benutzer;
+    > Beispiel: `iamguinther.md` <br>
+6. Entwickeln Sie Ihr Profil. Dazu können Sie Beispiele im Ordner [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) ansehen und einige der Hilfsprogramme aus dem Ordner [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) hinzufügen;
+    > **Hinweis:** Verwenden Sie die anderen Beispiele als Inspiration und nicht als Kopie.
+7. Fügen Sie Ihre Änderungen der "staging area" mit dem Befehl `git add community/DEIN_BENUTZERNAME.md` hinzu;
+8. Erstellen Sie einen Commit und fügen Sie die Nachricht hinzu, die darauf hinweist, dass Ihr Profil hinzugefügt wurde: `git commit -m"feat: add DEIN_BENUTZERNAME profile"`;
+9. Senden Sie die Änderungen an Ihr Remote-Repository: `git push origin feat/community/DEIN_BENUTZERNAME`;
+10. Erstellen Sie eine Pull Request.
+
 ### Utilitários
 
 [![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
