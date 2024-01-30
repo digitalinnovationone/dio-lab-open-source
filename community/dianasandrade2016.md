@@ -20,7 +20,6 @@ Olá! Meu nome é Diana, formada em Ciência da Computação e estudante de Mate
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 ## Github Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dianaandrade&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dianasandrade2016&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## Minhas Contribuições
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dianaandrade&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dianasandrade2016&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
