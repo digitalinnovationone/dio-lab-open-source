@@ -3,12 +3,9 @@
 Olá! Meu nome é Diana, formada em Ciência da Computação e estudante de Matemática Computacional, amo tecnologia!. Atualmente FrontEnd e BackEnd é o meu foco, desenvolvimento web, planejo posteriormente seguir para as áreas de Data Science.
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/SEUUSERNAME)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/DDI+DDD+SEU_NUMERO_WHATSAPP)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/SEUUSERNAME)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:SEUEMAIL)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/21987790327)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dianasandrade2016)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:dianasandrade@hotmail.com)
 
 ## Habilidades
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
@@ -23,7 +20,7 @@ Olá! Meu nome é Diana, formada em Ciência da Computação e estudante de Mate
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 ## Github Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dianaandrade&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Minhas Contribuições
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dianaandrade&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
