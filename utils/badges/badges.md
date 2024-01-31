@@ -45,7 +45,7 @@
         <img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
       </td>
       <td>
-        <code>[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://https://discord.com/channels/@SEUUSERNAME/)</code>
+        <code>[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@SEUUSERNAME/)</code>
       </td>
     </tr>
     <tr>
@@ -389,6 +389,15 @@
       </td>
     </tr>
     <tr>
+      <tr>
+      <td>
+        <img align="center" alt="AdonisJS" src="https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white">
+      </td>
+      <td>
+        <code>![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)</code>
+      </td>
+    </tr>
+    <tr>
       <td>
         <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
       </td>
@@ -561,6 +570,14 @@
       </td>
       <td>
         <code>![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)</code>
+      </td>
+    </tr>
+     <tr>
+      <td>
+        <img align="center" alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+      </td>
+      <td>
+        <code>![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</code>
       </td>
     </tr>
   </tbody>
