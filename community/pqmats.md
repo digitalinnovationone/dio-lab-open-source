@@ -1,5 +1,5 @@
 # Matt
-Heeey! Meu nome é Matheus de Souza, sou UI/UX Designer e Bacharel em Sistemas de Informação
+Heeey! Meu nome é Matheus de Souza, sou UI/UX Designer e Bacharel em Sistemas de Informação!
 
 ## Vamos nos conectar
 [LinkedIn](https://www.linkedin.com/in/matheus-de-souza-francisco/)
