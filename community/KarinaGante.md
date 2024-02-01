@@ -7,7 +7,7 @@ Apaixonada por música, jogos, tecnologia e aprender!
 <br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-737?style=for-the-badge&logo=linkedin&logoColor=dbb315)](https://www.linkedin.com/in/karina-gante/)
 [![Instagram](https://img.shields.io/badge/Instagram-dbb315?style=for-the-badge&logo=instagram&logoColor=737)](https://www.instagram.com/in/karinovisk02/)
 [![GitHub](https://img.shields.io/badge/GitHub-737373?style=for-the-badge&logo=github&logoColor=dbb315)](https://www.github.com/in/KarinaGante/)
-[![E-mail](https://img.shields.io/badge/-Email-737?style=for-the-badge&logo=microsoft-outlook&logoColor=dbb315)](mailto:SEUEMAIL)<br>
+[![E-mail](https://img.shields.io/badge/-Email-737?style=for-the-badge&logo=microsoft-outlook&logoColor=dbb315)](mailto:karina.g@aluno.ifsp.edu.br)<br>
 
 ## 📁 Esse é o meu portfólio:
 <br>[![Portfolio](https://img.shields.io/badge/Portfolio-dbb315?style=for-the-badge&logo=todoist&logoColor=737)](https://karinagante.github.io/index.html)
