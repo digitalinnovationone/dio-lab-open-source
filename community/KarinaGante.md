@@ -15,4 +15,4 @@ Apaixonada por música, jogos, tecnologia e aprender!
 
 <br>
 
-<center>Feito com 💜 por Karina.</center>
+<center> Feito com 💜 por Karina.</center>
