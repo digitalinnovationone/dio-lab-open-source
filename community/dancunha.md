@@ -4,7 +4,7 @@ Possuo mais de 10 anos de experiência na área de desenvolvimento de software, 
 
  🔹 Tenho grande interesse na área de desenvolvimento, principalmente Backend. 📊
 
-🔹 Gosto de programar, pensar em soluções para problemas. 🖥️+🗂️
+ 🔹 Gosto de programar, pensar em soluções para problemas. 🖥️+🗂️
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dancunha&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
