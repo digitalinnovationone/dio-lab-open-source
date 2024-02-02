@@ -1,4 +1,4 @@
-# Olá! Eu sou Daniel Cunha ✌️
+# Olá! Eu sou Daniel Cunha
 
 Possuo mais de 10 anos de experiência na área de desenvolvimento de software, pos-graduação em Desenvolvimento Web
 
