@@ -2,7 +2,7 @@
 
 * 👩🏽 Meu nome é **Camila da Silva**
 
-* 🌱 Futura **desenvolvedora front end** e autodidata que ama aprender sobre tecnologia, e sedenta de evolução constante
+* 🌱 Futura **desenvolvedora front end** e autodidata que ama aprender sobre tecnologia, e obistinada por evolução constante
 
 * 🤔 Também tenho interese em cursar **Análise e desenvolvimento de sistemas** e **Inteligencia Artificial**
 
