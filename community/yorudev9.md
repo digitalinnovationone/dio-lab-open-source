@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=venom&color=A2D2FF3f&height=120&section=header&text=Larissa+Alves&fontSize=40&fontColor=ff8fab&fontAlignY=50&"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&color=A2D2FF3f&height=120&section=header&text=Larissa+Alves&fontSize=45&fontColor=ff8fab&fontAlignY=50&"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-Vindo!+=%29;Hi,+Welcome!+=%29;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=25&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-Vindo!+=%29;Hi,+Welcome!+=%29;)](https://git.io/typing-svg)
 ##
 <h3>Sobre</h3>
 <ul>
