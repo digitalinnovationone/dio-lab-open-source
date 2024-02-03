@@ -120,6 +120,22 @@ Aprender o básico sobre contribuição no GitHub.
 9. Envía los cambios a tu repositorio remoto `git push origin feat/community/TU_USERNAME`;
 10. Crea un **Pull Request**.
 
+### Instructions (FR/FR)
+1. Effectuez un Fork de ce référentiel;
+2. Clonez localement: `git clone https://github.com/TU_USERNAME/dio-lab-open-source.git`;
+3. Ajoutez le remote upstream pour maintenir votre référentiel local à jour. Par exemple: `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git`;
+    > Utilisez la commande `git pull upstream main` pour télécharger et fusionner les changements dans votre référentiel local basé sur la branche `main` de ce référentiel original à partir duquel vous avez forké, ou `git fetch upstream main`  pour télécharger sans fusionner. En savoir plus sur: [Primeros Pasos con Git y GitHub](https://github.com/digitalinnovationone/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
+4. Créez/Référencez une nouvelle **branch** et nommez-la `feat/community/TU_USERNAME`: `git checkout -b feat/community/TU_USERNAME`;
+    > Exemple : `git checkout -b feat/community/rafaeldscordeiro`
+5. À l'intérieur du dossier [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), créez un fichier en Markdown (extension .md) et nommez-le avec le même nom que votre utilisateur GitHub;
+    > Exemple : `rafaeldscordeiro.md` <br>
+6. Développez votre profil. Pour ce faire, vous pouvez consulter des exemples dans le dossier [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) et ajouter certaines des fonctionnalités présentes dans le dossier [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils);
+    > **Remarque:** Utilisez les autres exemples comme source d'inspiration et non comme copie.
+7. Ajoutez vos modifications à la "zone de préparation" avec la command `git add community/TU_USERNAME.md`;
+8. Créez un commit et ajoutez un message indiquant l'ajout de votre profil `git commit -m"feat: add TU_USERNAME profile"`;
+9. Envoyez les changements vers votre référentiel distant `git push origin feat/community/TU_USERNAME`;
+10. Créez une **Pull Request**.
+
 ### Utilitários
 
 [![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
@@ -139,6 +155,42 @@ Aprender o básico sobre contribuição no GitHub.
 ⚠️ Resolvendo, respondendo ou indicando **issues**
 
 ⭐ Adicionando aos favoritos (**star**) 
+
+## Contribute (EN/US)
+[![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/stargazers)
+[![Forks](https://img.shields.io/github/forks/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/forks)
+[![GitHub Issues](https://img.shields.io/github/issues/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/issues/)
+
+This is a project created for the community, so feel free to contribute. Besides your Profile README example, there are various ways to contribute, such as adding other utilities to the [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils), folder or enhancing the README search page by making modifications to the files in the [`docs`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/docs). <br>
+ Additionally, you can contribute by:
+
+⚠️ Resolving, responding to, or indicating **issues**
+
+⭐ Adding to favorites (**star**) 
+
+## Contribuir (ES/ES)
+[![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/stargazers)
+[![Forks](https://img.shields.io/github/forks/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/forks)
+[![GitHub Issues](https://img.shields.io/github/issues/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/issues/)
+
+Este es un proyecto creado para la comunidad, así que siéntete libre de contribuir. Además de tu ejemplo de Profile README, hay varias formas de contribuir, como agregar otros utilitarios a la carpeta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils), o mejorar la página de búsqueda de READMEs haciendo modificaciones en los archivos de la carpeta [`docs`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/docs). <br>
+ Además, también puedes contribuir:
+
+⚠️ Resolviendo, respondiendo o indicando **issues**
+
+⭐ Agregando a favoritos (**star**) 
+
+## Contribuez (FR/FR)
+[![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/stargazers)
+[![Forks](https://img.shields.io/github/forks/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/forks)
+[![GitHub Issues](https://img.shields.io/github/issues/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/issues/)
+
+Ce projet est créé pour la communauté, alors n'hésitez pas à contribuer. En plus de votre exemple de Profile README, vous pouvez contribuer de plusieurs manières, telles que l'ajout d'autres utilitaires dans le dossier [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils), ou en améliorant la page de recherche des README en modifiant les fichiers dans le dossier [`docs`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/docs). <br>
+ De plus, vous pouvez également contribuer en :
+
+⚠️ Résolvant, répondant ou signalant des **issues**
+
+⭐ Ajoutant aux favoris (**star**) 
 
 ### Membros da comunidade que já contribuiram:
 <a href="https://github.com/elidianaandrade/dio-lab-open-source/graphs/contributors">
