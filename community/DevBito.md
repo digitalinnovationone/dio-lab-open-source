@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-a837921a3/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevBito)
 
-Opa! Me chamo Gabriel, sou estudante de Analise e Desenvolvimento de Sistemas!
+Opa! Me chamo Gabriel, sou estudante de Analise e Desenvolvimento de Sistemas! 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DevBito&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
