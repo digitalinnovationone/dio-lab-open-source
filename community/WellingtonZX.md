@@ -1,5 +1,5 @@
 # Wellington Santos
-Olá! Eu sou o Wellington e ajudo 
+Olá! Eu sou o Wellington Santos.
 
 ## Conecte-se comigo
 
