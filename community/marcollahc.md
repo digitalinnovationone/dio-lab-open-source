@@ -3,14 +3,14 @@
 Analista e desenvolvedor de sistemas na [Rede Drogal](https://www.drogal.com.br) e graduando em análise e desenvolvimento de sistemas pela UNICAMP.
 
 🏢 **Carreira profissional**
-- 💊 Atualmente trabalho como analista e desenvolvedor de sistemas na Rede Drogal
-- 💥 Trabalhei como analista e desenvolvedor de sistemas na KaBuM!
-- 💻 Trabalhei como analista e desenvolvedor de sistemas na EverNET!
+- 💊 Atualmente trabalho como analista e desenvolvedor de sistemas na [Rede Drogal](https://www.drogal.com.br)
+- 💥 Trabalhei como analista e desenvolvedor de sistemas na [KaBuM!](https://www.kabum.com.br)
+- 💻 Trabalhei como analista e desenvolvedor de sistemas na [EverNET](https://www.evernet.com.br)
 
 🎓 **Formação acadêmica**
-- 📖 Graduando em Análise e desenvolvimento de sistemas pela UNICAMP [UNICAMP](https://www.ft.unicamp.br/)
-- 📢 Graduado em Publicidade e Propaganda pela Anhanguera [Anhanguera](https://www.anhanguera.com/)
-- 💻 Formado em técnico em informática pelo SENAC [SENAC](https://www.sp.senac.br/)
+- 📖 Graduando em Análise e desenvolvimento de sistemas pela [UNICAMP](https://www.ft.unicamp.br/)
+- 📢 Graduado em Publicidade e Propaganda pela [Anhanguera](https://www.anhanguera.com/)
+- 💻 Formado em técnico em informática pelo [SENAC](https://www.sp.senac.br/)
 
 **Projetos que desenvolvi recentemente**
 
