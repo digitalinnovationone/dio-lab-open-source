@@ -52,6 +52,34 @@
 ## Desafios Git e GitHub
 - [50 minutos de desafios para treino](https://www.youtube.com/watch?v=kB5e-gTAl_s)
 
+## Convenção de PRs e Reviews
+
+### PRs
+
+- Tamanho do PR
+    - Deve ser pequeno. A solicitação pull deve ter no máximo 250 linhas de alteração.
+
+- Quebra de recursos
+    - Sempre que possível, divida as solicitações pull em solicitações menores.
+
+- Princípio de Responsabilidade Única
+    - A solicitação pull deve fazer apenas uma coisa.
+
+- Título
+    - Faça um título autoexplicativo descrevendo o que o PR faz.
+
+- Descrição
+    - Detalhe como que foi alterado, por que foi alterado e como foi alterado.
+
+### Reviews
+
+- Faça boas perguntas; não faça exigências
+
+- Peça esclarecimentos
+
+- Seja explícito e humilde
+
+- Não use sarcasmo
 
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
