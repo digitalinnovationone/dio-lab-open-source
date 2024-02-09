@@ -1,6 +1,6 @@
 ### Fala galera, Genivaldo Serra aqui!!! 👋
 
-- 🌱 Estudante de Desenvolvimento Web | Trybe
+- 🌱 DevOps, Desenvolvimento Web
 
 
 <!-- Minhas Redes -->
