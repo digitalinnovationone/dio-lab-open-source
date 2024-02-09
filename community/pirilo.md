@@ -1,0 +1,27 @@
+## Sobre mim
+
+Olá! Meu nome é Anderson, tenho 33 anos e sou apaixonado por tecnologia, especialmente na área de engenharia da computação. Atualmente, trabalho como especialista administrativo, onde utilizo minhas habilidades analíticas para lidar com dados de forma eficiente.
+
+### Experiência Profissional
+
+- **Especialista Administrativo** na [Nome da Empresa] (Ano atual - Presente)
+  - Responsável pela análise de dados e geração de relatórios para apoiar tomadas de decisão estratégicas.
+  - Colaboração com equipes multidisciplinares para identificar oportunidades de otimização de processos.
+
+### Educação
+
+- **Engenharia da Computação** na [Nome da Universidade] (Ano de início - Ano de conclusão previsto)
+  - Estou atualmente cursando engenharia da computação para aprimorar meus conhecimentos técnicos e abrir novas oportunidades profissionais.
+
+### Bootcamp
+
+Estou participando de um bootcamp para expandir meus conhecimentos e habilidades em áreas como desenvolvimento de software, análise de dados avançada e muito mais.
+
+### Interesses
+
+- Desenvolvimento de Software
+- Análise de Dados
+- Inteligência Artificial
+- Aprendizado de Máquina
+
+Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, trocar ideias ou apenas para uma conversa informal!
