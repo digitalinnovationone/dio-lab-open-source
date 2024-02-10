@@ -1,3 +1,5 @@
+# Olá, eu sou Leandro Langer(LeandroLanger)
+
 # Formação Academica: Bacharelado em Sistemas de Informação
 # Algumas das minhas habilidades/conquistas na DIO
 ![image](https://github.com/LeandroLanger/dio-lab-open-source/assets/114670890/ff2a7868-e0a7-4e37-8f42-30f32766dc88)
