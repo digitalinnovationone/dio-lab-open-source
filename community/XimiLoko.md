@@ -1,7 +1,7 @@
 <div align="center"> 
  
  # Olá, eu sou Dielison   . XimiLoko✌🏿. 
- <img loading="lazy" src="https://avatars.githubusercontent.com/u/153321263?v=4" width=50% >
+ <img loading="lazy" src="https://avatars.githubusercontent.com/u/153321263?v=4" width=33% >
  
   | 🔍 | 🔧 |     
  |:-------------:|:-------------:|
