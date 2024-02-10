@@ -45,23 +45,23 @@
         <img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
       </td>
       <td>
-        <code>[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://https://discord.com/channels/@SEUUSERNAME/)</code>
+        <code>[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@SEUUSERNAME/)</code>
       </td>
     </tr>
     <tr>
       <td>
-        <img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook">
+        <img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
       </td>
       <td>
-        <code>[![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/SEUUSERNAME/)</code>
+        <code>[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SEUUSERNAME/)</code>
       </td>
     </tr>
     <tr>
       <td>
-        <img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter">
+        <img align="center" alt="X" src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x">
       </td>
       <td>
-        <code>[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/SEUUSERNAME)</code>
+        <code>[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/SEUUSERNAME)</code>
       </td>
     </tr>
     <tr>
@@ -82,10 +82,10 @@
     </tr>
     <tr>
       <td>
-        <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+        <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
       </td>
       <td>
-        <code>[![GitHub](https://img.shields.io/badge/GitHbt-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)</code>
+        <code>[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)</code>
       </td>
     </tr>
     <tr>
@@ -140,6 +140,22 @@
       </td>
       <td>
         <code>[![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@seuusuario)</code>
+      </td>
+    </tr>
+  </tr>
+      <td>
+        <img align="center" alt="Linktree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
+      </td>
+      <td>
+        <code>[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktree.com/@seuusuario)</code>
+      </td>
+    </tr>
+  </tr>
+      <td>
+        <img align="center" alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+      </td>
+      <td>
+        <code>[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/profile/@seuusuario)</code>
       </td>
     </tr>
   </tbody>
@@ -227,18 +243,18 @@
     </tr>
     <tr>
       <td>
-        <img align="center" alt="Java" src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java">
+        <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
       </td>
       <td>
-        <code>![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)</code>
+        <code>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)</code>
       </td>
     </tr>
     <tr>
       <td>
-        <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+        <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
       </td>
       <td>
-        <code>![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)</code>
+        <code>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</code>
       </td>
     </tr>
     <tr>
@@ -327,6 +343,14 @@
         <code>![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)></code>
       </td>
     </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Delphi" <img alt="Static Badge" src="https://img.shields.io/badge/Delphi-DD0031?style=for-the-badge&logo=Delphi&logoColor=white">
+      </td>
+      <td>
+        <code>![Delphi](https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white)></code>
+      </td>
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
@@ -362,6 +386,15 @@
       </td>
       <td>
         <code>![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)</code>
+      </td>
+    </tr>
+    <tr>
+      <tr>
+      <td>
+        <img align="center" alt="AdonisJS" src="https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white">
+      </td>
+      <td>
+        <code>![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)</code>
       </td>
     </tr>
     <tr>
@@ -447,6 +480,22 @@
         <code>![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)</code>
       </td>
     </tr>
+    <tr>
+      <td>
+       <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+      </td>
+      <td>
+        <code>![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+       <img align="center" alt="OpenShift" src="https://img.shields.io/badge/Openshift-000?style=for-the-badge&logo=redhat&logoColor=red">
+      </td>
+      <td>
+        <code>![OpenShift](https://img.shields.io/badge/Openshift-000?style=for-the-badge&logo=redhat&logoColor=red)</code>
+      </td>
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
@@ -475,6 +524,60 @@
       </td>
       <td>
         <code>![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0">
+      </td>
+      <td>
+        <code>![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)</code>
+      </td>
+    </tr>
+  </tbody>
+  <tfoot></tfoot>
+</table>
+
+## Ferramentas
+
+<table>
+  <thead>
+    <tr align="left">
+      <th>Badge</th>
+      <th>Markdown</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <td>
+        <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+      </td>
+      <td>
+        <code>![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma">
+      </td>
+      <td>
+        <code>![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Vscode" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+      </td>
+      <td>
+        <code>![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)</code>
+      </td>
+    </tr>
+     <tr>
+      <td>
+        <img align="center" alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+      </td>
+      <td>
+        <code>![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</code>
       </td>
     </tr>
   </tbody>
