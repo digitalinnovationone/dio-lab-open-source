@@ -20,7 +20,7 @@
         <a href="https://www.linkedin.com/in/wellington-fidelis-7b02b167/" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full">
           LinkedIn
         </a>
-        <a href="https://kaggle.com/[your-username]" class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded-full">
+        <a href="https://www.kaggle.com/wellingtonfidelis" class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded-full">
           Kaggle
         </a>
         <a href="https://twitter.com/[your-username]" class="bg-blue-400 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-full">
