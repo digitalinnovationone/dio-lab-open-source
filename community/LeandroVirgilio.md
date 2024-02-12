@@ -20,4 +20,4 @@ Sou formado em Sistemas da informação, atualmente me aperfeiçoando em diverso
 ## Github stats
 ![](https://github-readme-stats.vercel.app/api?username=LeandroVirgilio&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeandroVirgilio&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroVirgilio&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
