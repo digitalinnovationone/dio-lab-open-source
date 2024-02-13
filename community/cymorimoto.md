@@ -8,7 +8,8 @@ Olá, eu sou a Cristina! 👋
 
 ## **Formação**
 - Doutorado: Ciência da Computação - UFPR 2018-2022
-- Mestrado: Ciência da Computação - UEL - 2011-2012
+- Mestrado: Ciência da Computação - UEL - 2009-2010
+- Especialização: BI - UEL 2008-2009
 
 ## **Habilidades**
 - Análise e visualização de dados
