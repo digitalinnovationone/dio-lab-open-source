@@ -1,5 +1,5 @@
 # Ivanildo Adelino da Silva Junior
-
+eu tetnado fazer algo aqui.
 Estudante de Análise e Desenvolvimento de Sistesmas, buscando me desenvolver cada vez mais e atrás de desafios e oportunidades.
 
 ### Conecte-se comigo
