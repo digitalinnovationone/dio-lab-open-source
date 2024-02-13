@@ -1,4 +1,23 @@
 # Rafael Soares
+Profissional com ampla expertise em governança de novos produtos, estruturação e desenvolvimento de processos. Possuo sólida experiência como supervisor de frota, além de habilidades em eventos e marketing estratégico. Sou adepto dos princípios do PMBOK (PMI) e da metodologia ágil Scrum.
+
+Atualmente, estou focado em expandir minhas habilidades em análise e desenvolvimento de sistemas, com conhecimento em:
+
+Banco de dados SQL e modelagem de banco de dados.
+Desenvolvimento Front-End utilizando HTML5, CSS e JavaScript.
+Desenvolvimento Back-End com PHP.
+Análise e projeto de sistemas orientados a objetos utilizando C#.
+Programação Visual com C#.
+Segurança da informação.
+Arquitetura de computadores.
+Práticas de Desenvolvimento e Operação de Software (DevOps).
+Lógica de programação.
+Ciência de dados com Python.
+Engenharia e Qualidade do Software.
+Projeto e modelagem de sistemas de software.
+
+Estou em busca de oportunidades que me permitam aplicar e expandir meu conhecimento em engenharia de software, contribuindo para projetos inovadores e desafiadores. Sou um profissional comprometido, capaz de trabalhar de forma colaborativa em equipe e entregar resultados de alta qualidade dentro de prazos estabelecidos.
+
 
 ## Conecte-se comigo
 
