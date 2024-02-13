@@ -1,6 +1,6 @@
 # Wilson Eduardo F. D. de Almeida
 
-Programador apaixonado por tecnologia e sempre em busca de mais conhecimentos na área de Ti, atualmente terminando o curso de Engenharia de Computação - UFMS
+Programmer that loves IT and coding, always in search of knowledge and improvements. Finishing Computing Engineering at UFMS / Brazil.
 
 ### - Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilson-eduardo-fantucci-diniz-de-almeida-b1254772/)
