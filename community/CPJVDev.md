@@ -10,14 +10,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CPJVDev&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=CPJVDev&hide=stars&hide_title=true&show_icons=true&ring_color=00EAD3&text_color=FF449F&icon_color=00EAD3&rank_icon=github&bg_color=00000000#gh-dark-mode-only"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CPJVDev&show_icons=true"
+     srcset="https://github-readme-stats.vercel.app/api?username=CPJVDev&hide=stars&hide_title=true&show_icons=true&ring_color=00D3EA&text_color=FF9F44&icon_color=00D3EA&rank_icon=github&bg_color=00000000#gh-light-mode-only"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=CPJVDev&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CPJVDev" />
 </picture>
 
 
