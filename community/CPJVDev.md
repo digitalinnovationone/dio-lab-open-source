@@ -1,12 +1,26 @@
 # Hi! César Valentim here!
 
-<div>
-    
+
+  <!--  
 [![César's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CPJVDev&theme=transparent&number_format=short&card_width=300px&hide_title=true&show_icons=true&rank_icon=githu)](https://github.com/CPJVDev)
 <img width=200px src="https://raw.githubusercontent.com/gist/CPJVDev/ea4424adea8c44474c47452b57c0d158/raw/8923311ccca8bd68363d836e0f6852532f72b744/devvector.svg">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CPJVDev&layout=compact&theme=transparent&card_width=300px&hide_title=true)](https://github.com/CPJVDev)
+![CPJVDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=CPJVDev&hide=stars&show_icons=true)
+-->
 
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=CPJVDev&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=CPJVDev&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=CPJVDev&show_icons=true" />
+</picture>
+
+
 
 ## About me
 <p>Beginning developer and graduating in administration from Porto Alegre - RS, Brazil. I took my first steps in the dev world through the "Curso em Video" channel, where I had contact with HTML5, CSS3 and JavaScript. Passionate about science fiction and technology, some of my hobbies are playing RPGs, reading comics and watching series, commenting both.</p>
