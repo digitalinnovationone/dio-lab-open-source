@@ -12,8 +12,6 @@ Conecte-se Comigo
     <a href="https://www.linkedin.com/in/gerson-sc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </div>
 
-  
-  
  Minhas Tecnologias 
 <div>
   <img alig="center" alt="Python" height="40" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
