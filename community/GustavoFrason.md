@@ -18,7 +18,7 @@ Ao longo da minha jornada como analista de sistemas e negócios, busco incessant
 
 Meu objetivo é utilizar a tecnologia como uma ferramenta para impactar positivamente a vida das pessoas. Estou comprometido em criar e aprimorar soluções com eficiência, garantindo a integridade dos sistemas e suas integrações.
 
-📫 Vamos Conectar?
+📫 Vamos nos Conectar?
 
 Estou sempre aberto a novas oportunidades de colaboração e networking. Vamos trabalhar juntos para impulsionar a inovação e fazer a diferença na era digital!
 </p>
