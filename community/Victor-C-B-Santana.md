@@ -4,7 +4,6 @@ Atual estudando do curso M-TEC em desenvolvimento de sistemas, na ETEC.
 
 ### Me encontre
 
-[![E-mail : victor.santana676@hotmail.com](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](victor.santana676@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](linkedin.com/in/victor-cristiano-a92b36261/)
 
 
