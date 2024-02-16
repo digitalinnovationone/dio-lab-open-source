@@ -1,5 +1,5 @@
 # mathias-00
-Em transição de carreira :exploding_head: não será fácil, mas minha persistência irá prevalecer :computer: :books:
+Em transição de carreira :exploding_head: não será fácil, mas minha persistência irá prevalecer :computer: '-' :books:
 ## Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mathias-00)
 ## Habilidades 
