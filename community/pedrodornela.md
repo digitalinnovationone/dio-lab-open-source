@@ -10,10 +10,6 @@ I have been in the tecnology world since 2016 and during this period I had gradu
 
 ---
 
-* Computer network, Network infrastructure
-* Team Work, Organized, Discipline
-
-
 ## **📚 Frameworks, Platforms and Libraries**
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
