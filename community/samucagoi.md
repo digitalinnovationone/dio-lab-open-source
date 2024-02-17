@@ -1,4 +1,4 @@
-#### Olá! Me chamo Igor e sou Especialista em CyberSec!
+#### Olá! Me chamo Igor Samuel e sou Especialista em CyberSec!
 
 Não pretendo ser DEV, mas estou apredendo sobre o mundo de DEV, para agregar conhecimento no meu mundo de CybserSec!
 
