@@ -1,0 +1,95 @@
+name: DIO Lab Workflow
+
+on:
+  pull_request_target:
+    types:
+      - opened
+      - synchronize
+
+jobs:
+  validate-and-comment:
+    runs-on: ubuntu-latest
+
+    steps:   
+    # Realiza o checkout seguro do código do PR
+    - name: Checkout code from PR (Safe Checkout)
+      uses: actions/checkout@v4
+      with:
+        ref: ${{ github.event.pull_request.head.sha }}
+
+    # Valida o PR de acordo com as recomendações do README.md e CONTRIBUTE.md
+    - name: Validate PR
+      run: |
+        AUTHOR_NAME="${{ github.event.pull_request.user.login }}"
+        FILE_PATH="community/$AUTHOR_NAME.md"
+        
+        # Verifica se o arquivo esperado existe
+        if [[ ! -f $FILE_PATH ]]; then
+            echo "ERROR: Expected a file at $FILE_PATH, but it doesn't exist."
+            exit 1
+        fi
+        
+        # Obtém a lista de arquivos modificados usando a CLI do GitHub
+        files_changed=$(gh api repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files --paginate | jq -r '.[].filename')
+        
+        # Lista os arquivos modificados para fins de depuração
+        echo "Changed files:"
+        echo "$files_changed"
+        
+        # Verifica se este é o único arquivo modificado
+        NUM_CHANGED_FILES=$(echo "$files_changed" | wc -l)
+        if [[ "$NUM_CHANGED_FILES" -ne 1 ]]; then
+            echo "ERROR: More files were changed besides $FILE_PATH."
+            exit 1
+        fi
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    # Comenta no PR se foi bem-sucedido e adiciona a etiqueta [automerge]
+    - name: Comment PR on Success and Add Label [automerge]
+      if: success()
+      run: |
+        REPO_URL=${{ github.event.pull_request.head.repo.html_url }}
+        cat <<EOT > message.txt
+        Aí sim hein! Seu PR foi aprovado 🥳 Você já pode submeter o seu projeto na plataforma da DIO. Segue sua URL:
+        \`\`\`
+        $REPO_URL
+        \`\`\`
+        Faremos o merge aqui em breve. Muito obrigado por fazer parte da nossa comunidade 🚀
+        EOT
+
+        gh pr comment ${{ github.event.pull_request.number }} --body-file=message.txt
+        gh pr edit ${{ github.event.pull_request.number }} --add-label "automerge"
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    # Comenta no PR em caso de falha, destacando as recomendações do README.md e CONTRIBUTE.md
+    - name: Comment PR on Failure
+      if: failure()
+      run: |
+        cat <<EOT > message.txt
+        Olá! Parece que houve um problema com o seu PR 🧐 Aqui estão algumas coisas para verificar:
+        - Seu PR deve modificar **apenas** o arquivo \`community/${{ github.event.pull_request.user.login }}.md\` (dê uma olhadinha na aba _"Files changed"_);
+        - O nome desse arquivo deve ser **exatamente** igual ao nome de usuário no GitHub (nossa validação é _case-sensitive_).
+
+        Para obter mais detalhes e garantir que tudo esteja correto, confira nossas instruções nos arquivos [README.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/README.md) e [CONTRIBUTING.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md) (que, em geral, NÃO devem ser modificados, pois são arquivos genéricos de apoio).
+
+        Se o seu PR tem um objetivo diferente, não se preocupe! Ele será analisado manualmente por nossa equipe, o que pode levar um pouco mais de tempo. Pedimos paciência nesse processo 🙏
+
+        Agradecemos sua contribuição e compreensão 👊😉
+        EOT
+
+        gh pr comment ${{ github.event.pull_request.number }} --body-file=message.txt
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  # Realiza o merge do PR, caso o job "validate-and-comment" tenha sido executado com sucesso ;)
+  merge:
+    runs-on: ubuntu-latest
+    needs: validate-and-comment
+    
+    steps:
+    - name: Merge PR
+      uses: pascalgn/automerge-action@v0.15.6
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
