@@ -14,6 +14,7 @@ Estou no mercado de trabalho como desenvolvedor BackEnd JAVA a praticamente 2 an
 - JAVA
 - SPRINGBOOT
 - AWS (S3,SQS,DYNAMO,...)
+- LOCALSTACK
 - SRE
 - GIT/GITHUB
 - HTML/CSS/JAVASCRIPT
