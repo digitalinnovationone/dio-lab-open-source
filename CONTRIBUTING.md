@@ -23,7 +23,7 @@
 1. Faça um **Fork** deste repositório;
 2. Clone localmente: `git clone https://github.com/SEU_USERNAME/dio-lab-open-source.git`;
 3. Adicione o remote upstream para manter seu repositório local atualizado: `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git`;
-    > Utilize o comando `git pull upstream main` para baixar e mesclar as alterações no seu repositório local com base na branch `main` deste repositório original de onde você fez o fork, ou `git fetch upstream main` para baixar sem mesclar. Veja mais em: [Primeiros Passos com Git e GitHub](https://github.com/digitalinnovationone/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
+    > Utilize o comando `git pull upstream main` para baixar e mesclar as alterações no seu repositório local com base na branch `main` deste repositório original de onde você fez o fork, ou `git fetch upstream main` para baixar sem mesclar. Veja mais em: [Primeiros Passos com Git e GitHub](https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
 4. Crie uma nova **branch** e nomeie como `feat/community/SEU_USERNAME`:
     > Exemplo: `git checkout -b feat/community/digitalinnovationone`
 5. Dentro da pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
@@ -40,14 +40,14 @@
 
 ## Convenção de Commits 
 
-| Tipo de Commit | Descrição|
-| ---------------|----------|
-| `feat`         | Adiciona uma nova funcionalidade ao projeto.   |
-| `fix`          | Corrige um bug ou problema no projeto.         |
-| `docs`         | Altera a documentação do projeto. Ex.: README, comentários no código.                                            |
-| `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.                                                   |
-| `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.                                                   |
-| `test`         | Adiciona ou modifica testes no projeto.        |
+| Tipo de Commit | Descrição                                                            |
+| ---------------|----------------------------------------------------------------------|
+| `feat`         | Adiciona uma nova funcionalidade ao projeto.                         |
+| `fix`          | Corrige um bug ou problema no projeto.                               |
+| `docs`         | Altera a documentação do projeto. Ex.: README, comentários no código.|
+| `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         |
+| `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         |
+| `test`         | Adiciona ou modifica testes no projeto.                              |
 
 ## Desafios Git e GitHub
 - [50 minutos de desafios para treino](https://www.youtube.com/watch?v=kB5e-gTAl_s)
