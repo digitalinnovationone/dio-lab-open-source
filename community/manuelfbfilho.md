@@ -8,7 +8,7 @@
 - 🎓 Especializações Certificadas | Em breve ...
 
 🏢 **Atuação Profissional**
-- 🚀 Em transição de carreira, desenvolvendo alguns projetos em freelance e para experiência.
+- 🚀 Em processo de transição de carreira, desenvolvendo alguns projetos em freelance e para experiência.
 
 ### 📊 Estatísticas no GitHub
 
