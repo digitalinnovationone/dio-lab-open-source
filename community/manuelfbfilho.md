@@ -16,7 +16,7 @@
 
 ### 📌 Projetos em Destaque
 
-[![Em Breve...]()
+[![Em Breve...]]()
 
 ### 🚀 Linguagens Mais Usadas
 
