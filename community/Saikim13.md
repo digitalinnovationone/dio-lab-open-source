@@ -1,0 +1,1 @@
+Sou Kim Cordeiro Romeu, sou formado em análise e desenvolvimento de sistemas pela UNISINOS.
