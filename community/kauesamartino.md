@@ -3,7 +3,10 @@ Olá! Eu sou o Kaue Samartino e sou um estudante de Engenharia de Software.
 
 ## Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=E94D5F)](https://www.linkedin.com/in/kauê-samartino-812a122aa/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:kaue_samartino@hotmail.com) [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=E94D5F)](https://www.instagram.com/kauesamartino/)       [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=E94D5F)](https://github.com/kauesamartino)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=E94D5F)](https://www.linkedin.com/in/kauê-samartino-812a122aa/) 
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:kaue_samartino@hotmail.com) 
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=E94D5F)](https://www.instagram.com/kauesamartino/)       
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=E94D5F)](https://github.com/Kauesamartino)
 
 ## Habilidades
 
