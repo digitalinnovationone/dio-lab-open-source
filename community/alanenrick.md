@@ -7,5 +7,4 @@ Estou estudando na plataforma [DIO](https://www.dio.me/users/alanenrick), a fim 
 
 ### *Conecte-se comigo*
 
-[LinkedIn](https://www.linkedin.com/in/alanenrick/)   |   [GitHub](https://github.com/alanenrick) | [DIO](https://www.dio.me/users/alanenrick)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanenrick/)   |   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alanenrick)
