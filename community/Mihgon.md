@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mim
 :computer: Eu sou uma pessoa desenvolvedora frontend no Brasil e estudante de Análise e Desenvolvimento de Sistemas na PUCPR. 
-# Uma fase muito importante para mim de: ✨ transição de carreira ✨.
+## Uma fase muito importante para mim de: ✨ transição de carreira ✨.
 
 - Formada em Administração e pós-graduada em Gestão Financeira.
 - Atuei no em diversas áreas anteriormente, adquirindo várias habilidades que contribuem para o meu desenvolvimento contínuo.
@@ -46,9 +46,9 @@
 
 ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-
+ 
 <div>
-<a href="https://github.com/Mihgon">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Mihgon=Mihgon&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?Mihgon=Mihgon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/mihgon">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihgon&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=mihgon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
