@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mim
 :computer: Eu sou uma pessoa desenvolvedora frontend no Brasil e estudante de Análise e Desenvolvimento de Sistemas na PUCPR. 
-## Uma fase muito importante para mim de: ✨ transição de carreira ✨.
+### Uma fase muito importante para mim de: ✨ transição de carreira ✨.
 
 - Formada em Administração e pós-graduada em Gestão Financeira.
 - Atuei no em diversas áreas anteriormente, adquirindo várias habilidades que contribuem para o meu desenvolvimento contínuo.
