@@ -2,8 +2,6 @@
 
 #Sejam todos bem-vindos!
 
-<h3 align="center"> --> Desenvolvedora Frontend no Brasil.</h3>
-
 ## 🚀 Sobre mim
 :computer: Eu sou uma pessoa desenvolvedora frontend no Brasil e estudante de Análise e Desenvolvimento de Sistemas na PUCPR. 
 # Uma fase muito importante para mim de: ✨ transição de carreira ✨.
