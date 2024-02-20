@@ -1,4 +1,4 @@
-# Rogério F S barros  
+# Rogério F S Barros  
 
 [![Rogério F S barros](https://img.shields.io/badge/rogeriobarros-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogeriobarros)
 
