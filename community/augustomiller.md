@@ -5,19 +5,14 @@
 </h1>
 
 ## Olá 👋
-Sou QA, atuando há mais de cinco anos em empresa de grande porte, impactando diretamente mais de 90.855.959 de vidas 🥰.
+Sou QA com sólidos conhecimentos na condução das rotinas de todo o ciclo de vida do fluxo da Qualidade de Software, atuando há mais de cinco anos em empresa de grande porte, impactando diretamente mais de 90.855.959 de vidas 🥰.
 
-Sólidos conhecimentos na condução das rotinas de todo o ciclo de vida do fluxo da Qualidade de Software.
-
-Sou graduado em Análise e Desenvolviento de Sistemas e atualmente estou fazendo uma Especialização em Artificial Intelligence & Machine Learning.
+Graduado em Análise e Desenvolviento de Sistemas e atualmente estou fazendo uma Especialização em Artificial Intelligence & Machine Learning.
 
 [![GitHub](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/augustomiller)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augustomillerqa/)
 [![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@augustomiller)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@augustomiller_08122/)
-
-
-
 
 
 ## Tecnologias
