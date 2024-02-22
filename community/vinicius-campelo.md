@@ -15,6 +15,7 @@
 ![202809-128](https://user-images.githubusercontent.com/74797865/112766582-d691dc00-8fe8-11eb-991f-3afeef01ea89.png)
 
 ---
+---
 ## About me
 ![Github Badge](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white&link=https://vinicius-campelo.github.io)
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/feed/)
