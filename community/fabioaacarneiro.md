@@ -61,4 +61,4 @@
 
 - Eu ficaria honrado e enormemente feliz em descrever cada projeto em cada detalhe, mas infelizmente não quero cansar quem estiver lendo, a maior parte dos meus projetos, em quantidade e talvez tamanho, são sem dúvidas em **Python** mas por questão de propriedade intelectual, cada projeto foi desenvolvido seja para uma empresa ou cliente. Sendo assim ficaram privados, mas vou deixar uma foto para sanar suas curiosidades sobre um pouco do que eu criei com python, e sem dúvidas são os projetos mais incríveis que eu tive a honra de criar e desde o zero até seus estados atuais, eu ser o **único e principal** desenvolvedor, mas não posso dizer que não recebi ajuda, recebi muito e sempre serei grado a cada ensinamento que adquiri em toda minha jornada até aqui, que apesar de estar no início, foi bem dificil.
 
-![Captura de Tela 2024-02-21 às 21 53 02](https://github.com/fabioaacarneiro/fabioaacarneiro/assets/20860418/4c8c9684-0789-4550-b9b2-640f1866b045)
+##### *Obs. tive problemas para subir a imagem, confira no meu [perfil](https://github.com/fabioaacarneiro) minha descrição completa!
