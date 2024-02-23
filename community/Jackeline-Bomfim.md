@@ -11,6 +11,7 @@ Adoro tecnologia e tenho muita voltade de ir para uma área mais ativa, onde eu 
 3. Fã de Harry Potter
 4. Dançarina amadora
 5. Corrida para oxigenar a mente
+6. Gosto de passeios no parque
 
 ## Para falar comigo você pode acessar um dos links abaixo:
 
