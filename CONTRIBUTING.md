@@ -37,7 +37,10 @@
 9. Envie as alterações para o seu repositório remoto `git push origin feat/community/SEU_USERNAME`;
     > **Observação:** Você pode utilizar o comando `git push origin` para mandar as alterações sem precisar especificar a URL, desde que você tenha feito o passo **3**. 
 10. Crie um **Pull Request**.
-
+    > **Observação**: No geral, quando você der um push para o seu repositório do Github, ele perguntará para você se deseja fazer um Pull Request. Caso não apareça, é só você ir para o repositório da DIO, clicar em Pull Request e Create, e por último indicar o seu repositório e a branch em específico
+    
+    > Se tudo estiver certo, irá aparecer um template, que contém botões de múltipla escolha referente ao seu tipo de alteração, checklist e também comentários adicionais se você achar que seja bom acrescentar. Assim, quando você concluir, é somente você apertar o "Create Pull Request" que fica abaixo dessa caixa de texto e esperar a resposta do bot do Github Actions dizendo se seu PR (Pull Request) foi aceito ou não.
+    
 ## Convenção de Commits 
 
 | Tipo de Commit | Descrição                                                            |
