@@ -1,7 +1,7 @@
 ## Hello, I'm Jefferson Nóbrega 
 
 Brazilian. I live in Brazil.
-Studying front-end development. I am an enthusiast of new technologies. I have a passion for learning. Currently working in the area of ​​Computer Networks, but with the intention of being a professional developer.
+Studying systems development, focusing on the backend, but with mastery of some frontend concepts. I am an enthusiast of new technologies. I have a passion for learning. Currently working in the area of ​​Computer Networks, but intending to be a professional developer.
 
 **Currently Learning:**
 
