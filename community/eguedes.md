@@ -1,7 +1,7 @@
 
 # Érick Guedes
 
-Olá, comindade DIO!
+Olá, comunidade DIO!
 
 Este breve documento, além de exercitar o conteúdo ensinado no bootcamp, nos permite trocar contatos e, quem sabe, sair uma parceria para algum projeto!
 
