@@ -60,7 +60,7 @@
 
 
 # GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edvania&theme=transparent&bg_color=000&border_color=b80671&show_icons=true&icon_color=b80671&title_color=b80671&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edivania88Duarte&theme=transparent&bg_color=000&border_color=b80671&show_icons=true&icon_color=b80671&title_color=b80671&text_color=FFF)
 
 
 ## Minhas Contribuições
