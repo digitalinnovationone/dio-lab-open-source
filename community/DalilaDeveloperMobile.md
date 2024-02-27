@@ -9,7 +9,7 @@
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 </div> 
 
-##  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Tenho 5 APPS Na Google Play Store 
+##  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Tenho 6 APPS Na Google Play Store 
 
 <div align="center" style="display: inline-block">
   <h3> 
