@@ -1,5 +1,6 @@
 # Cícero Quintino Junior
-
+## Quem sou eu?
+Meu nome é Cícero, tenho 26 anos, natural de Curitiba onde também moro atualmente. Trabalho como técnico de manutenção de aparelhos eletroeletrônicos. Atualmente, estou cursando o curso de Bacharelado em Ciência da Computação. Estou trabalhando e estudando para realizar essa transição de carreira e em busca de oportunidades. Meus hobbies envolvem desde ouvir música clássica do período romântico, Rock, Pop, Country, ecleticidade com qualidade. Café é uma paixão assim como apreciar os esportes como o basquete e futebol americano. Tenho DM1 e mantenho um estilo de vida totalmente saudável com dieta e treino. Busco fazer sempre o melhor em tudo que eu faço e busco em mim mesmo a inspiração todos os dias para poder ter condições cada vez melhores para mim e minha família.
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicerojr-techprofessional/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@ciceroqjunior/)
