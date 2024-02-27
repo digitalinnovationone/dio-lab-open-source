@@ -1,5 +1,4 @@
-### Oii! Sou a Poliana Rodrigues, uma apaixonada por tecnologia. Meu objetivo é contribuir para um futuro melhor através da inovação.
-
+### Oii! Sou a Poliana Rodrigues.
 
 - Cursando Engenharia de Software na Unicesumar
 - Monitora de Algoritimos e Lógica de Programação
