@@ -56,12 +56,9 @@
 ![C#](https://img.shields.io/badge/C%23-d08c8a?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
-
-
-
 # GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edivania88Duarte&theme=transparent&bg_color=000&border_color=b80671&show_icons=true&icon_color=b80671&title_color=b80671&text_color=FFF)
 
-
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Edivania88Duarte&repo=SEUREPOSITORIO&bg_color=000&border_color=b80671&show_icons=true&icon_color=b80671&title_color=b80671&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Edivania88Duarte&repo=https://github.com/Edivania88Duarte/dio-lab-open-source&bg_color=000&border_color=b80671&show_icons=true&icon_color=b80671&title_color=b80671&text_color=FFF)](https://github.com/SEUUSERNAME/https://github.com/Edivania88Duarte/dio-lab-open-source)
