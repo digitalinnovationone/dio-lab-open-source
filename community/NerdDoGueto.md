@@ -1,9 +1,10 @@
 
 ---
 
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" width="400" height="380" src="https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&duration=4000&pause=500&color=15FD02C8&center=true&vCenter=true&random=false&width=435&lines=Seja+Bem+Vindo!;Meu+nome+%C3%A9+Jos%C3%A9+Junior.;Welcome!;My+name+is+Jos%C3%A9+Junior.)](https://git.io/typing-svg) 
 
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" width="400" height="380" src="https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg">
 
 # Quem sou eu?
 Me chamo José, tenho 31 anos de idade. Sempre estive ligado à tecnologia desde os 8 anos. Ela sempre despertou minha curiosidade e interesse. Por causa dos jogos, despertei o interesse em programação, e já atuo com isso há alguns anos, tanto com servidores de jogos quanto com outras aplicações. Sempre buscando evolução e aprendendo coisas novas e enfrentando novos desafios. Atuo como freelancer atualmente e espero, em algum momento, alavancar minha carreira na área de desenvolvimento de jogos.
@@ -39,7 +40,7 @@ Me chamo José, tenho 31 anos de idade. Sempre estive ligado à tecnologia desde
 
 ### Meus Principais Desafios de Projeto DIO
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=NerdDoGueto&repo=dio-lab-open-source&bg_color=000&border_color=15FD02C8&show_icons=true&icon_color=15FD02C8&title_color=15FD02C8&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=NerdDoGueto&repo=dio-lab-open-source&bg_color=000&border_color=15FD02C8&show_icons=true&icon_color=15FD02C8&title_color=15FD02C8&text_color=FFF)](https://github.com/NerdDoGueto/dio-lab-open-source)
 
 
 ---
