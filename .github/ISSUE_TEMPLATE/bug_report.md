@@ -2,8 +2,8 @@
 name: Bug report
 about: Crie um relatório para nos ajudar a melhorar
 title: "[BUG]"
-labels: bug, Community challenge
-assignees: ''
+labels: bug, Community Challenger, Community challengerII, enhancement
+assignees: RonaldoSilva0803
 
 ---
 
