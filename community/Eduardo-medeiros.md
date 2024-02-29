@@ -3,7 +3,7 @@
 
 Atualmente estudante de Sistema de informação.
 
-### Me encontre
+### Contato
 
 [![E-mail : eduardomedeirosdemoraes12345@gmail.com](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](eduardomedeirosdemoraes12345@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/eduardo-medeiros-78388725b/)
