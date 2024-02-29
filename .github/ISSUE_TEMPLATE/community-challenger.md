@@ -1,17 +1,17 @@
 ---
-name: Feature request
-about: Sugira uma ideia para este repositório
-title: "[SUGESTÃO]"
-labels: enhancement
-assignees: ''
+name: Community Challenger
+about: Criei uma issue sobre o Desafio proposto
+title: "[Desafio DIO] desafio da DIO sobre contribuiçao de projetos"
+labels: Community challengerII
+assignees: RonaldoSilva0803
 
 ---
 
 **Sua sugestão está relacionada a um problema? Por favor descreva.**
-Uma descrição clara e concisa de qual é o problema.
+Não.
 
 **Descreva a solução que você gostaria**
-Uma descrição clara e concisa do que você quer que aconteça.
+N/A
 
 **Descreva as alternativas que você considerou**
 Uma descrição clara e concisa de quaisquer soluções ou recursos alternativos que você considerou.
