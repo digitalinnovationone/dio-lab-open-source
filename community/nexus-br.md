@@ -1,18 +1,20 @@
-# Olá me chamo rogério
+# Olá me chamo rogério,
 
 ## Pode me chamar de [nexus-br](https://github.com/nexus-br) aqui no github
 Ficaria grato em contribuir para codificar o futuro :-)
 
-### sou estudante de backend, python, php
-### venho da área imobiliária para o mundo da codificação
-### busco minha primeira vaga como programador python
-### Como já estudo python há algum tempo mandei dois dos meus projetos para o github caso queira dar uma olhada
+ sou estudante de backend, python, PHP
+ venho da área imobiliária para o mundo da TI core
+ busco minha primeira vaga como programador python
 
-##Iniciei análise de sistemas algum tempo atrás, mas devido a força maior,
-##a qual estou determidado a superar, mesmo sendo pcd.
-##Com muita determinação, busco realocação no mercado de trabalho
+## Como já estudo python há algum tempo mandei dois dos meus projetos para o github caso queira dar uma olhada
+
+## Iniciei análise de sistemas algum tempo atrás, mas devido a força maior,
+## a qual estou determidado a superar, mesmo sendo pcd.
+## Com muita determinação, busco realocação no mercado de trabalho
 
 ## Minhas skills são as seguintes:
+
 |----------------------------|
 |C# fudamentals|
 |HTML5, CSS (conceitos)|
