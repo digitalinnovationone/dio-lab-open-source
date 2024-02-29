@@ -41,7 +41,7 @@
     
 <details open>
     <summary aling="left"><h3>📓 Top Repositórios</h3></summary>
-    <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
+    <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats)  -->
     <div align="left">
         <a href="https://github.com/Delgado-tech/dncommerce">
           <img width="40%" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Delgado-tech&repo=dncommerce&show_icons=true&icon_color=e6d8b1&layout=compact&langs_count=6&hide_border=true&custom_title=★%20Linguagens%20no%20repositório&bg_color=00000000&theme=dracula&text_color=9DACC1&title_color=edc484" />
