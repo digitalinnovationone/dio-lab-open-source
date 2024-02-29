@@ -6,7 +6,7 @@
 
 ⭐Tenho como objetivo me tornar um DEV Full Stack e me especializar em Arquitetura de Software.
 
-⭐Me reconheço como entusiasta em novas tecnologias do emrcado, com aprendizado adquirido dia após dia.
+⭐Me reconheço como entusiasta em novas tecnologias do mercado, com aprendizado adquirido dia após dia.
  Possuo foco e aprendizagem em desenvolvimento Full Stack.
 Me considero ágil e consistente em aprender uma nova linguagem e me adaptar à qualquer mudança, pronto para superar qualquer desafio"
 Se eu pudesse me definir em 3 palavras, certamente seriam: esforçado, dedicado e perseverante!.
