@@ -10,13 +10,13 @@ Mas hoje, devido a diversos fatores, busco uma transição de carreira para a á
 Cursando o Técnico em Desenvolvimento de Sistemas, minha formação fica atrelada ao planejamento pedagógico da instituição que leva consigo as diretrizes e competências dos docentes envolvidos na sua criação. Isto, por si só, não é um problema, até porque não existe um curso que vá abordar 100% de uma área principalmente em 18 meses. Para ampliar meus conhecimentos e minha formação, adquiri acesso aos cursos da DIO tendo em vista os retornos que obtive e da experiência que tive na plataforma. Ainda não me considero uma pessoa com experiência ativa na área, mas cada dia que passa estou me aperfeiçoando cada vez mais para realizar meu desejo de mudar de carreira e poder atuar dentro de uma empresa dando o máximo de mim.
 
 
-## Objetivos
+## --- Objetivos ---
 
 - Mudar de carreira
 - Desenvolver aplicações web e projetos próprios
 - Continuar sempre estudando novas tecnologias
 
-## Tecnologias e Conhecimentos
+## --- Tecnologias e Conhecimentos ---
 
 | Conhecimentos | Descrição |
 |---------------|-----------|
@@ -26,7 +26,7 @@ Cursando o Técnico em Desenvolvimento de Sistemas, minha formação fica atrela
 | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | Criação de um bando de dados relacional, administração de um banco, otimização, criação de usuarios e roles |
 | ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624) | Sou usuário Linux desde 2011, conhecimento básico de shell script e uso do terminal |
 
-## Trabalhos Recentes
+## --- Trabalhos Recentes ---
 
 Apesar de não ter experiência em uma equipe desenvolvendo um sistema, já trabalhei criando trilha sonora para games participando de algumas Game Jams. Não são experiências diretas na área mas, de alguma forma, me proporcionou trabalhar em equipe dentro da área de tecnologia.
 
@@ -35,7 +35,7 @@ Apesar de não ter experiência em uma equipe desenvolvendo um sistema, já trab
 - [PunchLine](https://globalgamejam.org/games/2024/punchline-4-0) - Global Game Jam (2024)
 - [Cat in a Chip](https://www.youtube.com/channel/UCJFMJbov5wy-Pcb3b-bYgzQ) - Canal no YouTube de composições autorais em Chiptune
 
-## Links
+## --- Links ---
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TomazMotaDev/)
 
