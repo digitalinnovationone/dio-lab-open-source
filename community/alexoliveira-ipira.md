@@ -13,7 +13,6 @@
 ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=Cplusplus)
 ![ESP32](https://img.shields.io/badge/espressif-000?style=for-the-badge&logo=espressif)
 
-
 ![SQLServer](https://img.shields.io/badge/SQLServer-%23DB2A20.svg?style=flat-square&labelColor=%23414141&logo=microsoftsqlserver&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&labelColor=%23414141&logo=postgresql&logoColor=white)
 
