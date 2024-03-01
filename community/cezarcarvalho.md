@@ -6,6 +6,10 @@ Atuei na Aviação Civil Brasileira por 16 anos, exercendo a função de Comiss�
 Atualmente, atuo no gerenciamento de negócio próprio.
 Em transição de carreira.
 
+## 🏠 Residência
+- São Bernardo do Campo - São Paulo
+
+
 ## 🎂 Aniversário
 - 03/10/1981
 
@@ -36,5 +40,3 @@ Fev 24   | Jul 27  |
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cezar-de-souza-carvalho-594b4a240)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cezarcarvalho)
-
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](malito:cezar.souza03@gmail.com)
