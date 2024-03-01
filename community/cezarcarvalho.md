@@ -3,8 +3,8 @@
 
 ## 🖋️ Sobre mim
 Atuei na Aviação Civil Brasileira por 16 anos, exercendo a função de Comissário de Bordo.
-Atualmente, atuo no gerenciamento de negócio próprio.
-Em transição de carreira.
+Atuando como Gestor em negócio próprio.
+Atualmente, estou em transição de carreira, vencendo desafios diários.
 
 ## 🏠 Residência
 - São Bernardo do Campo - São Paulo
