@@ -1,6 +1,6 @@
 # Olá, Meu nome é Erick Vaz! 😁
 Estou cursando Análise e Desenvolvimento de Sistemas, me tornar um programador front-end é a meta inicial, e conforme for me aprimorando vou ser um programador FULL STACK, sempre buscando mais.
-Obs: Meu primeiro contato com a área foi com o back-end. Doidera não?!🤣
+Obs: Meu primeiro contato com a área foi com o back-end. Doidera não?!!🤣
 
 ## Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErickVaz17)
