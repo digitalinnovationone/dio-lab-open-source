@@ -1,4 +1,4 @@
-# Olá, Meu nome é Erick Vaz! 😁
+# Olá, Meu nome é Erick Vaz! 😁👍
 Estou cursando Análise e Desenvolvimento de Sistemas, me tornar um programador front-end é a meta inicial, e conforme for me aprimorando vou ser um programador FULL STACK, sempre buscando mais.
 Obs: Meu primeiro contato com a área foi com o back-end. Doidera não?!!🤣
 
