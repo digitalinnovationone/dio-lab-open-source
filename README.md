@@ -28,7 +28,7 @@ Aprender o básico sobre contribuição no GitHub.
   <tbody align="left">
     <tr>
       <td>01</td>
-      <td>Introdução ao Lab</td>
+      <td>Introdução ao Lab hehehe</td>
       <td align="center">
         <a href="">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
