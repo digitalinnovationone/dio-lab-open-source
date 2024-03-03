@@ -1,8 +1,9 @@
-# About me 👋
+## About this file
 
-<!--
-**z3mafra/z3mafra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Resumidamente, o objetivo deste arquivo é marcar a participação no Desafio de Projeto (Lab), que consiste em dar um "fork" no repositório digitalinnovationone/dio-lab-open-source, criando uma cópia no meu GitHub pessoal. Com isso, exercitar os comandos do Git e GitHub, tais como clonar uma repositório local, adicionar um upstream remoto, criar/referenciar uma nova branch, criar um arquivo em Markdown, adicionar alterações, enviar as alterações para o repositório remoto e fazer um Pull Request (PR) solicitando a atualização do repositório original da DIO. Com isso participar de uma experiência prática em um projeto, integrando as funionalidade entre o Git e o GitHub. 
+
+## About me 👋
+
 Here are some facts "about me":
 
 - 🔭 I’m currently working on improving my programming and dev skills ...
@@ -13,8 +14,8 @@ Here are some facts "about me":
 - 📫 How to reach me: send a message here.
 - ⚡ Fun fact: career transition!
 
+## Onde me encontrar:
 
-#
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zé-roberto-mafra-23b4172b8/)
 #
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/z3mafra)
