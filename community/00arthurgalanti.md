@@ -59,8 +59,6 @@ Futuro Desenvolvedor Full Stack cursando Análise e Desenvolvimento de Sistemas 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurgalanti&repo=MeuDim&&theme=dark" />
 </a>
 
-
-
 #### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" style="vertical-align: middle;"> Minhas estatísticas do GitHub: 
 [![Linguagens](https://github-readme-stats.vercel.app/api?username=arthurgalanti&show_icons=true&locale=pt-BR&&theme=dark)](https://github.com/arthurgalanti?tab=repositories)
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgalanti&layout=compact&locale=pt-BR&&theme=dark)](https://github.com/arthurgalanti?tab=repositories)
