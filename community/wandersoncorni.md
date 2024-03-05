@@ -7,7 +7,7 @@
         float: left;
         position: absolute;
         margin-top: 10px;
-        margin-left: 10px
+        margin-left: 10px;
     }
 </style>
 ## ![Alt text](1187626-Vericode-Artigo09-Capa_Blog.webp) ${\color{#1589F0}Wanderson \space Corni}$
