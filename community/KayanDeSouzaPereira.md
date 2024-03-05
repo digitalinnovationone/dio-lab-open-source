@@ -1,13 +1,13 @@
 # Kayan de Souza
 
 
-##👨🏽‍🦲 Sobre mim
+## 👨🏽‍🦲 Sobre mim
 
 Olá meu nome e **Kayan de Souza**, sou programador de ofício a 5 anos e trabalho atualmente para **Yupz It Innovation**.
 
 > Venho da contramão do que deveria ser a maioria dos planos de carreira.
 
-###✉️ Contato
+### ✉️ Contato
 ##
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayan-de-souza-3832671a2/)
@@ -54,7 +54,7 @@ Olá meu nome e **Kayan de Souza**, sou programador de ofício a 5 anos e trabal
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-###☁️ Nuvem
+### ☁️ Nuvem
 
 ##
 
