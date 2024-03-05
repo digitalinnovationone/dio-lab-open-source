@@ -1,7 +1,7 @@
 # Hyago Arruda
 Olá! Estou iniciando minha jornada como programador, cursando Análise e Desenvolvimento de Sistemas.
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ffdd54)](https://www.linkedin.com/in/SEUUSERNAME/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ffdd54)](https://www.linkedin.com/in/hyago-arruda-683b76133/)
 ## Habilidades
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=ffdd54)
