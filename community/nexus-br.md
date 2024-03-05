@@ -1,6 +1,7 @@
 # Olá me chamo rogério,
 
 ## Pode me chamar de [nexus-br](https://github.com/nexus-br) aqui no github
+## veja meu dio.me resume [aqui](https://www.dio.me/users/rogerio_prosouza)
 Ficaria grato em contribuir para codificar o futuro :-)
 
  sou estudante de backend, python, PHP
@@ -17,13 +18,13 @@ Ficaria grato em contribuir para codificar o futuro :-)
 
 |----------------------------|
 |C# fudamentals|
-|HTML5, CSS (conceitos)|
-|Ms Office 365, libreoffice 7|
+|HTML5, CSS (conceitos práticos)|
+|Ms Office 365, libreoffice 7.1|
 |Azure concepts|
-|bash, ubuntu, VScode|
+|bash, ubuntu, VScode Community|
 |Python 3.07 - 3.12|
 
 ## Busco sempre aperfeiçoar minhas softskills,
-##para assim ter um conjunto de qualidade operacional para a demanda de trabalho
+## para assim ter um conjunto de qualidade operacional para a demanda de trabalho
 "print('update forever, to do perfectily')"
 🖥
