@@ -5,7 +5,7 @@ Minha jornada começou com .NET há muitos anos passando por java também, mas a
 
 <br/>
 
-- 🌱 Atualmente aprendendo Python, Flask, Django, FastAPI, noSQL, REST APIs e agora Data Analitics com a DIO também!
+- 🌱 Atualmente aprendendo Python, Flask, Django, FastAPI, noSQL, REST APIs e agora Data Analytics com a DIO também!
 
 <br/>
 
