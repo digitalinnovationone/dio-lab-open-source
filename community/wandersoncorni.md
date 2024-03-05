@@ -10,7 +10,7 @@
         margin-left: 10px;
     }
 </style>
-## ![Alt text](1187626-Vericode-Artigo09-Capa_Blog.webp) ${\color{#1589F0}Wanderson \space Corni}$
+## ![Alt text](https://blog.vericode.com.br/wp-content/uploads/2023/05/1187626-Vericode-Artigo09-Capa_Blog.webp) ${\color{#1589F0}Wanderson \space Corni}$
 #### DevSecOps | FullStack | System Manager | Network Manager
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/wanderson-corni-554ba953/)
