@@ -33,4 +33,4 @@
 <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxNikollasSilvaSouza&layout=compact&theme=vision-friendly-dark" />
 <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=MaxNikollasSilvaSouza&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 
- ![Snake animation](https://github.com/MaxNikollasSilvaSouza/MaxNikollasSilvaSouza/blob/output/github-contribution-grid-snake.svg)
+
