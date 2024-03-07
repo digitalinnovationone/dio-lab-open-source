@@ -145,7 +145,7 @@ Aprender o básico sobre contribuição no GitHub.
   <img src="https://contrib.rocks/image?repo=elidianaandrade/dio-lab-open-source"/>
 
 
-    Testando alteração
+    
 </a>
 
 ##
