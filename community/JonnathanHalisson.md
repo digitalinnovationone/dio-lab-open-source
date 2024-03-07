@@ -1,4 +1,4 @@
-## Jonnathan Halisson aqui 👋
+## Jonnathan Halisson
 * 💻| Graduado em Sistemas para Internet
 * 👨🏽‍💻| Em busca de me tornar cientista de dados...
 
