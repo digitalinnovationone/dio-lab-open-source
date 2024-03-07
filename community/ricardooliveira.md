@@ -2,7 +2,7 @@
 Desenvolvedor web com conhecimento e experiência com diversas tecnologias e apaixonado pelo que faz.
 Sou pai e de duas meninas lindas que são meu orgulho.
 
-## Graduações
+### Graduações
 - Graduado em Ciência da computação;
 - Pós-graduado em Arquitetura de Soluções em Plataforma .net
 
