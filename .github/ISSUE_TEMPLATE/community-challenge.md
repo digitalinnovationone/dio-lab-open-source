@@ -2,7 +2,7 @@
 name: Community Challenge
 about: Crie uma issue sobre o Desafio proposto a comunidade
 title: "[DESAFIO]"
-labels: 'community challenge'
+labels: Community Challenge
 assignees: ''
 
 ---
@@ -11,7 +11,7 @@ assignees: ''
 Prestar muito a atenção pois é um conteúdo complicado porém muito legal de se aprender.
 
 *Descreva como você realizou o seu*
-Olhando a explicação e replicando.
+Olhando a explicação e replicando pensando em detalhe por detalhe.
 
 *Links úteis*
 - N/A
