@@ -146,8 +146,9 @@
 
 - Full-Stack Development:
   * Let´s Code: Back-End: Python and Java;
-  * CapGemini: Java, back-end;
-  * ![Dio. Projects](https://img.shields.io/badge/Projects-<blue>)
+  * <img src="https://github.com/Andrehlb/Andrehlb/raw/main/Assets/Logos/Capgemini-Logo.wine.svg" alt="Capgemni" width="157" align="top" />
+
+  * <a href="https://web.dio.me/users/andrehlbarbosa?tab=projects&page=1" target="_blank"> ![Dio. Projects](https://img.shields.io/badge/Projects-<greenlight>)
 <a href="https://web.dio.me/users/andrehlbarbosa?tab=projects&page=1"><img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="57" target="_blank"></a>
   * IBM by Coursera: Web Development;
   * Start.Se: Web Development;
