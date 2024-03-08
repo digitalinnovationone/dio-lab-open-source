@@ -5,7 +5,7 @@
 ### Estudante em Analise e Desenvolvimento de sistemas
 #### Sou uruguaia, mas entendo português e inglês.
 #### Tenho conechimento em ...
- | Java | CSS | JavaScript | MYSQL | HTML | MongoDB | 
+ | Java | CSS | JavaScript | MYSQL | HTML | MongoDB| 
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/katherinpereda19)
 
