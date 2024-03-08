@@ -6,7 +6,7 @@
 
 Lover of Technology and Coding <img alt="GIF" src=https://github.com/Silviofacanha/silviofacanha/assets/83619103/7687d775-ddd4-4eee-a94c-bd07ace67f96  width="20px" />
 
-- 💻: I'm Front-End Developer!👨‍💻
+- 💻: I'm Front-End Developer!
 - 🏠: I'm from Brazil.
 - 🔭: I’m currently working on: Empresa S R DE OLIVEIRA
 - 🌱: I’m currently learning MIcrosoft Azure AI Fundamentals
