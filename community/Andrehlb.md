@@ -155,4 +155,4 @@
   * RocketSeat: Front-End | JS, CSS;
   * Alura: Flutter Mobile dev;
    
-- R language for bioinformatic data analysis at ESALQ/USP, Piracicaba, SP (2011-2014);
+- R Language for bioinformatic data analysis at ESALQ/USP, Piracicaba, SP (2011-2014);
