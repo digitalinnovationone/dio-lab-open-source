@@ -102,7 +102,7 @@
 ##  💻 [My JavaScript Projects](#js-projects)
 - [Aplicação de Impostos a um Produto para Diferentes Estados, em JavaScript](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/alicotaImpostoEstados.js)
 
-- [Calculadora de Impostos de Vendas de Produtos por Estado, em JavaScript](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/execEstadosJS/impostoAlicotaEstado.js)
+- [Calculadora de Impostos de Vendas de Produtos por Estado, JavaScript](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/execEstadosJS/impostoAlicotaEstado.js)
 
 - [Explorando a Manipulação de Arrays e Strings, em JavaScript](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/ExecicioArrayJS/arrayPosicao.js)
 - [Somatório de Números Inteiros Divisíveis por 3 ou 5, em JavaScript](https://github.com/Andrehlb/ScriboSoftwareDev/blob/ea55243e1a2395cb4e1fd60636f112eca0fd9794/sumDivisibleByThreeOrFive.js)
