@@ -119,7 +119,7 @@
 ## 🌐 [My HTML Projects](#html-projects)
 - [Andrehlb´s Profile code](https://github.com/Andrehlb/Andrehlb.github.io.git)
 - [Esqueleto básico de HTML com elementos div](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/GitHub/JavaScript/BasicHTMLStructureWithDivElements.html)
-- [Estrutura Básica, Explorando Tags em HTML 1, com Comentários](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/principais_tags_html_p1.html)
+- [Estrutura Básica, explorando Tags em HTML 1, com Comentários](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/principais_tags_html_p1.html)
 - [Explorando Tags HTML 2 - Continuing with the advanced process](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/principaisTagHTMLp2.html)
 - [Estrutura HTML Básica com Scripts Assíncronos, Compatibilidade CrossBrowser e Metadado](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/principaisTagHTMLp2.html)
 - [A Web page that uses the PyScript library to execute some Python code.](https://github.com/Andrehlb/DataScience_Embraer/blob/f5529dff732926762753d45283c6216ff291c757/PyScript/pyscript_1st.html)
