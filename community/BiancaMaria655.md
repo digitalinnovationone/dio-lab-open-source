@@ -19,9 +19,8 @@ Me chamo Bianca Souza, sou Bacharelanda em Ciência da Computação pelo Institu
 ## Estatísticas  GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BiancaMaria655&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BiancaMaria655&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BiancaMaria655&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BiancaMaria655&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 
 ## Contate-me:
