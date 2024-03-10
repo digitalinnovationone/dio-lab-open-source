@@ -15,7 +15,7 @@ Sou administrador formado pela Universidade Federal de Uberlândia com especiali
 ## Linguagens de Programação
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PL](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)>
+![PL](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
 
 ## Banco de Dados
 
