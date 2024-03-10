@@ -1,7 +1,7 @@
 # Vinicius B. Ladosky
 
 - Estudante de Engenharia da Computação pela Universidade São Francisco - USF.
-- Aspirante desenvolvedor fullstack
+- Aspirante desenvolvedor Full Stack
 
 ### Conecte-se comigo
 
