@@ -1,10 +1,14 @@
 # Hi there 👋
 
+<img src="https://github.com/Silviofacanha/silviofacanha/assets/83619103/2b1d4cc5-3b4a-4b67-b1bb-1cc884fe8a79" width="300">
+
 ## SILVIO FAÇANHA
 
-<img align="right" alt="PC GIF" src="https://github.com/Silviofacanha/silviofacanha/assets/83619103/bcddfa5d-4789-4b3e-ae91-bc5728c4d483" width="190" />
-
 Lover of Technology and Coding <img alt="GIF" src=https://github.com/Silviofacanha/silviofacanha/assets/83619103/7687d775-ddd4-4eee-a94c-bd07ace67f96  width="20px" />
+
+## Abount me
+
+<img align="right" alt="PC GIF" src="https://github.com/Silviofacanha/silviofacanha/assets/83619103/bcddfa5d-4789-4b3e-ae91-bc5728c4d483" width="150" />
 
 - 💻: I'm Front-End Developer!👨‍💻
 - 🏠: I'm from Brazil.
@@ -12,7 +16,7 @@ Lover of Technology and Coding <img alt="GIF" src=https://github.com/Silviofacan
 - 🌱: I’m currently learning MIcrosoft Azure AI Fundamentals
 - 📤: 2024 Goals: create a new projects and find a new job.
 
-## Abount me
+## Contact
 
 [![Github Badge](https://img.shields.io/badge/-Github-100000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Silviofacanha)](https://github.com/Silviofacanha)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/silvio-façanha-1342b6218)](linkedin.com/in/silvio-façanha-1342b6218)
@@ -23,6 +27,7 @@ Lover of Technology and Coding <img alt="GIF" src=https://github.com/Silviofacan
 
 ## Languages end Tool:
 
+<div>
 <a href="https://github.com/Silviofacanha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silviofacanha&theme=dark&hide_langs_below=1" />
 </a>
@@ -34,6 +39,7 @@ Lover of Technology and Coding <img alt="GIF" src=https://github.com/Silviofacan
 <a href="https://github.com/Silviofacanha/silviogfacanha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Silviofacanha&repo=silviogfacanha&theme=dark" />
 </a>
+</div>
 
 ## What am I learning
 
