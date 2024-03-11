@@ -25,7 +25,8 @@ Olá mundo, meu nome é Davi e estou me transicionando para área da tecnologia 
 
 ## 🛠 Habilidades:
 
--**Linguagens:**
+- **Linguagens:**
+
 <div style="display: inline_block"><br>
     <img align="center" alt="Python" height="40" width "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
     <img align="center" alt="Java" height="40" width "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
@@ -39,7 +40,8 @@ Olá mundo, meu nome é Davi e estou me transicionando para área da tecnologia 
     <img align="center" alt="Sklearn" height="40" width "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
 </div>
 
--**Linguagem de Consultas SQl e NoSQl:**
+- **Linguagem de Consultas SQl e NoSQl:**
+
 <div style="display: inline_block"><br>
     <img align="center" alt="MySql" height="40" width "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
     <img align="center" alt="MongoDB" height="40" width "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
