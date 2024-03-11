@@ -31,7 +31,9 @@ Olá mundo, meu nome é Davi e estou me transicionando para área da tecnologia 
     <img align="center" alt="Java" height="40" width "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
     <img align="center" alt="R" height="40" width "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 </div>
--**Frameworks e Bibliotecas:**
+
+- **Frameworks e Bibliotecas:**
+   
 <div style="display: inline_block"><br>
     <img align="center" alt="Pandas" height="40" width "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
     <img align="center" alt="Sklearn" height="40" width "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
