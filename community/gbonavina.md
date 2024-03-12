@@ -19,6 +19,5 @@ Olá! Meu nome é Gabriel Bonavina, sou um entusiasta da tecnologia apaixonado p
 
 ## Exemplos de Utilitários
 
-- [utils/marcador.md](utils/marcador.md)
-- [utils/calculadora.py](utils/calculadora.py)
-
+- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
