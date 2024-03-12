@@ -1,5 +1,13 @@
 
-#############CyborgMx2024################
-Estudante da área de segurança da informação, Robotica, e inteligencia artificial 
-bom não tenho muito sobre oque dizer, então sinto muito por esse breve texto. 
+🎓 Estudante de Segurança da Informação
 
+🧠 Estudos em Inteligência Artificial
+
+💻 Manutenção de Computadores | Marketing Digital | Forense Digital
+
+🤖 Interessado em Prototipagem e Robótica
+
+💻 Proficiente em Python
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
