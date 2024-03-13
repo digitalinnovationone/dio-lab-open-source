@@ -30,5 +30,3 @@ Abaixo estão os links do meu GitHub dedicado à ciência de dados e do meu Link
 🔗 Linkedin https://www.linkedin.com/in/caroline-fraga-da-silva-a91bb9239/
 
 🎯 Meu objetivo é tornar-me cientista de dados. Contudo, ainda tenho admiração pelo desenvolvimento front-end, o qual fez eu me interessar por tecnologia.
-
-🎯 Meu objetivo atualmente é tornar-me cientista de dados. Contudo, ainda tenho carinho pelo desenvolvimento front-end, a área a qual fez me interessar por tecnologia.
