@@ -1,6 +1,7 @@
 # Renan Hideki Sugiura
 
 Olá, sou estudante de Ciência da Computação na Universidade Municipal de São Caetano do Sul e estou no 4º Semestre. 
+
 Atuo na área na programação de micro controladores a um semestre, além de utilizar de outras ferramentas que me são necessárias
 
 ## Contatos
