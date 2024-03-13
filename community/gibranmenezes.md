@@ -13,7 +13,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-
 ### About me:
 > ##### Education:
 - **Bachelor degree in Chemistry - [UFPB](https://www.ufpb.br/)**
