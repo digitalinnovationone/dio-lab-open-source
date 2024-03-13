@@ -23,4 +23,4 @@ Sou estudante de Analise de Dados e Backend, formado em Administração de Empre
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
 
-### Meus Principais Desafios de Projeto DIO
+### Meus Principais Desafios de Projeto DIO - em desenvolvimento
