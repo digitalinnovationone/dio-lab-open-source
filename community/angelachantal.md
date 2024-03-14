@@ -1,10 +1,10 @@
 # Ângela Chantal
 
-Estudante do Curso Técnico de Desenvolvimento de Sistesmas do Instituto Federal doPiauí - IFPI.
+Estudante do Curso Técnico de Desenvolvimento de Sistemas do Instituto Federal do Piauí - IFPI.
 
 ### Conecte-se Comigo
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://github.com/angelachantal)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/angelapschantal)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/angelachantal/)
 
 ### Habilidades
