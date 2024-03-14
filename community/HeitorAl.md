@@ -9,7 +9,7 @@ Olá, meu nome é Heitor e estou cursando Matemática Aplicada e Computacional n
 
 
 ##### Conecte-se comigo
-[![Perfil DIO](http://localhost:8080/badge/Perfil%20DIO-blue?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/heitoralmeida94)    [![LinkedIn](http://localhost:8080/badge/LinkedIn-blue?style=for-the-badge&logo=linkedIn&logoColor=white)](www.linkedin.com/in/heitor-bit)    [![Outlook](http://localhost:8080/badge/E%20mail-blue?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:heitoral79@outlook.com)    [![GitHub](http://localhost:8080/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HeitorAl)
+[![Perfil DIO](http://img.shields.io/badge/Perfil%20DIO-blue?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/heitoralmeida94)    [![LinkedIn](http://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedIn&logoColor=white)](www.linkedin.com/in/heitor-bit)    [![Outlook](http://img.shields.io/badge/E%20mail-blue?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:heitoral79@outlook.com)    [![GitHub](http://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HeitorAl)
 
 
 ##### Minhas estatísticas
