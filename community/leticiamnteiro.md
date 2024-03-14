@@ -24,7 +24,6 @@ Tenho 23 anos, sou estudante de Engenharia de Software na Unicesumar e tenho com
 [![Ruby](https://skillicons.dev/icons?i=ruby)](https://www.ruby-lang.org)
 [![Rails](https://skillicons.dev/icons?i=rails)](https://rubyonrails.org/)
 [![Elixir](https://skillicons.dev/icons?i=elixir)](https://elixir-lang.org/)
-[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://dart.dev/)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leticiamnteiro&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
