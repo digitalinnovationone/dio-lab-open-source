@@ -2,14 +2,11 @@
 
 
 ## Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/lana-kods)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-orange)](https://www.instagram.com/lana-kods)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lana-kods/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lana-kods/)
 
 ## Habilidades
-- ![Power BI](https://img.shields.io/badge/PowerBI-Badge-green)
-- ![Looker Studio](https://img.shields.io/badge/LookerStudio-Badge-blue)
-- ![Git](https://img.shields.io/badge/Git-Badge-red)
-- ![GitHub](https://img.shields.io/badge/GitHub-Badge-black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 - ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
 
 ## GitHub Stats
