@@ -14,12 +14,11 @@ Tenho 23 anos, sou estudante de Engenharia de Software na Unicesumar e tenho com
 ![C](https://skillicons.dev/icons?i=c)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![Swift](https://skillicons.dev/icons?i=swift)](https://dart.dev/)
-[![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/)
+[![Swift](https://skillicons.dev/icons?i=swift)](https://www.swift.org/)
 
 ## Interesse
 [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
-[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://dart.dev/)
+[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/en/)
 [![Ruby](https://skillicons.dev/icons?i=ruby)](https://www.ruby-lang.org)
 [![Rails](https://skillicons.dev/icons?i=rails)](https://rubyonrails.org/)
