@@ -8,7 +8,7 @@ Estou dando meus primeiros passos no mundo da programação! Apaixonado por reso
 
 📫Vamos nos conectar? Você pode me encontrar no LinkedIn com o link na minha bio ou me enviar um e-mail para vitorhugotk@gmail.com . Estou ansioso para fazer parte dessa comunidade de desenvolvedores!
 
-⚡ Bora Codar?
+⚡ Bora Codar ? 
 
 ### Conecte-se comigo
 
