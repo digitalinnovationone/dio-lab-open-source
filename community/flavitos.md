@@ -2,7 +2,7 @@
 
 linkedin: https://www.linkedin.com/in/flavio-silva-a8235327a/
 
-Olá! Sou um desenvolvedor de software com foco principalmente no desenvolvimento back-end, especializado em tecnologias como Spring (Java), C#, Docker e CI/CD. Possuo ampla experiência em trabalhar com bancos de dados relacionais e não-relacionais (SQL e NoSQL).
+Olá! Sou um desenvolvedor de software com foco principalmente no desenvolvimento back-end, especializado em tecnologias como Spring (Java), C#, Docker e CI/CD. Possuo ampla experiência em trabalhar com bancos de dados relacionais e não-relacionais (SQL e NoSQL)
 
 Além do desenvolvimento back-end, também tenho um histórico e interesse em segurança da informação. Minha experiência inclui engenharia reversa, análise de malware e operação de centros de segurança (SOC). Meu conhecimento em segurança, redes e desenvolvimento seguro de software me torna um profissional valioso para qualquer equipe.
 
