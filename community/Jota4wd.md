@@ -29,7 +29,6 @@ Brincadeiras a parte, tenho 45 anos e sempre fui um entusiasta apaixonado por te
 | [DIO](https://www.dio.me/users/jota4wd) | "Ao infinito e além!" |
 | [GitHub](https://github.com/Jota4wd) | Agora que aprendi a usar, irei upar antigos projetos 
 ##
-##
 # Post scriptum
 
 *Até o final do bootcamp adiciono MarkDown XD*
