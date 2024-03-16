@@ -1,6 +1,6 @@
 # Jota4wd
-Meu nome é José Silva, e por motivos óbvios já imaginam o poque sempre uso um alias.
-Brincadeiras a parte tenho 45 anos e sempre fui um entusiasta apaixonado por tecnologia, apesar de nunca ter trabalhado com TI e não possuir diplomas e/ou certificados sempre estudei algumas tecnologias e ferramentas (sim sou autodidata por hobby, inclusive ao aprender inglês).
+Meu nome é José Silva, e por motivos óbvios já imaginam o porquê sempre uso um alias.
+Brincadeiras a parte, tenho 45 anos e sempre fui um entusiasta apaixonado por tecnologia, apesar de nunca ter trabalhado com TI e não possuir diplomas e/ou certificados, sempre estudei algumas tecnologias e ferramentas (sim sou autodidata por hobby, inclusive ao aprender inglês).
 
 ##
 ##
@@ -16,10 +16,7 @@ Brincadeiras a parte tenho 45 anos e sempre fui um entusiasta apaixonado por tec
 - ACCESS (help, hardware fraco , backup e novas estruturas e tabelas a cada 6 meses)
 - SQLite (não me recordo o curso, mas tenho o certificado arquivado em algum diretório)
 
-&GT;&gt;&gt; algumas tecnologias fiz mais de um curso ou aperfeiçoamento.
-
-
-
+*algumas tecnologias fiz mais de um curso ou aperfeiçoamento.*
 
 ##
 ##
@@ -33,4 +30,5 @@ Brincadeiras a parte tenho 45 anos e sempre fui um entusiasta apaixonado por tec
 | [GitHub](https://github.com/Jota4wd) | Agora que aprendi a usar, irei upar antigos projetos 
 ##
 # Post scriptum
->>> Ateh o final do bootcamp adiciono MarkDown XD
+
+*Até o final do bootcamp adiciono MarkDown XD*
