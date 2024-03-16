@@ -204,6 +204,15 @@ main, section {
 
 #searchForm {
     display: flex;
+    flex-direction: column;
+    & div{
+        display: flex;
+    }
+    & > span{
+        font-size: 14px;
+        color: red;
+        display: none;
+    }
 }
 
 #searchButton {
