@@ -16,7 +16,7 @@ Brincadeiras a parte tenho 45 anos e sempre fui um entusiasta apaixonado por tec
 - ACCESS (help, hardware fraco , backup e novas estruturas e tabelas a cada 6 meses)
 - SQLite (não me recordo o curso, mas tenho o certificado arquivado em algum diretório)
 
-&GT;&gt;&gt; algumas tecnologias fiz mais de um curso ou aperfeiçoamento
+&GT;&gt;&gt; algumas tecnologias fiz mais de um curso ou aperfeiçoamento.
 
 
 
