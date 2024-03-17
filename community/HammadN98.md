@@ -4,7 +4,7 @@
   
 Entusiasta pela área de dados, desde a análise à ciência.</h3>
 
-- 🔭 Trabalhando  na formacao [Power BI Analyst](https://www.dio.me/curso-power-bi)
+- 🔭 Trabalhando em na formacao [Power BI Analyst]([https://github.com/HammadN98/credito_bancario](https://www.dio.me/curso-power-bi))
 
 - 🌱 Estou estudando no momento a ferramenta **POWER BI**
 
