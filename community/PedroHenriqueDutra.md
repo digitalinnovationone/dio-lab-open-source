@@ -1,5 +1,5 @@
-# PedroHenrique
-
+# PedroHenriqueDutra
+Olá me chamo Pedro Henrique Dutra, estou estudando em um bootcamp na DIO e ao mesmo tempo participo de uma faculdade de Sistemas de informação, apesar de ainda iniciante tenho muita vontade e disposição para aprender o ramo da tecnologia
 ## Conecte-se comigo
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:pedrohenriquedutramorais3@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroHenriqueDutra)
