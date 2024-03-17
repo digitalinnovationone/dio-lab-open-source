@@ -7,7 +7,7 @@ Atualmente, estou embarcando em uma jornada de transição de carreira, migrando
 
 Neste momento, estou imersa no Bootcamp Python Data Analytics oferecido pela DIO (Digital Innovation One), onde estou adquirindo habilidades essenciais em Python e análise de dados. Estou entusiasmada em aplicar essas habilidades em projetos desafiadores e contribuir de forma significativa em ambientes onde os dados são a chave para a tomada de decisões informadas e estratégicas.
 
-## Conecte-se comigo
+## Contato
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://web.dio.me/users/amanda_souza?tab=achievements)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ffdd54)](https://www.linkedin.com/in/amanda-de-souza-8046b5210/)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=ffdd54)](https://discord.com/channels/@souzaamanda/)
