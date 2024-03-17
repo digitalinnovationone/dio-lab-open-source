@@ -19,7 +19,7 @@ Neste momento, estou imersa no Bootcamp Python Data Analytics oferecido pela DIO
 - 🏋🏾 Sou amante de esportes. Pratico corrida, musculação e capoeira.
 - 🎯 Estou em busca de estágio.
 
-## Estudando 📖
+## Estudando
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=ffdd54)
 
