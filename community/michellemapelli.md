@@ -1,5 +1,5 @@
 # Olá, meu nome é Michelle Trigueiro (michellemapelli) 
-### _Sou Analista de Dados_
+### _Sou Analista de Dados há 4 anos_
 
 Estudante de Pós Graduação em Inteligência Artificial e Machine Learning.
 Trabalhando como Analista de Dados, minhas principais ferramentas de trabalho são:
