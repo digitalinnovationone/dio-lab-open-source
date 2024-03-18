@@ -1,7 +1,7 @@
 
 # Christiano dos Santos, PhD
 
-  md file for  open source project contribuition, I'm a chemistry and system analyst joining IA learning & development
+  md file for  contribuição p/ open source project. I'm a chemistry and system analyst joining IA learning & development
 
 ## 🛰 Minhas redes sociais
 
