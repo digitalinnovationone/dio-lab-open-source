@@ -23,7 +23,7 @@ Engenheira de software web/mobile. Atuo mais focada no Frontend e Backend (NodeJ
 
 #### 🌱 Estou estudando atualmente:
 <div>
-<img src="https://img.shields.io/badge/Desenvolvimento-Mobile-%23DE3641?style=flat-square&labelColor=%23414141&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Desenvolvimento-Mobile-%23DE3641?style=flat-square&labelColor=%23414141" />
 <img src="https://img.shields.io/badge/Inglês-%2300A86B?style=flat-square&labelColor=%23414141logoColor=white" />
 </div>
 
