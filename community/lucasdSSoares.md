@@ -4,9 +4,9 @@
     <span> Github Profile </span>
 </h1>
 
-# Lucas Soares
+# Lucas de Souza Soares
 
-Analista de Sistemas Mainframe e entusiasta de novos tecnologias.
+Analista de Sistemas Mainframe e entusiasta de novas tecnologias.
 
 ### Conecte-se comigo
 
