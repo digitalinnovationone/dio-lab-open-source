@@ -1,6 +1,6 @@
 # Andressa Novaes
 
-Engenheira de software web/mobile. Atuo mais focada no Frontend e Backend (NodeJs). Estudanto Desenvolvimento mobile. buscando me desenvolver cada vez mais e atrás de desafios e oportunidades.
+Engenheira de software web/mobile. Atuo atualmente focada no Frontend e Backend (NodeJs). Estudanto Desenvolvimento mobile. buscando me desenvolver cada vez mais e atrás de desafios e oportunidades.
 
 ### Conecte-se comigo
 
