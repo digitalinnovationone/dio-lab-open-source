@@ -8,4 +8,4 @@ Coding: C#, Typescript, Javascript, Java (para mobile/Android), Python
 UX/UI: Figma, Photoshop, Balsamiq, papel de pão!
 Games: Unity 3D, Blender e mais uma pancada de coisas...
 Em estudo: IA Generativa, ML, RNA
-Hobby: música e retrô games!
+Hobby: música e retrô games! 
