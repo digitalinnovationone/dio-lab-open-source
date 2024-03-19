@@ -82,7 +82,11 @@ Aprender o básico sobre contribuição no git e GitHub.
     > Exemplo: `git checkout -b feat/community/swanypdo`
 =======
     > Exemplo: git checkout -b feat/community/Cristian0-Pereira
+<<<<<<< HEAD
 >>>>>>> f31f10aa571cd34ca6f926bd663e1b34c81c3da5
+=======
+>>>>>>> a7e284ad02399ba170dec8c8e190f386e3aed1e7
+>>>>>>> 783ccbe9aed67df3f961f27719eca62bf23d416e
 5. Dentro da pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
     > Exemplo: `swanypdo.md` <br>
 6. Desenvolva o seu perfil. Para isso, você pode ver exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils);
