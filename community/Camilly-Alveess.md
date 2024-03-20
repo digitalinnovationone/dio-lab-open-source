@@ -15,8 +15,8 @@ Olá! Sou um estudante do curso de Ciências da Computação, atualmente residin
 
 ## **REDES SOCIAIS:**
 
-[![GitHub](https://github.com/Camilly-Alveess)
+[![GitHub](https://img.shields.io/badge/GitHub-2CA5E0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Camilly-Alveess)
 
-[![Instagram](https://www.instagram.com/camillyalves.ia/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%2CA5E0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/camillyalves.ia/)
 Footer
 
