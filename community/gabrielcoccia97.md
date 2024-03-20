@@ -1,6 +1,6 @@
 # Gabriel Luiz Cóccia Bento
 
-Olá, sou Gabriel, tenho 27 anos, atualmente sou Engenheiro QA.
+Olá, sou Gabriel, tenho 27 anos e sou Engenheiro QA.
 
 ## Conecte-se comigo
 
@@ -29,7 +29,7 @@ Olá, sou Gabriel, tenho 27 anos, atualmente sou Engenheiro QA.
 - Trabalho em Equipe
 - Flexibilidade
 
-## Objetivo
+## Objetivos
 - Automatizar testes com Python
 - Manipular e criar insghts com dados
 - Falar Inglês
