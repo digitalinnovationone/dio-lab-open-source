@@ -12,7 +12,7 @@ Olá! Sou Lugaus, e estou aprendendo novos conhecimentos na Área de TI.
 
 ## GitHub Status 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lugaus&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lugaus&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=Ffa)
 
 ## minhas Contribuições
 N/A.
