@@ -1,6 +1,7 @@
 ### Olá, eu sou Alexsandro (kitai96).😁🌈
 
-✨**Estudante** na [DIO](https://dio.me) e estudante de Análise e Desenvolvimento de Sistemas na [Faculdade Unifeso](https://www.unifeso.edu.br/)
+✨**Estudante** na [DIO](https://dio.me) e 
+estudante de Análise e Desenvolvimento de Sistemas na 💻[Faculdade Unifeso](https://www.unifeso.edu.br/)
 
 ### 👔Estatísticas no GitHub
 
