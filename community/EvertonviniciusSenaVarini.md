@@ -6,7 +6,7 @@ produtiva usando o terminal. Até esse momento o que tinha ouvido era que termin
 ceiramente, então tive que vender meu netbook, depois disso passaram se os anos, terminei os estudos, e finalmente chegou o dia de escolhar uma faculdade, eu estava dividido
 entre educação especial, pedagogia, design gráfico, lingua portuguesa e a área de TI, especificamente ciência da computação(eu estava maravilhado com a programação), então
 minha paixão por computadores falou mais alto, fiz o vestibular para computação na univesp, e passei em 3° lugar, desde então venho estudando e ficando cada vez mais apaixo-
-nado pela tecnologia, essa dádiva dada por Deus.
+nado pela tecnologia, essa dádiva dada por Deus
 
 ## Habilidades
 
