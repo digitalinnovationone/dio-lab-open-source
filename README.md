@@ -96,7 +96,7 @@ Aprender o básico sobre contribuição no git e GitHub.
 4. Create/Reference a new **branch** and name it `feat/community/YOUR_USERNAME`: `git checkout -b feat/community/YOUR_USERNAME`;
     > Example: `git checkout -b feat/community/fabianor135`
 5. Inside the [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) folder, create a Markdown file (extension `.md`) and name it after your GitHub username;
-    > Example: `rafaeldscordeiro.md` <br>
+    > Example: `fabianor135.md` <br>
 6. Develop your profile: For that, you can see examples in the [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) folder and add some of the utilities available in the [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) folder;
     > **Note:** Use the other examples as inspiration, not as a copy.
 7. Add your changes to the "staging area" with the command `git add community/YOUR_USERNAME.md`;
