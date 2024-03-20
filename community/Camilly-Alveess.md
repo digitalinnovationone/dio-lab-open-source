@@ -4,7 +4,7 @@
 
 ## **SOBRE:**
 
-Olá! Atuco como cientista de dados, atualmente finalizando o curso de Graduação em Inteligência Artificial. Sou apaixonada pela área tech, sempre buscando aprender e explorar novas áreas dentro desse vasto campo.
+Olá! Atuo como cientista de dados, atualmente finalizando o curso de Graduação em Inteligência Artificial. Sou apaixonada pela área tech, sempre buscando aprender e explorar novas áreas dentro desse vasto campo.
 
 ## **HABILIDADES COM:**
 - Python
