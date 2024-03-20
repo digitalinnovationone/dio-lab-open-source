@@ -14,3 +14,4 @@
 -👩🏼‍💻💻 Sou Graduado em Redes de computadores pela Estácio.
 
 -👩🏼‍💻💻 Possuo MBA em Cloud Computing pela Faculdade XP Educação - IGTI
+
