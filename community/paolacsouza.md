@@ -3,6 +3,7 @@
 🏢 **Atuação Profissional**
 
 -👩🏼‍💻💻 Trabalho com suporte técnico desde 2014.
+
 -👩🏼‍💻💻 Atualmente trabalho com Asset Management com Análise financeira, Microsoft Office, Liderança em projeto, Gestão de ativos, entre outros na T-Systems Brasil.
 
 
