@@ -3,7 +3,7 @@
 
 Olá! 🤓
 
-Me chamo Gudierre, um tanto incomum, assim como minha diversidade de gostos musicais.
+Me chamo Gudierre, um tanto incomum, assim como minha diversidade de gostos musicais 😂.
 
 Sou formado em Análise e Desenvolvimento de Sistemas pela Estácio e entrei no mundo da tecnologia em 2014, inicialmente como suporte em uma empresa do ramo hospitalar. Ao longo dos anos, desenvolvi minhas habilidades profissionais, expandindo para áreas de infraestrutura como redes, trabalhando com Cisco e PFsense, servidores Windows e Linux, e virtualização de computadores com VMWare, entre outros. Após quatro anos na empresa, tive a oportunidade de migrar para a parte mais sistêmica da organização, onde comecei a trabalhar com linguagem SQL, utilizando o PL/SQL para desenvolver triggers, procedures e outros objetos para customizações no ambiente e resolução de incidentes.
 
