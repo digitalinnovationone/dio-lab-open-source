@@ -40,7 +40,7 @@ Meu nome é Tiago Santana, um entusiasta da programação.
 
 ### 📌 Projetos em Destaque
 
-<a href="https://github.com/anuraghazra/JamesCode-Ts">
+<a href="https://github.com/JamesCode-Ts/portifolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JamesCode-Ts&repo=portifolio&theme=dark" />
 </a>
 
