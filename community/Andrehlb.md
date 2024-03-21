@@ -145,6 +145,8 @@
 
 
 ### COMPUTER AND STACKS FORMATION
+
+- Undergraduate Computer Science at Estácio, March/2024 - July/2026.
 - Degree: IBM - MasterTech - Match! , started July, 2023.
 
 - Data Science and Machine Learning:
