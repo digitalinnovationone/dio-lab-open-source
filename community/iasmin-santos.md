@@ -1,7 +1,7 @@
 
 # Hello, world! I'm Iasmin 😊
 
-Meu nome é **Iasmin Evelin Santos** e eu sou uma estudande de **Desenvolvimento de Sistemas** em treinamento, cursando o *Ensino Técnico Profissionalizante Integrado com Ensino Médio*.
+Meu nome é **Iasmin Evelin Santos** e eu sou uma estudande de **Desenvolvimento de Sistemas** em treinamento, cursando o *Ensino Técnico Profissionalizante Integrado com Ensino Médio*. Iniciei o curso na DIO no mês de março/2024 e estou muito ansiosa e empolgada para os desafios e ensinamentos que irão me disponibilizar. 
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/eiasmin_santos)
 
