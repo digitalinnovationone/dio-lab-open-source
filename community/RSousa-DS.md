@@ -1,7 +1,7 @@
 
 # Rodrigo Sousa Santos
 
-Projeto de contribuição e versionamento Git
+Projeto de contribuição e versionamento Git e Git Hub
 
 
 
