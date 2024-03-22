@@ -6,7 +6,7 @@ Desafio de criação de Profile README para curso da DIO.
 
 ## Sobre mim 
 
-Sou Historiador, músico, pai, jogo xadrez e um apaixonado por aprender sobre o mundo, sobre a natureza e sobre tecnologias. Atualmente, estou focado em data engeneer.
+Sou Historiador, músico, pai, jogo xadrez e um apaixonado por aprender sobre o mundo, sobre a natureza e sobre tecnologias. Atualmente, estou focado em data engineer.
 
 - 💼 Trabalho como Técnico Administrativo Educacional no Instituto Federal do Espírito Santo.
 - 🎓 Licenciado em História pela Universidade Federal do Espírito Santo e Mestre em Ensino de Humanidades pelo Instituto Federal do Espírito Santo. Atualmente estou no Curso Superior de Tecnologia em Sistemas para Internet do Instituto Federal do Espírito Santo.
