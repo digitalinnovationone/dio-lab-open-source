@@ -36,7 +36,10 @@ Nos meus momentos de lazer, gosto de tocar violão e cantar, gosto de jogar xadr
 ## Como me encontrar 📫
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-ribeiro-2655341b9/)
+
 - DIO: [robinho_ufes](https://www.dio.me/users/robinho_ufes)
+
+- 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/robson_robinho_ribeiro/)
 
 ## Obrigado por visitar meu perfil! 😄
