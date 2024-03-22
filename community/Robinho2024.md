@@ -22,7 +22,7 @@ Sou Historiador, músico, pai, jogo xadrez e um apaixonado por aprender sobre o 
 
 ## Projetos recentes 💻
 
-- [Projeto 1](https://github.com/Robinho2024/dio-lab-open-source)
+- [Projeto 1](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/community/Robinho2024.md)
 
 
 ## Estatísticas do GitHub 📊
