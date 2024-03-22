@@ -4,7 +4,7 @@ Desafio de criação de Profile README para curso da DIO.
 
 # Olá, eu sou Robinho! 👋
 
-## Sobre mim ℹ️
+## Sobre mim 
 
 Sou Historiador, músico, pai, jogo xadrez e um apaixonado por aprender sobre o mundo, sobre a natureza e sobre tecnologias. Atualmente, estou focado em data engeneer.
 
