@@ -1,4 +1,4 @@
-### Oi, eu sou o Lázaro 👋
+### Olá, eu sou o Lázaro 👋
 
 🎯 Graduando em **Ciências Econômicas** pela [UFJF](https://www2.ufjf.br/ufjf/) com ênfase em **Ciência de Dados**. Fascinado por **Forecasting** e **Machine Learning**. 
 
