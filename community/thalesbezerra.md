@@ -3,7 +3,7 @@
 Meu nome é Thales Bezerra, o curso está muito bom mesmo. Pretendo terminar esse Bootcamp e seguir nessa área.
 
 
-## Demonstração
+## Demonstração.
 
 Insira um gif ou um link de alguma demonstração
 
