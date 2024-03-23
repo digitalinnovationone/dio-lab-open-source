@@ -1,27 +1,34 @@
-### Oi, eu sou o L�zaro ??
+### Oi, eu sou o Lázaro 👋
 
-?? Graduando em **Ci�ncias Econ�micas** pela [UFJF](https://www2.ufjf.br/ufjf/) com �nfase em **Ci�ncia de Dados**. Fascinado por **Forecasting** e **Machine Learning**. 
+🎯 Graduando em **Ciências Econômicas** pela [UFJF](https://www2.ufjf.br/ufjf/) com ênfase em **Ciência de Dados**. Fascinado por **Forecasting** e **Machine Learning**. 
 
-### ????? Vis�o Geral no GitHub
+### 📱 Conecte-se Comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lazarocordeirosilva/)
+
+[![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lazarocordeiro19)
+
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lazarocord/)
+
+
+### 👨‍💻 Visão Geral no GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lazarocordeirosilva&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-### ?? Principais Projetos
+### 🔧 Principais Projetos
 [![LH_CD_LAZARO_CORDEIRO](https://github-readme-stats.vercel.app/api/pin/?username=lazarocordeirosilva&repo=LH_CD_LAZARO_CORDEIRO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/lazarocordeirosilva/LH_CD_LAZARO_CORDEIRO)
 
 [![Previsao_Churn](https://github-readme-stats.vercel.app/api/pin/?username=lazarocordeirosilva&repo=Previsao_Churn&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/lazarocordeirosilva/Previsao_Churn)
 
 [![PrevisaodeSeguros](https://github-readme-stats.vercel.app/api/pin/?username=lazarocordeirosilva&repo=PrevisaodeSeguros&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/lazarocordeirosilva/PrevisaodeSeguros)
 
-### ?? Linguagens Mais Usadas
+### 📖 Linguagens Mais Usadas
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lazarocordeirosilva&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-### ? Minhas Contribui��es 
+### ✍ Minhas Contribuições 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lazarocordeirosilva&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
-### Habilidades
 ### Habilidades
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -45,6 +52,4 @@
 
 
 
-
-. 
 
