@@ -10,7 +10,7 @@ Insira um gif ou um link de alguma demonstração
 
 ## Deploy
 
-Para fazer o deploy desse projeto rode
+Para fazer o deploy desse projeto rode.
 
 ```bash
   npm run deploy
