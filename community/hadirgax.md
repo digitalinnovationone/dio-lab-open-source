@@ -1,14 +1,14 @@
-## Hello, I'm [@hadirga](https://twitter.com/hadirga) (Hadir Garcia) 👋
+## Hello, I'm [@hadirgax](https://linkedin.com/in/hadirgax) (Hadir Garcia) 👋
 
-I'm interested in web development, operations research and optimization models for the supply chain.
+I'm interested in web development, operations research and optimization modeling.
 
 You can find me on:
 
+- GitHub as [@hadirgax](https://github.com/hadirgax)
+- Instagram as [@hadirgax](https://instagram.com/hadirgax)
+- LinkedIn as [in/hadirga](https://linkedin.com/in/hadirgax)
 - My website [hadirgax.com](https://hadirgax.com/)
 - Twitter as [@hadirgax](https://twitter.com/hadirgax)
-- GitHub as [@hadirgax](https://github.com/hadirgax)
-- LinkedIn as [in/hadirga](https://linkedin.com/in/hadirgax)
-- Instagram as [@hadirgax](https://instagram.com/hadirgax)
 
 ## Some Technologies and Tools:
 
@@ -55,6 +55,6 @@ You can find me on:
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`
 --->
 
-<a href="https://github.com/hadirga">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hadirga&show_icons=true&include_all_commits=true&theme=material-palenight" alt="hadirga's github stats" />
+<a href="https://github.com/hadirgax">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hadirgax&show_icons=true&include_all_commits=true&theme=material-palenight" alt="hadirgax's github stats" />
 </a>
