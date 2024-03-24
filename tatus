@@ -1,0 +1,220 @@
+[33mcommit ef77594aab4dd0fbdd4963357135bbf712083c26[m[33m ([m[1;36mHEAD -> [m[1;32mfeat/community/lealvinicius[m[33m)[m
+Author: unknown <vinicius-leal1999@outlook.comgit config -- global user.name Vinicius>
+Date:   Sun Mar 24 01:33:32 2024 -0300
+
+    feat: add lealVinicius profile
+
+[33mcommit cdfb66bbafde6458da119ae794d89f50cf794e9c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m, [m[1;32mfeat/community/seunomedeusuario[m[33m)[m
+Merge: 3a100f15a 8dbcdfdb8
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Mar 24 03:06:35 2024 +0000
+
+    Merge pull request #25140 from marconi3000/feat/community/marconi3000
+
+[33mcommit 8dbcdfdb8e2ce484df7a6e951d3031d395b99dba[m
+Author: Marconi Santos <prof.marconi.santos@gmail.com>
+Date:   Sun Mar 24 00:01:31 2024 -0300
+
+    feat: add marconi3000 profile
+
+[33mcommit 3a100f15abf54d81ab8612ee848ef1dd38bd3b0a[m
+Merge: 03e4edf55 bba7a355f
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Mar 24 02:40:10 2024 +0000
+
+    Merge pull request #25138 from vinicius-emanuelds/patch-1
+
+[33mcommit bba7a355f00508ed6360ba847b1d5994ae275df0[m
+Author: Vinicius Emanuel <159717706+vinicius-emanuelds@users.noreply.github.com>
+Date:   Sat Mar 23 23:39:24 2024 -0300
+
+    doc update vinicius-emanuelds.md
+
+[33mcommit 03e4edf5553832d5ad9aa1a58a0fcbc644991600[m
+Merge: 59a322894 6cd406d4e
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Mar 24 02:30:57 2024 +0000
+
+    Merge pull request #25137 from vinicius-emanuelds/feat/community/vinicius-emanuelds
+
+[33mcommit 6cd406d4e0b2cbdd23ecfb2b29a81f5990ada9cc[m
+Author: vinicius-emanuelds <vinicius-emanuelds@gmail.com>
+Date:   Sat Mar 23 23:25:41 2024 -0300
+
+    feat: add vinicius-emanuelds prodile
+
+[33mcommit 59a3228947558be100d6cf125c4c2264fa68ed39[m
+Merge: da54fa0da 333b6bd00
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Mar 24 02:09:43 2024 +0000
+
+    Merge pull request #25135 from jeffhawk/feat/community/jeffhawk
+
+[33mcommit 333b6bd006ed077dd54552e5d3af519507cf0eec[m
+Merge: 77aa59b0b da54fa0da
+Author: Jefferson Eduardo <46302791+jeffhawk@users.noreply.github.com>
+Date:   Sat Mar 23 22:58:22 2024 -0300
+
+    Merge branch 'main' of https://github.com/digitalinnovationone/dio-lab-open-source into feat/community/jeffhawk
+
+[33mcommit 77aa59b0b241bffc89678883f3e795dcaff16e5d[m
+Author: Jefferson Eduardo <46302791+jeffhawk@users.noreply.github.com>
+Date:   Sat Mar 23 22:45:09 2024 -0300
+
+    feat: add jeffhawk profile
+
+[33mcommit da54fa0daa877e52349979e1536cf6dcf228b38f[m
+Merge: 05a7b1fc7 39a0a5b28
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Mar 24 00:32:28 2024 +0000
+
+    Merge pull request #25133 from LeDiniz/feat/community/LeDiniz
+
+[33mcommit 05a7b1fc7c3dcb277bbbe0f9b7b9f5478154603f[m
+Merge: fcf5434e8 4e3917024
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Mar 24 00:30:29 2024 +0000
+
+    Merge pull request #25132 from hadirgax/main
+
+[33mcommit 4e39170240835e6841d3afc1a8e4aeff98b1c959[m
+Merge: fcf5434e8 1bde5fdf2
+Author: Hadir Garcia <22103698+hadirgax@users.noreply.github.com>
+Date:   Sat Mar 23 21:28:32 2024 -0300
+
+    Merge pull request #1 from hadirgax/feat/community/hadirgax
+    
+    Feat/community/hadirgax
+
+[33mcommit 39a0a5b281582e19b296518ff60811f96305e802[m
+Author: LeDiniz <leticiadiniz.contato@gmail.com>
+Date:   Sat Mar 23 21:24:08 2024 -0300
+
+    feat: add LeDiniz profile
+
+[33mcommit fcf5434e8b41a0dd48c5e86f578eaf4ef5fdcc7f[m
+Merge: 52d1beec9 30b9eed09
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Mar 23 23:58:42 2024 +0000
+
+    Merge pull request #25131 from lazarocordeirosilva/feat/community/lazarocordeirosilva
+
+[33mcommit 30b9eed0900ab34f789ad41a270d288a2b7ad567[m
+Author: Lázaro Cordeiro Silva <lazarocordeiro19@gmail.com>
+Date:   Sat Mar 23 20:57:18 2024 -0300
+
+    feat: add lazarocordeirosilva profile
+
+[33mcommit 52d1beec986d9bbe2c8d8871c7b74742b6a6027d[m
+Merge: 47cf81e76 ce0a6862d
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Mar 23 23:53:36 2024 +0000
+
+    Merge pull request #25130 from lazarocordeirosilva/feat/community/lazarocordeirosilva
+
+[33mcommit 47cf81e76418e7f1b788415dd4efec8e2db31956[m
+Merge: 2c53a5140 3cde252ab
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Mar 23 23:52:06 2024 +0000
+
+    Merge pull request #25129 from andersonvalinhoss/feat/community/andersonvalinhoss
+
+[33mcommit ce0a6862d12ae673f4e113d7cbc12a584d3db4a2[m
+Author: Lázaro Cordeiro Silva <lazarocordeiro19@gmail.com>
+Date:   Sat Mar 23 20:51:02 2024 -0300
+
+    feat: add lazarocordeirosilva profile
+
+[33mcommit 2c53a514083660c887177187f792ef61cf003983[m
+Merge: 99f0379d0 f16c37043
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Mar 23 23:50:48 2024 +0000
+
+    Merge pull request #25128 from eualanteixeira/feat/community/eualanteixeira
+
+[33mcommit 99f0379d0d9c234e2d2b94f7bd4a36ed30a0e80c[m
+Merge: d4529fb6d 32dd42b6c
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Mar 23 23:46:24 2024 +0000
+
+    Merge pull request #25127 from lazarocordeirosilva/feat/community/lazarocordeirosilva
+
+[33mcommit f16c37043bc8d2d4a49c66872ec9fa1ca1f505ed[m
+Author: eualanteixeira <eualanteixeira@gmail.com>
+Date:   Sat Mar 23 20:44:05 2024 -0300
+
+    feat: add eualanteixeira profile
+
+[33mcommit 32dd42b6c888e6ec8e47f273bd14c166f09521b0[m
+Author: Lázaro Cordeiro Silva <lazarocordeiro19@gmail.com>
+Date:   Sat Mar 23 20:41:38 2024 -0300
+
+    feat: add lazarocordeirosilva profile
+
+[33mcommit 3cde252ab8a716d2af182394062a020fcb09f8c4[m
+Merge: 43569130b a9dda423a
+Author: avalinhos <valinhos.anderson@hotmail.com>
+Date:   Sat Mar 23 20:37:23 2024 -0300
+
+    Resolve merge conflict in community/andersonvalinhoss.md
+
+[33mcommit 43569130b6367106b47237f1bd1ea7f2b1dec4ca[m
+Author: avalinhos <valinhos.anderson@hotmail.com>
+Date:   Sat Mar 23 20:33:43 2024 -0300
+
+    feat: add andersonvalinhoss
+
+[33mcommit d4529fb6d51939fc2c2a0221bb6358408995052e[m
+Merge: 06f425a8f 80c97815a
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Mar 23 22:51:40 2024 +0000
+
+    Merge pull request #25124 from Rafaelsn11/feat/community/Rafaelsn11
+
+[33mcommit 1bde5fdf28e4c322b1a65bc49d22e811973ae325[m
+Author: Hadir Garcia <22103698+hadirgax@users.noreply.github.com>
+Date:   Sat Mar 23 22:51:24 2024 +0000
+
+    hadirgax profile
+
+[33mcommit e9fee87a095d29837b282520843fc20f269a0091[m
+Author: Hadir Garcia <22103698+hadirgax@users.noreply.github.com>
+Date:   Sat Mar 23 22:48:47 2024 +0000
+
+    hadirgax profile
+
+[33mcommit 80c97815a9787688a391831dbcbdb6012e280e64[m
+Author: Rafaelsn11 <faelsantana001@gmail.com>
+Date:   Sat Mar 23 19:46:21 2024 -0300
+
+    feat: add Rafaelsn11 profile
+
+[33mcommit b6f4b4296946214a1f90040599c7d954269800d4[m
+Author: Hadir Garcia <22103698+hadirgax@users.noreply.github.com>
+Date:   Sat Mar 23 22:41:35 2024 +0000
+
+    hadirgax profile
+
+[33mcommit 06f425a8ff26ef36a18dc85ad155cbdf50629fb7[m
+Merge: 688396ed6 350f4010b
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Mar 23 22:25:08 2024 +0000
+
+    Merge pull request #25122 from jean0t/feat/community/jean0t
+
+[33mcommit 350f4010b7efe945979ca6d83e829e123b6afdb0[m
+Author: jean0t <joaomouryf@hotmail.com>
+Date:   Sat Mar 23 19:24:05 2024 -0300
+
+    feat(new profile): add jean0t Profile
+
+[33mcommit 688396ed6197428678be9c6625c7409ac67d04a6[m
+Merge: 7a17a720a bc6caa91f
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Mar 23 20:42:35 2024 +0000
+
+    Merge pull request #25116 from Marcoder2/feat/community/Marcoder2
+
+[33mcommit bc6caa91f69b0cb51e96901011b52c45c3ec4eaa[m
+Author: Marcoder2 <marcos.domingos02@gmail.com>
+Date:   Sat Mar 
