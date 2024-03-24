@@ -4,16 +4,15 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas, passando pelo proces
 
 ##
 ### 📊 Estatísticas no GitHub:
-<a href="https://github.com/vinicius-emanuelds">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vinicius-emanuelds&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&\&rank_icon=github" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinicius-emanuelds&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+</div>
 
 ##
 ### 🤓 Estudando atualmente:
 
-<div style="display: inline_block"><br/>
-<img aLign="center" alt="C" src="https://w7.pngwing.com/pngs/465/779/png-transparent-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle-computer-thumbnail.png?style=for-the-badge&logo=typescript&logoColor=white" />
-<img aLign="center" alt="Python" src="https://w1.pngwing.com/pngs/787/398/png-transparent-react-logo-javascript-python-clojure-programming-language-redux-computer-software-php-thumbnail.png?style=for-the-badge&logo=angular&logoColor=white" />
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 </div>
 
 ##
