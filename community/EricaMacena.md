@@ -29,7 +29,7 @@ Olá, me chamo Erica Macena, tenho 25 anos e estou cursando Análise de Desenvol
 
 
 
-## 🔍 Descubra mais Sobre Mim 
+##  Descubra mais Sobre Mim 
        
 Sou uma mulher determinada e focada em meus objetivos. Comunicativa por natureza, adoro interagir com pessoas e aprender com suas experiências.
 Gosto de manter uma rotina padronizada, com horários organizados para otimizar meu tempo e alcançar meus objetivos de forma eficiente.
