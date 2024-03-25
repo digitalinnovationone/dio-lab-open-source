@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Mariana Alcantara🎨</h1>
+<h1 align="center">Hey there! I'm Mariana 🎨</h1>
 
 📖. Currently studying computer Science at FAM, specializing in native languages such as C, C++ and C#.
 
