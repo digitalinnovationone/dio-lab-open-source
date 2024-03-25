@@ -1,5 +1,5 @@
 <div>
-<img src = "gifcat.gif" width = "340" align = "right">
+<img src = "https://raw.githubusercontent.com/AlziraEva/AlziraEva/main/gifcat.gif" width = "340" align = "right">
  
 ###  Olá ! Sou a Eva 🙋‍♀️  
 ##### Atualmente estou em transição de carreira para a área da programação
