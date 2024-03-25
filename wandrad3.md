@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wesley de Andrade Santos</h1>
-<h3 align="left">Connect with me:</h3>
+
 
 Sobre mim:
 
@@ -12,6 +12,8 @@ Além disso, tenho me especializado no conhecimento de práticas DevOps, estudan
 Minha bagagem acadêmica também inclui experiência em gerenciamento e configuração de segurança em ambientes computacionais. No curso de segurança, implementei sistemas de monitoramento como Zabbix com SNMP, DNS do Pihole, proxy Squid e Firewall IPTABLES.
 
 Estou sempre comprometido com a inovação e aprimoramento, buscando constantemente aplicar minha expertise na otimização de processos, desenvolvimento e segurança de sistemas. Estou entusiasmado em colaborar em projetos desafiadores e contribuir para o sucesso da equipe e da organização.
+
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/wesley-de-andrade-santos-34a52817b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wesley-de-andrade-santos-34a52817b/" height="30" width="40" /></a>
