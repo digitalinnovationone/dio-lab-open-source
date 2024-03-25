@@ -19,8 +19,6 @@ Engenheiro de software | Consultor de TI
 
 > Gosto de práticas de produtividade e atualmente estou aplicando a prática de Second Brain, que é uma junção dos métodos C.O.D.E. e P.A.R.A. para captura de informação e organização. Utilizo métodos de organização de tarefas, como o método Eisenhowser e Kanban para tarefas diárias. Para gestão de projetos utilizo as boas práticas do SCRUM, somadas a métodos e ferramentas como 5W2H e G.U.T.
 
-> ## Falar algo sobre as pessoas que 
-
 </td>
 <td style="Width:50%; text-align: justify; vertical-align: top">
 
