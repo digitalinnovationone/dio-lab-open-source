@@ -1,5 +1,5 @@
 # 👩‍💻 Sobre Mim
-Olá, me chamo Erica Macena, tenho 25 anos e estou cursando Análise de Desenvolvimento de Sistemas. Estou ansiosa por novas oportunidades e em busca de experiências para enriquecer meu caminho. Pronta para enfrentar desafios, determinada a aprender e evoluir constantemente na área.
+Olá, me chamo Erica de Araujo Macena, tenho 25 anos e estou cursando Análise de Desenvolvimento de Sistemas. Estou ansiosa por novas oportunidades e em busca de experiências para enriquecer meu caminho. Pronta para enfrentar desafios, determinada a aprender e evoluir constantemente na área.
 
 
 ##  Conecte-se Comigo
