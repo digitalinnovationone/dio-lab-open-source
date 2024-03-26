@@ -84,8 +84,8 @@ Aprender o básico sobre contribuição no git e GitHub.
 6. Desenvolva o seu perfil. Para isso, você pode ver exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils);
     > **Observação:** Use os outros exemplos como inspiração e não cópia.
 7. Adicione suas alterações a "staging area" com o comando `git add community/SEU_USERNAME.md`;
-8. Crie um commit e adicione a mensagem indicando a adição do seu perfil `git commit -m"feat: add SEU_USERNAME profile"`;
-9. Envie as alterações para o seu repositório remoto `git push origin feat/community/SEU_USERNAME`; 
+8. Crie um commit e adicione a mensagem indicando a adição do seu perfil `git commit -m"feat: add Thuanny_Santos profile"`;
+9. Envie as alterações para o seu repositório remoto `git push origin feat/community/Thuanny_santos`; 
 10. Crie um **Pull Request**.
 
 ### Instructions (EN/US)
