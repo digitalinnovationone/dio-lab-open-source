@@ -1,6 +1,6 @@
 # Ezequiel Nascimento
 
-Sou Técnico em Informática e estou trabalhando na área porem estou em busca de mudança.
+Sou Técnico em Informática e estou trabalhando na área porem estou em busca de mudanças.
 
 ## Conecte-se comigo
 
