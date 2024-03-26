@@ -21,4 +21,4 @@ Meu nome é Ederson Santos, tenho 39 anos e esse ano inicciei o curso de TECNOLO
 
 ## Minhas Contribuições
 
-Meu portifólio por enquanto está vazio, mas espero e breve contribuir com todos vocês!!
+Meu portifólio por enquanto está vazio, mas espero em breve contribuir com todos vocês!!
