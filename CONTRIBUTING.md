@@ -44,7 +44,7 @@
     
 ## Convenção de Commits 
 
-| Tipo de Commit | Descrição                                                            |
+| Tipo de Commit | Descrição!                                                            |
 | ---------------|----------------------------------------------------------------------|
 | `feat`         | Adiciona uma nova funcionalidade ao projeto.                         |
 | `fix`          | Corrige um bug ou problema no projeto.                               |
