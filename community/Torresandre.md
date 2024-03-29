@@ -21,7 +21,7 @@
     <h2>GitHub Stats</h2>
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Torresandre&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=0D1117"
       alt="Estatísticas do GitHub de André Torres" />
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torresandr&layout=compact&langs_count=7&theme=github_dark&border_color=0D1117"
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torresandre&layout=compact&langs_count=7&theme=github_dark&border_color=0D1117"
       alt="Linguagens mais usadas de André Torres" />
   </div>
 
