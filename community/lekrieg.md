@@ -1,8 +1,11 @@
 ## Olá, meu nome é Daniel ^.^
 
 Sou um game dev apaixonado por jogos e historias bem construidas. Amo assistir animes e ler mangás.
+
 Atualmente trabalho como Fullstack, utilizando C# e Avalonia UI.
+
 Já trabalhei com Java | springboot, AWS | Azure, Jira | Trello, Blender, Unity e diversas outras tecnologias.
+
 Amo programar e aprender coisas novas s2
 
 - 💻[LinkedIn](https://www.linkedin.com/in/daniel-henrique-silva-167375132/)
