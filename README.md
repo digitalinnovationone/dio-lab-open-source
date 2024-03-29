@@ -1,9 +1,9 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Olá, sou UX/UI Designer Freelancer e Desenvolvedora Fullstack. </span>
+    <span> Carmin Dias Ilarraz </span>
 </h1>
-
+Olá, sou UX/UI Designer Freelancer e Desenvolvedora Fullstack.
 Saiba mais a respeito do meu trabalho acessando o meu portfolio no [Instagram](https://www.istagram.com/carmin_portfolio).
 
 ************************************************************************************************************************
