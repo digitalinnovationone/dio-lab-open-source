@@ -77,8 +77,8 @@ Aprender o básico sobre contribuição no git e GitHub.
 2. Clone localmente: `git clone https://github.com/SEU_USERNAME/dio-lab-open-source.git`;
 3. Adicione o remote upstream para manter seu repositório local atualizado. Por exemplo: `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git`;
     > Utilize o comando `git pull upstream main` para baixar e mesclar as alterações no seu repositório local com base na branch `main` deste repositório original de onde você fez o fork, ou `git fetch upstream main` para baixar sem mesclar. Veja mais em: [Primeiros Passos com Git e GitHub](https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
-4. Crie/Referêncie uma nova **branch** e nomeie como `feat/community/SEU_USERNAME`:
-    > Exemplo: git checkout -b feat/community/Cristian0-Pereira
+4. Crie/Referêncie uma nova **branch** e nomeie como `feat/community/SEU_USERNAME`: `git checkout -b feat/community/SEU_USERNAME`;
+    > Exemplo: git checkout -b feat/community/igorfbarroso
 5. Dentro da pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
     > Exemplo: `rafaeldscordeiro.md` <br>
 6. Desenvolva o seu perfil. Para isso, você pode ver exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils);
@@ -106,7 +106,7 @@ Aprender o básico sobre contribuição no git e GitHub.
 
 ### Instrucciones (ES/ES)
 1. Haz un **Fork** de este repositorio;
-2. Clona localmente: `git clone https://github.com/TU_USERNAME/dio-lab-open-source.git`;
+2. Clona localmente: `git clone https://github.com/YOUR_USERNAME/dio-lab-open-source.git`;
 3. Añade el remote upstream para mantener tu repositorio local actualizado. Por ejemplo: `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git`;
     > Usa el comando `git pull upstream main` para descargar y fusionar los cambios en tu repositorio local basado en la rama `main` de este repositorio original del cual hiciste el fork, o `git fetch upstream main` para descargar sin fusionar. Aprende más en: [Primeros Pasos con Git y GitHub](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/git/ROADMAP_GITHUB.md).
 4. Crea/Referencia una nueva **branch** y nómbrala `feat/community/TU_USERNAME`: `git checkout -b feat/community/TU_USERNAME`;
