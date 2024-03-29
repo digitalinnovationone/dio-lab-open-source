@@ -7,7 +7,7 @@
   <div>
     <h1>Olá, Meu nome é André Torres</h1>
 
-    Sou estudante de Analise e desenvolvimento de sistemas.
+    Sou estudante de Analise e desenvolvimento de sistemas, tenho 38 anos, oro e Lisboa.
   </div>
 
   <div style="text-align: center;">
