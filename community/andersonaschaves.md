@@ -1,7 +1,7 @@
 
 ## Olá! 
 
-Sou Anderson de Azevedo Silva Chaves, Analista de Tecnologia e formado em Tecnologo Sistemas da Computação e Pós grduaado em Redes de Computadores. Gosto de curtir a familia e amigos, jogar xadrez e corrida de rua e nas horas vagas ler e estudar sobre tecnologia e automação industrial.
+Sou Anderson de Azevedo Silva Chaves, Analista de Tecnologia e formado em Tecnologo Sistemas da Computação e Pós graduado em Redes de Computadores. Gosto de curtir a familia e amigos, jogar xadrez e corrida de rua e nas horas vagas ler e estudar sobre tecnologia e automação industrial.
 
 
 ## 📖Cursos Complementares
