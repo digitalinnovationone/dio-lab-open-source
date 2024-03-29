@@ -1,7 +1,7 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Carmin Dias Ilarraz - 
+    <span> Carmin Dias Ilarraz -> 
     Olá, sou UX/UI Designer Freelancer e Desenvolvedora Fullstack.</span>
 </h1>
 
