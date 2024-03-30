@@ -83,7 +83,7 @@ Saiba mais a respeito do meu trabalho acessando o meu portfolio no [Instagram](h
       <td>Português</td>
       <td align="center">
         <a href="">
-           <img align="center" alt="Avançado">
+           <img align="center" Avançado>
         </a>
       </td>
     </tr>
