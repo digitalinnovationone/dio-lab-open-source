@@ -29,12 +29,10 @@ Saiba mais a respeito do meu trabalho acessando o meu portfolio no [Instagram](h
 ************************************************************************************************************************
 ************************************************************************************************************************
 ************************************************************************************************************************
+## Acesse meu currículo na plataforma
+[![Meu Perfil Web Dio](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/users/car_dias_dev?tab=achievements) 
+[![Meu Facebook](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)]()
 
-[![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
-[![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
-
-## Objetivo 🎯
-Aprender o básico sobre contribuição no git e GitHub.
 
 ## Ferramentas 🛠️
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
