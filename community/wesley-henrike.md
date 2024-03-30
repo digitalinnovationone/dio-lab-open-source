@@ -23,7 +23,7 @@ Graduação em Engenharia Civil - FAMETRO - AM (2022)
 Análise e Desenvolvimento de Sistemas - ESTÁCIO - AM
 3° PERÍODO - PREVISÃO JUN/2025
 
-##Qualificações
+## Qualificações
 
 * Fundamentos de teste de software
 DIGITAL INOVATION ONE
@@ -53,7 +53,7 @@ CURSO EM VÍDEO
 *Inglês - Intermediário
 *Espanhol - Intermediário
 
-##Soft Skills
+## Soft Skills
 
 * Proatividade
 * Comunicação assertiva
@@ -64,7 +64,9 @@ CURSO EM VÍDEO
 
 ## Conecte-se comigo
 [![LinkedIn](https://www.linkedin.com/in/wesleyhenriquess)
+
 [![GitHub](https://github.com/Wesley-henrike)
+
 ![email](wesleysilva19997@hotmail.com)
 
 
