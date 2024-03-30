@@ -69,7 +69,7 @@ Saiba mais a respeito do meu trabalho acessando o meu portfolio no [Instagram](h
 ************************************************************************************************************************
 
 ---
-## Cronograma do Projeto ##
+## -->> ***** Cronograma do Projeto ***** <<-- ##
 
 
 ##  Desafio: Profile README
