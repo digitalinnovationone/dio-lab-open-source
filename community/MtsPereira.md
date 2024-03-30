@@ -1,4 +1,4 @@
-# 🚀 Olá, me chamo Mateus Aparecido Santos Pereira 🚀
+# 🚀 Olá, me chamo Mateus Aparecido Santos Pereira. 🚀
 
 Sou um apaixonado por programação, atráves dos estudos venho me atualizando no mercado, Desenvolvo em HTML/CCS/JAVASCRIPT/ também programo em PYTHON e agora estou buscando me aprimorar na área de dados, estudei outras linguagens mas não me aprofundei.
 
