@@ -1,3 +1,0 @@
-## :book: Sobre:
-- 📱 iOS developer.
-
