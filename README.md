@@ -29,14 +29,10 @@ Saiba mais a respeito do meu trabalho acessando o meu portfolio no [Instagram](h
 ************************************************************************************************************************
 ************************************************************************************************************************
 ************************************************************************************************************************
-## Acesse meu currículo na plataforma
-[![Meu Perfil Web Dio](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/users/car_dias_dev?tab=achievements) 
-[![Meu Facebook](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)]()
 
-
-## Ferramentas 🛠️
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+## Meus Endereços Eletrônicos 
+[![Facebook](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+[![Meu Blog](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 
 ## Percurso
 <table>
