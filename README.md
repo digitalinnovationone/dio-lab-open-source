@@ -80,10 +80,10 @@ Saiba mais a respeito do meu trabalho acessando o meu portfolio no [Instagram](h
   <tbody align="left">
     <tr>
       <td>01</td>
-      <td>Introdução ao Lab</td>
+      <td>Português</td>
       <td align="center">
         <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+           <img align="center" alt="Avançado">
         </a>
       </td>
     </tr>
