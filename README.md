@@ -68,13 +68,13 @@ Saiba mais a respeito do meu trabalho acessando o meu portfolio no [Instagram](h
 ************************************************************************************************************************
 ************************************************************************************************************************
 
-## Outros Links Importantes ##
+## Outras Informações Importantes ##
 <table>
   <thead>
     <tr align="left">
       <th>Nº</th>
-      <th>Etapas</th>
-      <th>Materiais de Apoio</th>
+      <th>Idiomas</th>
+      <th>Níveis</th>
     </tr>
   </thead>
   <tbody align="left">
