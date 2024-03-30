@@ -68,55 +68,7 @@ Saiba mais a respeito do meu trabalho acessando o meu portfolio no [Instagram](h
 ************************************************************************************************************************
 ************************************************************************************************************************
 
-## Outras Informações Importantes ##
-<table>
-  <thead>
-    <tr align="left">
-      <th>Nº</th>
-      <th>Idiomas</th>
-      <th>Níveis</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>01</td>
-      <td>Português</td>
-      <td align="center">
-        <a href="">
-           <img align="center" "Avançado">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>02</td>
-      <td>Inglês</td>
-      <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" >
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>03</td>
-      <td>Desenvolvendo e Enviando uma Contribuição</td>
-      <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
-        </a>
-      </td>    
-    </tr>
-    <tr>
-      <td>04</td>
-      <td>Dicas e Materiais de Apoio</td>
-      <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
-        </a>
-      </td>    
-    </tr>
-  </tbody>
-  <tfoot></tfoot>
-</table>
+## Cronograma do Projeto ##
 
 ---
 ##  Desafio: Profile README
