@@ -31,8 +31,8 @@ Saiba mais a respeito do meu trabalho acessando o meu portfolio no [Instagram](h
 ************************************************************************************************************************
 
 ## Meus Endereços Eletrônicos 
-[![Facebook](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-[![Meu Blog](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+[![Facebook](https://www.facebook.com/carmin.dsgn)
+[![Meu Blog](https://c-blog-techdsgn.blogspot.com) 
 
 ## Percurso
 <table>
