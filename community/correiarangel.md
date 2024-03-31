@@ -1,5 +1,7 @@
 ### Hi there Hello welcome ;]  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![](https://visitor-badge.glitch.me/badge?page_id=correiarangel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-f8f8f2?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/marcos-fabiano-correia-rangel/)
+
 [Linkedin Always On](https://www.linkedin.com/in/marcos-fabiano-correia-rangel/)<br>
 [GitHub](https://github.com/correiarangel)
 
@@ -12,9 +14,6 @@
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; 
-
-
-
  
   <a href="github.com/correiarangel">
  
@@ -25,12 +24,6 @@
   <br> 
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Firebase-%23ED8B00.svg?style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;
-  <br> 
-  <img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>&nbsp;
-  <br> 
-  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>&nbsp;
   <br> 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>&nbsp;
@@ -50,4 +43,3 @@
  
  <br>
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=correiarangel&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
