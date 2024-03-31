@@ -3,7 +3,7 @@
 </span>
 
 Olá! Me formei em Ciência da Computação em 2020, desde então busco melhorar o meu valor para o mundo.
-Tenho foco em desenvolvimento C# / .Net. Amo o mundo dos GAMES, estudo o desenvolvimento de games Com Unity e Modelagem 3D com Blender.
+Tenho foco em desenvolvimento C# e plataforma .Net. Amo o mundo dos GAMES, estudo o desenvolvimento de games Com Unity e Modelagem 3D com Blender.
 
 ## <span style="color:#0FC">Conecte-se comigo </span>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0466c8?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/gabrielsantananeto/)
