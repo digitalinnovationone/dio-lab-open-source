@@ -56,6 +56,9 @@
 ## Desafios Git e GitHub
 - [50 minutos de desafios para treino](https://www.youtube.com/watch?v=kB5e-gTAl_s)
 
+## Aulas de Python
+- [Aulas de Python da DIO](https://github.com/Lucas20santos/Python)
+
 
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
