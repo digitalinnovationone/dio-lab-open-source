@@ -62,11 +62,3 @@ CURSO EM VÍDEO
 * Liderança
 * Inteligência Emocional
 
-## Conecte-se comigo
-[![LinkedIn](https://www.linkedin.com/in/wesleyhenriquess)
-
-[![GitHub](https://github.com/Wesley-henrike)
-
-![email](wesleysilva19997@hotmail.com)
-
-
