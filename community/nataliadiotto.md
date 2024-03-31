@@ -3,7 +3,7 @@
 Tea-fueled English teacher by day, aspiring back-end developer by night, and a devoted cat lover 24/7. 🐱  
 Crafting the purr-fect blend of skills in Java and Spring Boot. 💻☕️🌱   
 
-[![Linkedin](https://img.shields.io/badge/-diottonatalia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diottonatalia/)](https://www.linkedin.com/in/diottonatalia/) ![Java Explorer](https://img.shields.io/badge/Java%20Explorer-2024-007396.svg)
+[![GitHub](https://img.shields.io/github/followers/nataliadiotto?label=follow&style=social)](https://github.com/nataliadiotto) [![Linkedin](https://img.shields.io/badge/-diottonatalia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diottonatalia/)](https://www.linkedin.com/in/diottonatalia/) ![Java Explorer](https://img.shields.io/badge/Java%20Explorer-2024-007396.svg) 
 
 
 ## Skills
