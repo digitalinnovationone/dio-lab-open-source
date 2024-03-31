@@ -27,6 +27,12 @@ Hello! I'm **Patrick Lessa**, a Doctoral Candidate in Administration focusing on
 ### 📜 Certifications
 - Advanced courses in **Microsoft Power BI**, **Machine Learning**, and **Google Data Analytics**.
 
+### 👾 Status
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lessapwb&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+### 💻 Most Used Languages
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lessapwb&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 🔗 [LinkedIn](https://www.linkedin.com/in/lessapwb) | [GitHub](https://github.com/lessapwb) | [Lattes](http://lattes.cnpq.br)
 
 Let's connect and explore how data science can illuminate marketing strategies!
