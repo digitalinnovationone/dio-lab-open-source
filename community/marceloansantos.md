@@ -19,7 +19,9 @@
 - ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 **GitHub Status:**
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marceloansantos&theme=radical&bg_color=9bd1ce&border_color=0D1117&show_icons=true&icon_color=1F6FEB&title_color=062b5c&text_color=0f0f0f)
 
 **Meus Desafios de Projeto DIO:**
+
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=marceloansantos&repo=dio-lab-open-source&bg_color=9bd1ce&border_color=0D1117&show_icons=true&icon_color=1F6FEB&title_color=062b5c&text_color=0f0f0f)](https://github.com/marceloansantos/dio-lab-open-source)
