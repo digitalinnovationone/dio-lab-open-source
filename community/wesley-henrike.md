@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou bacharel em Engenharia Civil e atualmente estou realizando a transição de profissão para a
+  Sou bacharel em Engenharia Civil e atualmente estou realizando a transição de profissão para a
 área de tecnologia com foco em gestão de projetos, estou cursando Análise e Desenvolvimento de
 Sistemas e busco uma oportunidade para aplicar os conhecimentos adquiridos ao longo da minha
 jornada acadêmica e profissional, tenho muito vontade em aprender e poder colaborar de forma
