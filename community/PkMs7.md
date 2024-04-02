@@ -10,14 +10,6 @@
   <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/659461eeae22c12523111485?variant=dark&roadmaps=golang%2Cbackend%2Cpostgresql-dba%2Csql" alt="roadmap.sh"/></a>
 </div>
 
-<!--
-<div align="center">
-  <a href="https://github.com/PkMs7">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PkMs7&&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PkMs7&layout=compact&langs_count=7&theme=dark"/>
-</div>
--->
-
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Patrick-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Patrick-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
@@ -28,11 +20,6 @@
   <img align="center" alt="Patrick-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Patrick-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Patrick-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <!--<img align="center" alt="Patrick-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Patrick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Patrick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Patrick-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">-->
-</div>
   
   ##
  
