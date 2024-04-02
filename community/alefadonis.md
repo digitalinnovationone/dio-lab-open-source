@@ -1,5 +1,7 @@
 Hi, my name is Álef Ádonis and I am a software developer! Feel free to contat me!
 
+I love python and machine learning!
+
 <div>
   <a href="https://www.instagram.com/alef.adonis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/invite/Alefinho#0491" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
