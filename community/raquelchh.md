@@ -1,5 +1,5 @@
 ## Olá!, sou Raquel Chancé👋❤
- 16 anos, cursando graduação de análise e desenvolvimento de sistemas, apaixonada por tecnologia e adquirindo diversos conhecimentos na área.
+ 16 anos, graduação de análise e desenvolvimento de sistemas(cursando), apaixonada por tecnologia e adquirindo diversos conhecimentos na área. Estou fazendo vários cursos por fora, aprendendo cada dia coisas novas.
 
  ## Conecte-se comigo 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:valentinachance25@gmail.com) 
