@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
   fetch(apiUrl)
     .then((response) => response.json())
     .then((data) => {
-      const fileNames = data.map((file) => file.name);
+      const fileNames = data.map((file) => file.name.replace(/\.md$/, ""));
 
       const randomIndex = Math.floor(Math.random() * fileNames.length);
       const randomFileName = fileNames[randomIndex];
