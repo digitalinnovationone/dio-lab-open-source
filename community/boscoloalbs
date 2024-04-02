@@ -1,0 +1,10 @@
+### Arquivo .md do 1º Tenente. Boscolo ### 
+
+- Olá! 
+- Me chamo André, tenho 35 anos. 
+- Sou Bacharel em Sistemas de Informação, pós-graduado em Governança e Estratégia em TI e MBA em Gestão de Projetos de TI. 
+- Sou oficial da Força Aérea Brasileira e sirvo na Diretoria de Tecnologia da Informação da Aeronáutica, atuando na área de Planejamento Estratégico de T.I. 
+
+Este é o meu arquivo Markdown  para o Desafio de Projetos da DIO. 
+
+É isso aí! xD
