@@ -1,10 +1,10 @@
-# 👻 Gilberto Dos Santos
+# Gilberto Dos Santos
 
-**📚 Estudante de Engenharia de Software**
+📚 **Estudante Engenharia de Software**
 
-**💻 Apaixonado por tecnologia**
+🎯 **Meu objetivo é me tornar um desenvolvedor de software habilidoso e contribuir para a criação de produtos impactantes.**
 
-* *Move in Silence*
+👻 *Move in Silence...*
 
 ## Meus Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gildsant/)     [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gildsant/)     [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gildsant)     
