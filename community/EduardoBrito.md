@@ -1,6 +1,6 @@
 # Um pouco sobre mim👋🏻 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=AAnalista+de+Requisitos+Aprimorando+Conhecimentos!)](https://github.com/EduardoBrito)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Analista+de+Requisitos+Aprimorando+Conhecimentos!)](https://github.com/EduardoBrito)
 
 Formado em Ciência da Computação, com especialização em Engenharia de Requisitos de Software que tem conhecimentos técnicos sobre banco de dados e java. Além de compor times de desenvolvimento que utilizam o framework SCRUM, atuando no planejamento, revisão e retrospectiva de SPRINTs. Atua no gerenciamento de requisitos de projetos de software utilizando o GITLAB realizando especificação de requisitos e testes.
 
