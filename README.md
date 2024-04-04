@@ -10,7 +10,7 @@ Repositório desenvolvido para fins didáticos, com a disponibilização de mate
 [![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
 
 ## Objetivo 🎯
-Aprender o básico sobre contribuição no GitHub.
+Aprender o básico sobre contribuição no git e GitHub.
 
 ## Ferramentas 🛠️
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
@@ -77,7 +77,7 @@ Aprender o básico sobre contribuição no GitHub.
 2. Clone localmente: `git clone https://github.com/SEU_USERNAME/dio-lab-open-source.git`;
 3. Adicione o remote upstream para manter seu repositório local atualizado. Por exemplo: `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git`;
     > Utilize o comando `git pull upstream main` para baixar e mesclar as alterações no seu repositório local com base na branch `main` deste repositório original de onde você fez o fork, ou `git fetch upstream main` para baixar sem mesclar. Veja mais em: [Primeiros Passos com Git e GitHub](https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
-4. Crie/Referêncie uma nova **branch** e nomeie como `feat/community/SEU_USERNAME`: `git checkout -b feat/community/seunomedeusuario`;
+4. Crie/Referêncie uma nova **branch** e nomeie como `feat/community/SEU_USERNAME`:
     > Exemplo: git checkout -b feat/community/Cristian0-Pereira
 5. Dentro da pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
     > Exemplo: `rafaeldscordeiro.md` <br>
@@ -87,6 +87,10 @@ Aprender o básico sobre contribuição no GitHub.
 8. Crie um commit e adicione a mensagem indicando a adição do seu perfil `git commit -m"feat: add SEU_USERNAME profile"`;
 9. Envie as alterações para o seu repositório remoto `git push origin feat/community/SEU_USERNAME`; 
 10. Crie um **Pull Request**.
+
+#### Como atualizar seu perfil do Github usando seu arquivo README
+
+Agora que você já criou seu README.md, é possível compartilhar essas informações com toda comunidade do Github.com dentro do seu perfil de usuário. Basta seguir o guia: [Gerenciar o README do seu perfil](https://docs.github.com/pt/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme), disponibilizado pela própria plataforma. 
 
 ### Instructions (EN/US)
 1. **Fork** this repository;
@@ -102,7 +106,11 @@ Aprender o básico sobre contribuição no GitHub.
 7. Add your changes to the "staging area" with the command `git add community/YOUR_USERNAME.md`;
 8. Create a commit and add a message indicating the addition of your profile `git commit -m"feat: add YOUR_USERNAME profile"`;
 9. Push the changes to your remote repository `git push origin feat/community/YOUR_USERNAME`;
-10. Create a **Pull Request**.
+10. Create a ***Pull Request***.
+
+#### How update your Github profile using your README file
+
+Now that you have created your README.md, you can share this information with the entire Github.com community within your user profile. Just follow the guide: [Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme), provided by the platform itself.
 
 ### Instrucciones (ES/ES)
 1. Haz un **Fork** de este repositorio;
@@ -119,6 +127,11 @@ Aprender o básico sobre contribuição no GitHub.
 8. Crea un commit y añade un mensaje indicando la adición de tu perfil `git commit -m"feat: add TU_USERNAME profile"`;
 9. Envía los cambios a tu repositorio remoto `git push origin feat/community/TU_USERNAME`;
 10. Crea un **Pull Request**.
+
+#### Cómo actualizar su perfil de Github usando su archivo README
+
+Ahora que ha creado su README.md, puede compartir esta información con toda la comunidad Github.com dentro de su perfil de usuario. Simplemente sigue la guía: [Administrar el README de tu perfil](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme), proporcionada por la propia plataforma.
+
 
 ### Utilitários
 
