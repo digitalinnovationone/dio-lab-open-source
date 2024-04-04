@@ -7,6 +7,17 @@ Eu sou Anderson Lemos. Sou apaixonado por programação e estou sempre buscando 
 **2023 - 2024:** Auxiliar de Almoxarifado
 ## O que me motiva?
 Eu sou motivado pela minha persistencia de ser um programador desde que tive meu primeiro contato com um computador.
+
+## Habilidades
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
 ## Como posso ser contatado?
 Você pode me encontrar em:
 
