@@ -3,7 +3,7 @@
 <a href="https://lgluiz1.github.io/portifolio-01/" target="_blank"><img align="right" height="560em" src="https://github.com/lgluiz1/portifolio-01/blob/main/img/perfilgit.jpg" /><p align="left"></a>  </p> <br>
 </div> 
 
-###### Hello, my name is Luiz, I'm a front-end development student.
+###### Hello, my name is Luiz, I'm a front-end development student .
 
 <div style="display: flex; align-itens:center">
   <a href="https://www.linkedin.com/in/luiz-gustavo-238b42265/" target="_blank">
