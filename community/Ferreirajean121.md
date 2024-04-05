@@ -1,4 +1,4 @@
-# Olá eu sou o Jean
+# Olá, eu sou o Jean 🙆🏼‍♂️
 📚 **Estudante** de Análise e Desenvolvimento de Sistemas
 
 ## Conecte-se comigo 
