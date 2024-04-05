@@ -7,14 +7,14 @@
 <h3 align="center">Android Developer</h3>
 
 <div align="center">
-<img alt="MyGif" align="center" height="100%"  src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
+    <img alt="MyGif" align="center" height="100%"  src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 </div>
 
 # About Me <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" align="right"></a>
 
 - 🔭 I’m a Mid Level Android Developer
   
-- 🌱 I’m currently learning **Kotlin, Java and Android**
+- 🌱 I’m currently learning **Kotlin, Java, Android and C#**
 
 - 📫 How to reach me [**thiago.rtf@gmail.com**](mailto:thiago.rtf@gmail.com)
 
