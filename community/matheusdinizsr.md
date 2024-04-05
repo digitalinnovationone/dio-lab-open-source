@@ -2,7 +2,7 @@
 
 💻 Hello, world! Sou programador backend com conhecimento em C#/.Net, Html, Css, e inglês fluente. Reconheci na área de programação uma oportunidade de ter satisfação profissional, já que a solução de problemas, a busca por informação e a possibilidade de trabalhar com o idioma inglês, o qual já pratico há 20 anos, sempre me encantaram.
 
-Estou em busca de estágio em programação, e se houver alguma oportunidade, ficarei feliz em atendê-lo.
+Estou em busca de estágio em programação. Se houver alguma oportunidade, ficarei feliz em atendê-lo.
 
 ### Conecte-se comigo
 
