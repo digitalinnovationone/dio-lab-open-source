@@ -5,9 +5,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yasmws&show_icons=true&theme=nightowl" />
 </a>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmws&layout=compact&theme=nightowl)](https://github.com/yasmws/yasmws)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Yas-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
