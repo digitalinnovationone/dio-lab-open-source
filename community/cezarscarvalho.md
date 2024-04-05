@@ -40,6 +40,15 @@ Fev 24   | Jul 27  |
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cezarscarvalho&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cezarscarvalho/cezarscarvalho/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cezarscarvalho/cezarscarvalho/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cezarscarvalho/cezarscarvalho/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
+
+
+
 ## 📱 Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cezar-de-souza-carvalho-ti)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/cezardesouzacarvalhoti)
@@ -55,4 +64,4 @@ Fev 24   | Jul 27  |
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cezarscarvalho&repo=DIO-Projeto-Azure-Microsoft-Vision&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cezarscarvalho/DIO-Projeto-Azure-Microsoft-Vision)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cezarscarvalho&repo=DIO-Projeto-Azure-Microsoft-Machine-Learning&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cezarscarvalho&repo=DIO-Projeto-Azure-Microsoft-Machine-Learning&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cezarscarvalho/DIO-Projeto-Azure-Microsoft-Machine-Learning)
