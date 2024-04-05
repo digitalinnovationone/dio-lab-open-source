@@ -7,7 +7,7 @@
 
 
 
-Aos 25 anos, sou um tecnólogo apaixonado por inovação, sempre buscando avançar e contribuir para a comunidade da Dio ❤️
+Tenho 25 anos, sou um tecnólogo apaixonado por inovação, sempre buscando avançar e contribuir para a comunidade da Dio ❤️
 ## follow me ᯤ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-correia-silva-devx/)
 
