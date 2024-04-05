@@ -39,6 +39,9 @@
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
+### 🔗 Conecte-se comigo - Contact me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awsc/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alanwalace/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/highllander)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanWSC&bg_color=0d1117&layout=compact&custom_title=Linguagens+usadas)
 
 ![Alan Status](https://github-readme-stats.vercel.app/api?username=AlanWSC&show_icons=true&theme=transparent&custom_title=AlanWSC+Status)
