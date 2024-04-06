@@ -115,7 +115,7 @@ Now that you have created your README.md, you can share this information with th
 ### Instrucciones (ES/ES)
 1. Haz un **Fork** de este repositorio;
 2. Clona localmente: `git clone https://github.com/TU_USERNAME/dio-lab-open-source.git`;
-3. Añade el remote upstream para mantener tu repositorio local actualizado. Por ejemplo: `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git`;
+3. Añade el remote upstream para mantener tu repositorio local actualizado. Por ejemplo: 'git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git';
     > Usa el comando `git pull upstream main` para descargar y fusionar los cambios en tu repositorio local basado en la rama `main` de este repositorio original del cual hiciste el fork, o `git fetch upstream main` para descargar sin fusionar. Aprende más en: [Primeros Pasos con Git y GitHub](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/git/ROADMAP_GITHUB.md).
 4. Crea/Referencia una nueva **branch** y nómbrala `feat/community/TU_USERNAME`: `git checkout -b feat/community/TU_USERNAME`;
     > Ejemplo: `git checkout -b feat/community/rafaeldscordeiro`
@@ -127,6 +127,26 @@ Now that you have created your README.md, you can share this information with th
 8. Crea un commit y añade un mensaje indicando la adición de tu perfil `git commit -m"feat: add TU_USERNAME profile"`;
 9. Envía los cambios a tu repositorio remoto `git push origin feat/community/TU_USERNAME`;
 10. Crea un **Pull Request**.
+
+ ##   Instructies (DT/NL)
+1. **Fork** deze repository;
+2. Kloon lokaal: git clone https://github.com/YOUR_USERNAME/dio-lab-open-source.git;
+3. Voeg de upstream remote toe om je lokale repository up-to-date te houden. Bijvoorbeeld: git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git;
+    > Gebruik het commando git pull upstream main om de wijzigingen in je lokale repository te downloaden en te samenvoegen op basis van de main branch van deze originele repository waarvan je een fork hebt gemaakt, of git fetch upstream main om te downloaden zonder samen te voegen. Leer meer op: Aan de slag met Git en GitHub.
+
+4. Maak/Referentieer een nieuwe branch en noem het feat/community/YOUR_USERNAME: git checkout -b feat/community/YOUR_USERNAME;
+    > Voorbeeld: git checkout -b feat/community/rafaeldscordeiro
+
+5. Binnen de community map, creëer een Markdown-bestand (extensie .md) en noem het naar je GitHub-gebruikersnaam;
+    > Voorbeeld: rafaeldscordeiro.md 
+
+6. Ontwikkel je profiel: Daarvoor kun je voorbeelden in de community map bekijken en enkele van de hulpprogramma's toevoegen die beschikbaar zijn in de utils map;
+    > **Opmerking:** Gebruik de andere voorbeelden als inspiratie, niet als een kopie.
+
+7. Voeg je wijzigingen toe aan het "staging area" met het commando git add community/YOUR_USERNAME.md;
+8. Creëer een commit en voeg een bericht toe dat de toevoeging van je profiel aangeeft git commit -m"feat: add YOUR_USERNAME profile";
+9. Push de wijzigingen naar je externe repository git push origin feat/community/YOUR_USERNAME;
+10. Creëer een Pull Request.
 
 #### Cómo actualizar su perfil de Github usando su archivo README
 
