@@ -1,14 +1,14 @@
 # Iaí, blza! Me chamo ...👋🏻
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Wilton+Dias!+:%29)]
 
-## Me chamo Wilton Dias, sou farmacêutico e estou em transição de carreira. Percebi que as áreas de tecnologia e informação estão com um vasto campo de atuação e, principalmente, com muitas, muitas mesmo, instituições, como a DIO, com cursos inteiros e gratuitos, daí pensei, por quê não?
+Sou farmacêutico e estou em transição de carreira. Percebi que as áreas de tecnologia e informação estão com um vasto campo de atuação e, principalmente, com muitas, muitas mesmo, instituições, como a DIO, com cursos inteiros e gratuitos, daí pensei, por quê não?
 
-# Minha experiência com tecnologia ainda está em construção e estou bastante entusiasmado com tudo que estou vendo e aprendendo. Já minha experiência profissional está voltada para a minha área de atuação, farmácia, especialmente, drogaria e atendimento ao público. E isso me fez refletir sobre minhas Softs Skills, e em como elas podem, e vão, me ajudar bastante nessa nova área. O que me deixou mais satisfeito ainda, por quê como dizem, nada do que foi aprendido será perdido. E agora vejo que muito do que já sou, ajudará bastante no que estou me tornando.
+Minha experiência com tecnologia ainda está em construção e estou bastante entusiasmado com tudo que estou vendo e aprendendo. Já minha experiência profissional está voltada para a minha área de atuação, farmácia, especialmente, drogaria e atendimento ao público. E isso me fez refletir sobre minhas Softs Skills, e em como elas podem, e vão, me ajudar bastante nessa nova área. O que me deixou mais satisfeito ainda, por quê como dizem, nada do que foi aprendido será perdido. E agora vejo que muito do que já sou, ajudará bastante no que estou me tornando.
 
 ## Redes Sociais
-# Por mais que eu estou voltando a utilizar, elas estão um tanto atualizadas.
+Estou atualizando aos poucos...
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/wilton-dias-oliveira/) [![Instagram](https://www.instagram.com/farma_wilton/)][![Whatsapp](https://wa.me/5561983226979?text=Falo%20com%20o%20%Wilton?%20)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/wilton-dias-oliveira/) [![Instagram](https://www.instagram.com/farma_wilton/)] [![Whatsapp](https://wa.me/5561983226979?text=Falo%20com%20o%20%Wilton?%20)]
 
 ## Linguagens que estou aprendendo
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)&nbsp;
