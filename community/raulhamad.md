@@ -6,8 +6,9 @@
 ## 🛰 Minhas redes sociais
 
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/raul-hamad-182473221/)
-- [![LinkedIn](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/RaulHamad)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/raul-hamad-182473221/)
+ 
+ [![LinkedIn](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/RaulHamad)
 
 
 ## 💡 Habilidades
@@ -36,11 +37,12 @@
 
 
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raulhamad&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide=stars)
+## 📊 GitHub Stats
 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raulhamad&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulhamad&layout=compact&hide_border=true&title_color=ffffff&icon_color=c9d1d9&text_color=00FFFF&bg_color=0d1117"/><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=raulhamad&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=FAFAD2&text_color=00FFFF&bg_color=0d1117"/>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
+
+[![](https://visitcount.itsvg.in/api?id=AnsuGomes&icon=0&color=0)](https://visitcount.itsvg.in)
 
