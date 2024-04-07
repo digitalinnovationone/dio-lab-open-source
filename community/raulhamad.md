@@ -40,7 +40,7 @@
 ## 📊 GitHub Stats
 
 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulhamad&layout=compact&hide_border=true&title_color=ffffff&icon_color=c9d1d9&text_color=00FFFF&bg_color=0d1117"/><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=raulhamad&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=FAFAD2&text_color=00FFFF&bg_color=0d1117"/>
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulHamad&layout=compact&hide_border=true&title_color=ffffff&icon_color=c9d1d9&text_color=00FFFF&bg_color=0d1117"/><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RaulHamad&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=FAFAD2&text_color=00FFFF&bg_color=0d1117"/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
 
