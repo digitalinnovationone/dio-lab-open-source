@@ -1,7 +1,8 @@
 # Desenvolvedor em Ascensão
 ## Sobre mim
 
-Meu nome é Rogério e sou um entusiasta da programação.Sou formado em Rede de Computadores. Há 2 anos, comecei minha jornada com VBA, criando automações no meu trabalho. Essa experiência despertou meu interesse pela programação e me motivou a explorar mais.
+Meu nome é Rogério e sou um entusiasta da programação, formado em Rede de Computadores.
+Há 2 anos, comecei minha jornada com VBA, criando automações no meu trabalho. Essa experiência despertou meu interesse pela programação e me motivou a explorar mais.
 
 
 ## Connecte-se comigo
