@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Raul Hamad</h1>
-<h3 align="center">Este é meu arquivo para contribuição do projeto open source. Iniciei meus estudos em programação pela Dio e estou ampliando meus conhecimentos para conseguir minha primeira vaga de trabalho.</h3>
+<h3 align="center">Este é meu arquivo para contribuição do projeto open source. Iniciei meus estudos em programação pela Dio e estou ampliando meus conhecimentos para conseguir minha primeira vaga de trabalho..</h3>
 
 
 ## 🛰 Minhas redes sociais
