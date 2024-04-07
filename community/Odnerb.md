@@ -1,5 +1,5 @@
 # Brendo Saraiva 👨‍💻
-
+ 
 Olá! Tudo bem? Estou prestes a finalizar o curso de Engenharia da computação, mas ainda sou um mero aspirante no mundo da T.I e vou lhe dizer o motivo. No começo do curso, foi muito ralado, pois foram mostrados, uma série de conteúdos que são abordados em todas as engenharias, a partir do 5° período começou a ser mostrado conteúdos específicos do curso. Durante o início deste período até o 8° foram ensinadas muitas linguagens de programação como, Java, C++, C, Python e JavaScript, estava sem esperanças de qual caminho trilhar e foi lá para meados do 7° período que conheci Análise de Dados e vi que Python é uma ótima linguagem para quem pretende iniciar na área e acabei decidindo que a minha jornada na Tecnologia da Informação seria essa.
 
 ### Conecte-se comigo
