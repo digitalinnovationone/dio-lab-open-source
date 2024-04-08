@@ -53,7 +53,7 @@ body {
 a {
     color: var(--black);
     font-weight: 600;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 a:hover {
