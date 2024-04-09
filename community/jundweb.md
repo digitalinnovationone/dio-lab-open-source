@@ -4,7 +4,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Open+Sans:wght@300&family=Poppins:wght@400;600;700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
 
 
-# <span class="text-center mx-auto text-danger fs-1 titulo" style="font-family: "Bungee Spice", sans-serif">Leo Raposo</span>
+# Leo Raposo
 
 <span>Sou Leo Raposo, há 15 anos trabalho como web developer.
 Participei de mais de 300 projetos de websites e sistemas web.</span>
