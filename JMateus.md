@@ -54,5 +54,5 @@ Meu objetivo de vida é buscar conhecimento e compartilhar o máximo de experiê
 ### Meus Principais Artigos Acadêmicos
 
 #### Análise de Desempenho entre as linguagens de programacão Kotlin e Dart(Flutter) em um contexto estatístico -> TCC
-(https://www.overleaf.com/project/63924e3f451f0e0ef5f6044b)
+(https://www.overleaf.com/project/63924e3f451f0e0ef5f6044b).
 
