@@ -5,11 +5,10 @@ Neste repositório, irei compartilhar um pouco sobre meus treinamentos e habilid
 
 
 ## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack...
 
 Me chamo Bruna e atualmente estou nos estágios finais do curso de Análise e Desenvolvimento de Sistemas, faltando apenas 3 meses para a conclusão. Além disso, estou matriculada em uma pós-graduação em Banco de Dados. Possuo conhecimento avançado em Excel, habilidades com SQL Server, PostgreSQL, MySQL, ETL, Power BI, Python, entre outras tecnologias. Também realizo algumas automações e estou focada em me especializar ainda mais na área de tecnologia.
 ## 🔗 Links
-[![linkedin](https://www.linkedin.com/in/brunafelixanalistajr/)](https://www.linkedin.com/)
+![linkedin](https://www.linkedin.com/in/brunafelixanalistajr/)](https://www.linkedin.com/)
 
 
 ## 🛠 Habilidades
@@ -31,4 +30,3 @@ Excel
 Power BI
 Python
 SQL
-Se precisar
