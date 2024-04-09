@@ -1,7 +1,7 @@
 
 # Gustavo Bastos
 
-Prazer, estou aqui para aprender, torcar ideias, conhecer pessoas, crescer como ser humano e profissional. Entendo a importância do hard skills o que justifica minha presença aqui, porém entendo que soft skills é de extrema importância no desenvolvimento de qualquer profissional.
+Prazer, estou aqui para aprender, trocar ideias, conhecer pessoas, crescer como ser humano e profissional. Entendo a importância do hard skills o que justifica minha presença aqui, porém entendo que soft skills é de extrema importância no desenvolvimento de qualquer profissional.
 Gosto de tratar com pessoas e exercitar a empatia.
 
 ### Conecte-se comigo
