@@ -5,11 +5,11 @@
 
 ### Sobre mim:
 
-Sou fascinada em computação e tecnologia desde quando ganhei meu primeiro computador, ainda criança, comemorei horrores quando aprendi a "escrever grande" VIVAAAA.
+Sou fascinada por computação e tecnologia desde quando ganhei meu primeiro computador, ainda criança. Comemorei horrores quando aprendi a "escrever grande"! VIVAAAA.
 
-Comecei a fazer manutenção em computadores e videogames de amigos com 10 anos e com 12 já estava fuçando em celulares, notebooks, televisores... tudo que dava problema em casa e minha mãe não sabia resolver, eu tentava... as vezes não conseguia, mas vida que segue.
+Aos 10 anos, comecei a fazer manutenção em computadores e videogames de amigos e, aos 12 anos, já estava fuçando em celulares, notebooks, televisores... tudo que dava problema em casa e minha mãe não sabia resolver, eu tentava... às vezes não conseguia, mas vida que segue.
 
-Desde então minha vida foi estudar, estudar e estudar.
+Desde então, minha vida foi estudar, estudar e estudar.
 
 ### Meus cursos foram:
 
@@ -24,11 +24,11 @@ E em fev/2015 entrei na Faculdade
 
 * Engenharia da computação, ENIAC.
 
-Na faculdade eu tive contato com Arduino e foi um marco na minha vida, passei a amar programação só que logo me traumatizei com JAVA, tive que desenvolver um software de cadastro de funcionário e gerenciamento de vendas pra uma pizzaria e por pouco não enlouqueci.
+Na faculdade, tive contato com Arduino e foi um marco na minha vida. Passei a amar programação, só que logo me traumatizei com JAVA. Tive que desenvolver um software de cadastro de funcionários e gerenciamento de vendas para uma pizzaria e, por pouco, não enlouqueci.
 
-Fiquei bastante desanimada pois achei que o mercado de trabalho seria igual ao ambiente da faculdade e pra mim isso era muito tóxico e tranquei a faculdade no último semestre, dez/2020.
+Fiquei bastante desanimada, pois achei que o mercado de trabalho seria igual ao ambiente da faculdade e, para mim, isso era muito tóxico. Tranquei a faculdade no último semestre, dez/2020.
 
-Em mar/2023 eu resolvi voltar a estudar e entrei na Kenzie Academy no curso de FullStack e desde então tenho me aventurado em:
+Em mar/2023, eu resolvi voltar a estudar e entrei na Kenzie Academy no curso de FullStack e, desde então, tenho me aventurado em:
 
 ### Linguagens de marcação:
 * ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
@@ -62,7 +62,7 @@ Em mar/2023 eu resolvi voltar a estudar e entrei na Kenzie Academy no curso de F
 * ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 * ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-No momento estou desenvolvendo e aprimorando um projeto de Macro Nutrientes e adoraria receber sugestões, tenho várias ideias pra incrementar mas meu único ponto de referência sou eu mesma, então fique à vontade pra testar a aplicação. [Clica aqui](https://calc-macro.vercel.app/)
+No momento, estou desenvolvendo e aprimorando um projeto de Macro Nutrientes e adoraria receber sugestões. Tenho várias ideias para incrementar, mas meu único ponto de referência sou eu mesma, então fique à vontade para testar a aplicação. [Clica aqui](https://calc-macro.vercel.app/)
 
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=belparra&repo=MacroNutrients&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/belparra/MacroNutrients)
