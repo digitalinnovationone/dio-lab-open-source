@@ -67,3 +67,8 @@ No momento, estou desenvolvendo e aprimorando um projeto de Macro Nutrientes e a
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=belparra&repo=MacroNutrients&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/belparra/MacroNutrients)
 
+### Conecte-se comigo:
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/belparra)
+<span>&nbsp;</span>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cibele-parra-9a2806243/)
