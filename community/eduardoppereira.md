@@ -8,7 +8,7 @@
 
 - Todos os meus projetos estão disponíveis através dos meus repositórios no Github e alguns no LinkedIn.
 
-<br><br> 
+<br><br>
 
 ## 🛠 &nbsp;Tech Stack 
 
