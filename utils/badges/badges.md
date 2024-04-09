@@ -408,6 +408,14 @@
         <code>![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)></code>
       </td>
     </tr>
+   <tr>
+    <td>
+      <img align="center" alt="BashScript" <img alt="Static Badge" src="https://img.shields.io/badge/bash%20script-0101?style=flat&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000">
+    </td>
+      <td>
+        <code>![BashScript](https://img.shields.io/badge/bash%20script-0101?style=flat&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000)></code>
+      </td>
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
