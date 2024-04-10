@@ -10,13 +10,13 @@ Repositório desenvolvido para fins didáticos, com a disponibilização de mate
 [![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
 
 ## Objetivo 🎯
-Aprender o básico sobre contribuição no git e GitHub.
+Aprender o básico sobre contribuição no git e GitHub. :)
 
 ## Ferramentas 🛠️
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 
-## Percurso
+## Percurso >:D
 <table>
   <thead>
     <tr align="left">
@@ -111,7 +111,7 @@ Agora que você já criou seu README.md, é possível compartilhar essas informa
 #### How update your Github profile using your README file
 
 Now that you have created your README.md, you can share this information with the entire Github.com community within your user profile. Just follow the guide: [Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme), provided by the platform itself.
-
+t
 ### Instrucciones (ES/ES)
 1. Haz un **Fork** de este repositorio;
 2. Clona localmente: `git clone https://github.com/TU_USERNAME/dio-lab-open-source.git`;
