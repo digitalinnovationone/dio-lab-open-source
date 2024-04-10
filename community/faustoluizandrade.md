@@ -1,4 +1,4 @@
-## Olá!!🖐️ Meu nome á Fausto e sou um Oracle ATG-DBA/DevOps Engineer, nos meus tempos vagos desenvolvo em Solidity, estou aqui para afiar meus conhecimentos em PYTHON.
+## Olá!!🖐️ Meu nome é Fausto e sou um Oracle ATG-DBA/DevOps Engineer, nos meus tempos vagos desenvolvo em Solidity, estou aqui para afiar meus conhecimentos em PYTHON.
 
 ## Tecnologias que uso no meu dia a dia:
 ![Oracle](https://img.shields.io/badge/oracle-000?style=for-the-badge&logo=oracle)
