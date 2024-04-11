@@ -10,14 +10,15 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg"/>](https://www.mysql.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://tortoisesvn.net/assets/img/logo-256x256.png"/>](https://tortoisesvn.net/)
 
 
 #### Studying in this moment:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg"/>](https://git.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg"/>](https://www.python.org/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg"/>](https://www.mongodb.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://e7.pngegg.com/pngimages/820/213/png-clipart-power-bi-business-intelligence-microsoft-corporation-data-visualization-data-analysis-power-bi-dashboard-templates-thumbnail.png"/>](https://www.microsoft.com/)
 
 #### Tools:
 
@@ -36,7 +37,7 @@
 Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
 `Project Management` `Software Development` `Software Security` `Software Quality`
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://camo.githubusercontent.com/5f836e83b0e7bf79fc7f5c368f84977a05a471e037e2a5c6dd684d311a93466a/68747470733a2f2f6865726d65732e64696f2e6d652f747261636b732f30313336353138632d363864362d343139382d626462652d3664393832633361313236312e706e67/>](https://www.dio.me/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://shields.io/badge/-Clique%20AQUI%20para%20realizar%20um%20FORK-blue.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://www.dio.me/)
 **Python Data Analytics** \
 [**DIO**](https://www.dio.me/) • In progress \
 Skills: `GIT` `Python` `Power BI` `SQL` `NoSQL` `MachineLearning` 
