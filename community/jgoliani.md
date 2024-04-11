@@ -18,7 +18,7 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg"/>](https://git.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg"/>](https://www.python.org/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg"/>](https://www.mongodb.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://e7.pngegg.com/pngimages/820/213/png-clipart-power-bi-business-intelligence-microsoft-corporation-data-visualization-data-analysis-power-bi-dashboard-templates-thumbnail.png"/>](https://www.microsoft.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://e7.pngegg.com/pngimages/252/727/png-clipart-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle-thumbnail.png"/>](https://www.microsoft.com/)
 
 #### Tools:
 
@@ -37,7 +37,7 @@
 Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
 `Project Management` `Software Development` `Software Security` `Software Quality`
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://shields.io/badge/-Clique%20AQUI%20para%20realizar%20um%20FORK-blue.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://www.dio.me/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://pbs.twimg.com/profile_images/1732082010036789248/c1VlhTHM_400x400.jpg"/>](https://www.dio.me/)
 **Python Data Analytics** \
 [**DIO**](https://www.dio.me/) • In progress \
 Skills: `GIT` `Python` `Power BI` `SQL` `NoSQL` `MachineLearning` 
