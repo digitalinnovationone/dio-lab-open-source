@@ -1,3 +1,9 @@
+Sou apaixonada por Programação, me Destaco no Front End, 
+Estou muito animada com esse Bootcamp em Python, uma linguagem poderosa,
+vou me dedicar para aprender e abstrair tudo o conhecimento do Curso!!
+
+
+
 
 import time
 
