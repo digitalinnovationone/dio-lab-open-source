@@ -44,7 +44,7 @@ Skills: `GIT` `Python` `Power BI` `SQL` `NoSQL` `MachineLearning`
 
 ## Contact me:
 <div>
-<a href="https://www.github.com/JOLIANI/" target="_blank"><img loading="lazy" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" target="_blank"></a>
-<a href = "mailto: jguilherme.oliani"><img loading="lazy" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg"></a>
-<a href="https://www.linkedin.com/in/jgoliani/" target="_blank"><img loading="lazy" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" target="_blank"></a>   
+<a href="https://www.github.com/JGOLIANI/" target="_blank"><img height="64px" width="64px" loading="lazy" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jgoliani/" target="_blank"><img loading="lazy" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" target="_blank"></a>
+<a href = "mailto: jguilherme.oliani"><img loading="lazy" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg"></a>   
 </div>
