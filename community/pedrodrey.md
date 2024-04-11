@@ -3,10 +3,9 @@
 Sou estagiário em Desenvolvimento Full Stack, cursando o último semestre de Análise e Desenvolvimento de Sistemas e atualmente estou focado no aprendizado em C# e .NET Framework.
 
 ### Principais Conhecimentos:
- <img align="right" height="600" width="600" src="https://cdn.discordapp.com/attachments/1227749609325989969/1227771301289000972/octocat-1712793878921.png?ex=66299e21&is=66172921&hm=0b604595b240b652fdbb07232cdcd8f58ccde7c388b3a3552331badfeb256270&">
 <div style="display: inline_block" ><br>
   <img align="center" alt="Pedro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Pedro-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />
+  <img align="center" alt="Pedro-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg"/>
   <img align="center" alt="Pedro-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -20,7 +19,6 @@ Sou estagiário em Desenvolvimento Full Stack, cursando o último semestre de An
 
 <a href="https://github-readme-stats">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=pedrodrey&show_icons=true&bg_color=051D40&text_color=fff&icon_color=0CC0DF&title_color=0CC0DF&hide=stars" />
-  
 </a>
 
 
