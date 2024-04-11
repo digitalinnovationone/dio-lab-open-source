@@ -11,7 +11,7 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg"/>](https://www.mysql.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://tortoisesvn.net/assets/img/logo-256x256.png"/>](https://tortoisesvn.net/)
+ 
 
 
 #### Studying in this moment:
