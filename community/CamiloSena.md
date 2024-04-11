@@ -8,9 +8,6 @@ Analista de Dados cursando Ciências de Dados na Faculdade Descomplica, apaixona
 
 ## 💻 Linguagens - Frameworks - Tecnologias - Ferramentas  🛠
 
-
-
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%232D9EEA?style=flat-square&labelColor=%23414141&logo=visual-studio-code&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-%231A9A7A?style=flat-square&labelColor=%23414141&logo=openai&logoColor=white)
 
@@ -20,13 +17,4 @@ Analista de Dados cursando Ciências de Dados na Faculdade Descomplica, apaixona
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-sena/)  
-
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CamiloSena&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
-## Projetos 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CamiloSena&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/CamiloSena/dio-lab-open-source)
-
 
