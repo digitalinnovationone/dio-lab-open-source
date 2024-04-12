@@ -3,13 +3,13 @@
 
 
 ## About me
-:computer: I am Systems and Software Engineer
+:computer: I am a Systems and Software Engineer
 
-:bulb: I love Coding, Programming and Automation
+:bulb: I love: Coding, Programming, Automation
 
-:joystick: I love Gaming and Design :art:
+:joystick: Gaming and Design :art:
 
-:brain: I like Psychology and Theology 
+:brain: Psychology and Theology 
 
 
 ## Most used Tools and Languages
