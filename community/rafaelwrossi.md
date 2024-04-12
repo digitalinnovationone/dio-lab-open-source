@@ -1,7 +1,7 @@
 
 # Título do Projeto
 
-Desafio Dio.me 
+Desafio Dio.me (https://www.dio.me/en)
 
 # Rafael Wohlemberg Rossi
 Olá, sou mestre em Administração pela ESAG/UDESC  e tenho como objetivo me aperfeiçoar como desenvolvedor PYTHON e Análise de Dados
