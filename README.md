@@ -128,6 +128,12 @@ Now that you have created your README.md, you can share this information with th
 9. Envía los cambios a tu repositorio remoto `git push origin feat/community/TU_USERNAME`;
 10. Crea un **Pull Request**.
 
+
+#### Cómo actualizar tu perfil de GitHub usando tu archivo README
+
+Ahora que has creado tu README.md, puedes compartir esta información con toda la comunidad de Github.com dentro de tu perfil de usuario. Solo sigue la guía: [Gestionar tu README de perfil](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme), proporcionada por la plataforma misma.
+
+
  ##   Instructies (DT/NL)
 1. **Fork** deze repository;
 2. Kloon lokaal: git clone https://github.com/YOUR_USERNAME/dio-lab-open-source.git;
@@ -145,9 +151,32 @@ Now that you have created your README.md, you can share this information with th
 10. Creëer een **Pull Request**.
 
 
-#### Cómo actualizar su perfil de Github usando su archivo README
+#### Hoe u uw Github-profiel kunt bijwerken met behulp van uw README-bestand
 
-Ahora que ha creado su README.md, puede compartir esta información con toda la comunidad Github.com dentro de su perfil de usuario. Simplemente sigue la guía: [Administrar el README de tu perfil](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme), proporcionada por la propia plataforma.
+
+Nu u uw README.md heeft aangemaakt, kunt u deze informatie delen met de hele Github.com-gemeenschap binnen uw gebruikersprofiel. Volg gewoon de handleiding: [Beheer uw README-profiel](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme), verstrekt door het platform zelf.
+
+
+## Инструкции (RU/RU)
+
+1. Сделайте **Fork** этого репозитория.
+2. Клонируйте локально: `git clone https://github.com/TU_USERNAME/dio-lab-open-source.git`.
+3. Добавьте удаленный репозиторий upstream, чтобы поддерживать ваш локальный репозиторий актуальным. Например: `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git`.
+    > Используйте команду `git pull upstream main` для загрузки и слияния изменений в ваш локальный репозиторий на основе ветки `main` из этого оригинального репозитория, из которого вы сделали fork, или `git fetch upstream main` для загрузки без слияния. Узнайте больше в: [Начало работы с Git и GitHub](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/git/ROADMAP_GITHUB.md).
+4. Создайте/отправьте новую **ветку** и назовите ее `feat/community/TU_USERNAME`: `git checkout -b feat/community/TU_USERNAME`.
+    > Пример: `git checkout -b feat/community/rafaeldscordeiro`.
+5. Внутри папки [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) создайте файл в формате Markdown (расширение `.md`) и назовите его так же, как ваше имя пользователя на GitHub.
+    > Пример: `rafaeldscordeiro.md`.
+6. Разработайте свой профиль. Для этого вы можете посмотреть примеры в папке [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) и добавить некоторые из утилит, доступных в папке [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils).
+    > **Примечание:** Используйте другие примеры как вдохновение, а не копию.
+7. Добавьте свои изменения в "промежуточную область" с помощью команды `git add community/TU_USERNAME.md`.
+8. Создайте коммит и добавьте сообщение, указывающее на добавление вашего профиля с помощью команды `git commit -m"feat: add TU_USERNAME profile"`.
+9. Отправьте изменения в ваш удаленный репозиторий с помощью команды `git push origin feat/community/TU_USERNAME`.
+10. Создайте **Pull Request**.
+
+#### Как обновить ваш профиль GitHub с помощью вашего файла README
+
+Теперь, когда вы создали файл README.md, вы можете поделиться этой информацией со всем сообществом Github.com внутри вашего профиля пользователя. Просто следуйте руководству: [Управление вашим README профиля](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme), предоставленному самой платформой.
 
 
 ### Utilitários
