@@ -1,6 +1,6 @@
 # Thomas Jehlen
 
-    Desenvolvedor com 4 anos de experiência que já trabalhou com diversas linguagens em escopos de mercado financeiro e aplicações interativas. Formado em Jogos Digitais e com técnico em Desenvolvimento de Sistemas.
+Desenvolvedor com 4 anos de experiência que já trabalhou com diversas linguagens em escopos de mercado financeiro e aplicações interativas. Formado em Jogos Digitais e com técnico em Desenvolvimento de Sistemas.
 
 ## 🛠 Skills
 
@@ -24,8 +24,8 @@
 
 ## Repos
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/mrthomasj/PixoPong)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mrthomasj&repo=PixoPong&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/mrthomasj/PixoPong)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/mrthomasj/smart-dispenser)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mrthomasj&repo=smart-dispenser&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/mrthomasj/smart-dispenser)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/mrthomasj/hotels-rest-api)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mrthomasj&repo=hotels-rest-api&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/mrthomasj/hotels-rest-api)
