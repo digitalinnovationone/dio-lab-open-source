@@ -7,7 +7,7 @@ Futura Desenvolvedora Full Stack cursando Análise e Desenvolvimento de Sistemas
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ec63a1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayane-vieira-7285a313a/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=purple)](https://github.com/rayanefkarolina)
 
-## Habilidades
+## Linguagens - Tecnologias - Habilidades
 
 ![C++](https://img.shields.io/badge/C%2B%2B-002?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-002?style=for-the-badge&logo=html5&logoColor=white)
