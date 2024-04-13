@@ -6,13 +6,13 @@ Ao longo da minha carreira, tenho explorado diversas linguagens de programação
 
 Fora do mundo da tecnologia, tenho uma paixão pela música, sempre buscando novos ritmos e sons para expandir meus horizontes. Além disso, sou um amante dos animais, dedicando tempo e energia para apoiar causas relacionadas ao bem-estar animal sempre que possível.
 
-Estou constantemente buscando aprender e crescer, tanto pessoal quanto profissionalmente, e estou entusiasmado para colaborar em projetos inovadores que desafiem e inspirem. Se você está procurando um alguém comprometido, criativo e apaixonado pela tecnologia, estou pronto para contribuir!
+Estou constantemente buscando aprender e crescer, tanto pessoal quanto profissionalmente, e estou entusiasmado para colaborar em projetos inovadores que desafiem e inspirem. Se você está procurando alguém comprometido, criativo e apaixonado pela tecnologia, estou pronto para contribuir!
 
 ## Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcocslima)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:marcocslima@gmail.com)
 
-## Habilidades
+## Linguagens e Tecnologias
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
