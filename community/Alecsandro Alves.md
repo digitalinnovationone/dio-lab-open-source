@@ -1,4 +1,4 @@
-Sou o Alecsandro Tomé
+Sou o Alecsandro Alves
 Minha área de atuação é totalmente diferente do que possam imaginar
 Sou Mágico e Palhaço há 18 anos, amo trabalhar com pessoas
 Mas sempre busco qualificações além da área que atuo
