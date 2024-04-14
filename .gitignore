@@ -273,4 +273,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Windows shortcuts
+*.doc
+*.docx
+
 # End of https://www.toptal.com/developers/gitignore/api/linux,windows,macos,intellij,visualstudiocode,eclipse
