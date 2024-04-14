@@ -12,7 +12,7 @@ Estou sempre buscando aprender e enfrentar novos desafios para continuar aprimor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ressouza/)
 
-## Interessado em Colaborar?
+## Interessado em Colaborar ?
 
 Estou sempre aberto a novas oportunidades de colaboração e projetos interessantes. Se você estiver procurando por um parceiro para projetos, não hesite em entrar em contato!
 
