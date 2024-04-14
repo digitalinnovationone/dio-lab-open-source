@@ -12,4 +12,4 @@ Comecei há quase um ano estudar Lógica de programação, JavaScript,TypeScript
 E venho me dedicando as tecnologias para buscar novas oportunidades, visando o futuro, e sabemos muito bem que o futuro envolve tecnologia
 Espero ter o meu diferencial neste universo tecnológico colocando um pouco da minha personalidade aos meus projetos
 Acabei conhecendo a DIO através de uma influencer de programação e estou curtindo toda a plataforma, achei SUPER INTUITIVA, parabéns a todos envolvidos na DIO pela metodologia.
-Para quem tiver curiosidade sobre o meu trabalho artístico, sei que hoje em dia é necessário provar o que se fala ou escreve rsrs segue o meu [instagram](https://www.instagram.com/palhacomagicorabisco/)
+Para quem tiver curiosidade sobre o meu trabalho artístico, sei que hoje em dia é necessário provar o que se fala ou escreve rsrs segue o meu [instagram](https://www.instagram.com/palhacomagicorabisco/).
