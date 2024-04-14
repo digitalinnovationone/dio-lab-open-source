@@ -1,5 +1,5 @@
 # Prazer sou Bruno de Melo Allucci
-
+Sou Analista de sistema, atualmente trabalho em um hospital no qual utilizo o sistema Tasy um ERP hospitalar, onde para acesso e pesquisa ao banco de dados utilizo MYSQL, atualemte estou espandindo meu conhecimento com a linguagem Python.
 # Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-allucci-b79903197/)
 
