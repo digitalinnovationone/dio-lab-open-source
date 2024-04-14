@@ -1,4 +1,8 @@
 ## George Fragoso de Andrade
+Super empolgado por estudos em Tecnologia da Informação com foco em atuação na área de Ciência de Dados e Mineração de Dados.
+
+<a href="https://visitorbadge.io/status?path=[https://github.com/georgefragoso1977](https://github.com/georgefragoso1977)"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Farthurgalanti&label=Visitantes%20(HOJE%2FTotal)&labelColor=%235b187e&countColor=%235b187e&labelStyle=upper" /></a>
+
 ## 💡 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-fragoso-andrade-a5416968/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/georgefragoso_andrade/)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5581988227995)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/georgefragoso1977) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:georgefragoso@yahoo.com.br) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:george.fragoso@gmail.com)
