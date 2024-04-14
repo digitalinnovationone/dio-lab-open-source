@@ -1,6 +1,11 @@
 # Rodrigo Ramone 
 
 #### Estudante de Análise e Desenvolvimento de Sistemas | Java | Python | JavaScript | C#
+<i>Valparaíso de Goiás, GO - Brasil</i>
+
+[![GitHub](https://img.shields.io/badge/-GITHUB-B80000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RodrigoRamone7/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-B80000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-ramone-404b62113/)
+[![Perfil na DIO](https://img.shields.io/badge/-Perfil%20na%20DIO-B80000?style=for-the-badge&logo=github&logoColor=white)](https://www.dio.me/users/rodrigo_wow7)
 
 
 ## Sobre
