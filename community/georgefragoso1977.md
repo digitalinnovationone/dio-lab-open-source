@@ -1,5 +1,5 @@
 ## George Fragoso de Andrade
-Super empolgado por estudos em Tecnologia da Informação com foco em atuação na área de Ciência de Dados e Mineração de Dados.
+Estudo Tecnologia da Informação com foco em atuação na área de Ciência de Dados e Mineração de Dados.
 
 <a href="https://visitorbadge.io/status?path=[https://github.com/georgefragoso1977](https://github.com/georgefragoso1977)"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Farthurgalanti&label=Visitantes%20(HOJE%2FTotal)&labelColor=%235b187e&countColor=%235b187e&labelStyle=upper" /></a>
 
