@@ -1,6 +1,6 @@
 # Helamã Oliveira
 
-Breve descrição sobre você.
+Estudante de ADS em busca de conhecimento.
 
 ### Conecte-se comigo
 
