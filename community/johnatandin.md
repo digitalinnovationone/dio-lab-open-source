@@ -1,4 +1,4 @@
-#https://capsule-render.vercel.app/api?type=waving&height=200&color=auto&text=Johnatan&fontColor=auto&animation=fadeIn&fontSize=50&section=footer
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=auto&text=Johnatan&fontColor=auto&animation=fadeIn&fontSize=30&section=footer"/>
 
 # Contribuindo em um Projeto Open Source no GitHub
 
@@ -6,7 +6,7 @@ Perfil README do github da DIO
 
 
 # Olá, eu sou a Johnatan! 👋
-Balcharel em Sistemas de Informacao
+Bacharel em Sistemas de Informacao
 
 # Conecte-se Comigo!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/johnatan-din-santos-1816906a)
