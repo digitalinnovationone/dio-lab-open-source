@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=200&color=auto&text=Johnatan&fontColor=auto&animation=fadeIn&fontSize=50&section=footer
+#https://capsule-render.vercel.app/api?type=waving&height=200&color=auto&text=Johnatan&fontColor=auto&animation=fadeIn&fontSize=50&section=footer
 
 # Contribuindo em um Projeto Open Source no GitHub
 
@@ -28,7 +28,7 @@ Balcharel em Sistemas de Informacao
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnatandin&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=johnatandin&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
