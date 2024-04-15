@@ -33,4 +33,4 @@
 
 ## <span style="color:darkred;"> _Minhas contribuições e Projetos_ </span>
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaline-Constantino&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Kaline-Constantino/dio-lab-open-source)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaline-Constantino&repo=workshop-asp-net-core-mvc&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Kaline-Constantino/workshop-asp-net-core-mvc)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaline-Constantino&repo=workshop-asp-net-core-mvc&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Kaline-Constantino/workshop-asp-net-core-mvc)  
