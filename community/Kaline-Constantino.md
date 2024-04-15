@@ -1,4 +1,4 @@
-# <span style="color:darkred;"> _Kaline Constantino_ </span> 
+# <span style="color:darkred;"> _Kaline Cecília Constantino_ </span> 
 
  <span style="color:ocean;">
     Olá! Me chamo Kaline e como uma boa curiosa, vim me aventurar nesse extraordinário mundo que é a tecnologia! Desde muito cedo essa área se apresenta em minha vida, e em idas e vindas finalmente me rendi. Sou uma eterna aprendiz e colecionadora de conhecimentos. 
