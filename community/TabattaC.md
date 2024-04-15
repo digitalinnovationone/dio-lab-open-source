@@ -1,7 +1,7 @@
 
 # Tábatta Caroline Cerri França
 <p>
-Sou uma profissional de qualidade dedicada, com profundo interesse na área de qualidade de software e desenvolvimento, que busca evolução constante. Ampliando meus conhecimentos em ferramentas, frameworks, levando em consideração metodologias de Testes Ágeis. Com aproximadamente 2 anos de experiência, no momento atuo na área de análise e automação em qualidade de software.
+ Sou uma profissional de qualidade dedicada, com profundo interesse na área de qualidade de software e desenvolvimento, que busca evolução constante. Ampliando meus conhecimentos em ferramentas, frameworks, levando em consideração metodologias de Testes Ágeis. Com aproximadamente 2 anos de experiência, no momento atuo na área de análise e automação em qualidade de software.
 </p>
 
 # Conecte-se comigo
