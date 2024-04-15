@@ -27,5 +27,3 @@ Companhia Paulista de Trens Metropolitanos
 
 ### Conecte-se comigo
 [GitHub](https://github.com/glaucopifi)  [Contato peor e-mail](glaucopiccolofiglioli@outlook.com)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=glaucopifi&repodio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/glaucopifi/dio-lab-open-source.git)
