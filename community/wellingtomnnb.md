@@ -1,37 +1,33 @@
 ### Olá! Me chamo Wellington Braga <img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/man-technologist.gif" width="30" style="vertical-align: middle;">
 
-
-<div style="display: flex; align-items: flex-start;">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/wellingtomnnb">
-          <img src="https://media.licdn.com/dms/image/D4D03AQHigvyjxA5taQ/profile-displayphoto-shrink_800_800/0/1697198610978?e=1718841600&v=beta&t=wEwdmVCqGBsJS8hWd2A1NwNxZxYEvYrLct16_vRcyLY" width="80px;" alt=""/>
-          <br/>
-          <sub><b>Wellington N. Braga</b></sub>
-        </a>
-        <br/>
-        <p>Data Storyteller <br>Developer</p>
-        <a href="https://www.linkedin.com/in/wellingtomnnb/">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        </a><br/>
+<table style="border: 1px solid gold; border-collapse: collapse;">
+  <tr>
+    <td align="center">
       <a href="https://github.com/wellingtomnnb">
-        <img src="https://api.visitorbadge.io/api/visitors?path=wellingtomnnb&label=Visitantes&countColor=%2337d67a&style=flat&labelStyle=none" alt="LinkedIn"/>
+        <img src="https://media.licdn.com/dms/image/D4D03AQHigvyjxA5taQ/profile-displayphoto-shrink_800_800/0/1697198610978?e=1718841600&v=beta&t=wEwdmVCqGBsJS8hWd2A1NwNxZxYEvYrLct16_vRcyLY" width="300px;" alt=""/>
+        <br/>
+        <sub><b>Wellington N. Braga</b></sub>
       </a>
-      </td>
-    </tr>
-  </table>
-  <div style="margin-left: 0px;">
-    <p>Trabalho com tecnologia à mais 6 anos e meu principal hobby é criar produtos de Engenharia de Software com ênfase em aplicações de suporte a tomada de decisão. Além disso, meu conhecimento na criação de aplicativos mobile usando o framework Flutter e a linguagem Dart me permite trabalhar em projetos paralelos, agregando valor ao meu repertório profissional.</p>
+      <br/>
+      <p>Data Storyteller <br>Developer</p>
+      <a href="https://www.linkedin.com/in/wellingtomnnb/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a><br/>
+    <a href="https://github.com/wellingtomnnb">
+      <img src="https://api.visitorbadge.io/api/visitors?path=wellingtomnnb&label=Visitantes&countColor=%2337d67a&style=flat&labelStyle=none" alt="LinkedIn"/>
+    </a>
+    </td>
+    <td align="left">
+       <p>Trabalho com tecnologia à mais 6 anos e meu principal hobby é criar produtos de Engenharia de Software com ênfase em aplicações de suporte a tomada de decisão. Além disso, meu conhecimento na criação de aplicativos mobile usando o framework Flutter e a linguagem Dart me permite trabalhar em projetos paralelos, agregando valor ao meu repertório profissional.</p>
     <p>Minhas especialidades incluem análise avançada de dados, automação de processos e gerenciamento de fluxos de trabalho, e estou sempre em busca de aprimorar minhas habilidades para atender às necessidades do mercado e contribuir para o sucesso das empresas em que atuo.</p>
-  </div>
-</div>
+  </tr>
+</table>
+
 
 ### 🏢 Atuação Profissional
 - 🧮 **Data Scientist** na [Alertrack](https://alertrack.com.br/)
 - ⏳ Pós graduando em Engenharia de Software na [FAVENI](https://faveni.edu.br/)
 - 🎓 Bacharel em Sistemas de Informação na [UCL](https://www.ucl.br/)
-
 
 ### Técnologias 
 
@@ -66,14 +62,28 @@
 ![SQLITE](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtomnnb&layout=donut-vertical&&theme=dracula)](https://github.com/wellingtomnnb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtomnnb&layout=donut-vertical&&theme=dracula)](https://github.com/wellingtomnnb/github-readme-stats)  
 
 
 ### 🗂️ Principais Repositórios:
-<a href="https://github.com/arthurgalanti/shopflix">
+<a href="https://github.com/wellingtomnnb/legislator_scraping">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtomnnb&repo=legislator_scraping&&theme=dracula"/>
+</a></br></br>
+<a href="https://github.com/wellingtomnnb/python_object_oriented">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtomnnb&repo=python_object_oriented&&theme=dracula"/>
+</a></br></br>
+<a href="https://github.com/wellingtomnnb/sentiment-analisys">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtomnnb&repo=sentiment-analisys&&theme=dracula"/>
+</a></br></br>
+<a href="https://github.com/wellingtomnnb/graph_tools">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtomnnb&repo=graph_tools&&theme=dracula"/>
+</a></br></br>
+<a href="https://github.com/wellingtomnnb/ServerWebSocket">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtomnnb&repo=serverwebsocket&&theme=dracula"/>
+</a></br></br>
+<a href="https://github.com/wellingtomnnb/clientwebsocket">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtomnnb&repo=clientwebsocket&&theme=dracula"/>
 </a>
-
 
 ### 📊 Estatísticas no GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtomnnb\&include_all_commits=true&theme=dracula)
