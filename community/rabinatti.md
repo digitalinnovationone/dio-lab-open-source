@@ -47,6 +47,12 @@ Acredito que tenho capacidades sulficientes para poder entrar no mercado de trab
 
 ## GitHub Stats
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rabinatti&bg_color=000940&border_color=9CBFEA&title_color=9CBFEA&text_color=FFF)
+
 ## Meus principais projetos
 
-Créditos imagem: [Work illustrations by Storyset](https://storyset.com/work)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rabinatti&repo=proway-computers&bg_color=000940&border_color=9CBFEA&show_icons=true&icon_color=30A3DC&title_color=9CBFEA&text_color=FFF)](https://github.com/rabinatti/proway-computers)
+
+
+##
+###### Créditos imagem: [Work illustrations by Storyset](https://storyset.com/work)
