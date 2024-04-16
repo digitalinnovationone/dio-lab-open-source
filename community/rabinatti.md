@@ -1,5 +1,9 @@
 # Raphael Binatti Filardi
 
+<div style="float: right; margin-right: 20px;">
+  <img src="https://github.com/rabinatti/rabinatti/blob/main/img/developer-activity-amico.png?raw=true" width="300px">
+</div>
+
 Apaixonado por tecnologia, atuei por muitos anos como editor de vídeos, porém agora estou fazendo uma transição de carreira para a área de programação e desenvolvimento. Para fazer essa transição, entrei no Programa [Start da Capgemini](https://startcapgemini.com.br/) onde pude aprender toda a base de lógica de programação, e posteriormente aprendi HTML, CSS, JavaScript e Jquery, Angular, criação de APIs com o Angular, Fundamentos Java, Linguagem de programação em Java, Java Web, HTML avançado e CSS Avançado.
 
 O curso foi mais voltado para o trabalho em back-end com o Java, onde foi ensinado também a crição básica de um banco de dados MySQL e a conexão dele utilizando o Java. Gostei muito de aprender sobre o Java, mas gostei bastante também de estudar o front-end, principalmente com o Angular. 
@@ -41,8 +45,8 @@ Acredito que tenho capacidades sulficientes para poder entrar no mercado de trab
 ![Vue](https://img.shields.io/badge/vuejs-%23000940.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-boostrap-000940?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
-
 ## GitHub Stats
 
 ## Meus principais projetos
+
+Créditos imagem: [Work illustrations by Storyset](https://storyset.com/work)
