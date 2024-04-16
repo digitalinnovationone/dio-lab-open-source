@@ -1,7 +1,7 @@
 ### Olá, meu nome é Ramon
 Atualmente Analista de Suporte e futuro desenvolvedor Full Stack, cursando Análise e Desenvolvimento de Sistemas na Descomplica.
 
-#### 👨‍💻 Linguagens - Frameworks - Tecnologias - Ferramentas de interesse 🛠
+#### 👨‍💻 Interesses 🛠
 
 ![Csharp](https://img.shields.io/badge/CSharp-%23934B8E?style=flat-square&labelColor=%23414141&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23EFD81D?style=flat-square&labelColor=%23414141&logo=javascript&logoColor=white)
