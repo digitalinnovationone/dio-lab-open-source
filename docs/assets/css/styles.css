@@ -24,7 +24,7 @@ html {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
+    transition: color 0.15s;
     scrollbar-width: thin;
     scrollbar-color: var(--gray-300) transparent; 
 } 
@@ -53,7 +53,7 @@ body {
 a {
     color: var(--black);
     font-weight: 600;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 a:hover {
@@ -96,18 +96,16 @@ header nav ul{
     justify-content: center;
 }
 
-.brand {
+.brand > a {
     display: flex;
     gap: .65rem;
-}
-
-.brand img {
-    height: 2rem;
-}
-
-.brand span {
-    font-size: 1.5rem;
-    color: var(--white);
+    & > img {
+        height: 2rem;
+    }
+    & >  span {
+        font-size: 1.5rem;
+        color: var(--white);
+    }
 }
 
 
@@ -182,6 +180,9 @@ header nav {
 }
 
 main, section {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
     padding: 2rem 2rem 0;
 }
 
@@ -236,7 +237,7 @@ main, section {
 #searchButton:hover {
     color: var(--white);
     background-color: #0F0F0F;
-    border: #0F0F0F;
+    border-color: #0F0F0F;
 }
 
 #searchInput {
