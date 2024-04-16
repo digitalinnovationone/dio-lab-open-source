@@ -1,4 +1,5 @@
 # Ediberto santana
+### Estudante de ensino superior do curso de Análise e Desenvolvimento de Sistemas 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ediberto-santana-4b1113272/)
 ## Habilidades
