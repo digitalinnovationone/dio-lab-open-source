@@ -1,4 +1,4 @@
-## Meu nome é Guilherme da Silva Valerio, sou estudante de Ciência da Computação, sou Técnico em Mecatrônica e gosto muito de Tecnologia e Desenvolvimento de Software.
+## Meu nome é Guilherme da Silva Valerio, sou estudante de Ciência da Computação, sou Técnico em Mecatrônica e gosto muito de Tecnologia e Desenvolvimento de Software, espero que goste.
 
 ## Segue abaixo o meu perfil no GitHub
 [![GitHub](https://img.shields.io/badge/GitHbt-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guilherme-Valerio1)
