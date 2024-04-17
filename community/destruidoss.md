@@ -16,7 +16,7 @@ Sou atualmente um aspirante a desenvolvedor em python, sei um pouco de HTML e CS
 ![SQLServer](https://img.shields.io/badge/SQLServer-%23DB2A20.svg?style=flat-square&labelColor=%23414141&logo=microsoftsqlserver&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&labelColor=%23414141&logo=postgresql&logoColor=white)
 
-### Status GitHub 
+## Status GitHub 
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=Destruidoss&theme=transparent&bg_color=000&border_color=3b8640&show_icons=true&icon_color=3b8640&title_color=3b8640&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Destruidoss&layout=compact&bg_color=000&border_color=3b8640&title_color=3b8640&text_color=FFF)
