@@ -47,7 +47,7 @@
 | Tipo de Commit | Descrição                                                            | Exemplo
 | ---------------|----------------------------------------------------------------------|-----------
 | `feat`         | Adiciona uma nova funcionalidade ao projeto.                         | `feat: add USENAME.md profile`
-| `fix`          | Corrige um bug ou problema no projeto.                               | `fix: fixed issue fix#IssueNumber`
+| `fix`          | Deve ser usado quando há um bug ou correção no seu projeto.          | `fix: fixed issue fix#IssueNumber`
 | `docs`         | Altera a documentação do projeto. Ex.: README, comentários no código.| `doc: altered section SECTIONNAME`
 | `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         | `style: add EFFECTNAME to COMPONENT`
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
@@ -55,6 +55,7 @@
 
 ## Desafios Git e GitHub
 - [50 minutos de desafios para treino](https://www.youtube.com/watch?v=kB5e-gTAl_s)
+- [Pratique o seu conhecimento em Git, GitHub com a w3Schools.](https://www.w3schools.com/git/git_quiz.asp)
 
 
 ## Referências
