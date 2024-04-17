@@ -3,10 +3,9 @@
 
 Olá! 
 
-Sou Amanda, tenho 34 anos e sou mãe solo de um adolescente e uma bebê. ❤
-
-Apaixonada por tecnologia e com uma trajetória profissional nada linear, sempre me vi voltada para a área de humanas. Com espírito empreendedor e experiência em diferentes áreas de negócio, amo ajudar as pessoas e solucionar problemas de forma prática e criativa. Há pouco mais de um ano resolvi criar coragem e "mergulhar de cabeça" nesse processo de aprendizado tão desafiador e empolgante da tecnologia. Atualmente estou cursando bacharelado em Inteligência Artificial e entusiasmada com a possibilidade de contribuir com projetos inovadores e de impacto social.
-
+Sou Amanda, tenho 35 anos e mãe solo de um adolescente e uma bebê. ❤
+Sou deficiente auditiva unilateral, apaixonada por tecnologia e com uma trajetória profissional nada linear, sempre me vi voltada para a área de humanas. Com espírito empreendedor e experiência em diferentes áreas de negócio, amo ajudar as pessoas e solucionar problemas de forma prática e criativa. 
+Há pouco mais de um ano, resolvi criar coragem e "mergulhar de cabeça" nesse processo de aprendizado tão desafiador e empolgante da tecnologia. Atualmente estou cursando bacharelado em Inteligência Artificial e entusiasmada com a possibilidade de contribuir com projetos inovadores.
 
 
 ## Conecte-se comigo
@@ -18,8 +17,8 @@ Apaixonada por tecnologia e com uma trajetória profissional nada linear, sempre
 
 ## Desenvolvendo Habilidades
 - Microsoft Power BI
-- Data Analytcs
-- Business Intelligence
+- Python para Data Analytcs
+- SQL
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amandasoler&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
