@@ -1,6 +1,3 @@
-# Title Header (H1 header)
-
-
 # Alan Correa
 
 Me chamo Alan, sou formado em engenharia ambiental e atualmente estou estudando data science.
