@@ -1,4 +1,4 @@
-# $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}My Profile}$$
+# $${\color{red}Hello! \space \color{lightblue}My \space \color{orange}Name \space \color{red}Is \space \color{lightblue}José \space \color{orange}Henrique}$$
 > [!Note]
 > - 🔭 I’m currently working on Software Developer.
 > - 🌱 I’m currently learning Analysis and Systems Development 
