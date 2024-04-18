@@ -14,9 +14,9 @@ Atualmente trabalho como assistente de suporte técnico no Seconci-sp, onde minh
 
 ## Contate-me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-seguran%C3%A7a-da-informacao/?midSig=0u_dpJjc0z5X81&eid=fc564o-ls57tupk-pe&midToken=AQF2kEQuRQo7aQ&trkEmail=eml-email_edge_discover_01-header-0-profile_glimmer-null-fc564o%7Els57tupk%7Epe-null-null&trk=eml-email_edge_discover_01-header-0-profile_glimmer&originalSubdomain=br)https://www.linkedin.com/in/everton-seguran%C3%A7a-da-informacao/?midSig=0u_dpJjc0z5X81&eid=fc564o-ls57tupk-pe&midToken=AQF2kEQuRQo7aQ&trkEmail=eml-email_edge_discover_01-header-0-profile_glimmer-null-fc564o%7Els57tupk%7Epe-null-null&trk=eml-email_edge_discover_01-header-0-profile_glimmer&originalSubdomain=br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-seguran%C3%A7a-da-informacao/?midSig=0u_dpJjc0z5X81&eid=fc564o-ls57tupk-pe&midToken=AQF2kEQuRQo7aQ&trkEmail=eml-email_edge_discover_01-header-0-profile_glimmer-null-fc564o%7Els57tupk%7Epe-null-null&trk=eml-email_edge_discover_01-header-0-profile_glimmer&originalSubdomain=br)
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EvertonALucas)https://github.com/EvertonALucas)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EvertonALucas)
 
 
 

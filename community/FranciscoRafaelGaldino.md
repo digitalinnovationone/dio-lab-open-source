@@ -15,9 +15,9 @@
 
 Olá! Meu nome é Francisco Rafael e sou um Engenheiro de DevOps apaixonado por tecnologia. Sempre estou buscando ficar por dentro das últimas novidades na área de desenvolvimento e operações. Além disso, tenho algumas paixões pessoais:
 
-Música: Nas horas vagas, sou músico. Adoro tocar instrumentos e explorar diferentes gêneros musicais. Um bom e velho rock sempre me anima!
+**Musica:** Nas horas vagas, sou músico. Adoro tocar instrumentos e explorar diferentes gêneros musicais. Um bom e velho rock sempre me anima!
 
-Cinema e Cultura Nerd: Sou um cinéfilo e adoro mergulhar em filmes, séries e livros relacionados à cultura nerd. Seja ficção científica, fantasia ou super-heróis, estou sempre pronto para uma boa maratona.
+**Cinema e Cultura Nerd:** Sou um cinéfilo e adoro mergulhar em filmes, séries e livros relacionados à cultura nerd. Seja ficção científica, fantasia ou super-heróis, estou sempre pronto para uma boa maratona.
 Como Engenheiro de DevOps, estou comprometido em criar soluções eficientes e automatizadas para garantir que nossos sistemas funcionem perfeitamente. Se você está procurando alguém que combine paixão pela tecnologia com interesses culturais diversificados!
 
 [![Follow](https://img.shields.io/github/followers/FranciscoRafaelGaldino.svg?style=social&label=Follow&maxAge=2592000)]()
