@@ -5,7 +5,7 @@
  
  ## Habilidades 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=0E76A8)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=0E76A8)
 
 
  ## Github Stats
