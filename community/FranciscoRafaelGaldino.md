@@ -1,7 +1,7 @@
 ### Olá, me Chamo Francisco Rafael Galdino 🎸
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/francisco-rafael-amaral-galdino-486a66292)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([www.linkedin.com/in/francisco-rafael-amaral-galdino-486a66292](https://github.com/LokieXIV))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([www.linkedin.com/in/francisco-rafael-amaral-galdino-486a66292](https://github.com/FranciscoRafaelGaldino))
 
 ![Francisco Galdino GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoRafaelGaldino&show_icons=true&theme=radical&hide_title=true&hide=stars)
 
