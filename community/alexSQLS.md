@@ -3,11 +3,11 @@
 # 🧙 Sobre mim:
 Hello world! Meu nome e alex, sou estudante na area da tecnologia e estou em processo de transicao de carreira para a area em questao
 
-🖥️ Estudanto C#, .NET, vueJs, typeScript, nodeJs, sql, nosql
+🖥️ Estudanto C#, .NET, vueJs, typeScript, nodeJs, sql, nosql;
 
-👌 Busco colaborar com a comunidade
+👌 Busco colaborar com a comunidade;
 
-🧑‍🎓 Estudante em ciencias da computacao
+🧑‍🎓 Estudante em ciencias da computacao;
 
 # habilidades
 -**linguagens de programacao**
