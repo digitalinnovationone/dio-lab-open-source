@@ -15,7 +15,8 @@ Atualmente estou atuando na area de cocktelaria como bartender e sou academico d
 
 
 ## 🎓 Conhencimento
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>       <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>   <img src="https://hermes.dio.me/skills/96ad256f-cfd0-44c0-b8a5-d6d83516d7fd.png" alt="SQL" class="sc-xfJVh jEviZe"  width="40" height="40"/>    <img src="https://hermes.dio.me/skills/2d94c57f-cbdf-4783-b649-8e3ba7d57758.webp" alt="NoSQL" class="sc-xfJVh jEviZe" width="40" height="40"/>  
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)    ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)       ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 
 
