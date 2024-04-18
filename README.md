@@ -77,7 +77,7 @@ Aprender o básico sobre contribuição no git e GitHub.
 2. Clone localmente: `git clone https://github.com/SEU_USERNAME/dio-lab-open-source.git`;
 3. Adicione o remote upstream para manter seu repositório local atualizado. Por exemplo: `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git`;
     > Utilize o comando `git pull upstream main` para baixar e mesclar as alterações no seu repositório local com base na branch `main` deste repositório original de onde você fez o fork, ou `git fetch upstream main` para baixar sem mesclar. Veja mais em: [Primeiros Passos com Git e GitHub](https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
-4. Crie/Referêncie uma nova **branch** e nomeie como `feat/community/SEU_USERNAME`:'git checkout -b feat/community/SEU_USERNAME'
+4. Crie/Referencie uma nova **branch** e nomeie como `feat/community/SEU_USERNAME`:'git checkout -b feat/community/SEU_USERNAME'
     > Exemplo: 'git checkout -b feat/community/Cristian0-Pereira'
 5. Dentro da pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
     > Exemplo: `rafaeldscordeiro.md` <br>
@@ -128,6 +128,10 @@ Now that you have created your README.md, you can share this information with th
 9. Envía los cambios a tu repositorio remoto `git push origin feat/community/TU_USERNAME`;
 10. Crea un **Pull Request**.
 
+#### Cómo actualizar su perfil de Github usando su archivo README
+
+Ahora que ha creado su README.md, puede compartir esta información con toda la comunidad Github.com dentro de su perfil de usuario. Simplemente sigue la guía: [Administrar el README de tu perfil](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme), proporcionada por la propia plataforma.
+
  ##   Instructies (DT/NL)
 1. **Fork** deze repository;
 2. Kloon lokaal: git clone https://github.com/YOUR_USERNAME/dio-lab-open-source.git;
@@ -144,11 +148,8 @@ Now that you have created your README.md, you can share this information with th
 9. Push de wijzigingen naar je externe repository git push origin feat/community/YOUR_USERNAME;
 10. Creëer een **Pull Request**.
 
-
-#### Cómo actualizar su perfil de Github usando su archivo README
-
-Ahora que ha creado su README.md, puede compartir esta información con toda la comunidad Github.com dentro de su perfil de usuario. Simplemente sigue la guía: [Administrar el README de tu perfil](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme), proporcionada por la propia plataforma.
-
+#### Hoe u uw Github-profiel kunt bijwerken met behulp van uw README-bestand
+Nu u uw README.md hebt gemaakt, kunt u deze informatie delen met de hele Github.com-gemeenschap binnen uw gebruikersprofiel. Volg gewoon de handleiding: [Beheer uw profiel README](https://docs.github.com/pt/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme), beschikbaar gesteld door het platform zelf.
 
 ### Utilitários
 
@@ -159,16 +160,17 @@ Ahora que ha creado su README.md, puede compartir esta información con toda la 
 ---
 
 ## Contribua
+
 [![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/stargazers)
 [![Forks](https://img.shields.io/github/forks/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/forks)
 [![GitHub Issues](https://img.shields.io/github/issues/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/issues/)
 
  Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição além do seu exemplo de Profile README, é inserir outros utilitários na pasta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils), ou melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/docs). <br>
- Além disso, você também pode contribuir:
- 
+ Além disso, você também pode contribuir:  
+
 ⚠️ Resolvendo, respondendo ou indicando **issues**
 
-⭐ Adicionando aos favoritos (**star**) 
+⭐ Adicionando aos favoritos (**star**)
 
 ### Membros da comunidade que já contribuiram:
 <a href="https://github.com/elidianaandrade/dio-lab-open-source/graphs/contributors">
