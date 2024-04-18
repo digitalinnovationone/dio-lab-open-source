@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perfil GitHub de [Seu Nome]</title>
+    <title>Perfil GitHub de Esdras</title>
 </head>
 <body>
 
@@ -13,36 +13,20 @@
 
 <section>
     <h2>Sobre mim</h2>
-    <p>Olá! Meu nome é [Seu Nome] e sou formado em Sistema da Informação. Sou apaixonado por dados e análise, e estou em busca de oportunidades para aplicar minhas habilidades nesta área emocionante!</p>
+    <p>Olá! Meu nome é Esdras e sou formado em Sistema da Informação. Sou apaixonado por dados e análise, e estou em busca de oportunidades para aplicar minhas habilidades nesta área emocionante!</p>
 </section>
 
 <section>
     <h2>Minha experiência</h2>
     <ul>
-        <li><strong>Formação acadêmica:</strong> Concluí meu curso de Sistema da Informação na [Instituição de Ensino] com ênfase em [área de interesse, se aplicável].</li>
-        <li><strong>Experiência prática:</strong> Durante meus estudos, tive a oportunidade de trabalhar em projetos práticos que envolviam coleta, análise e visualização de dados. Além disso, participei de [estágios, projetos de pesquisa, ou outras experiências relevantes].</li>
+        <li><strong>Formação acadêmica:</strong> Concluí meu curso de Sistema da Informação na UNASP.</li>
+        <li><strong>Experiência prática:</strong> Durante meus estudos, tive a oportunidade de trabalhar em projetos práticos que envolviam coleta, análise e visualização de dados.</li>
     </ul>
 </section>
 
 <section>
     <h2>O que estou buscando</h2>
     <p>Estou atualmente em busca de oportunidades para trabalhar com análise de dados. Meu objetivo é contribuir para projetos interessantes, aplicando meu conhecimento em ciência de dados e mineração de dados para extrair insights valiosos e tomar decisões informadas.</p>
-</section>
-
-<section>
-    <h2>Como posso contribuir</h2>
-    <p>Estou aberto a colaborações em projetos relacionados a análise de dados, seja em projetos open source ou em iniciativas comerciais. Posso ajudar com:</p>
-    <ul>
-        <li>Limpeza, transformação e análise de dados.</li>
-        <li>Desenvolvimento de modelos preditivos e análises estatísticas.</li>
-        <li>Visualização de dados para comunicar insights de forma clara e eficaz.</li>
-    </ul>
-</section>
-
-<section>
-    <h2>Entre em contato</h2>
-    <p>Se você está interessado em colaborar ou tem oportunidades disponíveis, não hesite em entrar em contato comigo por e-mail <a href="mailto:seu@email.com">seu@email.com</a> ou através das redes sociais <a href="#">[LinkedIn]</a>, <a href="#">[Twitter]</a>, etc.</p>
-    <p>Vamos trabalhar juntos para transformar dados em informações significativas!</p>
 </section>
 
 </body>
