@@ -55,7 +55,6 @@
 
 ## Desafios Git e GitHub
 - [50 minutos de desafios para treino](https://www.youtube.com/watch?v=kB5e-gTAl_s)
-- [Pratique o seu conhecimento em Git, GitHub com a w3Schools.](https://www.w3schools.com/git/git_quiz.asp)
 
 
 ## Referências
