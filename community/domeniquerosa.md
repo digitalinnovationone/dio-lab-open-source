@@ -11,4 +11,4 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela UFPR, esto
 ## Conect-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/alires-rosa-48a9612a0/)
-[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/DomeniqueRosa1)
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/DomeniqueRosa)
