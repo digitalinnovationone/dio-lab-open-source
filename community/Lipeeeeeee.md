@@ -50,7 +50,8 @@ Olá me chamo Felipe Alves, estudo no IFRN atualmente no 3º período de Anális
 
 ### Meus principais desafios de projeto
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Lipeeeeeee&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00477D&text_color=49B0FF)](https://github.com/Lipeeeeeee/dio-lab-open-source)
+[![dio-lab-open-source](https://github-readme-stats.vercel.app/api/pin/?username=Lipeeeeeee&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00477D&text_color=49B0FF)](https://github.com/Lipeeeeeee/dio-lab-open-source)
+[![sistema-bancario-com=python](https://github-readme-stats.vercel.app/api/pin/?username=Lipeeeeeee&repo=Sistema-bancario-com-python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00477D&text_color=49B0FF)](https://github.com/Lipeeeeeee/Sistema-bancario-com-python)
 
 ### Meus principais Artigos na DIO
 
