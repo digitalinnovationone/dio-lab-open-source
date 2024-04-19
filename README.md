@@ -87,7 +87,7 @@ Aprender o básico sobre contribuição no git e GitHub.
 8. Crie um commit e adicione a mensagem indicando a adição do seu perfil `git commit -m"feat: add SEU_USERNAME profile"`;
 9. Envie as alterações para o seu repositório remoto `git push origin feat/community/SEU_USERNAME`; 
 10. Crie um **Pull Request**.
-11. :arrow_double_up: Referente ao passo :three:
+11. Check
 
 #### Como atualizar seu perfil do Github usando seu arquivo README
 
