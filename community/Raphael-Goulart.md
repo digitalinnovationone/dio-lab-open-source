@@ -20,7 +20,9 @@
 
 🚀 Let's build something amazing together!
 
--------------------------------------------------------------
+<br></br>
+--------------------------------------------------------------------------------------------------------------------------------------
+<br></br>
 
 [PT-BR]
 👋 Olá! Aqui quem vos fala é Raphael Goulart!
@@ -44,5 +46,7 @@
 🏗️ Como engenheiro civil, trago uma mentalidade analítica e habilidades de resolução de problemas para o mundo da programação.
 
 🚀 Vamos construir algo incrível juntos!
+
+
 
 
