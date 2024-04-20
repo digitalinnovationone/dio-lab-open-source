@@ -47,14 +47,15 @@ Após 5 anos na área da hotelaria onde chefiava os setores de recepção e rese
 
 <h2 style="color: rgb(212,69,213)">GitHub Stats ⚡</h2>
 <div>
-<img align="center" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabzfonseca&layout=compact&theme=ambient_gradient&hide_border=false"/>
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gabzfonseca&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=false" alt="Gabriella's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabzfonseca&layout=compact&theme=ambient_gradient&hide_border=false"/>
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gabzfonseca&hide_title=true&show&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=false" alt="Gabriella's github stats"/>
 </div>
 
 <h2 style="color: rgb(212,69,213)">Conecte-se comigo! 📭</h2>
 <div>
 <a href="https://instagram.com/gabzfonseca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=plastic&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gabz-fonseca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=plastic&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/gabz-fonseca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=plastic&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:gabzfonseca@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=plstic&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 
 <br>
