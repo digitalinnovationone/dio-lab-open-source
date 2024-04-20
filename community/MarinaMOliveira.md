@@ -6,7 +6,7 @@
   Sou estudante do curso Análise e Desenvolvimento de sistemas, estou em busca de me aperfeiçoar cada vez mais. “A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original.” – Albert Einstein
 
 
-## 🔗 Conecte-se Comigo
+## 🔗 Conecte-se Comigo.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marina-de-oliveira-4a99421a5/)
 
