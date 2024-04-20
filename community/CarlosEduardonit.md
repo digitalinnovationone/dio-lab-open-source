@@ -11,6 +11,7 @@ Eu sou o Carlos Eduardo dos Santos Figueiredo:
   - Técnico de Suporte e Manutenção em Informática pelo Senac RJ.
   - Tecnico de Contabilidade pelo Senac RJ.
 
+
 ## Linguagem e Status do GitHub:
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carloseduardonit&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
