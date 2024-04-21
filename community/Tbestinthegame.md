@@ -1,10 +1,8 @@
 # Oi!✌️ Me chamo Thiago! 
 #### Tenho 21 anos e procuro sempre aprender algo novo todo dia para que, quem sabe, um dia eu consiga comprar uma Lamborgini :/ (Tô brincando)
 
-## ![alt text](image-5.png)
 ## 💻Principais linguagens e ferramentas
  
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 (Futuro dev de 👉) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)>
