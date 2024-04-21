@@ -5,6 +5,8 @@ Sou um estudante de segurança da informação 🔐
 
 Adoro parques aos domingos 🎿
 
+trying hard to merge this little thing! XP
+
 E gostaria muito de criar minha propria empresa de SecOps um dia ᓚᘏᗢ
 
 tenho experiencia em muitas areas desde eletricista instalador pelo SENAI 🏫💡 a DJ💽 e fomentador de eventos de alto padrão das noites de são paulo 🌃
