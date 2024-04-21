@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=6B1F51&width="100%")
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=6B1F51)
 
 # Rafael Adolfo
 ⚗️Engenheiro Químico
