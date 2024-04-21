@@ -20,6 +20,5 @@ Java, C#, Javascript, MySQL, PostgreSQL, HTML, CSS.
 
 2. Administrador de sistemas. Linux RHEL e Windows Server.
 
-3. Manutenção em sistemas eletrônicos. notebook e desktop.
 
 
