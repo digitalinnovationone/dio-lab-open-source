@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=6B1F51)
-
 # Rafael Adolfo
 ⚗️Engenheiro Químico
 
@@ -22,4 +21,4 @@ Em busca de me transicionar para área de programação, no momento estudando de
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![header](https://capsule-render.vercel.app/api?type=waving&height=140&color=6B1F51&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=140&color=6B1F51&section=footer)
