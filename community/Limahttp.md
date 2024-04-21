@@ -2,7 +2,7 @@
 
 ## Quem sou eu?
 
-_Olá, eu sou a Daiane, back-end developer em desenvolvimento, atuo como Designer Gráfico, tenho formação Técnica em Informática e também em eletrônica, atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie._
+_Olá, eu sou a Daiane, back-end developer em formação, atuo como Designer Gráfico, tenho formação Técnica em Informática e também em eletrônica, atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie._
 
 ## Habilidades
 
