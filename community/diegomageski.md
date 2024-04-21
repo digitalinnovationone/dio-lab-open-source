@@ -10,7 +10,7 @@ Minhas responsabilidades envolvem:
 expandir a rede conforme necessidade,
 administrar as VLANs, manter a qualidade dos serviços de rede, manter servidores de arquivos, backup e banco de dados, manutenção, normalização das estações de trabalho e inventariar o parque computacional por servidores GLPI. 
 
-## Aspira
+## Aspira:
 Aperfeiçoar-se em construção de sistemas web, utilizando tecnologias roboustas de backend e frontend. 
 
 Java, C#, Javascript, MySQL, PostgreSQL, HTML, CSS.
