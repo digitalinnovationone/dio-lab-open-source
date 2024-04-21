@@ -8,6 +8,9 @@
 
 ## Ocupação Atual
 * Analista DevOps na Empresa Viasoft.
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4165d3?style=for-the-badge&logo=linkedin&logoColor=)](https://www.linkedin.com/in/luiz-alberto-parnoff/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parnoff)
 
 ## Habilidades
 ### Controle de Versão
@@ -40,8 +43,3 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ### Plataformas
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4165d3?style=for-the-badge&logo=linkedin&logoColor=)](linkedin.com/in/luiz-alberto-parnoff)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parnoff)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](luiz_parnoff)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luis.parnoff@gmail.com)
