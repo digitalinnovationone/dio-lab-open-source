@@ -1,7 +1,7 @@
 
 # Apresentação
 
-## DIEGO S. MAGESKI,
+## DIEGO S. MAGESKI:
 
 Sou encarregado de secção de hardware em um centro de instrução, responsável pela parte de infraestrutura do parque computacional. 
 
@@ -16,10 +16,9 @@ Aperfeiçoar-se em construção de sistemas web, utilizando tecnologias robousta
 Java, C#, Javascript, MySQL, PostgreSQL, HTML, CSS.
 
 ### Experiência
-1. Comissionar e projetar servidores. Arquivo, banco de dados, backup com Bacula e GLPI. 
+1. Comissionar e projetar servidores. Arquivos, banco de dados, backup com Bacula e GLPI. 
 
 2. Administrador de sistemas. Linux RHEL e Windows Server.
 
-3. Manutenção em sistemas eletrônicos. notebook e desktop.
 
 
