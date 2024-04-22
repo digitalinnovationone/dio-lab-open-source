@@ -1,6 +1,6 @@
 <img align="center" padding="0" alt="Desbravando Caminhos" src="https://poesiasacidentais.files.wordpress.com/2012/03/adesbravar.jpg">
 <br >
-<img align="left" padding="20px" alt="Foto de perfil de Rodson C Oliveira" src="https://avatars.githubusercontent.com/u/131097239?s=96&v=4">
+
 <h1> 
   <a href="https://www.linkedin.com/in/rodson-olivera/" style="color: #f00 !important; text-decoration: none; color: inherit;">
     <span>Rodson Cesar de Oliveira</span>
