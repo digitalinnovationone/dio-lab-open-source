@@ -1,4 +1,4 @@
-/### Olá meu nome é Leonardo Brum desenvolvedor Back-end 👋
+### Olá meu nome é Leonardo Brum desenvolvedor Back-end 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/leonardo-brum-13523a25b/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@leonardobrum255)
@@ -21,4 +21,4 @@
 </div><br/>
 <br>
 
-### Apaixonado por tecnologia! Sempre!
+### Apaixonado por tecnologia!
