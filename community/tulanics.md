@@ -14,5 +14,3 @@
 ![dotNet](https://img.shields.io/badge/.NET-%23631F74?style=flat-square&labelColor=%23414141&logo=dotnet&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/SQLServer-%23DB2A20.svg?style=flat-square&labelColor=%23414141&logo=microsoftsqlserver&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%232D9EEA?style=flat-square&labelColor=%23414141&logo=visual-studio-code&logoColor=white)
-
-(❁´◡`❁)
