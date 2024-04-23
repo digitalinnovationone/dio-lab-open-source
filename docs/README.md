@@ -7,6 +7,18 @@
 ## Sobre o Projeto
 Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Lembre-se de que Markdown é mais voltado para a documentação e apresentação de texto formatado, enquanto a remoção de bugs normalmente envolve a compreensão detalhada do código e o uso de ferramentas de desenvolvimento adequadas à linguagem de programação específica.
 
+## Apenas para fins didaticos
+
+### Ingredientes
+**Bolo de Liquitificador**
+
+* 3 ovos 
+* 2 xícaras de chá de açúcar
+* 2 colheres de sopa de margarina
+* 1 xícara de chá de leite
+* 2 xícaras de chá de farinha de trigo
+* 1 colher de sopa de fermento em pó
+
 [![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://elidianaandrade.github.io/dio-lab-open-source)
 
 ```
