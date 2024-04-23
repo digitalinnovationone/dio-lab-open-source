@@ -1,6 +1,6 @@
 # Denise Batista
 
-Cursando Sistemas para Intenet pela faculdade Ingá e adquirindo mais conhecimento com pela:
+Cursando Sistemas para Intenet pela faculdade Ingá e adquirindo mais conhecimento com a:
 
 
  [![Dio](https://hermes.digitalinnovation.one/assets/diome/logo-full.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.dio.me/users/denise_delta01)
