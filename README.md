@@ -172,7 +172,7 @@ Nu u uw README.md hebt gemaakt, kunt u deze informatie delen met de hele Github.
 
 ⭐ Adicionando aos favoritos (**star**)
 
-Teste ddd item
+Teste add item
 
 ### Membros da comunidade que já contribuiram:
 <a href="https://github.com/elidianaandrade/dio-lab-open-source/graphs/contributors">
