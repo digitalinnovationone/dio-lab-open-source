@@ -8,7 +8,7 @@
 
 I am a Brazilian electronics engineer with a master's degree in mathematics, I work as a teacher and will soon be retired. So, I decided to graduate in Computer Engineering at Univesp to face new chellenges.
 
-Working as production engineering at Philips, in consumer electrocics business, for more than ten years in the past century, I used to design and build unix computer based production equipment, using industrial applications developed in assembly.
+Working as production engineering at Philips, in consumer electrocics business, for more than sixteen years in the past century, I used to design and build unix computer based production equipment, using industrial applications developed in assembly.
 
 I am currently studying the seventh semester at Univesp. Besides that, I make courses at DSA and DIO. I am getting a good amount of new skills on Data & Analytics, such as:
 
