@@ -66,10 +66,6 @@ Issued Nov 2020
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=isadorafranca&bg_color=2D3742&border_color=6bbbca&title_color=6bbbca&text_color=6bbbca)
 
-
-
-
-  
    
 
 <div align="center">
