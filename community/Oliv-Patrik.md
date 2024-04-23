@@ -1,4 +1,4 @@
-#### Salve meus bruxos🧙🏽‍♂️!! Podem me chamar de Patrik <img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/man-technologist.gif" width="30" style="vertical-align: middle;">
+#### Salve meus bruxos🧙🏽‍♂️! Podem me chamar de Patrik <img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/man-technologist.gif" width="30" style="vertical-align: middle;">
 
 Futuro DevOps cursando Engenharia de Software na Unipar, apaixonado pela inovação e evolução digital. Motivado pela resolução de desafios complexos e otimização de processos!
 
