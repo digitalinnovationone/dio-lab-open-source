@@ -12,3 +12,5 @@ Olá! Meu nome é Rafael Rosa, estudante de Ciências Exatas na UFJF. Algumas da
 ## Contato
 
 - GitHub: [https://github.com/Jeday03](https://github.com/Jeday03)
+- E-mail: [rafaelgawry@gmail.com](rafaelgawry@gmail.com)
+- Perfil DIO: [https://www.dio.me/users/rafaelgawry](https://www.dio.me/users/rafaelgawry)
