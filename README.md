@@ -177,5 +177,7 @@ Nu u uw README.md hebt gemaakt, kunt u deze informatie delen met de hele Github.
   <img src="https://contrib.rocks/image?repo=elidianaandrade/dio-lab-open-source"/>
 </a>
 
+<a href="https://github.com/GuilhermeRSouza34/dio-lab-open-source"></a>
+
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
