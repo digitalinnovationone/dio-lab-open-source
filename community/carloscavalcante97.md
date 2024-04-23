@@ -1,7 +1,7 @@
 # 🧙‍♂️ Antônio Carlos Bezerra Cavalcante Junior 🧙‍♂️
 
 ## 👨‍🎓Formação principal 👨‍🎓
-Cursando Análise e desenvolvimento de sistemas, Buscando minha primeira experiência profissional.
+Cursando Análise e desenvolvimento de sistemas na UNIT-Universidade Tiradentes e desenvolvimento full-stack na TRYBE, Buscando minha primeira experiência profissional.
 
 ### 🫰🏼 Me acompanhe nas redes socias 🫰🏼
 
