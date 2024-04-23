@@ -1,7 +1,7 @@
-# Olá, sou o MIller, tudo bem?
+# Olá, sou o Miller, tudo bem?
 
-Sou desenvolvedor de aplicativos mobile, atualimente trabalho com Flutter, android nativo (Java, Kotlin) e iOS(Swift).
-Também atuao com pyhton  e inteligesnica artifical (TensorFlow, Keras), ChatGpt (oepn ai), Gemini ( google ), Llama (Meta)
+Sou desenvolvedor de aplicativos mobile, atualimente trabalho com Flutter, android (Java, Kotlin) e iOS(Swift).
+Também atuo com pyhton  e inteligência artifical (TensorFlow, Keras), ChatGpt (oepn ai), Gemini ( google ), Llama (Meta)
 ## Hard skills
 
 #Flutter
