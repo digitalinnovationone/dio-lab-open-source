@@ -2,9 +2,7 @@
 🙋🏻‍♂
 Olá, Mundo! Eu sou o Arnaldo Santos. 
 
-  
-  
- 
+
 </div>
 
 ## Conecte-se comigo
