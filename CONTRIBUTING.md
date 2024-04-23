@@ -46,7 +46,7 @@
 
 | Tipo de Commit | Descrição                                                            | Exemplo
 | ---------------|----------------------------------------------------------------------|-----------
-| `feat`         | Adiciona uma nova funcionalidade ao projeto.                         | `feat: add USENAME.md profile`
+| `feat`TESTE    | Adiciona uma nova funcionalidade ao projeto.                         | `feat: add USENAME.md profile`
 | `fix`          | Corrige um bug ou problema no projeto.                               | `fix: fixed issue fix#IssueNumber`
 | `docs`         | Altera a documentação do projeto. Ex.: README, comentários no código.| `doc: altered section SECTIONNAME`
 | `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         | `style: add EFFECTNAME to COMPONENT`
