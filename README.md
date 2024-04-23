@@ -1,5 +1,4 @@
 <h1>
-    Teste ddd item
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
     <span> Contribuindo em um Projeto Open Source no GitHub</span>
@@ -172,6 +171,8 @@ Nu u uw README.md hebt gemaakt, kunt u deze informatie delen met de hele Github.
 ⚠️ Resolvendo, respondendo ou indicando **issues**
 
 ⭐ Adicionando aos favoritos (**star**)
+
+Teste ddd item
 
 ### Membros da comunidade que já contribuiram:
 <a href="https://github.com/elidianaandrade/dio-lab-open-source/graphs/contributors">
