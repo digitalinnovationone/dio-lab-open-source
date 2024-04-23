@@ -1,7 +1,9 @@
 
 ### Olá, eu sou Fábio Giacobe 👋
 
-✨ **CEO** na [InSght](https://www.linkedin.com/company/insght-brasil) e mestre em Engenharia de Software aplicada à Educação.
+✨ **CEO** na [InSght](https://www.linkedin.com/company/insght-brasil) e Consultor de BI com ênfase em Análise de Dados.
+
+#### Meu [perfil](https://www.linkedin.com/in/fabiogiacobe/) no Linkedin.
 
 🏢 **Áreas de Conhecimento**
 - Inteligência de Negócios
