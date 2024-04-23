@@ -1,6 +1,6 @@
 # Olá, sou o Miller, tudo bem?
 
-Sou desenvolvedor de aplicativos mobile, atualimente trabalho com Flutter, android (Java, Kotlin) e iOS(Swift).
+Sou desenvolvedor de aplicativos mobile, atualmente trabalho com Flutter, android (Java, Kotlin) e iOS(Swift).
 Também atuo com pyhton  e inteligência artifical (TensorFlow, Keras), ChatGpt (oepn ai), Gemini ( google ), Llama (Meta)
 ## Hard skills
 
