@@ -38,12 +38,12 @@ class WhoAmI:
 
 
 <div style="display:flex;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" alt="Python" style="width:60;height:60;margin:auto;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" alt="Python" style="width:60px;height:60px;margin:auto;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" alt="Java" style="width:60px;height:60px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" alt="HTML" style="width:60;height:60;margin:auto;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" alt="HTML" style="width:60px;height:60px;margin:auto;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" alt="CSS" style="width:60px;height:60px;margin:auto;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" alt="Javascript" style="width:60;height:60;margin:auto;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" alt="Javascript" style="width:60px;height:60px;margin:auto;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/photoshop/photoshop-original.svg" alt="Photoshop" style="width:60px;height:60px;margin:auto;">
-    <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Visual Studio Code" style="width:60;height:60;margin-left:10px;margin:auto;">
+    <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Visual Studio Code" style="width:60px;height:60px;margin-left:10px;margin:auto;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spss/spss-original.svg" alt="SPSS" style="width:60px;height:60px;margin:auto;">
 </div>
