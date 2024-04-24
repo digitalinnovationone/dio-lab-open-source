@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Jonas 👋
 <p>
-    Apaixonado por tecnologia, resolver problemas e criar soluções inovadoras. Minha jornada no mundo da programação começou em 2021, e desde então tenho mergulhado profundamente na área de desenvolvimento.
+    Apaixonado por tecnologia, resolver problemas e criar soluções inovadoras. Minha jornada no mundo da programação começou em 2021, e desde então tenho mergulhado profundamente na área de desenvolvimento!
 </p>
 
 ## Tecnologias, frameworks e ferramentas
