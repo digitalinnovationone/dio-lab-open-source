@@ -20,3 +20,4 @@
 
 [![Gmail](https://img.shields.io/badge/gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](jeffersson.jaily@gmail.com)
 
+[![Facebook](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/50px-Facebook_f_logo_%282019%29.svg.png)](https://www.facebook.com/jefferson.jaily)
