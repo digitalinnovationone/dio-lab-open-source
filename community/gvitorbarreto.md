@@ -12,6 +12,6 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gvitorbarreto&theme=transparent&bg_color=000&border_color=f1c232&show_icons=true&icon_color=f1c232&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gvitorbarreto&theme=transparent&bg_color=000&border_color=cc0000&show_icons=true&icon_color=f1c232&title_color=cc0000&text_color=FFF)
 
 
