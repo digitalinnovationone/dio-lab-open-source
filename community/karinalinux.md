@@ -1,5 +1,5 @@
 #karinalinux
- **Oi, me chamo Karina Freitas**
+ **Olá, me chamo Karina Freitas**
 
 ##Trajetória
 Durante minha trajetória de duas décadas, passei por diversas áreas; atuando nos setores de suporte técnico de primeiro e segundo nível, pós venda e cobrança, área administrativa, administração de imóveis, assistente de secretaria e secretária escolar.
