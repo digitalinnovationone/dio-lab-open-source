@@ -5,11 +5,7 @@
 
 - 🔭 I’m currently working on **Full Stack Project**
 
-- 🌱 I’m currently learning **Software Engineer | MERN**
 
-- 💬 Ask me about **Software Engineer, Front End Engineer, Designer**
-
-- 📫 How to reach me **italobasiliodasilva@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
