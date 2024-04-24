@@ -9,7 +9,7 @@
       <a href = "mailto:nanafidelis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div> </br>
 
- Sou formada em Administração de Empresas pela (Anhanguera), desde de 2020, no final do ano de 2021 eu me aventurei na escola de programação da Trybe e finalizei em Janeiro de 2023, sou uma programadora Jr. atualmente trabalho para Ambev, entrei através de um programa há 10 meses, e estou em constante evolução principalmente na linguagem Java a qual atuo no momento. Atualmente estou realizando uma pós-graduação em Tecnologia Java.
+ Sou formada em Administração de Empresas pela (Anhanguera), desde de 2020, no final do ano de 2021 eu me aventurei na escola de programação da Trybe e finalizei em Janeiro de 2023, sou uma programadora Jr. atualmente trabalho para Ambev, entrei atravéz de um programa há 10 meses, e estou em constante evolução principalmente na linguagem Java a qual atuo no momento. Atualmente estou realizando uma pós-graduação em Tecnologia Java.
 
 - 🌱 Desenvolvedora Back-End Jr.  | Python | Power BI | SQL | MySQL | MongoDB | Javascript | Redux | TypeScript | Java | SpringBoot| ContextAPI | Docker | RESTful API | Express | Node.js |;
 - 📫 Como entrar em contato comigo: nanafidelis@gmail.com;
