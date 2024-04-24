@@ -1,4 +1,6 @@
-# 💫 About Me:
+# Alex Júnior
+
+## 💫 About Me:
 
 🔭 PHP and Java developer<br>💻 Javascript and React developer<br>⚡ Just because you can, doesn't mean you shoud. -Uncle Bob<br>
 
