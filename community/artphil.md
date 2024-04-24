@@ -10,6 +10,7 @@ Desbravando o mundo do React e me divertindo com Godot nas horas vagas.
 
 ## Minhas redes
 
+[![Portifolio](https://img.shields.io/badge/Projetos-00C389?style=for-the-badge&logo=htmx&logoColor=FFF)](https://artphil.github.io/)
 [![DIO](https://img.shields.io/badge/DIO-00C389?style=for-the-badge&logo=htmx&logoColor=FFF)](https://www.dio.me/users/artphil_dev)
 [![Alura](https://img.shields.io/badge/alura-00C389?style=for-the-badge&logo=htmx&logoColor=FFF)](https://cursos.alura.com.br/user/artphil)
 [![Github](https://img.shields.io/badge/GitHub-00C389?style=for-the-badge&logo=github&logoColor=FFF)](https://github.com/artphil/)
