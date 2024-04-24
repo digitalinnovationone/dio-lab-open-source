@@ -1,0 +1,1 @@
+Meu nome e wellington, tenho 27 anos, atualmente sou estudante de sistemas para internet na UNICAP, faço residencia de software no porto digital. Atualmente estou estudando para trabalhar na area de ciber segurança.
