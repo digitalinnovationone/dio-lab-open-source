@@ -4,15 +4,17 @@
 <img style="border-radius:50%" src="https://github.com/artphil.png" alt="Imagem de perfil" width="200px">
 <p style="width:50%;">
 Bacharel em Sistemas de informação, cristão, casado e belorizontino. </br>
-Desbravando o mundo do React.
+Desbravando o mundo do React e me divertindo com Godot nas horas vagas.
 </p>
 </div>
 
 ## Minhas redes
 
 [![DIO](https://img.shields.io/badge/DIO-00C389?style=for-the-badge&logo=htmx&logoColor=FFF)](https://www.dio.me/users/artphil_dev)
-[![Github](https://img.shields.io/badge/GitHub-00C389?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://github.com/artphil/)
+[![Alura](https://img.shields.io/badge/alura-00C389?style=for-the-badge&logo=htmx&logoColor=FFF)](https://cursos.alura.com.br/user/artphil)
+[![Github](https://img.shields.io/badge/GitHub-00C389?style=for-the-badge&logo=github&logoColor=FFF)](https://github.com/artphil/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00C389?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/artphil/)
+[![twitter](https://img.shields.io/badge/Twitter-00C389?style=for-the-badge&logo=twitter&logoColor=FFF)](https://twitter.com/artphil7)
 
 ## Habilidades
 
@@ -21,6 +23,7 @@ Desbravando o mundo do React.
 ![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Godot](https://img.shields.io/badge/Godot-000?style=for-the-badge&logo=godot-engine)
 
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://docs.github.com/)
