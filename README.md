@@ -148,6 +148,11 @@ Ahora que ha creado su README.md, puede compartir esta información con toda la 
 9. Push de wijzigingen naar je externe repository git push origin feat/community/YOUR_USERNAME;
 10. Creëer een **Pull Request**.
 
+| tipo de commit | Descrição                                 |
+|----------------| ------------------------------------------|
+|```feat```      | Adicinar uma nova funcionalide ao projeto |
+
+
 #### Hoe u uw Github-profiel kunt bijwerken met behulp van uw README-bestand
 Nu u uw README.md hebt gemaakt, kunt u deze informatie delen met de hele Github.com-gemeenschap binnen uw gebruikersprofiel. Volg gewoon de handleiding: [Beheer uw profiel README](https://docs.github.com/pt/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme), beschikbaar gesteld door het platform zelf.
 
