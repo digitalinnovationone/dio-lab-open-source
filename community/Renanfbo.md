@@ -7,7 +7,7 @@ Aprender o básico sobre contribuição no git e GitHub.
 
 # Habilidades 💻🛠️
 
-Git e GitHub
+Git e GitHub.
 
 Power BI
 
