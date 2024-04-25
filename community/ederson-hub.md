@@ -1,5 +1,5 @@
 
-#  Contribuindo em um Projeto Open Source no GitHub
+#  Resolução do Desafio Projeto Open Source no GitHub
 
 Estudante Python Data Analytics na DIO.
 
