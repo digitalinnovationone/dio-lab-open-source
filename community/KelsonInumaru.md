@@ -1,6 +1,6 @@
 ## Sobre Mim
 
-Olá! 👋 Eu sou [Seu Nome], um profissional empenhado em adquirir conhecimento e habilidades em tecnologia, com um foco especial em suporte técnico e interesse crescente em banco de dados e PL/SQL. Com uma mentalidade curiosa e uma sede de aprendizado, estou comprometido em desenvolver uma carreira sólida nesta área empolgante e em constante evolução.
+Olá! 👋 Eu sou Kelson, um profissional empenhado em adquirir conhecimento e habilidades em tecnologia, com um foco especial em suporte técnico e interesse crescente em banco de dados e PL/SQL. Com uma mentalidade curiosa e uma sede de aprendizado, estou comprometido em desenvolver uma carreira sólida nesta área empolgante e em constante evolução.
 
 ### Atualmente
 
