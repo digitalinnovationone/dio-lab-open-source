@@ -1,7 +1,5 @@
 
 
----
-
 # 🌟 Olá, exploradores da tecnologia! 🌟
 
 Sou Adryan Andson da Silva Almeida, um entusiasta de análise e desenvolvimento de sistemas. Minha missão é transformar desafios complexos em soluções elegantes por meio do código. Bem-vindo ao meu espaço no GitHub! 🌀
