@@ -1,6 +1,6 @@
 <div align="center">
 <h2>Olá, É bom ter você por aqui;<br> Eu sou o Marcello Prado🖖</h2>
-</br>
+
 
 ## Tecnologias que eu uso
 
