@@ -16,6 +16,7 @@
 
 <h3 ><a href="https://oseiasfarias.medium.com" target="_blank"> Posts Recentes Medium </a></h3>
 
+
 <ul>
     <li><a href="https://oseiasfarias.medium.com/p1-estat%C3%ADstica-para-ci%C3%AAncia-de-dados-a1949514b4ee">P1 — Estatística para Ciência de Dados
 </a></li>
