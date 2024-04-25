@@ -1,4 +1,4 @@
-# Herick Vieira
+# Herick Luiz Vieira
 I'm a Data Scientist, currently focused on Machine Learning.
 
 ### Hard Skills
@@ -16,4 +16,6 @@ I'm a Data Scientist, currently focused on Machine Learning.
 ### Check out my profiles
 [![DIO](https://img.shields.io/badge/DIO-black?style=for-the-badge&logo=dio)](https://web.dio.me/users/herick_vieira?tab=achievements)
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/herick-vieira-945816157/)
-[![GitHub](https://img.shields.io/badge/GitHub-purple?style=for-the-badge&logo=github)](https://github.com/fall1nn1)
+[![GitHub](https://img.shields.io/badge/GitHub-purple?style=for-the-badge&logo=github)][def]
+
+[def]: https://github.com/fall1nn1
