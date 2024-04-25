@@ -1,4 +1,5 @@
-# Juliabmuniz
+# Hey, I'm Júlia Muniz
+I'm a graduated Medical Physicist trying to be also a sctriper.  
 
 ## Connect w/ me
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:juliabmuniz06@gmail.com)
