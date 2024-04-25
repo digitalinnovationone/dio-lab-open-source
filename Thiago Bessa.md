@@ -1,6 +1,6 @@
 # Olá, sou o Thiago Bessa
 
-Tenho experiência profissional na área de tecnologia da informação por 10 anos, com vivenciamento direto com o usuário final. Possuo capacidade de aprendizado para aprender novas ferramentas próprias dos clientes e para adaptar aprendizados anteriores na nova função.
+Tenho experiência profissional na área de tecnologia da informação por 10 anos, com vivenciamento direto com o usuário final. Possuo capacidade de aprendizado para aprender novas ferramentas próprias dos clientes e para adaptar aprendizados anteriores na nova função. Atualemtne estou realizando o curso bootcamp da santander academy pelo DIO em backend java e o curso de HTML CSS do curso em video.
 
 ## Minhas habilidades
 
