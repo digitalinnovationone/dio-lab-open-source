@@ -5,20 +5,20 @@ Tenho experiência profissional na área de tecnologia da informação por 10 an
 ## Minhas habilidades
 
 
-#Analista de service desk pleno na ConnectcomAnalista de service desk pleno na Connectcom
+Analista de service desk pleno na ConnectcomAnalista de service desk pleno na Connectcom
 Especialista em suporte de TI na Venco CSTIEspecialista em suporte de TI na Venco CSTI
 
-# Técnico de suporte em TI na ***TIVIT** Técnico de suporte em TI na TIVIT
+ Técnico de suporte em TI na ***TIVIT** Técnico de suporte em TI na TIVIT
 
-# ITIL® Foundation em Gerenciamento de Serviços de TI **ITIL® Foundation em Gerenciamento de Serviços de TI**
+ ITIL® Foundation em Gerenciamento de Serviços de TI **ITIL® Foundation em Gerenciamento de Serviços de TI**
 
-# Scrum Foundation Professional Certificate ** (SFPC)Scrum Foundation Professional Certificate (SFPC)
+ Scrum Foundation Professional Certificate ** (SFPC)Scrum Foundation Professional Certificate (SFPC)
 **
-# Microsoft Technology Associate (MTA) Windows Operating System FundamentalsMicrosoft Technology Associate **(MTA) Windows Operating System Fundamentals**
+ Microsoft Technology Associate (MTA) Windows Operating System FundamentalsMicrosoft Technology Associate **(MTA) Windows Operating System Fundamentals**
 
-# **DevOps** Essentials Professional CertificateDevOps Essentials Professional Certificate
+ **DevOps** Essentials Professional CertificateDevOps Essentials Professional Certificate
 
-# HDI Support Center Analyst **(HDI-SCA)**
+HDI Support Center Analyst **(HDI-SCA)**
 
 ## Contate-me
 
