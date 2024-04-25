@@ -3,7 +3,8 @@
 
 ## Sobre
 
-- Olá!, me chamo José mas normalmente sou chamado de zeneto, tenho 20 anos e comecei a me interessar pelo mundo da programação, estou gostando muito, atualmente estou estudando Java mas cogito em aprender próximas linguagens. 
+- Olá!, me chamo José mas normalmente sou chamado de zeneto, tenho 20 anos e comecei a me interessar pelo mundo da programação, estou gostando muito, atualmente estou estudando Java mas cogito em aprender próximas linguagens.
+ 
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 =======================================
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@zeneto_/)
