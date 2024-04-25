@@ -1,4 +1,4 @@
-# Olá, sou o Everton, tudo bem?
+# Olá, sou a Samantha, tudo bem?
 
 Com mais de 7 anos dedicados à indústria da tecnologia, minha jornada profissional é uma mistura empolgante de suporte técnico, educação em informática e robótica, além de conquistas notáveis. Comecei minha carreira como apaixonada pelo potencial transformador da tecnologia, mergulhando no mundo do suporte técnico, onde aprendi a solucionar problemas complexos e aprimorar a experiência do usuário.
 
