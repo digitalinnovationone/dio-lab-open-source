@@ -1,4 +1,5 @@
-**Sobre mim**
+## Sobre mim
+
 Olá! Sou Edgar, um Desenvolvedor Web FullStack.Sou um entusiasta da tecnologia que ama resolver problemas e criar soluções eficientes. Sou apaixonado por aprender novas coisas e sempre busco me atualizar com as últimas tendências e práticas da indústria de desenvolvimento de software. Adoro trabalhar em equipe e colaborar em projetos desafiadores que me permitam crescer como profissional.
 
 Com experiência em uma variedade de tecnologias. Meu foco principal no momento é trabalhar com JavaScript tanto no frontend quanto no backend, mas também tenho experiência em Python, HTML, CSS, TypeScript, Docker, MySQL e mais. Abaixo está um resumo das linguagens e ferramentas com as quais trabalho:
@@ -19,10 +20,12 @@ Com experiência em uma variedade de tecnologias. Meu foco principal no momento 
   </a>
 </div>
 
-**Contato:**
+## Contato
 
-- Email: [edgaraf97@gmail.com](mailto:seuemail@example.com)
-- LinkedIn: [https://www.linkedin.com/in/edgar-andrade-582a57250/](https://www.linkedin.com/edgar)
-- GitHub: [https://github.com/Edgaraf7](https://github.com/edgar)
+- Email: [edgaraf97@gmail.com](mailto:edgaraf97@gmail.com)
+- LinkedIn: [linkedin.com/in/edgar-andrade-582a57250/](https://www.linkedin.com/in/edgar-andrade-582a57250/)
+- GitHub: [github.com/Edgaraf7](https://github.com/Edgaraf7)
+- DIO: [Perfil na DIO](https://www.dio.me/users/edgaraf97)
+
 
 Sinta-se à vontade para entrar em contato comigo se precisar de ajuda em algum projeto ou apenas para trocar ideias sobre tecnologia!
