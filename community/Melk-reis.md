@@ -3,7 +3,7 @@
 ## Futuro Engenheiro de Controle e Automação
 
 Olá!
-Meu nome é Melk, gosto de eletrônica, elétrica e programação. Atualmente no 7º semestre da faculdade e estou aproveitando essa oportunidade no Bootcamp para aprender muito :)
+Meu nome é Melk, gosto de eletrônica, elétrica e programação. Atualmente no 7º semestre da faculdade e estou aproveitando essa oportunidade no Bootcamp para aprender muito :) .
 
 ## Social
 
