@@ -1,0 +1,34 @@
+# |\lab\Devops09
+
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-dias-6183b5261/)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mariana.limadias.1?mibextid=ZbWKwL/)
+
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/08mdl?igsh=MTV3bmh5N2wyaXprYQ==/)
+
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/Mariana13591573?t=pP3NQHyYe7xyXc5xpqAk1A&s=08)
+
+## Habilidades
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+## Github 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LabDevOps09?tab=repositories)
+
+## MInhas Contribuições
+[![Repo Card](https://github-readme-stas.vercel.app/api/pin/? username=labdevops09&repo-dio-lab-open-source&bg_color=ec63a1&border_color=ffdd54show_icons=true&icon_color=ffdd54&title_color=ffdd54&textcolor=ffdd54)](https://github.com/labdevops09/dio-lab-open-source)
+
