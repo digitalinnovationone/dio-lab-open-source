@@ -12,9 +12,9 @@
 
 <div align="center">
   <a href="https://github.com/carloscurcino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloscurcino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloscurcino&layout=compact&langs_count=7&theme=dracula"/><a href="https://github.com/carloscurcino/">
-    <div align="center"><img width="448" style src="http://github-readme-streak-stats.herokuapp.com?user=carloscurcino&theme=dracula&locale=pt-br&date_format=j%20M%5B%20Y%5D" alt="carloscurcino" /></div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloscurcino&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloscurcino&layout=compact&langs_count=7&theme=gotham"/><a href="https://github.com/carloscurcino/">
+    <div align="center"><img width="448" style src="http://github-readme-streak-stats.herokuapp.com?user=carloscurcino&theme=gotham&locale=pt-br&date_format=j%20M%5B%20Y%5D" alt="carloscurcino" /></div>
 </a>
 </div>
 
