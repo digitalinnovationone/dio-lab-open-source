@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B75ECD&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+a+Amanda+Meneghin.;Seja+bem+vindo!)](https://git.io/typing-svg)
 
-Olá! meu nome é Amanda Nogueira Meneghin, sou desenvolvedora de software graduada em Análise e Desenvolvimento de Sistemas e com pós em Desenvolvimento Frontend. Apaixonada por frontend, aprecio trabalhar com estilização e criação de aplicações.
+Olá! meu nome é Amanda Meneghin, sou desenvolvedora de software graduada em Análise e Desenvolvimento de Sistemas e com pós em Desenvolvimento Frontend. Apaixonada por frontend, aprecio trabalhar com estilização e criação de aplicações.
 
 <br>
 
