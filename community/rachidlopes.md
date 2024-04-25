@@ -15,7 +15,7 @@ Contato:
 📱 Telefone: (16) 98109-3999
 Oportunidades e Colaborações:
 
-Estou aberto a oportunidades desafiadoras e colaborações no campo da Tecnologia da Informação. Vamos conectar e explorar possíveis sinergias!
+Estou aberto a oportunidades desafiadoras e colaborações no campo da Tecnologia da Informação. Vamos conectar e explorar possíveis sinergias!!
 ## Conecte-se comigo
 [![E-mail : rachidlopes@Gmail.com](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](rachidlopes@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/rachid-lopes-gomes/)
