@@ -1,6 +1,6 @@
 # Olá, Devs! eu Sou o Luis Sousa
 
-Sou estudante iniciante, atualmente na plataforma [Digital Innovation One(DIO)](https://www.dio.me/). Estou iniciando o curso de Bacharel em Ciência de Dados. Fiz uma formação écnico em Informática, adquirindo os conhecimentos em Web(front-end), Redes, programação em Visual Basic e SQL Server e Suporte.
+Sou estudante iniciante, atualmente na plataforma [Digital Innovation One(DIO)](https://www.dio.me/). Estou iniciando o curso de Bacharel em Ciência de Dados. Fiz uma formação Técnico em Informática Pelo SENAC SP, adquirindo os conhecimentos em Web(front-end), Redes, programação em Visual Basic e SQL Server e Suporte.
 
 Tenho 46 Anos, espero poder aprender com a comunidade e os experts e tambem contribuir da melhor forma.
 
