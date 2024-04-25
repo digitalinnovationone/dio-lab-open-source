@@ -23,9 +23,9 @@ Especialista em suporte de TI na Venco CSTIEspecialista em suporte de TI na Venc
 ## Contate-me
 
 ## 🔗 Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-bessa-a96793171/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-bessa-a96793171/) Thiago Bessa
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiagorbessa)]
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiagorbessa) Thiagorbessa
 
 
 
