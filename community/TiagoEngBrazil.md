@@ -10,6 +10,8 @@
 
 ### Meus Principais Projetos
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TiagoEngBrazil&repo=lab-padroes-projeto-spring-main&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/TiagoEngBrazil/lab-padroes-projeto-spring-main))
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TiagoEngBrazil&repo=MyApplicationAge_Atualization&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/TiagoEngBrazil/MyApplicationAge_Atualization)
 
 
