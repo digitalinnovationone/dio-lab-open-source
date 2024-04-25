@@ -35,6 +35,8 @@ Ever since I was child, I had an interest in computers and technologies in gener
 
 ## GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorauri&show_icons=true&count_private=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorauri&show_icons=true&count_private=true&bg_color=1E1E1E&title_color=FFFF&text_color=FFFFFF&icon_color=FFFF)
+
+
 
 - See more information about me and other projects at my [web portfolio](https://vitor-dev.vercel.app/) here!
