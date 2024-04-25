@@ -2,7 +2,7 @@
 
 ## Estudante de Ciência da Computação | Desenvolvedor Front-end | Advogado
 
-![Charlie Fonseca](https://dev.charliefonseca.com.br/)
+[Charlie Fonseca](https://dev.charliefonseca.com.br/)
 
 ### Sobre Mim
 Sou um estudante de Ciência da Computação com formação em Direito e interesse em dados e inteligência artificial, busco um estágio ou uma posição júnior na área de TI para aplicar os meus conhecimentos e desenvolver novas habilidades. Também gosto de escrever, tendo publicado em 2023 o livro "15 Contos de Suspense e Mistério do ChatGPT" em que exploro a capacidade criativa da ferramenta, poucos meses após o seu lançamento ao público.
@@ -34,19 +34,19 @@ Sou um estudante de Ciência da Computação com formação em Direito e interes
 - [Firmware do Robô de Sumô](https://github.com/charlierf/RoboSumo)
 
 ### Habilidades
-#### Desenvolvimento Web: 
+- Desenvolvimento Web: 
 	![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
     ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-#### Banco de Dados: 
+- Banco de Dados: 
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
-#### Análise de Dados:
+- Análise de Dados:
     ![pandas](https://img.shields.io/badge/pandas-130654.svg?style=for-the-badge&logo=pandas)
     ![Microsoft Power BI](https://img.shields.io/badge/Power_BI-white.svg?style=for-the-badge&logo=powerbi)
     
-#### Linguagens de Programação:
+- Linguagens de Programação:
     ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
