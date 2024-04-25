@@ -1,0 +1,1 @@
+Maicon Oliveira, estudante de Gestão da Tecnologia da Informação na FATEC de São Sebastião. Estou nesse mundo da TI desde o começo de 2023, quando comecei a faculdade.
