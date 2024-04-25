@@ -1,6 +1,6 @@
 # Délis Gomes
 
-## Conecte-se comigo
+## Conecte-se comigo c:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/délis-gomes)
 
 ## Habilidades
