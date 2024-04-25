@@ -4,7 +4,7 @@
 
 🚀 Em busca de ser desenvolvedor Java Full Stack.
 
-🖥 Estudante de Sistemas de Informação na Universidade Federal de Lavras.
+🖥 Estudante de Sistemas de Informação na Universidade Federal de Lavras (UFLA).
 
 ---
 
