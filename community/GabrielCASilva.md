@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo!+:%29)](https://git.io/typing-svg) 
 ## 🎓 Sobre mim
-Me chamo Gabriel e sou desenvolvedor Fullstack e Designer. Sou formado em Desenho industrial, atualmente terminando minha pós em análise e projeto de sistemas e cursando uma graduação em Sistemas de Informação.
+Me chamo Gabriel e sou desenvolvedor Fullstack. Sou formado em Desenho industrial, atualmente terminando minha pós graduação em Análise e Projeto de Sistemas e estou cursando uma graduação em Sistemas de Informação.
 
 ## 📘 Estudando
 - .NET
