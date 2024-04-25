@@ -1,6 +1,8 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="banner">
+
 # Charles Viegas
 
-#### About me
+#### <img src="https://user-images.githubusercontent.com/74038190/212259476-c8a7ce08-99d8-428b-9227-c938d77eb651.png" alt="hand" width="20px" height="20px" style="max-width: 100%;"> About me
 
 <p>Hello! I'm a <em>Full Stack Developer</em> with more than 3 years of experience in web projects. My main expertise resides in React, Javascript and Python but i have a lot of knowledge in modern technologies such as Vue, Next.js, TypeScript, JavaScript, jQuery, Node.js, Java, MongoDB, MySQL, Cypress, Selenium, Docker, AWS, and Git.</p>
 
@@ -8,7 +10,7 @@
 
 <img src="https://skillicons.dev/icons?i=react,python,js" />
 
-#### Connect with me
+#### <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Hand" width="20px" height="20px" style="max-width: 100%;"> Connect with me
 
 <div style="display: inline_block">
   <a href="mailto:charlesbrviegas@gmail.com"><img alt="email" src="https://img.shields.io/badge/-Email-%23404d59?style=for-the-badge&logo=microsoft-outlook&logoColor=23FFA3" /></a>
@@ -16,7 +18,7 @@
   <a href="https://github.com/CharlesBrun" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-%23404d59?style=for-the-badge&logo=github&logoColor=23FFA3" /></a>
 </div><br/>
 
-#### My Stack
+#### <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="20px" height="20px"> My Stack 
 
 <div style="display: inline_block">
     <img alt="html5" src="https://img.shields.io/badge/HTML5-%23404d59?style=for-the-badge&logo=html5&logoColor=23FFA3" />
@@ -40,7 +42,7 @@
 
 </div><br/>
 
-#### GitHub Stats
+#### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20px" height="20px" style="max-width: 100%;"> GitHub Stats
 
 <div style="display: inline_block">
     <img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=CharlesBrun&theme=transparent&bg_color=23404d59&border_color=23FFA3&show_icons=true&hide_title=true&rank_icon=github&icon_color=23FFA3&title_color=23FFA3&text_color=FFFFFF&hide=prs" />
