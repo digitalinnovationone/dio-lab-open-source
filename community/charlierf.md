@@ -2,7 +2,7 @@
 
 ## Estudante de Ciência da Computação | Desenvolvedor Front-end | Advogado
 
-![Charlie Fonseca](https://dev.charliefonseca.com.br/)
+[Charlie Fonseca](https://dev.charliefonseca.com.br/)
 
 ### Sobre Mim
 Sou um estudante de Ciência da Computação com formação em Direito e interesse em dados e inteligência artificial, busco um estágio ou uma posição júnior na área de TI para aplicar os meus conhecimentos e desenvolver novas habilidades. Também gosto de escrever, tendo publicado em 2023 o livro "15 Contos de Suspense e Mistério do ChatGPT" em que exploro a capacidade criativa da ferramenta, poucos meses após o seu lançamento ao público.
