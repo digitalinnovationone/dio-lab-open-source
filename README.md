@@ -1,3 +1,4 @@
+<a href="https://git.io/typing-svg" target=_blank rel="nofollow noopener noreferrer"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&height=100&duration=1600&pause=1000&color=1e5ad1&width=750&lines=Fala+Devs!+Sejam+bem-vindos!+:);Web+Developers...;Mobile+Developers...;FullStack...;Systems+Analysts...;...and students!" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&duration=1600&pause=1000&color=1e5ad1&width=435&lines=Fala+Devs!+Sejam+bem-vindos!;Web+Developers...;Mobile+Developers...;FullStack..https://emresitesweb.com.br/wp-content/uploads/2023/11/gitironman01.png.;Systems+Analysts...;...and students!" style="max-width: 100%;">
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
@@ -67,20 +68,20 @@ Aprender o básico sobre contribuição no git e GitHub.
 </table>
 
 ---
-##  Desafio: Profile README
+## <img src="https://github.com/emersonpessoa01/dio-lab-open-source/blob/main/image/gifs/animated-flame-01.gif" width="30px" height="30px">  Desafio: Profile README
 
  Contribua no diretório "Community", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
  Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
 
-### Instruções (PT/BR) 
+### <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30px" height="30px"> Instruções (PT/BR) 
 1. Faça um **Fork** deste repositório;
 2. Clone localmente: `git clone https://github.com/SEU_USERNAME/dio-lab-open-source.git`;
 3. Adicione o remote upstream para manter seu repositório local atualizado. Por exemplo: `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git`;
     > Utilize o comando `git pull upstream main` para baixar e mesclar as alterações no seu repositório local com base na branch `main` deste repositório original de onde você fez o fork, ou `git fetch upstream main` para baixar sem mesclar. Veja mais em: [Primeiros Passos com Git e GitHub](https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
-4. Crie/Referencie uma nova **branch** e nomeie como `feat/community/SEU_USERNAME`:'git checkout -b feat/community/SEU_USERNAME'
-    > Exemplo: 'git checkout -b feat/community/Cristian0-Pereira'
+4. Crie/Referencie uma nova **branch** e nomeie como `feat/community/seunomedeusuario`:'git checkout -b feat/community/seunomedeusuario'
+    > Exemplo: 'git checkout -b feat/community/AlcidesThiago2016'
 5. Dentro da pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
-    > Exemplo: `rafaeldscordeiro.md` <br>
+    > Exemplo: `seunomedeusuario.md` <br>
 6. Desenvolva o seu perfil. Para isso, você pode ver exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils);
     > **Observação:** Use os outros exemplos como inspiração e não cópia.
 7. Adicione suas alterações a "staging area" com o comando `git add community/SEU_USERNAME.md`;
@@ -92,15 +93,15 @@ Aprender o básico sobre contribuição no git e GitHub.
 
 Agora que você já criou seu README.md, é possível compartilhar essas informações com toda comunidade do Github.com dentro do seu perfil de usuário. Basta seguir o guia: [Gerenciar o README do seu perfil](https://docs.github.com/pt/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme), disponibilizado pela própria plataforma. 
 
-### Instructions (EN/US)
+### <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30px" height="30px"> Instructions (EN/US)
 1. **Fork** this repository;
 2. Clone locally: `git clone https://github.com/YOUR_USERNAME/dio-lab-open-source.git`;
 3. Add the upstream remote to keep your local repository updated. For instance: `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git`;
     > Use the command `git pull upstream main` to download and merge the changes in your local repository based on the `main` branch of this original repository from which you forked, or `git fetch upstream main` to download without merging. Learn more at: [Getting Started with Git and GitHub](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/git/ROADMAP_GITHUB.md).
-4. Create/Reference a new **branch** and name it `feat/community/YOUR_USERNAME`: `git checkout -b feat/community/YOUR_USERNAME`;
-    > Example: `git checkout -b feat/community/rafaeldscordeiro`
+4. Create/Reference a new **branch** and name it `feat/community/seunomedeusuario`: `git checkout -b feat/community/seunomedeusuario`;
+    > Example: `git checkout -b feat/community/AlcidesThiago2016`
 5. Inside the [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) folder, create a Markdown file (extension `.md`) and name it after your GitHub username;
-    > Example: `rafaeldscordeiro.md` <br>
+    > Example: `seunomedeusuario.md` <br>
 6. Develop your profile: For that, you can see examples in the [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) folder and add some of the utilities available in the [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) folder;
     > **Note:** Use the other examples as inspiration, not as a copy.
 7. Add your changes to the "staging area" with the command `git add community/YOUR_USERNAME.md`;
@@ -112,7 +113,7 @@ Agora que você já criou seu README.md, é possível compartilhar essas informa
 
 Now that you have created your README.md, you can share this information with the entire Github.com community within your user profile. Just follow the guide: [Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme), provided by the platform itself.
 
-### Instrucciones (ES/ES)
+### <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30px" height="30px"> Instrucciones (ES/ES)
 1. Haz un **Fork** de este repositorio;
 2. Clona localmente: `git clone https://github.com/TU_USERNAME/dio-lab-open-source.git`;
 3. Añade el remote upstream para mantener tu repositorio local actualizado. Por ejemplo: `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git`;
@@ -132,7 +133,7 @@ Now that you have created your README.md, you can share this information with th
 
 Ahora que ha creado su README.md, puede compartir esta información con toda la comunidad Github.com dentro de su perfil de usuario. Simplemente sigue la guía: [Administrar el README de tu perfil](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme), proporcionada por la propia plataforma.
 
- ##   Instructies (DT/NL)
+ ## <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30px" height="30px">  Instructies (DT/NL)
 1. **Fork** deze repository;
 2. Kloon lokaal: git clone https://github.com/YOUR_USERNAME/dio-lab-open-source.git;
 3. Voeg de upstream remote toe om je lokale repository up-to-date te houden. Bijvoorbeeld: git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git;
@@ -159,7 +160,7 @@ Nu u uw README.md hebt gemaakt, kunt u deze informatie delen met de hele Github.
 
 ---
 
-## Contribua
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30px" height="30px" style="max-width: 100%;"> Contribua
 
 [![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/stargazers)
 [![Forks](https://img.shields.io/github/forks/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/forks)
