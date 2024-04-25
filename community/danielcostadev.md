@@ -1,5 +1,7 @@
 #  👨🏾‍💻Daniel Costa - Desenvolvedor Back-End
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=44&height=100&duration=1600&pause=1000&color=1e5ad1&width=750&lines=Ol%C3%A1%2C+espero+que+esteja+bem!;Estamos+a+um+passo+do+futuro.;Vamos+mudar+o+mundo%3F)
+
 ## 👨🏾‍🎓 Formação Acadêmica
 
 - **Curso:** Bacharelado em Ciência da Computação | **Série:** 3º Período
