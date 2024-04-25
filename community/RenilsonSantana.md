@@ -8,7 +8,7 @@ _Sou um jovem graduado em análise e desenvolvimento de sistemas pela Fatec zona
 
 ## Contatos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white&color=000)](https://www.linkedin.com/in/renilson-s-174406125/) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RenilsonSantana) | [![DIO](https://img.shields.io/badge/DIO-000?style=for-the-badge&logo=gitbook&logoColor=white&color=000)](https://www.linkedin.com/in/renilson-s-174406125/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white&color=000)](https://www.linkedin.com/in/renilson-s-174406125/) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RenilsonSantana) | [![DIO](https://img.shields.io/badge/DIO-000?style=for-the-badge&logo=gitbook&logoColor=white&color=000)](https://web.dio.me/users/renilson_bmn)
 ---| --- | --- |
 
 ## Principais Linguagens
