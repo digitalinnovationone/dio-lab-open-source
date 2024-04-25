@@ -2,7 +2,6 @@
 ## 🚀 M. Rafael Alves
 Seja bem-vindo(a)! Sou M. Rafael Alves, um profissional de qualidade de software apaixonado por desenvolver soluções de alta qualidade. Abaixo você encontrará algumas informações sobre mim e os projetos que estou trabalhando.
 
-
 ## Sobre mim
 
 Atualmente, estou focado no desenvolvimento de software e na garantia da qualidade em projetos utilizando diversas tecnologias. Sou especialista em Java, JavaScript, MySQL, HTML5, CSS3, Bootstrap, Cypress e Appium. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades para oferecer as melhores soluções aos meus clientes e colaboradores.
