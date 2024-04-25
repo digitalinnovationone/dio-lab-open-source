@@ -34,6 +34,14 @@
     > **Observação:** Você pode utilizar o comando `git add .` para adicionar todas as alterações de uma vez só.
 8. Crie um commit e adicione a mensagem indicando a adição do seu perfil `git commit -m"feat: add SEU_USERNAME profile"`;
     > **Observação:** Verificar a [`Convenção de Commits`](https://github.com/kkademorais/dio-lab-open-source/blob/main/CONTRIBUTING.md#conven%C3%A7%C3%A3o-de-commits) para escrever a mensagem do seu commit de forma clara e padronizada.
+| Tipo de Commit | Descrição                                                            | Exemplo
+| ---------------|----------------------------------------------------------------------|-----------
+| `feat`         | Adiciona uma nova funcionalidade ao projeto.                         | `feat: add USENAME.md profile`
+| `fix`          | Corrige um bug ou problema no projeto.                               | `fix: fixed issue fix#IssueNumber`
+| `docs`         | Altera a documentação do projeto. Ex.: README, comentários no código.| `doc: altered section SECTIONNAME`
+| `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         | `style: add EFFECTNAME to COMPONENT`
+| `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
+| `test`         | Adiciona ou modifica testes no projeto.                              | `test: testing FUNCIONALITYNAME`
 9. Envie as alterações para o seu repositório remoto `git push origin feat/community/SEU_USERNAME`;
     > **Observação:** Você pode utilizar o comando `git push origin` para mandar as alterações sem precisar especificar a URL, desde que você tenha feito o passo **3**. 
 10. Crie um **Pull Request**.
@@ -44,14 +52,6 @@
     
 ## <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30px" height="30px"> Convenção de Commits 
 
-| Tipo de Commit | Descrição                                                            | Exemplo
-| ---------------|----------------------------------------------------------------------|-----------
-| `feat`         | Adiciona uma nova funcionalidade ao projeto.                         | `feat: add USENAME.md profile`
-| `fix`          | Corrige um bug ou problema no projeto.                               | `fix: fixed issue fix#IssueNumber`
-| `docs`         | Altera a documentação do projeto. Ex.: README, comentários no código.| `doc: altered section SECTIONNAME`
-| `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         | `style: add EFFECTNAME to COMPONENT`
-| `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
-| `test`         | Adiciona ou modifica testes no projeto.                              | `test: testing FUNCIONALITYNAME`
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30px" height="30px" style="max-width: 100%;"> Desafios Git e GitHub
 - [50 minutos de desafios para treino](https://www.youtube.com/watch?v=kB5e-gTAl_s)
