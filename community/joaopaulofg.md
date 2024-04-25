@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas, com maior experiência e conhecimento em Java e Python, mas também conheço HTML, CSS e Javascript.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas, com maior experiência e conhecimento em Java e Python, mas também já estudei HTML, CSS e Javascript.
 
 ## Contato
 
