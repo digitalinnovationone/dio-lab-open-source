@@ -1,3 +1,4 @@
+<a href="https://git.io/typing-svg" target=_blank rel="nofollow noopener noreferrer"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&height=100&duration=1600&pause=1000&color=1e5ad1&width=750&lines=Fala+Devs!+Sejam+bem-vindos!+:);Web+Developers...;Mobile+Developers...;FullStack...;Systems+Analysts...;...and students!" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&duration=1600&pause=1000&color=1e5ad1&width=435&lines=Fala+Devs!+Sejam+bem-vindos!;Web+Developers...;Mobile+Developers...;FullStack..https://emresitesweb.com.br/wp-content/uploads/2023/11/gitironman01.png.;Systems+Analysts...;...and students!" style="max-width: 100%;">
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
@@ -19,7 +20,7 @@
  A contribuição no diretório "Community" faz parte do Desafio do lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Você pode colaborar criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
  Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
 
-### Instruções
+### <img src="https://github.com/emersonpessoa01/dio-lab-open-source/blob/main/image/gifs/animated-flame-01.gif" width="30px" height="30px"/> Instruções
 1. Faça um **Fork** deste repositório;
 2. Clone localmente: `git clone https://github.com/SEU_USERNAME/dio-lab-open-source.git`;
 3. Adicione o remote upstream para manter seu repositório local atualizado: `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git`;
@@ -42,7 +43,7 @@
     > Se tudo estiver certo, irá aparecer um template, que contém botões de múltipla escolha referente ao seu tipo de alteração, checklist e também comentários adicionais se você achar que seja bom acrescentar. Assim, quando você concluir, é somente você apertar o "Create Pull Request" que fica abaixo dessa caixa de texto e esperar a resposta do bot do Github Actions dizendo se seu PR (Pull Request) foi aceito ou não.
     > Em caso de aprovação o bot irá disponibilidar o link do repositório com a opção de copiar, volte na plataforma da DIO e entregue seu projeto.
     
-## Convenção de Commits 
+## <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30px" height="30px"> Convenção de Commits 
 
 | Tipo de Commit | Descrição                                                            | Exemplo
 | ---------------|----------------------------------------------------------------------|-----------
@@ -53,7 +54,7 @@
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
 | `test`         | Adiciona ou modifica testes no projeto.                              | `test: testing FUNCIONALITYNAME`
 
-## Desafios Git e GitHub
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30px" height="30px" style="max-width: 100%;"> Desafios Git e GitHub
 - [50 minutos de desafios para treino](https://www.youtube.com/watch?v=kB5e-gTAl_s)
 
 
