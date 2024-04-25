@@ -2,6 +2,7 @@
 Hi there 👋<br>
 Cursando análise e desenvolvimento de sistemas, atuo como freelancer desenvolvendo sites através do wordpress.
 Dedico meu tempo livre para meus estudos e assim me tornar um desenvolvedor de software. 
+
 <br>
 
 # Minhas principais tecnologias que estou estudando: 
