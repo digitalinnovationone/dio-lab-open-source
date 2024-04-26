@@ -4,4 +4,4 @@
 I'm a Computer Science student.</p>
 
 <h2>Links</h2>
-<a href="https://github.com/eikenn" target="_blank"><img src="https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=gray">
+<a href="https://github.com/eikenn"><img src="https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=gray">
