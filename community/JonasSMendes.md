@@ -2,7 +2,7 @@
 # Estudante de ciencia da computação, buscando me desenvolver
 
 
-# Redes de conexão 
+# Redes de conexão.
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:jonas.jsm2903@gmail.com)
 
