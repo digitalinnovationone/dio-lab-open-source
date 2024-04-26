@@ -1,4 +1,3 @@
-
 # 👋 Olá, meu nome é Arthur!
 
 Um estudante entusiasta de Análise e Desenvolvimento de Sistemas apaixonado por explorar novas tecnologias e aprimorar minhas habilidades de desenvolvimento. Este é o meu espaço no GitHub, onde compartilho projetos pessoais, colaborações e aprendizados. Sinta-se à vontade para explorar e contribuir!
