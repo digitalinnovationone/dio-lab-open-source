@@ -98,10 +98,10 @@ Agora que você já criou seu README.md, é possível compartilhar essas informa
 2. Clone locally: `git clone https://github.com/YOUR_USERNAME/dio-lab-open-source.git`;
 3. Add the upstream remote to keep your local repository updated. For instance: `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git`;
     > Use the command `git pull upstream main` to download and merge the changes in your local repository based on the `main` branch of this original repository from which you forked, or `git fetch upstream main` to download without merging. Learn more at: [Getting Started with Git and GitHub](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/git/ROADMAP_GITHUB.md).
-4. Create/Reference a new **branch** and name it `feat/community/seunomedeusuario`: `git checkout -b feat/community/seunomedeusuario`;
-    > Example: `git checkout -b feat/community/AlcidesThiago2016`
+4. Create/Reference a new **branch** and name it `feat/community/seunomedeusuario`: `git checkout -b feat/community/Brunopretes`;
+    > Example: `git checkout -b feat/community/Brunopretes`
 5. Inside the [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) folder, create a Markdown file (extension `.md`) and name it after your GitHub username;
-    > Example: `seunomedeusuario.md` <br>
+    > Example: `Brunopretes.md` <br>
 6. Develop your profile: For that, you can see examples in the [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) folder and add some of the utilities available in the [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) folder;
     > **Note:** Use the other examples as inspiration, not as a copy.
 7. Add your changes to the "staging area" with the command `git add community/YOUR_USERNAME.md`;
@@ -119,9 +119,9 @@ Now that you have created your README.md, you can share this information with th
 3. Añade el remote upstream para mantener tu repositorio local actualizado. Por ejemplo: `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git`;
     > Usa el comando `git pull upstream main` para descargar y fusionar los cambios en tu repositorio local basado en la rama `main` de este repositorio original del cual hiciste el fork, o `git fetch upstream main` para descargar sin fusionar. Aprende más en: [Primeros Pasos con Git y GitHub](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/git/ROADMAP_GITHUB.md).
 4. Crea/Referencia una nueva **branch** y nómbrala `feat/community/TU_USERNAME`: `git checkout -b feat/community/TU_USERNAME`;
-    > Ejemplo: `git checkout -b feat/community/rafaeldscordeiro`
+    > Ejemplo: `git checkout -b feat/community/Brunopretes`
 5. Dentro de la carpeta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crea un archivo en Markdown (extensión `.md`) y nómbralo con el mismo nombre de tu usuario en GitHub;
-    > Ejemplo: `rafaeldscordeiro.md` <br>
+    > Ejemplo: Brunopretes.md` <br>
 6. Desarrolla tu perfil. Para eso, puedes ver ejemplos en la carpeta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) y añadir algunas de las utilidades presentes en la carpeta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils);
     > **Nota:** Usa los otros ejemplos como inspiración y no como copia.
 7. Agrega tus cambios al "área de preparación" con el comando `git add community/TU_USERNAME.md`;
@@ -139,9 +139,9 @@ Ahora que ha creado su README.md, puede compartir esta información con toda la 
 3. Voeg de upstream remote toe om je lokale repository up-to-date te houden. Bijvoorbeeld: git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git;
     > Gebruik het commando git pull upstream main om de wijzigingen in je lokale repository te downloaden en te samenvoegen op basis van de main branch van deze originele repository waarvan je een fork hebt gemaakt, of git fetch upstream main om te downloaden zonder samen te voegen. Leer meer op: Aan de slag met Git en GitHub.
 4. Maak/Referentieer een nieuwe branch en noem het feat/community/YOUR_USERNAME: git checkout -b feat/community/YOUR_USERNAME;
-    > Voorbeeld: git checkout -b feat/community/rafaeldscordeiro
+    > Voorbeeld: git checkout -b feat/communityBrunopretes
 5. Binnen de community map, creëer een Markdown-bestand (extensie .md) en noem het naar je GitHub-gebruikersnaam;
-    > Voorbeeld: rafaeldscordeiro.md 
+    > Voorbeeld: Brunopretes.md 
 6. Ontwikkel je profiel: Daarvoor kun je voorbeelden in de community map bekijken en enkele van de hulpprogramma's toevoegen die beschikbaar zijn in de utils map;
     > **Opmerking:** Gebruik de andere voorbeelden als inspiratie, niet als een kopie.
 7. Voeg je wijzigingen toe aan het "staging area" met het commando git add community/YOUR_USERNAME.md;
