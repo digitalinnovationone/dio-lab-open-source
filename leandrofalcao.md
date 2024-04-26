@@ -1,6 +1,6 @@
-## bem vindo ao meu github!
+## Bem vindos ao meu github!
 
-### Sou o leandro, formado em ADS, MBA em arquitetura de sistemas, sou de Brasilia.
+### Sou o leandro, formado em ADS em 2022, com MBA em arquitetura de sistemas | MBA algoritmo e estrutrura de dados. ###
 
 ≈ 2 anos de estudos e fazendo projetos com PHP7 e 8.
 
