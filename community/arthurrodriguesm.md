@@ -20,4 +20,4 @@ Um estudante entusiasta de Análise e Desenvolvimento de Sistemas apaixonado por
 
 ## 🦾 Contribuições
 
-Contribuições e feedbacks são sempre bem-vindos! Se você tem algum projeto interessante ou sugestões para melhorar os meus, fique à vontade para entrar em contato ou abrir uma issue/pull request.
+- Contribuições e feedbacks são sempre bem-vindos! Se você tem algum projeto interessante ou sugestões para melhorar os meus, fique à vontade para entrar em contato ou abrir uma issue/pull request.
