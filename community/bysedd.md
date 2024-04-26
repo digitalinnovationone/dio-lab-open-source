@@ -1,6 +1,6 @@
 # 👨🏽‍🦱 About Me
 
-Sou um estudante de Ciência da Computação com experiência em Python, que inclui sua aplicação em diversas áreas, tais como:
+Me chamo Felippe Andrade, sou estudante de Ciência da Computação com experiência em Python, que inclui sua aplicação em diversas áreas, tais como:
 
 - Automação de Tarefas: Simplificar e agilizar processos repetitivos, desde tarefas simples do dia a dia até fluxos de trabalho complexos.
 - Raspagem de Dados: Extrair informações valiosas de diferentes sites na web.
