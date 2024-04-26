@@ -10,6 +10,8 @@
 **Phone Number:** +55 61 9 9551 5600
 **E-mail:** [punkore8@gmail.com](mailto:punkore8@gmail.com)
 
+**Links:** **[LinkedIn](https://www.linkedin.com/in/gabriel-h-a-veloso/)** - **[GitHub](https://github.com/RAIMUNDOS54)**
+
 ## **Languages**
 
 **Portuguese:** Native
@@ -31,7 +33,7 @@ Migration from Monolithic Applications to Microservices. Specialist in custom ta
 
 ## **Work Experience**
 
-### **Senior Software Engineer II, Hipnoticus **at** Federal District/Brasília**
+### **Senior Software Engineer II, [Hipnoticus ](https://github.com/Hipnoticus)**at** Federal District/Brasília**
 
 **From:** 03/2011 **To:** Current
 
