@@ -1,6 +1,6 @@
 # Fabio Oliveira
 
-Olá! Sou o Fabio e estou reexplorando esse mundo de programação. Sou formado em Design mas tenho contato com desenvolvimento desde a adolecência. Nesse momentou estou em transição de carreira, cursando uma nova faculdade de Engenharia de Software. Possuo conhecimento em HTML, CSS, JavaScript e agora estou me aprofundando em Java.
+Olá! Sou o Fábio e estou redescobrindo o vasto mundo da programação. Embora minha formação seja em Design, mantenho um vínculo com o desenvolvimento desde a adolescência. Atualmente, estou em meio a uma emocionante transição de carreira, embarcando em uma nova jornada acadêmica na área de Engenharia de Software. Possuo conhecimentos em HTML, CSS e JavaScript, e agora estou dedicando-me a aprofundar minhas habilidades em Java. Estou ansioso para explorar novas oportunidades e contribuir para projetos desafiadores!
 
 
 ## Conecte-se comigo
