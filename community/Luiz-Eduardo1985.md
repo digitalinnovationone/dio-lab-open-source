@@ -1,4 +1,4 @@
-![header|1133x452, 100%]([utils/readme.jpg](https://github.com/Luiz-Eduardo1985/dio-lab-open-source/blob/e61988d682e48a6f2aef06d1080f57c38adc65d3/utils/readme%20(1).jpg))
+![imagem](https://github.com/Luiz-Eduardo1985/dio-lab-open-source/blob/e61988d682e48a6f2aef06d1080f57c38adc65d3/utils/readme%20(1).jpg)
 
 #  Olá pessoal! 💻
 
