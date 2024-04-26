@@ -1,7 +1,7 @@
 # eribert0
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eribert0-junior/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=86bad0)](https://www.linkedin.com/in/eribert0-junior/)
 [![GitHub](https://img.shields.io/badge/github-EEE?style=for-the-badge&logo=github&logoColor=black)](https://github.com/eribert0)
 
 ## Habilidades
