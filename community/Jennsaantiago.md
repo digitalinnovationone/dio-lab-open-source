@@ -1,5 +1,3 @@
-<a href="https://git.io/typing-svg" target=_blank rel="nofollow noopener noreferrer"><img src="https://readme-typing-svg.demolab.com?font=Arial&size=44&height=100&duration=1000&pause=1000&color=8a034d&width=800&lines=Bem+vindos+ao+meu+mundo!🪐" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Arial&size=44&duration=1000&pause=1000&color=8a034d&width=435&lines=Bem+vindos+ao+meu+mundo!🪐https://emresitesweb.com.br/wp-content/uploads/2023/11/gitironman01.png." style="max-width: 100%;">
-
 # <h1 align="center">*'Da Coragem vem a Honra'*</h1>
 <h3 align="center">Designer gráfica e Futura Desenvolvedora Python!😎</h3>
 
