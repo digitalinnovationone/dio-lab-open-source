@@ -9,7 +9,6 @@ Meu nome é **Eric José**, tenho **19 anos** e sou apaixonado por tecnologia e 
 
 ## Estatísticas do GitHub 📈
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ericjosee)](https://github.com/Ericjosee/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericjosee&hide_progress=true)
 
 ## Vamos Conectar! 🌐
 - **GitHub**: @Ericjosee
