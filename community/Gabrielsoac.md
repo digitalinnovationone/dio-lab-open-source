@@ -6,9 +6,9 @@
 
 *Estudante de Engenharia de Software - Anhanguera*
 
-*Foco em estudo back-end*
+*Foco em estudo back-end com Java Spring*
 
-*Programador que trabalha com redes e mergulha no mundo Java*.
+*Trabalhando atualmente com redes*.
 
 ### Habilidades
 
