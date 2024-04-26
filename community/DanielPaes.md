@@ -2,7 +2,7 @@
 
 - 👋 Olá! Eu sou o @DanielPaes!
 - 👀 Tenho muito interesse em ciências e tecnologias;
-- 📚 Sou um engenheiro se eventurando no mundo da computação;
+- 📚 Sou um engenheiro se aventurando no mundo da computação;
 - 🌱 Atualmente estudo ciência da computação e segurança da informação;
   
 ## Minhas principais habilidades
