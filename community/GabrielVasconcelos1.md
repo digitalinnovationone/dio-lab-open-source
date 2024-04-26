@@ -21,9 +21,6 @@ I am excited to explore new opportunities where I can apply my communication, ad
 
 ###  Sobre
 
-
-> User
-poderia fazer as correções ortográficas e traduzir esse texto para o ingles da forma mais certa possível ??
 Sedento por desafios, atualmente busco expandir meus horizontes e aprimorar minhas habilidades em projetos que envolvam Análises de dados, criação de insights e machining learning.
  
 Por meio de uma base sólida em SQL, Python e conhecimentos básicos em Modelos Estatísticos, estou constantemente em busca de aprimoramento e novas fontes de conhecimento.
