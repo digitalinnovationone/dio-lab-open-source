@@ -27,6 +27,6 @@
 
 
 
-# 📚 linguagens mais utilizadas em projetos
+# 📚 linguagens mais utilizadas em projetos.
 
    ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JonasSmendes&layout=compact&bg_color=000&border_color=4622bd&title_color=4f1df2&text_color=FFF)
