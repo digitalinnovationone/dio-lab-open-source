@@ -1,4 +1,4 @@
-# Oi, eu sou o Ycaro 😁
+# Olá, eu sou o Ycaro 😁
 
 ### Sou de Horizonte - CE, eu estou aprendendo a desenvolver sites e jogos a pouco tempo.
 ### Estou cursando atualmente PMM em UFCA
