@@ -54,4 +54,5 @@ The following languages have been chosen for their notable suitability and effec
 
 
 ## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarquinhoAmorim&theme=transparent&border_color=FFD700&show_icons=true&icon_color=FFD700&hide_title=true&text_color=FFF&ring_color=FFD700&border_radius=20)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarquinhoAmorim&theme=transparent&border_color=FFD700&show_icons=true&icon_color=FFD700&hide_title=true&text_color=FFF&ring_color=FFD700&border_radius=20) 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MarquinhoAmorim&layout=compact&theme=transparent&border_color=FFD700&hide_title=true&text_color=FFF&border_radius=20)
