@@ -1,7 +1,7 @@
 # Olá, eu sou o Eric José! 👋
 
 ## Sobre Mim 🚀
-Meu nome é **Eric José**, tenho **19 anos** e sou apaixonado por tecnologia e inovação. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e estou em uma jornada emocionante para me tornar um desenvolvedor de web e games.
+Meu nome é **Eric José**, tenho **19 anos** e sou apaixonado por tecnologia e inovação. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e estou em uma jornada emocionante para me tornar um desenvolvedor de web e games. Sou um desenvolvedor Iniciante com conhecimentos bem básicos em programação, porém estou estudando todos os dias pra melhorar nesses aspectos.
 
 ## Meus Interesses ✨
 - 💻 **Desenvolvimento Web**: Estou sempre explorando novas tecnologias e frameworks para criar experiências de usuário incríveis na web.
