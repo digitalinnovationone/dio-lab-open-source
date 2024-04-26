@@ -8,7 +8,7 @@ Amo esportes
 
 Amo praia e futebol.
 
-Atuo na área de t.i desde os 18. Sempre trabalhei na Infraestrutura. Hoje estou buscando migrar para uma nova área de atuação como desenvolvedor
+Atuo na área de t.i desde os 18. Sempre trabalhei na Infraestrutura. Hoje estou buscando migrar para uma nova área de atuação como desenvolvedor.
 
 ```
 Dar exemplos
