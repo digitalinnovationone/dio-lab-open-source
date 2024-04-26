@@ -1,8 +1,6 @@
 # Olá, me chamo Felipe Dias
 
-![Foto de perfil](https://assets-global.website-files.com/66212673845c6ce6f6079836/6627a2dfd5cab309f6c2c915_1652270935774.jpeg)
-
-## Bem vindo ao meu perfil
+Analista de mercado e Tecnologia da informação e desenvolvedor de software 🇧🇷
 
 ## 🚀 Sobre mim
 
@@ -18,13 +16,20 @@ Acredito que meu diferencial seja a minha disposição para entregar soluções 
 
 🤝 Disponível para colaborar em projetos
 
+🗣️ I also speak english 🇬🇧, so don't be afraid to get in touch with me
+
+
 ## 🛠 Habilidades
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B30?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ![Postgree](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=felipediasd&bg_color=000&border_color=FFF&title_color=3d53aa&text_color=FFF)
 
 
 ## 🔗 Entre em contato! 
