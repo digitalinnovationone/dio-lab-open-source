@@ -65,4 +65,4 @@
 <br>
 <h2 align="center"><i> 🐍 Commits: </i></h2>   
   
-![Snake animation](https://github.com/Dcorder123/Dcorder123/blob/output/github-contribution-grid-snake.svg)git
+![Snake animation](https://github.com/Dcorder123/Dcorder123/blob/output/github-contribution-grid-snake.svg)
