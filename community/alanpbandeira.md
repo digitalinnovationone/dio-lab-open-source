@@ -1,5 +1,5 @@
 # 👾 About me
-I'm a research and software engineer with focus on distributed architecture, microservices, big data and machine learning.
+I'm a researcher and software engineer with focus on distributed architecture, microservices, big data and machine learning.
 
 
 # 📱 You can find me @
