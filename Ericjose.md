@@ -8,7 +8,7 @@ Meu nome é **Eric José**, tenho **19 anos** e sou apaixonado por tecnologia e 
 - 🎮 **Desenvolvimento de Games**: Tenho um grande interesse em game design e desenvolvimento, e estou trabalhando para combinar minha paixão por jogos com minhas habilidades técnicas.
 
 ## Estatísticas do GitHub 📈
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Ericjosee=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Ericjosee's GitHub stats](https://github-readme-stats.vercel.app/api?Ericjosee=Ericjosee)](https://github.com/Ericjosee/github-readme-stats)
 
 ## Vamos Conectar! 🌐
 - **GitHub**: @Ericjosee
