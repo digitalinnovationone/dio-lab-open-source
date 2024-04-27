@@ -1,7 +1,7 @@
 ## Seja bem vindo
 
 
-Olá, meu nome Érico, sou Mestre em Ensino de Física com ênfase em Gamificação Educacional e Programador, estou adicionando as linguagens de programação como mais nova habilidade ao meu currículo a fim de tornar-me um profissional multitarefa. 
+Olá, meu nome Érico, sou Mestre em Ensino de Física com ênfase em Gamificação Educacional e também sou Programador. Atualmente estou adicionando as linguagens de programação como mais novas habilidades a minha vida a fim de tornar-me um profissional multitarefa. 
 
 
 
