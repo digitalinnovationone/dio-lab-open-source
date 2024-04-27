@@ -1,6 +1,6 @@
 # João Pedro Campanari
 
-Estudante em Análise e desenvolvimento de sistemas na Fatec.
+Estudante em Análise e desenvolvimento de sistemas na Fatec
 
 ### Contatos
 
