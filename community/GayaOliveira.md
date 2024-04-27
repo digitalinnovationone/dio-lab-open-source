@@ -1,7 +1,7 @@
 # - 👋 Olá, eu sou a Gaya!
 
 - Já trabalho há anos com Orçamento Público e estou em busca de novos desafios.
-- Por isso, agora sou uma graduanda em Tecnologias de Ciência da Computação na UFF e sigo avançando em meus estudos em TI.
+- Por isso, agora sou uma graduanda em Tecnologias em Sistemas de Computação na UFF e sigo avançando em meus estudos em TI.
 - Estou adorando aprender tanta coisa nova!! Tenho interesse em diversas áreas, particularmente, em Back-end.
 - O que quer que venha adiante, a jornada está sendo muito prazerosa! ❤️
 
