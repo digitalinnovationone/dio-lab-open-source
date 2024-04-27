@@ -1,0 +1,2 @@
+
+Meu nome é Miguel, sou formado em Sistemas de Informação, com especialização em Segurança de Redes, Polícia Judiciária Militar e Perícia Computacional. Tenho também Mestrado pela Universidade Federal do Paraná em Inteligência Artificial. Atualmente trabalho na área de crimes cibernéticos e perícia em dispositivos eletrônicos. Gosto muito da área de IA e atualmente estou focando meus estudos na linguagem de programação Python.  
