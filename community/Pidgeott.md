@@ -1,7 +1,7 @@
 ## Hello World!! 
 ### My name is Matheus and I'm a IT student.  
             
-Technology enthusiast passionate about creatively and efficiently solving problems. Committed to collaboration and clean code, I'm always on the lookout for new challenges and opportunities to contribute to innovative projects. My goal is to build solutions that make people's lives easier and more efficient, utilizing the latest technologies and best development practices
+Technology enthusiast passionate about creatively and efficiently solving problems. Committed to collaboration and clean code, I'm always on the lookout for new challenges and opportunities to contribute to innovative projects. My goal is to build solutions that make people's lives easier and more efficient, utilizing the latest technologies and best development practices.
   
 ### <b>Languages:</b>
 <div>
