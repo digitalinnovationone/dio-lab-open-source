@@ -1,6 +1,9 @@
 ## Oi, eu sou Isaque Weber
 
-Um desenvolvedor de software Java, atualmente estudando Análise e Desenvolvimento de Sistemas na Faculdade Descomplica
+- Atualmente estou desempregado 😪
+- Estou cursando Análise e Desenvolvimentos de Sistemas 🖥
+- Estou começando a me aprofundar nesse mundo da técnologia 🚀
+- Gosto muito de Música e Jogos🐱‍👤
 
 ## Tecnologias:
 
