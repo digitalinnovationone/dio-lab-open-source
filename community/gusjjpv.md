@@ -21,8 +21,7 @@ Tenho 19 anos e atualmente estou cursando Tecnologia da Informação pela Univer
 [![My Skills](https://skillicons.dev/icons?i=pycharm,vscode)](https://skillicons.dev)
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusjjpv&show_icons=true&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusjjpv&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusjjpv&layout=compact&langs_count=7&theme=Claro+"/>
 
 ### "Codificando o futuro, um byte de cada vez."
 
