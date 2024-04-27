@@ -87,12 +87,7 @@ jobs:
     needs: validate-and-comment
     
     steps:
-    - id: automerge
-      name: Merge PR
+    - name: Merge PR
       uses: "pascalgn/automerge-action@v0.16.3"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    - name: feedback
-      if: ${{ steps.automerge.outputs.mergeResult == 'merged' }}
-      run: |
-        echo "Pull request ${{ steps.automerge.outputs.pullRequestNumber }} merged!"
