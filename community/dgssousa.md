@@ -1,6 +1,6 @@
 # Douglas Sousa
 
-Futuro Dev Mobile em Kotlin.
+Futuro Dev Mobile em Kotlin
 
 ## Onde me encontrar
 
