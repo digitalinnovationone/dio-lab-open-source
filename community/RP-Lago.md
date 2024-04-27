@@ -1,5 +1,5 @@
 # Robson P. Lago
-Sou técnico em mecânica industria pela Liceu Brás Cubas de Mogi das Cruzes estou cursando o ensino Superior em Ciencias de Dados e Análise do comprotamento e Ciências da Felicidades pela univercidade  - [UniCesumar](https://inscricoes.unicesumar.edu.br/busca-nicho), polo Suzano.
+Sou técnico em mecânica industrial pela Liceu Brás Cubas de Mogi das Cruzes estou cursando o ensino Superior em Ciencias de Dados e Análise do comprotamento e Ciências da Felicidades pela univercidade  - [UniCesumar](https://inscricoes.unicesumar.edu.br/busca-nicho), polo Suzano.
 Tenho mais de 20 anos de experiência na indústria do vidro, onde desenvolvi habilidades de liderança, comunicação e trabalho em equipe, não me contento com a estagnação. Há mais de 6 meses, embarquei na jornada empolgante que é o mundo da Tecnologia da Informação,
 
 **Linguagens de programação:**
