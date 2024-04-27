@@ -3,6 +3,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E16EF7&random=false&width=435&lines=Ol%C3%A1!+Bem-vinde+ao+meu+GitHub!)](https://git.io/typing-svg)
+
 Me chamo Michelle, sou natural do Rio de Janeiro e vivo em São Paulo há 11 anos.
 
 👩🏻‍🎓Sou docente na área da Moda há 7 anos, atuo como professora de ressignificação e reaproveitamento de matéria-prima têxtil em um projeto sócio-ambiental chamado [Sustexmoda](https://www.sustexmoda.org). A partir de capacitação profissional, o projeto visa propiciar o empoderamento e aumento da autoestima de pessoas em extrema vulnerabilidade social e a redução de resíduos têxteis e roupas pós-consumo destinados aos aterros sanitários no município de São Paulo.  Acredito que desenvolvi com esse projeto ótimas Soft Skills! 
