@@ -6,7 +6,7 @@ Formado em Ciências Contábeis e trabaçhando na área, tive meu primeiro conta
 
 Desde então, a curiosidade foi aumentando para querer saber como cada arquivo, programa ou aplicativo funciona.
 
-Onde me encontrar
+Onde me encontrar?
 LinkedIn
 
 Gmail
