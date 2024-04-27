@@ -14,7 +14,7 @@
  
 ⚠️ Resolvendo, respondendo ou indicando **issues**
 
-⭐ Adicionando aos favoritos (**star**) 
+⭐ Adicionando aos favoritos (**star**) TESTE
 
 ##  Contribuindo no diretório "Community" 
  A contribuição no diretório "Community" faz parte do Desafio do lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Você pode colaborar criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
