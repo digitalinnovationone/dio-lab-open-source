@@ -2,8 +2,6 @@
      <img align="center" width="40px" src="https://avatars.githubusercontent.com/u/126524988?v=4">
 </h1>
 
----
-
 # ALBENIR RODRIGUES JUNIOR
 
 Apaixonado por tecnologia, sou um iniciante buscando ingressar em um mundo que sempre tive o sonho de viver. Estudo programação a mais de 6 anos como hobby, e agora estou confianet em dar um passo adiante.
