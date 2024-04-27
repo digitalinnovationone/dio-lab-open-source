@@ -8,17 +8,17 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e evolu
 
 ## Habilidades 🚀
 
-- **Linguagens de Programação:** [html, css , javascript(basico), java(basico), bootstrap]
-- **Frameworks e Tecnologias:** []
-- **Bancos de Dados:** [sql e workbend
-- **Outras habilidades:** [Vontade de aprender tanto em comunidade como individual e proatividade.]
+- **Linguagens de Programação:** html, css , javascript(basico), java(basico), bootstrap
+- **Frameworks e Tecnologias:** 
+- **Bancos de Dados:** sql e workbend
+- **Outras habilidades:** Vontade de aprender tanto em comunidade como individual e proatividade.
 
 ## Projetos 💼
 
 Aqui estão alguns dos projetos em destaque que desenvolvi:
 
-1. **[Nome do Projeto 1](https://github.com/Hidan404/Manager-landing-page.git):** landing page feita com boostrap e js.
-2. **[Nome do Projeto 2](https://github.com/Hidan404/campo-minado.git):** campo minado projeto do curso java da udemy.
+1. **Manager landing page(https://github.com/Hidan404/Manager-landing-page.git):** landing page feita com boostrap e js.
+2. **Campo minado(https://github.com/Hidan404/campo-minado.git):** campo minado projeto do curso java da udemy.
 
 ## Status Github
 
@@ -37,4 +37,4 @@ Se você está interessado em colaborar em projetos, discutir ideias ou simplesm
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-sousa-986892183/)
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hidan404)
 
-Estou ansioso para conectar e colaborar com você!
+Estou ansioso para conectar e colaborar com vocês da comunidade dev!
