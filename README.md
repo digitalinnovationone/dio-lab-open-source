@@ -8,7 +8,15 @@ Repositório desenvolvido para fins didáticos, com a disponibilização de mate
 
 [![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
 [![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
+flwbielzin 🚀Explorador do universo da programação e amante da tecnologia! 👨‍💻 Com 23 anos de idade e origens no Rio de Janeiro, descobri minha paixão pela linguagem dos códigos. 💻 Sempre em busca de novos desafios e conhecimentos, me envolvo profundamente no mundo da programação para desenvolver soluções criativas.
 
+🌐 Nascido sob o céu carioca, trago a energia vibrante do Rio de Janeiro para cada linha de código que escrevo. 🏖️ A jornada na tecnologia é mais do que um caminho profissional para mim, é uma verdadeira paixão que impulsiona meu crescimento diário.
+
+🔍 Explorando as fronteiras da inovação, meu objetivo é contribuir para um mundo mais conectado e eficiente. Com um olhar atento para as tendências tecnológicas, estou sempre pronto para abraçar novas ferramentas e frameworks.
+
+💬 Seja em desenvolvimento web, mobile ou em projetos mais desafiadores, estou comprometido em transformar linhas de código em soluções que fazem a diferença. A cada bug resolvido, vejo não apenas um desafio superado, mas uma oportunidade de crescimento.
+
+📚 Além dos bits e bytes, também sou um eterno aprendiz, compartilhando conhecimento e inspirando outros entusiastas da tecnologia. 🤝 Vamos juntos construir um futuro digital mais empolgante e inovador! 🚀 #TechEnthusiast #ProgramadorCarioca #InovaçãoTecnológica"
 ## Objetivo
 Aprender o básico sobre contribuição no GitHub.
 
