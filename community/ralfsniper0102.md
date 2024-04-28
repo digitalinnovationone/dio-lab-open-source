@@ -1,1 +1,0 @@
-# Olá, Meu nome é Rafael Araujo da Silva, sou Desenvolvedor backend .NET e QA Tester 
