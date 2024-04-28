@@ -1,0 +1,174 @@
+  <!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <title>DIO | Lab Contribuindo em um Projeto Open Source no GitHub</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="theme-color" content="#EAEAEA">
+        <link rel="icon" type="image/x-icon" href="favicon.ico">
+        <link rel="stylesheet" href="assets/css/styles.css">
+    </head>
+    <body>
+        <header>
+            <div>
+                <span class="brand">
+                    <a href="index.html"> <!--Conteúdo modificado, acrescentando um link à logo e ao nome no canto superior esquerdo da tela.-->
+                        <img src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" alt="DIO logo">
+                        <span><b>OPEN</b>.SOURCE</span>
+                    </a> 
+                </span>
+                <ul class="menu-social">
+                    <li class="menu-social__item">
+                        <a title="GitHub" class="menu-social__link" href="https://github.com/elidianaandrade/dio-lab-open-source" target="_blank">
+                            <i class="bi bi-github"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <nav>
+                <ul class="menu">
+                    <li class="menu__item">
+                        <a href="#desafio" class="menu__link">Desafio</a>
+                    </li>                    
+                    <li class="menu__item">
+                        <a href="#comunidade" class="menu__link">Comunidade</a>
+                    </li>
+                    <li class="menu__item">
+                        <a href="#materiais" class="menu__link">Materiais de Apoio</a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+
+        <main id="desafio">
+            <h1>Desafio: Profile README</h1>
+            <p>
+                Contribua no diretório "Community", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. Além 
+                disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da 
+                <a href="https://www.dio.me/">Digital Innovation One</a>.<br>
+                Inspire-se consultando os exemplos na pasta
+                <a href="https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community">"community"</a>, confira alguns utilitários na pasta 
+                <a href="https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils">"utils"</a>
+                e use sua criatividade para criar o seu 😊💙.
+            </p>
+
+            <h2>Instruções:</h2>
+            <ol>
+                <li>
+                    <p>                    
+                        Faça um <b>Fork</b> deste repositório;
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Clone localmente <code>git clone https://github.com/<b>SEUUSERNAME</b>/dio-lab-open-source.git</code>;
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Adicione o remote upstream para manter seu repositório local atualizado: 
+                        <code>git remote add upstream https://github.com/elidianaandrade/dio-lab-open-source.git</code>. Utilize o comando 
+                        <code>git pull upstream main</code> para baixar e mesclar as alterações no seu repositório local com base na branch 
+                        main deste repositório original de onde você fez o fork, ou <code>git fetch upstream main</code> para baixar sem mesclar. 
+                        Veja mais em: <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md">"Primeiros Passos com Git e GitHub"</a>;
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Crie uma nova <b>branch</b> e nomeie como <code>feat/community/<b>seunomedeusuario</b></code>.
+                        Exemplo: <code>feat/community/elidianaandrade</code>;
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Dentro da pasta <a href="https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community">"community"</a>, 
+                        crie um arquivo em Markdown (extensão <code>.md`</code>) e nomeie com o mesmo nome do seu usuário no GitHub.
+                        Exemplo: <code>elidianaandrade.md</code>;
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Desenvolva o seu perfil. Para isso, você pode ver exemplos na pasta community e adicionar alguns dos utilitários presentes 
+                        na pasta <a href="https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils">"utils"</a>.
+                        <b>Observação:</b> Use os outros exemplos como inspiração e não cópia;
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Adicione suas alterações à "staging area" com o comando <code>git add community/<b>seunomedeusuario</b>.md</code>;
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Crie um commit e adicione a mensagem indicando a adição do seu perfil <code>git commit -m"feat: add <b>seunomedeusuario</b> profile"</code>;
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Envie as alterações para o seu repositório remoto <code>git push origin feat/community/<b>seunomedeusuario</b></code>;
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Crie um <b>Pull Request</b>.
+                    </p>
+                </li>
+            </ol>
+        </main>
+
+        <section id="comunidade">
+            <h2>Confira os perfis criados pela comunidade</h2>
+            <p>Veja todos os perfis desenvolvidos pela comunidade em 
+                <a href="https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community">dio-lab-open-source/examples</a>, 
+                ou busque um específico digitando o nome do usuário abaixo. 
+                <br> Inspire-se e faça a sua 
+                <a href="https://github.com/elidianaandrade/dio-lab-open-source/">
+                    contribuição
+                </a> 😉🚀.
+            </p>
+            <form id="searchForm">
+                <input type="text" id="searchInput" placeholder="username" value="bruno-henr" minlength="3" maxlength="39">
+                <button type="submit" id="searchButton">
+                    <span>Ver Perfil</span>
+                    <i class="bi bi-github"></i>
+                </button>
+            </form>
+        </section>
+
+        <section id="materiais">
+            <h2>Materiais de Apoio</h2>
+            <ol>
+                <li>
+                    <a href="">
+                        Introdução ao Lab;
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        Formas de Contribuir num Projeto Open Source;
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        Desenvolvendo e Enviando uma Contribuição;
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        Dicas e Materiais de Apoio.
+                    </a>
+                </li>
+            </ol>
+        </section>
+
+        <footer>
+            <p>
+                Projeto desenvolvido para fins didáticos para o lab Contribuindo em um Projeto Open Source no GitHub da 
+                <a href="https://www.dio.me/">Digital Innovation One</a>. Contribua com o projeto no 
+                <a href="https://github.com/elidianaandrade/dio-lab-open-source">GitHub</a>.
+            </p>
+        </footer>
+        <script src="assets/js/scripts.js"></script>
+    </body>
+</html>
