@@ -1,6 +1,6 @@
 # Quem sou Eu... 
 
-Olá, me chamo Edson Sousa e gostaria de me apresentar.
+## Olá, me chamo Edson Sousa e gostaria de me apresentar.
 
 Sou um profissional de TI com mais de 20 anos de experiência. Sendo 14 anos dedicados a Petros, Fundação Petrobrás de Seguridade Social, no segmento de previdência privada, gestão administrativa, financeira, contábil, orçamento e ERP. Meu perfil é analítico, comunicativo, proativo, com visão de dono, hands-on e um ótimo relacionamento interpessoal e de trabalho em equipe. Sou um profissional autodidata e em constante evolução, pós-graduado em Engenharia de Software pela PUC-Rio. 
 
