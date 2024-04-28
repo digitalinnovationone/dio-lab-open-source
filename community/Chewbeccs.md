@@ -1,10 +1,14 @@
 # Chewbeccs
 
 ## About me
-Hi, I'm Becca! I'm on my way to be the greatest Java expert!
+Hi, I'm Becca!
+
+I'm on my way to be the greatest Java expert!
+
 Join me while I'm starting this new adventure!
 
 1997's gang!
+
 I love music, games and I try to be the biggest nerd on Earth.
 
 ## Contact me!
@@ -16,4 +20,5 @@ I love music, games and I try to be the biggest nerd on Earth.
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Chewbeccs&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Chewbeccs&repo=Java-StudiesO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+## Repositories
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Chewbeccs&repo=Java-Studies&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Chewbeccs/Java-Studies)
