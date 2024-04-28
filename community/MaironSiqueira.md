@@ -8,13 +8,12 @@ Tenho 20 anos, sou apaixonado por tecnologia, sempre gostei de ler e sempre esto
 
 ### 🚀 **Minha jornada** 
 
-Atualmente estou terminando um curso técnico em Desenvolvimento de Software no Senai e estou iniciando uma faculdade em Jogos Digitais na Unisul ao mesmo tempo que estou fazendo o bootcamp aqui no santander | DIO de jogos com GODOT.
+Atualmente estou terminando um curso técnico em Desenvolvimento de Software no Senai e estou iniciando uma faculdade em Jogos Digitais na Unisul ao mesmo tempo que estou fazendo o bootcamp aqui no santander | DIO de jogos com GODOT. E irei futuramente adicionar projetos no meu GitHub.
 
 
 
 
 # 🔗Links 
-
 
 
 
