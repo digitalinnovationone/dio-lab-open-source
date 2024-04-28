@@ -3,7 +3,7 @@
 ## 🎓 Sobre mim
 
 
-Tenho 20 anos, sou apaixonado por tecnologia, sempre gostei de ler e sempre estou andando com algum livro comigo, sou muito interessado em história, principalmente quando se fala em geopolítica e sobre a segunda guerra mundial. 
+Tenho 20 anos, sou apaixonado por tecnologia, sempre gostei de ler e sempre estou andando com algum livro comigo, sou muito interessado em história, principalmente quando se fala em geopolítica e sobre a segunda guerra mundial.
     
 
 ### 🚀 **Minha jornada** 
