@@ -1,6 +1,6 @@
 # Olá! 👀👋
-![alt text](image-7.png)
 
+![alt text](image-2.png)
 
 Me chamo Samuel Costa, tenho 19 anos, sou um desenvolvedor web e gosto da coisa, me acho pessoa proativa e gosto de novos desafios, por isso estou fazendo o Bootcamp de **JAVA** da Santander kkkk (**JAVA**). Estou sempre buscando aprender coisas novas e melhorar minhas habilidades.
 
