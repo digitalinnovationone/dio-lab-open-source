@@ -2,8 +2,8 @@
 
 ## Sobre mim
 
-- 📚 Desenvolvedor graduado em Sistemas de Informação 2018 na UNA - Belo Horzinte .
-- 👨‍💻 Desenvolvedor em busca da primeira oportunidade na area, mas com experiencia na area de infraestrutura de TI.
+- 📚 Desenvolvedor graduado em Sistemas de Informação 2018 na UNA - Belo Horizonte.
+- 👨‍💻 Desenvolvedor em busca da primeira oportunidade na área, mas com experiencia na area de infraestrutura de TI.
 
 ## Experiência
 
@@ -17,4 +17,4 @@
 - 🌐 Front-end: Angular, HTML, CSS.
 - 🖥️ Back-end: NodeJS e PHP.
 - 🗃️ Banco de dados: SQL Server, MySQL e MongoDB.
-- 🧰 Ferramentas de Desenvolvimento: Visual Studio, Visual Studio Code, InteliJ e Git.
+- 🧰 Ferramentas de Desenvolvimento: Visual Studio, Visual Studio Code, InteliJ e Git
