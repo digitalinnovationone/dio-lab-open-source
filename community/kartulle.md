@@ -1,4 +1,5 @@
 ### Olá, eu sou a Karol!
+Sou estudante de ciência da computação na Universidade Federal de Alagoas. Além de ser apaixonada por tecnologia, atuei como Back-end no Núcleo de Excelência em Tecnologias Sociais, usando o framework Laravel. Tive contato com JavaScript, CSS, HTML, PHP e mySQL. Atualmente, tenho me dedicado a aprofundar meus conhecimentos em cultura DevOps, incluindo Cloud Computing, Redes e Segurança da Informação, assim como aprendendo sobre ferramentas de conteinerização e orquestração, como Docker e Kubernetes. Também estou me familiarizando com a plataforma AWS e as principais vulnerabilidades listadas no OWASP top 10. Meu principal objetivo é me tornar uma profissional especializada em segurança da informação.
 
 <div align="center">
   <a href="https://github.com/kartulle">
