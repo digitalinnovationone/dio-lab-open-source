@@ -1,4 +1,4 @@
-## 🎀Bianca Silva (biancaFers)👩‍💻🎀
+## 🎀Bianca Silva👩‍💻🎀
 
 Olá,❤️
 
