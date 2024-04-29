@@ -1,6 +1,7 @@
 <img src="https://avatars.githubusercontent.com/u/69999208?v=4" width="100" height="100" align="right">
 
-# Marcos Rafael R. dos Santos  
+<span style="font-size:2em;">**Marcos Rafael R. dos Santos**</span>
+
 Apaixonado por tecnologia e inovação, busco oportunidades para crescer na área de desenvolvimento de software. Com uma personalidade equilibrada e uma abordagem metódica para resolver problemas, estou sempre pronto para colaborar e contribuir com novos projetos.
 
 
