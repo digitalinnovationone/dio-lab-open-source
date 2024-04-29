@@ -1,10 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F0F8FF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-<div align="center">
-<img src= "https://www.canva.com/design/DAF3107rI2U/c_0cg9RTA3Lx185L6HCPvw/view?utm_content=DAF3107rI2U&utm_campaign=designshare&utm_medium=link&utm_source=editor"width="800px"/>
-</div>
-
-
 ## Skills 
 ![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=A9A9A9)
