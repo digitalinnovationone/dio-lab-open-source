@@ -1,5 +1,5 @@
 
-![Animated Flame](https://github.com/emersonpessoa01/dio-lab-open-source/blob/main/image/gifs/animated-flame-01.gif) **Muito prazer, meu nome é Luiz Miguel** ![Animated Flame](https://github.com/emersonpessoa01/dio-lab-open-source/blob/main/image/gifs/animated-flame-01.gif) 
+<img src="https://github.com/emersonpessoa01/dio-lab-open-source/blob/main/image/gifs/animated-flame-01.gif" width="30px" height="30px"/>  **Muito prazer, meu nome é Luiz Miguel** !<img src="https://github.com/emersonpessoa01/dio-lab-open-source/blob/main/image/gifs/animated-flame-01.gif" width="30px" height="30px"/> 
 
 Atualmente trabalho como suporte de TI mas tenho a ambição de me tornar um desenvolvedor. 
 
@@ -16,7 +16,7 @@ Estou me formando em Análise e Desenvolvimento de Sistemas e aqui estão as lin
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizmiguelgaio&theme=transparent&bg_color=000&border_color=16B8F3&show_icons=true&icon_color=16B8F3&title_color=16B8F3&text_color=FFF)
 
-![Animated Flame](https://github.com/emersonpessoa01/dio-lab-open-source/blob/main/image/gifs/animated-flame-01.gif) **Gostou? Se conecte comigo.** ![Animated Flame](https://github.com/emersonpessoa01/dio-lab-open-source/blob/main/image/gifs/animated-flame-01.gif)
+<img src="https://github.com/emersonpessoa01/dio-lab-open-source/blob/main/image/gifs/animated-flame-01.gif" width="30px" height="30px"/>  **Gostou? Se conecte comigo.** !<img src="https://github.com/emersonpessoa01/dio-lab-open-source/blob/main/image/gifs/animated-flame-01.gif" width="30px" height="30px"/> 
 
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizmiguelgaio/)
