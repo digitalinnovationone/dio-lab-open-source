@@ -183,7 +183,7 @@
 
 <!-- ### 🚀 Contribuições -->
 
-### <img src="./image/gifs/animated-flame-01.gif" width="30px" height="30px"/> Contribuições
+### <img src="https://github.com/emersonpessoa01/emersonpessoa01/blob/main/image/gifs/animated-flame-01.gif" width="30px" height="30px"/> Contribuições
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=emersonpessoa01&theme=tokyo-night&line=628fdb&point=a8d1b6&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
