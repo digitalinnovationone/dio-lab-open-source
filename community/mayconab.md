@@ -13,6 +13,6 @@
 
 ## Habilidades
 
-## Github Stats
+## Github Status
 
 ## Minhas Contribuições
