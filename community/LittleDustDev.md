@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/69999208?v=4" width="100" height="100" align="right">
+<img src="https://avatars.githubusercontent.com/u/69999208?v=4" width="70" height="70" align="right">
 
 # Marcos Rafael R. dos Santos
 
