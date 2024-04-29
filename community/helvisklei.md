@@ -1,7 +1,7 @@
 
 # Helvisklei
 
-Uma colaboração ao projeto Community da DIO, abaixo uma breve descrição do meu perfil, sinta-se avontade para nos conectarmos e juntos mudarmos a maneira de interargir e contribuir em tecnologia. 
+Uma colaboração ao projeto Community da DIO, abaixo uma breve descrição do meu perfil, sinta-se a vontade para nos conectarmos e juntos mudarmos a maneira de interargir e contribuir em tecnologia. 
 
 ### Network
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helviskei-si-ti/)
