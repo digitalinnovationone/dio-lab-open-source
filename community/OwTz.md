@@ -10,7 +10,7 @@ aqui está algumas Estatisticas do meu GIT 👋
 # 🔍 Linguagens e Skills
 
 - Linguagens 👨‍💻
-- 
+  
 | java | Linguagem de Programação para o back-End |
 |---|---|
 | PHP | Linguagem de Programação  |
