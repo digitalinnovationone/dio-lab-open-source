@@ -2,8 +2,6 @@
 
 Futuro Estudante de Analise e Desenvolvimento de Sistemas pela UNIT-SE, Dev is meu mundo!
 
-![Visitantes](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnetoborgess%2Fdio-lab-open-source.git&label=VISITANTES%20HOJE%2FATUAL&labelColor=% 23d9e3f0&countColor=%23697689)
-
 #### 🌐 Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalicio-borges-neto-bbb1bb306/)
