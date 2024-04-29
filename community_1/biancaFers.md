@@ -30,5 +30,5 @@ Habilidades que estou aprendendo e que estão na minha proxima lista de aprendiz
 | Ainda Cursarei| Inglês|
 | Ainda Cursarei| Espanhol| 
  
- * Entre outros *Cursos* também que não estão na lista mas em breve entrará como CONCLUIDO✔️ se Deuus permitir, Ainda sou nova nesse ramo,são muitas liguagens de programação que ainda não conheço. Até porque na minha graduação que estou cursando meu proximo Semestre é todo sobre Programação, ja dei uma olhadinha na grade curricular do curso, então muita coisa ainda estar por vir, mas tudo que envolve programação e tecnologia tenho interesse de aprender e estou sempre dentro!! Haha😎.
+ * Entre outros *Cursos* também que não estão na lista mas em breve entrará como CONCLUIDO✔️ se Deuus permitir, Ainda sou nova nesse ramo,são muitas liguagens de programação que ainda não conheço. Até porque na minha graduação que estou cursando meu proximo Semestre é todo sobre Programação, ja dei uma olhadinha na grade curricular do curso, então muita coisa ainda estar por vir, mas tudo que envolve programação e tecnologia são do meu interesse de aprender e estou sempre dentro!! Haha😎.
 
