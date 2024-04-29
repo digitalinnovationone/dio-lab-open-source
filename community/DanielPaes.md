@@ -2,7 +2,7 @@
 
 - 👋 Olá! Eu sou o @DanielPaes!
 - 👀 Tenho muito interesse em ciências e tecnologias;
-- 📚 Sou um engenheiro se eventurando no mundo da computação;
+- 📚 Sou um engenheiro se aventurando no mundo da computação;
 - 🌱 Atualmente estudo ciência da computação e segurança da informação;
   
 ## Minhas principais habilidades
@@ -29,5 +29,3 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:daniel.p.aes@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/daniel-paes-40149661/)
 [![Perfil DIO](https://img.shields.io/badge/Perfil_DIO-20B2AA?style=for-the-badge&logo=JAva&logoColor=whit)](https://web.dio.me/users/daniel_p_aes)
-
-
