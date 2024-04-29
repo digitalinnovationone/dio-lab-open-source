@@ -1,6 +1,6 @@
 # Bem-vindo(a)!
 
-## Atualmente cursando Bacharel em Ciências da Computação pela GRAN Faculdade e também o Bootcamp da DIO "Cursando Jogos em Godot".
+## Atualmente cursando Bacharelado em Ciências da Computação pela GRAN Faculdade e também o Bootcamp da DIO "Cursando Jogos em Godot".
 
 # GitHub
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leonardoftr)
