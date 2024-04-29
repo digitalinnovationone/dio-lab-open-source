@@ -13,9 +13,9 @@ Olá, me chamo dady francisco Mendes, tenho 21 anos de idade. Estudante de Anál
 
 [![GitHub](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=Java&logoColor=30A3DC)]()
 ## GitHub stats
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DadyfranciscoMendes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DadyFranciscoMendes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dadyfranciscoMendes&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DadyFranciscoMendes&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 
