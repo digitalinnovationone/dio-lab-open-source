@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 # Paulo Gomes
 ### Olá. Me chamo Paulo e sou Engenheiro de controle e Automação. Sou apaixonado por tecnologia. Recentemente iniciei meus estudos em desenvolvimento web front-end. Tenho experiência em desenvolvimento em linguagens como C++, object pascal e javascript com foco em tecnologias como React. Tenho grande experiência em desenvolvimento de firmware para microcontroladores. Acredito que ganhamos todos quando nos dispomos a ajudar e compartilhar conhecimento.  Sinta-se à vontade para entrar em contato e discutir sobre tecnologia, desenvolvimento ou qualquer outro assunto que seja do seu interesse!
 
@@ -32,3 +33,5 @@
 [![E-mail](https://img.shields.io/badge/-Email-0077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:raseira.gomes@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+53+999115582)  
 [![GitHub](https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pgomes1972)
+=======
+>>>>>>> 6516e12f594148cf1f8ac74e749c28ad3e579062
