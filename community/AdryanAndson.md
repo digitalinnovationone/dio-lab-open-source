@@ -1,6 +1,4 @@
-Para corrigir a indentação das estatísticas e linguagens utilizadas no GitHub em seu README, você deve ajustar o código para garantir que as imagens das estatísticas e linguagens sejam apresentadas adequadamente com a identação correta. Aqui está o README atualizado com a indentação corrigida:
 
----
 
 # 🌟 Olá, exploradores da tecnologia! 🌟
 
