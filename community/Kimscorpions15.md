@@ -20,7 +20,8 @@ Meu nome é Kimberly, gosto de jogar, assistir animes, ler, descobrir habilidade
 
 ### Conecte-se comigo: 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimberly-mangolin-352496304/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kimscorpions15)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimberly-mangolin-352496304/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kimscorpions15)[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kimsccm)
+
 
 
 #### _Citação:_
@@ -36,7 +37,7 @@ Meu nome é Kimberly, gosto de jogar, assistir animes, ler, descobrir habilidade
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://i0.wp.com/metagalaxia.com.br/wp-content/uploads/2023/06/Itachi-Uchiha.webp?fit=1280%2C960&ssl=1">
+ <source media="(prefers-color-scheme: dark)" srcset="https://scontent.fbhz1-2.fna.fbcdn.net/v/t39.30808-6/356652117_800200811663930_3239241097199351252_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeELCIpe2g8rtpZnGYER3dxxd9xwXvNmcMh33HBe82ZwyNE_PQ93MX_rG9XxDSLE-nIxj2LN4LWrstDARcsxXHOi&_nc_ohc=HWwJWPpCHjYAb5RHry6&_nc_ht=scontent.fbhz1-2.fna&oh=00_AfDvnYjjicSNopqVb_NUxf-ymxb0kp7sw-lN1_h70SIL_w&oe=6635A9EA">
  <source media="(prefers-color-scheme: light)" srcset="https://static.wikia.nocookie.net/naruto/images/1/1f/Pose_Nice_Guy_%28Naruto%29.png/revision/latest/scale-to-width-down/638?cb=20130520085132&path-prefix=pt-br">
  <img alt="JIRAYA SENSEI" src="https://i.pinimg.com/736x/26/4b/2f/264b2f4eb28380339a65cc2afe1f2040.jpg">
 </picture>
