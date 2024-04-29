@@ -1,4 +1,4 @@
-p# Cauã R. O. Queiroz
+# Cauã R. O. Queiroz
 <p align="justify">
 Olá Meu Nome é <strong>Cauã R. Oliveira Queiroz</strong>
 <br>
