@@ -10,9 +10,9 @@ Sou estudante do Bacharelado Interdisciplinar em Ciências e Tecnologia da UNIFE
 
 ## Linguagens de progamação
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
 ## Ferramentas
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
