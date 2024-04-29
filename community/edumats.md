@@ -6,7 +6,7 @@ Vamos nos conhecer! Siga meu perfil no [Github](https://github.com/edumats)! �
 - 🌱 Atualmente estou aprendendo AWS Serverless Web Services e ReactJS
 - 💞️ Estou buscando colaborar em projetos de código aberto e freelance
 
-#### 📚 Veja meus últimos artigos em inglês no meu blog de tecnologia!
+#### 📚 Veja meus últimos artigos em inglês no meu blog!
 <!-- BLOGPOSTS:START -->
  - 💯 [Entendendo a Notação Big O: Um Guia para Iniciantes](https://edumats.dev/understanding-big-o-notation-a-beginners-guide)
  - 🌮 [Use o localStorage para potencializar seus aplicativos](https://edumats.dev/use-localstorage-to-power-up-your-apps)
