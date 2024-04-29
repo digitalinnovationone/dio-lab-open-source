@@ -15,5 +15,4 @@ Com esse desafio da Dio é a oportunidade de inicio dessa transição e conquist
 Gravando alterações no Repositório local | [Resumo] () |
 
 
-## 🔎 Referências
-- [Digital Innovation One] (https://web.dio.me).
+
