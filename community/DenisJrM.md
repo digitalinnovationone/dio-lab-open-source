@@ -2,7 +2,7 @@
 
 ## Conecte-se quando quiser!
 
-**Meu perfil** na [DIO]{https://www.dio.me/users/ditogamesbr}
+**Meu perfil** na [DIO] {https://www.dio.me/users/ditogamesbr}
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/denisjunior03/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denisjunior05/)
