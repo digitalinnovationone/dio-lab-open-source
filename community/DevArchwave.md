@@ -3,7 +3,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevArchwave)
 
-Opa! Me chamo Gabriel, sou estudante de Analise e Desenvolvimento de Sistemas! 
+I'm Gabriel, game dev and tech dev. Welcome my DIO profile!
 
 ### Environment:
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
