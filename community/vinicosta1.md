@@ -12,5 +12,5 @@ Atualmente sou estagiario da empresa Infinitfy, estudo ciência da computação 
 
 ## Contribuindo
 Contribuições são sempre bem-vindas!
-Veja `vinicosta1.md` para saber como começar.
+Veja `ViniCosta1.md` para saber como começar.
 Por favor, siga o `código de conduta` desse projeto.
