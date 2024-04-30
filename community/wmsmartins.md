@@ -1,8 +1,11 @@
-### Olá, eu sou Wagner M. Silva (wagnermartins).
-formado em Sistemas de Informação na (Faculdade Estácio no Recife)
-Sou novo no git porém com esse curso aprendi bastante sobre Git e Github.
-(https://github.com/wmsmartins)
+### Olá, Me chamo Wagner M. Silva👋
+- 📚 Sou formado em Sistemas De Informação na Faculdade Estácio em Recife - PE
+- 🔭 Atualmente estou trabalhando na Empresa FSBR - Fabrica de Software do Brasil. fico Lotado no PROCAPE - Pronto-Socorro Cardiológico Universitário de Pernambuco - Prof. Luiz Tavares....
+- 🌱 Atualmente estou aprendendo Jova na DIO OPEN.SOURCE ...
+- 👯 Estou procurando colaborar e fazer parte desta Fámilia ...
+- Como chegar até mim. siga-me nas minhas redes sociais Instagran: [wagnermartins_s](https://www.instagram.com/wagnermartins_s?utm_source=qr&igsh=MW40MmVqeHhxZzZnMA==)
+- youtub: [@wagnermartins2360](https://www.youtube.com/channel/UC1VaRvPMUK1EGzHUmhHtqQg)
+- ou acesse meu Github: https://github.com/wmsmartins
+- ⚡ Fato engraçado: uma vez foi a casa de um cliente só para ligar um estabilizador pois o mesmo já tinha jurado de pés juntos que o mesmo já estava ligado. ...
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
