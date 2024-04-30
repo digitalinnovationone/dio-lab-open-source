@@ -1,6 +1,6 @@
-## Ola! seja muito bem-vindo(a)!
+## Ola! seja muito bem-vindo(a)! 
 
-Fique a vontade para explorar os repositorios, tem alguns projetos pessoais e varios projetos/exercicios de cursos. 
+Fique a vontade para explorar os repositorios, tem alguns projetos pessoais e varios projetos/exercicios bem legais de cursos. 
 
 Portfolio -> https://oficial-port.vercel.app/
 
