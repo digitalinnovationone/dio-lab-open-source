@@ -26,7 +26,7 @@ O bootcamp tem tornado meus conhecimentos ainda melhores e me impulsionado a ir 
 ### Tecnologias Utilizadas por mim:
 
 - GIT 
-- GITHUB 
+- GITHUB
 - HTML
 - CSS 
 - JAVASCRIPT 
