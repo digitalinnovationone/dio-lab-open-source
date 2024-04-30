@@ -12,6 +12,7 @@ nado pela tecnologia, essa dádiva dada por Deus.
 
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+
 Obs: meus conhecimentos estão em níveis básicos em git e markdowm, já em linux estou me aprofundando cada vez mais, e posso dizer que sou um iniciante competênte
 
 ## Contate-me
