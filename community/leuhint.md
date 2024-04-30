@@ -1,7 +1,7 @@
 # Leonardo Silva 💻
 
 ## Quem sou eu: 🙋‍♂️
-Estudante de Bacharelado em Sistemas de Informação bastante dedicado e curioso...
+Estudante de Bacharelado em Sistemas de Informação bastante dedicado e curioso.
 
 ## Conecte-se comigo 👨‍💻
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-dsilva/)
