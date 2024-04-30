@@ -1,5 +1,5 @@
 # Gabriel Ramalho Lima
-Computer Science student in Federal Fluminense University from Cabo Frio-RJ, Brazil, passionate about Tecnology and Sotware Development, searching to improve my self int the area and my knoledges about programming languages.
+Computer Science student in Federal Fluminense University from Cabo Frio-RJ, Brazil, passionate about Tecnology and sotware development, searching to improve my self int the area and my knoledges about programming languages.
 
 ## Contact me
 
