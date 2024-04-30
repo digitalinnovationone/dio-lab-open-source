@@ -1,28 +1,25 @@
 
-# Silvaniabs 
-Olá, eu sou a silvania Seja bem vindo!
+# âœ®â‹†Ë™OlÃ¡, eu sou a silvania (silvaniabs)âœ®â‹†Ë™
+![image](https://github.com/silvaniabs/Repo-remoto/blob/main/download.gif)
 
-![ o gif não está carregando :(](Repo-remoto/baixar.gif)
 
-## Habilidades 
+## ~Habilidades 
 Atualmente estou estudando:
  - Python
- - Cibersegurança 
- - Computação em nuvem 
+ - CiberseguranÃ§a 
+ - ComputaÃ§Ã£o em nuvem 
 
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7E63CF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
+## ~Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7E63CF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvania-barbosa-a8b2112a7/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-7E63CF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-7E63CF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/silvaniabs)
 
-[![Gmail](https://img.shields.io/badge/Gmail-7E63CF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUGMAIL)
-
-[![X](https://img.shields.io/badge/X-7E63CF?style=for-the-badge&logo=x)](https://x.com/SEUUSERNAME)
+[![Yahoo](https://img.shields.io/badge/Yahoo-7E63CF?style=for-the-badge&logo=Yahoo&logoColor=white)](mailto:silvania_barbosa_santos@yahoo.com)
 
 
-## Github stats
+## ~Github stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Silvaniabs&theme=transparent&bg_color=BAB7A0&border_color=6A00F5&show_icons=true&icon_color=220052&title_color=801FFF&text_color=000)
 
-## Minhas contribuições 
+## ~Minhas contribuiÃ§Ãµes 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Silvaniabs&repo=dio-lab-open-source&bg_color=BAB7A0&border_color=6A00F5&show_icons=true&icon_color=220052&title_color=801FFF&text_color=000)](https://github.com/silvaniabs/dio-lab-open-source)
 
