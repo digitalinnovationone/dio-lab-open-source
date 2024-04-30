@@ -45,7 +45,5 @@
 • Santander Bootcamp 2024
 </div>
 
-<h2 align="center"> 📱 Redes sociais / Social media </h2>
-
 
 
