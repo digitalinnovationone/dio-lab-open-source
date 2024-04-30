@@ -43,5 +43,5 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8882D2&size=35&center=true&vCenter=true&width=1000&lines=Like+me+thi+profil+is+constantly+evolving.;See+you+soon!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8882D2&size=35&center=true&vCenter=true&width=1000&lines=Like+me+this+profile+is+constantly+evolving.;See+you+soon!)](https://git.io/typing-svg)
  
