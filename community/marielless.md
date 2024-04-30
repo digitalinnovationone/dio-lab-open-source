@@ -1,4 +1,6 @@
-# Marielless
+# Olá, eu sou Marielle Santos!
+Estudante de Análise e Desenvolvimento de Sistemas na Universidade Mackenzie.
+
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marielle-santos-3abb14275/)
