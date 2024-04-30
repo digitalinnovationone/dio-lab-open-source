@@ -1,6 +1,5 @@
 ## Sobre mim
-Me chamo Fernanda, sou graduada em processos gerenciais e análise e desenvolvimento de sistemas.
-Trabalho como analista de sistema a aproximadamente 3 anos, iniciei na área de tecnologia como QA onde pude aprender a ter um olhar mais analítico e criterioso dos processos, gostei bastante de atuar como QA mas queria me desafiar um pouco e entrei para área de DEV. Trabalhar com tecnologia tem sido importante para mim pois cada dia aprendo algo novo.
+Me chamo Fernanda, sou graduada em processos gerenciais e análise e desenvolvimento de sistemas. Trabalho como analista de sistema a aproximadamente 3 anos, iniciei na área de tecnologia como QA onde pude aprender a ter um olhar mais analítico e criterioso dos processos, gostei bastante de atuar como QA mas queria me desafiar um pouco e entrei para área de DEV. Trabalhar com tecnologia tem sido importante para mim pois cada dia aprendo algo novo.
 
 ##  💻 Tecnologias
 - Linguagens de marcação e estilos: HTML, CSS, Markdown
