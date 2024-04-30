@@ -16,7 +16,7 @@ Linkedin: {https://www.linkedin.com/in/amanda-martins-89944a304/}
 ### Ferramentas e Tecnologias
 
 No momento não me considero proficiente em nenhuma linguagem, porém tenho conhecimentos básicos em:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100" height="40" />
+Java
+VSCode
 
 Obrigada por ler até aqui, até a próxima ✌️
