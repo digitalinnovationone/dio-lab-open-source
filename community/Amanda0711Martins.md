@@ -17,6 +17,6 @@ Linkedin: {https://www.linkedin.com/in/amanda-martins-89944a304/}
 
 No momento não me considero proficiente em nenhuma linguagem, porém tenho conhecimentos básicos em:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src=https://user-images.githubusercontent.com/91420997/171313375-1bbbf97c-757c-497e-95c8-06ffe2714a4d.gif width="100" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100" height="40" />
 
 Obrigada por ler até aqui, até a próxima ✌️
