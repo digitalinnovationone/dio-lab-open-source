@@ -20,4 +20,4 @@
 
 >Desde cedo, busquei capacitação na área de tecnologia. Realizei cursos técnicos em Edificações e Manutenção e Suporte de Informática, além de cursos extracurriculares em Informática e Gestão Empresarial.
 
->Meu primeiro contato com programação foi com um simples "Hello world" no meu primeiro curso técnico. Ainda me lembro da sensação de me sentir como nos filmes de hackers e ação. Foi nesse momento que percebi que queria seguir carreira na área de tecnologia. Ela me fascinou de uma forma que até hoje não sei explicar.
+>Meu primeiro contato com programação foi com um simples "Hello world" no meu primeiro curso técnico. Ainda me lembro da sensação de me sentir como nos filmes de hackers e ação. Foi nesse momento que percebi que queria seguir carreira na área de tecnologia. Ela me fascinou de uma forma que até hoje não sei explicar..
