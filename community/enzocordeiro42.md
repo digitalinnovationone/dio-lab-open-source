@@ -1,5 +1,5 @@
 # enzo cordeiro
-a
+:)
 
 ## minhas contas
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/enzocordeiro42)
