@@ -1,3 +1,0 @@
-# Olá! Bem vindos ou bem vindas!
-
-Me chamo Noemi de Souza, tenho 20 anos e comecei minha carreira tec aos 19 anos, estudando de forma independente e totalmente curiosa, atualmente estudo na trybe e já tenho meu certificado de fundamentos desenvolvedor web, estando agora no modulo de front end! Confesso que sou mais apaixonada pelo back-end e fiquei super feliz pela oportunidade de participar desse bootcamp em parceria com a Dio, uma plataforma que já estava "namorando" faz um tempo.
