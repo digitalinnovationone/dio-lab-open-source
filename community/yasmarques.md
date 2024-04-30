@@ -4,7 +4,7 @@
   <h1>
 # H3ll0 W0RLD!
   </h1>
-<img alt="banner" src="https://github.com/yasmarques/yasmarques/assets/100882581/d2c399af-c611-48b6-8729-5ae21d826156"> <br>
+<img alt="banner" src="https://private-user-images.githubusercontent.com/100882581/260871220-d2c399af-c611-48b6-8729-5ae21d826156.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ0Mjk4NjksIm5iZiI6MTcxNDQyOTU2OSwicGF0aCI6Ii8xMDA4ODI1ODEvMjYwODcxMjIwLWQyYzM5OWFmLWM2MTEtNDhiNi04NzI5LTVhZTIxZDgyNjE1Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyOVQyMjI2MDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01NzE4Y2NlOWM3OTM1ZTUyZTY1MmJiZmFmYTJiYzQwMDM5Nzc0ZDU5ZDUwMGY2OGFiNjg3NzFhYjJkZWM5OTg1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.qEs7eTKkSS0niFoc0GwAKK3GrkrGJmT6yP_OeFpaohk"> <br>
   🍄 <b>Currently Learning:</b> JavaScript and Python <br>
   ✉️ <b>Reach me at:</b> yasmin.marquestito14@gmail.com <br>
   
