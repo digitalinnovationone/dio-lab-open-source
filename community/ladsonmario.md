@@ -1,5 +1,4 @@
 # Ladson Araujo
-
 <img align="right" width="auto" height="100" src="https://user-images.githubusercontent.com/82732587/146111649-7a090244-74e2-47ef-8e28-7d768f9a87f0.png">
 Um arquiteto das ideias enigmáticas, cujo talento se traduz em linhas de código tão intrigantes quanto o próprio mistério da existência. Minha trajetória é um labirinto de experiências incomuns e conquistas ocultas, esperando para serem desvendadas. Abra as portas para descobrir os segredos por trás do código e revelar a mente por trás da tela.
 
