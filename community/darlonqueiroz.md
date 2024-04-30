@@ -9,7 +9,6 @@
 💻 I still don't work in the area, but I'm looking to migrate to the technology area, acquiring knowledge with personal projects.</br>
 🏢 I intend to set up a company focused on games and the metaverse.
 
-
 # Artigos
 |Abordagem| Tema |
 | :---: | :--- |
@@ -56,7 +55,7 @@
 </p>
 
 
-# Social Mídia
+# # Contact
 
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/darlon.paradgma/)
