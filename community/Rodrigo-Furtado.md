@@ -21,11 +21,11 @@
 
 </div>
 
-<h3 align="center">Skills</h3>
+<h3 align="center">Learning</h3>
 
 <div align="center">
   
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=30A3DC)
 
 </div>
 
