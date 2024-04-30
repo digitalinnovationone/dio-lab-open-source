@@ -6,8 +6,8 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=4B0082)](https://www.instagram.com/paulopess_)
 
 
-[![Paulo Lopes GitHub stats](https://github-readme-stats.vercel.app/api?username=paulopes1&theme=dracula&bg_color=4B0082&icon_color=fff&border_color=fff&show_icons=true&title_color=fff&text_color=fff&hide_title=true)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulopes1&layout=donut&theme=dracula&bg_color=4B0082&icon_color=fff&border_color=fff&show_icons=true&title_color=fff&text_color=fff&hide_title=trues)]
+![Paulo Lopes GitHub stats](https://github-readme-stats.vercel.app/api?username=paulopes1&theme=dracula&bg_color=4B0082&icon_color=fff&border_color=fff&show_icons=true&title_color=fff&text_color=fff&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulopes1&layout=donut&theme=dracula&bg_color=4B0082&icon_color=fff&border_color=fff&show_icons=true&title_color=fff&text_color=fff&hide_title=trues)
 
 ## Main skills
 <div style="display: inline_block>"><br/>
