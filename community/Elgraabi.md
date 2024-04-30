@@ -1,5 +1,5 @@
 
-# Gabriel Oliveir
+# Gabriel Oliveira
 
 ## Desenvolvedor FullStack
 
