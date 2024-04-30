@@ -1,4 +1,4 @@
-# SERGIO BISPO BOMFIM
+# Olá, sou Sérgio Bispo 
 
 Tenho 42 anos, recomecei a pouco tempo minha jornada em tecnologia, porém com algumas noções em programação advinda de um curso que fiz há 12 anos. Atualmente
 curso **Administração de Banco de Dados no Senai - DF**.
