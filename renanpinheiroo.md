@@ -1,6 +1,6 @@
 Hello World ! 
 
-My name is Renan Almeida, I'm studying computer programming at Georgian College and I completed the Java bootcamp from Santander. My first "Hello World" was in 2023, when I decided to switch to the technology field. Since then, I've been continuously developing myself.
+My name is Renan Almeida, I'm studying computer programming at Georgian College and the Java bootcamp from Santander. My first "Hello World" was in 2023, when I decided to switch to the technology field. Since then, I've been continuously developing myself.
 
 
 <h3 align="left">
