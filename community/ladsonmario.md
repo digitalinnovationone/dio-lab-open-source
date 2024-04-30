@@ -1,4 +1,5 @@
 # Ladson Araujo
+
 <img align="right" width="auto" height="100" src="https://user-images.githubusercontent.com/82732587/146111649-7a090244-74e2-47ef-8e28-7d768f9a87f0.png">
 Um arquiteto das ideias enigmáticas, cujo talento se traduz em linhas de código tão intrigantes quanto o próprio mistério da existência. Minha trajetória é um labirinto de experiências incomuns e conquistas ocultas, esperando para serem desvendadas. Abra as portas para descobrir os segredos por trás do código e revelar a mente por trás da tela.
 
@@ -7,6 +8,10 @@ Um arquiteto das ideias enigmáticas, cujo talento se traduz em linhas de códig
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](ladson.mario@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/ladsonmario/)
 [![Facebook](https://img.shields.io/badge/-Facebook-000?style=for-the-badge&logo=facebook&logoColor=30A3DC)](https://www.facebook.com/ladsonmario/)
+
+
+### Atuação profissional
+Developer em [Athan](https://athan.cc/).
 
 ### Habilidades
 
