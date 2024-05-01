@@ -19,12 +19,12 @@ Aprender o básico sobre contribuição no GitHub.
 ## Percurso
 <table>
   <thead>
-    <tr align="right">
+    <tr align="left">
       <th>Nº</th>
       <th>Etapas</th>
     </tr>
   </thead>
-  <tbody align="right">
+  <tbody align="left">
     <tr>
       <td>01</td>
       <td>Introdução ao Lab</td>
