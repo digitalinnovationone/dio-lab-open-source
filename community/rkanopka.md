@@ -22,6 +22,6 @@
 
 ## GitHub Stats
 
-![Alan Machado's GitHub stats](https://github-readme-stats.vercel.app/api?username=1amAlan&theme=tokyonight&_icons=true&hide_title=true)
+![Robson Kanopka GitHub stats](https://github-readme-stats.vercel.app/api?username=rkanopka&theme=tokyonight&_icons=true&hide_title=true)
 
 
