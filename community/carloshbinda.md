@@ -29,3 +29,10 @@ Estou buscando uma transição de carreira para a área de tecnologia da informa
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=carloshbinda&show_icons=true&theme=radical)](seu_perfil_no_github)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carloshbinda&layout=compact&theme=radical)](seu_perfil_no_github)
+
+
+| Idioma      |Lê       | Escreve | Fala   |
+|-------------|---------|---------|--------|
+| Inglês 🇺🇸   | ✔️       | ✔️       | ✔️      |
+| Italiano 🇮🇹 | ✔️       | ✔️       | ✔️      |
+| Português 🇧🇷| ✔️       | ✔️       | ✔️      |
