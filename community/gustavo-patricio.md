@@ -13,7 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-patricio-dev-backend/) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavo-patricio)
 
-Olá sou estudante de Ciência da Computação. Desenvolvo projetos principalmente na área de BackEnd. Ja atuei no desenvolvimento de projetos pessoais e acadêmicos. **Sou curioso e adoro estudar e inovar sempre**.
+Olá sou estudante de Ciência da Computação. Desenvolvo projetos principalmente na área de BackEnd. Já atuei no desenvolvimento de projetos pessoais e acadêmicos. **Sou curioso, adoro estudar e inovar sempre**.
 
 
 # Projetos
