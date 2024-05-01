@@ -1,5 +1,5 @@
 # gustavo miguel villagra
-![Gustavo Miguel Villagra](/utils/assest/foto-gustavo.jpg) Olá a todos,
+ Olá a todos,
 
 Meu nome é Gustavo . Sou argentino, tenho 34 anos, e atualmente estou vivendo no Brasil. Desde pequeno, sempre tive uma paixão pela programação, mas nunca tive a oportunidade de parar e estudar profundamente até recentemente.
 
