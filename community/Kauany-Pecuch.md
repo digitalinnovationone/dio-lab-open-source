@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=81a473&width=435&lines=Olá!+Me+chamo+Kauany+Pecuch.;+Bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
+
 <img align="center" padding="0" src="https://i.pinimg.com/originals/e5/bd/3a/e5bd3a2f2cf2f6f4dad0f531b92564be.gif">
 
 ## | Sobre Mim
