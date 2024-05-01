@@ -1,16 +1,5 @@
 # Gustavo Patrício de Oliveira
 
-<style>
-    /*Gradiente color*/
-    body{
-
-        background: rgb(2,0,36);
-        background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(92,9,121,1) 35%, rgba(99,59,219,1) 100%);
-        color: #FFFFFF;
-    }
-</style>
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-patricio-dev-backend/) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavo-patricio)
 
 Olá sou estudante de Ciência da Computação. Desenvolvo projetos principalmente na área de BackEnd. Já atuei no desenvolvimento de projetos pessoais e acadêmicos. **Sou curioso, adoro estudar e inovar sempre**.
