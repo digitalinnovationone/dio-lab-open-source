@@ -2,7 +2,7 @@
 
 ## Quem sou eu?
 
-Com uma formação em andamento em Ciência da Computação, estou ansioso para ingressar na área da tecnologia em 2024. Embora eu ainda não tenha experiência profissional na área, estou determinado a iniciar minha jornada e aprender o máximo possível ao longo do caminho.
+Com uma formação em andamento em Ciências da Computação, estou ansioso para ingressar na área da tecnologia em 2024. Embora eu ainda não tenha experiência profissional na área, estou determinado a iniciar minha jornada e aprender o máximo possível ao longo do caminho.
 
 Tenho dedicado tempo e esforço para aprimorar minhas habilidades em HTML, CSS e JavaScript, reconhecendo sua importância fundamental no desenvolvimento web e de software. Além disso, estou comprometido em expandir meu conhecimento e domínio dessas linguagens, bem como explorar outras áreas relevantes da tecnologia.
 
