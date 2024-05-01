@@ -4,7 +4,9 @@
 Sou a Priscila, estudante do último semestre de Análise e Desenvolvimento de Sistemas &#127891;. 
 
 Estou compartilhando com você um pouco do meu percurso e projetos.
-
+<p align="center">
+  <img src="https://i.imgur.com/zb8Ybms.gif" alt="Descrição do GIF">
+</p>
 
 ## &#127760; Conecte-se comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](://www.linkedin.com/in/priscilamessias) 
