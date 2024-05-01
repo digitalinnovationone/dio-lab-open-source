@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou {Bruno Augusto}
+# 👋 Olá, eu sou Bruno Augusto
 
 ## 💼 Perfil Profissional
 
