@@ -16,6 +16,7 @@
    - Mercado de trabalho:
 	  - Estágio em Suporte Técnico de Telecomunicação (N1) - Nevoli Telecom
 	  - Bolsista PROAD como Assistente Administrativo - UFPA
+      - Estagiário em Data & Analitycs - Compass UOL
 
 - Projetos:
   - Projeto Balance: Sistema fullstack desenvolvido na UFPA, com objetivo de recolher dados via aplicativo e ser mostrado via WEB, realizei a atividade de desenvolver o Front End utilizando React.js para mostrar os dados recolhidos;
