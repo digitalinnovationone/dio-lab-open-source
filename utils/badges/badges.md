@@ -34,7 +34,7 @@
   <tbody align="left">
     <tr>
       <td>
-        <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+        <img align="center" alt="LinkedIn" src="https://www.linkedin.com/in/kauan-serracine/">
       </td>
       <td>
         <code>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)</code>
@@ -82,7 +82,7 @@
     </tr>
     <tr>
       <td>
-        <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+        <img align="center" alt="GitHub" src="https://github.com/kauanserracine">
       </td>
       <td>
         <code>[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)</code>
