@@ -1,4 +1,4 @@
-## Olá eu sou o Douglas Rodrigues da Cunha, DG DEV, iniciando a minha jornada em desenvolvimento de hogos com Godot
+## Olá, eu sou o Douglas Rodrigues da Cunha, DG DEV, iniciando a minha jornada em desenvolvimento de hogos com Godot
 <div align="center">
   <a href="https://github.com/douglasrcunha">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=douglasrcunha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
