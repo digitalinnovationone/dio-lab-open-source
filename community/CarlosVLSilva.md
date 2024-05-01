@@ -1,6 +1,6 @@
 ![imagem da foto de perfil do meu GitHub](https://avatars.githubusercontent.com/u/159199472?v=4)
 # Meu nome é Carlos Silva, professor, escritor e estudante de ADS.  
-Enquanto professor, leciono aulas de inglês desde 2018 para crianças e jovens. Nos últimos anos tenho trabalhado em uma das principais escolas do país auxiliando jovens a entrarem nas maiores universidades do país e do mundo. 
+Enquanto professor, dou aulas de inglês desde 2018 para crianças e jovens. Nos últimos anos tenho trabalhado em uma das principais escolas do país auxiliando jovens a entrarem nas maiores universidades do país e do mundo. 
 
 Desde jovem sou apaixonado por literatura e em 2020 realizei o sonho de publicar um livro de poesia. Hoje, busco escrever contos e crônicas para publicá-los em revistas e periódicos.  
 
