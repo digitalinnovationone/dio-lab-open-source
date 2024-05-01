@@ -7,8 +7,8 @@ Olá, eu sou o Douglas, tenho conhecimento prévio em C# e Visual Studio e estou
 
 ## Habilidades
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/languages/csharp)
-[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5d2b90?style=for-the-badge&logo=visualstudio&logoColor=white)](https://dotnet.microsoft.com/languages/csharp)
-[![Godot](https://img.shields.io/badge/Godot-478cbf?style=for-the-badge&logo=godotengine&logoColor=white)](godotengine.org/)
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5d2b90?style=for-the-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com)
+[![Godot](https://img.shields.io/badge/Godot-478cbf?style=for-the-badge&logo=godotengine&logoColor=white)](https://godotengine.org/)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DouglasRbto&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
