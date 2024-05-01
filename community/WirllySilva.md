@@ -1,4 +1,4 @@
-# Hello, I'm Wirlly Silva :nerd_face:
+# Hello, I'm Wirlly Silva
 
     I'm currently pursuing my degree in Software Engineering
 
