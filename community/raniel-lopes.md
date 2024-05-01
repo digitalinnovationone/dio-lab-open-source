@@ -1,9 +1,9 @@
-<h1> Raniel Lopes - Software Engineer </h1>
+<h1> Raniel Lopes - Software Engineer :) </h1>
 
 |||
 |:-:|:-:|
 |<img width=175 src="https://i.imgur.com/6LSVRDp.jpg">|<p>Olá! Eu sou um estudante de Engenharia de Software no meu primeiro semestre. É um prazer ter você aqui, me chame pelo nome.</p> <p>Estou apenas começando minha jornada na área de desenvolvimento de software e estou muito animado para aprender mais sobre esse mundo fascinante.</p><p>Quer saber mais sobre mim? Continue lendo!</p>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raniel-lopes/)
 ## Índice
 
 - ### 1. Profissional
