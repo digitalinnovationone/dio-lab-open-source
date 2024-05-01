@@ -16,7 +16,6 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ramzablv&layout=compact&bg_color=282828&border_color=ffffff&title_color=fabd2f&text_color=8ec07c)
 
-
 ## Git Status
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramzablv&theme=gruvbox&show_icons=true?)
