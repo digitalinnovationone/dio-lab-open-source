@@ -1,6 +1,6 @@
 
 # Alan Oliveira R. Santiago
-Meu nome é Alan Oliveira Rocha Santiago, sou estudante de Analise e Desenvolvimento de Sistemas e tenho como objetivo uma vaga de estagio para iniciar na área de tecnologia.
+Meu nome é Alan Oliveira Rocha Santiago, sou estudante de Analise e Desenvolvimento de Sistemas e tenho como objetivo uma vaga de estágio para iniciar na área de tecnologia.
 ## Conecte-se comigo
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail)](mailto:alanorsantiago10@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alanorsantiago/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alan-Santiago2004)
 ## Habilidades
