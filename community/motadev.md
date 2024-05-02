@@ -1,0 +1,3 @@
+# Lucas Mota
+## Sobre Mim
+# Discente da Unifesspa de Marabá-Pará. Naturalizado e crescido em Rondon do Pará, sair em buscar de novos conhecimentos e além do mais atrás dos meus objetivos para se tornar um Desenvolvedor Backend. Tenho 19 Anos e me encontro no 3º Periodo em SISTEMAS DE INFORMÇÃO no campus ll e faço estagio na FACULDADE DOS CARAJAS dando o meu suporte na direção academica e o que for relacionado ao T.I
