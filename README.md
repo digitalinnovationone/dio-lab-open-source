@@ -42,7 +42,7 @@ Aprender o básico sobre contribuição no GitHub.
       <td>Dicas e Materiais de Apoio</td>    
     </tr>
        <tr>
-      <td>04</td>
+      <td>05</td>
       <td>Explicação Sobre a Automação dos PRs</td>    
     </tr>
   </tbody>
