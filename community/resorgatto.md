@@ -28,7 +28,7 @@
  joshxfi</a>
   - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
  
-  <div align="right">Made by <a href="https://github.com/resorgatto">resorgatto</a>.</div>
+  <div align="right">Made by <a href="https://github.com/resorgatto"> resorgatto</a>.</div>
 
 </details>
 
