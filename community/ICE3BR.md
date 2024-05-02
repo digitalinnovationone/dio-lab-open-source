@@ -30,9 +30,8 @@ Estou interessado em colaborar com você em projetos emocionantes e desafiadores
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ICE3BR&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ICE3BR&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
 
-### Repositórios 🗃️
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ICE3BR&repo=Gerador-de-senhas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ICE3BR/Gerador-de-senhas)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ICE3BR&repo=Site-de-Noticias-Cidade&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ICE3BR/Site-de-Noticias-Cidade) 
+### Minhas Contribuições 🤝
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ICE3BR&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ICE3BR/dio-lab-open-source)
 
 ## Contato 📫
 &nbsp;<a href="https://www.linkedin.com/in/gustavoaquinup2005">
