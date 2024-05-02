@@ -14,8 +14,6 @@ Hello World! | User: Jhoão Pedro
 
 <div display="flex">
 <a><img width="20%" height="20%" src="https://i.imgur.com/iVtfjgO.png" target ="_blank"></a>
-
-
 <div>
 
 ### Social Media
