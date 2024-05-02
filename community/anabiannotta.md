@@ -18,42 +18,15 @@ Formada em Análise e Desenvolvimento de Sistemas, com experiência em refatora�
 Atualmente estou seguindo novos caminhos, para aprofundar meus conhecimentos em cloud computing.<br>
 Possuo 3x AWS Cloud Certified.<br>
 
+<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" height="100px"/> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" height="100px"/> <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" height="100px"/>
+
 # GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      Temas
-    </td>
-    <td>
-       <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md">
-          github-readme-stats/themes/README.md
-       </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Fonte
-    </td>
-    <td>
-       <a href="https://github.com/anuraghazra/github-readme-stats">
-          anuraghazra/github-readme-stats
-       </a>
-    </td>
-  </tr>
-</table>
-
 ## Card - Stats
-
-| Preview | Parameters |
-|:-------:|:----------:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anabeatriziannotta&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) | `theme=transparent` `bg_color=000` `border_color=30A3DC` `show_icons=true` `icon_color=30A3DC` `title_color=E94D5F` `text_color=FFF`|
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anabeatriziannotta&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Card - Most Used Languages
 ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anabeatriziannotta&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-```
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-```
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Ana</a>.</div>
