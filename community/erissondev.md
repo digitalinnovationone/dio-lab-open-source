@@ -14,5 +14,5 @@
 - ⚡ Fun fact: I'm a tech enthusiast always searching for new tools to improve workflow.
 
 ## My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=light)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=erissondev&show_icons=true&theme=light)
 
