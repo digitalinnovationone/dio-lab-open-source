@@ -1,6 +1,6 @@
 # Perfil Pessoal - Danton Soares
 
-Olá, sou o Danton Silveira Soares, sou bacharel em Sistemas de Informação e sigo buscando conhecimento para aprimorar minha carreira na área.
+Olá, sou o Danton Silveira Soares, sou bacharel em Sistemas de Informação pela Universidade Federal de Viçosa (UFV) e sigo buscando conhecimento para aprimorar minha carreira na área.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danton-soares99/)
