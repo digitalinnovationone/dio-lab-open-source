@@ -1,15 +1,13 @@
 # Descrição
 
-Desafio;
-Adicionando novo percurso;
-Adicionando link utilitario para README (readme.so).
+Descrição da alteração que está sendo proposta.
 
 ## Tipo de alteração
 
 - [x] Resolução do Desafio Profile README (envie APENAS o arquivo `community/SEU_USERNAME.md`)
 - [ ] Correção de bug
-- [x] Nova funcionalidade
-- [x] Alteração na documentação
+- [ ] Nova funcionalidade
+- [ ] Alteração na documentação
 - [ ] Outro (especifique)
 
 ## Checklist
