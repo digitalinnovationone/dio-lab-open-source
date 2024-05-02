@@ -3,7 +3,6 @@
 ~~~javascript
 Hello World! | User: Jhoão Pedro 
 ~~~
-
 </div>
 
 <div align="center">
