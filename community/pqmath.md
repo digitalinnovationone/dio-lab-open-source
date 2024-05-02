@@ -2,7 +2,7 @@
 
 Sou Matheus, apaixonado por games e gatos 😻.
 Estou buscando me profissionalizar e virar especialista em Java, linguagem pela qual eu mais amo.
-Também falo inglês intermediário.
+Também falo inglês à nivel intermediário.
 Ainda atrás da minha primeira experiência profissional. Abaixo fica alguns dos meus conhecimentos 🔽.
 
 
