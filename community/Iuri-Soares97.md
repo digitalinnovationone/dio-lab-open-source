@@ -6,7 +6,7 @@
 - Atualmente sou barmen
 - Trabalho com Freelancer em pequenos projetos
 
-##Habilidades
+##Habilidades##
 Java script
 Type script
 NodeJs
