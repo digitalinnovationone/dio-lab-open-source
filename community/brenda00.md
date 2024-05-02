@@ -34,7 +34,7 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  Tecnologias = ["Scala, Python, R, Java, Pandas, Spark, Nifi, AWS, SQL, Jupyter notebook, Trello, Rstudio, Git, Github, IntelliJ"];
+  Tecnologias = ["Scala, Python, R, Java, Pandas, Spark, AWS, SQL, Jupyter notebook, Rstudio, Git, Github, IntelliJ"];
   Formacoes   = ["Ciencia da computação, Sistemas Biomédicos, Pós em engenharia de dados"];
   Embaixadora = ["DIO, ADA, SPC Brasil"];
   Comunidades = ["GDG Santos"];
