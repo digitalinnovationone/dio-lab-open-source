@@ -1,4 +1,4 @@
-##### Seja bem-vindo ao meu perfil da projeto DIO! Me chamo,
+##### Seja bem-vindo ao meu perfil do projeto DIO! Me chamo,
 # Lucas Antônio Ribeiro
 
 ### Nos dias de hoje atuo e estudo:
