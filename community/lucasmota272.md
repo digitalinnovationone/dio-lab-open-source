@@ -1,3 +1,0 @@
-# Lucas Mota
-## Sobre Mim
-
