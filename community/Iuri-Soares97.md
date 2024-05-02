@@ -7,12 +7,12 @@
 - Trabalho com Freelancer em pequenos projetos
 
 ##Habilidades##
--Java script
--Type script
--NodeJs
--React Native
--Android studio
--kotlin
--aws cloud
+- Java script
+- Type script
+- NodeJs
+- React Native
+- Android studio
+- kotlin
+- Aws cloud
 
 
