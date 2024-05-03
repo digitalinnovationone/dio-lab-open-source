@@ -7,7 +7,9 @@ Technical support, team or independent work.
 
 |Contact Me|
 |-|
-|[![LinkedIn](https://img.shields.io/badge/Profile-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/andy-cusatti/)|[![GitHub](https://img.shields.io/badge/CVN-GitHub-black?logo=github)](https://github.com/macuare/dio-lab-open-source)|[![GitLab](https://img.shields.io/badge/CVN-GitLab-orange?logo=gitlab)](https://gitlab.com/macuare)|
+|[![LinkedIn](https://img.shields.io/badge/Profile-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/andy-cusatti/)
+|[![GitHub](https://img.shields.io/badge/CVN-GitHub-black?logo=github)](https://github.com/macuare/dio-lab-open-source)
+|[![GitLab](https://img.shields.io/badge/CVN-GitLab-orange?logo=gitlab)](https://gitlab.com/macuare)|
 
 
 ## 🚀 Professional Experience
@@ -58,18 +60,6 @@ Technical support, team or independent work.
 |10/03/2008|IBM|[IT and Networking Fundamentals](https://www.ibm.com/certify/certs?unit=IBM%20Collaboration%20Solutions%20and%20Social%20Business)|SN: VEUNEFACG009315|
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## 🛠 Skills
 **Programming** 
 - Java 7,8,11,17; JavaFX 8,11
@@ -78,10 +68,12 @@ Technical support, team or independent work.
 - C, C#, JavaScript, Html5, Bootstrap
 - Jquery , Android
 - Assembler
+
 **Data Base**
 - MySQL, SQL Server
 - H2, derby , SQLite
 - Firebase
+
 **Cloud**
 - Google Engine
 - Google Script
@@ -90,8 +82,10 @@ Technical support, team or independent work.
 - Godaddy
 - RestApi
 - Hasura
+
 **Servers**
 - GlassFish 4, WildFly 10, Apache Tomcat 9
+
 **Platforms**
 - Eclipse, Netbeans , IntelliJ
 - MonoDevelop
@@ -99,11 +93,13 @@ Technical support, team or independent work.
 - Genymotion
 - Java Scene Builder 8,11,17
 - Docker
+
 **Games**
 - Godot 4
 - Blender 4
 - Shaders GLSL
 - Graphics Computing
+
 **Simulation**
 - Matlab R2014a
 - Proteus 8 profesional
@@ -116,11 +112,13 @@ Technical support, team or independent work.
 - Arduino
 - Microchip
 - RSView Studio
+
 **OS**
 - Ubuntu, Ubuntu Server
 - Centos
 - Windows 8,10,11
 - Oracle VirtualBox
+
 ## 👋 Acknowledgements
 
 |Year|Congress|Research|
