@@ -1,6 +1,6 @@
 # Apresentação
 
-Olá! Sou Ronald Gustmann, um entusiasta de tecnologia e desenvolvedor de software determinado a me especializar em desenvolvimento backend. Atualmente, estou cursando Sistemas de Informação na faculdade e dedicando-me a expandir meu conhecimento e habilidades na área.
+Olá! Sou Ronald Gustmann, um entusiasta de tecnologia e desenvolvedor de software determinado a me especializar em desenvolvimento backend. Atualmente, estou cursando Sistemas de Informação na faculdade e dedicando-me a expandir meu conhecimento e habilidades na área
 
 ## Sobre Mim
 
