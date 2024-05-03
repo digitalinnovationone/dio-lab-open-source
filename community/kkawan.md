@@ -2,7 +2,7 @@
 Olá, eu sou o Kawan, atualmente estudante de Ciências da Computação e buscando me desenlvolver profisonalmente no mercado.
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-e3d1b2?style=for-the-badge&logo=linkedin&logoColor=986c3c)](https://www.linkedin.com/in/SEUUSERNAME/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-e3d1b2?style=for-the-badge&logo=linkedin&logoColor=986c3c)](https://www.linkedin.com/in/kawan-shigueo-watanabe/)
 [![GitHub](https://img.shields.io/badge/GitHub-e3d1b2?style=for-the-badge&logo=github&logoColor=986c3c)](https://github.com/kkawan)
 ## Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-e3d1b2?style=for-the-badge&logo=html5&logoColor=986c3c)
