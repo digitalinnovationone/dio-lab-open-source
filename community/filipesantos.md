@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Oi+Seja+Bem+Vindo+ao+Meu+Perfil;https%3A%2F%2Fgithub.com%2Ffilipebina)]
+# Sejam Bem vindos ao Meu Perfil
 
 ## Me chamo Filipe de Souza Santos, e sou um estudante de desenvolvimento de Software.
 
