@@ -1,3 +1,4 @@
+
 # Cusatti M. Andy A.
 Professional with over
 15 years of expertise in hardware and software development. Willing to travel and relocate as necessary.
@@ -21,7 +22,7 @@ Technical support, team or independent work.
 |01/09/2007 - 10/10/2022|Freelancer (EEUU, España, Costa Rica, Mexico, Colombia, Guatemala, Chile)|Java Developer Project Leader, Database Development MySql H 2 Derby, Json Firebase Technical Support Web Services (Digital Ocean Google Cloud), Micro services (Spring FrameWork boot e Comerce Godaddy Vps Configuration Firewall( CloudFlare SSL Certificates Cloud Service DigitalOcean Maintenance and bug fixes Development Android app, Desktop(Java, JavaFx and Games ( Godot, Android, JavaFx Google Engine App Excel PLC and Process Automation with microcontrollers|
 |22/01/2007 - 01/06/2007|NESTLE (Venezuela)|Process automation with PLC 5, SLC 500, Control Logix , PanelVIew Plus. Maintenance systems.|
 
-## 👩‍💻 Education
+## 🧠 Education
 
 |Date|Degree|
 |-|-|
@@ -29,7 +30,7 @@ Technical support, team or independent work.
 |01/10/2007 - 26/08/2009|Specialist Software Development and Application e bussines . TIC (IBM)|
 |01/09/2002 - 21/09/2007|Bachelorof Science in Electronic Engineering . (UNEFA)|
 
-## 🔗 Certifications
+## ⚡️Certifications
 |Date|Institution|Certification|Serial Number|
 |-|-|-|-|
 |27/04/2024|Blender|[Blender 4.0 Essential Trainning](https://www.linkedin.com/learning/certificates/57618e9b1ea98543ccd748fd9c3cb7b124861f4c66a04190dfccc49ab8ff588c)|SN: 57618e9b1ea98543ccd748fd9c3cb7b124861f4c66a04190dfccc49ab8ff588c|
@@ -55,6 +56,18 @@ Technical support, team or independent work.
 |15/05/2009|IBM|[Application Development](https://www.ibm.com/certify/certs?unit=IBM%20Collaboration%20Solutions%20and%20Social%20Business)|SN: VEUNEFACG016206|
 |15/01/2009|IBM|[Programming Fundamentals](https://www.ibm.com/certify/certs?unit=IBM%20Collaboration%20Solutions%20and%20Social%20Busines)|SN: VEUNEFACG013893|
 |10/03/2008|IBM|[IT and Networking Fundamentals](https://www.ibm.com/certify/certs?unit=IBM%20Collaboration%20Solutions%20and%20Social%20Business)|SN: VEUNEFACG009315|
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## 🛠 Skills
@@ -108,7 +121,6 @@ Technical support, team or independent work.
 - Centos
 - Windows 8,10,11
 - Oracle VirtualBox
-
 ## 👋 Acknowledgements
 
 |Year|Congress|Research|
