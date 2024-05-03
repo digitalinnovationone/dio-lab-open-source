@@ -1,6 +1,8 @@
 # 👋 Olá! Sou o Diogo Silva
 
-<br><br>🌟 Apaixonado por Desenvolvimento de Software<br><br>🚀 Iniciante na área, em busca de aprender e colaborar<br><br>📚 Sempre em busca de conhecimento e crescimento<br><br>📫 Entre em contato:
+<br><br>🌟 Apaixonado por Desenvolvimento de Software<br><br>🚀 Iniciante na área, em busca de aprender e colaborar<br><br>📚 Sempre em busca de conhecimento e crescimento<br><br>
+
+📫 Entre em contato:
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:diogo.jcs@hotmail.com.br)
 
