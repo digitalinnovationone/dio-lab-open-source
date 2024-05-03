@@ -43,9 +43,10 @@
     > Se tudo estiver certo, irá aparecer um template, que contém botões de múltipla escolha referente ao seu tipo de alteração, checklist e também comentários adicionais se você achar que seja bom acrescentar. Assim, quando você concluir, é somente você apertar o "Create Pull Request" que fica abaixo dessa caixa de texto e esperar a resposta do bot do Github Actions dizendo se seu PR (Pull Request) foi aceito ou não.
     > Em caso de aprovação o bot irá disponibilidar o link do repositório com a opção de copiar, volte na plataforma da DIO e entregue seu projeto.
     
-## <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30px" height="30px"> Convenção de Commits 
+## <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30px" height="30px"> 
 
-| Tipo de Commit | Descrição                                                            | Exemplo
+## Convenção de Commits
+| Tipo de Commit | Descrição                                                            | 
 | ---------------|----------------------------------------------------------------------|-----------
 | `feat`         | Adiciona uma nova funcionalidade ao projeto.                         | `feat: add USENAME.md profile`
 | `fix`          | Corrige um bug ou problema no projeto.                               | `fix: fixed issue fix#IssueNumber`
