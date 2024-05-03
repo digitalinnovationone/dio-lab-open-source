@@ -12,7 +12,7 @@
 
 ## Sobre Mim
 
-Me chamo Bruno Phelipe Gusmão Mulim, sou advogado, mas desde criança gostei de tecnologia, meu primeiro contato com computadores foi através de um curso de montagem e manutenção de computadores e redes e a partir desse curso, sempre busquei me manter antenado com tecnologias.
+Me chamo Bruno Phelipe Gusmão Mulim, sou advogado, mas desde criança gostei de tecnologia, meu primeiro contato com computadores foi através de um curso de montagem e manutenção de computadores e redes e a partir desse curso, sempre busquei me manter atualizado com tecnologias, e sempre possivel adicionando conhecimento.
 
 Mesmo sendo apaixonado por informática, tentei trilhar o mesmo caminho do meu maior mentor, meu pai, que é advogado, contudo, trabalhando na área, como advogado a quase 10 anos não estava feliz com a profissão, então busquei algo que gostava de fazer com algo que ue pudesse fazer uma carreira.
 
