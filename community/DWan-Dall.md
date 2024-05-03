@@ -23,4 +23,4 @@ Não hesite em entrar em contato para discutir ideias ou oportunidades!
 
  - [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 
-[DWD💜](https://github.com/DWan-Dall)
+💜[DWD](https://github.com/DWan-Dall)
