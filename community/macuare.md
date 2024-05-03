@@ -3,7 +3,7 @@
 Professional with over
 15 years of expertise in hardware and software development. Willing to travel and relocate as necessary.
 Results oriented. Proactive leader. Expertise in troubleshoot and implement reengineering/quality improvement processes.
-Technical support, team or independent work.
+Technical support, team or independent work. I like the sport, Walking, To know new places, play instruments, music and to speak a lot.
 
 |Contact Me|
 |-|
@@ -58,7 +58,6 @@ Technical support, team or independent work.
 |15/05/2009|IBM|[Application Development](https://www.ibm.com/certify/certs?unit=IBM%20Collaboration%20Solutions%20and%20Social%20Business)|SN: VEUNEFACG016206|
 |15/01/2009|IBM|[Programming Fundamentals](https://www.ibm.com/certify/certs?unit=IBM%20Collaboration%20Solutions%20and%20Social%20Busines)|SN: VEUNEFACG013893|
 |10/03/2008|IBM|[IT and Networking Fundamentals](https://www.ibm.com/certify/certs?unit=IBM%20Collaboration%20Solutions%20and%20Social%20Business)|SN: VEUNEFACG009315|
-
 
 ## 🛠 Skills
 **Programming** 
