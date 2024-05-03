@@ -7,7 +7,7 @@ Meu nome é Lilian, tenho 25 anos. Sempre gostei muito de tecnologia. Acredito q
  
 Sou formada em Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera. 
  
-Atualmente trabalho como Líde Tecnica. Mas estou em fase de transição de carreira. Quero me especializar para ser uma desenvolvera Full Stack. 
+Atualmente trabalho como Líde Tecnica. Mas estou em fase de transição de carreira. Quero me especializar para ser uma desenvolvedora FullStack. 
 
 ## Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/DIO-1E90FF?style=for-the-badge)](https://web.dio.me/users/lilianraiany?tab=achievements)
