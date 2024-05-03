@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, meu nome Reginaldo.</h1>
+<h1 align="center">Olá 👋, meu nome Reginaldo Bomfim.</h1>
 
 <h3 align="center">Estou iniciando na programação :rocket:, começando os meus estudos e projetos.</h3>
 
