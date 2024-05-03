@@ -1,0 +1,21 @@
+# Yara L. de Paula
+
+## 🚀 Sobre mim
+Uma Engenheira Florestal, cearense, "cheinha de vontade" de aprender sobre linguagens de programação.
+
+
+## 📚Portfólio profissional 
+- [Linkedin](https://www.linkedin.com/in/yaralms/)
+- [Lattes](http://lattes.cnpq.br/3309667957131288)
+
+
+## **Minhas habilidades**
+
+| Soft skills | Hard skills |
+|--------|------|
+|Trabalho em equipe | Qgis |
+|  Adaptabilidade| Python |
+|     Empatia  | Java |
+
+
+
