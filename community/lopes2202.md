@@ -1,5 +1,7 @@
 # Gabriel Lopes de Brito
-Olá! Meu nome é Gabriel e no momento estou cursando Analise e Desenvolvimento de Sistemas (ADS) e estou atualmente no 3° Semestre.
+Prazer! Meu nome é Gabriel e no momento estou cursando Analise e Desenvolvimento de Sistemas (ADS) e estou atualmente no 3° Semestre.
+
+Atualmente estou focado na parte de backend.
 ## Conecte-se comigo
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrieldoomed/)
 
