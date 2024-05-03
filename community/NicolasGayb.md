@@ -38,7 +38,7 @@ Além do conteúdo teórico adquirido, possuo um ano e meio de experiência como
 
 ## Entre em contato!
 
-> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-rodrigues-leal/)
-> [![Trailblazer](https://img.shields.io/badge/Trailblazer-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/ngleal)
-
-
+>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-rodrigues-leal/)
+>[![Trailblazer](https://img.shields.io/badge/Trailblazer-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/ngleal)
+>[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:nicolasgbleal@gmail.com)
+>[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+55+048+998232126)
