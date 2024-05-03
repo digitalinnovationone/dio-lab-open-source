@@ -38,7 +38,7 @@
     > **Observação:** Você pode utilizar o comando `git push origin` para mandar as alterações sem precisar especificar a URL, desde que você tenha feito o passo **3**. 
 10. Crie um **Pull Request**.
 
-## Convenção de Commits 
+## Convenção de Commits. 
 
 | Tipo de Commit | Descrição|
 | ---------------|----------|
