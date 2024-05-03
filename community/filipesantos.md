@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E8AE6&size=35&center=true&vCenter=true&width=1000&lines=Oi,+seja+bem+vindo+ao+meu+perfil!+:%29)]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Oi+Seja+Bem+Vindo+ao+Meu+Perfil;https%3A%2F%2Fgithub.com%2Ffilipebina)](https://git.io/typing-svg)
 
 ## Me chamo Filipe de Souza Santos, e sou um estudante de desenvolvimento de Software.
 
