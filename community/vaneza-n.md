@@ -16,5 +16,3 @@
 ## Minhas contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vaneza-n&repo=dio-lab-open-source&bg_color=f5f5f5&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=b34db2&text_color=5f9ea0)](https://github.com/vaneza-n/dio-lab-open-source)
 
-
-

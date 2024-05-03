@@ -25,8 +25,8 @@ Ainda atrás da minha primeira experiência profissional. Abaixo fica alguns dos
 
 I'am Matthew, heavy love for games n kitties 😻😻😻.
 Im improving and trying to be Java specialist, programming language which i love so!
-Trying to find my first professional experience. below is some of my knowledges 🔽.
-Also speak Portuguese 😅. jokes aside, i'm Brazilian and learning each day more to say the better words.
+Also speak Portuguese 😅. jokes aside, i'm Brazilian and learning each day more to say the better words. 
+In the search for my first professional experience. below is some of my knowledges 🔽.
 
 # Abilities :
 
