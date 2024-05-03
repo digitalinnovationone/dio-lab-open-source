@@ -14,7 +14,7 @@ Descrição da alteração que está sendo proposta.
 
 - [x] Minhas alterações não deletam partes do projeto
 - [x] Minhas alterações não introduzem novos problemas
-- [x] Minha contribuição está de acordo com o [Guia de Contribuição](https://github.com/elidianaandrade/dio-lab-open-source/blob/main/CONTRIBUTING.md)
+- [x] Minha contribuição está de acordo com o [Guia de Contribuição](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md)
 
 ### Comentários adicionais
 

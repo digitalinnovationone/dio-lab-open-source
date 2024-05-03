@@ -99,7 +99,7 @@ Para adicionar imagens ao README.md podemos usar Markdown e HTML5. Vou deixar os
 
 </div>
 
-#### É possível adicionar também [Card Stats](https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-stats.md) sendo úteis e auxiliando em sua colaboração com o repositório Open Source. basta clicar no hiperlink.
+#### É possível adicionar também [Card Stats](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md) sendo úteis e auxiliando em sua colaboração com o repositório Open Source. basta clicar no hiperlink.
 
 ## Usar Emojis
 
@@ -121,6 +121,6 @@ Para obter uma lista completa de emojis e códigos disponíveis em Markdown e HT
 #
 
 <div align="Center">
-    <a style="border-radius:10px;padding:15px;background-color:#232323;color:#fff;text-decoration:none;" class="inicio" href="https://github.com/elidianaandrade/dio-lab-open-source">INÍCIO</a>
+    <a style="border-radius:10px;padding:15px;background-color:#232323;color:#fff;text-decoration:none;" class="inicio" href="https://github.com/digitalinnovationone/dio-lab-open-source">INÍCIO</a>
 </div>
 
