@@ -1,6 +1,6 @@
 # Anderson Assis Lopes
 
-- Bacharel e profissional na área de Sistema de Informação desde 2005.
+Bacharel e profissional na área de Sistema de Informação desde 2005.
 
 ### Conecte-se comigo
 
