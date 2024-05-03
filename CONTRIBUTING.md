@@ -89,6 +89,26 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 | `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
 
 
+## Recursos Adicionais
+
+### Guias e Tutoriais
+
+- [GitHub Guides](https://guides.github.com/) - Coleção de guias oficiais do GitHub para ajudar você a entender e usar os recursos do GitHub.
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) - Guia abrangente sobre como contribuir para projetos de código aberto.
+- [Open Source Guides](https://opensource.guide/) - Recursos úteis para pessoas que querem aprender sobre código aberto e como começar a contribuir.
+
+### Comunidades e Fóruns
+
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/github) - Pergunte e encontre respostas para perguntas sobre GitHub e contribuição em projetos de código aberto.
+- [GitHub Community Forum](https://github.community/) - Fórum oficial do GitHub para discussões sobre desenvolvimento, bugs, dúvidas e muito mais.
+- [DEV Community](https://dev.to/) - Comunidade de desenvolvedores onde você pode compartilhar artigos, fazer perguntas e aprender com outros desenvolvedores.
+
+### Livros e Leituras Recomendadas
+
+- [Pro Git](https://git-scm.com/book/en/v2) - Livro gratuito sobre Git e controle de versão distribuído.
+- [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) - Livro que aborda muitos aspectos do desenvolvimento de software, incluindo colaboração em projetos de código aberto.
+
+
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
 - [CONVENTIONAL COMMITS. Summary](https://www.conventionalcommits.org/en/v1.0.0/)
