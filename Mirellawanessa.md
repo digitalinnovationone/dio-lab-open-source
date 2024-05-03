@@ -1,4 +1,4 @@
-### Olá eu sou Mirella Wanessa (Mirellawanessa) ☺️
+### Olá eu sou Mirella Wanessa (Mirellawanessa) 👋🏻
 
 🎓 Estudante de cybersecurity https://drive.google.com/file/d/1V5cUXLTy9qjOvCBb6RgXgEcyGPKaU57Z/view?usp=drivesdk https://drive.google.com/file/d/1ChqRmQamWC1Yebi3roD_rHt_mIoD_PF2/view?usp=drivesdk
 
