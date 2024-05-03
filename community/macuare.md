@@ -4,6 +4,10 @@ Professional with over
 Results oriented. Proactive leader. Expertise in troubleshoot and implement reengineering/quality improvement processes.
 Technical support, team or independent work.
 
+|Contact Me|
+|-|
+|[![LinkedIn](https://img.shields.io/badge/Profile-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/andy-cusatti/)|[![GitHub](https://img.shields.io/badge/CVN-GitHub-black?logo=github)](https://github.com/macuare/dio-lab-open-source)|[![GitLab](https://img.shields.io/badge/CVN-GitLab-orange?logo=gitlab)](https://gitlab.com/macuare)|
+
 
 ## 🚀 Professional Experience
 |Date|Company|Role|
@@ -17,7 +21,7 @@ Technical support, team or independent work.
 |01/09/2007 - 10/10/2022|Freelancer (EEUU, España, Costa Rica, Mexico, Colombia, Guatemala, Chile)|Java Developer Project Leader, Database Development MySql H 2 Derby, Json Firebase Technical Support Web Services (Digital Ocean Google Cloud), Micro services (Spring FrameWork boot e Comerce Godaddy Vps Configuration Firewall( CloudFlare SSL Certificates Cloud Service DigitalOcean Maintenance and bug fixes Development Android app, Desktop(Java, JavaFx and Games ( Godot, Android, JavaFx Google Engine App Excel PLC and Process Automation with microcontrollers|
 |22/01/2007 - 01/06/2007|NESTLE (Venezuela)|Process automation with PLC 5, SLC 500, Control Logix , PanelVIew Plus. Maintenance systems.|
 
-## Education
+## 👩‍💻 Education
 
 |Date|Degree|
 |-|-|
@@ -25,7 +29,7 @@ Technical support, team or independent work.
 |01/10/2007 - 26/08/2009|Specialist Software Development and Application e bussines . TIC (IBM)|
 |01/09/2002 - 21/09/2007|Bachelorof Science in Electronic Engineering . (UNEFA)|
 
-## Certifications
+## 🔗 Certifications
 |Date|Institution|Certification|Serial Number|
 |-|-|-|-|
 |27/04/2024|Blender|[Blender 4.0 Essential Trainning](https://www.linkedin.com/learning/certificates/57618e9b1ea98543ccd748fd9c3cb7b124861f4c66a04190dfccc49ab8ff588c)|SN: 57618e9b1ea98543ccd748fd9c3cb7b124861f4c66a04190dfccc49ab8ff588c|
@@ -53,3 +57,72 @@ Technical support, team or independent work.
 |10/03/2008|IBM|[IT and Networking Fundamentals](https://www.ibm.com/certify/certs?unit=IBM%20Collaboration%20Solutions%20and%20Social%20Business)|SN: VEUNEFACG009315|
 
 
+## 🛠 Skills
+**Programming** 
+- Java 7,8,11,17; JavaFX 8,11
+- Spring Framework, Spring Boot
+- JSON, RestFul , Python, Bash
+- C, C#, JavaScript, Html5, Bootstrap
+- Jquery , Android
+- Assembler
+**Data Base**
+- MySQL, SQL Server
+- H2, derby , SQLite
+- Firebase
+**Cloud**
+- Google Engine
+- Google Script
+- CloudFlare
+- DigitalOcean
+- Godaddy
+- RestApi
+- Hasura
+**Servers**
+- GlassFish 4, WildFly 10, Apache Tomcat 9
+**Platforms**
+- Eclipse, Netbeans , IntelliJ
+- MonoDevelop
+- Git, Gitlab y Github
+- Genymotion
+- Java Scene Builder 8,11,17
+- Docker
+**Games**
+- Godot 4
+- Blender 4
+- Shaders GLSL
+- Graphics Computing
+**Simulation**
+- Matlab R2014a
+- Proteus 8 profesional
+- CSS C Compiler
+- MPLAB X
+- Pickit 2
+- Cisco Packet Tracer 6
+- Scilab
+- Kicad
+- Arduino
+- Microchip
+- RSView Studio
+**OS**
+- Ubuntu, Ubuntu Server
+- Centos
+- Windows 8,10,11
+- Oracle VirtualBox
+
+## 👋 Acknowledgements
+
+|Year|Congress|Research|
+|-|-|-|
+|2016|[VII LATIN AMERICAN CONGRESS IN BIOMEDICAL ENGINEERING](http://www.abioin.com/infoclaibenglish.html)|Technological Development using Ubiquitous Computing and Internet of Things IOT, Applied in Multiple Disabilities.|
+|2014|[VI LATIN AMERICAN CONGRESS IN BIOMEDICAL ENGINEERING](http://bioingenieria.edu.ar/eventos/claib2014/en/index.php?option=com_content&view=article&id=22&Itemid=48)|Response Remote System Monitoring and Alert For People With Multiple Disabilities Through Technology Vanguard.
+|2014|[VII INTERNATIONAL CONFERENCE ON ELECTRICAL ENGINEERING](http://www.convenciones.uo.edu.cu/index.php/FIE2014/index/search/authors?searchInitial=&authorsPage=4#authors)|Development of Integrated Monitoring System and Alert Using Internet, Android and Social Network for People with Multiple Disabilities.|
+|2013|[SPRINGER](http://link.springer.com/chapter/10.1007%2F978-3-642-21198-0_151)|IFMBE Proceedings. HUMAN MACHINE INTERFACE FOR PERSON WITH MOTOR, VISUAL AND SPEECH LIMITATIONS|
+|2013|[15TH INTERNATIONAL CONVENTION AND FAIR](http://www.informaticahabana.cu/en/content/programs)|System for asistance to multiple disabilities response (motor, visual and of speech).
+|2011|[V LATIN AMERICAN CONGRESS IN BIOMEDICAL ENGINEERING](http://www.plataformaclaib2011.sld.cu/index.php/claibhabana/2011/schedConf/presentations?searchField=&searchMatch=&search=&track=11)|Human machine interface for person with motor, visual and speech limitations|
+
+## 😄 Volunteering
+
+|Title|Institution|Details|
+|-|-|-|
+|Research and Development|CENPI|In Biomedical Engineering, the development of human-machine interfaces for people with disabilities seeks to address the problems that arise through technological innovations that lead to systems that can offer an alternative path, developing open-source software-hardware and peripheral devices working together gyroscope that exploit a particular quality or meaning to turn it into useful information. It also explains the methods, materials and comments for the user and third parties, and the benefits it offers.In Biomedical Engineering, the development of human-machine interfaces for people with disabilities seeks to address the problems that arise through technological innovations that lead to systems that can offer an alternative path, developing open-source software-hardware and peripheral devices working together gyroscope that exploit a particular quality or meaning to turn it into useful information. It also explains the methods, materials and comments for the user and third parties, and the benefits it offers.|
+|Software Development Specialist|hacesfalta.org|Development of children's teaching materials for single-parent families
