@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Oiii,+eu+sou+o+George+Luiz;Sou+programador+Junior!;+:%29)](https://git.io/typing-svg)
 
-## 🌐 Socials:
+##  🌐 Socials:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/george-luiz-42501b151/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
