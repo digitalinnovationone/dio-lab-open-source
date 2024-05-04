@@ -1,6 +1,6 @@
 # Danilo Ribeiro
 
-Um jovem adulto de 25 anos, apaixonado pelo mundo da tecnologia, inicante  buscando e adquirindo conehcimentos no ramo, atualmente estudando Backend em JAVA através da DIO em parceria com o SANTANDER - [Digital Innovation One](https://www.dio.me/)
+Um jovem adulto de 25 anos, apaixonado pelo mundo da tecnologia, inicante  buscando e adquirindo conheimentos no ramo, atualmente estudando Backend em JAVA através da DIO em parceria com o SANTANDER - [Digital Innovation One](https://www.dio.me/)
 
 ##  Soft skills
 - Trabalho em grupo
