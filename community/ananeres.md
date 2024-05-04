@@ -28,3 +28,13 @@ Me chamo Ana Patrícia e sou formada em Fisioterapia pela UNINASSAU, tenho uma p
 </div>
  
 <br>
+
+### Redes
+ 
+<div> 
+  <a href="https://instagram.com/patricianeres21" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href ="mailto:anapatricia.paula.18@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/anapneres/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/channels/patricianeres21/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://www.dio.me/users/paula_anapatricia_17" target="_blank"><img src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white" target="_blank"></a> 
+</div>
