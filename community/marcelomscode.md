@@ -1,4 +1,5 @@
-# Raoni Soares
+# Olá! Meu nome é Marcelo de Souza.
+Sou desenvolvedor Java Pleno, minha paixão é tecnologia e programar é a maior delas. 😁  
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-de-souza-23517043/)
 ## Habilidades
