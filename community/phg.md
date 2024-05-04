@@ -9,7 +9,6 @@ Atualmente, estou trabalhando para melhorar-me, atingir alguns marcos e espero o
 Estou sempre aberto a oportunidades de aprendizado e colaboração em projetos interessantes.
 </div>
 
-
 <h2>Contatos</h2>
 
 <div>
