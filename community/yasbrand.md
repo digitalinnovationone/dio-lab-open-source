@@ -1,6 +1,4 @@
-<p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&pause=1000&color=FFFFFF&background=0e1217&center=true&vCenter=true&random=false&width=500&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+perfil!;Eu+me+chamo+Yasmin+Brand%C3%A3o...;e+essa+%C3%A9+minha+jornada+tech+%F0%9F%92%BB%F0%9F%9A%80)](https://git.io/typing-svg)
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&pause=1000&color=FFFFFF&background=0e1217&center=true&vCenter=true&random=false&width=500&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+perfil!;Eu+me+chamo+Yasmin+Brand%C3%A3o...;e+essa+%C3%A9+minha+jornada+tech+%F0%9F%92%BB%F0%9F%9A%80)](https://git.io/typing-svg)
 
 #### Sobre mim 🙋‍♀️
 
