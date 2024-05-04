@@ -1,7 +1,7 @@
 # Yara L. de Paula
 
 ## 🚀 Sobre mim
-Uma Engenheira Florestal, cearense, "cheia de vontade" de aprender sobre linguagens de programação.
+Uma Engenheira Florestal, cearense, "com vontade" de aprender sobre linguagens de programação.
 
 
 ## 📚Portfólio profissional 
