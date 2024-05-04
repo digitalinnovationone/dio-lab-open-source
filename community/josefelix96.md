@@ -1,4 +1,4 @@
-# José Felix de Souza Junior
+# José Felix
 
 Atualmente estudante de Tecnologia da informação Desenvolvimento de Software na UNIVESP.
 
