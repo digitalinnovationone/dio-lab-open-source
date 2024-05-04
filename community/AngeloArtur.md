@@ -42,7 +42,7 @@
 
 ## Github Stats
 
-<div style="display:flex; justify-content:space-between; padding-left:10px">
+<div style="display:flex; justify-content:space-between;">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngeloArtur&theme=ocean_dark&show_icons=true)
 
