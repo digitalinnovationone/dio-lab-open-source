@@ -1,6 +1,5 @@
 ### Oi! Me chamo Bianca, mas pode me chamar de Bia 👋🏾
 
-
 ##
 
 Estudante de Engenharia de Software na 42 São Paulo. Atualmente, minha dedicação está exclusivamente voltada em me tornar uma programadora habilidosa e contribuir com a comunidade de tecnologia. 📖
