@@ -19,4 +19,4 @@ Hello, i'm Thulio Bezerra and actually, i'm studying Computer Science at Univers
 
 ## My Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThulioBezerra&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-> Tendes medo de tudo como mortais, desejais tudo como imortais!  -Sêneca
+> Tendes medo de tudo como mortais, desejais tudo como imortais! -Sêneca
