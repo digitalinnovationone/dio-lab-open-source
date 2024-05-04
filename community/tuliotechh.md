@@ -10,10 +10,10 @@ Majoring in systems analysis and development
 [![Twitter/X](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/odevtulio)
 
 
-### Certified in::
+### Certified in:
 
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)]()
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)]()
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)]
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)]
 
 ### Studying:
 
