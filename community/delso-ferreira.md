@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=35&pause=1000&color=23799F&background=FFE60F00&random=false&width=500&height=60&lines=Hello%2C+im+Delso...;Welcome+to+my+profile...;Im+a+Full+Stack+Web+Developer...;Feel+free+to+contribute!)](https://git.io/typing-svg)
 
 
-- 🔭 I’m currently working on **Developing a new project in C#**
+- 🔭 I’m currently working on **New project in C#**
+
 
 - 🌱 I’m currently learning **Java** in <a href="https://dio.me" target="_blank" rel="noreferrer" style= "color: cyan ">**Dio**</a>
 
@@ -22,5 +23,3 @@
 [![delso-ferreira/RPG_Battle_App - GitHub](https://gh-card.dev/repos/delso-ferreira/RPG_Battle_App.svg)](https://github.com/delso-ferreira/RPG_Battle_App)
 
 [![delso-ferreira/restaurant_orders - GitHub](https://gh-card.dev/repos/delso-ferreira/restaurant_orders.svg)](https://github.com/delso-ferreira/restaurant_orders)
-
-[![delso-ferreira/currency-converter - GitHub](https://gh-card.dev/repos/delso-ferreira/currency-converter.svg)](https://github.com/delso-ferreira/currency-converter)
