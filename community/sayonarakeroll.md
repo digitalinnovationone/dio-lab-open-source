@@ -7,7 +7,7 @@
 
 
  - Responsabilidade, gosto de trabalhar em equipe.
- - Vontade de Aprende sempre algo novo
+ - Vontade de Aprender algo novo
  - Empatia
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( link)
