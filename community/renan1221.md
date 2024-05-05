@@ -2,7 +2,7 @@
 
 ## Contato
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=009900)](https://github.com/renan1221)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=009900)](https://www.linkedin.com/in/renan-melo-de-oliveira-41b017308/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=009900)](https://www.linkedin.com/in/renan-melo-de-oliveira/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=009900)](mailto:renanoliveira1221@outlook.com.br)
 [![DIO](https://img.shields.io/badge/🟢_DIO-000?style=for-the-badge&logo=DIO&logoColor=white)](https://www.dio.me/users/renanoliveira1221)
 
