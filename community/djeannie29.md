@@ -63,5 +63,6 @@
 
 ### Cloud Storage
 
-[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)](#) [![Microsoft OneDrive](https://img.shields.io/badge/Microsoft%20OneDrive-0078D4?logo=microsoftonedrive&logoColor=fff)](#)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)](#) 
+[![Microsoft OneDrive](https://img.shields.io/badge/Microsoft%20OneDrive-0078D4?logo=microsoftonedrive&logoColor=fff)](#)
 
