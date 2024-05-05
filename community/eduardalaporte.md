@@ -1,8 +1,9 @@
 ##   Maria Eduarda Laporte Anoral 
+Futura desenvolvedora Java! 🖥️
+Apaixonada em aprender.
 
-Aos 27 anos decidi mudar totalmente de área profisisonal! 
-Estudante de linguagem Java, determinada e focada em ser desenvolvedora.  🖥️
-
+## Experiência
+Meu primeiro contato com códigos e sistema operacional está acontecendo agora. Pra mim, não é um problema, desde que eu continue focada e me dedicando com os estudos e em tudo que eu me dedicar a fazer. 
 ### Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-laporte-anoral-9b904b307/)
