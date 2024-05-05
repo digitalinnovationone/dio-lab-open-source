@@ -11,7 +11,7 @@ Atuação ativa em interface com diversas áreas como TI, Analytics, Governança
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/evertondasilvamoraes/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:evertondasilvamoraes@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](linkedin.com/in/evertonsmoraes/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://linkedin.com/in/evertonsmoraes/)
 
 ### Habilidades
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
