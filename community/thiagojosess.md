@@ -15,7 +15,7 @@
 
 ## My Contribution
 [![GitHub Streak](https://streak-stats.demolab.com?user=thiagojosess&theme=yeblu&mode=weekly&background=90%2C000000%2C363636&border=30A3DC)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thiagojosess&bg_color=90%2C000000%2C363636&border_color=30A3DC&title_color=FFFF00&text_color=FFF&layout=compact&)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thiagojosess&bg_color=90%2C000000%2C363636&border_color=30A3DC&title_color=FFFF00&text_color=FFF&layout=compact)](https://git.io/streak-stats)
 
 
 ### My experience with technologies
