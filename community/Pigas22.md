@@ -1,5 +1,5 @@
 # ⭐ Pigas22 - Thiago Holz Coutinho
-## Sobre Mim
+## 📖 Sobre Mim
 Meu nome é Thiago Holz Coutinho e, com 19 anos, já me encontro navegando pelo fascinante universo da tecnologia e da programação.
 
 Minha jornada na programação começou com a curiosidade e o fascínio pelas possibilidades infinitas que o código oferece. Como primeiro contato com as linguagens de programação, devido a sua linguagem versátil e poderosa, **adquiri um grande domínio em `Python`**. Embora atualmente esteja estudando outras linguagens e tecnologias, como **`Java`**, **`Spring Boot`**, **`Git`** e **`PostgreSQL`**.
@@ -46,3 +46,6 @@ Atualmente, tenho a honra de trabalhar em uma empresa de tecnologia inovadora, o
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pigas22&repo=CadastroDeOnibus&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Pigas22/CadastroDeOnibus)
 </div>
 
+
+## 💡 Sobre o README.md
+Esse arquivo MarkDown (Extensão .md), foi realizado como exercício prático para o lab **Contribuindo em um Projeto Open Source no GitHub** da empresa [**<u>_Digital Innovation One_</u>**](https://www.dio.me/) (DIO), visando a fixação do conteúdo sobre `Git` e `GitHub`, ministrado pela [Elidiana Andrade](https://www.linkedin.com/in/elidianaandrade/).
