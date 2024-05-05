@@ -57,6 +57,4 @@ class CalculadoraDespesas:
 Contribuições
 Contribuições e feedbacks são bem-vindos! Sinta-se à vontade para entrar em contato comigo através do meu LinkedIn para discutir ideias, colaborações ou apenas para dizer olá.
 
-Espero que você tenha gostado de conhecer um pouco mais sobre mim e meu trabalho! Estou ansioso para conectar-me com você e explorar novas oportunidades juntos. 🚀
-
 ```
