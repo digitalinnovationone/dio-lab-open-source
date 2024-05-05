@@ -5,9 +5,18 @@
 - 😄 Pronouns: he/his
 
 ### My links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:SEUGMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-josé-silva-dos-santos-31a760153/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:thiagoesoj@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiagojoseSS)
+
+## snake github
+![github-snake](https://github.com/thiagojoseSS/thiagojoseSS/raw/output/github-contribution-grid-snake-dark.svg)
+
+
+## My Contribution
+[![GitHub Streak](https://streak-stats.demolab.com?user=thiagojosess&theme=yeblu&mode=weekly&background=90%2C000000%2C363636&border=30A3DC)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thiagojosess&bg_color=90%2C000000%2C363636&border_color=30A3DC&title_color=FFFF00&text_color=FFF&layout=compact&)](https://git.io/streak-stats)
+
 
 ### My experience with technologies
 #### Tools
@@ -25,7 +34,7 @@
 #### Database
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 #### Libraries and Frameworks
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+![Bootstrap](https://img.shields.io/badge/-boostrap-330033?style=for-the-badge&logo=bootstrap&labelColor=330033)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 #### Markup language
@@ -38,16 +47,5 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 
-## My Contribution
-[![GitHub Streak](https://streak-stats.demolab.com?user=thiagojosess&theme=yeblu&mode=weekly&background=90%2C000000%2C363636&border=30A3DC)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagojosess&theme=transparent&bg_color=90%2C000000%2C363636&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=FFFF00&text_color=FFF&include_all_commits=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thiagojosess&bg_color=90%2C000000%2C363636&border_color=30A3DC&title_color=FFFF00&text_color=FFF&layout=compact)](https://git.io/streak-stats)
-
-
-
-
-
-## snake github
-![github-snake](https://github.com/thiagojoseSS/thiagojoseSS/raw/output/github-contribution-grid-snake-dark.svg)
 
 
