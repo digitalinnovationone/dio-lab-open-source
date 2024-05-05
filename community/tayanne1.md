@@ -15,6 +15,11 @@ Se você quiser saber mais sobre mim ou tiver alguma pergunta, não hesite em me
 - 🌱 Atualmente, estou me dedicando a aprender Desenvolvimento Web Full Stack utilizando HTML, CSS, JavaScript, Node.js e React.
 - 📚 Estou comprometida em contribuir para projetos de código aberto e aprender com a comunidade.
 
+## Estatísticas do GitHub
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayanne1&show_icons=true&theme=radical)](https://github.com/tayanne1/github-readme-stats&show_icons=true&theme=radical)
+
+
 # Conecte-se comigo
 - [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/tayanne2904)
 - [![GitHub](https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tayanne1)
