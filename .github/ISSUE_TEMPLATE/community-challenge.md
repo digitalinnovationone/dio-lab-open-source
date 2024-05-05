@@ -2,11 +2,15 @@
 name: Community Challenge
 about: Crie uma issue sobre o Desafio proposto à comunidade
 title: "[DESAFIO]"
-<<<<<<< HEAD
+ feat/community/Alexdevsoft
+ HEAD
 labels: ''
-=======
+
 labels: community challenge
->>>>>>> d94daa29ee4f656fa25662e672f09dac7c3ce7a4
+ d94daa29ee4f656fa25662e672f09dac7c3ce7a4
+
+labels: community challenge
+ main
 assignees: ''
 
 ---

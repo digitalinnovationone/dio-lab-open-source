@@ -26,9 +26,12 @@ Acesse a página principal do repositório e clique no botão "Fork" no canto su
 > Um "fork" no GitHub é uma cópia de um repositório que pode ser criada por qualquer usuário. <br>
 > Para mais detalhes, reveja a aula ou acesse a documentação do GitHub: [Criar fork de um repositório](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo).
 
-<<<<<<< HEAD
+feat/community/Alexdevsoft
+ HEAD
 ## Convenção de Commits. 
-=======
+
+
+ main
 ### 2) Clone localmente
 Abra o seu Git Bash e digite o comando `git clone` seguido da URL do seu fork para clonar o seu repositório localmente. Por exemplo:
 ```bash
@@ -81,7 +84,7 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
     
     
 ## Convenção de Commits 
->>>>>>> d94daa29ee4f656fa25662e672f09dac7c3ce7a4
+ d94daa29ee4f656fa25662e672f09dac7c3ce7a4
 
 | Tipo de Commit |Descrição                                                            | Exemplo
 | ---------------|----------------------------------------------------------------------|-----------
