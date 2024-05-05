@@ -34,7 +34,7 @@ jobs:
         NUM_CHANGED_FILES=$(echo "$files_changed" | wc -l)
         
         # Verifica se apenas o arquivo esperado foi modificado
-        if [[ "$NUM_CHANGED_FILES" -eq 1 && "$files_changed" == "$FILE_PATH" ]]; then
+        if [[ "$NUM_CHANGED_FILES" -eq 1 && "$files_changed" == *"$FILE_PATH" ]]; then
             echo "PR is valid, only the expected file has been changed."
         else
             echo "ERROR: Invalid PR. More or different files than expected were changed."
