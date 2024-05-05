@@ -1,4 +1,4 @@
-# gusttav06
+﻿# gusttav06
 Meu nome é Gustavo, tenho 20 anos 
 
 ## Sobre Mim
@@ -10,7 +10,7 @@ Meu percurso acadêmico/profissional até agora tem sido na area de TI e estou a
 
 ## Interesses e Hobbies
 
-Nos meus momentos livres, gosto de praticar ciclismo, estudar mais um pouco de programação  e estou sempre procurando maneiras de aprofundar meu conhecimento nessa área.
+Nos meus momentos livres, gosto de praticar ciclismo, estudar de programação  e estou sempre procurando maneiras de aprofundar meu conhecimento nessa área.
 
 
 ## Contato
