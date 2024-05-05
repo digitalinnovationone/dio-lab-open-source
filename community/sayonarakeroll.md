@@ -1,13 +1,13 @@
-### Olá, Eu sou Sayonara França.👋
+## Olá, Eu sou Sayonara França.👋
 
-- 👩‍🎓 Estudante de Ciências da Computação
+ - 👩‍🎓 Estudante de Ciências da Computação
       Registrando algumas das áreas que me chamam atenção
-- 🔒 Cibersegurança
-- 📊 Gestão de Projetos
+ - 🔒 Cibersegurança
+ - 📊 Gestão de Projetos
 
 
  - Responsabilidade, gosto de trabalhar em equipe.
- - Curisosidade e vontade de aprender algo novo
+ - Curisosidade e vontade de aprender.
  - Empatia
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( link)
