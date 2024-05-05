@@ -1,14 +1,9 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Profile README do DIO</span>
+    <span> README de Joilson Moraes</span>
 </h1>
 
-Aqui você confere uma lista de exemplos desenvolvida pela comunidade. Veja abaixo um exemplo simples de como você pode criar o seu Profile README para o Desafio da [Digital Innovation One](https://www.dio.me/) e faça a sua contribuição 😉🚀.
-
----
-
-# Joilson Moraes
 
 Analista de Sistemas e DBA SQL Server. Pós graduado em Data Science, atualmente estudando novas tecnologias com IA, e trabalhando com Azure DevOps, Pipeline de Dados e Governança de Dados.
 
@@ -18,7 +13,6 @@ Analista de Sistemas e DBA SQL Server. Pós graduado em Data Science, atualmente
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:joilsonmoraes@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/joilsonmoraes/)
 
----
 
 ### Tecnologias que tenho contato e/ou utilizo no trabalho 
 
