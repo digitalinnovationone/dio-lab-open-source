@@ -17,6 +17,6 @@ Estou em transição de carreira e busco uma oportunidade de me desenvolver mais
 ![Python](https://img.shields.io/badge/python-3d3d3d?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/java-3d3d3d.svg?style=for-the-badge&logo=openjdk&logoColor=e59951)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3d3d3d?style=for-the-badge&logo=javascript&logoColor=yellow)
-[![GitHub](https://img.shields.io/badge/GitHub-3d3d3d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/123PAU34)
+[![GitHub](https://img.shields.io/badge/GitHub-3d3d3d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeOrtizDeCamargo)
 [![Git](https://img.shields.io/badge/Git-3d3d3d?style=for-the-badge&logo=git&logoColor=e00000)](https://git-scm.com/doc)
 
