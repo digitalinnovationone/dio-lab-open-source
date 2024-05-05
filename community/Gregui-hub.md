@@ -5,7 +5,7 @@ Contribuição de readme para o projeto dio lab open source
 
 
 ## 🚀 Sobre mim
-Eu sou uma pessoa tentando se tornar un desenvolder back end em Java...
+Eu sou uma pessoa tentando me tornar un desenvolvedor back end em Java...
 
 
 ## Outras seções comuns em perfis do GitHub
