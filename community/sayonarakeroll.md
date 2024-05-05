@@ -1,7 +1,7 @@
 ### Olá, Eu sou Sayonara França.👋
 
 - 👩‍🎓 Estudante de Ciências da Computação
--     Registrando algumas das áreas que me chamam atenção:
+      Registrando algumas das áreas que me chamam atenção
 - 🔒 Cibersegurança
 - 📊 Gestão de Projetos
 
