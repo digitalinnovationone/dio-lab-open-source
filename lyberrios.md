@@ -11,7 +11,8 @@
   <img align="center" alt="Marly-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!--<img align="center" alt="Marly-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
 </div>
-<h3> About me - Sobre Mim</h3>
+
+### About me - Sobre Mim
 <p><b>
 Hi! ✨ I'm Ermarly, I'm a programmer, language teacher and software engineering student!</b></p>
 <p>Olá!💬 Eu sou a Ermarly, sou programadora, professora de idiomas e estudante de engenharia de software!🚀</p>
