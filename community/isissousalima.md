@@ -1,4 +1,4 @@
-**# Isis Sousa Lima**
+# Isis Sousa Lima
 
 
 ## Sobre mim: 📝
