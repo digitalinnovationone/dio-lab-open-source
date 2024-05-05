@@ -20,10 +20,8 @@ Com mais de 15 anos trabalhando na área de tecnologia, atuo com atendimento ao 
 - Segurança Ofensiva e Inteligência Cibernética
 - Forense Computacional
 
-<br><div style="display: flex; justify-content: center;">
+<br>
 
 | Estatísticas do meu Github |
 | :---: |
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivankovalinkinas&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) |
-
-</div>
