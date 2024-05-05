@@ -1,5 +1,5 @@
 ### Oi, nice to see you here!👋
-<p>Welcome to my profile!✨ </br> I am Ermarly, I'm a Software Engineer student at Universidade Positivo <!-- in <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b> Brasil</b>, --> I am currently studying various technologies for my training as an engineer. and <b>I'm looking forward to finding my first job in the technology⚡field!😄</b></p>
+<p>Welcome to my profile!✨</br> I am Ermarly, I'm a Software Engineer student at Universidade Positivo <!-- in <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b> Brasil</b>, --> I am currently studying various technologies for my training as an engineer. and <b>I'm looking forward to finding my first job in the technology⚡field!😄</b></p>
 
 <h3>Here are some technologies that I have knowledge of:</h3>
 <div style="display: inline_block"><br>
