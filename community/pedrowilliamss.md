@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b9ffa&height=120&section=header"/>
 
-**`Software developer`**
+**`Software developer `**
 
 🚀 Software developer enthusiast with a knack for problem-solving and a passion for coding adventures!</br>
 🎓 Computer Engineering graduate.</br>
