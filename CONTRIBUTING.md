@@ -37,6 +37,11 @@ Pressione enter, e uma cópia do seu fork no GitHub será criada localmente.
 Utilize o comando `git checkout -b` para criar e alternar para a nova branch e nomeie-a como `feat/community/SEU_USERNAME`
 > Exemplo: `git checkout -b feat/community/falvojr`
 
+### 3.1) Adicione as alterações do repositório local para o remoto
+Utilizando o comando "git add ." para adicionar as alterações aos arquivos ao índice, em seguida com o comando "git commit -m "Sua mensagem de commit aqui"" confirma as alterações e por final "git push origin <nome-do-branch>"
+
+>Exemplo : `git push origin <nome-do-branch>`
+
 ### 4) Crie o seu Profile README
  Dentro da pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub:
 
