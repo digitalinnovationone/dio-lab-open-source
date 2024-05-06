@@ -7,8 +7,6 @@
 [![Star](https://img.shields.io/github/stars/Sofiaarduesp/dio-lab-open-source?style=social)](https://github.com/Sofiaarduesp/dio-lab-open-source)
 [![Forks](https://img.shields.io/github/forks/Sofiaarduesp/dio-lab-open-source?style=social)](https://github.com/Sofiaarduesp/dio-lab-open-source/tree/main/docs)
 
-⭐ Adicionando aos favoritos (**star**) 
-
 
 📚 Graduanda em Engenharia de Telecomunicações, com interesse nas áreas de aquisição de dados, anaálise de dados, e IA.
 
