@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-Sou formada em Química e Química Tecnológica pela Universidade Federal de Santa Catarina (**UFSC**) e **Mestre em Química** pela mesma instituição. Atualmente, estou fazendo **Doutorado** em Química pela Universidade de São Paulo (**USP**). No entanto, estou interessada em aprender programação para uma possível transição de carreira para a área da tecnologia. 
+Sou formada em Química e Química Tecnológica pela Universidade Federal de Santa Catarina (**UFSC**) e **Mestre em Química** pela mesma instituição. Atualmente, estou fazendo **Doutorado** em Química pela Universidade de São Paulo (**USP**). No entanto, estou interessada em aprender programação para fazer transição de carreira para a área da tecnologia. 
 
 Minha introdução ao mundo da programação começou durante meu mestrado, onde tive a oportunidade de aprender um pouco de *Python*. Atualmente, estou fazendo o *Bootcamp* de *Java* da **DIO** em parceria com o **Santander**, onde estou aprimorando minhas habilidades em desenvolvimento backend. Paralelamente, estou explorando o mundo do desenvolvimento *front-end* através da plataforma *Freecodecamp*, buscando solidificar meus conhecimentos em tecnologias como *HTML*, *CSS* e *JavaScript*.
 
