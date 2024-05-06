@@ -1,0 +1,4 @@
+- 👋 Oi, eu sou a Fernanda Oliveira e esse é meu [github](https://github.com/fe-oliver)!
+- 💻 Tenho interesse em programação.
+- 📖 Sou estudante de Ciência da Computação
+- 🎯 Minha meta é me tornar desenvolvedora full-stack.
