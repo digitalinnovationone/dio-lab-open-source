@@ -4,8 +4,8 @@ Olá! Me chamo Giovana (Gi😊), decidi mergulhar no universo da Tecnologia e ho
 No tempo livre, sou leitora voraz de livros de Ficção/Fantasia e artesã ([@tristars_gi.croche](https://www.instagram.com/tristars_gi.croche?igsh=N3gxcG51ajdzb2Mx)).
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/giovana-silva-7957b3257)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=)](https://www.instagram.com/gigi_isis_?igsh=MXA4OTZjYWRqaWkyNQ==)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovana-silva-7957b3257)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gigi_isis_?igsh=MXA4OTZjYWRqaWkyNQ==)
 
 ## Estou aprendendo
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
