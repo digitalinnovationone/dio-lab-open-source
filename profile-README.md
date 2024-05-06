@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fernanda Oliveira!
-- 💻 I’m interested in technology, speacially programming.
-- 📖 I'm a Computer Science student.
-- 🎯 My goals is to become a full-stack developer.
+- 👋 Oi, eu sou a Fernanda Oliveira e esse é meu [github](https://github.com/fe-oliver)!
+- 💻 Tenho interesse em programação.
+- 📖 Sou estudante de Ciência da Computação
+- 🎯 Minha meta é me tornar desenvolvedora full-stack.
