@@ -1,13 +1,13 @@
-### Ol�, eu sou Marcus Becker (marcusbecker) ??????
+### Olá, eu sou Marcus Becker (marcusbecker) 👋👋👋
 
-? **Tech Lead** na [HDI Seguros](https://www.hdiseguros.com.br/) ? Bacharel em Sistema de Informa��o, com Especializa��o em Engenharia de Software com Metodologia �gil ? Autor do livro [A l�gica do jogo](https://www.casadocodigo.com.br/products/livro-logica-jogo)
+✨ **Tech Lead** na [HDI Seguros](https://www.hdiseguros.com.br/) ✨ Bacharel em Sistema de Informação, com Especialização em Engenharia de Software com Metodologia Ágil ✨ Autor do livro [A lógica do jogo](https://www.casadocodigo.com.br/products/livro-logica-jogo)
 
-?? **Atua��o Profissional**
-- ?? Tech Lead em uma das maiores seguradoras do Brasil, HDI Seguros, na squad de Sinistros Santander Auto 
-- ?? Criador de [Apps Android](https://play.google.com/store/apps/developer?id=Marcus+Vinicius+Becker)
-- ?? Criador de projetos [Open Souce](https://github.com/marcusbecker)
+🏢 **Atuação Profissional**
+- 🚗 Tech Lead em uma das maiores seguradoras do Brasil, HDI Seguros, na squad de Sinistros Santander Auto 
+- 📱 Criador de [Apps Android](https://play.google.com/store/apps/developer?id=Marcus+Vinicius+Becker)
+- 🚀 Criador de projetos [Open Souce](https://github.com/marcusbecker)
 
-## ?? Conecte-se comigo
+## 📩 Conecte-se comigo
 
 [![Github](https://img.shields.io/badge/Github-0080ff?style=for-the-badge&logo=github&logocolor=fff)](https://github.com/marcusbecker)
 
@@ -15,11 +15,11 @@
 
 [![meumundojava@gmail.com](https://img.shields.io/badge/Gmail-ccc?style=for-the-badge&logo=gmail)](mailto:meumundojava@gmail.com)
 
-### ?? Estat�sticas no GitHub
+### 📊 Estatísticas no GitHub
 
 ![marcusbecker's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusbecker&show_icons=true&theme=dracula)
 
-### ?? Projetos em Destaque
+### 👷 Projetos em Destaque
 
 [![JaGastei](https://github-readme-stats.vercel.app/api/pin/?username=marcusbecker&repo=JaGastei)](https://github.com/marcusbecker/JaGastei)
 
@@ -27,6 +27,6 @@
 
 [![MoonMer](https://github-readme-stats.vercel.app/api/pin/?username=marcusbecker&repo=MoonMer)](https://github.com/marcusbecker/MoonMer)
 
-### ?? Linguagens Mais Usadas
+### 💻 Linguagens Mais Usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusbecker&layout=compact)
