@@ -1,7 +1,7 @@
 
 # Júlya Fonseca Couto
 
-Estudante de Sistemas de Informações na UFES. Focada em estudar e me especializar no back-end, mas com um pé em ser fullstack.
+Estudante de Sistemas de Informação na UFES. Focada em estudar e me especializar no back-end, mas com um pé em ser fullstack.
 
 ## Fale comigo
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eafonsecac)
