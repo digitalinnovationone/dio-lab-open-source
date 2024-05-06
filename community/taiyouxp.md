@@ -3,7 +3,7 @@
 
 <p> Cursando Sistemas de informação - UFPA e ADS - Estácio;</br>
 Quero aplicar pra uma vaga assim que possível; </br>
-Estuadando pra ser full-stack.
+Estudando pra ser full-stack.
 
 <h3>Aprendendo: </h3>
 
