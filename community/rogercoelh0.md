@@ -7,7 +7,6 @@ Idade: 22 Anos
   
 
 Cursando: Análise e Desenvolvimento de Sistemas - UAM 
-
 #
 
 Olá, Me chamo Roger sou estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Anhembi Morumbi, estou no primeito período, sempre gostei muito de Tecnologia e quando conheci o mundo da programção e Desenvolvimento fiquei apaixonado, estou me esforçando ao maxímo para aprender tudo da melhor forma e assim que possivel começar a trabalhar na área.
