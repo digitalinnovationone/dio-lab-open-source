@@ -27,11 +27,3 @@ Acesse a página principal do repositório e clique no botão "Fork" no canto su
 [Banco dados GOV](hhttps://dados.gov.br/)
 
 
-
-
->Para maiores informações e uma pesquisa mais aprofundada sobre ambas as linguagens, acesse [Markdown GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings) / [HTML W3Schools](https://www.w3schools.com/html/default.asp)
-#
-
-<div align="Center">
-    <a style="border-radius:10px;padding:15px;background-color:#232323;color:#fff;text-decoration:none;" class="inicio" href="https://github.com/elidianaandrade/dio-lab-open-source">INÍCIO</a>
-</div>
