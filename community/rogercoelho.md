@@ -11,7 +11,6 @@ Idade: 22 Anos
             border-radius: 60%;
             height: 130px;
             margin: 40px;
-            
         }
 </style>
 Cursando: Análise e Desenvolvimento de Sistemas - UAM 
