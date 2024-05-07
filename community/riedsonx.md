@@ -2,6 +2,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/riedsonx/dio-repository-open-source)
 ![GitHub language count](https://img.shields.io/github/languages/count/riedsonx/dio-repository-open-source)
 
+
 ### Me chamo Riedson Ribeiro, sou de Igarassu, Região Metropolitana de Recife - PE.
 ### Sou estudante de Engenharia de Software na [Uninter](https://www.uninter.com/)
 #### Atualmente trabalho em uma das maiores indústrias automotivas do mundo na área de planejamento de produção.
