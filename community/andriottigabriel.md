@@ -1,7 +1,7 @@
 # Gabriel Andriotti
 
 ## Sobre mim
-Meu nome eh Gabriel, atualmente
+Meu nome eh Gabriel, atualmente desenvolvendo projetos com foco em Back End envolvendo liguagens de programação JavaScript, Python e tecnologia Node.js. Trabalho na Comgás SP com atividades de gestão de pessoas e equipes terceiras, controle de produção de ligações de gás natural em residências de alto padrão e prédios. Análise de notas no sistema SAP, controle de carteira e metas mensais. Resolução de problemas das atividades de campo, fiscalização de obras conforme normas NBR e internas.
 
 ## Conecte-se comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-a-3ba31bb6/)[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
