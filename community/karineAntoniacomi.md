@@ -1,5 +1,5 @@
 ## <b>Karine Antoniacomi</b>
-Oi! Eu sou a Karine, formada em Tecnologia em Análise e Desenvolvimento de Sistemas pela UFPR e atualmente em busca de uma vaga de Desenvolvedora Junior, em Backend ou Frontend, preferencialmente em Java. Tenho experiência de estágio em Desenvolvimento Frontend com Java e Kotlin para Mobile Android.
+Oi! Eu sou a Karine, formada em Tecnologia em Análise e Desenvolvimento de Sistemas pela UFPR e atualmente em busca de uma vaga de Desenvolvedora Júnior em Backend ou Frontend, preferencialmente em Java. Tenho experiência de estágio em Desenvolvimento Frontend com Java e Kotlin para Mobile Android.
 
 <b>Conecte-se comigo</b><br> 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karine-antoniacomi/) 
@@ -30,5 +30,5 @@ Linguagens de Programação<br>
 <b>Linguagens mais usadas</b><br> 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=karineAntoniacomi&&layout=compact&theme=synthwave)
 
-<b>Minhas Contribuições</b>
+<b>Minhas Contribuições</b><br>
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=karineAntoniacomi&repo=dio-lab-open-source&theme=synthwave)](https://github.com/karineAntoniacomi/dio-lab-open-source)
