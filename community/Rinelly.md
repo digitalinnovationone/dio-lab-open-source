@@ -14,7 +14,7 @@ Hoje tenho como objetivo principal me tornar uma desenvolvedora fullstack e migr
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Atualmente tenho conhecimento básico nas habilidades acima, porém pretendo continuar buscando conhecimento tanto nas aréas citas como conhecer novas. 
+Atualmente tenho conhecimento básico nas habilidades acima, porém pretendo continuar buscando conhecimento tanto nas aréas citadas como conhecer novas. 
 
 
 ### &#128241; Conecte-se comigo:

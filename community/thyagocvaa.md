@@ -4,7 +4,7 @@ Meu nome é Thyago Ramos e sou um entusiasta da tecnologia apaixonado por desenv
 
 ## Sobre mim
 
-<span style="color:red">-</span> 🌱 Atualmente estou aprendendo Python, Git, Github.
+<span style="color:red">-</span> 🌱 Atualmente estou aprendendo Python, Git, Github, IA Inteligência Artificial.
 
 <span style="color:red">-</span> 💼 Eu estou Atualmente buscando oportunidade em área de trabalho ou projeto.
 
