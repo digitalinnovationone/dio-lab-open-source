@@ -12,7 +12,7 @@ Na universidade tive o contato com Phyton na matéria de algoritimos. A partir d
 
 Também aprendi um pouco sobre SQL, mas ainda está no inicio.
 
-Em breve trago mais atualizações.
+Em breve trago mais atualizações!
 
 ## Linguagem de Programação
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
