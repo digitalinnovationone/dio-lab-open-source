@@ -1,7 +1,7 @@
 # Carlinha1530
 
-Me chamo _Ana Carla_. Sou formado em Sistemas para Internet, atualmente trabalho com análise de dados.
-Estou desenvolvendo minhas habilidades em linguagens de programação como Python para analise de dados e machine learning. Estou muito feliz em participando do bootcamp **"Coding The Future Vivo - Python AI Backend Developer.**
+Me chamo _Ana Carla_. Sou formado em Sistemas para Internet, atualmente trabalhando home office.
+Estou desenvolvendo minhas habilidades em linguagens de programação com Python para analise de dados e machine learning. Estou muito feliz em participando do bootcamp **"Coding The Future Vivo - Python AI Backend Developer.**
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-carla-moraes-3704b34b/)
