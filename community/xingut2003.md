@@ -1,7 +1,7 @@
 ---
 
 # Davi Araújo T. Rêgo
-
+---
 Sobre mim:
 
 - Sou estudante da Universidade Federal do Paraná (UFPR), onde estou cursando Engenharia Química - Bacharelado, e sou membro do Diretório Acadêmico de Engenharia Química da UFPR. Além disso, ao meu ver, possuo habilidades de liderança, busco por otimizações e soluções para possíveis problemas, e sou didático ao ensinar algo do qual possuo conhecimento.
