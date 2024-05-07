@@ -1,17 +1,17 @@
 ### Hi there 👋
 ## 👨🏻‍💻Eu sou Alex Sandro R. de Souza
-# Brasileiro, 43 anos, Solteiro, 2 filhos(as) 
+### Brasileiro, 43 anos, Solteiro, 2 filhos(as) 
 
 ## Objetivos
-# Atuar na área de TI, buscando ampliar ainda mais os meus conhecimentos e desenvolvimento profissional, focando no crescimento da organização. 
+### Atuar na área de TI, buscando ampliar ainda mais os meus conhecimentos e desenvolvimento profissional, focando no crescimento da organização. 
 
 ## Resumo Profissional
-# Experiência de 21 anos na área de tecnologia da informação, atuei no desenvolvimento de diversos projetos aplicando tecnologia a projetos publicitários, na área de infraestrutura como administrador de redes e suporte a usuários. Sou formado na área de análise e desenvolvimento de sistemas, possuindo diversos cursos de desenvolvimento e programação web.
+### Experiência de 21 anos na área de tecnologia da informação, atuei no desenvolvimento de diversos projetos aplicando tecnologia a projetos publicitários, na área de infraestrutura como administrador de redes e suporte a usuários. Sou formado na área de análise e desenvolvimento de sistemas, possuindo diversos cursos de desenvolvimento e programação web.
 
 ## Formação 
-# Escolaridade - Formação superior completa 
-# Graduação
-# Analise e Desenvolvimento de Sistemas, UNESA - UNIVERSIDADE ESTÁCIO DE SÁ - (Junho de 2019) - Concluído 
+### Escolaridade - Formação superior completa 
+### Graduação
+### Analise e Desenvolvimento de Sistemas, UNESA - UNIVERSIDADE ESTÁCIO DE SÁ - (Junho de 2019) - Concluído 
 
 
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsrs&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  |  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=flavioandrade93&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/flavioandrade93/dio-lab-open-source/) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsrs&langs_count=8&theme=radical)](https://github.com/alexsrs/github-readme-stats)  |  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alexsrs&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/alexsrs/dio-lab-open-source/) |
 |--- |--- |
       
 <h3 align="left">Connect with me:</h3>
