@@ -22,4 +22,4 @@ Analista de Infraestrutura apaixonado em aprender, sempre buscando novas áreas,
 
 ### Meus Principais Desafios de Projeto DIO
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylumm&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/tylumm/dio-lab-open-source
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylumm&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
