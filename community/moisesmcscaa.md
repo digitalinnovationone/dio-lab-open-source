@@ -12,19 +12,19 @@ Aqui estão algumas das ferramentas e tecnologias com as quais trabalho:
 - ![Dart 🎯](https://dart.dev/assets/img/logo/logo-white-text.svg)
 
 ### Frameworks:
-- Flutter 🦋
-- React ⚛️
-- React Native
-- Expo 🛠️
-- Node.js 🟢
-- Bootstrap 🌟
-- Firebase 🔥
-- Express 🚂
-- Material Design 🎨
+- [Flutter 🦋](https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg)
+- [React ⚛️](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+- [React Native](https://reactnative.dev/img/header_logo.svg)
+- [Expo 🛠️](https://miro.medium.com/v2/resize:fit:640/format:webp/1*wPKZnE6XTw-wtH2k-KARPg.png)
+- [Node.js 🟢](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge)
+- [Bootstrap 🌟](https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png)
+- [Firebase 🔥](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwlN7V_6GKkcCeVNo3I_IOl177hIQg9uXNdrK3WPSJ8xhzbD5BRuAVYUc0ebj7yVtlZ2w3KLSwXH0Z5Ezh5OSnin7FJL8QQh3cbvH1BHZbyX3Z6XMmPuqYIJq8_PMh2JAiUVKAiLcZxIIE/s320/image00.png)
+- [Express 🚂](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
+- [Material Design 🎨](https://scontent.fthe2-1.fna.fbcdn.net/v/t39.30808-1/327205055_715100203348841_7070042501233726481_n.png?stp=dst-png_s200x200&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ML_Ge1TJ--YQ7kNvgHwZ7y-&_nc_ht=scontent.fthe2-1.fna&oh=00_AfAAFMsUKCZXHIKmfLGEyvjuSYN-4pfyJKu7lFwaZplNhg&oe=664072BE)
 
 ### Linguagens de Marcação:
 - ![HTML5 🏗](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-- CSS 3 🎨
+- ![CSS 3 🎨](https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge)
 
 Como criador de soluções digitais:
 
