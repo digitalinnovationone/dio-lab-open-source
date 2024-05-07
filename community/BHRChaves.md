@@ -7,7 +7,7 @@ Estou iniciando a carreira na área da tecnologia, com intuito de me tornar um p
 
 *Aceitando propostas, tudo aquilo o que contribui para o crescimento profissional é valido*
 
-#### Atualmente estou cursando Sistemas de Informção, Iniciando o primeiro semeste e me especializando com cursos da [DIO](https://gitlab.com/SEUUSERNAME)
+#### Atualmente estou cursando Sistemas de Inforamção, Iniciando o primeiro semeste e me especializando com cursos da [DIO](https://www.dio.me/users/baltazarhrc666)
 
 
 # Social
