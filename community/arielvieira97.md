@@ -9,7 +9,7 @@ explorar novas tecnologias. Com um olhar curioso para os desafios da programaç�
 evoluir no universo da tecnologia. Além do meu interesse pela codificação, sou dedicado ao trabalho em equipe e à 
 resolução criativa de problemas. Ansioso para contribuir e crescer no cenário dinâmico da programação, estou aberto a 
 oportunidades que desafiem e impulsionem o meu desenvolvimento profissional. Vamos juntos construir o futuro da tecnologia!
-- buscando um conhecimento maior na área e futaramente um estágio para complementar meu aprendizado.
+- buscando um conhecimento maior na área e futuramente um estágio para complementar meu aprendizado.
 - atualmente trabalhando em outra área, mas dando começo à mudança de carreira (difícil, mas não impossível hahaha)
 
 # Conecte-se comigo
