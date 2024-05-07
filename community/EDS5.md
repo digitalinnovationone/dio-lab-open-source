@@ -21,7 +21,7 @@
 <br />
 
 
-> Hello everyone! My name is Everton Souza, and I'm here to share a bit of my journey as a software developer. With over 13 years of experience in the technology field, at the age of 32, I have accumulated extensive knowledge and skills in Systems.
+> Hello! My name is Everton Souza, and I'm here to share a bit of my journey as a software developer. With over 13 years of experience in the technology field, at the age of 32, I have accumulated extensive knowledge and skills in Systems.
 > Throughout the years, I've had the privilege of working on a variety of challenging projects, ranging from website creation to complete networks. My expertise spans languages such as Python, PHP, and SQL, among others.
 > I've been actively involved in large-scale projects, dealing with complex information management systems and ERP systems. My focus has always been on providing robust and efficient solutions, ensuring customer satisfaction and technical excellence.
 > In addition to my technical work, I highly value teamwork collaboration. With experience in agile methodologies and a range of certifications and courses in the technology field, I am well-prepared to lead and integrate high-performance teams, ensuring timely and quality deliveries.
