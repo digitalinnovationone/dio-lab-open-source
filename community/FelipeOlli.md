@@ -11,7 +11,6 @@
 
 [![<  > LinkedIn- Felipe Oliveira](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/seu_usuario)
 
-[![<  > Instagram - Soluções Inteligentes](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/seu_usuario)  
 
 
 
