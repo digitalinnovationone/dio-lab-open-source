@@ -30,5 +30,4 @@
     <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117"/>
     <img src="https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117"/>
 </div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b5b3b7&height=120&section=footer"/>
