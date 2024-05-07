@@ -1,4 +1,4 @@
-## Olá, eu sou Felipe Oliveira (FelipeOlli) 👋
+## Olá, eu sou Felipe Oliveira (felipeolli) 👋
 
 ✨ Profissional de TI com mais de 15 anos de mercado, resolvendo problemas de hardware e software.  
 🎓 Engenheiro da Computação pela Veiga de Almeida (UVA)  
