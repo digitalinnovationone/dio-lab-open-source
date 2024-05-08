@@ -27,4 +27,3 @@ Olá! Eu sou a LarissaBSouza e estou retomando meus estudos na programação.
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LarissaBSouza&repo=NLW-ShortsSummary&bg_color=6959CD&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)](https://github.com/LarissaBSouza/NLW-ShortsSummary)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LarissaBSouza&repo=digital-republic-code-challenge&bg_color=6959CD&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)](https://github.com/LarissaBSouza/digital-republic-code-challenge)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LarissaBSouza&theme=purple&background=6959CD&border=FFF&dates=FFF)](https://git.io/streak-stats)
