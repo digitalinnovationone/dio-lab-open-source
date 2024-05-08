@@ -12,7 +12,7 @@
 
  Analista de Desenvolvimento | Desenvolvedora Front end </h2>
 
-<div align="center" >
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sindiraimundo&theme=dark&hide_border=true&fire=8342CD&ring=8342CD&stroke=8342CD&currStreakNum=8342CD&sideLabels=8342CD&sideNums=EBE2D9&currStreakLabel=8342CD)](https://git.io/streak-stats)
 
