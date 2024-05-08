@@ -6,7 +6,7 @@
 
 ## Um pouco sobre mim
 
-Olá👋 Meu nome é Ana Clara, tenho 18 anos e estou nos últimos passos do ensino médio. Estou aqui para compartilhar um pouco sobre mim e minha jornada futura.Desde muito cedo, sempre me fascinei pelo mundo da tecnologia. A maneira como a tecnologia transforma e simplifica nossas vidas sempre me intrigou. 
+Olá👋 Meu nome é Ana Clara, moro em São Paulo e tenho 18 anos, estou nos últimos passos do ensino médio. Estou aqui para compartilhar um pouco sobre mim e minha jornada futura.Desde muito cedo, sempre me fascinei pelo mundo da tecnologia. A maneira como a tecnologia transforma e simplifica nossas vidas sempre me intrigou. 
 
 Estou ansiosa para ingressar na área de Tecnologia da Informação (TI). Acredito que essa área oferece oportunidades infinitas para aprender e crescer, e estou determinada a aproveitar cada uma delas. Tenho um forte desejo de expandir meus conhecimentos e habilidades nesta área emocionante e dinâmica.
 
