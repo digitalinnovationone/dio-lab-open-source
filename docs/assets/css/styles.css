@@ -4,8 +4,10 @@
 
 :root {
   --primary-color: #E94D5F;
-  --secondary-color: #30A3DC;
-
+  --secondary-color: #30A3DC; 
+  --gradient1: linear-gradient(#000000, #30a3dc00, #fbfdff00); /*adicionei uma nova cor gradient1*/ 
+  --gradient2: linear-gradient( #000000, #ff0000);               /*adicionei uma nova cor gradient2*/
+  
   --gray-600: #212327BF;
   --gray-500: #707070;
   --gray-300: #CED2D6;
@@ -46,8 +48,11 @@ body {
     font-family: 'Open Sans', Tahoma, Geneva, Verdana, sans-serif;
     color: var(--black);
     background: var(--gray-100);
-    width: 100vw;
+    width: 100vw;    
     overflow-x: hidden;
+
+    /*Alterações efeutadas em body*/
+    background: var(--black);
 }
 
 a {
@@ -72,12 +77,17 @@ code {
     padding: .25rem .35rem;
 }
 
-
 header {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
+
+    /*Alterações efeutadas em header*/
+    position: fixed; 
+    top:  0; 
+    width: 100%;   
+    background: var(--gray-200);
 }
 
 header div {
@@ -87,13 +97,13 @@ header div {
     justify-content: space-between;
     align-items: center;
     background: var(--black);
-    padding: .75rem 2rem;
+    padding: .75rem 2rem;    
 }
 
-header nav ul{
+header nav ul{    
     display: flex;
     text-align: center;
-    justify-content: center;
+    justify-content: center;    
 }
 
 .brand {
@@ -109,7 +119,6 @@ header nav ul{
     font-size: 1.5rem;
     color: var(--white);
 }
-
 
 .menu-social {
     list-style: none;
@@ -152,10 +161,14 @@ header nav {
     display: flex;
     flex-flow: row wrap;
     justify-content: space-between;
-    align-items: center;
-    background: var(--gray-200);
+    align-items:center;    
     padding: .25rem 2rem;
     box-shadow: inset 0 0.1rem 0.2rem var(--gray-500);
+
+    /*Alterações efeutadas em header nav*/
+    background: var(--gradient1);
+    border-top: 0.1rem solid #ff0000;
+    justify-content: center;          
 }
 
 .menu {
@@ -165,7 +178,11 @@ header nav {
     flex-flow: row wrap;
     justify-content: flex-start;
     align-items: center;
-    gap: .5rem;
+    gap: 0.5rem;
+
+    /*Alterações afetuadas em .menu*/   
+    justify-content: center;
+    gap: 4rem;
 }
 
 .menu__item {
@@ -180,32 +197,90 @@ header nav {
 .menu__link:hover {
     color: var(--primary-color);
 }
-
-main, section {
-    padding: 2rem 2rem 0;
+/*Adicionei stilo em main*/
+main{       
+    background:var(--white);    
 }
 
-#desafio h1 {
+main, section {
+    padding: 2.6rem 5rem 0; 
+     
+}
+/*add*/
+#desafio{
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 1rem;   
+    gap: 1rem;    
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding-top: 10rem;
+    padding-bottom: 10rem;   
+}
+
+#desafio h1 {     
+    /*Alterações afetuadas na section desafio h1*/
+    margin-top: 2rem;
+    margin-bottom: 2rem;  
 }
 
 #desafio p {
+    text-align: justify;
+}  
+/*add*/
+#instructions{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;    
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+}
+/*add*/
+#instructions h2 {
+    /*Alterações afetuadas na section desafio h1*/
+    margin-top: 0rem;
+    margin-bottom: 0rem;    
+}
+/*add*/
+#instructions p {
     text-align: justify; 
+
 }
 
 #comunidade {
     display: flex;
     flex-direction: column;
+    align-items: center;
     gap: 1rem;
+    /*add*/    
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding-top: 10rem;
+    padding-bottom: 10rem;   
+}
+
+#comunidade p{
+    margin-top: 2rem;
+}
+    /*add*/
+#materiais{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;   
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding-top: 10rem;
+    padding-bottom: 10rem; 
 }
 
 #searchForm {
     display: flex;
+    margin-top: 2rem;
 }
-
 #searchButton {
     display: flex;
     flex-direction: row;
@@ -219,7 +294,7 @@ main, section {
     box-shadow: 0 1.125rem 5rem 0 rgba(153, 153, 153, 0.3);
     padding: .25rem .35rem;
     cursor: pointer;
-    transition: all 1s ease;
+    transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease; /* Este ponto estava com um pequeno defeito e eu adicionei transições específicas para cada propriedade que muda ao passar o mouse */
 }
 
 #searchButton span {
@@ -236,7 +311,7 @@ main, section {
 #searchButton:hover {
     color: var(--white);
     background-color: #0F0F0F;
-    border: #0F0F0F;
+    border-color: #0F0F0F; /* Corrigi para border-color para evitar a mudança de largura da borda */
 }
 
 #searchInput {
@@ -255,16 +330,35 @@ main, section {
 
 footer {
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: center;    
+    align-items: center;    
     border-top: .1rem solid var(--gray-300);
-    background: var(--gray-200);
+    /*background: var(--gray-200);*/  /*Alterei*/
     margin-top: 2rem;
     padding: 1.125rem 2rem;
+
+    /*Sugestões de alterações efeutadas em footer*/
+    position: fixed; 
+    bottom: 0; 
+    left: 0;   
+    text-align: center;
+    background: var(--gradient2); 
+    border-top: 0.1rem solid var(--secondary-color);
+    width: 100%;
+
 }
 
 footer p {
     text-align: center;
     font-size: .9rem;
     color: var(--black);
+
+    /*Alterações efeutadas em footer p*/
+    font-size: small;
+    word-spacing: 2px;
+    text-transform: capitalize;   
+    margin-bottom: 0px;
+    line-height: 1.5em;
+    color: var(--white);
+    
 }
