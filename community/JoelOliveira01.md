@@ -1,5 +1,5 @@
-#Joel OLiveira
-Olá , sou Joel Oliveira, tenho 23 anos, e atualmente trabalho como controlador de acesso pela empresa EAGLE SECURITY SYSTEMS.
+## Joel OLiveira
+Olá , sou Joel Jose Romero de Oliveira, tenho 23 anos, e atualmente trabalho como controlador de acesso pela empresa EAGLE SECURITY SYSTEMS.
 
 Tenho como meta, iniciar minha jornada em programação, buscando sempre novos desafios e habilidades. Atualmente participo do Bootcamp Santander pela Dio, e estudo por conta própria a linguagem C#, pelo [Torne-se um progamador](https://www.torneseumprogramador.com.br/).
 
