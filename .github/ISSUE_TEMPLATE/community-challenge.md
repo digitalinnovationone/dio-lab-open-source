@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-*Tem alguma sugestão para quem for fazer o Desafio? Por favor descreva.*
-Uma descrição do que pode ser feito. 
+*Tem uma sugestão para quem for fazer o desafio? Por favor descreva*
+Uma descrição
 
 *Descreva como você realizou o seu*
-Uma descrição sobre como você fez o seu.
+Uma descrição sobre como você fez o seu 
 
 *Links úteis*
-- [Nome do Link](URL)
+- [Nome do Linl](URL)
