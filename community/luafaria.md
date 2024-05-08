@@ -1,4 +1,4 @@
-# Oi, me chamo Luciane Faria 👋
+# Olá, sou a Luciane Faria 👋
 
 ### Sobre mim
 
@@ -22,12 +22,13 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Gherkin](https://img.shields.io/badge/gherkin-%236DB75E.svg?style=for-the-badge&logo=cucumber&logoColor=white)
+![Cucumber](https://img.shields.io/badge/cucumber-%2300A98F.svg?style=for-the-badge&logo=cucumber&logoColor=white)
+![Cypress](https://img.shields.io/badge/cypress-%23222222.svg?style=for-the-badge&logo=cypress&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-![Cypress](https://img.shields.io/badge/cypress-%23222222.svg?style=for-the-badge&logo=cypress&logoColor=white)
-![Cucumber](https://img.shields.io/badge/cucumber-%2300A98F.svg?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Oracle Database](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Eu estou estudando... 🧩
