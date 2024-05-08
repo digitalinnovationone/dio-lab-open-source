@@ -44,6 +44,6 @@ Tenho muito interesse em línguas e culturas diferentes e gostaria de trabalhar 
 
 <div style="padding-left: 20%;">
  
- ![ .: Tchau, Tchau! :.](https://media1.tenor.com/m/iQLH9O6qDw4AAAAC/peach-and-goma.gif){: style="color: #DF91DF; width: 300px; font-size: 40px;} <br> <br>
+![ .: Tchau, Tchau! :.](https://media1.tenor.com/m/iQLH9O6qDw4AAAAC/peach-and-goma.gif){: style="color: #DF91DF; width: 300px; font-size: 40px;} <br> <br>
 </div>
 </div>
