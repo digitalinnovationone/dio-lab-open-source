@@ -5,7 +5,7 @@
 
 - Em transição de carreira para Área de Dados.💻
 
-- Atualmente estudadndo Power BI.📊
+- Atualmente estudando Power BI.📊
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/teixeira07andreia/)  
