@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-- **Nome:** Alan Paz
+- **Nome:** Alan Silva Paz
 - **Idade:** 29 anos
 - **Hobbie:** Jogos eletronicos
 
