@@ -1,7 +1,7 @@
 
 # Olá, eu sou a Jucilene Bratti! 👋
 
-Estou em transição de carreira da fisioterapia/Adm para programação. Iniciei minha jornada com o bootcamp de JavaScript voltado apenas para back-end. Esse bootcamp Dio é meu sendo curso, então estou engatinhando nesta jornada. 
+Estou em transição de carreira da fisioterapia/Adm para programação. Iniciei minha jornada com o bootcamp de JavaScript voltado apenas para back-end. Esse bootcamp Dio é meu sendo curso, então estou engatinhando nesta jornada. Voltando para atualização, iniciando bootcamp de Java em backend patrocinada pelo Santander e a DIO.
 
 ---
 
