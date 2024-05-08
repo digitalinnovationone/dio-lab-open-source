@@ -1,8 +1,8 @@
 # Olá, sou Sérgio Bispo 
 
-Tenho 42 anos, recomecei a pouco tempo minha jornada em tecnologia, porém com algumas noções em programação advinda de um curso que fiz há 12 anos. Atualmente
+Tenho 42 anos, recomecei a pouco tempo minha jornada em tecnologia, porém com algumas noções em programação adquirida no curso de TI que fiz há 12 anos. Atualmente
 curso **Administração de Banco de Dados no Senai - DF**.
-Meu objetivo é voltar curso de Tecnologia em nível superior em *Analise e Desenvolvimento de Sistemas*.
+Meu objetivo é voltar ao curso de Tecnologia com formação em nível superior em *Analise e Desenvolvimento de Sistemas*.
 
 ## Conecte-se
 

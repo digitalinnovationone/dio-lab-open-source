@@ -18,7 +18,7 @@
   </div>
    <hr/>
 
-<h2 style="text-align: center;">⚒️ Tecnologias e Linguagens que eu estudo ⚒️</h2>
+<h2 align="center">⚒️ Tecnologias e Linguagens que eu estudo ⚒️</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
