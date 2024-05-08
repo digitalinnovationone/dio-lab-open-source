@@ -25,7 +25,7 @@
 - Parte frontend com Bootstrap 5 onde adicionei responsividade deixei o programa mais legível e agrádavel de aparência.
 - Com PHP apenas Iniciei um servidor no XAMPP que tinha sido criado e modifiquei algumas partes em html do PHP.
 - Em Javascript criei um script de mostrar senha e esconder senha do usuário
-<hr></hr>
+<hr></hr> 
 
 # Sobre mim
 
