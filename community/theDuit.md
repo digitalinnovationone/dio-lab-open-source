@@ -11,6 +11,7 @@ Sou estudante de Ciência da Computação e desenvolvedor Front-End
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheDuit)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheDuit)
