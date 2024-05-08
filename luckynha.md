@@ -1,5 +1,5 @@
 # Bem vindos ao meu mundo! 🌎👋
-Olá! Meu nome é Lucas Soares Gurgel da Silva, nasci em 1997 e sou um entusiasta no mundo do desenvolvimento, o qual resolvi ingressar em 2024. Inicio aqui minha jornada em busca de crescimento e aperfeiçoamento, para que possa contribuir efetivamente neste meio.
+Olá! Meu nome é Lucas Soares Gurgel da Silva, nasci em 1997 e sou um entusiasta no mundo do desenvolvimento, o qual resolvi ingressar em 2024. Inicio aqui minha jornada em busca de crescimento e aperfeiçoamento, para que possa contribuir efetivamente para este meio.
 
 ## Linguagens de interesse
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
