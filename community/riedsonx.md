@@ -1,4 +1,5 @@
 # About Of Me #
+![GitHub top language](https://img.shields.io/github/languages/top/riedsonx/dio-repository-open-source)
 ![GitHub language count](https://img.shields.io/github/languages/count/riedsonx/dio-repository-open-source)
 
 
