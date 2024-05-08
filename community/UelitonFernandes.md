@@ -4,7 +4,7 @@ Estudante de programação em busca da primeira oportunidade no mercado de traba
 
 * 📱 Estudos focados principalmente no desenvolvimento mobile para a plataforma Android 📱
 
-* 🎮 Interesado principalmente no desenvolvimento de jogos 🎮
+* 🎮 Interessado principalmente no desenvolvimento de jogos 🎮
 
 * ❤️ Apaixonado pelo aprendizado e seus desafios ❤️
 
