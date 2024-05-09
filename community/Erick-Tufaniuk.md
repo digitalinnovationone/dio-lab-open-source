@@ -100,4 +100,4 @@ OneBitCode - Curso Full-Stack JavaScript
 
 
 
->"O que eu ouço, esqueço. O que eu vejo, eu lembro. O que eu faço, eu entendo." , Confúcio.
+>"O que eu ouço, esqueço. O que eu vejo, eu lembro. O que eu faço, eu entendo." ,  Confúcio.
