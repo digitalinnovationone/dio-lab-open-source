@@ -1,7 +1,7 @@
 # Olá, meu nome é Rafael!
 
   <div id="badges">
-  <a href = "www.linkedin.com/in/rafael-alexander-gonçalves-dos-santos-7177a2204">
+  <a href = "https://www.linkedin.com/in/rafael-alexander-gon%C3%A7alves-dos-santos-7177a2204/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
