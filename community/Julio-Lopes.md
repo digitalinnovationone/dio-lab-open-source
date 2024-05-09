@@ -16,4 +16,4 @@ Cursando Análise e Desenvolvimento de Sistemas pela UNINTER. tenho afinidade co
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Julio-Lopes=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Julio-Lopes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
