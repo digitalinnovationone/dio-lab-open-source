@@ -6,7 +6,7 @@ Como pode ver, me chamo Pedro. Este é o primeiro registro da minha saga mudanç
 
 
 
-# Para acompanhar meu desenvolvimento ao longo desta jornada, segue meu contato:
+### Para acompanhar meu desenvolvimento ao longo desta jornada, segue meu contato:
 
  <div> 
   <a href = "mailto:pedrohschmidt92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
