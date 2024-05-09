@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hello! My name is Amanda, and I’m currently working on Pormade Portas, as a Software Developer!<br>🌱 I’m currently learning Java, and will start GoLang soon!<br>⚡ Fun fact: I have five cats, and three of them are little voids!<br>🎓 I'm on college, actually studying to be a Software Engineer :D
+🔭 Hello! My name is Amanda, and I’m currently working at Pormade Portas, as a Software Developer!<br>🌱 I’m currently learning Java, and will start GoLang soon!<br>⚡ Fun fact: I have five cats, and three of them are little voids!<br>🎓 I'm on college, actually studying to be a Software Engineer :D
 
 
 ## 🌐 Socials:
