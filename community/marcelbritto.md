@@ -6,6 +6,14 @@
 
 #
 
+
+ <div align="center">
+
+   <a href="https://github.com/marcelbritto">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelbritto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelbritto&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+
 ### Linguagem de Programação:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
