@@ -21,4 +21,4 @@ Acredito que minhas habilidades e experiências me tornam um candidato valioso p
 
 **Obrigado por visitar meu espaço!**
 
-#habilidades #programação #aprendizagem #aventura #cozinha #criatividade #tecnologia #futuro
+#habilidades #programação #aprendizagem #aventura #cozinha #criatividade #tecnologia #futuro 123
