@@ -22,7 +22,7 @@
 [![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)]
 </div>
 
-### 📲 Você pode me encontrar em:
+### 📲 Você pode me encontrar em:  
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bloodmoon.sonata/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:samuuel.dsgn@gmail.com)
