@@ -14,7 +14,6 @@ Palestrante em congressos tecnológicos e conferências (inter)nacionais como RI
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/ariadne_pinheiro/)
 [![Perfil LATTES](https://img.shields.io/badge/-Meu%20Perfil%20no%20LATTES-F54A2A?style=for-the-badge)](https://lattes.cnpq.br/5348196142320747)
-
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ariadne.pinheiro@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/ariadnepinheiro/)
 
@@ -22,13 +21,11 @@ Palestrante em congressos tecnológicos e conferências (inter)nacionais como RI
 
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![DOTNet](https://img.shields.io/badge/Dotnet-CC342D?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
-
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=30A3DC)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=E94D5F)](https://docs.github.com/)
 
