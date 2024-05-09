@@ -7,6 +7,7 @@ Meu objetivo é migrar de carreira para a área de desenvolvimento.
 Convido todos a visitarem meu perfil e conhecer mais sobre minhas
 realizações profissionais.
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gledson-nunes-machado-a772191ba/)
 
 
