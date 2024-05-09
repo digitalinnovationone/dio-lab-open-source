@@ -1,4 +1,4 @@
-## Olá, eu sou o Marcello H. Abreu Nunes Tenho 23 anos! Prazer em te Conhecer👋🏽
+## Olá, eu sou o Marcello H. Abreu Nunes, tenho 23 anos! Prazer em te Conhecer👋🏽
 
 ### Sobre mim
 
@@ -8,7 +8,7 @@
 - Estou procurando uma oportunidade para embarcar na minha jornada profissional na área da Tecnologia, ansioso para aplicar meu conhecimento acadêmico e adquirir novas experiência valiosas no mercado de trabalho. Estou pronto para enfrentar esses desafios, aprender e contribuir de forma significativa em qualquer oportunidade que surgir!
 
 
-## Meu Conhecimento Acadêmico na Programação 📝
+## Meu Conhecimento Acadêmico na Programação: 📝
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
