@@ -1,6 +1,6 @@
 # Maria Isabela 
-Olá, meu nome é Maria Isabela, sou estudante de Análise e Desenvolvimento de Sistemas. Estou sempre em busca de conhecimento e adoro aprender coisas novas. Tenho um interesse especial em Full Stack e Cibersegurança e estou determinada a absorver o máximo de informações possível nessas áreas. Estou focada em conquistar minha primeira oportunidade profissional no campo da tecnologia.
-## Conecte-se comigo
+Olá, meu nome é Maria Isabela, sou estudante de Análise e Desenvolvimento de Sistemas. Estou sempre em busca de conhecimento e adoro aprender coisas novas. Tenho um interesse especial em Full Stack e Cibersegurança e estou determinada a absorver o máximo de informações possível nessas áreas. Estou focada em conquistar minha primeira oportunidade profissional no campo da tecnologia.🧚🏻‍♀️
+## Conecte-se comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffcbdb?style=for-the-badge&logo=linkedin&logoColor=f17ea1)](https://www.linkedin.com/in/maria-isabela-miatto-de-lima-382520a6/) 
 [![Instagram](https://img.shields.io/badge/-Instagram-ffcbdb?style=for-the-badge&logo=instagram&logoColor=f17ea1)](https://www.instagram.com/m.isabela__/)
 [![GitHub](https://img.shields.io/badge/GitHub-ffcbdb?style=for-the-badge&logo=github&logoColor=f17ea1)](https://github.com/mariamiatto)
