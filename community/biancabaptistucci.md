@@ -1,6 +1,6 @@
 # Bianca Baptistucci
 
-#### Descrição sore mim 
+#### Olá! Me chamo Bia✨ sou apaixonado pelo universo da tecnologia, especialmente pela área de desenvolvimento back end. Após concluir um curso de Java em 2022, decidi aprofundar meus conhecimentos nessa linguagem, buscando me preparar para ingressar no mercado como um desenvolvedor qualificado e dedicado.
 
 ## Conecte-se comigo
 ####
