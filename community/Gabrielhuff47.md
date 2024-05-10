@@ -1,11 +1,3 @@
-  <style>
-  p {
-    text-align: justify; 
-  }
-h1 {
-    font-weight: bold; 
-  }
-</style>
 
 <h1>Gabriel Quintana Huf 👨🏾‍💻</h1>
 <h2>🔥 About</h2>

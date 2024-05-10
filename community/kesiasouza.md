@@ -1,5 +1,7 @@
-**Olá me chamo Késia,**
+**Olá, me chamo Késia,**
 
-**Estou aprendendo do inicio sobre a programação.**
+**Estou no terceiro semestre do curso ADS,**
 
-**Espero adquirir conhecimento e colocar em pratica.**
+**E iniciando nesse mundo tecnologico, quero aprender e colocar em pratica tudo que vou aprender por aqui.**
+
+**Sucesso pra nós.🚀**
