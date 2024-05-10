@@ -1,4 +1,4 @@
- ## Juliana Gusman ⚡️
+ # Juliana Gusman ⚡️
 
 - Eu sou uma estudante de tecnologia, eu adoro tudo oque tem haver com modernidades tecnológicas, sou curiosa, gosto de aprender e de estudar, adoro ler, escrever e ensinar as coisas que aprendo.
 
