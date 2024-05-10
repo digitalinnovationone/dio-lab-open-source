@@ -15,4 +15,4 @@ Aqui estão algumas das minhas habilidades:
 - ![PL/SQL](https://img.shields.io/badge/PL/SQL-blue)
 - ![COLDFUSION](https://img.shields.io/badge/ColdFusion-blue)
 - ![JAVA](https://img.shields.io/badge/JAVA-red)
-
+- ![PowerBI](https://img.shields.io/badge/PowerBI-green)
