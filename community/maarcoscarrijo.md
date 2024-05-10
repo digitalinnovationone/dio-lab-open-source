@@ -1,6 +1,6 @@
 ## Olá 👋, eu sou o Marcos Carrijo! 👻
 
-#### Sou um apaixonado por tecnologia, atuando como Analista de infraestrutura, em transição de carreira para Dev Back-end. 🚀
+#### Sou apaixonado por tecnologia, atuando como Analista de infraestrutura, em transição de carreira para Dev Back-end. 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maarcoscarrijo&label=Profile%20views&color=0e75b6&style=flat" alt="maarcoscarrijo" /> </p>
 
