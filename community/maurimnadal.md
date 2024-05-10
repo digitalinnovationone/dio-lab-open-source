@@ -28,9 +28,9 @@ Atualmente estou estudando a área de front-end e começando o bootcamp de Java 
 
 ## Contribuições e Projetos
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=maurimnadal&repo=dio-lab-open-source&bg_color=552361&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=maurimnadal&repo=projeto-android&bg_color=552361&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=maurimnadal&repo=projeto-cordel&bg_color=552361&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=maurimnadal&repo=dio-lab-open-source&bg_color=552361&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=FFF)](https://github.com/maurimnadal/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=maurimnadal&repo=projeto-android&bg_color=552361&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=FFF)](https://github.com/maurimnadal/projeto-android)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=maurimnadal&repo=projeto-cordel&bg_color=552361&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=FFF)](https://github.com/maurimnadal/projeto-cordel)
 
 ## Cursos e Bootcamps
 
