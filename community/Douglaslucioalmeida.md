@@ -5,4 +5,4 @@ assim conseguirei me dedicar, com um pouco mais de tempo presencial com meus pai
 
 ###Tenho disposição para aprender, e agradeço a comunidade pela oportunidade de aprendizagem.
 
-#### nos próximos dias vou me dedicar a construção de arquivo MD.
+#### nos próximos dias vou me dedicar a construção de arquivo MD..
