@@ -6,7 +6,7 @@
 
 ## Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thaisoliveirarosa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaisoliveirarosa/)
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thaaisdeoliveira)
 
@@ -16,4 +16,4 @@
 
 ## Minhas contribuições
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=thaisoliveirarosa&theme=dracula)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=thaisoliveirarosa&theme=dracula)
