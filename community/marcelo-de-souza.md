@@ -1,6 +1,6 @@
 # 👨🏽‍💻📖Marcelo Souza
 ## Sobre mim
-Sou **Servidor Público Federal** do ***[IBGE](https://www.ibge.gov.br/)*** desde 2014, 
+Sou **Servidor Público Federal** do **[IBGE](https://www.ibge.gov.br/)** desde 2014, 
 
 Formado em 🧑🏽‍💼**Administração** pela **[UFPI](https://ufpi.br/)** 
 
