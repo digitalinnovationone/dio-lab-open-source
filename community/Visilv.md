@@ -3,7 +3,7 @@
 <h1 align="center" style="color:  #C0D9D9">Olá! Eu sou o Victor :)</h1>
 
 ## 💠 Sobre mim
-Estudante de Análise e Desenvolvimento de Sistemas | Completamente apaixonado pela tecnologia | Em busca de tornar-me um desenvolvedor Full Stack
+Estudante de Análise e Desenvolvimento de Sistemas | Completamente apaixonado pela Tecnologia | Em busca de tornar-me um desenvolvedor Full Stack.
 
 
 
