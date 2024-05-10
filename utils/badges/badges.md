@@ -163,50 +163,13 @@
 </table>
 
 ## Linguagens de Marcação e Estilo
-<table>
-  <thead>
-    <tr align="left">
-      <th>Badge</th>
-      <th>Markdown</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>
-        <img align="center" alt="Markdown" src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown">
-      </td>
-      <td>
-        <code>![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-      </td>
-      <td>
-        <code>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      </td>
-      <td>
-        <code>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="Sass" src="https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass">
-      </td>
-      <td>
-        <code>![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)</code>
-      </td>
-    </tr>
-    
-  </tbody>
-  <tfoot></tfoot>
-</table>
+| Badge | Markdown |
+| --- | --- |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | `![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)` |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | `![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)` |
+| ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) | `![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)` |
+| ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass) | `![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)` |
+
 
 ## Linguagens de Programação
 | Badge | Markdown |
