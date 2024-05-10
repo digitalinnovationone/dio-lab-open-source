@@ -3,7 +3,7 @@
 - 💙 Ex Aluna do Instituto Proa  <br>
 - 📚 Sempre aprendendo e evoluindo  <br>
 - 🧠 Gosto de desafios, e estou sempre pronta para eles  <br>
-- 🌟 Criatividade  <br>
+- 🌟 Criatividade;  <br>
 
 <br> 
 
