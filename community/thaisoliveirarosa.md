@@ -16,4 +16,4 @@
 
 ## Minhas contribuições
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=thaisoliveirarosa&theme=dracula)]
+![GitHub Streak](https://streak-stats.demolab.com/?user=thaisoliveirarosa&theme=dracula)
