@@ -6,10 +6,11 @@ Olá! Sou Erlan Ferreira, sou de Carpina-PE e sou formado em Adminitração e Co
 
 ### Conecte-se Comigo!
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erlan-ferreira/)  |[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErlanFerreira)   | [![Perfil DIO](https://img.shields.io/badge/-DIO-777?style=for-the-badge)](https://www.dio.me/users/erlansferreira)  | [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=fff)](mailto:erlansferreira@gmail.com)  | [![Instagram](https://img.shields.io/badge/-Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erlanjesf/)  |
-|
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erlan-ferreira/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErlanFerreira)
+[![Perfil DIO](https://img.shields.io/badge/-DIO-777?style=for-the-badge)](https://www.dio.me/users/erlansferreira)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=fff)](mailto:erlansferreira@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erlanjesf/)
 
 ###  Linguagem de programação
 
@@ -23,11 +24,8 @@ Olá! Sou Erlan Ferreira, sou de Carpina-PE e sou formado em Adminitração e Co
 
 ### Ferramentas
 
-| | |  |
-| -------- | ----- | ----------- |
-| ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)        | ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)    |     |
-|        |      |             |
-
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Github Stats
 
