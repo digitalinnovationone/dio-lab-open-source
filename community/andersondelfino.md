@@ -16,7 +16,7 @@ Tenho também alguns cursos de tecnologias como: Java Script, HTML5, Linguagem d
 
 Além disso, me considero muito comunicativo, gosto de entender os problemas e sempre pensar nas melhores soluções a serem implementadas. Acredito que a união e a colaboração são as melhores formas de atingir objetivos com exatidão.
 
-### 👨‍💻 Principais Tecnologias 👨‍💻
+### 👨‍💻  Principais Tecnologias  👨‍💻
 
 <div style="display: inline_block"><br/>
 <img aLign="center" alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
