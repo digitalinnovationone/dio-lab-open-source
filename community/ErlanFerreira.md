@@ -2,7 +2,7 @@
 
 ## Quem sou eu?
 
-Olá! Sou Erlan Ferreira, sou de Carpina-PE e sou formado em Adminitração e Contabilidade, por curiosidade comecei a pesquisar sobre liguagem de programação gostei e estou começando a aprender, dando os primeiros passos. 
+Olá! Sou Erlan Ferreira, sou de Carpina-PE e sou formado em Adminitração e Contabilidade, por curiosidade comecei a pesquisar sobre liguagem de programação gostei que resolvi me aprofundar mais e estou começando a aprender, dando os primeiros passos. 
 
 ### Conecte-se Comigo!
 
