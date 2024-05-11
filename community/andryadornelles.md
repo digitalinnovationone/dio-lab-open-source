@@ -1,6 +1,5 @@
-
 # Andrya Dornelles
-Iniciante nos estudos de tecnologia, buscando uma realocação de carreira.
+Iniciante nos estudos de tecnologia, buscando uma oportunidade de realocação de carreira.
 
 ## 🌸 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-999?style=for-the-badge&logo=linkedin&logoColor=blue)](https://wwwlinkedin.com/in/andryadornelles/)
