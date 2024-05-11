@@ -1,9 +1,10 @@
 
 # Rogério Andrade
 
-Olá, venha conhecer um pouco sobre minha vida profissional. 
-Trabalho há mais de 10 anos no segmento técnico na Proxxi Tecnologia/IBM, atuando principalmente com automação bancária.
-Sempre gostei de trabalhar com tecnologia e estou buscando novas oportunidades com outras tecnologias, trabalhei em alguns projetos de Python e atualmente tenho me dedicado em Cloud e tecnlogias de monitoramento.
+Olá, veja um breve resumo sobre minha vida profissional e sobre minhas próximas metas.
+
+>Trabalho há mais de 10 anos no segmento técnico na Proxxi Tecnologia/IBM, atuando principalmente com automação bancária. 
+Sempre gostei de trabalhar com tecnologia e por isso entendo ser necessário mudar, melhorar as skills e buscar novas ferramentas e habilidades, por esse motivo trabalhei em alguns projetos de Python e atualmente estou me dedicado em Cloud e tecnlogias de monitoramento.
 
 
 ### 🔗 Conecte-se comigo nas redes sociais.
