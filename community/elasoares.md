@@ -1,7 +1,7 @@
 # Elaine Soares Almeida
 
 ## Sobre mim
-Sou graduanda em Análise e Desenvolvimento de Sistemas no Instituto Infnet, com previsão de conclusão em 2026. Tenho experiência em desenvolvimento front-end, especialmente em design de interface do usuário (UI) e experiência do usuário (UX), desenvolvimento de interfaces responsivas e acessíveis, e utilização de tecnologias como HTML, CSS, JavaScript, Git, GitHub, Bootstrap, Figma, React, React Native, e CRUD Firebase. Além disso, tenho experiência profissional em diversas áreas, incluindo atendimento ao cliente, assistente administrativo e instrutora de Português para Estrangeiros.
+Sou graduanda em Análise e Desenvolvimento de Sistemas no Instituto Infnet, com previsão de conclusão em 2026. Desenvolvimento front-end, especialmente em design de interface do usuário (UI) e (UX), desenvolvimento de interfaces responsivas e acessíveis, e utilização de tecnologias como HTML, CSS, JavaScript, Git, GitHub, Bootstrap, Figma, React, React Native, e CRUD Firebase. Além disso, tenho experiência profissional em diversas áreas, incluindo atendimento ao cliente, assistente administrativo e instrutora de Português para Estrangeiros.
 
 ## Experiência Profissional
 - **Auxiliar Administrativo (Jovem Aprendiz)**, Haptech Soluções (abr/2015 - mar/2016)
