@@ -6,7 +6,7 @@ Focado em obtenção de resultados de formas rápidas e práticas, simples e obj
 
 Com quase uma década de experiência nas Forças Armadas, fui moldado pela responsabilidade, altruísmo, ética, trabalho sobre pressão e liderança em momentos críticos. Comprometido em aplicar esses valores no mundo da tecnologia para criar soluções seguras e inovadoras.
 
-Com uma coragem admirável e uma sede insaciável por aprendizado, estou mergulhando de cabeça nas linguagens de programação fundamentais: C, JavaScript, HTML, CSS3 e Python.
+Com uma coragem admirável e uma sede insaciável por aprendizado, estou mergulhando de cabeça nas linguagens de programação fundamentais: C, HTML, CSS3, JavaScript e Python.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlostolhayashida/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@caarlostol/) 
