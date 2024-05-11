@@ -2,7 +2,6 @@
 # Rogério Andrade
 
 Olá, venha conhecer um pouco sobre minha vida profissional.
-
 Trabalho há mais de 10 anos no segmento técnico na Proxxi Tecnologia/IBM, atuando principalmente com automação bancária.
 Sempre gostei de trabalhar com tecnologia e estou buscando novas oportunidades com outras tecnologias, trabalhei em alguns projetos de Python e atualmente tenho me dedicado em Cloud e tecnlogias de monitoramento.
 
