@@ -1,4 +1,9 @@
 # Júlio Brum
+
+## Sobre Mim
+
+👋 Olá! Eu sou Júlio Brum, um apaixonado por tecnologia e estudante de Engenharia de Computação.
+
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcpbrum/)
 [![Perfil DIO](https://img.shields.io/badge/DIO-000?style=for-the-badge&logo=)](https://www.dio.me/users/julio_cesar_brum)
