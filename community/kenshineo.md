@@ -13,7 +13,7 @@ Projeto criado para o desafio da DIO, etapa contribuindo com um projeto Open Sou
 
 ## Cards
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kenshineo&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kenshineo&theme=bear&background=dark-brown&border=green&dates=FFF)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kenshineo&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
