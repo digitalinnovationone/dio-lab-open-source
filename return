@@ -1,0 +1,234 @@
+[33mcommit 05a28e34c6d228a5d264172f0645a9413bf8f0e0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: IsabelaMoura <isabelagmoura98@gmail.com>
+Date:   Sat May 11 12:14:13 2024 -0300
+
+    projeto de contribuiçao
+
+[33mcommit 77f57e8a7632072b3b86eacb52b00a9250af6b23[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 683012383 a2a09eec1
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat May 11 14:45:26 2024 +0000
+
+    Merge pull request #34409 from JCBRUM/feat/community/JCBRUM
+
+[33mcommit a2a09eec1229d85ed94f50f41d37b10c95a88bdc[m
+Author: JCBRUM <35967823+JCBRUM@users.noreply.github.com>
+Date:   Sat May 11 11:44:57 2024 -0300
+
+    Update README.md
+
+[33mcommit 69ac9f7b3c4934b34b0189965e540212ac8d9906[m
+Author: JCBRUM <35967823+JCBRUM@users.noreply.github.com>
+Date:   Sat May 11 11:38:23 2024 -0300
+
+    Update README.md
+
+[33mcommit 9fa6065c2be5a86f0c951043dabd0ac8fa16eccd[m
+Author: JCBRUM <35967823+JCBRUM@users.noreply.github.com>
+Date:   Sat May 11 11:34:22 2024 -0300
+
+    Add files via upload
+
+[33mcommit 683012383739221ffe7eb8d96aae1fe3beae48d5[m
+Merge: b2cae0f5d 9749db3e1
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat May 11 14:26:01 2024 +0000
+
+    Merge pull request #34418 from PauloNascimento414/feat/community/PauloNascimento414
+
+[33mcommit 4498ed5179ce7488e87e56c1cc5ee938ae709b31[m
+Author: JCBRUM <35967823+JCBRUM@users.noreply.github.com>
+Date:   Sat May 11 11:24:50 2024 -0300
+
+    Delete community/JCBRUM.md
+
+[33mcommit b2cae0f5db1298ccff885f534a577fca0d79190d[m
+Merge: c2ee81a52 92ad3e5d4
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat May 11 14:20:12 2024 +0000
+
+    Merge pull request #34417 from ju-c-lopes/feat/community/ju-c-lopes
+
+[33mcommit 9749db3e1d2b3e3479e0e5b034fc3897438876ba[m
+Author: Paulo Henrique <paulonascimento2003@gmail.com>
+Date:   Sat May 11 11:20:06 2024 -0300
+
+    feat: add PauloNascimento414 profile
+
+[33mcommit c2ee81a52d789c8e01f82e2ac9f2fd8de8cb4d89[m
+Merge: d96108db2 380995b05
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat May 11 14:15:46 2024 +0000
+
+    Merge pull request #34416 from Visilv/main
+
+[33mcommit 380995b0527168f1e131b3743d7c3d3308d32e6d[m
+Merge: 1926d6b81 d96108db2
+Author: Victor Ramos <victor7.ramos12@gmail.com>
+Date:   Sat May 11 11:13:19 2024 -0300
+
+    Merge branch 'digitalinnovationone:main' into main
+
+[33mcommit d96108db23e6ae2a6e8ccde6d3a1c4f7f9b2cf9c[m
+Merge: 4e00659ef eacd59abf
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat May 11 14:07:33 2024 +0000
+
+    Merge pull request #34413 from edduardog/feat/community/edduardog
+
+[33mcommit 52a2806d2d25f78aacc16331f1207a4405fe630e[m
+Author: JCBRUM <35967823+JCBRUM@users.noreply.github.com>
+Date:   Sat May 11 11:00:53 2024 -0300
+
+    Update JCBRUM.md
+
+[33mcommit 92ad3e5d45a9ce4bfbf50d21d00b3a6907d47b0d[m
+Author: Juliano <juliano.co.lopes@gmail.com>
+Date:   Sat May 11 10:57:19 2024 -0300
+
+    feat: add ju-c-lopes profile
+
+[33mcommit d3b07f54c5357caf8e722cc96268ca07a87a9d3b[m
+Author: JCBRUM <35967823+JCBRUM@users.noreply.github.com>
+Date:   Sat May 11 10:55:11 2024 -0300
+
+    Update JCBRUM.md
+
+[33mcommit f01b63fefd6a813bced2637f3c0557bee4749b7d[m
+Author: JCBRUM <35967823+JCBRUM@users.noreply.github.com>
+Date:   Sat May 11 10:54:51 2024 -0300
+
+    Update JCBRUM.md
+
+[33mcommit a686d78be08cbc1052cfce092fbe5507d5fa2328[m
+Merge: c8d952122 4e00659ef
+Author: JCBRUM <35967823+JCBRUM@users.noreply.github.com>
+Date:   Sat May 11 10:48:11 2024 -0300
+
+    Merge branch 'digitalinnovationone:main' into feat/community/JCBRUM
+
+[33mcommit 4e00659ef0f8eb94937820ac701df1f4f5f74572[m
+Merge: 5bbde293e 3b0fe1e3f
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat May 11 13:31:43 2024 +0000
+
+    Merge pull request #34408 from marcospaulopitta/main
+
+[33mcommit c8d952122b975bc727733482f6a6f33c982baf17[m
+Author: JCBRUM <julio_cesar_brum@yahoo.com.br>
+Date:   Sat May 11 10:30:30 2024 -0300
+
+    feat: add JCBRUM profile
+
+[33mcommit 3b0fe1e3fc3f6e3924d9062bc213dabdff3cb4ee[m
+Author: Marcos Paulo S R Pitta <94980623+marcospaulopitta@users.noreply.github.com>
+Date:   Sat May 11 10:29:35 2024 -0300
+
+    Create marcospaulopitta.md
+
+[33mcommit 9a30cf470202667afd552304193091285adc11df[m
+Author: JCBRUM <35967823+JCBRUM@users.noreply.github.com>
+Date:   Sat May 11 09:31:09 2024 -0300
+
+    docs: update README.md
+
+[33mcommit 5bbde293ee239d9b61eac9dc24a9d392c58ae056[m
+Merge: a76feefaa 6459bb2c2
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat May 11 12:00:16 2024 +0000
+
+    Merge pull request #34399 from higu-coding/patch-1
+
+[33mcommit 6459bb2c2a7ba50a74d7ed63574025971ee6c7ee[m
+Author: hiago.code <147352936+higu-coding@users.noreply.github.com>
+Date:   Sat May 11 08:59:52 2024 -0300
+
+    higu-coding.md
+
+[33mcommit e891e726ef16ac7365a0e87b6cd02a3f6769e39c[m
+Author: hiago.code <147352936+higu-coding@users.noreply.github.com>
+Date:   Sat May 11 08:58:05 2024 -0300
+
+    hiago.md
+
+[33mcommit a76feefaad6bfe11ca2f9aa6a1e417f546c4eaf8[m
+Merge: 9005556fb e86825fa3
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat May 11 11:41:11 2024 +0000
+
+    Merge pull request #34397 from Sousa-Diin/feat/community/Sousa-Diin
+
+[33mcommit 9005556fb3c02a34fb1b4c701eaf6ab3e6f82b29[m
+Merge: 772c38117 0c1fa79aa
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat May 11 11:39:32 2024 +0000
+
+    Merge pull request #34396 from LucasPedrosoTI/feat/community/LucasPedrosoTI
+
+[33mcommit 0c1fa79aae6ecec1cb52dac891c54bdb4a2e08b4[m
+Author: LucasPedrosoTI <lps1010@gmail.com>
+Date:   Sat May 11 08:35:21 2024 -0300
+
+    feat: add LucasPedrosoTI profile
+
+[33mcommit e86825fa36e95c4d72755afca147d6f1b4c9a9c5[m
+Author: Sousa-Diin <augustowildes@gmail.com>
+Date:   Sat May 11 08:26:50 2024 -0300
+
+    feat: add Sousa-Diin profile
+
+[33mcommit 772c3811775b36fdee2108445cf5ebc4a8234143[m
+Merge: 9e09a5b8a 1ea7582ec
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat May 11 11:13:02 2024 +0000
+
+    Merge pull request #34395 from leonidas144/feat/community/leonidas144
+
+[33mcommit 1ea7582ec113e11bce6582655f8eddfb281b946a[m
+Author: Leonidas <leo_alvarenga92@hotmail.com>
+Date:   Sat May 11 08:08:06 2024 -0300
+
+    feat: add leonidas144 profile
+
+[33mcommit 9e09a5b8aecfb8dfc0d929075493aeb5f0900d58[m
+Merge: 5445daf10 d80f327c1
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat May 11 10:15:52 2024 +0000
+
+    Merge pull request #34394 from ChristianoBourguignon/feat/community/ChristianoBourguignon
+
+[33mcommit d80f327c1104410cfb1df0b161611e3b0b3ce0aa[m
+Author: Christiano Bourguignon <73648498+ChristianoBourguignon@users.noreply.github.com>
+Date:   Sat May 11 07:15:04 2024 -0300
+
+    feat: add ChristianoBourguignon profile
+
+[33mcommit 5445daf10aacea6fd65c446b5058188d11333778[m
+Merge: 8d5b52890 3e65e8bfa
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat May 11 06:27:54 2024 +0000
+
+    Merge pull request #34392 from giancarlozero/feat/community/giancarlozero
+
+[33mcommit 3e65e8bfab80c58259b2f2cf7df48a045ba45cc8[m
+Author: Giancarlo Silva <giancarlozero@gmail.com>
+Date:   Sat May 11 03:21:28 2024 -0300
+
+    feat: add giancarlozero profile
+
+[33mcommit 8d5b52890c5b3f3805425d0902071baab24e63e1[m
+Merge: ce7f02c7a 80686ac9b
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat May 11 06:20:32 2024 +0000
+
+    Merge pull request #34391 from Jaiir0/feat/community/Jaiir0
+
+[33mcommit 80686ac9b5e72eaab6b2741dca65ee0652868bf0[m
+Author: Jaiir0 <jairoaraujobezerra@gmail.com>
+Date:   Sat May 11 03:08:21 2024 -0300
+
+    feat: add Jaiir0 profile
+
+[33mcommit ce7f02c7a3cb7c3885a188161c4c69346ff54ca0[m
+Merge: 6374a2433 9761717fd
+Author: github-actions[bot] <41898282+github-
