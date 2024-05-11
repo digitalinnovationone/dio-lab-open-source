@@ -3,7 +3,7 @@
 <h1 align="center" style="color:  #C0D9D9">Olá! Eu sou o Victor :)</h1>
 
 ## 💠 Sobre mim
-Estudante de Análise e Desenvolvimento de Sistemas | Completamente apaixonado pela tecnologia | Em busca de tornar-me um desenvolvedor Full Stack
+Estudante de Análise e Desenvolvimento de Sistemas | Completamente apaixonado pela Tecnologia | Em busca de tornar-me um desenvolvedor Full Stack
 
 
 
@@ -14,4 +14,4 @@ Estudante de Análise e Desenvolvimento de Sistemas | Completamente apaixonado p
 ## 💠 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Visilv&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ## 💠 Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Visilv&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Visil/https://github.com/Visilv/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Visilv&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Visilv/dio-lab-open-source)
