@@ -11,6 +11,7 @@ Estou estudando para me profissionalizar como desenvolvedor back-end, para atuar
 Essa está sendo minha primeira experirência com a plataforma Github.
 
 Espero que essa experirência no Bootcamp Python AI Backend Developer da DIO, me traga uma carga de conhecimento muito boa para prosseguir nos estudos e me consolidar no mercado de trabalho.
+Muito empolgado com essa oportunidade.
 
 ![App Screenshot](https://media.licdn.com/dms/image/D4D03AQG-KcjgY9s0Ew/profile-displayphoto-shrink_200_200/0/1696974161841?e=1720656000&v=beta&t=mP-7G23Jn-o_VBzERLmfzsgYhoFNx8swQXgQucjIJIU)
 
