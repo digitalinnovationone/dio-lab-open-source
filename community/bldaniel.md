@@ -29,6 +29,10 @@
 ![Proxmox](https://img.shields.io/badge/Proxmox-4F1FF7?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## Idiomas
+![Português](https://img.shields.io/badge/Português-007ACC?style=for-the-badge&logo=google-translate&logoColor=white)
+![Inglês Conversação](https://img.shields.io/badge/Inglês%20Conversação-4F1FF7?style=for-the-badge&logo=google-translate&logoColor=white)
+
 <div align="center">
 
 ### Connect with me
@@ -36,7 +40,7 @@
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0D1117?style=for-the-badge)](https://dio.me/users/danielloureirorj)
 
 <br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{bldaniel}-reset1/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{bldaniel}-reset2/count.svg" /></p> 
 <br>
 </div>
 
