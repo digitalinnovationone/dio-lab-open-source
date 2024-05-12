@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ Sobre
 
-Olá! Eu sou Naftali Ferreira, estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio. Atualmente estou no terceiro semestre do curso e estou em busca de aprimorar minhas habilidades em desenvolvimento de software.
+Olá! Eu sou Naftali Ferreira, estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio de Sá. Atualmente estou no terceiro semestre do curso e estou em busca de aprimorar minhas habilidades em desenvolvimento de software além de conquistar a minha primeira experiencia profissional.
 
 <div align="center" style="display: inline_block"><br>
 
