@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4F1FF7FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+Daniel+👋;Engenheiro+de+Telecomunicações+📡;Pós-graduado+em+Engenharia+de+Software+🎓;Estudando+ferramentas+de+DevOps,+IAC+💻;Certificado+OCI+Cloud+☁️)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bldaniel&show_icons=true&count_private=true&hide_border=true&title_color=4F1FF7F&icon_color=4F1FF7F&text_color=DDA0DD&bg_color=0d1117" alt="Daniel github stats" /> 
-  <img width="41%" height="195px" src="https://streak-stats.demolab.com/?user=bldaniel&theme=midnight-purple&background=000&border=4F1FF7F&dates=FFF)](https://git.io/streak-stats)" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bldaniel&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Daniel github stats" /> 
+  <img width="41%" height="195px" src="https://streak-stats.demolab.com/?user=bldaniel&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)" />
 </div>
 
-[![Daniel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bldaniel&bg_color=0d1117&color=9600D3&line=9600D3&point=FF00FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Daniel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bldaniel&bg_color=000&border_color=30A3DC&line=9600D3&point=FF00FF&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bldaniel&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
