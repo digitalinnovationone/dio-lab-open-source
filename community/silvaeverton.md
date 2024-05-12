@@ -21,7 +21,7 @@ Futuro Desenvolvedor back-end, cursando Análise e Desenvolvimento de Sistemas n
 ## 💻Habilidades
 
 
-Sou bom com resolução de problemas e me apaixonei pelo mundo da técnologia, por isso decide mergulhar nessa imencidão de possiblilidades de desafios onde terei o privilégio de ajudar as pessoas a solucionar os problemas e adquirir soluções que possam melhorarar a seu cotidiano.
+Sou bom com resolução de problemas e me apaixonei pelo mundo da técnologia, por isso decidi mergulhar nessa imensidão de possiblilidades de desafios onde terei o privilégio de ajudar as pessoas a solucionar os problemas e adquirir soluções que possam melhorarar a seu cotidiano.
 (As habilidades de Hard skill,estão sendo desenvolvidas nesse bootcamp).
 
 ## 📚Estou aprendendo
