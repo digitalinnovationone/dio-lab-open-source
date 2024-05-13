@@ -2,13 +2,13 @@
 
 Tenho 21 anos, cursando Ciência da Computação, venho aprendendo a programar de forma autodidata, a procura do primeiro emprego e nessa trajetória fiquei com o foco em aprender Front End e Back End, desenvolvendo projetos pessoais, com as linguagens TypeScript e Java.
 
-## ** Projetos **
+## Projetos
 
 [![Watch Party](https://img.shields.io/badge/-Watch%20Party-333?style=for-the-badge)](https://watch-party-levi-app.vercel.app/)
 
 [![Clone Netflix](https://img.shields.io/badge/Clone%20Netflix-333?style=for-the-badge)](https://clone-filmes-vitor.vercel.app/)
 
-## ** Minhas Redes **
+## Minhas Redes
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vitor-rom%C3%A3o-739022230/)
 
