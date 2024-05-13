@@ -52,6 +52,19 @@
         <a href="https://github.com/denvercoder1/github-readme-streak-stats">GitHub Streak Stats by @DenverCoder1</a>
       </td>
     </tr>
+      <tr>
+      <td>04</td>
+      <td>Icons technology</td>
+      <td align="center">
+        <a href="https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-stats.md">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Exemplos-E94D5F?style=for-the-badge">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/gui-bus/TechIcons?tab=readme-ov-file">GitHub Icons by @TechIcons
+</a>
+      </td>
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
