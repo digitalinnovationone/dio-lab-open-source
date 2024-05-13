@@ -7,7 +7,7 @@ Sou um entusiasta por tecnologia 💻, sempre fascinado pelo poder da inovação
 Acredito no aprendizado contínuo movido pela busca de desafios, buscando sempre expandir meus conhecimentos e contribuir para projetos interessantes. 🤝
 Sinta-se à vontade para explorar meus repositórios e entrar em contato! 😊
 
-##### Vamos conectar e construir algo incrível juntos! 
+##### Vamos conectar e construir algo incrível juntos!
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/mendesserafimjoaopedro/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:mendesserafimjoaopedro@outlook.com)

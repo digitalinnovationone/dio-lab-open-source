@@ -23,7 +23,7 @@ I believe in continuous learning driven by the pursuit of challenges, always see
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
 [![WordPress](https://img.shields.io/badge/WordPress-000?style=for-the-badge&logo=WordPress&logoColor=30A3DC)](https://docs.github.com/)
 
-### GitHub Stats
+### GitHub Stats 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jh0ny1&theme=transparent&bg_color=000&border_color=8700FF&show_icons=true&icon_color=8700FF&title_color=8700FF&text_color=FFF&hide_title=true&)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jh0ny1&layout=compact&bg_color=000&border_color=8700FF&title_color=8700FF&text_color=FFF)
