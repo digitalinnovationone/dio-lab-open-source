@@ -1,6 +1,6 @@
 <div align="center">
     <p>
-      <img src="image/welcome.gif" alt="hello world text" width="50%"/>
+      <img src="https://media.licdn.com/dms/image/D4D16AQGunM0MtMR74g/profile-displaybackgroundimage-shrink_350_1400/0/1713995296585?e=1721260800&v=beta&t=Lp3wAmOJZ5_x8K5v0v5xkBQJznW3-MJZolapuzZ11w4" alt="hello world text" width="100%"/>
     </p>
 </div>
 
