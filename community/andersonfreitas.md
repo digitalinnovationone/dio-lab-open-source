@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Estudante de Analise Desenvolvimento Sistemas animado para explorar oportunidades de aprendizado e desenvolvimento na área de tecnologia. Fiz transição de carreira para area de tecnologia há dois anos atuei como desenvolvedor back-end junior, com princípios SOLID de design de classes orientado a objetos na linguagem Java .
+Atualmente estudante de Analise Desenvolvimento Sistemas animado para explorar oportunidades de aprendizado e desenvolvimento na área de tecnologia. Fiz transição de carreira para area de tecnologia há dois anos atuei como desenvolvedor back-end junior, com princípios SOLID de design de classes orientado a objetos na linguagem Java .
 
 ## Habilidades
 
