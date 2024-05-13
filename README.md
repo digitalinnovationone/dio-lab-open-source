@@ -91,6 +91,11 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
   <img src="https://contrib.rocks/image?repo=digitalinnovationone/dio-lab-open-source"/>
 </a>
 
-
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+
+
+---
+
+<div align="center">Editado com 💙 por <a href="https://github.com/Ajhuly">Ju</a>.</div>
+
