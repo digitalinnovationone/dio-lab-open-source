@@ -1,6 +1,6 @@
 ### Olá, eu sou Wilson Amorim 👋
 
-✨ **.Analista de sistemas** 
+### ✨ **.Analista de sistemas** 
 
 🏢 **Atuação Profissional**
 - 🎓 Formado em Analise e Desenvolvimento de Sistema pela Estácio(https://www.estacio.br)
