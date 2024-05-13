@@ -12,7 +12,6 @@ Profissional de TI desde 1995, já atuei nas mais diversas áreas do setor, atua
 
 ## Linha do tempo profissional
 
-
 ```mermaid
 graph LR
 A((Digitador)) --> B((Operador)) --> C((Programador)) --> D((Analista de sistemas)) --> E((Analista de Infraestrutura))
