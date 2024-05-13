@@ -1,8 +1,9 @@
-# Luine Castro
-Olá! Me chamo Luine e sou estudante de programação há mais de um ano. Sinto-me em casa quando estou rodeada de linhas de códigos, vejo a tecnologia como um playground enorme onde posso transformar minhas ideias em realidade. Futura estudante de Análise e Desenvolvimento de Sistemas.
+## Luine Castro
+Olá! Me chamo Luine. Eu sempre fui fascinada pelo mundo da programação. Desde que comecei esse caminho há 2 anos atrás fiquei encantada sobre aprender sobre códigos, a sensação de ver um programa funcionando corretamente após horas de trabalho árduo é incrivel. Futura estudante de Análise e Desenvolvimento de Sistemas.
+
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=c8a2c8)](https://www.linkedin.com/in/luh-s-038424286/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ae9fde?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luh-s-038424286/)
 
 
 ## Habilidades
@@ -13,5 +14,5 @@ Olá! Me chamo Luine e sou estudante de programação há mais de um ano. Sinto-
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-## Minhas contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luhametista&repo=dio-lab-open-source&bg_color=c8a2c8&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/luhametista/dio-lab-open-source)
+## Minhas Contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luhametista&repo=dio-lab-open-source&bg_color=ae9fde&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/luhametista/dio-lab-open-source)
