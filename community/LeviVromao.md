@@ -1,4 +1,4 @@
-## Olá, me chamo Vítor Romão
+## Olá, me chamo Vítor Romão.
 
 Tenho 21 anos, cursando Ciência da Computação, venho aprendendo a programar de forma autodidata, a procura do primeiro emprego e nessa trajetória fiquei com o foco em aprender Front End e Back End, desenvolvendo projetos pessoais, com as linguagens TypeScript e Java.
 
