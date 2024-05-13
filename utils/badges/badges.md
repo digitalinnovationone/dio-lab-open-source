@@ -893,53 +893,6 @@
   <tfoot></tfoot>
 </table>
 
-## Data Tools and Skills
-
-<table>
-  <thead>
-    <tr align="left">
-      <th>Badge</th>
-      <th>Markdown</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>
-        <img align="center" alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
-      </td>
-      <td>
-        <code>![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-      </td>
-      <td>
-        <code>![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-      </td>
-      <td>
-        <code>![Pandas](httpshttps://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)</code>
-      </td>
-    </tr>
-     <tr>
-      <td>
-        <img align="center" alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
-      </td>
-      <td>
-        <code>![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)</code>
-      </td>
-    </tr>
-  </tbody>
-  <tfoot></tfoot>
-</table>
-
-
 ## Ferramentas
 
 <table>
