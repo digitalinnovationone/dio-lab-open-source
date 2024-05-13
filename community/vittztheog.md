@@ -14,6 +14,12 @@ Comprometido, proativo, busco uma chance de aplicar minha facilidade de aprendiz
 
 Buscarei, como profissional, contribuir de forma significativa enquanto adquiro experiência prática.
 
+## Objetivos como profissional da área de tecnologia
+
+1. Desenvolver soluções criativas e eficientes em equipe, contribuindo para projetos desafiadores e impactantes.
+2. Adquirir experiência prática relevante enquanto continuo meus estudos universitários, visando não apenas financiar minha formação, mas também expandir meu conhecimento e network na área.
+3. Crescer profissionalmente em um ambiente que valorize o aprendizado contínuo e ofereça oportunidades de desenvolvimento pessoal e profissional.****
+
 ## Habilidades
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
