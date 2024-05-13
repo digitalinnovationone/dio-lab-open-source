@@ -22,3 +22,4 @@ Espero que eu consiga desenvolver os meus conhecimento e me encontrar nesse novo
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NAMartins7&theme=transparent&bg_color=000&border_color=DC143C&show_icons=true&icon_color=FF6347&title_color=DC143C&text_color=DC143C)
 
 ## Minhas contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NAMartins7&repo=dio-lab-open-source&bg_color=000&border_color=DC143C&show_icons=true&icon_color=FF6347&title_color=DC143C&text_color=DC143C)](https://github.com/NAMartins7/dio-lab-open-source)
