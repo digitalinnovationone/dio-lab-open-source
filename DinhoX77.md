@@ -1,4 +1,4 @@
-**💫*Wenderson Andrade Batista💫**
+**💫*Ola meu nome é Wenderson Andrade Batista💫**
 Estudante de Análise e Desenvolvimento de Sistemas.
 
 **💫Atuação Profissional:💫**
