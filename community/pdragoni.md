@@ -4,7 +4,6 @@
   </a>
 </h1>
 
-
 ### Desenvolvedor Full Stack
 
 <span>👨‍💻 Desenvolvedor Full Stack com experiência em desenvolvimento de aplicações web e integrações com APIs REST. Atualmente trabalhando com desenvolvimento de aplicações em Javascript, HTML, CSS e Lightning Web Components.</span>
