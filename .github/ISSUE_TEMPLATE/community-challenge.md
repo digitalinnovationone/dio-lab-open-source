@@ -8,10 +8,10 @@ assignees: ''
 ---
 
 *Tem alguma sugestão para quem for fazer o Desafio? Por favor descreva.*
-Uma descrição do que pode ser feito. 
+no momento nao
 
 *Descreva como você realizou o seu*
-Uma descrição sobre como você fez o seu.
+igual ao video
 
 *Links úteis*
-- [Nome do Link](URL)
+- none
