@@ -1,5 +1,5 @@
 # Jhon Ribeiro
-olá, Eu sou Jhon Ribeiro e estou iniciando na programação, aprendendo Git, GitHub e Python.
+olá, Eu sou Jonatan Martins e estou iniciando na programação, aprendendo Git, GitHub e Python.
 
 ## Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/jhonribeiro)
