@@ -57,9 +57,9 @@ git commit -m"feat: add SEU_USERNAME profile"
 > Verifique a [`Convenção de Commits`](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md#conven%C3%A7%C3%A3o-de-commits) para escrever a mensagem do seu commit de forma clara e padronizada.
 
 ### 7) Envie as Alterações para o seu Repositório Remoto
-Envie as alterações realizadas no seu repositório local para a branch `feat/community/SEU_USERNAME` no seu repositório remoto com o comando:
+Envie as alterações realizadas no seu repositório local para a branch `feat/community/LariHub` no seu repositório remoto com o comando:
 ```bash
-git push origin feat/community/SEU_USERNAME
+git push origin feat/community/LariHub
 ```
 >[!WARNING]
 > Caso você tenha criado seu arquivo diretamente no repositório remoto no GitHub, esse processo não será necessário.
