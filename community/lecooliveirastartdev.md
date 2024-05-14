@@ -24,7 +24,7 @@ Olá Devs, Me chamo Alexandro Oliveira, sou Formado em Educação Física, Profe
 ## Repositórios pessoal de estudos
 
 
-[![Repo de Estudos](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/lecooliveirastartdev/STUDIES.git)<br/>
+[![Repo de Estudos](https://github-readme-stats.vercel.app/api/pin/?username=lecooliveirastartdev&repo=STUDIES&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/lecooliveirastartdev/STUDIES.git)<br/>
 <br/>
 
 ## Conecte-se comigo
