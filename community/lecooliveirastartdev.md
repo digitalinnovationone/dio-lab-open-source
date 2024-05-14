@@ -1,6 +1,6 @@
 # Leco Oliveira 
 
-Olá, Me chamo Alexandro Oliveira, sou Formado em Educação Física, Professor de Jiu-jitsu e apaixonado por tecnólogia. <br/>
+Olá Devs, Me chamo Alexandro Oliveira, sou Formado em Educação Física, Professor de Jiu-jitsu e apaixonado por tecnólogia. <br/>
  Sou estudante na area de tecnólogia e espero adquirir conhecimentos tecnicos e habilidades para contribuir de forma positiva na vida das pessoas.
  <br/>
  <br/>
