@@ -1,5 +1,5 @@
 
-# Jane Pimentel
+# Jane C. Pimentel
 
 Desenvolvedora Full Stack e mobile
 
