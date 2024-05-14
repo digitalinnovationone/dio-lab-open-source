@@ -1,8 +1,5 @@
 <h1 align="center">Seja Bem Vindo!</h1> 
 
-<p>- 🌱 Atualmente estou estudando <strong>HTML5</strong> e <strong>CSS3</strong> </p>
-
-
   <div>
   <a href="https://github.com/Aulucci">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Aulucci&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
