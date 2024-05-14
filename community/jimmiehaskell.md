@@ -1,4 +1,7 @@
 ## Jimmie Haskell
+Sou apaixonado por programação, sempre buscando aprender novas habilidades e entender como as coisas funcionam por trás da cortina, back-end. Atualmente estou voltando meus estudos para o Kotlin em paralelo com SGBD PostgreSQL.
+
+Nas horas vagas pratico esportes, corrida ou bicicleta, treinando para fazer a primeira maratona em 2025, gosto também de ler mangá ou assistir um anime... Atualmente, estou lendo e assistindo Boku no Hero Academia.
 
 ## Conecte-se comigo
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/haskellmb/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/haskellmb/) [![X](https://img.shields.io/badge/haskellmb-000?style=for-the-badge&logo=x)](https://x.com/haskellmb) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jimmiehaskell)
