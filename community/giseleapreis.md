@@ -1,6 +1,6 @@
-#Giseleapreis
+# Giseleapreis
 
-##Sobre mim
+## Sobre mim
 Sou uma pessoa curiosa, que sempre gostou de saber como as coisas funcionavam.
 Ao iniciar minha "carreira acadêmica" notei minha preferência pela tecnologia e
 após me formar em Administração de Empresas, migrei para a area de tecnologia (Sistemas de informação)
