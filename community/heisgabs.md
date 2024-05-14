@@ -3,4 +3,4 @@
 
 ## Sobre mim
 
-Me chamo Gabriel, tenho 22 anos, faço faculadade de analise e desenvolvimento de sistemas e atraves da parceria entre a Dio e o Santander estou fazendo essa bootcamp que tem sido uma expeiencia muito gratificante e positiva.
+Me chamo Gabriel, tenho 22 anos, faço faculdade de analise e desenvolvimento de sistemas e atraves da parceria entre a Dio e o Santander estou fazendo essa bootcamp que tem sido uma experiencia muito gratificante e positiva.
