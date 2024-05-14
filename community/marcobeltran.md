@@ -10,6 +10,7 @@ Trabalhei com Programação de 1999 a 2010. Desenvolvimento e manutenção de si
 ## Habilidades
 
 PowerBI, Excel, Hadoop, BigData, ETL, DataWharehouse
+Inteligencia Artifical, Machine Learning
 Java, Javascript, Python, PHP, Sql
 SqlServer, Mysql, 
 Linux e Windows
