@@ -1,4 +1,4 @@
-![alt text]([image-4.png](https://cdn.discordapp.com/attachments/428927667945865217/1239732294021808138/Leonardo_20240513_211311_0000.png?ex=6643fe2c&is=6642acac&hm=7539ecbe68af836c7141c4b0a38c97e1643f8740dfde2f44aaa436db51be3853&))
+<img align="center" src="https://cdn.discordapp.com/attachments/428927667945865217/1239732294021808138/Leonardo_20240513_211311_0000.png?ex=6643fe2c&is=6642acac&hm=7539ecbe68af836c7141c4b0a38c97e1643f8740dfde2f44aaa436db51be3853&">
 
 #  Olá! Eu sou Leonardo 💫
 ### Bem vindo ao meu perfil do Github!
