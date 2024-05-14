@@ -21,3 +21,5 @@ Sou apaixonada por Star Wars, gosto de andar de bike e curtir a família ❤️.
 ## 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciane-boanova-534b7728/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:lurutilae@gmail.com)
+
+
