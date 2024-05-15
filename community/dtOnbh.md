@@ -26,4 +26,4 @@ Quero unir minha expertise logística com minhas novas habilidades de programaç
 ## Interesses:
 Além de programar, sou um entusiasta de novas tecnologias e inovação. Adoro encontrar soluções que simplifiquem processos complexos. Estou sempre em busca de aprendizado e pronto para enfrentar qualquer desafio, com um sorriso no rosto e um café na mão.
 
-### Que Deus me ajude!!!
+### Que Deus me ajude!
