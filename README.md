@@ -35,7 +35,7 @@ Aprender o básico sobre contribuição no GitHub.
     </tr>
     <tr>
       <td>03</td>
-      <td>Desenvolvendo e Enviando uma Contribuição</td>  
+      <td>Desenvolvendo e Enviando uma Contribuição ao projeto</td>  
     </tr>
     <tr>
       <td>04</td>
