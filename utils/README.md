@@ -7,7 +7,7 @@
 
 ## Índice
 <table>
-    <p>Você pode personalizar seu perfil no GitHub adicionando Badges, Cards GitHub Stats, Cards GitHub Streak Stats. No Guia sobre Markdown do GitHub, mostra o passo a passo de como montar o seu README.md.</p>
+    <p>Você pode personalizar seu perfil no GitHub adicionando Badges, Cards GitHub Stats, Cards GitHub Streak Stats. No Guia sobre Markdown do GitHub, mostra o passo a passo de como montar o seu README.m.</p>
     
     
   <thead>
