@@ -22,7 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=8232D2)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=B77CF2)
 
-# Github Stats 🔛
+## Github Stats 🔛
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miminavarro&theme=transparent&bg_color=000&border_color=8232D2&show_icons=true&icon_color=30A3DC&title_color=8232D2&text_color=FFF)
 
