@@ -25,7 +25,7 @@
 
 
 <br />
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
+<a href="https://github.com/thayannesandrade" title="Perfil da Thayanne">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thayannesandrade&theme=dracula&show_icons=true" />
 </a>
 
