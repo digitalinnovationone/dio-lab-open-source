@@ -6,7 +6,7 @@
 <sub>Biologist and AI Researcher - Computer Vision, Pattern Recognition and Machine learning</sub>
 ## Português
 
-Olá! Sou o João Paulo Rauta, um estudante e pesquisadro apaixonado por desafios que trazem à tona o melhor da ciência e da tecnologia. 
+Olá! Sou o João Paulo Rauta, um estudante e pesquisador apaixonado por desafios que trazem à tona o melhor da ciência e da tecnologia. 
 
 Minha jornada começou como biólogo, explorando padrões da vida selvagem. Durante meu mestrado, mergulhei fundo na interseção entre biologia e tecnologia, aliando inteligência artificial, visão computacional e identificação de estruturas em insetos.
 
