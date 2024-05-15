@@ -1,0 +1,457 @@
+[33mcommit 708327fb3b5a2756dcbe3abbd0879a6ff25ba39e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Matheus Passos <matheus.senai2016@gmail.com>
+Date:   Tue May 14 20:48:24 2024 -0300
+
+    adicionando usuario ao repositório
+
+[33mcommit e33fc2a50e98384a44a6e8346a4a2e11fbada5b1[m[33m ([m[1;31mupstream/main[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 34c6e5409 c4bcb4ed9
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue May 14 22:09:32 2024 +0000
+
+    Merge pull request #35165 from Vittas/feat/community/vittas
+
+[33mcommit c4bcb4ed90ab8cec6b3f2c84249911fab248b88d[m
+Author: Vitor Nascimento <125076533+Vittas@users.noreply.github.com>
+Date:   Tue May 14 19:09:08 2024 -0300
+
+    Rename vittas.md to Vittas.md
+
+[33mcommit 34c6e540941d7161c8f85c0a19f92a28b3f00e4e[m
+Merge: 56aabba6f ae37d9510
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue May 14 22:07:09 2024 +0000
+
+    Merge pull request #35163 from ImDanHan/main
+
+[33mcommit ae37d9510bbf150f5424353c47a07be5361db554[m
+Author: Dan <danimontresor@hotmail.com>
+Date:   Tue May 14 19:04:25 2024 -0300
+
+    feat: add ImDanHan.md profile
+
+[33mcommit 3d9e45a8dadb77bcc5c73179ae7022f8f4202338[m
+Author: Vitor Nascimento <vitor.nascimento1806@gmail.com>
+Date:   Tue May 14 19:02:25 2024 -0300
+
+    feat: add Vittas profile
+
+[33mcommit 56aabba6f0806ec2d324df6912cf1e426fa958de[m
+Merge: e9be97e1d 016f43f65
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue May 14 22:01:04 2024 +0000
+
+    Merge pull request #35162 from Lucas-Gabriel-Sousa/feat/community/Lucas-Gabriel-Sousa
+
+[33mcommit e9be97e1d87bf9befebfc78cc8d6ec055d11be21[m
+Merge: e5626b2e9 907664ade
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue May 14 21:58:43 2024 +0000
+
+    Merge pull request #35126 from Laisadtr/patch-1
+
+[33mcommit 907664aded5590852c1d567beb7e37a8fc2fedb1[m
+Merge: d039f6fc0 5a8f7b418
+Author: Lais Santos <104538258+Laisadtr@users.noreply.github.com>
+Date:   Tue May 14 18:58:17 2024 -0300
+
+    Merge pull request #1 from Laisadtr/Laisadtr-patch-1
+    
+    Rename laisadtr.md to Laisadtr.md
+
+[33mcommit 016f43f6559bbeb9576330dee5fe059c89284201[m
+Author: Lucas Gabriel Sousa <148405383+Lucas-Gabriel-Sousa@users.noreply.github.com>
+Date:   Tue May 14 18:58:06 2024 -0300
+
+    Create Lucas-Gabriel-Sousa.md
+
+[33mcommit 5a8f7b4180aa993762b19eb48cb436843a5ea542[m
+Author: Lais Santos <104538258+Laisadtr@users.noreply.github.com>
+Date:   Tue May 14 18:54:00 2024 -0300
+
+    Rename laisadtr.md to Laisadtr.md
+
+[33mcommit e5626b2e94670a29a5b9dc621e8b6fa3df5c36b3[m
+Merge: 0a3160425 21ebfe124
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue May 14 21:46:22 2024 +0000
+
+    Merge pull request #34949 from Antoniocbjrr/feat/community/Antoniocbjrr
+
+[33mcommit 21ebfe124699a5ebe7e610818179d982ff196a21[m
+Merge: 68bc75c0e 0a3160425
+Author: Antoniocbjrr <168599808+Antoniocbjrr@users.noreply.github.com>
+Date:   Tue May 14 18:45:56 2024 -0300
+
+    Merge branch 'digitalinnovationone:main' into feat/community/Antoniocbjrr
+
+[33mcommit 0a3160425dab5ed2721c7799f841c54238dc2f88[m
+Merge: 2034929d1 1cf771242
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue May 14 21:36:06 2024 +0000
+
+    Merge pull request #35160 from ImTeli/main
+
+[33mcommit 1cf771242e3f31c5c47443eab0aa151b1b8c47ef[m
+Merge: d782fcf1f 2034929d1
+Author: TeliDev <83766814+ImTeli@users.noreply.github.com>
+Date:   Tue May 14 18:28:34 2024 -0300
+
+    Merge branch 'digitalinnovationone:main' into main
+
+[33mcommit 2034929d141dd91f88d26aa1f35e7f619446ba74[m
+Merge: 49f71b351 ccb5d7769
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue May 14 21:24:12 2024 +0000
+
+    Merge pull request #35159 from marcelomulder/feat/community/marcelomulder
+
+[33mcommit d782fcf1fc2d888dad0942a5645bbc1ba0921fa6[m
+Author: TeliDev <83766814+ImTeli@users.noreply.github.com>
+Date:   Tue May 14 18:23:42 2024 -0300
+
+    feat: add ImTeli.md profile
+
+[33mcommit ccb5d7769872ef7a595e927d5441c499e7938584[m
+Author: Marcelo Queiroz <marcelomulder@gmail.com>
+Date:   Tue May 14 18:21:04 2024 -0300
+
+    feat: add marcelomulder profile
+
+[33mcommit 49f71b351556979a62afba6d5e9cea3469fb53de[m
+Merge: f5f702a6e c0584c257
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue May 14 21:11:20 2024 +0000
+
+    Merge pull request #35153 from RafaelSilvaCastro/main
+
+[33mcommit c0584c257b4620e408835d6d3a4f025d0cfd2433[m
+Author: Rafael da Silva Castro <165667524+RafaelSilvaCastro@users.noreply.github.com>
+Date:   Tue May 14 18:10:55 2024 -0300
+
+    Rename RafaelSilvaCastro to RafaelSilvaCastro.md
+
+[33mcommit f5f702a6e938a2d9da93e291282a732ba14f70b8[m
+Merge: a326147d6 c650e3967
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue May 14 21:02:26 2024 +0000
+
+    Merge pull request #35152 from Kacme-Dev/feat/community/Kacme-Dev
+
+[33mcommit c650e3967dc1ef72396bfc6cb706edc3d40ee027[m
+Author: Kacme-Dev <kleber.sdi@hotmail.com>
+Date:   Tue May 14 18:02:03 2024 -0300
+
+    Rename jucabala.md to Kacme-Dev.md
+
+[33mcommit a326147d64d1e9bdac36040451371e38130701be[m
+Merge: 7378c4a41 cbe54c95d
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue May 14 20:58:49 2024 +0000
+
+    Merge pull request #35154 from kaua-mh/feat/community/kaua-mh
+
+[33mcommit 44b04deafda58b09fa2c3601b7e2024f24ddb36b[m
+Author: Rafael da Silva Castro <165667524+RafaelSilvaCastro@users.noreply.github.com>
+Date:   Tue May 14 17:55:22 2024 -0300
+
+    Create RafaelSilvaCastro
+
+[33mcommit 84c14c46365083ef3234b4366fffcf08106537fd[m
+Author: Kacme-Dev <kleber.sdi@hotmail.com>
+Date:   Tue May 14 17:52:08 2024 -0300
+
+    Create jucabala.md
+
+[33mcommit 7378c4a41f1129f435d31731cacd24bdbdaba27b[m
+Merge: 8aa8a21d7 0070573b2
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue May 14 20:51:02 2024 +0000
+
+    Merge pull request #35150 from SirSilenoz/feat/community/SirSilenoz
+
+[33mcommit 8aa8a21d7b718e8dbcb97ec3d2f1e3a6dc7c189c[m
+Merge: b6d54f8aa a8b5ce235
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue May 14 20:46:38 2024 +0000
+
+    Merge pull request #35148 from rovis43/feat/community/rovis43
+
+[33mcommit 0070573b26b5584a81ac62f9e089f3720e5945ca[m
+Author: Silenoz <joao.vale456@gmail.com>
+Date:   Tue May 14 17:45:18 2024 -0300
+
+    feat: add SirSilenoz profile
+
+[33mcommit cbe54c95da758a28eb2247ae6cb153899b7d8de7[m
+Author: kaua-mh <kauanmkt2022@gmail.com>
+Date:   Tue May 14 17:45:14 2024 -0300
+
+    feat: add kaua-mh profile
+
+[33mcommit a8b5ce2352bc67d5eb318405f989845ec6e491b2[m
+Author: rovis43 <60111390+rovis43@users.noreply.github.com>
+Date:   Tue May 14 17:41:09 2024 -0300
+
+    feat: add rovis43 profile
+
+[33mcommit b6d54f8aa8ca588a4d35630d00701b9ea6350198[m
+Merge: 632900b2e bc30936b0
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue May 14 20:33:38 2024 +0000
+
+    Merge pull request #35143 from manuprins/feat/community/manuprins
+
+[33mcommit 632900b2e99e99ea321d7932436bf8eb3de5453b[m
+Merge: d457c56d5 01bf7a1db
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue May 14 20:33:29 2024 +0000
+
+    Merge pull request #35144 from lecooliveirastartdev/update
+
+[33mcommit 01bf7a1db3f3206c28f7c10975e3d3a47cbb84cb[m
+Author: lecoOliveiraStartDev <lecooliveirastartdev@hotmail.com>
+Date:   Tue May 14 17:32:04 2024 -0300
+
+    Updade md
+
+[33mcommit bc30936b0d3846d23ddc4e501347bc939a029827[m
+Author: manuprins <168203794+manuprins@users.noreply.github.com>
+Date:   Tue May 14 17:29:21 2024 -0300
+
+    Create manuprins.md
+
+[33mcommit d457c56d59a5415d5ad783437d04e2d0f5b2cda0[m
+Merge: a6e27078e 231a60584
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue May 14 20:25:47 2024 +0000
+
+    Merge pull request #35139 from Zeromil2/feat/community/Zeromil2
+
+[33mcommit 231a60584232723005f180cf9d6f2d8f4c57c7ac[m
+Author: Claudino Neto <115763601+Zeromil2@users.noreply.github.com>
+Date:   Tue May 14 17:25:19 2024 -0300
+
+    Rename zeromil2.md to Zeromil2.md
+
+[33mcommit a6e27078e4ac8e35afd84a163e4bd71f3d717c98[m
+Merge: 6a3c8fba2 b53c014fa
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue May 14 20:20:53 2024 +0000
+
+    Merge pull request #35140 from lecooliveirastartdev/feat/community/lecooliveirastartdev
+
+[33mcommit b53c014faa0159903c5d16a0a3b6aa05b6109571[m
+Author: lecoOliveiraStartDev <lecooliveirastartdev@hotmail.com>
+Date:   Tue May 14 17:19:38 2024 -0300
+
+    Update
+
+[33mcommit b0eeffcf83bc4277dca99eff2cb79d6b3eff4930[m
+Author: Claudino Neto <115763601+Zeromil2@users.noreply.github.com>
+Date:   Tue May 14 17:17:49 2024 -0300
+
+    feat: add zeromil2 profile
+
+[33mcommit 6a3c8fba2c837d0615322e81c7a0c0387c497eac[m
+Merge: e00fc4378 14c9ed0d4
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue May 14 20:12:23 2024 +0000
+
+    Merge pull request #35127 from LucasQueiro-z/feat/community/lucasqueiro-z
+
+[33mcommit 14c9ed0d47b84b741dfea176edf85521e77b99f7[m
+Author: ALBIELEK <102937687+LucasQueiro-z@users.noreply.github.com>
+Date:   Tue May 14 17:12:00 2024 -0300
+
+    Rename lucasQueiro-z.md to LucasQueiro-z.md
+
+[33mcommit e00fc4378c4e00b26c65f474ebe1a8206a5ded23[m
+Merge: b281e5c2a 1d72a9e9e
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue May 14 20:06:28 2024 +0000
+
+    Merge pull request #35136 from riicad/feat/community/riicad
+
+[33mcommit 281f712f7dbb0830144768eeecbcf1135bb92e12[m
+Author: ALBIELEK <102937687+LucasQueiro-z@users.noreply.github.com>
+Date:   Tue May 14 17:00:24 2024 -0300
+
+    Rename lucasqueiro-z.md to lucasQueiro-z.md
+
+[33mcommit 1d72a9e9edb02c303f7df45e2472dfe8435e775e[m
+Author: riicad <yriian1209@gmail.com>
+Date:   Tue May 14 16:59:49 2024 -0300
+
+    feat: add riicad profile
+
+[33mcommit d039f6fc0894c0d403d7019f833be43fba2ac586[m
+Author: Lais Santos <104538258+Laisadtr@users.noreply.github.com>
+Date:   Tue May 14 16:56:51 2024 -0300
+
+    Rename laiss.md to laisadtr.md
+
+[33mcommit b281e5c2a919911a9e91e563f591a55e5c9440ed[m
+Merge: 97a00c65b 814fc2ac9
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue May 14 19:54:20 2024 +0000
+
+    Merge pull request #35131 from SerAnonimo01/feat/community/SerAnonimo01
+
+[33mcommit b31300469ed56430cc091640eb13c68d8e7f56fd[m
+Author: lecoOliveiraStartDev <lecooliveirastartdev@hotmail.com>
+Date:   Tue May 14 16:52:03 2024 -0300
+
+    Commite md
+
+[33mcommit 814fc2ac9dfb23507d6ccc700145ed68ce87a093[m
+Author: SerLk <brambilaluke@gmail.com>
+Date:   Tue May 14 16:51:57 2024 -0300
+
+    feat: add SerAnonimo01 profile
+
+[33mcommit 97a00c65bd19a38312c1c9439ee90331adee8546[m
+Merge: 9ef368ded 3a6e16cb7
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue May 14 19:51:15 2024 +0000
+
+    Merge pull request #35130 from eduardobcavalcante/feat/community/eduardobcavalcante
+
+[33mcommit 9ef368ded092a6e1e73f05a5d9a1ed71a8d775c7[m
+Merge: cdace50dc aeb352ac2
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue May 14 19:43:20 2024 +0000
+
+    Merge pull request #35129 from kaykRodr1gu3s/feat/community/kaykRodr1gu3s
+
+[33mcommit cdace50dc117aa91b1c266d27a70f6e3ad8a2192[m
+Merge: 21a76cc0d 3c2f538cf
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue May 14 19:41:04 2024 +0000
+
+    Merge pull request #35128 from Jonis-Victor/feat/community/Jonis-Victor
+
+[33mcommit 3a6e16cb73f6de96f54d42253b68b90abede6eed[m
+Author: eduardobcavalcante <eduardobcavalcante@hotmail.com>
+Date:   Tue May 14 16:38:48 2024 -0300
+
+    feat: add eduardobcavalcante profile
+
+[33mcommit 3c2f538cf04dcdf4a135b735d269c8c529cddc2c[m
+Author: Jonis-Victor <joaovitortunes3@gmail.com>
+Date:   Tue May 14 16:36:44 2024 -0300
+
+    feat: add Jonis-Victor.md profile
+
+[33mcommit 5e1d642021822f1a5f1022c4333079280905f041[m
+Author: Lais Santos <104538258+Laisadtr@users.noreply.github.com>
+Date:   Tue May 14 16:33:49 2024 -0300
+
+    Create laiss.md
+
+[33mcommit aeb352ac25b67fdab703b07390e6893adac61ca9[m
+Merge: 899b2c34e 21a76cc0d
+Author: kaykRodr1gu3s <110197812+kaykRodr1gu3s@users.noreply.github.com>
+Date:   Tue May 14 16:31:20 2024 -0300
+
+    Merge branch 'digitalinnovationone:main' into feat/community/kaykRodr1gu3s
+
+[33mcommit 21a76cc0d9851358e31fc33033657ad5970b9b92[m
+Merge: ca697c317 1714d9a5b
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue May 14 19:27:33 2024 +0000
+
+    Merge pull request #35125 from debora-oliveira/feat/community/debora-oliveira
+
+[33mcommit ca697c3171960d08eb0c8fc540bf4672985d3959[m
+Merge: 7f2e7c2a2 b898b9af8
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue May 14 19:25:03 2024 +0000
+
+    Merge pull request #35121 from Diegodiogotsil/feat/community/Diegodiogotsil
+
+[33mcommit b898b9af81e20c19cc768b6c0a48b4d612227300[m
+Author: Diego teixeira da silva <115492374+Diegodiogotsil@users.noreply.github.com>
+Date:   Tue May 14 16:24:32 2024 -0300
+
+    Rename diegotsil to Diegodiogotsil.md
+
+[33mcommit 7f2e7c2a29cbbc431ce88f8390a0d74996eaad38[m
+Merge: 8d0591033 92f1e1d02
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue May 14 19:23:55 2024 +0000
+
+    Merge pull request #35124 from rafarprocopio/feat/community/rafarprocopio
+
+[33mcommit 8d05910330082eb4966e43bd69601ae07c56aa60[m
+Merge: dcaebf4a4 50926d898
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue May 14 19:23:35 2024 +0000
+
+    Merge pull request #35123 from Dhiovam/feat/community/Dhiovam
+
+[33mcommit 50926d898baab33d1b62372831427c199e2b254b[m
+Author: Giovani Da Luz <giovanidaluzramos@gmail.com>
+Date:   Tue May 14 16:13:23 2024 -0300
+
+    feat: add Dhiovam profile
+
+[33mcommit 92f1e1d02baed06e55e23e11e8df69850c8287e2[m
+Author: rafarprocopio <168979476+rafarprocopio@users.noreply.github.com>
+Date:   Tue May 14 16:13:22 2024 -0300
+
+    Update rafarprocopio.md
+
+[33mcommit 0ce57b4d20dcef98eb1065655e5fbbfeb8b351c7[m
+Author: rafarprocopio <168979476+rafarprocopio@users.noreply.github.com>
+Date:   Tue May 14 16:11:14 2024 -0300
+
+    Update rafarprocopio.md
+
+[33mcommit 899b2c34eda89f161927e14769aa55562a1aea0c[m
+Author: kaykRodr1gu3s <110197812+kaykRodr1gu3s@users.noreply.github.com>
+Date:   Tue May 14 16:01:51 2024 -0300
+
+    kaykRodr1gu3s.md
+
+[33mcommit dcaebf4a41d7500b8b868ca4161a146114302dbc[m
+Merge: 4f88e849a 5d718a188
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue May 14 19:00:04 2024 +0000
+
+    Merge pull request #35118 from GenesonFerreira/feat/community/GenesonFerreira
+
+[33mcommit 0188a4516e02b882fb3197d4d96df06adaa9b041[m
+Author: Diego teixeira da silva <115492374+Diegodiogotsil@users.noreply.github.com>
+Date:   Tue May 14 15:59:58 2024 -0300
+
+    Create diegotsil
+
+[33mcommit aae0dbce69b1e500eca80dc11f96dd2df77e21c4[m
+Author: albielek <lucas.queiroz001@hotmail.com>
+Date:   Tue May 14 15:57:08 2024 -0300
+
+    feat: add lucasqueiro-z profile
+
+[33mcommit 9882f3c5b92b9f2f3db96f13a6266827113b418d[m
+Author: Rafaely RP <rafarprocopio@gmail.com>
+Date:   Tue May 14 15:57:04 2024 -0300
+
+    feat: add rafarprocopio profile
+
+[33mcommit 5d718a1880a728574a3d1d08855af4406259c6cc[m
+Author: GenesonFerreira <jgeneson@gmail.com>
+Date:   Tue May 14 15:51:43 2024 -0300
+
+    feat: add GenesonFerreira profile
+
+[33mcommit 4f88e849a3be1201583bece27c0fc03d2e7d9e56[m
+Merge: f60885bb2 f0836f5bb
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue May 14 18:47:20 2024 +0000
+
+    Merge pull request #35115 from eduzrdo/feat/community/eduzrdo
+
+[33mcommit f0836f5bb0149fbc3258e9b53947ec7ccc0f5300[m
+Author: eduzrdo <eduardoliveira.dev@gmail.com>
+Date:   
