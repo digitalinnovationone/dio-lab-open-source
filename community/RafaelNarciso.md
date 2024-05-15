@@ -3,10 +3,10 @@
   Oi, sou estudante em desenvolvimento de sistemas focado na parte de Back-end, com ênfase em Java, MySQL e tecnologias relacionadas. Estou progredindo na minha jornada de aprendizado e estou aqui para contribuir com projetos de pequeno porte e designers, tornando ideias em realidade, principalmente na área de back-end. Tenho experiência básica em Java, MySQL e outras tecnologias associadas, e estou animado para aplicar esse conhecimento em colaborações e projetos futuros.
 </h3>
 
-## :books: Educação
+## 📚 Educação
 <h3> Ciência da Computação - Unicid - Cursando </h3>
 
-## Redes Socias 
+## 🌐 Redes Socias 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin)](https://www.linkedin.com/in/rafael-narciso-backend/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/RafaelNarciso)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://rafaelnarcisoportifolio.vercel.app/)
@@ -43,7 +43,5 @@
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ## 
-
-![Rafael Narciso GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelNarciso&show_icons=true&thema=gothan)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelNarciso&layout=compact)](https://github.com/RafaelNarciso/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelNarciso&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelNarciso&show_icons=true&theme=tokyonight&hide_progress=true)
