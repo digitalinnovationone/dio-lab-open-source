@@ -1,5 +1,10 @@
 # 🧥🖥Rodrigo Teixeira🥋🥇
 Olá! Eu me chamo Rodrigo Teixeira, e sou desenvolvedor de software! Seja bem-vindo(a) ao meu perfil!
+###
+
+<p align="left">• 🎓 Estudante de Ciência da Computação<br>• 🧑🏽‍💻 Apaixonado por aprender novas coisas</p>
+
+###
 
 ## Conecte-se comigo 🔊!!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-teixeira-868357150)
