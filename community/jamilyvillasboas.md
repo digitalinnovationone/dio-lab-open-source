@@ -5,8 +5,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-56070c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jamilyvillasboas)
 [![Gmail](https://img.shields.io/badge/Gmail-56070c?style=for-the-badge&logo=gmail&logoColor=red)](mailto:jamilyvillasboas03@gmail.com)
 
-
-
 ## Habilidades
 ![Java](https://img.shields.io/badge/java-56070c.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-56070c?style=for-the-badge&logo=javascript&logoColor=white)
