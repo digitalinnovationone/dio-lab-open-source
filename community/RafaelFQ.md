@@ -1,6 +1,6 @@
 ## Rafael Artur F. Quaresma
 
-- 💻 Bacharelado em Engenharia de Software - UNINTER
+- 💻 Estudante Bacharelado em Engenharia de Software - UNINTER
 
 ### Estudando as Tecnologias:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
