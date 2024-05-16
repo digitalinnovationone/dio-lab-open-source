@@ -1,4 +1,3 @@
-
 # Sobre
 
 Domínio em técnicas de gerenciamento de projetos, Kickoff interno com foco na análise do perfil do cliente, condução das reuniões de Onboarding, identificação das oportunidades de melhoria, mitigação de riscos, levantamento dos requisitos e configurações necessárias para a implantação do sistema. 
@@ -7,14 +6,13 @@ Domínio em técnicas de gerenciamento de projetos, Kickoff interno com foco na 
 
 - MBA em Gestão de Projetos e Metodologias Ágeis
 - MBA Gestão de Recursos Humanos
-- Análise e Desenvolvimento de Sistemas.
+- Tecnólogo Análise e Desenvolvimento de Sistemas.
 
 ## Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-santos--/)
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/photodacapa/)
-
 
 
 ## 👩‍💻 Sistemas
@@ -35,7 +33,6 @@ Domínio em técnicas de gerenciamento de projetos, Kickoff interno com foco na 
 
 ## GitHub stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=photodacapa&theme=gruvbox&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 
 
 ## 🎧 _Playlists Favoritas_
