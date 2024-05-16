@@ -1,6 +1,6 @@
 # Robson Pereira
 
-Olá, Migrei de área mais ou menos 2 anos, atuo indiretamente com backend, trabalho com consultoria de uma plataforma gateway, onde analiso swagger "contratos de apis" urls, padrão de nomenclatura, sou intusiasta do java ☕️.
+Olá, Migrei de área mais ou menos 2 anos, atuo indiretamente com backend, trabalho com consultoria de uma plataforma gateway, onde auxilio os clientes para configurar sua integrações de suas APIs com nossa plataforma, analiso swagger "contratos de apis" urls, padrão de nomenclatura, sou intusiasta do java ☕️.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-pereira-41a115121)[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pereira2013)[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:robsonwppereira2013@gmail.com.br)
