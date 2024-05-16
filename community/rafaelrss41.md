@@ -48,5 +48,17 @@ __**ALGUMAS TECNOLOGIAS QUE TENHO ESTUDADO ATUALMENTE**__
 >__Como parte do curso técnico que atualmente tenho me dedicado, tive expêrncias bem interresantescom estas tecnologias, básicas,mas extremamentes graticantesno sentido de (acreditem se quiser!:smile:) eu não tinha visto ainda,recomendo também a quem nunca experimentou novas tecnologias que tentem, aprender nunca é de mais:smile:! ;__
 
 
+__**Git Hub Status**__
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelrss41&show_icons=true&theme=cobalt&layout=pie-vertical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrss41&layout=pie&theme=cobalt)](https://github.com/rafaelrss41/github-readme-stats)
+
+
+__**Meus contatos**__
+
+>![Meu GitHUb](https://img.shields.io/badge/Meu-git-gren) :alien: [GIT](https://github.com/rafaelrss41)  
+
+>![](https://img.shields.io/badge/Meu-linkedin-blue) :office: [LINKEDIN](https://www.linkedin.com/in/rafael-soares-87b6441a7/)
