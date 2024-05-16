@@ -2,10 +2,10 @@
 # André Augusto
 
 ## Sobre mim
-Olá! Meu nome ẽ Andrẽ Augusto, sou formado em Administração com MBA em Gestão Pública e Projetos, e atualmente estou cursando Curso Superior de Tecnologia da Informação com o intuito de mudar de área.
+Olá! Meu nome é André Augusto, sou formado em Administração com MBA em Gestão Pública e Projetos, e atualmente estou cursando Curso Superior de Tecnologia da Informação com o intuito de mudar de área.
 
 ## About Me
-Hello! My name is Andrẽ Augusto, I have a degree in Administration with an MBA in Public Management and Projects, and I am currently studying a Higher Education Course in Information Technology with the intention of changing career.
+Hello! My name is André Augusto, I have a degree in Administration with an MBA in Public Management and Projects, and I am currently studying a Higher Education Course in Information Technology with the intention of changing career.
 
 ## Conecte-se comigo / Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-augusto-sippel-da-silva-8700b4282/)    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lastranger28)
