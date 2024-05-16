@@ -4,7 +4,7 @@ Olá! Me chamo Enzo, sou um entusiasta da tecnologia, amante da programação e 
 
 # Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/enzo-suhnel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/enzo-suhnel)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=Github)](https://github.com/enzogsuhnel)
 
 ## Habilidades
