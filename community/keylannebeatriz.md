@@ -1,0 +1,1 @@
+Olá! Eu me chamo Keylanne Beatriz. Formada em Física pela UFF, busco transição de carreira para a área de Cibersegurança. Atualmente, faço segunda graduação em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá
