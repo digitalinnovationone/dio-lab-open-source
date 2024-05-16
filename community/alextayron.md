@@ -11,7 +11,7 @@
 - Tenho Pós em arquitetura de Software pela Anhanguera
 - 💻 Além da tecnologia, 🎮 Amo jogar com amigos (🧔 me encontre na steam: [Saint Rock](https://steamcommunity.com/id/saintrock/)),
   🎵 Sou apaixonado por música, 🍿 E amo ver filmes, séries e animes no meu tempo livre.
-- 📫 Entre em contato comigo: <a href="alextayron@gmail.com">alextayron@gmail.com</a>
+- 📫 Entre em contato comigo: <a href="AlexTayron@gmail.com">AlexTayron@gmail.com</a>
 
 ## 🧠 Ferramentas e linguagens de programação:
 
@@ -40,7 +40,7 @@
 
 ### Meus Principais Desafios de Projeto DIO
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=alextayron&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/alextayron/dio-lab-open-source)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=AlexTayron&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AlexTayron/dio-lab-open-source)
 [![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
 
 ## ❤ Views & Followers
