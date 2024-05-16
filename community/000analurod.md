@@ -1,20 +1,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Woman%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="Woman Raising Hand Light Skin Tone" width="80" height="80" />  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=F7F7F7&vCenter=true&random=false&width=600&height=60&lines=Oii%2C+eu+sou+a+Ana+Luisa!" alt="Typing SVG" /></a></h1>
 
 <h3 align="center">Estudante de Ciência da Computação, esta futura programadora está pronta para compilar ideias inovadoras e depurar os desafios do amanhã! 
-</h3></br>
-
-
-
-<img align="left" width=150   padding="20px" style="border-radius: 95px;" src="https://media.licdn.com/dms/image/D4D03AQEuH2iLEZ5gZg/profile-displayphoto-shrink_200_200/0/1710768270263?e=1721260800&v=beta&t=DC9Nu8LP4MRB_k4u1xiAbEjq1v7j56VJiWUJViBPQiM">
-
-<p align="center" style="font-size: 15px">
-Estou no meu 3º semestre da graduação. Gosto bastante da área de Análise de Dados e Desenvolvimento Web. 
-</br></br>
-Atualmente estou estudando e desenvolvendo alguns projetos para compor meu portifólio.
-</p>
-
-</br></br>
-</br></br>
+</h3></br></br>
 
 <h3 align="center">
 <a href="ttps://web.dio.me/users/analurodriza"><img src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-f6002a?style=for-the-badge&logo=gitbook&logoColor=white" /></a>
