@@ -1,6 +1,6 @@
-# Cláudio Fernandes
+# Cláudio Antônio Costa Fernandes,  São Luís-MA
 
-Sou graduado e mestre em Engenharia Elétrica.  Atualmente estou focado em ampliar meus  conhecimento em Python com foco em ciências de dados
+Focado em ampliar meus  conhecimento em Python e ciências de dados
 
 ## Social
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge)](https://www.dio.me/users/claudio_fernandes)                                           
@@ -10,5 +10,7 @@ Sou graduado e mestre em Engenharia Elétrica.  Atualmente estou focado em ampli
 
 
 
-**Outras Informações**                                                                                                       
-Sou professor do Instituto Federal de  Maranhão originalmente na área de telecomunicações. Porém atualmente me dedico as disciplinas ligadas as redes de computadores e programação em Python.  Estou fazendo o Santander Bootcamp 2023 - Ciência de Dados com Python com o objetivo de passar esta experiência aos meus aluno e incentivá-los fazer também os cursos oferecidos pelo Santander e demais empresas com programas semelhantes com intuito de chegar mais preparado ao mercado de trabalho. 
+**Outras Informações**
+
+Este aquivo é parte da tarefa do desafio: Contribuindo em um Projeto Open Source no GitHub
+                                                                                                       
