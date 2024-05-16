@@ -1,5 +1,5 @@
 # Gerson-jr
-Olá, me chamo Gerson
+Olá, me chamo Gerson e sou um apaixonado por encontrar soluções
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
