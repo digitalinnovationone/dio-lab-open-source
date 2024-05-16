@@ -1,5 +1,5 @@
 # Nayara Batista Silva
-Sou uma etusiasta, adoro aprender coisas novas e diferentes, e nessa minha busca incessante por conhecimento me deparei com a tecnologia e estou fascinada com cada descoberta que faço ao explorar mais profundamente cada vertente abordado por esse tema.
+Sou uma entusiasta, adoro aprender coisas novas e diferentes, e nessa minha busca incessante por conhecimento me deparei com a tecnologia e estou fascinada com cada descoberta que faço ao explorar mais profundamente cada vertente abordado por esse tema.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF5666?style=for-the-badge&logo=linkedin&logoColor=F7EBE8)](https://www.linkedin.com/in/nayara-batista/)
