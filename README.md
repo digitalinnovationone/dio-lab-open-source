@@ -41,6 +41,10 @@ Aprender o básico sobre contribuição no GitHub.
       <td>04</td>
       <td>Dicas e Materiais de Apoio</td>    
     </tr>
+        <tr>
+            <th>05</th>
+            <th>Créditos/Mentora: Elidiana Andrade</th>
+        </tr>
   </tbody>
 </table>
 
