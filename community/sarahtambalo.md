@@ -15,9 +15,7 @@ Durante minha graduação fui despertando interesse pela área de tecnologia, em
 
 
 ## 🌟 Curiosidades:
-- 🎮 Apaixonada por jogos online, atualmente viciada em 
-<a href="https://www.playlostark.com/pt-br">
-    <img align="center" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Lost_Ark_logo.png"></a>
+- 🎮 Apaixonada por jogos online, atualmente viciada em <a href="https://www.playlostark.com/pt-br"><img align="center" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Lost_Ark_logo.png"></a> ;
 
 - 🎧 Estou sempre ouvindo música;
 - 🎤 Gosto muito de cantar;
