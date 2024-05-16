@@ -1,3 +1,6 @@
+## 🚀 Sobre mim
+Eu sou uma pessoa desenvolvedora full-stack...
+
 😎 Eu sou Diego Gusmão Lins Vieira, <br>
 🎓 Formação: Desenvolvimento Web Fullstack na Growdev, Técnico em Mecatrônica na Etec<br>
 🎱 Hobbies: Tocar violão, desenhar, jogos eletrônicos, artes marciais <br>
@@ -7,6 +10,35 @@ TRUCKBUS - RUBBER PARTS -11/2020 a 07/2022 - Técnico em melhoria contínua, <br
 REVOLUZ ILUMINAÇÃO - 07/2017 a 11/2020 -Assistente de Processos, <br>
 POLIRON - GRUPO BELDEN BRAND - Período: 03/2011 a 04/2015 - Operador de Máquinas <br>
 📗 Estudando atualmente: JAVASCRIPT, REACT.JS, TYPESCRIPT, POO, PRISMA ORM, API REST, WORDPRESS, ELEMENTOR
+
+## Outras curiosidades
+👩‍💻 Trabalho atualmente na/no...
+
+autônomo em projetos freelances
+
+🧠 Estou aprendendo...
+
+Preparatório para certificação AWS, Next.Js
+
+👯‍♀️ Procuro colaborar em...
+
+Projetos voluntários e trabalhos freelances
+
+🤔 Procuro ajuda com...
+
+Hospedagem em nuvem
+
+💬 Me pergunte sobre...
+
+Assuntos de tecnologia
+
+📫 Como entrar em contato comigo...
+
+dl7designer@gmail.com
+
+😄 Pronomes...
+
+Ele(Dele)
 
 <br>
 <div style="text-align-center">
