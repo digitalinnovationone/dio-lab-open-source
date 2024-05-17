@@ -48,12 +48,7 @@ Comecei na área de tecnologia em 2010 dando aula de informática para a comunid
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-000?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
 
 ## GitHub Stats
-<!-- <details> -->
-  <!-- <summary><b>Github Stats</b></summary> -->
-  
-  [![Luciana](https://github-readme-stats.vercel.app/api?username=Luciana-Rpdrigues&theme=transparent&border_color=30A3DC&show_icons=true&icon_color=30A3DC&text_color=0007d9)](https://github.com/Luciana-Rpdrigues/github-readme-stats)
-  
-<!-- </details> -->
+[![Luciana](https://github-readme-stats.vercel.app/api?username=Luciana-Rpdrigues&theme=transparent&border_color=30A3DC&show_icons=true&icon_color=30A3DC&text_color=0007d9)](https://github.com/Luciana-Rpdrigues/github-readme-stats)
 
 ## My Contributions
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Luciana-Rpdrigues&repo=dio-lab-open-source&border_color=30A3DC&show_icons=true&icon_color=30A3DC&&theme=transparent&title_color=E94D5F&text_color=FFF)](thhps://github.com/Luciana-Rpdrigues/dio-lab-open-source)
