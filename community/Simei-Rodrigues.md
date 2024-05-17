@@ -5,7 +5,7 @@
 - Sou de Osasco-SP
 - Formado em Cinência da Computação.
 - Atualmente desempregado, mas ja trabalhei na Accenture e na Capgemini, em ambas trabalhando com Cobol.
-- Estou estudando cobol e Back-end Java 
+- Estou estudando cobol e Back-end Java. 
 
 - [linkdIn](https://www.linkedin.com/in/simei-rodrigues-jeronimo-68130484
 )
