@@ -1,6 +1,6 @@
 # Ola, me chamo Gabriel Henrique 👋
 
-Estou apredendo sobre Git e GitHub, esse é meu primeiro projeto Open source. Atualmente estou em processo de mudar de area de trabalho. 🐱‍💻
+Estou aprendendo sobre Git e GitHub, esse é meu primeiro projeto Open source. Atualmente estou em processo de mudar de area de trabalho. 🐱‍💻
 
 # Habilidades
 
