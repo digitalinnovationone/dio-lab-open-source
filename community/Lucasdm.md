@@ -1,10 +1,10 @@
-<img width=100% src='https://capsule-render.vercel.app/api?type=waving&color=B03A2E&height=120&section=header'>
+<img width=100% src='https://capsule-render.vercel.app/api?type=waving&color=121481&height=120&section=header'>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B03A2E&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Lucas+Diaz+;I+am+from+São+Paulo,+SP;I+study+Software+Engineering+at+University+of+Santo+Amaro;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4793AF&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Lucas+Diaz+;I+am+from+São+Paulo,+SP;I+study+Software+Engineering+at+University+of+Santo+Amaro;Be+Welcome!)](https://git.io/typing-svg)
 
 <div aling='center'>
-<img width=49% height='200px'src='https://github-readme-stats.vercel.app/api?username=LucasDiaz956&show_icons=true&count_private=true&hide_border=true&title_color=B03A2E&icon_color=B03A2E&text_color=c9d1d9&bg_color=0d1117'/>
-<img width=41% height='200'src='https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDiaz956&layout=compact&hide_border=true&title_color=B03A2E&text_color=B03A2E&bg_color=0d1117'>
+<img width=49% height='200px'src='https://github-readme-stats.vercel.app/api?username=LucasDiaz956&show_icons=true&count_private=true&hide_border=true&title_color=4793AF&icon_color=4793AF&text_color=c9d1d9&bg_color=0d1117'/>
+<img width=41% height='200'src='https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDiaz956&layout=compact&hide_border=true&title_color=4793AF&text_color=4793AF&bg_color=0d1117'>
 </div>
 
 ## Contact:
@@ -23,4 +23,4 @@
 ## Studyng
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B03A2E&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=121481&height=120&section=footer"/>
