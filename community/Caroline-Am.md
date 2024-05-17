@@ -9,6 +9,7 @@
             background-color: #f88dd5; 
             padding:7px; 
             border-radius: 3px;
+            color: #ffff;
         }
         h5 span {
             background-color: #def241; 
@@ -22,7 +23,6 @@
             padding: 10px; /* Espaçamento interno */
             box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); /* Sombra */
             font-size: 13px;
-            color: #ffff;
             text-align: center; /* Centraliza o texto */
             border-left: 5px solid #def241;
             border-right: 5px solid #def241;
@@ -67,7 +67,7 @@
 <body>
 
 
-# <center> Hello, World! <img width=20% src="IconG.png" align="center" /> I'm Carol Alves </center>
+# <center> Hello, World! <img width=20% src="https://i.postimg.cc/mD5yzVTx/IconG.png" align="center" /> I'm Carol Alves </center>
 
  <h3 align="center">Você é bem-vindo por aqui e sinta-se à vontade.</h3>
  
