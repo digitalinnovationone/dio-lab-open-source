@@ -38,6 +38,7 @@ A cada projeto e tarefa, dedico-me integralmente, sempre buscando superar os lim
 - Desenvolvimento Web com TypeScript
 - Java
 - Mysql
+-Back-end
 
 **📫 Como me encontrar**
 Você pode me enviar um e-mail para guilhermepiantamar.com ou me seguir nas redes sociais:
