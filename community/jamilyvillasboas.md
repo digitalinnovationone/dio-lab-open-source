@@ -1,4 +1,4 @@
-# Jamilyvillasboas projeto01
+# Jamilyvillasboas 
 
 ## Conecte-se comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-56070c?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamilyvillasboas/)
