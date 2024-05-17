@@ -1,6 +1,8 @@
 
 # Quem é Augusto Roque?
 
+#
+
 #####    Em busca de recolocação no mercado, atuei por anos como analista de Trade Marketing, desempenhando, simultaneamente, atividades como supervisor de equipe, analisa de merchandising. Tenho disponibilidade e interesse em mudar de cidade, além de estar aberto a trabalhar viajando.
 
 #
