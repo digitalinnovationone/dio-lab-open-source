@@ -1,5 +1,6 @@
 # Matheus A
-Olá, meu nome e Matheus estou aprendendo programação pela DIO, iniciando pelos tutorias da Eli de Git e GitHub e estou feliz em criar esse painel XD.
+Olá, meu nome e Matheus estou aprendendo programação com a DIO, iniciando pelos tutorias da Eli de Git e GitHub.
+
 ## Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-360e54?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusArry)
 
