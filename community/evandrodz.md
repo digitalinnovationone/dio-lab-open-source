@@ -8,7 +8,7 @@
 </h1>
 
 <p align="left">• 🧑🏽‍💻 Data Specialist and SAP BI/HANA 
-<br>• Experienced Business Intelligence, Data Analyst, Data Engineer, Data Scientist, Python and PL/SQL Programmer.
+<br>• 🧰Experienced Business Intelligence, Data Analyst, Data Engineer, Data Scientist, Python and PL/SQL Programmer.
 <br>• 🎓 Passionate about learning new things</p>
 
 
