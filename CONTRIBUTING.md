@@ -29,37 +29,37 @@ Acesse a página principal do repositório e clique no botão "Fork" no canto su
 ### 2) Clone localmente
 Abra o seu Git Bash e digite o comando `git clone` seguido da URL do seu fork para clonar o seu repositório localmente. Por exemplo:
 ```bash
-git clone https://github.com/SEU_USERNAME/dio-lab-open-source.git
+git clone https://github.com/OliveiraMonica2710/dio-lab-open-source.git
 ```
 Pressione enter, e uma cópia do seu fork no GitHub será criada localmente.
 
 ### 3) Crie uma nova **branch** 
-Utilize o comando `git checkout -b` para criar e alternar para a nova branch e nomeie-a como `feat/community/SEU_USERNAME`
-> Exemplo: `git checkout -b feat/community/falvojr`
+Utilize o comando `git checkout -b` para criar e alternar para a nova branch e nomeie-a como `feat/community/OliveiraMonica2710`
+> Exemplo: `git checkout -b feat/community/OliveiraMonica2710`
 
 ### 4) Crie o seu Profile README
- Dentro da pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub:
+ Dentro da pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `OliveiraMonica2710.md`) e nomeie com o mesmo nome do seu usuário no GitHub:
 
-> Exemplo: `community/falvojr.md`
+> Exemplo: `community/OliveiraMonica2710`
 
 #### 4.1) Desenvolva o seu Profile README
 Para isso, você pode se inspirar nos exemplos no diretório [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils)
 
 ### 5) Adicione suas alterações à "staging area" 
-Utilize o comando `git add community/SEU_USERNAME.md` para adicionar sua alteração (nesse caso o arquivo markdown criado)  à "staging area" no Git.
+Utilize o comando `git add community/OliveiraMonica2710.md` para adicionar sua alteração (nesse caso o arquivo markdown criado)  à "staging area" no Git.
 
 ### 6) Crie um Commit
 Crie um commit e adicione a mensagem indicando a adição do seu perfil:
 ```bash
-git commit -m"feat: add SEU_USERNAME profile"
+git commit -m"feat: add OliveiraMonica2710 profile"
 ```
 >[!IMPORTANT]
 > Verifique a [`Convenção de Commits`](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md#conven%C3%A7%C3%A3o-de-commits) para escrever a mensagem do seu commit de forma clara e padronizada.
 
 ### 7) Envie as Alterações para o seu Repositório Remoto
-Envie as alterações realizadas no seu repositório local para a branch `feat/community/SEU_USERNAME` no seu repositório remoto com o comando:
+Envie as alterações realizadas no seu repositório local para a branch `feat/community/OliveiraMonica2710` no seu repositório remoto com o comando:
 ```bash
-git push origin feat/community/SEU_USERNAME
+git push origin feat/community/OliveiraMonica2710
 ```
 >[!WARNING]
 > Caso você tenha criado seu arquivo diretamente no repositório remoto no GitHub, esse processo não será necessário.
@@ -67,7 +67,7 @@ git push origin feat/community/SEU_USERNAME
 ### 8) Crie um **Pull Request**.
 
 Atente-se para a seguir as orientações para a contribuição, principalmente:
-- Seu PR deve modificar apenas o arquivo community/SEU_USERNAME.md (dê uma olhadinha na aba "Files changed");
+- Seu PR deve modificar apenas o arquivo community/OliveiraMonica2710.md (dê uma olhadinha na aba "Files changed");
 - O nome desse arquivo deve ser exatamente igual ao nome de usuário no GitHub (nossa validação é case-sensitive).
 
 >[!NOTE]
