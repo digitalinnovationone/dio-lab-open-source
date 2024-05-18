@@ -4,7 +4,7 @@
 
 ## Olá, devs! 👋​
 
-### Meu nome é Thaynara. 
+### Meu nome é Thaynara.
 
 - 📍  Sou de Brasília/DF - Brasil.
 - ⭐ Apaixonada por artes, esportes e tecnologia.
