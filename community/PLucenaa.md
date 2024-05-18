@@ -6,7 +6,9 @@ I hold a degree in Systems Analysis and Development from IFRR, with experience i
 I studied Kotlin and Java through DIO and, as vice-president of the academic association, I developed leadership and financial management skills 💼. I also participated in an ICT residency, where I created dashboards for accident analysis 📊 and developed a version of Brood using FlutterFlow and Firebase, based on local business requirements.
 
 I am continuously seeking to enhance my technical and managerial skills to contribute to innovative projects 🚀.
+
 ## Skills
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PLucenaa&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
