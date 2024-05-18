@@ -59,7 +59,7 @@ git commit -m"feat: add SEU_USERNAME profile"
 ### 7) Envie as Alterações para o seu Repositório Remoto
 Envie as alterações realizadas no seu repositório local para a branch `feat/community/LariHub` no seu repositório remoto com o comando:
 ```bash
-git push origin feat/community/LariHub
+git push origin feat/community/LariHub.md
 ```
 >[!WARNING]
 > Caso você tenha criado seu arquivo diretamente no repositório remoto no GitHub, esse processo não será necessário.
