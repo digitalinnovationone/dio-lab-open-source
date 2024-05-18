@@ -22,6 +22,7 @@
 
 ### 1) Faça um **Fork** deste Repositório
 Acesse a página principal do repositório e clique no botão "Fork" no canto superior direito da página.
+![image](https://github.com/brisolarag/dio-lab-open-source/assets/126127487/06dc1be5-1b6c-4ca4-90f0-d0bf55595d66)
 > [!NOTE]  
 > Um "fork" no GitHub é uma cópia de um repositório que pode ser criada por qualquer usuário. <br>
 > Para mais detalhes, reveja a aula ou acesse a documentação do GitHub: [Criar fork de um repositório](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo).
