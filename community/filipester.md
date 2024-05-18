@@ -1,7 +1,7 @@
 # Hey there, I'm filipester 👋
 
 ## About Me
-I'm André Filipe Obenaus, currently a Mechanical and Mechatronics Engineer who's diving headfirst into the world of coding. While my background is rooted in engineering, I've developed a real passion for programming and technology. I'm excited to transition into a career in coding and am always on the lookout for new learning opportunities and challenges.
+My name is André Filipe Obenaus, I'm a Mechanical and Mechatronics Engineer who's diving headfirst into the world of coding. While my background is rooted in engineering, I've developed a real passion for programming and technology. I'm excited to transition into a career in coding and am always on the lookout for new learning opportunities and challenges.
 
 ## My Coding Journey
 I'm still in the early stages of my programming journey, with skills ranging from beginner to intermediate. Here's what I'm working with:
