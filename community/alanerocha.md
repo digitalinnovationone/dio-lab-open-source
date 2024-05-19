@@ -1,4 +1,4 @@
-# olá, eu sou Alane Rocha 👋🏻
+# Olá, eu sou Alane Rocha 👋🏻
 
 * Estou em transição para uma nova área de Conhecimento, em busca de novas oportunidades que me permitam aplicar o que tenho aprendido.
 * Animada com as possibilidades que essa nova fase trará e pronta para enfrentar os desafios que vierem pela frente com a Dio através do BootCamp Santander (Back-end em Java).
