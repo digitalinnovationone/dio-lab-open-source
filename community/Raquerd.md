@@ -11,7 +11,14 @@ Usuario = {'Nome':'Davi Santos Ferriera',
         }
         
 # ESCREVENDO ROTEIRO
-print(f"\033[1mSobre mim\033[m\nMeu nome é {Usuario['Nome']} tenho {Usuario['Idade']} anos, Possuo ensino superior incompleto em {Usuario['Formacao']}, cursado na instituição {Usuario['Instituicao']}. atualmente trabalho como {Usuario['Cargo']} realizando automação e manutenção de banco de dados na area de {Usuario['Area']}.\nMe apaixonei por programação e banco de dados ao utilizar ferramentas pela primeira vez de forma profissional\n\033[1mHabilidades\033[m\n{[l for l in Usuario['Linguagens']]}\n\033[1mObjetivo\033[m\nTenho como objetivo principal me dotar cada vez mais de todo tipo de conhecimento, não importa se é voltado para tecnologia ou não, o que importa é se isso vai me tornar melhor como profissional ou como pessoa.")
+print(f"\
+    \033[1mSobre mim\033[m\n \
+    Meu nome é {Usuario['Nome']} tenho {Usuario['Idade']} anos, Possuo ensino superior incompleto em {Usuario['Formacao']}, cursado na instituição {Usuario['Instituicao']}. atualmente trabalho como {Usuario['Cargo']} realizando automação e manutenção de banco de dados na area de {Usuario['Area']}.\n \
+    Me apaixonei por programação e banco de dados ao utilizar ferramentas pela primeira vez de forma profissional\n \
+    \033[1mHabilidades\033[m\n \
+    {[l for l in Usuario['Linguagens']]}\n \
+    \033[1mObjetivo\033[m\n \
+    Tenho como objetivo principal me dotar cada vez mais de todo tipo de conhecimento, não importa se é voltado para tecnologia ou não, o que importa é se isso vai me tornar melhor como profissional ou como pessoa.")
 
 
     
