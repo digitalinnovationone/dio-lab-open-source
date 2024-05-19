@@ -4,5 +4,5 @@ Desenvolvedor fullstack vivo tecnologia principalmente ser desenvolvedor.
 
 ## Minhas stacks
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="48px" height="48px"/>
 </div>
