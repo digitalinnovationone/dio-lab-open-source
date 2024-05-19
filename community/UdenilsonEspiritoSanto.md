@@ -20,5 +20,3 @@ Atualmente Técnico de Informática na Fênix Desenvolvimento
 &nbsp;<a href="https://www.linkedin.com/in/udenilson-espirito-santo-142ab7292/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
-
-
