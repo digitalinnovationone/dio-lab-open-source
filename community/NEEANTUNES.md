@@ -15,4 +15,4 @@ Pretendo migrar para a área de dados e quem sabe em alguns anos aplicar para um
 [Neemias Antunes](https://www.dio.me/users/neemias_antunes)
 
 ## Contato:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/neemias-antunes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/neemias-antunes-77aa77106/)
