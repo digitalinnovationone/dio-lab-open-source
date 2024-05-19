@@ -1,6 +1,3 @@
-
-
-
 ## Bem-vindo(a)!
 
 ```Typescript
@@ -35,8 +32,6 @@ Sou graduado em <b>Engenharia Mecânica</b> pela UNIFEI (1999) e <b>Engenharia d
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mersobap&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mersobap&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
-
-
 
 
 ## 🔗 Links
