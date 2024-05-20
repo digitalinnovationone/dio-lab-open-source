@@ -1,7 +1,6 @@
 # Carlos Lima
 
 Em resumo, estou determinado a fazer uma transição para a área de tecnologia, com foco específico no desenvolvimento de software. Sinto-me insatisfeito com a estagnação atual e estou consciente de minha capacidade de superar minhas próprias expectativas. Ao longo dos anos, adquiri uma variedade de conhecimentos e habilidades valiosas, incluindo atenção, liderança, resiliência e habilidades em aprendizado e desenvolvimento ágil. Estou confiante de que posso aplicar essas habilidades ao desenvolvimento de software e alcançar grandes realizações.
-
 Acredito firmemente que o desenvolvimento de software oferece um terreno fértil para mim, onde poderei aplicar toda essa experiência de forma significativa. Estou entusiasmado com a perspectiva de contribuir para projetos inovadores e fazer parte de equipes dinâmicas que buscam constantemente superar os limites da tecnologia.
 
 
