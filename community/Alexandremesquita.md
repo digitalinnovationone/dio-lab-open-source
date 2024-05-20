@@ -1,4 +1,3 @@
-
 ### Olá! Eu sou o Alexandre Mesquita 👋
 
 ### Sobre mim
@@ -17,8 +16,6 @@
     <h2>Sobre Mim</h2>
     <p>Sou um entusiasta da tecnologia, em constante busca por conhecimento e aperfeiçoamento. Atualmente, curso Análise e Desenvolvimento de Sistemas, onde me aprofundo nos fundamentos da programação e na criação de soluções inovadoras.</p>
 </section>
-
-
 
 <section class="jornada">
     <h2>Minha Jornada</h2>
@@ -52,11 +49,9 @@
 <section class="contato">
     <h2>Contato</h2>
 
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexandremesquita2997/)
 [![Linkedim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alexandre-ferreira-mesquita)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexandremesquita)
-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexandremesquita&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
