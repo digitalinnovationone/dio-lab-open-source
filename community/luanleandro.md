@@ -23,10 +23,10 @@ Olá, sou o Luan Desenvolvedor Front-end, tenho 19 anos e sou apaixonado por tec
 ![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=orange)
 ![Java](https://img.shields.io/badge/java-%23000.svg?style=for-the-badge&logo=openjdk&logoColor=red)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Luanleandro&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Luanleandro&layout=compact&bg_color=000&border_color=30A3DC&title_color=&text_color=FFF)
 
 # Minhas Contribuições
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luanleandro&repo=unifavela&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/luanleandro/unifavela)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luanleandro&repo=unifavela&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=&text_color=FFF)](https://github.com/luanleandro/unifavela)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luanleandro&repo=Projetolis&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/luanleandro/Projetolis)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luanleandro&repo=Projetolis&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=&text_color=FFF)](https://github.com/luanleandro/Projetolis)
