@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=68&duration=2800&pause=500&color=0F3B83FF&center=true&vCenter=true&repeat=true&random=false&width=1175&height=90&lines=Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
-# Hello World!👋 Helder Gomes aqui. 👨‍💻
+# Hello World!👋 Helder Gomes aqui 👨‍💻
 
 Logo abaixo segue de uma forma descontraída em linguagem Python algumas informações sobre a minha pessoa:</div>
 `nome = "Helder Gomes"`\
