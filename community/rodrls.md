@@ -1,16 +1,25 @@
 
 # Rodrigo Lopes dos Santos
 
-### Formado em Ciencia da computacao pela Unip (4 anos)
-### Curso técnico em ADS pela instituicao de ensino Colégio Sir Isaac Newton (3 anos)
-### Ingles avançado
+## **Sobre Mim**
+
+### Formado em Ciencia da computacao - Unip (4 anos)
+### Curso técnico em ADS - Colégio Sir Isaac Newton (3 anos)
+### Ingles avançado 
 ### Atualmente trabalho como Analista de Sistemas ERP
+
+
+## **Conhecimentos Específicos:**
 
 ##  Linguagens de Marcação e Estilo
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+
+
+
+
 
 
 ## Linguagens de Programação
