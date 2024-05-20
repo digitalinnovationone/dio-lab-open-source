@@ -1,7 +1,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## Olá, sou André Antônio Prado da Silva!
+## Olá, meu nome André Antônio Prado da Silva!
 
 Tenho mais de 22 anos de experiência na área de TI, trabalho atualmente como Analista de TI, compra de equipamentos, projetos e soluções para a esta área.
 
@@ -11,33 +11,33 @@ Tenho mais de 22 anos de experiência na área de TI, trabalho atualmente como A
 
 <p align="center">
 
-| 🚀  Minhas Hard Skills | ☕️  Meus Soft Skill |
-| --- | --- |
-| Analista de TI  | Boa comunicação  |
-| Coordenador de TI  | Adaptabilidade  |
-| Implementação e configuração de SO | Flexibilidade |
-| Administração de Rede | Organização |
-| Administração de Servidores | Trabalho em equipe |
-| Firewall PFSense | Curiosidade |
-| Servidores WEB/PHP/MYSQL | Determinação |
-| Servidores NAS | Foco |
-| Switcher Gerenciáveis | Empatia
-| --- | Empatia |
-| --- | Liderança ||
+| 🚀  Minhas Hard Skills | 
+| --- |
+| Analista de TI  - Coordenador de TI - Implementação e configuração de SO - Administração de Rede - Administração de Servidores - Firewall PFSense - Servidores WEB/PHP/MYSQL - Servidores NAS - Switcher Gerenciáveis ||
+</p>
+
+<p align="center">
+
+| ☕️  Meus Soft Skill |
+| --- |
+Boa comunicação - Adaptabilidade - Flexibilidade -  Organização - Trabalho em equipe - Curiosidade -  Determinação -  Foco - Empatia - Liderança | |
 </p>
 
 ---
 <p align="left">
-  🎮 **Gosto de Jogos de guerra, estratégia, desafios e construção em mundo aberto e sobrevivência**
+  🎮 ** Gosto de Jogos de Guerra - Estratégia - Desafios - Construção em Mundo Aberto - Sobrevivência **
 </p>
 <p align="left">
-  🎶 **Rock Blues - Rock - Blues - Dance - Pop - Clássicas - Gaúchas, em fim, sou muito eclético**
+  🎶 ** Rock Blues - Rock - Blues - Dance - Pop - Clássicas - Gaúchas, em fim, sou muito eclético **
 </p>
 <p align="left">
-  🎥 **Filmes Aventura - Guerra - Suspense - Ação - Drama**
+  🎥 ** Filmes Aventura - Guerra - Suspense - Ação - Drama **
 </p>
 <p align="left">
-  👪 ** Ficar com minha família - Dirigir - Viajar**
+  👪 ** Ficar com minha família - Dirigir - Viajar **
+</p>
+<p align="left">
+  📕 ** Ficção - Aventura - TI **
 </p>
 
 <p align="left">
@@ -47,3 +47,4 @@ Tenho mais de 22 anos de experiência na área de TI, trabalho atualmente como A
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-prado-47629a187" alt="LinkedIn"/></a>
 </p>
  
+
