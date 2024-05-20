@@ -5,7 +5,7 @@ Engenheiro de Software | Desenvolvedor
 ## Follow me
 
 [![Github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)] (https://github.com/JuniorJesusDev)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)] (https://www.linkedin.com/in/frgalvaojr/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)] (https://www.linkedin.com/in/junior-jesus-garletto-da-rosa-7aa9554b/)
 
 ## Skills
 
