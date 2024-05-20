@@ -1,5 +1,3 @@
-git checkout -b feat/community/**SEU_USERNAME**
-
 # André Ricardo
 
 Olá sou André Ricardo, tenho 45 anos e atualmente cursando Redes de Computadores na Faculdade Impacata de Tecnologia. Trabalho com Redes de Computadores a 20 anos e a área de desenvolvimento sempre foi um sonho inalcançável, agora não é mais.
