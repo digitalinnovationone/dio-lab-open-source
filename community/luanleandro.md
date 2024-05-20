@@ -27,6 +27,6 @@ Olá, sou o Luan Desenvolvedor Front-end, tenho 19 anos e sou apaixonado por tec
 
 # Minhas Contribuições
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luanleandro&repo=unifavela&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=&text_color=FFF)](https://github.com/luanleandro/unifavela)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luanleandro&repo=unifavela&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=3de&text_color=FFF)](https://github.com/luanleandro/unifavela)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luanleandro&repo=Projetolis&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=&text_color=FFF)](https://github.com/luanleandro/Projetolis)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luanleandro&repo=Projetolis&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=3de&text_color=FFF)](https://github.com/luanleandro/Projetolis)
