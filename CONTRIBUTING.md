@@ -31,7 +31,7 @@ Abra o seu Git Bash e digite o comando `git clone` seguido da URL do seu fork pa
 ```bash
 git clone https://github.com/SEU_USERNAME/dio-lab-open-source.git
 ```
-Pressione enter, e uma cópia do seu fork no GitHub será criada localmente.
+Pressione enter, e uma cópia do seu fork no GitHub será criada localmente. 'git clone https://github.com/SEU_USERNAME/dio-lab-open-source.git'
 
 ### 3) Crie uma nova **branch** 
 Utilize o comando `git checkout -b` para criar e alternar para a nova branch e nomeie-a como `feat/community/SEU_USERNAME`
@@ -40,7 +40,7 @@ Utilize o comando `git checkout -b` para criar e alternar para a nova branch e n
 ### 4) Crie o seu Profile README
  Dentro da pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub:
 
-> Exemplo: `community/falvojr.md`
+> Exemplo: `community/falvojr.md` `community/falvojr.md`
 
 #### 4.1) Desenvolva o seu Profile README
 Para isso, você pode se inspirar nos exemplos no diretório [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils)
@@ -90,6 +90,6 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 
 
 ## Referências
-- [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
-- [CONVENTIONAL COMMITS. Summary](https://www.conventionalcommits.org/en/v1.0.0/)
-- [GITHUB. Configurar diretrizes para os contribuidores do repositório](https://docs.github.com/pt/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
+🅰️ - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
+📚 - [CONVENTIONAL COMMITS. Summary](https://www.conventionalcommits.org/en/v1.0.0/)
+🐱 - [GITHUB. Configurar diretrizes para os contribuidores do repositório](https://docs.github.com/pt/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
