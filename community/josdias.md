@@ -1,6 +1,6 @@
 ### Olá!Me chamo José Dias sou estudante de ADS, denvolvedor front-end e apaixonado por tecnologia 🧙‍♂️
 
-- 🌱 Estudando: Bootstrap, Sass e JS
+- 🌱 Estudando: Bootstrap, Sass, JS e Java
 
 <div>
   <a href="https://github.com/josdias">
