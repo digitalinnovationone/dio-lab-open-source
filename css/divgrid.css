@@ -1,0 +1,50 @@
+﻿
+	  
+	 /* 960px é a largura da página  */
+	 
+	.linha{
+				width: 960px;
+				margin: 0 auto;
+				overflow: auto;
+				padding: 5px 0;}
+	.coluna{
+				padding: 0 5px;
+				float:center;
+				}
+		.col1{
+			width: 80px ;
+		}
+		.col2{
+			width: 160px;
+		}
+		.col3{
+			width: 240px;
+		}
+		.col4{
+			width: 320px;
+		}
+		.col5{
+			width: 400px;
+		}
+		.col6{
+			width: 480px;
+		}
+		.col7{
+			width: 560px;
+		}
+		.col8{
+			width: 640px;
+		}
+		.col9{
+			width: 720px;
+
+		}
+		.col10{
+			width: 800px;
+		}
+		.col11{
+			width: 880px;
+		}
+		.col12{
+			width: 950px;
+		}

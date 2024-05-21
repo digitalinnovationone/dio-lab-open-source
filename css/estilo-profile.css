@@ -1,0 +1,265 @@
+
+
+/****https://github.com/MarciaMoreno/dio-lab-open-source
+Formato CSS: estilo_ammi - BODY - Nazaré do Piauí /PI
+Ultima atualização: 19/05/2024
+*/
+	p{ text-align: justify; text-indent: 32px;}
+	a{text-decoration: none;}
+	a:hover{box-shadow: 0px 15px 122px rgb(97, 27, 209);}
+	table {border-collapse: collapse;}
+	ul li{text-decoration: none;}
+	footer {line-height: 2px;}
+	footer p {text-align: center; }
+/****https://github.com/MarciaMoreno/dio-lab-open-source
+Formato CSS: estilo_ammi - HEADER - Nazaré do Piauí /PI
+Ultima atualização: 19/05/2024
+*/
+#logodio{ 
+	position: absolute;
+	width: 100px; 
+	height: 100px; 
+	border-radius: 32px; 
+	margin-left: 50px;
+	}
+#logodio:hover{ box-shadow: 0px 15px 122px rgb(97, 27, 209); }
+.primeira-linha-apresentação-desafio-dio{
+	font-size: 16px;
+	float: left;
+}
+
+/****https://github.com/MarciaMoreno/dio-lab-open-source
+Formato CSS: estilo_ammi - SECTION - Nazaré do Piauí /PI
+Ultima atualização: 19/05/2024
+*/
+	#docs{
+		margin: 14px;
+		margin-top: -14px;
+		background-color: rgb(219,87,106);
+		padding: 22px 62px 36px 22px;
+		border-radius: 52px 12px 224px;
+		color: rgb(253,255,163);
+		box-shadow: 3px 9px 39px #033, 0px 9px 19px rgb(97, 27, 209);
+		
+	}  
+	#docs:hover{ background-color: #fff; color: rgb(53,46,138)}
+	#emoji{ position: absolute; width: 80px; margin-top: 22px; }
+	#foto-profile{ 
+		position: absolute; 
+		border-radius: 32px; 
+		box-shadow: 3px 9px 39px #033, 0px 9px 119px rgb(97, 27, 209);
+		width: 290px;
+		margin-top: -380px;
+		margin-left: 600px;
+	}	
+	.answer{
+		padding: 5px;
+		text-align: justify;
+	}
+	.barlow-semi-condensed-light-italic {
+	  font-family: "Barlow Semi Condensed", sans-serif;
+	  font-weight: 300;
+	  font-style: italic; 
+	}
+	/***Para utilizar na formatação da frase de efeito no final do profile...***/
+	.dancing-script{
+		font-family: "Dancing Script", cursive;
+		font-optical-sizing: auto;
+		font-weight: <weight>;
+		font-style: normal;
+		font-size: 52px;
+	}
+	.ibm-plex-mono-regular {
+		font-family: "IBM Plex Mono", monospace;
+		font-weight: 400;
+		font-style: normal;
+		font-size: 42px;
+		}
+	.name{text-shadow: 2px 2px 5px rgb(97, 27, 209); text-align: right;}
+	.nav-doc ul li{ display: inline-block; margin-top: -12px;}
+	.oswald{
+		font-family: "Oswald", sans-serif;
+		font-optical-sizing: auto;
+		font-weight: <weight>;
+		font-style: normal;
+	}
+	.pacifico-regular {
+		font-family: "Pacifico", cursive;
+		font-weight: 400;
+		font-style: normal;
+		font-size: 36px;
+		padding-left: 102px;
+	}
+	.question{
+		padding: 5px;
+		text-align: right;
+		
+	}
+	/*** <uniquifier>: Use a unique and descriptive class name
+	// <weight>: Use a value from 300 to 700***/
+	.comfortaa{
+		  font-family: "Comfortaa", sans-serif;
+		  font-optical-sizing: auto;
+		  font-weight: <weight>;
+		  font-style: normal;
+		}
+		
+/****https://github.com/MarciaMoreno/dio-lab-open-source
+Formato CSS: estilo_ammi - FOOTER - Nazaré do Piauí /PI
+Ultima atualização: 19/05/2024
+*/	
+    #orientadora{
+		width: 100px;
+		border-radius: 32px;
+		margin-left: 450px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

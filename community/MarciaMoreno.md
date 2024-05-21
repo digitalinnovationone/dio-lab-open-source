@@ -1,3 +1,12 @@
 # DIO LAB OPEN SOURCE
 
-* * O exercico desafio consiste na criação de uma pagina profile dentro do login de usuário de acesso do GitHub, utilizando uma extensão de arquivo markdown, com o titulo README.md. Entre as colaborações se estaca algumas obrigatoriedades como a criação de uma Issues, inserção de Commits para validar as alteração, não podendo constar plagios ou cópias de outros projetos que ja foram inseridos dentro da comunidade.
+<link REL="stylesheet" TYPE="text/css" HREF="../dio-lab-open-source/css/divgrid.css" />
+<link REL="stylesheet" TYPE="text/css" HREF="../dio-lab-open-source/css/estilo-profile.css" />
+<link REL="stylesheet" TYPE="text/css" HREF="../dio-lab-open-source/css/noralize.css" />
+<link REL="Stylesheet" HREF="../css/noralize.css" />
+<link REL="Stylesheet" HREF="../css/estilo-profile.css" />
+<link REL="Stylesheet" HREF="../css/divgrid.css" />
+
+
+  'Meu parágrafo'{.my-class}
+
