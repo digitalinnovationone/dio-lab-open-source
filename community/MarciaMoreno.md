@@ -56,7 +56,7 @@
             </thead>
             <tr>
             <td class="question oswald">Photo Media</td>
-            <td class="answer comfortaa">
+            <td>
                 <img class="foto-profile" src="../Imagens/Imagem_20240501_1445.png" alt="My profle README.md" />
             </td>
             </tr>
