@@ -4,28 +4,25 @@
 Formato CSS: estilo_ammi - BODY - Nazaré do Piauí /PI
 Ultima atualização: 19/05/2024
 */
-p{ text-align: justify; text-indent: 32px;}
-a{text-decoration: none;}
-a:hover{box-shadow: 0px 15px 122px rgb(97, 27, 209);}
-table {border-collapse: collapse;}
-ul li{text-decoration: none;}
-footer {line-height: 2px;}
-footer p {text-align: center; }
+	p{ text-align: justify; text-indent: 32px;}
+	a{text-decoration: none;}
+	a:hover{box-shadow: 0px 15px 122px rgb(97, 27, 209);}
+	table {border-collapse: collapse;}
+	ul li{text-decoration: none;}
+	
 /****https://github.com/MarciaMoreno/dio-lab-open-source
 Formato CSS: estilo_ammi - HEADER - Nazaré do Piauí /PI
 Ultima atualização: 19/05/2024
 */
 .logodio{ 
-position: absolute;
-width: 100px; 
-height: 100px; 
-border-radius: 32%; 
-margin-left: 50px;
-}
+	position: absolute;
+	width: 4cm; 
+	border-radius: 32%; 
+	margin-left: 4px; }
 .logodio:hover{ box-shadow: 0px 15px 122px rgb(97, 27, 209); }
 .primeira-linha-apresentação-desafio-dio{
-font-size: 16px;
-float: left;
+	font-size: 16px;
+	float: left;
 }
 
 /****https://github.com/MarciaMoreno/dio-lab-open-source
@@ -103,7 +100,11 @@ Ultima atualização: 19/05/2024
 /****https://github.com/MarciaMoreno/dio-lab-open-source
 Formato CSS: estilo_ammi - FOOTER - Nazaré do Piauí /PI
 Ultima atualização: 19/05/2024
-*/	
+*/
+.footer{
+	line-height: 2px;
+	text-align: center;
+}
 .orientadora{
 	width: 4cm;
 	border-radius: 32%;
