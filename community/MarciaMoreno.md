@@ -103,11 +103,10 @@
 </div>
 <div class="linha">
     <div class="coluna col4">
-        <img id="emoji" src="../Imagens/emoji-livro-aberto.png" alt="Documentação" />
+        <img class="emoji" src="../Imagens/emoji-livro-aberto.png" alt="Documentação" />
     </div>
-    <div class="coluna col8">			
-        <h2 class="pacifico-regular"> Documentação</h2>							
-    </div>
+    
+## ![..]() DOCUMENTAÇÃO				
     <div class="coluna col12 nav-doc">
         <ul>
             <li><a href="https://git-scm.com/doc"><input class="jersey-25-charted-regular, docs"  type=button name="OneButton" value="GIT" /></a></li>
