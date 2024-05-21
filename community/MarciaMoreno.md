@@ -56,6 +56,13 @@
                 <h2 class="ibm-plex-mono-regular name">&nbsp &nbsp MarciaMoreno &nbsp &nbsp</h2>
             </thead>
             <tr>
+            <td class="question oswald">Photo Media</td>
+            <td class="answer comfortaa">
+                <figure>
+                    <img class="foto-profile" src="../Imagens/Imagem_20240501_1445.png" alt="My profle README.md" />
+                </figure></td>
+            </tr>
+            <tr>
             <td class="question oswald">First-Name: </td>
             <td class="answer comfortaa">Marcia Patricia</td>
             </tr>
@@ -98,8 +105,6 @@
         </table>
     </div>
     <div style="width=400px">
-        <figure>
-            <img class="foto-profile" src="../Imagens/Imagem_20240501_1445.png" alt="My profle README.md" />
-        </figure>
+        
     </div>
 </div>
