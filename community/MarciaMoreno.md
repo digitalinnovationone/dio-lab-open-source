@@ -104,9 +104,8 @@
 <div class="linha">
     <div class="coluna col4">
         <img class="emoji" src="../Imagens/emoji-livro-aberto.png" alt="Documentação" />
-    </div>
-    
-## ![..]() DOCUMENTAÇÃO				
+        <figcaption class="pacifico-regular">DOCUMENTAÇÃO</figcaption>
+    </div>	
     <div class="coluna col12 nav-doc">
         <ul>
             <li><a href="https://git-scm.com/doc"><input class="jersey-25-charted-regular, docs"  type=button name="OneButton" value="GIT" /></a></li>
