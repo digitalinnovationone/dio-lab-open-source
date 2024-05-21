@@ -140,7 +140,7 @@
 </div>
 <div style="width=960px">
     <div style="width=320px">
-        <img id="emoji" src="../Imagens/emoji-globo.png" alt="Documentação GitHub" />
+        <img class="emoji" src="../Imagens/emoji-globo.png" alt="Documentação GitHub" />
     </div>
     <div style="width=640px">			
         <h2 class="pacifico-regular"> Links relevantes do GitHub</h2>							
