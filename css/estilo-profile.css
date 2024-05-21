@@ -15,18 +15,10 @@ Ultima atualização: 19/05/2024
 Formato CSS: estilo_ammi - HEADER - Nazaré do Piauí /PI
 Ultima atualização: 19/05/2024
 */
-.logodio{ 
-	position: absolute;
-	width: 100px; 
-	height: 100px; 
-	border-radius: 32px;
-	-webkit-margin-top-collapse: 100px;
-	}
-.logodio:hover{ box-shadow: 0px 15px 122px rgb(97, 27, 209); }
+.logodio :hover{ box-shadow: 0px 15px 122px rgb(97, 27, 209); }
 .primeira-linha-apresentação-desafio-dio{
 	font-size: 16px;
-	float: left;
-}
+	float: left;}
 
 /****https://github.com/MarciaMoreno/dio-lab-open-source
 Formato CSS: estilo_ammi - SECTION - Nazaré do Piauí /PI

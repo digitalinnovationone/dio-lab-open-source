@@ -17,14 +17,16 @@
 <div class="linha">
     <div class="col8">
         <p class="primeira-linha-apresentação-desafio-dio comfortaa">
-            <a href="https://www.dio.me/en"><img  class="logodio" width="100px" src="../Imagens/logo-dio.png" alt="DIO - Digital Inovation One" /></a><br>
-            Diretório responsivo, projeto lançado pelo curso Versionamento de codigo da DIO -
+            Diretório responsivo, projeto lançado pelo curso versionamento de codigo da DIO -
             <a href="https://web.dio.me/track/santander-2024-backend-com-java"> [Digital Inovation 
             One]</a>. O desafio visa a colaboração da comunidade entres os estudantes
             do modulo, fazendo-os aprimorar na prática o conceito de contribuição de projetos, 
             via plataforma de codigo aberto no GitHub, cujo script pode ser desenvolvido e validado, 
-            tanto pelo diretório local via Git Bash ou VS Code do Windows.                
+            tanto pelo diretório local via Git Bash ou VS Code do Windows.             
         </p>                   
+    </div>
+    <div class="col4">
+        <a href="https://www.dio.me/en"><img  class="logodio" height="auto" width="100" style="border-radius:30%" src="../Imagens/logo-dio.png" alt="DIO - Digital Inovation One" /></a><br>
     </div>
 </div>
 <div class="col4">
