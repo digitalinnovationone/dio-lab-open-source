@@ -15,8 +15,8 @@
 </style>
 
 <div style="width=960px">
-    <div style="width=800px">
-        <p class="primeira-linha-apresentação-desafio-dio comfortaa">
+    <div>
+        <p style="width=700px" class="primeira-linha-apresentação-desafio-dio comfortaa">
             Diretório responsivo, projeto lançado pelo curso Versionamento de codigo da DIO -
             <a href="https://web.dio.me/track/santander-2024-backend-com-java">[Digital Inovation 
             One]</a>. O desafio visa a colaboração da comunidade entres os estudantes
@@ -25,9 +25,9 @@
             tanto pelo diretório local via Git Bash ou VS Code do Windows.
         </p>                   
     </div>
-    <div style="width=160px">
+    <div style="width=260px">
         <figure>
-            <a href="https://www.dio.me/en"><img  class="logodio" src="../Imagens/logo-dio.png" alt="DIO - Digital Inovation One" /></a>
+            <a href="https://www.dio.me/en"><img style="width=100px" class="logodio" src="../Imagens/logo-dio.png" alt="DIO - Digital Inovation One" /></a>
         </figure>
     </div>
 </div>
