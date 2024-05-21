@@ -170,7 +170,7 @@
     <p class="footer" >Professor(a) Orientador(a): <strong> Elidiana Andrade </strong></p>
         <p class="footer"><a href="https://www.instagram.com/elicosmaker/">Instagram - @elicosmaker</p></a>
         <p class="footer"><a href="https://github.com/elidianaandrade/elidianaandrade?tab=readme-ov-file">GitHub - elidianaandrade</p></a>
-    <img class="orientadora" width="200px" style="border-radius=32px" text-align="center" src="../Imagens/elidiana-andrade.png" alt="Orientadora - Elidiana Andrade" />
+    <img class="orientadora" width="200px" style="border-radius=32px" float="center" src="../Imagens/elidiana-andrade.png" alt="Orientadora - Elidiana Andrade" />
     <br>
     <br>
     <p class="footer">Copyright © 2024 - <strong>MarciaMoreno</strong></p>
