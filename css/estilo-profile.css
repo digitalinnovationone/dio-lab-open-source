@@ -19,7 +19,7 @@ Ultima atualização: 19/05/2024
 position: absolute;
 width: 100px; 
 height: 100px; 
-border-radius: 32px; 
+border-radius: 32%; 
 margin-left: 50px;
 }
 .logodio:hover{ box-shadow: 0px 15px 122px rgb(97, 27, 209); }
@@ -37,7 +37,7 @@ Ultima atualização: 19/05/2024
 	margin-top: -14px;
 	background-color: rgb(219,87,106);
 	padding: 22px 62px 36px 22px;
-	border-radius: 52px 12px 224px;
+	border-radius: 52% 12% 224%;
 	color: rgb(253,255,163);
 	box-shadow: 3px 9px 39px #033, 0px 9px 19px rgb(97, 27, 209);
 	
@@ -46,7 +46,7 @@ Ultima atualização: 19/05/2024
 .emoji{ position: absolute; width: 80px; }
 .foto-profile{ 
 	position: absolute; 
-	border-radius: 32px; 
+	border-radius: 32%; 
 	box-shadow: 3px 9px 39px #033, 0px 9px 119px rgb(97, 27, 209);
 	width: 290px;}	
 .answer{
@@ -54,9 +54,9 @@ Ultima atualização: 19/05/2024
 	text-align: justify;
 }
 .barlow-semi-condensed-light-italic {
-  font-family: "Barlow Semi Condensed", sans-serif;
-  font-weight: 300;
-  font-style: italic; 
+	font-family: "Barlow Semi Condensed", sans-serif;
+	font-weight: 300;
+	font-style: italic; 
 }
 /***Para utilizar na formatação da frase de efeito no final do profile...***/
 .dancing-script{
@@ -107,5 +107,5 @@ Ultima atualização: 19/05/2024
 */	
 .orientadora{
 	width: 100px;
-	border-radius: 32px;
+	border-radius: 32%;
 	margin-left: 450px; }
