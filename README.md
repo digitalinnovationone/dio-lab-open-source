@@ -1,4 +1,4 @@
-<h1 align="center"style="color: #EB9326">Olá, me chamo João Vitor Gaiato</h1>
+<h1 align="center"style="color: #EB9326">Olá, me chamo João Vitor</h1>
  <p align="center">Estou cursando Ciência da Computação no Univem 1/8 - Marilia, SP</p>
 
 <h2 align="center">Conecte-se comigo / Connect with me</h2>
