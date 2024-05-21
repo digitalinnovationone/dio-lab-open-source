@@ -2,8 +2,8 @@
 
 🚧 Work In Progress
 
-<h1 align="center">Hello there 👋 </h1>
-<h3 align="center">👩🏽‍💻 I'm Juliana Mendes, a passionate developer from Brazil 🇧🇷 </h3>
+<h1 align="left">Hello there 👋 </h1>
+<h3 align="left">👩🏽‍💻 I'm Juliana Mendes, a passionate developer from Brazil 🇧🇷 </h3>
 &ensp;
 
 🌱 &ensp; I’m currently learning **python and PHP.**
@@ -39,8 +39,8 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mendesjc&show_icons=true&locale=en" alt="mendesjc" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MendesJC&theme=midnight-purple&show_icons=true)
 
-&ensp;
+&ensp;  
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mendesjc&" alt="mendesjc" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MendesJC&theme=tokyonight&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
