@@ -17,11 +17,8 @@ Ultima atualização: 19/05/2024
 */
 	.logodio{ 
 		position: absolute;
-		width: 100px; 
-		height: 100px; 
-		border-radius: 32px; 
-		margin-left: 50px;
-		}
+		border-radius: 32%; 
+	}
 	.logodio:hover{ box-shadow: 0px 15px 122px rgb(97, 27, 209); }
 	.primeira-linha-apresentação-desafio-dio{
 		font-size: 16px;
