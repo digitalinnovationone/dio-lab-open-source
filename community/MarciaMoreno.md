@@ -152,11 +152,9 @@
     </div>
 </div>
 <div style="width=960px, text-align=center">
-    <article>
-        <p>Professor(a) Orientador(a): <strong> Elidiana Andrade </strong></p>
+    <p>Professor(a) Orientador(a): <strong> Elidiana Andrade </strong></p>
         <a href="https://www.instagram.com/elicosmaker/"><p>Instagram - @elicosmaker</p></a>
         <a href="https://github.com/elidianaandrade/elidianaandrade?tab=readme-ov-file"><p>GitHub - elidianaandrade</p></a>
-    </article>
     <img class="orientadora" width="200px" style="border-radius=32px" src="../Imagens/elidiana-andrade.png" alt="Orientadora - Elidiana Andrade" />
     <br>
     <br>
