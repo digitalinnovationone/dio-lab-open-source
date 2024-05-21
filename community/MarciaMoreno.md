@@ -103,7 +103,21 @@
             </td>
         </table>
     </div>
-    <div style="width=400px">
-        
+    <div style="width=400px">        
+    </div>
+</div>
+<div style="width=960px">
+    <div style="width=320px">
+        <img class="emoji" src="../Imagens/emoji-livro-aberto.png" alt="Documentação" />
+    </div>
+    <div style="width=640px">			
+        <h2 class="pacifico-regular"> Documentação</h2>							
+    </div>
+    <div style="width=950px" class="nav-doc">
+        <ul>
+            <li><a href="https://git-scm.com/doc"><input class="jersey-25-charted-regular" class="docs" type=button name="OneButton" value="GIT" /></a></li>
+            <li><a href="https://docs.github.com/pt"><input class="jersey-25-charted-regular" class="docs" type=button name="OneButton" value="GITHUB" /></a></li>
+            <li><a href="https://www.w3schools.com/html/default.asp"><input class="jersey-25-charted-regular" class="docs" type=button name="OneButton" value="HTML 5/ CSS" /></a></li>
+        </ul>
     </div>
 </div>
