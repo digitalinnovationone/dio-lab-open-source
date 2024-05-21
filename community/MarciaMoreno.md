@@ -40,7 +40,7 @@
     <div style="width=640px">			
         <h2 class="pacifico-regular"> Welcome to my profile...</h2>
     </div>
-    <article style="coluna col12 barlow-semi-condensed-light-italic">
+    <article class="barlow-semi-condensed-light-italic">
         <p>***O exercico desafio consiste na criação de uma pagina profile dentro do login de usuário de 
         acesso do GitHub, utilizando uma extensão de arquivo markdown, com o titulo README.md. Entre as 
         colaborações se destaca algumas obrigatoriedades como a criação de uma Issues, inserção de commits 
@@ -117,9 +117,9 @@
     </div>
     <div style="width=950px" class="nav-doc">
         <ul>
-            <li><a href="https://git-scm.com/doc"><input class="jersey-25-charted-regular" class="docs" type=button name="OneButton" value="GIT" /></a></li>
-            <li><a href="https://docs.github.com/pt"><input class="jersey-25-charted-regular" class="docs" type=button name="OneButton" value="GITHUB" /></a></li>
-            <li><a href="https://www.w3schools.com/html/default.asp"><input class="jersey-25-charted-regular" class="docs" type=button name="OneButton" value="HTML 5/ CSS" /></a></li>
+            <li><a href="https://git-scm.com/doc"><input class="jersey-25-charted-regular docs" type=button name="OneButton" value="GIT" /></a></li>
+            <li><a href="https://docs.github.com/pt"><input class="jersey-25-charted-regular docs" type=button name="OneButton" value="GITHUB" /></a></li>
+            <li><a href="https://www.w3schools.com/html/default.asp"><input class="jersey-25-charted-regular docs" type=button name="OneButton" value="HTML 5/ CSS" /></a></li>
         </ul>
     </div>
 </div>
