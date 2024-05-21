@@ -14,7 +14,10 @@
     @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
 </style>
 
-<div class="linha">
+<div class="linha">   
+    <div class="col4">
+        <a href="https://www.dio.me/en"><img  class="logodio" height="auto" width="100" style="border-radius:30%" src="../Imagens/logo-dio.png" alt="DIO - Digital Inovation One" /></a><br>
+    </div>
     <div class="col8">
         <p class="primeira-linha-apresentação-desafio-dio comfortaa" style="text-align=left">
             Diretório responsivo, projeto lançado pelo curso versionamento de codigo da DIO -
@@ -24,9 +27,6 @@
             via plataforma de codigo aberto no GitHub, cujo script pode ser desenvolvido e validado, 
             tanto pelo diretório local via Git Bash ou VS Code do Windows.            
         </p>                   
-    </div>
-    <div class="col4">
-        <a href="https://www.dio.me/en"><img  class="logodio" height="auto" width="100" style="border-radius:30%" src="../Imagens/logo-dio.png" alt="DIO - Digital Inovation One" /></a><br>
     </div>
 </div>
 <div class="col4">
