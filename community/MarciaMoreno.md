@@ -106,6 +106,8 @@
     <div style="width=400px">        
     </div>
 </div>
+<br>
+<br>
 <div style="width=960px">
     <div style="width=320px">
         <img class="emoji" src="../Imagens/emoji-livro-aberto.png" alt="Documentação" />
@@ -121,6 +123,8 @@
         </ul>
     </div>
 </div>
+<br>
+<br>
 <div style="width=960px">
     <div style="width=320px">
         <img class="emoji" src="../Imagens/emoji-globo.png" alt="Documentação Git" />
@@ -138,6 +142,8 @@
         <p><a href="https://git-scm.com/docs/git-restore/pt_BR">$ git-restore - Restaura os arquivos das árvores de trabalho</a></p>
     </div>
 </div>
+<br>
+<br>
 <div style="width=960px">
     <div style="width=320px">
         <img class="emoji" src="../Imagens/emoji-globo.png" alt="Documentação GitHub" />
