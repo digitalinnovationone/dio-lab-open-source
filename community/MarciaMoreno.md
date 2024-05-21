@@ -49,3 +49,57 @@
         </p>
     </article>
 </div>
+<div style="width=960px">
+    <div style="width=560px" style="overflow-x:auto;">
+        <table>
+            <thead>
+                <h2 class="ibm-plex-mono-regular name">&nbsp &nbsp MarciaMoreno &nbsp &nbsp</h2>
+            </thead>
+            <tr>
+            <td class="question oswald">First-Name: </td>
+            <td class="answer comfortaa">Marcia Patricia</td>
+            </tr>
+            <tr>
+            <td class="question oswald">Last-Name:</td>
+            <td class="answer comfortaa">Moreno</td>
+            </tr>
+            <tr>
+            <td class="question oswald">Date-of-Birth:</td>
+            <td class="answer comfortaa">02/04/1985</td>
+            </tr>
+            <tr>
+            <td class="question oswald">LINGUAGENS DE MARCAÇÃO E ESTILO:</td>
+            <td class="answer">
+                <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5" />
+                <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+                <img src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown" alt="Markdown" />						
+            </td>
+            </tr>
+            <tr>
+            <td class="question oswald">LINGUAGENS DE DESENVOLVIMENTO:</td>
+            <td class="answer">
+                <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+                <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+            </td>
+            </tr>						
+            <tr>
+            <td class="question">Sobre mim...</td>
+            <td class="answer comfortaa">Brasileira, solteira, não-fumante e sem filhos. Estudante com foco em Desenvolvimento Web pela 
+            <a href="https://web.dio.me/track/santander-2024-backend-com-java">DIO - [Digital Inovation One]</a>. 
+            Gradução iniciada em Ciencias da Computação pela Instituição de ensino UNIESP - SP (2014). Habilidades 
+            e automação de desenho e ilustrações diversas. Conhecimento nos pacotes Officce, trabalho atualmente 
+            como Expertise de atendimento para suporte tecnico da ambev, via Teleperformance.   </td>
+            </tr>
+            <tr>
+            <td class="question oswald">Site de conteúdo: </td>
+            <td class="answer comfortaa">
+                <a href="https://www.youtube.com/channel/UCIl3wm3BjyE4AzxmL5hGm0Q">@marciapatriciam &nbsp&nbsp / &nbsp&nbsp</a><a href="https://www.facebook.com/profile.php?id=61559592734029">facebook</a>
+            </td>
+        </table>
+    </div>
+    <div style="width=400px">
+        <figure>
+            <img class="foto-profile" src="../Imagens/Imagem_20240501_1445.png" alt="My profle README.md" />
+        </figure>
+    </div>
+</div>
