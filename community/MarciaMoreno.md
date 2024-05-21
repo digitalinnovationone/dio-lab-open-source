@@ -15,7 +15,7 @@
 </style>
 
 <div class="linha">
-    <div class="coluna col10">
+    <div class="col8">
         <p class="primeira-linha-apresentação-desafio-dio comfortaa">
             Diretório responsivo, projeto lançado pelo curso Versionamento de codigo da DIO -
             <a href="https://web.dio.me/track/santander-2024-backend-com-java"> [Digital Inovation 
@@ -26,9 +26,9 @@
         </p>                   
     </div>
 </div>
-<div class="coluna col2">
-<figure>
-    <a href="https://www.dio.me/en"><img  class="logodio" src="../Imagens/logo-dio.png" alt="DIO - Digital Inovation One" /></a>
-</figure>
+<div class="col4">
+    <figure>
+        <a href="https://www.dio.me/en"><img  class="logodio" src="../Imagens/logo-dio.png" alt="DIO - Digital Inovation One" /></a>
+    </figure>
 </div>
 
