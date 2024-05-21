@@ -166,12 +166,12 @@
 <br>
 <br>
 <br>
-<div class="footer" style="width=960px">
-    <p >Professor(a) Orientador(a): <strong> Elidiana Andrade </strong></p>
-        <a href="https://www.instagram.com/elicosmaker/"><p>Instagram - @elicosmaker</p></a>
-        <a href="https://github.com/elidianaandrade/elidianaandrade?tab=readme-ov-file"><p>GitHub - elidianaandrade</p></a>
-    <img class="orientadora" width="200px" style="border-radius=32px" src="../Imagens/elidiana-andrade.png" alt="Orientadora - Elidiana Andrade" />
+<div style="width=960px">
+    <p class="footer" >Professor(a) Orientador(a): <strong> Elidiana Andrade </strong></p>
+        <p class="footer"><a href="https://www.instagram.com/elicosmaker/">Instagram - @elicosmaker</p></a>
+        <p class="footer"><a href="https://github.com/elidianaandrade/elidianaandrade?tab=readme-ov-file">GitHub - elidianaandrade</p></a>
+    <img class="orientadora" width="200px" style="border-radius=32px" text-align="center" src="../Imagens/elidiana-andrade.png" alt="Orientadora - Elidiana Andrade" />
     <br>
     <br>
-    <p>Copyright © 2024 - <strong>MarciaMoreno</strong></p>
+    <p class="footer">Copyright © 2024 - <strong>MarciaMoreno</strong></p>
 </div>
