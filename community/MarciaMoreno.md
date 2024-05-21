@@ -33,8 +33,7 @@
 </div>
 <hr>
 <hr>
-<br>
-<br>
+<br><br><br><br>
 <div style="width=960px">
     <div style="width=320px">
         <img class="emoji" src="../Imagens/emoji-mãos-dadas.png" alt="Documentação" />
