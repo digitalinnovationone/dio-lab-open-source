@@ -112,8 +112,10 @@
         <img class="emoji" src="../Imagens/emoji-livro-aberto.png" alt="Documentação" />
     </div>
     <div style="width=640px">			
-        <h2 class="pacifico-regular"> Documentação</h2>							
+        <h2 class="pacifico-regular"> Documentação</h2>					
     </div>
+    <br>
+    <br>
     <div style="width=950px" class="nav-doc">
         <ul>
             <li><a href="https://git-scm.com/doc"><input class="jersey-25-charted-regular docs" type=button name="OneButton" value="GIT" /></a></li>
@@ -131,6 +133,8 @@
     <div style="width=640px">			
         <h2 class="pacifico-regular"> Links relevantes do Git</h2>							
     </div>
+    <br>
+    <br>
     <div style="width=960px" class="comfortaa">
         <p><a href="https://git-scm.com/docs/git/pt_BR">$ git - O monitor de conteúdos.</a></p>
         <p><a href="https://git-scm.com/docs/git-config/pt_BR">$ git-config - Definições e opções globais do repositório.</a></p>
@@ -150,6 +154,8 @@
     <div style="width=640px">			
         <h2 class="pacifico-regular"> Links relevantes do GitHub</h2>							
     </div>
+    <br>
+    <br>
     <div style="width=960px" class="comfortaa">
         <p><a href="https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">Sintaxe básica de gravação e formatação markdown no GitHub.</a></p>
         <p><a href="https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks">Criar e realçar blocos de código</a>.</p>
