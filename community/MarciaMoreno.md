@@ -31,8 +31,14 @@
         </figure>
     </div>
 </div>
-
+<hr>
+<hr>
+<br>
+<br>
 <div style="width=960px">
+    <div style="width=320px">
+        <img class="emoji" src="../Imagens/emoji-mãos-dadas.png" alt="Documentação" />
+    </div>
     <div style="width=640px">			
         <h2 class="pacifico-regular"> Welcome to my profile...</h2>
     </div>
