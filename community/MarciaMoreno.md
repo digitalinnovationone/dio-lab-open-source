@@ -28,7 +28,7 @@
 </div>
 <div class="coluna col2">
 <figure>
-    <a href="https://www.dio.me/en"><img  id="logodio" src="../Imagens/logo-dio.png" alt="DIO - Digital Inovation One" /></a>
+    <a href="https://www.dio.me/en"><img  class="logodio" src="../Imagens/logo-dio.png" alt="DIO - Digital Inovation One" /></a>
 </figure>
 </div>
 
