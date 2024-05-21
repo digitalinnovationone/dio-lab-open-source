@@ -29,7 +29,3 @@
         </p>                   
     </div>
 </div>
-<div class="col4">
-    
-</div>
-
