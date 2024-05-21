@@ -65,36 +65,30 @@ Ultima atualização: 19/05/2024
 		font-family: "IBM Plex Mono", monospace;
 		font-weight: 400;
 		font-style: normal;
-		font-size: 42px;
-		}
+		font-size: 42px; 	}
 	.name{text-shadow: 2px 2px 5px rgb(97, 27, 209); text-align: right;}
 	.nav-doc ul li{ display: inline-block; margin-top: -12px;}
 	.oswald{
 		font-family: "Oswald", sans-serif;
 		font-optical-sizing: auto;
 		font-weight: <weight>;
-		font-style: normal;
-	}
+		font-style: normal;   	}
 	.pacifico-regular {
 		font-family: "Pacifico", cursive;
 		font-weight: 400;
 		font-style: normal;
 		font-size: 36px;
-		padding-left: 102px;
-	}
+		padding-left: 102px;  }
 	.question{
 		padding: 5px;
-		text-align: right;
-		
-	}
+		text-align: right;	}
 	/*** <uniquifier>: Use a unique and descriptive class name
 	// <weight>: Use a value from 300 to 700***/
 	.comfortaa{
 		  font-family: "Comfortaa", sans-serif;
 		  font-optical-sizing: auto;
 		  font-weight: <weight>;
-		  font-style: normal;
-		}
+		  font-style: normal;	}
 		
 /****https://github.com/MarciaMoreno/dio-lab-open-source
 Formato CSS: estilo_ammi - FOOTER - Nazaré do Piauí /PI

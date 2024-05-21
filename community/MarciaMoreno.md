@@ -16,13 +16,13 @@
 
 <div class="linha">
     <div class="col8">
-        <p class="primeira-linha-apresentação-desafio-dio comfortaa">
+        <p class="primeira-linha-apresentação-desafio-dio comfortaa" style="text-align=left">
             Diretório responsivo, projeto lançado pelo curso versionamento de codigo da DIO -
             <a href="https://web.dio.me/track/santander-2024-backend-com-java"> [Digital Inovation 
             One]</a>. O desafio visa a colaboração da comunidade entres os estudantes
             do modulo, fazendo-os aprimorar na prática o conceito de contribuição de projetos, 
             via plataforma de codigo aberto no GitHub, cujo script pode ser desenvolvido e validado, 
-            tanto pelo diretório local via Git Bash ou VS Code do Windows.             
+            tanto pelo diretório local via Git Bash ou VS Code do Windows.            
         </p>                   
     </div>
     <div class="col4">
