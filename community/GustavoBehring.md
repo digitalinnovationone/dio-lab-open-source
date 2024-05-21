@@ -1,5 +1,7 @@
 #GustavoBehring
 
+Olá, meu nome é Gustavo Behring, sou um estudante de computação que se formou na unip em dezembro de 2023, trabalhei como estagiario na área de T.I do hospital Sírio Libanês e agora estou buscando conhecimento para me aprimorar dentro desse mundo gigante de TI. Muito Prazer :) .
+
  ##Conecte-se comigo
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-behring-1302351b7//)
 
