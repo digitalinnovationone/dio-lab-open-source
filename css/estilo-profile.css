@@ -43,7 +43,7 @@ Ultima atualização: 19/05/2024
 	
 }  
 .docs:hover{ background-color: #fff; color: rgb(53,46,138)}
-.emoji{ position: absolute; width: 80px; margin-top: -5px; }
+.emoji{ position: absolute; width: 80px; margin-top: -15px; }
 .foto-profile{ 
 	position: absolute; 
 	border-radius: 32%; 
@@ -106,6 +106,6 @@ Formato CSS: estilo_ammi - FOOTER - Nazaré do Piauí /PI
 Ultima atualização: 19/05/2024
 */	
 .orientadora{
-	width: 100px;
+	width: 4cm;
 	border-radius: 32%;
 	margin-left: 450px; }
