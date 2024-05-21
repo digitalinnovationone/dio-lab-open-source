@@ -1,7 +1,7 @@
 
 # Christopher Martins       
 
-Atualmente estou fazendo Analise e Desenvolvimento de Sistemas, sou apaixonado por tecnologia dês de criança principalmente em eletrônica de Hardware, estou explorando novos horizontes na área de Desenvolvimento buscando conhecimento que nunca é demais.  
+Atualmente estou fazendo Analise e Desenvolvimento de Sistemas, sou apaixonado por tecnologia dês de criança principalmente em eletrônica de Hardware, estou explorando novos horizontes na área de Desenvolvimento buscando conhecimento que nunca é demais 😎.  
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-martins-28845a20b/)
