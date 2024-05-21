@@ -33,14 +33,11 @@
 </div>
 
 <div style="width=960px">
-    <div style="width=320px">
-        <img class="emoji" src="../Imagens/emoji-mãos-dadas.png" alt="bem vindo" />
-    </div>
     <div style="width=640px">			
         <h2 class="pacifico-regular"> Welcome to my profile...</h2>
     </div>
     <div class="barlow-semi-condensed-light-italic">
-        <p>***O exercico desafio consiste na criação de uma pagina profile dentro do login de usuário de 
+        <p>O exercico desafio consiste na criação de uma pagina profile dentro do login de usuário de 
         acesso do GitHub, utilizando uma extensão de arquivo markdown, com o titulo README.md. Entre as 
         colaborações se destaca algumas obrigatoriedades como a criação de uma Issues, inserção de commits 
         para validar as alteração, não podendo constar plagios ou cópias de outros projetos que ja foram
