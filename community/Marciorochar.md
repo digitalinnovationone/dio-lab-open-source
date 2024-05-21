@@ -1,6 +1,6 @@
 # Falaa tropaaa, Como vocês estão?! 
 
-Meu nome é **Marcio**, mas boa parte das pessoas me chama pelo apelido **Marcinho**, é, eu sou estudante de Engenharia de Produção na Universidade Federal Fluminense(**UFF**). E tenho uma paixão por resolver problemas no qual necessitam de otimização de processos, me amarro em problemas na área de petróleo e gás, e estou em evolução no aprendizado sobre **Python**.
+Meu nome é **Marcio**, mas boa parte das pessoas me chama pelo apelido **Marcinho**, é, eu sou estudante de Engenharia de Produção na Universidade Federal Fluminense(**UFF**). E tenho uma paixão por resolver problemas no qual necessitam de otimização de processos, me amarro em problemas na área de petróleo e gás, e estou em evolução no aprendizado sobre **Python** e **MATLAB**.
 
 ##  Educação
 
