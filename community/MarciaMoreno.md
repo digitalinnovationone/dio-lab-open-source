@@ -155,8 +155,8 @@
 <br>
 <br>
 <br>
-<div style="width=960px" text-align="center">
-    <p>Professor(a) Orientador(a): <strong> Elidiana Andrade </strong></p>
+<div class="footer" style="width=960px">
+    <p >Professor(a) Orientador(a): <strong> Elidiana Andrade </strong></p>
         <a href="https://www.instagram.com/elicosmaker/"><p>Instagram - @elicosmaker</p></a>
         <a href="https://github.com/elidianaandrade/elidianaandrade?tab=readme-ov-file"><p>GitHub - elidianaandrade</p></a>
     <img class="orientadora" width="200px" style="border-radius=32px" src="../Imagens/elidiana-andrade.png" alt="Orientadora - Elidiana Andrade" />
