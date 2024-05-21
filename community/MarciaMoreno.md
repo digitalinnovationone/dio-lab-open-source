@@ -37,7 +37,7 @@
     <div style="width=320px">
         <img class="emoji" src="../Imagens/emoji-mãos-dadas.png" alt="bem vindo" />
     </div>
-    <div style="640px">			
+    <div style="width=640px">			
         <h2 class="pacifico-regular"> Welcome to my profile...</h2>
     </div>
     <article style="coluna col12 barlow-semi-condensed-light-italic">
@@ -50,7 +50,7 @@
     </article>
 </div>
 <div style="width=960px">
-    <div style="width=560px" style="overflow-x:auto;">
+    <div style="width=560px">
         <table>
             <thead>
                 <h2 class="ibm-plex-mono-regular name">&nbsp &nbsp MarciaMoreno &nbsp &nbsp</h2>
@@ -121,3 +121,20 @@
         </ul>
     </div>
 </div>
+<div style="width=960px">
+				<div style="width=320px">
+					<img id="emoji" src="../Imagens/emoji-globo.png" alt="Documentação Git" />
+				</div>
+				<div style="width=640px">			
+					<h2 class="pacifico-regular"> Links relevantes do Git</h2>							
+				</div>
+				<div style="width=960px" class="comfortaa">
+					<p><a href="https://git-scm.com/docs/git/pt_BR">$ git - O monitor de conteúdos.</a></p>
+					<p><a href="https://git-scm.com/docs/git-config/pt_BR">$ git-config - Definições e opções globais do repositório.</a></p>
+					<p><a href="https://git-scm.com/docs/git-init/pt_BR">$ git init - Cria um repositório Git vazio ou reinicializa um já existente.</a></p>
+					<p><a href="https://git-scm.com/docs/git-add/pt_BR">$ git add - Adicione o conteúdo do arquivo ao índice.</a></p>
+					<p><a href="https://git-scm.com/docs/git-branch/pt_BR">$ git Branch - Lista, cria ou exclui ramificações.</a></p>
+					<p><a href="https://git-scm.com/docs/git-clone/pt_BR">$ git-clone - Clona um repositório em um novo diretório</a></p>
+					<p><a href="https://git-scm.com/docs/git-restore/pt_BR">$ git-restore - Restaura os arquivos das árvores de trabalho</a></p>
+				</div>
+			</div>
