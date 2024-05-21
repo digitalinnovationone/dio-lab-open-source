@@ -151,7 +151,11 @@
         <p><a href="https://docs.github.com/pt/get-started/learning-about-github/github-glossary">Glossário do GitHub.</a></p>
     </div>
 </div>
-<div style="width=960px, text-align=center">
+<br>
+<br>
+<br>
+<br>
+<div style="width=960px" text-align="center">
     <p>Professor(a) Orientador(a): <strong> Elidiana Andrade </strong></p>
         <a href="https://www.instagram.com/elicosmaker/"><p>Instagram - @elicosmaker</p></a>
         <a href="https://github.com/elidianaandrade/elidianaandrade?tab=readme-ov-file"><p>GitHub - elidianaandrade</p></a>
