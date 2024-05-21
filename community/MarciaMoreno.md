@@ -106,7 +106,7 @@
         <img class="emoji" src="../Imagens/emoji-livro-aberto.png" alt="Documentação" />
     </div>
     <div class="coluna col8">			
-        <h2 class="pacifico-regular" style="margin-top= -100px"> Documentação</h2>							
+        <h2 class="pacifico-regular"> Documentação</h2>							
     </div>
     <div class="coluna col12 nav-doc">
         <ul>

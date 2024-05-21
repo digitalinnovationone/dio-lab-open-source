@@ -15,14 +15,14 @@ Ultima atualização: 19/05/2024
 Formato CSS: estilo_ammi - HEADER - Nazaré do Piauí /PI
 Ultima atualização: 19/05/2024
 */
-#logodio{ 
+.logodio{ 
 	position: absolute;
 	width: 100px; 
 	height: 100px; 
 	border-radius: 32px; 
 	margin-left: 50px;
 	}
-#logodio:hover{ box-shadow: 0px 15px 122px rgb(97, 27, 209); }
+.logodio:hover{ box-shadow: 0px 15px 122px rgb(97, 27, 209); }
 .primeira-linha-apresentação-desafio-dio{
 	font-size: 16px;
 	float: left;
@@ -32,7 +32,7 @@ Ultima atualização: 19/05/2024
 Formato CSS: estilo_ammi - SECTION - Nazaré do Piauí /PI
 Ultima atualização: 19/05/2024
 */
-	#docs{
+	.docs{
 		margin: 14px;
 		margin-top: -14px;
 		background-color: rgb(219,87,106);
@@ -42,9 +42,9 @@ Ultima atualização: 19/05/2024
 		box-shadow: 3px 9px 39px #033, 0px 9px 19px rgb(97, 27, 209);
 		
 	}  
-	#docs:hover{ background-color: #fff; color: rgb(53,46,138)}
-	#emoji{ position: absolute; width: 80px; margin-top: 22px; }
-	#foto-profile{ 
+	.docs:hover{ background-color: #fff; color: rgb(53,46,138)}
+	.emoji{ position: absolute; width: 80px; margin-top: 220px; }
+	.foto-profile{ 
 		position: absolute; 
 		border-radius: 32px; 
 		box-shadow: 3px 9px 39px #033, 0px 9px 119px rgb(97, 27, 209);
@@ -108,7 +108,7 @@ Ultima atualização: 19/05/2024
 Formato CSS: estilo_ammi - FOOTER - Nazaré do Piauí /PI
 Ultima atualização: 19/05/2024
 */	
-    #orientadora{
+    .orientadora{
 		width: 100px;
 		border-radius: 32px;
 		margin-left: 450px;
