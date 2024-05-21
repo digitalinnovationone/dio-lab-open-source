@@ -122,19 +122,43 @@
     </div>
 </div>
 <div style="width=960px">
-				<div style="width=320px">
-					<img class="emoji" src="../Imagens/emoji-globo.png" alt="Documentação Git" />
-				</div>
-				<div style="width=640px">			
-					<h2 class="pacifico-regular"> Links relevantes do Git</h2>							
-				</div>
-				<div style="width=960px" class="comfortaa">
-					<p><a href="https://git-scm.com/docs/git/pt_BR">$ git - O monitor de conteúdos.</a></p>
-					<p><a href="https://git-scm.com/docs/git-config/pt_BR">$ git-config - Definições e opções globais do repositório.</a></p>
-					<p><a href="https://git-scm.com/docs/git-init/pt_BR">$ git init - Cria um repositório Git vazio ou reinicializa um já existente.</a></p>
-					<p><a href="https://git-scm.com/docs/git-add/pt_BR">$ git add - Adicione o conteúdo do arquivo ao índice.</a></p>
-					<p><a href="https://git-scm.com/docs/git-branch/pt_BR">$ git Branch - Lista, cria ou exclui ramificações.</a></p>
-					<p><a href="https://git-scm.com/docs/git-clone/pt_BR">$ git-clone - Clona um repositório em um novo diretório</a></p>
-					<p><a href="https://git-scm.com/docs/git-restore/pt_BR">$ git-restore - Restaura os arquivos das árvores de trabalho</a></p>
-				</div>
-			</div>
+    <div style="width=320px">
+        <img class="emoji" src="../Imagens/emoji-globo.png" alt="Documentação Git" />
+    </div>
+    <div style="width=640px">			
+        <h2 class="pacifico-regular"> Links relevantes do Git</h2>							
+    </div>
+    <div style="width=960px" class="comfortaa">
+        <p><a href="https://git-scm.com/docs/git/pt_BR">$ git - O monitor de conteúdos.</a></p>
+        <p><a href="https://git-scm.com/docs/git-config/pt_BR">$ git-config - Definições e opções globais do repositório.</a></p>
+        <p><a href="https://git-scm.com/docs/git-init/pt_BR">$ git init - Cria um repositório Git vazio ou reinicializa um já existente.</a></p>
+        <p><a href="https://git-scm.com/docs/git-add/pt_BR">$ git add - Adicione o conteúdo do arquivo ao índice.</a></p>
+        <p><a href="https://git-scm.com/docs/git-branch/pt_BR">$ git Branch - Lista, cria ou exclui ramificações.</a></p>
+        <p><a href="https://git-scm.com/docs/git-clone/pt_BR">$ git-clone - Clona um repositório em um novo diretório</a></p>
+        <p><a href="https://git-scm.com/docs/git-restore/pt_BR">$ git-restore - Restaura os arquivos das árvores de trabalho</a></p>
+    </div>
+</div>
+<div style="width=960px">
+    <div style="width=320px">
+        <img id="emoji" src="../Imagens/emoji-globo.png" alt="Documentação GitHub" />
+    </div>
+    <div style="width=640px">			
+        <h2 class="pacifico-regular"> Links relevantes do GitHub</h2>							
+    </div>
+    <div style="width=960px" class="comfortaa">
+        <p><a href="https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">Sintaxe básica de gravação e formatação markdown no GitHub.</a></p>
+        <p><a href="https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks">Criar e realçar blocos de código</a>.</p>
+        <p><a href="https://docs.github.com/pt/get-started/learning-about-github/github-glossary">Glossário do GitHub.</a></p>
+    </div>
+</div>
+<div style="width=960px, text-align=center">
+    <article>
+        <p>Professor(a) Orientador(a): <strong> Elidiana Andrade </strong></p>
+        <a href="https://www.instagram.com/elicosmaker/"><p>Instagram - @elicosmaker</p></a>
+        <a href="https://github.com/elidianaandrade/elidianaandrade?tab=readme-ov-file"><p>GitHub - elidianaandrade</p></a>
+    </article>
+    <img class="orientadora" width="200px" style="border-radius=32px" src="../Imagens/elidiana-andrade.png" alt="Orientadora - Elidiana Andrade" />
+    <br>
+    <br>
+    <p>Copyright © 2024 - <strong>MarciaMoreno</strong></p>
+</div>
