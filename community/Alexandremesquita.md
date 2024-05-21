@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-<section class="perfil">
+<section class="perfil">                                                             
     <h2>Perfil</h2>
     <ul>
         <li><strong>Nome:</strong> Alexandre Ferreira de Mesquita</li>
