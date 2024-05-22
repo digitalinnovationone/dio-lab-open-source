@@ -3,48 +3,45 @@
 	 /* 960px é a largura da página  */
 	 
 	.linha{
-				width: 960px;
+				width: 100%;
 				margin: 0 auto;
 				overflow: auto;
-				padding: 5px 0;}
+				padding: 10px 0;
+				display: flex;
+			}
 	.coluna{
 				padding: 0 5px;
-				float:center;
+				float: left;
 				}
 		.col1{
-			width: 80px ;
+			width: 10% ;
 		}
 		.col2{
-			width: 160px;
+			width: 20%;
 		}
 		.col3{
-			width: 240px;
+			width: 30%;
 		}
 		.col4{
-			width: 320px;
+			width: 40%;
 		}
 		.col5{
-			width: 400px;
+			width: 50%;
 		}
 		.col6{
-			width: 480px;
+			width: 60%;
 		}
 		.col7{
-			width: 560px;
+			width: 70%;
 		}
 		.col8{
-			width: 640px;
+			width: 80%;
 		}
 		.col9{
-			width: 720px;
+			width: 90%;
 
 		}
 		.col10{
-			width: 800px;
+			width: 100%;
 		}
-		.col11{
-			width: 880px;
-		}
-		.col12{
-			width: 950px;
-		}
+		
