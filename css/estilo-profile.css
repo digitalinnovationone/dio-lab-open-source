@@ -52,9 +52,19 @@ Ultima atualização: 22/05/2024 - 15:29
 	box-shadow: 0px 15px 122px rgb(97, 27, 209); }
 .primeira-linha-apresentação-desafio-dio{
 	font-size: 16px; }
-.emoji{ width: 80%; }
+.emoji{ 
+	width: 80%; 
+	margin-top: -5%; }
 .foto-profile{ 
 	border-radius: 32%; 
 	box-shadow: 3px 9px 39px #033, 0px 9px 119px rgb(97, 27, 209);
 	width: 200%;
 	margin-top: 20%;}
+.docs{
+	margin: 4%;
+	margin-top: 14%;
+	background-color:  rgb(97, 27, 209);	
+	border-radius: 52% 12% 224%;
+	color: rgb(253,255,163);
+	box-shadow: 3px 9px 39px #033, 0px 9px 19px rgb(97, 27, 209);	}  
+.docs:hover{ background-color: #fff; color: rgb(53,46,138)}
