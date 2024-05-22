@@ -12,9 +12,8 @@ Graduada em Ciencia da Computação e estudante da DIO.
 
 # GitHub Stats
 
-| Preview | Parameters |
-|:-------:|:----------:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alessalucas&theme=transparent&bg_color=%23734F96&border_color=30A3DC&show_icons=true&icon_color=%23734F9&title_color=E94D5F&text_color=%23734F9) | `theme=transparent` `bg_color=000` `border_color=30A3DC` `show_icons=true` `icon_color=30A3DC` `title_color=E94D5F` `text_color=FFF`|
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alessalucas&theme=transparent&bg_color=%23734F96&border_color=30A3DC&show_icons=true&icon_color=%23734F9&title_color=E94D5F&text_color=%23734F9) 
 
 # Minhas Contribuições
 
