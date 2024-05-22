@@ -26,6 +26,11 @@ Atualização: 20/05/2024****/
 	font-weight: 400;
 	font-style: normal;
 	font-size: 36px;}
+.comfortaa{
+	font-family: "Comfortaa", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;	}  
 /****https://github.com/MarciaMoreno/dio-lab-open-source
 Formato CSS: estilo_ammi - BODY - Nazaré do Piauí /PI
 Ultima atualização: 22/05/2024 - 15:29
@@ -47,5 +52,9 @@ Ultima atualização: 22/05/2024 - 15:29
 	box-shadow: 0px 15px 122px rgb(97, 27, 209); }
 .primeira-linha-apresentação-desafio-dio{
 	font-size: 16px; }
-.emoji{ width: 100%; }
-
+.emoji{ width: 80%; }
+.foto-profile{ 
+	border-radius: 32%; 
+	box-shadow: 3px 9px 39px #033, 0px 9px 119px rgb(97, 27, 209);
+	width: 200%;
+	margin-top: 20%;}
