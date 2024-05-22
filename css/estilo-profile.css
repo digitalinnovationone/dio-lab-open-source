@@ -53,7 +53,7 @@ Ultima atualização: 22/05/2024 - 15:29
 .primeira-linha-apresentação-desafio-dio{
 	font-size: 16px; }
 .emoji{ 
-	width: 80%; 
+	width: 40%; 
 	margin-top: -5%; }
 .foto-profile{ 
 	border-radius: 32%; 
@@ -69,3 +69,10 @@ Ultima atualização: 22/05/2024 - 15:29
 	color: rgb(253,255,163);
 	box-shadow: 3px 9px 39px #033, 0px 9px 19px rgb(97, 27, 209);	}  
 .docs:hover{ background-color: #fff; color: rgb(53,46,138)}
+.nav-doc ul li{ 
+	display: inline-block; 
+	margin-top: -12px;
+	text-decoration: none;}
+.name{
+	text-shadow: 2px 2px 5px rgb(97, 27, 209); 
+	text-align: center;}
