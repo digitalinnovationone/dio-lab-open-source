@@ -7,7 +7,7 @@
 
 ### 📊 Estatísticas no GitHub
 
-![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Breno-N&show_icons=true&theme=dracula)
+![Breno-N GitHub stats](https://github-readme-stats.vercel.app/api?username=Breno-N&show_icons=true&theme=dracula)
 
 
 ### 🚀 Linguagens Mais Usadas
