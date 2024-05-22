@@ -93,11 +93,9 @@
             </td>
         </table>
     </div>
-    <div class="coluna col3">
-        <figure>
-            <img class="foto-profile" src="../Imagens/Imagem_20240501_1445.png" alt="My profle README.md" />
-        </figure>
-    </div>
+    <div class="coluna col3">        
+        <img class="foto-profile" src="../Imagens/Imagem_20240501_1445.png" alt="My profle README.md" />
+     </div>
 </div>
 <div class="linha">
         <div class="coluna col2">
