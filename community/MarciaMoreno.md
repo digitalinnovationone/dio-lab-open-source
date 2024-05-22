@@ -45,6 +45,8 @@
     <p>***O exercico desafio consiste na criação de uma pagina profile dentro do login de usuário de acesso do GitHub, utilizando uma extensão de arquivo markdown, com o titulo README.md. Entre as colaborações se destaca algumas obrigatoriedades como a criação de uma Issues, inserção de commits para validar as alteração, não podendo constar plagios ou cópias de outros projetos que ja foram inseridos dentro da comunidade.  
     </p>
 </div>
+
+
 <div class="linha">
     <div class="coluna col7" style="overflow-x:auto;">
         <table>
@@ -97,6 +99,9 @@
         <img class="foto-profile" src="../Imagens/Imagem_20240501_1445.png" alt="My profle README.md" />
      </div>
 </div>
+
+
+
 <div class="linha">
         <div class="coluna col2">
             <img class="emoji" src="../Imagens/emoji-livro-aberto.png" alt="Documentação" />
@@ -112,6 +117,9 @@
         <li><a href="https://www.w3schools.com/html/default.asp"><input class="jersey-25-charted-regular" class="docs" type=button name="OneButton" value="HTML 5/ CSS" /></a></li>
     </ul>
 </div>
+
+
+
 <div class="linha">
     <div class="coluna col2">
         <img class="emoji" src="../Imagens/emoji-globo.png" alt="Documentação Git" />
@@ -129,6 +137,9 @@
     <p><a href="https://git-scm.com/docs/git-clone/pt_BR">$ git-clone - Clona um repositório em um novo diretório</a></p>
     <p><a href="https://git-scm.com/docs/git-restore/pt_BR">$ git-restore - Restaura os arquivos das árvores de trabalho</a></p>
 </div>
+
+
+
 <div class="linha">
     <div class="coluna col2">
         <img class="emoji" src="../Imagens/emoji-globo.png" alt="Documentação GitHub" />
@@ -142,16 +153,16 @@
     <p><a href="https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks">Criar e realçar blocos de código</a>.</p>
     <p><a href="https://docs.github.com/pt/get-started/learning-about-github/github-glossary">Glossário do GitHub.</a></p>
 </div>
-<br>
-<br>
-<br>
-<div class="coluna col12">
-    <p>Professor(a) Orientador(a): <strong> Elidiana Andrade </strong></p>
+
+
+
+<div class="linha temp_foot">
+    <p class="back">Professor(a) Orientador(a): <strong> Elidiana Andrade </strong></p>
     <a href="https://www.instagram.com/elicosmaker/"><p>Instagram - @elicosmaker</p></a>
     <a href="https://github.com/elidianaandrade/elidianaandrade?tab=readme-ov-file"><p>GitHub - elidianaandrade</p></a>
     <br>
     <img class="orientadora" src="../Imagens/elidiana-andrade.png" alt="Orientadora - Elidiana Andrade" />
-    <br>
-	<br>
+</div>
+<div class="coluna col12">
 	<p class="back">Copyright © 2024 - <strong>MarciaMoreno</strong></p>
 </div>
