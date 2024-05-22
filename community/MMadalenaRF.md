@@ -22,12 +22,8 @@
 | GitHub     |Básico   |      Dio    |              
 
 
-
-
-
-
-
 ## Meus projetos da DIO
+N/A
 
 
 
