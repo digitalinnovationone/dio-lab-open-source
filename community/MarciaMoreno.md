@@ -157,5 +157,5 @@
 
 
 <div class="linha back">
-	<p>Copyright © 2024 - <strong>MarciaMoreno</strong></p>
+    <p style="align=center"> Copyright © 2024 - MarciaMoreno </p>
 </div>
