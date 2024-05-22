@@ -98,7 +98,7 @@
     <div class="coluna col3">        
         <img class="foto-profile" src="../Imagens/Imagem_20240501_1445.png" alt="My profle README.md" />
      </div>
-</div>  <br/><br/><br/>
+</div>  <br/><br/>
 <div class="linha">
         <div class="coluna col2">
             <img class="emoji" src="../Imagens/emoji-livro-aberto.png" alt="Documentação" />
@@ -106,12 +106,7 @@
         <div class="coluna col8">			
             <h2 class="pacifico-regular"> Documentação</h2>							
         </div>
-</div>
-
-
-
-
-<div class="coluna col12 nav-doc">
+</div><div class="coluna col12 nav-doc">
     <ul>
         <li><a href="https://git-scm.com/doc"><input class="jersey-25-charted-regular" class="docs" type=button name="OneButton" value="GIT" /></a></li>
         <li><a href="https://docs.github.com/pt"><input class="jersey-25-charted-regular" class="docs" type=button name="OneButton" value="GITHUB" /></a></li>
@@ -119,6 +114,7 @@
     </ul>
 </div>  
 
+<br/><br/>
 <br/><br/>
 <div class="linha">
     <div class="coluna col2">
@@ -138,8 +134,7 @@
     <p><a href="https://git-scm.com/docs/git-restore/pt_BR">$ git-restore - Restaura os arquivos das árvores de trabalho</a></p>
 </div>
 
-
-
+<br/><br/>
 <div class="linha">
     <div class="coluna col2">
         <img class="emoji" src="../Imagens/emoji-globo.png" alt="Documentação GitHub" />
@@ -155,7 +150,7 @@
 </div>
 
 
-
+<br/><br/>
 <div class="linha back">
     <p style="align=center"> Copyright © 2024 - MarciaMoreno </p>
 </div>
