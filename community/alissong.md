@@ -1,5 +1,5 @@
 
-# Alisson Souza
+# 💻 Alisson Souza
 
 ### 🤓 Sobre Mim
 Oi! Sou um nerd apaixonado por tecnologia, games, RPGs e música. Com mais de 10 anos de experiência na área de tecnologia, agora estou inserido de cabeça no mundo DevOps e aprimorando minhas habilidades como desenvolvedor.
@@ -26,7 +26,7 @@ Minha jornada na tecnologia me deu uma sólida bagagem em infraestrutura. Adoro 
 ### 🐙 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alissong&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
 
-### 😃 Conecte-se comigo
+### 📞 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alissongsouza/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alissonpaladin/)
