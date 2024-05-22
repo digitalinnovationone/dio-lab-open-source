@@ -2,7 +2,7 @@
 
 🎓 Bachelor of Information Systems at [EACH-USP](https://www.each.usp.br/)
 
-📚 Cyber Security entusiast!
+📚 Cyber Security enthusiast!
 
 <div>
   <!-- general stats -->
