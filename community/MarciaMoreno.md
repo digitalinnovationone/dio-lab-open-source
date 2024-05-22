@@ -156,6 +156,6 @@
 
 
 
-<div class="coluna col12">
+<div class="linha">
 	<p class="back">Copyright © 2024 - <strong>MarciaMoreno</strong></p>
 </div>
