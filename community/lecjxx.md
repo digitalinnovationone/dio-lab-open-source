@@ -1,7 +1,7 @@
 
 ## 🚀 About Me
 Olá, me chamo Letícia, sou graduanda em engenharia agrícola pela Universiade Federal de Sergipe e estudante de programação Web. 
-meu interesse pela área da programaçõ nasceu durante o ensino médio e se aflora a cada dia. Já realizei e participei de projetos práticos individuais e em grupo antiormente, os quais desenvolvo utilizando as tecnologias: HTML, CSS, JavaScript e React. 
+meu interesse pela área da programaçõ nasceu durante o ensino médio e se aflora a cada dia. Já realizei e participei de projetos práticos individuais e em grupo antiormente, os quais desenvolvo utilizando as tecnologias: HTML, CSS, Bootstrap, JavaScript e React. 
 
 
 ## Conecte-se comigo
