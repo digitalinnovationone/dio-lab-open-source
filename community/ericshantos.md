@@ -1,4 +1,4 @@
-<h1 align="center">Olá visitante, eu sou o Eric 🖖🏾</h1>
+h1 align="center">Olá visitante, eu sou o Eric 🖖🏾</h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/eric-sh/" style="display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
@@ -13,7 +13,7 @@
 
 <div align="center">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ericshantos&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0""> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericshantos&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericshantos&layout=compact" />
 </div>
 
 <img src="acessos/lineBar.png" width="100%" height="8px"/>
@@ -32,6 +32,20 @@
 - 📌 De São Paulo, Brasil
 
 <br>
+
+<h2>Projetos em destaque 👌🏾:<h2/> 
+
+<div align=center>
+  <a href="https://github.com/ericshantos/API-meme-aleatorio">
+    <img height="140px" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=API-meme-aleatorio" />
+  </a>
+  <a href="https://github.com/ericshantos/Redator-ENEM">
+    <img height="140px" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=Redator-ENEM" /> 
+  </a>
+  <a href="https://github.com/ericshantos/assistente-fotografica">
+    <img height="140px" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=assistente-fotografica" />
+  </a>
+</div>
 
 <img src="acessos/lineBar.png" width="100%" height="8px"/>
 
