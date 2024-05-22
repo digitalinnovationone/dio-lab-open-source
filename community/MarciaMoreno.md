@@ -98,10 +98,7 @@
     <div class="coluna col3">        
         <img class="foto-profile" src="../Imagens/Imagem_20240501_1445.png" alt="My profle README.md" />
      </div>
-</div>
-
-
-
+</div>  <br/><br/><br/>
 <div class="linha">
         <div class="coluna col2">
             <img class="emoji" src="../Imagens/emoji-livro-aberto.png" alt="Documentação" />
@@ -110,16 +107,19 @@
             <h2 class="pacifico-regular"> Documentação</h2>							
         </div>
 </div>
+
+
+
+
 <div class="coluna col12 nav-doc">
     <ul>
         <li><a href="https://git-scm.com/doc"><input class="jersey-25-charted-regular" class="docs" type=button name="OneButton" value="GIT" /></a></li>
         <li><a href="https://docs.github.com/pt"><input class="jersey-25-charted-regular" class="docs" type=button name="OneButton" value="GITHUB" /></a></li>
         <li><a href="https://www.w3schools.com/html/default.asp"><input class="jersey-25-charted-regular" class="docs" type=button name="OneButton" value="HTML 5/ CSS" /></a></li>
     </ul>
-</div>
+</div>  
 
-
-
+<br/><br/>
 <div class="linha">
     <div class="coluna col2">
         <img class="emoji" src="../Imagens/emoji-globo.png" alt="Documentação Git" />
@@ -156,9 +156,10 @@
 
 
 
-<div class="linha temp_foot">
-    <p class="back">Professor(a) Orientador(a): <strong> Elidiana Andrade </strong></p>
-    <a href="https://www.instagram.com/elicosmaker/"><p>Instagram - @elicosmaker</p></a>
+<div class="linha temp_foot" style="text-align=center">
+    > Professor(a) Orientador(a): Elidiana Andrade ("https://www.instagram.com/elicosmaker")
+    <a href="/">
+    <p>Instagram - @elicosmaker</p></a>
     <a href="https://github.com/elidianaandrade/elidianaandrade?tab=readme-ov-file"><p>GitHub - elidianaandrade</p></a>
     <br>
     <img class="orientadora" src="../Imagens/elidiana-andrade.png" alt="Orientadora - Elidiana Andrade" />

@@ -61,7 +61,7 @@ Ultima atualização: 22/05/2024 - 15:29
 	width: 100%;
 	margin-top: 30%;}
 .docs{
-	padding:52% 12% 74%;
+	padding: 32px;
 	margin: 4%;
 	margin-top: 14%;
 	background-color:  rgb(97, 27, 209);	
@@ -76,6 +76,6 @@ Ultima atualização: 22/05/2024 - 15:29
 .name{
 	text-shadow: 2px 2px 5px rgb(97, 27, 209); 
 	text-align: center;}
-.temp_foot{
+.temp_foot p{
 	text-align: center;
 }
