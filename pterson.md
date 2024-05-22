@@ -3,7 +3,7 @@
 
 Olá, eu sou Peterson!
 
-Atualmente atuo com analista de suporte focada na arquitetura de sistema, atua há mais de 10 anos na area de tecnologia, e neste momento estou foca na migração de carreira.
+Atualmente atuo com analista de suporte focado na arquitetura de sistema, atua há mais de 10 anos na area de tecnologia, e neste momento estou foca na migração de carreira.
 
 Conecte-se comigo
 
