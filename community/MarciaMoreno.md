@@ -156,14 +156,6 @@
 
 
 
-<div class="linha temp_foot" style="text-align=center">
-    > Professor(a) Orientador(a): Elidiana Andrade ("https://www.instagram.com/elicosmaker")
-    <a href="/">
-    <p>Instagram - @elicosmaker</p></a>
-    <a href="https://github.com/elidianaandrade/elidianaandrade?tab=readme-ov-file"><p>GitHub - elidianaandrade</p></a>
-    <br>
-    <img class="orientadora" src="../Imagens/elidiana-andrade.png" alt="Orientadora - Elidiana Andrade" />
-</div>
 <div class="coluna col12">
 	<p class="back">Copyright © 2024 - <strong>MarciaMoreno</strong></p>
 </div>
