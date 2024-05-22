@@ -1,6 +1,6 @@
-# Hello People!
+# Hello People
 
-### I'm Stefani Weber "Fany"...
+### I'm Stefani Weber - Fany
 
 :green_heart: From Brazil. <br><br>
 :smile: MBTI personality INFJ-A. <br><br>
