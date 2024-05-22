@@ -14,11 +14,11 @@
 
 ## Habilidades
 
-| Habilidade | Nível   | Instituição |              |
-| --------   | -----   | ----------- | ------------ |
-| Java       |Básico   |     Senai   |              |
-| Git        |Básico   |      Dio    |              |
-| GitHub     |Básico   |      Dio    |              |
+| Habilidade | Nível   | Instituição |              
+| --------   | -----   | ----------- | 
+| Java       |Básico   |     Senai   |              
+| Git        |Básico   |      Dio    |              
+| GitHub     |Básico   |      Dio    |              
 
 
 
