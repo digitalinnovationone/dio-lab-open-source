@@ -12,22 +12,22 @@ Ultima atualização: 19/05/2024
 	
 /****https://github.com/MarciaMoreno/dio-lab-open-source
 Formato CSS: estilo_ammi - HEADER - Nazaré do Piauí /PI
-Ultima atualização: 19/05/2024
+Ultima atualização: 22/05/2024 - 14:30
 */
 .logodio{ 
-	position: absolute;
-	width: 4cm; 
+	width: 100%; 
 	border-radius: 32%; 
-	margin-left: 4px; }
+	margin-left: 2%; 
+	margin-top: 2%;}
+
 .logodio:hover{ box-shadow: 0px 15px 122px rgb(97, 27, 209); }
 .primeira-linha-apresentação-desafio-dio{
 	font-size: 16px;
-	float: left;
 }
 
 /****https://github.com/MarciaMoreno/dio-lab-open-source
 Formato CSS: estilo_ammi - SECTION - Nazaré do Piauí /PI
-Ultima atualização: 19/05/2024
+Ultima atualização: 22/05/2024 - 14:30
 */
 .docs{
 	margin: 14px;
@@ -99,7 +99,7 @@ Ultima atualização: 19/05/2024
 	
 /****https://github.com/MarciaMoreno/dio-lab-open-source
 Formato CSS: estilo_ammi - FOOTER - Nazaré do Piauí /PI
-Ultima atualização: 19/05/2024
+Ultima atualização: 22/05/2024 - 14:30
 */
 .footer{
 	line-height: 2px;
