@@ -4,7 +4,7 @@
 
 
 
-#### 🚀 Sobre mim
+#### 🚀 Sobre mim:
 
 Sou estudante de ADS pela Faculdade Senac, atualmente no terceiro semestre, sei Libras e inglês.
 
