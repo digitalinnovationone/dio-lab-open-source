@@ -35,7 +35,7 @@
 </div>
 <div class="linha">
     <div class="coluna col4">
-        <img id="emoji" src="../Imagens/emoji-mãos-dadas.png" alt="bem vindo" />
+        <img class="emoji" src="../Imagens/emoji-mãos-dadas.png" alt="bem vindo" />
     </div>
     <div class="coluna col8">			
         <h2 class="pacifico-regular"> Welcome to my profile...</h2>
