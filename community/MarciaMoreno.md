@@ -91,8 +91,13 @@
             <tr>
             <td class="question oswald">Site de conteúdo: </td>
             <td class="answer comfortaa">
-                <a href="https://www.youtube.com/channel/UCIl3wm3BjyE4AzxmL5hGm0Q">@marciapatriciam &nbsp&nbsp / &nbsp&nbsp</a><a href="https://www.facebook.com/profile.php?id=61559592734029">facebook</a>
+                <a href="https://www.youtube.com/channel/UCIl3wm3BjyE4AzxmL5hGm0Q">@marciapatriciam &nbsp&nbsp / &nbsp&nbsp</a><a href="https://www.facebook.com/profile.php?id=61559592734029">facebook</a> / &nbsp&nbsp <a href="linkedin.com/in/marcia-patricia-moreno-68b4b230a"> linkedin</a>
             </td>
+            </tr>
+            <tr>
+            <td class="question oswald"> E-mail:</td>
+            <td class="answer comfortaa"> mapat.soad@gmail.com
+            </tr>
         </table>
     </div>
     <div class="coluna col3">        
