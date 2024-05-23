@@ -54,7 +54,8 @@ Ultima atualização: 22/05/2024 - 15:29
 	font-size: 16px; }
 .emoji{ 
 	width: 40%; 
-	margin-top: -5%; }
+	margin-top: -5%;
+	margin-left: 10%; }
 .foto-profile{ 
 	border-radius: 42%; 
 	box-shadow: 3px 9px 39px #033, 0px 9px 119px rgb(97, 27, 209);
