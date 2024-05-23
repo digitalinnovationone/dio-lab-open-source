@@ -103,7 +103,7 @@
     <div class="coluna col3">        
         <img class="foto-profile" src="../Imagens/Imagem_20240501_1445.png" alt="My profle README.md" />
      </div>
-</div>  <br/><br/>
+</div>  
 <div class="linha">
         <div class="coluna col2">
             <img class="emoji" src="../Imagens/emoji-livro-aberto.png" alt="Documentação" />
@@ -118,9 +118,6 @@
         <li><a href="https://www.w3schools.com/html/default.asp"><input class="jersey-25-charted-regular" class="docs" type=button name="OneButton" value="HTML 5/ CSS" /></a></li>
     </ul>
 </div>  
-
-<br/><br/>
-<br/><br/>
 <div class="linha">
     <div class="coluna col2">
         <img class="emoji" src="../Imagens/emoji-globo.png" alt="Documentação Git" />
@@ -138,8 +135,6 @@
     <p><a href="https://git-scm.com/docs/git-clone/pt_BR">$ git-clone - Clona um repositório em um novo diretório</a></p>
     <p><a href="https://git-scm.com/docs/git-restore/pt_BR">$ git-restore - Restaura os arquivos das árvores de trabalho</a></p>
 </div>
-
-<br/><br/>
 <div class="linha">
     <div class="coluna col2">
         <img class="emoji" src="../Imagens/emoji-globo.png" alt="Documentação GitHub" />
@@ -153,9 +148,6 @@
     <p><a href="https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks">Criar e realçar blocos de código</a>.</p>
     <p><a href="https://docs.github.com/pt/get-started/learning-about-github/github-glossary">Glossário do GitHub.</a></p>
 </div>
-
-
-<br/><br/>
 <div class="linha back">
     <p class="rodape"> Copyright © 2024 - MarciaMoreno </p>
 </div>
