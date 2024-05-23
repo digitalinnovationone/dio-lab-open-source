@@ -7,7 +7,9 @@
 				margin: 0 auto;
 				overflow: auto;
 				padding: 10px 0;
+				float: center;
 				display: flex;
+				margin-top: 10%;
 			}
 	.coluna{
 				padding: 0 5px;

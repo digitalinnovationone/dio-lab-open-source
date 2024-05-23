@@ -157,5 +157,5 @@
 
 <br/><br/>
 <div class="linha back">
-    <p style="align=center"> Copyright © 2024 - MarciaMoreno </p>
+    <p class="rodape"> Copyright © 2024 - MarciaMoreno </p>
 </div>
