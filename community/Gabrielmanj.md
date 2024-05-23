@@ -1,6 +1,6 @@
-# Gabrielmanj
+# **Olá me chamo Gabriel Henrique (Gabrielmanj)😁👋**
 
-**Olá! me chamo Gabriel e esse é meu perfil detalhando minha jornada como dev.**
+**📖 Estudante de Ciência da Computação pela Universidade Nove de Julho.**
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-manja-1513b62b9/)
