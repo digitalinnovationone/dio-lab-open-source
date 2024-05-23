@@ -1,4 +1,4 @@
-# Olá 👋🏿, me chamo Lucian Santon, este é meu README!
+# Olá , me chamo Lucian Santon, este é meu README!
 
 ### Tenho 34 anos, hoje trabalho como programador FLUTTER PLENO, estou sempre em busca de aprender cada vez mais nesse mundo da tecnologia. Alem da tecnologia tenho uma banda de rock e faço show pela região de São Paulo
 
@@ -31,5 +31,7 @@ Quero muito demonstrar todo conhecimento que adquiri durante esses anos, e ter u
 ### Meus Principais Desafios de Projetos
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=lucianes1&repo=dio-lab-open-source&bg_color=000&border_color=005eff&show_icons=true&icon_color=30A3DC&title_color=b6b7d2&text_color=FFF)](https://github.com/lucianes1/dio-lab-open-source)
+
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=lucianes1&repo=dio-lab-open-source&bg_color=000&border_color=005eff&show_icons=true&icon_color=30A3DC&title_color=b6b7d2&text_color=FFF)](https://github.com/lucianes1/dio-lab-open-azure)
 
 ---
