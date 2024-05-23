@@ -1,7 +1,7 @@
 # Ola, sou Fernando 😎
 
 ## 🚀 Sobre mim
-Eu sou da área de Infraestrutura TI, em busca de conhecimento e certificação em Cloud, mas gosto de me aventurar em Web Developmet.
+Eu sou da área de Infraestrutura TI, em busca de conhecimento e certificação em Cloud, mas gosto de me aventurar em Web Developer.
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-cardoso-334097138/)
 

@@ -1,4 +1,4 @@
-# Olá, me chamo João Vior Evangelista da Silva, futuro Dev Full - Stack !💥
+# Olá, me chamo João Vitor Evangelista da Silva, futuro Dev Full - Stack !💥
 ## 🔌 Conecte-se comigo: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-tecnico-em-eletronica/)
 
