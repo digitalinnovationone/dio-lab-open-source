@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1500&color=D5F&width=435&lines=Olá!+Seja+bem-vindo+ao+meu+perfil+GitHub!;Prazer%2C+meu+nome+%C3%A9+Kátia+Gomes.)](https://git.io/typing-svg)
 ---
+
 # 👋 Olá, eu sou a Kátia! 
 
 Estou em busca de uma transição de carreira. Quero voltar a área de TI e atualmente estou cursando Ciências da Computação e fazendo uma Pós em Cloud Computing e um MBA em Inteligência Artificial.
