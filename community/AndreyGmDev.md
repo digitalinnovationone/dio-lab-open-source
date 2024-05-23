@@ -9,9 +9,7 @@ Desenvolvedor | Estudante de Jogos Digitais - PUC-SP
 ## Habilidades
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndreyGmDeV)
-
 [![Unreal](https://img.shields.io/badge/Unreal-1d1632?style=for-the-badge&logo=unrealengine&)](https://www.unrealengine.com/)
-
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## Formações
