@@ -1,3 +1,3 @@
-DIO LAB OPEN SOURCE - FILLIPE13
+Fillipe13 --> DIO e VIVO bootcamp
 
-Isso aqui é um teste, e faz parte do bootcamp da Vivo em parceria do a DIO.me.
+Isso aqui se trata tão somente de um exercício, e o conteúdo desse arquivo é irrelevante no aprendizado da disciplina.
