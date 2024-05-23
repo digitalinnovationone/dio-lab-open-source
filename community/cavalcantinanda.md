@@ -21,8 +21,10 @@ Olá, tudo bem?! Me chamo Fernanda, sou uma beletrista formada pela Universidade
 
 ## Habilidades
 
-![Markdown](https://img.shields.io/badge/Markdown-#8f3c68?style=for-the-badge&logo=markdown)
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 |
 ## GitHub Stats
