@@ -5,13 +5,13 @@ Olá, eu sou Peterson!
 
 Atualmente, atuo como analista de suporte focado na arquitetura de sistemas, com mais de 10 anos de experiência na área de tecnologia. Estou estudando Java e buscando migrar para a área de desenvolvimento de software. Estou entusiasmado com essa transição e ansioso para aplicar meus conhecimentos e habilidades em novos desafios.
 
+
 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peterson-a-029a7a69/)
-
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pterson)
-
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:pterson.ananias@gmail.com)
+
 
 ## Habilidades
 
@@ -25,6 +25,7 @@ Conecte-se comigo
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+
 
 ## Minhas Contribuições
 
