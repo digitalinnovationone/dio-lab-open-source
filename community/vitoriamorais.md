@@ -1,20 +1,17 @@
-<img style="border-radius: 100%;" align="right" height="200" src="https://img.freepik.com/premium-photo/girl-with-laptop-working-digital_1028654-13933.jpg?w=740">
+<img style="border= 1px; border-radius= 50%" align="right" height="200" src="https://img.freepik.com/premium-photo/girl-with-laptop-working-digital_1028654-13933.jpg?w=740">
 
 ### Olá!! Eu sou a Vitória Morais👋
 
-- 🎓 No momento, estou cursando Análise e Desenvolvimento de Sistemas.
-- 💻 Quality Assurance Analyst - QA
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas.
+- 💻 Quality Assurance Analyst - QA.
 - 📚 No momento estou estudando Cypress.
 - 📫 Como chegar até mim: vitoriamoraisrodriguesm@gmail.com.
-- 😄 Pronomes: Ela/Dela.
-
-## Minhas experiências e Outros
 
 <table>
 <tr>
 <td>
 
-### Minhas experiências
+### Hard Skills
 
 - Testes manuais
 - Testes automatizados
@@ -34,14 +31,15 @@
 </td>
 <td>
 
-### Outros
+### Soft Skills
 
-- Boa comunicação
-- Participação ativa em reuniões
-- Levanta sugestões de melhorias
+- Comunicação
+- Colaboradora
 - Empática
-- Boa com trabalho em equipe
-- Sempre ajudando e motivando o próximo
+- Trabalho em equipe
+- Detalhista
+- Motivadora
+- Amigável
 
 </td>
 </tr>
