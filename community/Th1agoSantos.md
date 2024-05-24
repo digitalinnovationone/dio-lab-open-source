@@ -1,6 +1,8 @@
 # Thiago Santos
 Olá, meu nome é Thiago Santos e tenho 39 anos. Trabalho na área de infraestrutura marítima, onde atuo com dedicação e profissionalismo para garantir a eficiência e segurança das operações. Paralelamente, estou aprimorando minhas habilidades acadêmicas e técnicas cursando Análise e Desenvolvimento de Sistemas na UNIP, campus Santos. Esta formação me proporciona uma base sólida em programação e desenvolvimento de software, complementando minha experiência profissional e me preparando para novos desafios e oportunidades na área de tecnologia.
 
+[![NPM](https://img.shields.io/npm/l/react)] (https://github.com/Th1agoSantos/dio-lab-open-source/blob/feat/community/Th1agoSantos/LICENSE)
+
 ## Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-10?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Th1agoSantos)
 
