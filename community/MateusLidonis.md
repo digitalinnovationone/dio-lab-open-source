@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 Sobre mim
 
-Me chamo Mateus Lidonis Blanco, tenho 22 anos e sou formado em Análise e Desenvolvimento de Sistemas. Atuo há 2 anos como Analista GeneXus e busco o aprendizado contínuo por meio de cursos, bootcamps e projetos pessoais.
+Me chamo Mateus Lidonis Blanco, tenho 22 anos e sou formado em Análise e Desenvolvimento de Sistemas. Atuo há 1 ano como Analista GeneXus e busco o aprendizado contínuo por meio de cursos, bootcamps e projetos pessoais.
 
 ## Entre em contato
 
