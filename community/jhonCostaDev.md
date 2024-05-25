@@ -7,7 +7,7 @@ Tenho domínio de distribuições linux e também uso windows!
 
 Adoro hardware e manutenção também, sempre montei e cuidei de todas as minhas máquinas. recentemente montei meu próprio servidor para estudos e homelab!
 
-Enfim sempre amei tecnologia mas antes não tive a oportunidade de esta nessa área. Agora é o meu momento se quiser conhecer mais sobre meu trabalho minhas redes estão abaixo!!!!
+Enfim sempre amei tecnologia mas antes não tive a oportunidade de esta nessa área. Agora é o meu momento se quiser conhecer mais sobre meu trabalho minhas redes estão abaixo!!!! <b>
 Sejam todos bem vindos!
 
 ## Me encontre aqui
