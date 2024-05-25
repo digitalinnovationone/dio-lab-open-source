@@ -1,7 +1,7 @@
 
 # SILVIO JALES ROSA JUNIOR 
 
-Esta é a minha contribuição do projeto da DIO, sobre o bootcamp backend com JAVA.
+Esta é a minha contribuição do projeto da DIO, sobre o bootcamp backend com JAVA. Obrigado!
 
 
 ## 🚀 Sobre mim
