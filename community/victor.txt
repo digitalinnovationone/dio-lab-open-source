@@ -1,0 +1,5 @@
+Olá! Meu nome é Victor, sou formado em Ciência da Computação e atualmente trabalho como Suporte N1 no Grupo Mateus. Com uma paixão por tecnologia e um compromisso com a excelência, minha função envolve resolver problemas técnicos e garantir que os sistemas dos usuários finais estejam funcionando perfeitamente.
+
+Além do meu trabalho atual, estou me dedicando aos estudos para entrar na área de Cloud Computing. Tenho grande interesse em infraestrutura como serviço (IaaS), plataformas como serviço (PaaS) e software como serviço (SaaS). Estou buscando certificações relevantes e aprimorando minhas habilidades em tecnologias de nuvem como AWS, Azure e Google Cloud Platform.
+
+Combinando minha experiência em suporte técnico e minha educação em ciência da computação, estou determinado a avançar minha carreira e contribuir ainda mais para a transformação digital no setor de tecnologia. Sou um entusiasta da aprendizagem contínua e estou sempre em busca de novos desafios que possam expandir meus conhecimentos e habilidades.
