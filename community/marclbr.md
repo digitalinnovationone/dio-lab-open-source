@@ -1,6 +1,6 @@
 # Marclbr 
 
-Olá, sou MARCLBR e estou fazendo meu primeiro portifolio utilizando as ferramentas GIT e GITHUB.
+Olá, sou MARCLBR e estou fazendo meu 1 portifolio utilizando as ferramentas GIT e GITHUB.
 
 
 ## Conecte-se Comigo
