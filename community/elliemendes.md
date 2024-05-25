@@ -1,0 +1,44 @@
+
+## 🌟 Minha Primeira Contribuição para o Projeto DIO Lab Open Source
+
+### 📘 Sobre o Projeto
+
+O **DIO Lab Open Source** é uma iniciativa incrível da Digital Innovation One, criada para promover a colaboração e o aprendizado contínuo entre desenvolvedores de todos os níveis.
+O projeto oferece uma plataforma para aprimorar habilidades de programação, trabalhar em equipe e contribuir para a comunidade open source.
+
+### 🚀 Minha Primeira Contribuição
+
+- **Objetivo:** Iniciei minha jornada de contribuições open source com este projeto.
+- **Aprendizado:** Aprendi a fazer meu primeiro fork, clone, branch e pull request.
+- **Motivação:** Estou animado para aprender mais e contribuir com mais projetos no futuro.
+
+### 💡 Como Você Pode Contribuir
+
+1. **Faça um Fork do Repositório:** Crie um fork do repositório oficial.
+2. **Clone o Repositório Localmente:**
+   bash
+   git clone https://github.com/seu-usuario/dio-lab-open-source.git
+   cd dio-lab-open-source
+   
+3. **Crie uma Nova Branch para Suas Alterações:**
+   bash
+   git checkout -b minha-branch-de-contribuicao
+   
+4. **Implemente Suas Alterações e Faça Commit:**
+   bash
+   git add .
+   git commit -m "Minha primeira contribuição"
+   git push origin minha-branch-de-contribuicao
+   
+5. **Abra um Pull Request:** Submeta suas alterações através de um pull request para o repositório original.
+
+### 🌐 Links Úteis
+
+- [Repositório no GitHub](https://github.com/digitalinnovationone/dio-lab-open-source)
+- [Guia de Contribuição](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md)
+- [Documentação do Projeto](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/README.md)
+
+### 👥 Contribuidores
+
+Agradeço a todos os contribuidores que tornaram este projeto possível. Junte-se a nós para aprender, colaborar e crescer!
+
