@@ -26,5 +26,5 @@ Java Javascript HTML CSS Bootstrap Git React NodeJS NextJS PostgreSQL MySQL MSSQ
 
 ## Contato
 
-![Linkedin](https://www.linkedin.com/in/douglas-francisco-da-rocha-6346a21a1)
-![Github](https://github.com/rochadoug)
+[Linkedin](https://www.linkedin.com/in/douglas-francisco-da-rocha-6346a21a1)
+[Github](https://github.com/rochadoug)
