@@ -1,6 +1,6 @@
 
 ## ⚡ Mateus Artemin
-Sempre procurando melhorar ;)
+Sempre procurando melhorar :)
 
 ### 📚 Formação
 - Análise e desenvolvimento de sistemas 👨‍💻 
