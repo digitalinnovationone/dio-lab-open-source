@@ -31,7 +31,7 @@ Aprender o básico sobre contribuição no GitHub.
     </tr>
     <tr>
       <td>02</td>
-      <td>Formas de Contribuir num Projeto Open Source</td>
+      <td><n>Formas de Contribuir num Projeto Open Source</n></td>
     </tr>
     <tr>
       <td>03</td>
