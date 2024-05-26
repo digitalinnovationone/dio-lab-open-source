@@ -1,4 +1,3 @@
- ![alt text](gifs-de-pessoas-digitando-6.gif)
 
 
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=DB709&width=435&lines=OI!+Meu+nome+é+Lorrany+Dias+e+sou+Estudante.;Sejam+bem+vindos👋)
