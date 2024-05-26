@@ -3,7 +3,7 @@
 <h1>Ismael Monteiro</h1>
 <p aling="center">My name is Ismael, I have a degree in Software Analysis and Development and I'm currently working in improving my skills in the technology area with the goals of becoming a Full Stack Developer!</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=908050)](https://www.linkedin.com/in/ismaelthe10/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ismaelthe10) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=908050)](mailto:ismael-dev@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=908050)](https://www.linkedin.com/in/impismael/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ismaelthe10) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=908050)](mailto:ismael-dev@outlook.com)
 
 ## About me
 
