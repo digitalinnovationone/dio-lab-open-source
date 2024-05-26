@@ -1,6 +1,6 @@
 # Higor de Araujo
 
-Atualmente estudando sobre power BI e RPA
+Administrador migrando de área rumo ao sucesso.
 
 ## Me encontre
 
