@@ -36,6 +36,7 @@ Aprender o básico sobre contribuição no GitHub.
     <tr>
       <td>03</td>
       <td>Desenvolvendo e Enviando uma Contribuição</td>  
+        Crie uma nova **branch** e nomeie como 'feat/community/seunomedeusuário': ´git checkout -n feat/community/seunomedeusuário´:
     </tr>
     <tr>
       <td>04</td>
@@ -83,12 +84,6 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
  Além disso, você também pode contribuir:
  
 ⚠️ Resolvendo, respondendo ou indicando **issues**
-
-⚠️ Resolvendo, respondendo ou indicando **issues**
-
-⚠️ Resolvendo, respondendo ou indicando **issues**
-
-⭐ Adicionando aos favoritos (**star**) 
 
 ⭐ Adicionando aos favoritos (**star**) 
 
