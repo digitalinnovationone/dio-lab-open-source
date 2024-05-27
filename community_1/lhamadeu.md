@@ -8,7 +8,7 @@ Atuando como autodidata, entendi que esse bootcamp pode facilitar e adiantar meu
 <img src= "https://dhg1h5j42swfq.cloudfront.net/2023/01/19003952/18132-1024x638.jpg">
 
  ## Meus contatos
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-henrique-amadeu-61021a3b/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lhamadeu?tab=repositories) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:lhamadeu@icloud.com)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-henrique-amadeu-61021a3b/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lhamadeu?tab=repositories)
 
 
 ## Habilidades
