@@ -1,4 +1,4 @@
-# brunoortega10
+# Brunoortega10
 Olá! Me chamo Bruno e busco conhecimento para o meu crescimento profissional.
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/bruno-silva-174604164//)
