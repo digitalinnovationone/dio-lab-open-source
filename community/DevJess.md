@@ -2,6 +2,8 @@
 
 Sou Desenvolvedora e YouTuber.
 
+Amo programar.
+
 ### 🔍 Conecte-se comigo
 
 Apresento meu Canal no YouTube, no qual, falo sobre Dicas e Curiosidades de Programação.
