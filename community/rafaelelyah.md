@@ -8,7 +8,7 @@ Tive a sorte de sempre encontrar instrutores que me ensinassem não só a fazer,
 
 -  Dev, Gráfico e Multimídia;
 -  Estou trabalhando em projetos pessoais;
--  Técnico em Informática noSenac, Bootcamps na DIO e Certificações na Coursera
+-  Técnico em Informática no Senac, Bootcamps na DIO e Certificações na Coursera
 -  Me pergunte sobre a essência das pessoas;
 -  Você pode entrar em contato comigo pelo email: rafaelelyah@outlook.com;
 -  Fato Curioso: Sou bruxo...
