@@ -9,30 +9,25 @@
     </p>
 </div>
 <h2>Minhas Habilidades</h2>
-<div style="display: flex; justify-content: space-between">   
-    <div>
-        <p>
-            Algumas das minhas habilidade desenvolvidas são:
-            <ul>
-                <li>HTML</li>
-                <li>CSS</li>
-                <li>Noções em Bootstrap</li>
-                <li>GitHub</li>
-                <li>UX Designer (básico)</li>
-                <li>Inteligencia Artifical (básico)</li>
-            </ul>
-        </p>
-        <p>
-            Atualmente estudando e praticando:
-            <ul>
-                <li>JavaScript</li>
-                <li>Python</li>
-            </ul>
-        </p>
-    </div>
-    <div style="float: right">
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdnZDFueTZtbW1xMXh1Y2NldGxjeWFlbGlzZ3c5cDFiNjhkN2NkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="git do bicho preguiça de Zootopia" width="250px" >
-    </div>
+<div>   
+    <p>
+        Algumas das minhas habilidade desenvolvidas são:
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Noções em Bootstrap</li>
+            <li>GitHub</li>
+            <li>UX Designer (básico)</li>
+            <li>Inteligencia Artifical (básico)</li>
+        </ul>
+    </p>
+    <p>
+        Atualmente estudando e praticando:
+        <ul>
+            <li>JavaScript</li>
+            <li>Python</li>
+        </ul>
+    </p>
 </div>
 <div style="text-align: center">
     <h3 >Conecte-se Comigo!</h3>
