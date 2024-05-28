@@ -79,6 +79,7 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
     
 ## Convenção de Commits 
 
+
 | Tipo de Commit |Descrição                                                            | Exemplo
 | ---------------|----------------------------------------------------------------------|-----------
 | `feat`         | Adiciona uma nova funcionalidade ao projeto.                         | `feat: add USENAME.md profile`
