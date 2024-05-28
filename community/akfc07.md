@@ -1,4 +1,4 @@
-# Kamila Claudino
+# Olá, sou a Kamila Claudino!
 
 ###### Cientista Social em formação | Analista de Dados | Pesquisadora.
 
