@@ -35,8 +35,8 @@ Love to learn
 | Rank | Hard Skills |
 |-----:|--------------------|
 |     1|Software                  |
-|     2|Pacote Office              |
-|     3|Hardware                 |
+|     2|Pacote Office            |
+|     3|Sistema SEI               |
 
 
 | Rank | Soft Skills |
