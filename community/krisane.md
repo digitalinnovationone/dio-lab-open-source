@@ -10,8 +10,6 @@
 Love to learn
 <div align="left">
 
-<br />
-
 
 <br />
 
@@ -34,15 +32,11 @@ Love to learn
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Studying
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 | Rank | Hard Skills |
-|-----:|---------------|
-|     1|Software       |
+|-----:|--------------------|
+|     1|Software                  |
 |     2|Pacote Office              |
-|     3|Hardware              |
+|     3|Hardware                 |
 
 
 | Rank | Soft Skills |
@@ -51,10 +45,18 @@ Love to learn
 |     2| Etica de trabalho            |
 |     3| Trabalho em Equipe          |
 
+## Studying
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
 ## GitHub Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krisane&theme=ambient_gradient&show_icons=true)
 
 ##  My Contributions
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=krisane&theme=ambient_gradient&repo=dio-lab-open-source)](https://github.com/krisane/dio-lab-open-source)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=krisane&theme=ambient_gradient)](https://git.io/streak-stats)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=krisane&theme=ambient_gradient&repo=dio-lab-open-source)](https://github.com/krisane/dio-lab-open-source)
+
+
