@@ -1,4 +1,4 @@
-# <kbd>Olá!! Meu nome é Lucas e Sejam Bem-vindos ao meu perfil:</kbd>
+# Olá!! Meu nome é Lucas e Sejam Bem-vindos ao meu perfil:
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=35&duration=2500&pause=1000&color=5C3AFF&background=00000001&repeat=false&random=false&width=435&lines=Quem+eu+Sou%3F👾)](https://git.io/typing-svg)
 ### Me chamo Lucas santos, tenho 18 anos e faço Ciência da Computação na Universidade Veiga de Almeida. Estou no primeiro período e almejo experiência e capacitação. O meu primeiro contato com a computação me garantiu uma enorme vontade de melhorar, então estou aqui buscando o melhor.
