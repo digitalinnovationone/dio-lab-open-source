@@ -1,4 +1,4 @@
-# Ariany Vidotto
+# ArianyVidotto
 
 ## Olá! Sou a Ariany👋
 
