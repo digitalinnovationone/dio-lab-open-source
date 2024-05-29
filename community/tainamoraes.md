@@ -1,5 +1,7 @@
 
-# GIT project DIO - Eli
+# GIT project DIO - Tainá Moraes
 
-Just an video editor flerting with programming. After all we all gonna loose our jobs... sooner ou later.
+Just an video editor flerting with programming. After all we all gonna lose our jobs... sooner ou later.
+
+
 
