@@ -1,4 +1,4 @@
-### Olá Pessoal, me chamo Júlio !!👋
+### Olá Pessoal, me chamo Júlio Paulo !!👋
 
 Sou estudante de Ciência da Computação e também atuo como desenvolvedor Fullstack (Freelancer), dominando tanto o Back-End quanto o Front-End. Nas horas vagas, sou um entusiasta de Airsoft e games de PC – se você também é, vamos trocar uma ideia! Atualmente, tenho o PHP como minha principal HardSkill.  Além disso, estou mergulhando fundo em Java, a linguagem que me cativou desde o início da faculdade. Meu objetivo é me especializar e me tornar um verdadeiro Dev Java.
 
