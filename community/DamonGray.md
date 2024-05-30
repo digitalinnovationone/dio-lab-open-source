@@ -1,4 +1,6 @@
-# Damon Gray
+# Olá sou Wes (Damon Gray)
+
+Estudante de ADS e fascinado pelo mndo do desenvolvimento.
 
 ## Conecte-se comigo
 
