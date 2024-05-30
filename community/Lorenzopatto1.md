@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #EB9326">Lorenzo Queiroz de Patto</h1>
 <p align="center">Sou conhecido por <b style="color: #EB9326">Patto</b> Comecei meus estudos com C# na <b style="color: #0a66c2">DIO</b></p>
 
-<h2 align="center"> 🔌Conecte-se comigo / Connect with me </h2>
+<h2 align="center"> 🔌Conecte-se comigo </h2>
 
 <div align="center">
 
