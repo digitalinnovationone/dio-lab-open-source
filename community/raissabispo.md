@@ -4,7 +4,7 @@ Técnica em desenvolviemnto de sistemas e atualmente estudante de Análise e des
 
 ### Me encontre
 
-[![E-mail : Danie07dev@Gmail.com](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](raissavit59@gmail.com)
+[![E-mail : raissavit59@Gmail.com](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](raissavit59@gmail.com)
 
 
 ### Habilidades
