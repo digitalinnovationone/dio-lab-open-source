@@ -1,6 +1,13 @@
-# Juci Leal
-## Criando um perfil markdown no github
+# Hi, I'm Leal JP
+## A technology enthusiast looking to develop my backend skills by studying Java and Node.js. I also want to improve my knowledge of HTML, CSS and JavaScript to become a fullstack software engineer.
 
-### Entendendo elementos markdown:
-### 1 - Tabelas
+
+##  👩🏽‍💻 Skills
+
+### **Programming Languages**
+
+## Social Media
+
+### [GitHub](https://github.com/LealJP)
+
 
