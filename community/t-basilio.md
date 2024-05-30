@@ -8,7 +8,7 @@
 
 ### 📊 Estatísticas no GitHub
 
-![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-basilio&show_icons=true&theme=dracula)
+![t-basilio's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-basilio&show_icons=true&theme=dracula)
 
 ## 🔌 Conecte-se comigo
 
