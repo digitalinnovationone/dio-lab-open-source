@@ -1,6 +1,6 @@
 # Raissa Vitória
 
-Técnica em desenvolviemnto de sistemas e atualmente estudante de Análise e desenvolvimento de sistemas.
+Técnica em desenvolvimento de sistemas e atualmente estudante de Análise e desenvolvimento de sistemas.
 
 ### Me encontre
 
