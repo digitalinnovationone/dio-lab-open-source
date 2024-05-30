@@ -8,7 +8,7 @@
 ## [Github Overview](https://github.com/guga10gustavo)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guga10gustavo&langs_count=5&hide_title=true$bg_color=000 &border_color=30A3DC&theme=dark&title_color=E94D5F&text_color=FFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guga10gustavo&langs_count=5"/>
 </div>
 
 ## [Algumas outras tecnologias que conheço](https://github.com/guga10gustavo)
