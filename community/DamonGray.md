@@ -1,4 +1,4 @@
-# Olá sou Wes (Damon Gray)
+# Olá sou Wesley de Paula Costa (Damon Gray)
 
 Estudante de ADS e fascinado pelo mndo do desenvolvimento.
 
