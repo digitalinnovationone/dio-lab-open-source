@@ -6,6 +6,8 @@ Um estudante de Análise e Desevolvimento de Sistemas.
 
 Gosto de criar soluções criativas e eficientes para problemas reais, usando as melhores práticas e ferramentas disponíveis. Estou aberto a projetos em que eu possa colaborar e crescer pessoalmente e profissionalmente, usando as o básico que já domino ou aprendendo novos. Tenho muita vontade de aprender e me desenvolver na área de desenvolvimento de sistemas.
 
+<hr> 
+
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/carletti95/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:carletti95@gmail.com)
