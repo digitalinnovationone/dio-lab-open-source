@@ -7,7 +7,7 @@
 
 ## Sobre
 
-Tenho 20 anos ainda sou iniciante e estou me desenvolvendo.🤓
+Tenho 21 anos ainda sou iniciante e estou me desenvolvendo.🤓
 
 ## Aprendendo
 
