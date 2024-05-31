@@ -1,5 +1,5 @@
 ## Giovanna Cunha
-### Cybersecurity | ### IT Infraestructure
+### Cybersecurity | IT Infraestructure
 
 ## Conecte-se comigo
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanna-cunha-9b5143297/)    
@@ -8,6 +8,7 @@
 
 ## Habilidades
 <div style="display: inline_block">
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
