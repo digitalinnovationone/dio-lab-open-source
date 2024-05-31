@@ -2,7 +2,7 @@
 
 ## 🧑‍💻Sobre Mim
 
-Olá! Meu nome é Guilherme Miranda, tenho 22 anos e sou do ABC paulista. Sou desenvolvedor com um grande interesse em desenvolvimento de software, mobile e inteligência artificial.
+Olá, meu nome é Guilherme Miranda, tenho 22 anos e sou do ABC paulista. Sou desenvolvedor com um grande interesse em desenvolvimento de software, mobile e inteligência artificial.
 
 ## 📚 Projetos
 
