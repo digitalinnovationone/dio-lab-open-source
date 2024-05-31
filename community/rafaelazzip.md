@@ -1,6 +1,6 @@
 # Rafael Azzi 👋
 
-- 🔭 Atualmente trabalho com desenvolvimento e ingração de sistemas para a plataforma Servicenow.
+- 🔭 Atualmente trabalho com desenvolvimento e integração de sistemas para a plataforma Servicenow.
 
 - 👨‍💻 CERTIFICAÇÕES CONCLUÍDAS:
 
