@@ -23,7 +23,7 @@
 
 ### Contato
 
-📧 **Email:** charlesthomazde@gmail.com  
+📧 **Email:** charlesthomazdr@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/charles-thomaz-a18134305/
 
 Vamos nos conectar e compartilhar conhecimentos!
