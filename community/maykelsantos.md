@@ -11,7 +11,7 @@
   <a href="https://github.com/maykelsantos/maykelsantos.git"><img alt="Maykel Top Languages" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykelsantos&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </h2>
  
-<h2>MInhas Redes Sociais 👇🏾
+<h2>Minhas Redes Sociais 👇🏾
   <br>
   <br>
   <div>
