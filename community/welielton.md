@@ -1,5 +1,5 @@
 
-# Prazer! Me chamo Welielton Silva 👋😎
+# Prazer! Me chamo Welielton Silva 👋😎.
 
 
 ## 🚀 Sobre mim
