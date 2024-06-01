@@ -8,7 +8,7 @@ Prazer em conhece-los(as), bem vindos ao meu Card pessoal, aqui abaixo tem meus 
 #devs #networking #programming
 
 
-## 🛠 Habilites
+## 🛠 Habilities
 StringBuilder sb = new stringBuilder();
 
 sb.AppendLine("JavaScript" + 
