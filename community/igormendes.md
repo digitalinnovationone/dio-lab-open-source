@@ -10,6 +10,3 @@ Olá sou Igor Mendes, tenho 26 anos, sou estudante de programação, e também s
 
 ## Cards
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igormendes1997&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=igormendes1997&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
