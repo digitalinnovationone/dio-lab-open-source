@@ -1,6 +1,7 @@
 # Muito Prazer,
 Meu nome é Juliana vieira!
 Sou estudante de **Ciência de Dados**, Apaixonada por aprender e explorar novos conhecimento. Comprometida em aprimorar minhas habilidades e contribuir para soluções inovadoras.
+### Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-vieira-535356252/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:julianaviei4a@gmail.com)
