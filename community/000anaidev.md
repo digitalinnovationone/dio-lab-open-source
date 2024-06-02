@@ -6,7 +6,7 @@
 ## 🚀 Sobre mim
 
 
- | Autista |  Trans | 40+ | Maternidade Solo 
+| Autista |  Trans | 40+ | Maternidade Solo 
 
 
 👩‍💻 Trabalho atualmente com audiovisual
