@@ -71,12 +71,13 @@ Mantenho o estudo contínuo em dia, sempre buscando aprimorar minhas habilidades
 ---
 
 ## Github Stats
-![PH3-Digital](https://github-readme-stats.vercel.app/api?username=ph3-digital&show_icons=true&theme=radical)
+![PH3-Digital](https://github-readme-stats.vercel.app/api?username=ph3-digital&show_icons=true&bg_color=0D1117&border_color=30A3DC&icon_color=30A3DC&title_color=0056B3&text_color=FFF)
 
 ---
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ph3-digital&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ph3-digital/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ph3-digital&repo=dio-lab-open-source&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=0056B3&text_color=FFF)](https://github.com/ph3-digital/dio-lab-open-source)
 ---
+
 ## Contato
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Philipe%20Oliveira-blue)](https://www.linkedin.com/in/philipe-oliveira-b0052a21/)
