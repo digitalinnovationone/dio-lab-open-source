@@ -21,4 +21,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![PMBOOK](https://img.shields.io/badge/PMBOOK-000?style=for-the-badge&logoColor=30A3DC)](https://www.pmi.org/)
 [![BPMN](https://img.shields.io/badge/BPMN-000?style=for-the-badge&logoColor=30A3DC)](https://bpmn.io/)
-[![SCRUM](https://img.shields.io/badge/SCRUM-000?style=for-the-badge&logoColor=30A3DC)](https://bpmn.io/)
+[![SCRUM](https://img.shields.io/badge/SCRUM-000?style=for-the-badge&logoColor=30A3DC)](https://www.scrum.org/)
