@@ -3,26 +3,17 @@
 
 ## Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/lytinhapaes)
-
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](www.linkedin.com/in/talita-paes-da-silva-neto-581552a9)
-
 [![GitHub](https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/talitaneto)
-
 [![E-mail](https://img.shields.io/badge/-Email-0077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:talitapaesneto@gmail.com)
-
 
 
 ## Habilidades
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-FFFFFF?style=for-the-badge&logo=microsoftPowerPoint&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-
 ![PowerBI](https://img.shields.io/badge/Powerbi-F7DF1E?style=for-the-badge&logo=PowerBI&logoColor=black)
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 ![GoogleSheets](https://img.shields.io/badge/Sheets-239120?style=for-the-badge&logo=GoogleSheets&logoColor=white)
-
 ![Excel](https://img.shields.io/badge/Excel-239120?style=for-the-badge&logo=microsoftExcel&logoColor=white)
 
 
