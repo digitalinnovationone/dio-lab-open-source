@@ -26,7 +26,7 @@ Sou estudante de Jogos Digitais e Análise e Desenvolvimento de Sistemas da UniC
 <div>
   Tive pouco contato com JavaScript, HTML e CSS no ano passo.
   <sub>Mas já esqueci 90% do que estudei...</sub><br>
-  Básico em pacote Adobe, Blender e Unreal Engine. <br>Inglês iniciante.
+  Básico em pacote Adobe, Blender e Unreal Engine. <br>Inglês iniciante/básico.
 </div>
 
 <h2 align="right">  
