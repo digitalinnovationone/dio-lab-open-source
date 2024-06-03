@@ -27,5 +27,7 @@ Apaixonado por tecnologias e estou ligando a novas tendências tecnologicas, pro
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=francisco-dos-santos&theme=transparent&bg_color=012&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)  
   
    ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=francisco-dos-santos&layout=compact&bg_color=012&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-## Minhas contribuições em projetos da Dio
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=francisco-dos-santos&repo=dio-lab-open-source&bg_color=012&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/francisco-dos-santos/dio-lab-open-source)
+   
+## Minhas contribuições em projetos open source
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=dio-lab-open-source&bg_color=012&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/francisco-dos-santos/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=chaoss&repo=chaoss-slack-bot&bg_color=012&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/francisco-dos-santos/chaoss-slack-bot)
