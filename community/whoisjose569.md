@@ -1,4 +1,4 @@
-Formado em Ciência da Computação  pela Universidade UNIVEM(Marilia/SP)
+Formado em Ciência da Computação  pela Universidade UNIVEM(Marilia/SP).
 
 Em busca da primeira oportunidade de trabalho
 
