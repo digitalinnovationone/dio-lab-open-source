@@ -28,3 +28,11 @@
 <div> 
 <a href = "mailto:pedroantoniiodm@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c42528?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pedrosouzadm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+</div>&nbsp;&nbsp;
+
+## 📈 Atividades no GitHub:
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrosouzadm&show_icons=true&cache_seconds=86400&theme=midnight-purple&rank_icon=github)](https://github.com/pedrosouzadm)
+<a href="https://github.com/pedrosouzadm">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosouzadm&layout=compact&theme=midnight-purple" alt="Top Langs" width="510">
+</a>
