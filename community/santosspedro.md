@@ -10,7 +10,7 @@
 - 🤔 Programador iniciante e muito apaixonado.
 - 🎓 Estudando Engenharia da Computação na Universidade Adventista de São Paulo - Campus Hortolândia
 - 💼 Buscando estágio.
-- 🌱 Aprendendo mais sobre POO e Análise de Dados
+- 🌱 Aprendendo mais sobre POO, IA e Análise de Dados
 
 ## Meu perfil na dio
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/pedrohenri22611)
