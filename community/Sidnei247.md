@@ -11,7 +11,7 @@
 </div><br/>
 
 #
-### Certificados:
+### Certificados:.
 #
 
 ### Projetos:
