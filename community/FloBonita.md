@@ -17,7 +17,6 @@ Sou apaixonada por gatos e amo o mundo nerd no geral, vou adorar fazer amizades 
 Ps:
 Estou voltando a desenvolver neste perfil do GitHub então ele está por enquanto um pouco vazio.
 
-<img src="dio-lab-open-source\data\laptop.gif">
 
 ## 👾 Lá na curva oque vêm?
 
@@ -27,7 +26,6 @@ Minhas pretensões futuras são:
 
 ✅Tirar minha carteira de motorista.
 
-<img src="dio-lab-open-source\data\driving.gif">![ Dirigindo](dio-lab-open-source\data\driving.gif)
 
 ## Habilidades
 
