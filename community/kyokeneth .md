@@ -9,4 +9,4 @@
 - [Twitter](https://twitter.com/kyokeneth)
 - [Instagram](https://www.instagram.com/kyokeneth)
 - [LinkedIn](https://www.linkedin.com/in/kyokeneth)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him.
