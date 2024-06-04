@@ -77,7 +77,7 @@ Atente-se para a seguir as orientações para a contribuição, principalmente:
 Após criar o seu Pull Request, nossa automação irá validar a sua submissão. Caso esteja tudo certo, será retornada uma mensagem indicado que seu PR foi aprovado. Do contrário, leia atentamente as orientações e verifique os arquivos modificados para saber se atende as instruções para contribuição.
     
     
-## Convenção de Commits 
+## Convenção de Commits! 
 
 | Tipo de Commit |Descrição                                                            | Exemplo
 | ---------------|----------------------------------------------------------------------|-----------
@@ -87,6 +87,7 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 | `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         | `style: add EFFECTNAME to COMPONENT`
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
 | `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
+
 
 
 ## Referências
