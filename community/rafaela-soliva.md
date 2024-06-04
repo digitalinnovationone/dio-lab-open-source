@@ -1,5 +1,5 @@
 ## Rafaela Soliva
-![Static Badge](https://img.shields.io/badge/GitHub-%23000000?style=flat-square&logo=github&logoColor=%23FFFFFF&logoSize=amg&link=https%3A%2F%2Fgithub.com%2Frafaela-soliva%2F) ![Static Badge](https://img.shields.io/badge/Perfil%20P%C3%BAblico%20Dio%20-%234B0082?style=flat-square&logo=codementor&logoSize=amg&link=https%3A%2F%2Fwww.dio.me%2Fusers%2Frafaelasoliva) ![Static Badge](https://img.shields.io/badge/Email-%230000CD%20%09?style=flat-square&logo=maildotru&logoSize=amg&link=mailto%3Arafaelasoliva%40outlook.com)
+[![Static Badge](https://img.shields.io/badge/GitHub-%23000000?style=flat-square&logo=github&logoColor=%23FFFFFF&logoSize=amg&link=https%3A%2F%2Fgithub.com%2Frafaela-soliva%2F)](https://github.com/rafaela-soliva) [![Static Badge](https://img.shields.io/badge/Perfil%20P%C3%BAblico%20Dio%20-%234B0082?style=flat-square&logo=codementor&logoSize=amg&link=https%3A%2F%2Fwww.dio.me%2Fusers%2Frafaelasoliva)](https://www.dio.me/users/rafaelasoliva) [![Static Badge](https://img.shields.io/badge/Email-%230000CD%20%09?style=flat-square&logo=maildotru&logoSize=amg&link=mailto%3Arafaelasoliva%40outlook.com)](mailto:rafaelasoliva@outlook.com)
 
 ---
 
