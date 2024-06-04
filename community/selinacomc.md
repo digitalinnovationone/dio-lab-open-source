@@ -5,11 +5,10 @@ Estudante de Análise e Desenvolvimento de Sistemas, recifense, apaixonada por g
 
 Meu primeiro "Hello World" foi em 2016, quando comecei a estudar lógica de programação na escola, (já tinha tido um pouco de contato com HTML, CSS e JS, graças ao Tumblr e o Blogspot haha) mas desde então, fui me interessando de verdade pela área.
 
-
 ## Conecte-se comigo
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/celinadominique)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celinadms/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/selinacomc/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/selinacomc)  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:celinadomenique@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celinadms/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/selinacomc/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/selinacomc)  
 
 
 ## Habilidades
@@ -21,9 +20,8 @@ Meu primeiro "Hello World" foi em 2016, quando comecei a estudar lógica de prog
 
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=selinacomc&theme=cobalt&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=selinacomc&theme=transparent&bg_color=011627&border_color=30A3DC&show_icons=true&icon_color=f3e38f&title_color=ab82d0&text_color=71cabd)
 
 
-## Projetos/Bootcamps
-
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+## Projetos
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=selinacomc&repo=dio-lab-open-source&bg_color=011627&border_color=30A3DC&show_icons=true&icon_color=f3e38f&title_color=ab82d0&text_color=71cabd)](https://github.com/selinacomc/dio-lab-open-source)
