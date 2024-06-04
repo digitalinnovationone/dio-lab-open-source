@@ -3,7 +3,7 @@
 <div align="center" width="100%">
   <a href="https://git.io/typing-svg">
     <img width="100%" 
-     src="https://readme-typing-svg.herokuapp.com?color=2ABD90&size=15&center=true&vCenter=true&lines=Hello%2C+hope+that+you're+doing+well+%3A%29;Welcome+to+my+GitHub+profile!"
+     src="https://readme-typing-svg.herokuapp.com?color=2ABD90&size=15&center=true&vCenter=true&lines=Hello%2C+hope+that+you're+doing+well+🫡;Welcome+to+my+GitHub+profile+🥳"
      alt="Welcome to my profile"/>
   </a>
 </div>
@@ -68,8 +68,13 @@ In pursuit of challenges, I blend passion with proficiency to create positive im
 <!-- ******************** Connect with me ******************-->
 
 ### 💡 Connect with me
+
 <a href="https://www.linkedin.com/in/mario-mouro" target="_blank">
-<img height="25" src="https://img.shields.io/badge/Mario_Mouro-0077B5?style=flat&logo=linkedin&logoColor=white" alt="Linkedin - /mario-mouro"/>
+  <img
+    height="25" 
+    src="https://img.shields.io/badge/Mario_Mouro-0077B5?style=flat&logo=linkedin&logoColor=white"
+    alt="Linkedin - /mario-mouro"
+  />
 </a>
 
 <!-- ******************** GitHub topics ******************-->
@@ -90,6 +95,9 @@ In pursuit of challenges, I blend passion with proficiency to create positive im
 
 <div align="center" width="100%">
   <a href="https://git.io/typing-svg">
-    <img width="100%" src="https://readme-typing-svg.herokuapp.com?color=2ABD90&size=15&center=true&vCenter=true&lines=Portfolio+under+construction…;Thank+you+for+the+visit,;+and+see+you+next+time!" alt="Thanks for visiting"/>
+    <img 
+      width="100%"
+      src="https://readme-typing-svg.herokuapp.com?color=2ABD90&size=15&center=true&vCenter=true&lines=Portfolio+under+construction 🏋️‍♂️;Thank+you+for+the+visit 🖖"
+      alt="Thanks for visiting"/>
   </a>
 </div> <br>
