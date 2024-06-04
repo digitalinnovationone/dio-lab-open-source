@@ -26,3 +26,4 @@
 
 ## Plano de estudos
 Atualmente focado em java back-end!
+Interesses também em analise de dados e data science
