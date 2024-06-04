@@ -12,6 +12,7 @@ Aqui você confere uma lista de exemplos desenvolvida pela comunidade. Veja abai
 
 Profissional de Tecnologia da Informação com experiência em gerenciamento de service desk e suporte técnico, buscando oportunidades como Analista de Suporte
 para aplicar habilidades em solução de problemas e suporte eficiente aos usuários finais.
+Análise e desnevolvimento de sistemas na Descomplica.
 
 ### Conecte-se comigo
 
