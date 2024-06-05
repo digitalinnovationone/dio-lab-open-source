@@ -1,4 +1,4 @@
-# Jussara Granja 
+# Jussara Granja
 ![QA](https://static.vecteezy.com/system/resources/thumbnails/019/153/003/small/3d-minimal-programming-icon-coding-screen-web-development-concept-laptop-with-a-coding-screen-and-a-coding-icon-3d-illustration-png.png)
 
 ## Senior Quality Assurance Analyst
