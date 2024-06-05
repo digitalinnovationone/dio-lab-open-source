@@ -2,6 +2,7 @@
 # Você veio no melhor!
 
 Vou ser um dos grandes um dia, até lá, batalha!
+Fiz rapidinho para focar no essencial.
 
 
 
