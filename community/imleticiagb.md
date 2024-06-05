@@ -13,7 +13,7 @@
   
 ![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=imleticiagb&show_icons=true&theme=dark)
 <img align="right" alt="Let-gif" height="200" width="200" style="border-radius:80px;"
-src="https://s6.ezgif.com/tmp/ezgif-6-69707de9ce.gif">
+src="https://cdn.discordapp.com/attachments/1178455413239316592/1247882767681716224/ezgif-3-1491a67a23.gif?ex=6661a4e4&is=66605364&hm=407a7671a63ba09f5f899cb5accddcca113f1f2520826d5560ccad4c26d2a344&">
  
  </div>
   
