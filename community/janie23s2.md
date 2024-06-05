@@ -7,8 +7,7 @@ Atualmente, curso o segundo semestre de Sistemas de Informação na Universidade
 Minha jornada na programação começou como um hobby, e até hoje, essa paixão me motiva a aprender e explorar novos desafios.
 Atualmente, meu foco principal está em Python, mas também possuo conhecimentos em linguagem C.
 
-![Python Logo](./path/to/python-logo.png)
-![C Logo](./path/to/c-logo.png)
+
 
 
 
