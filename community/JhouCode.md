@@ -1,7 +1,7 @@
 
 # Jhonatan Viana
 
-Seja bem vindo ao meu perfil, sou de programação atualmente estou em processo de migração de carreira.
+Seja bem vindo ao meu perfil, sou estudante de programação atualmente estou em processo de migração de carreira.
 
 Minha curiosidade fica destacada em vários aspectos da minha vida, gosto de me comunicar assertivamente.
 
