@@ -1,18 +1,18 @@
 <div align="center" style="text-align: center;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=ffffff&lines=Olá,%20+me+chamo+Paulo+Sérgio;Seja+muito+bem+vindo!+:)" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?&color=F7F7F7&duration=3000&pause=700&center=true&vCenter=true&width=1000&lines=Hey+there,%20+my+name+is+Paulo+S%C3%A9rgio.;Welcome+:)!" alt="Typing SVG"/>
   </a>
 </div>
 
-<div align="left"> 
-  <a href = "mailto:paulomg1996@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div align="center"> 
+  <a href = "mailto:paulomg1996@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulo-sergio-pereira-filho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 
 <br>
 
-<h2 align="center">Principais tecnologias:</h2>
+<h2 align="center">Main Technologies:</h2>
 </br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,py,git,github,vscode" />
