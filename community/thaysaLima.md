@@ -1,33 +1,3 @@
-<style>
-  h1 {
-    color: #6495ED;
-    font-size: 36px;
-    text-align: center;
-  }
-  
-  h2 {
-    color: #87CEFA;
-    font-size: 24px;
-  }
-  
-  p {
-    color: #777;
-    font-size: 16px;
-    line-height: 1.5;
-  }
-  
-  ul {
-    color: #777;
-    font-size: 16px;
-    line-height: 1.5;
-  }
-  
-  a {
-    color: #ADD8E6;
-    text-decoration: none;
-  }
-</style>
-
 # 🌻 Bem vindos(as) 🌻
 
 Olá! Eu sou a Thaysa Lima e sou uma estudante de Python 🐍. Ainda não escolhi em que área seguir com ele, mas sigo aqui na luta e com muita perseverança. 
