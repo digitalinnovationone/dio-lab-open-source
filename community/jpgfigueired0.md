@@ -7,7 +7,7 @@ João é um personagem cativante e multifacetado, criado para ser a estrela dos 
 ## Biografia
 
 ### Nome Completo:
-João XPTO
+João Figueired0 XPTO
 
 ### Idade:
 24 anos
