@@ -28,7 +28,7 @@
   }
 </style>
 
-# Bem vindos(as)
+# 🌻 Bem vindos(as) 🌻
 
 Olá! Eu sou a Thaysa Lima e sou uma estudante de Python 🐍. Ainda não escolhi em que área seguir com ele, mas sigo aqui na luta e com muita perseverança. 
 
