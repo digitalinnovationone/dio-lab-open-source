@@ -54,6 +54,10 @@ envia arquivos de um repositório local para um repositório remoto
      
 - `$ git merge <nome_do_branch> *`
 
+ ### git status
+O comando git status mostra o que está acontecendo no seu repositório Git.
+     
+- `$ git status `
 
 
 ### Referências
