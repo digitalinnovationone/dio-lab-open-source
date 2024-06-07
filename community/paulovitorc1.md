@@ -16,6 +16,7 @@ Analista de Sistemas N2 com histórico de trabalho em equipe voltadas a atingir 
 #### 💻 Linguagens de Programação:
  - Java
  - JavaScript
+ - Python
 
 #### 🔧 Frameworks: 
  - SpringBoot
@@ -27,4 +28,3 @@ Analista de Sistemas N2 com histórico de trabalho em equipe voltadas a atingir 
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=paulovitorc1&repo=rest-with-spring-and-java&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/paulovitorc1/rest-with-spring-and-java)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=paulovitorc1&repo=NLW-eSports&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/paulovitorc1/NLW-eSports)
