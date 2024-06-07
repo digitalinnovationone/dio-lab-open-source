@@ -24,3 +24,5 @@
 - [LinkedIn](https://www.linkedin.com/in/julio-cesar-siqueira-torres-55a5a5204/)
 - [GitHub](https://github.com/juliout)
 - 📧 Email: juliocst1993@gmail.com
+
+é um prazer fazer parte desse estudo...
