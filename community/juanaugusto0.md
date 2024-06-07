@@ -9,7 +9,6 @@
 Sou um entusiasta da programação, começando minha jornada com foco em Java. Estou animado para aprender e crescer na área de desenvolvimento de software.
 -  Atualmente estou aprendendo os fundamentos de Java
 -  Meu objetivo é me tornar um desenvolvedor Java competente
--  Como me encontrar: [jg14253@gmail.com]
 
 ## 🚀 Minhas habilidades
 
