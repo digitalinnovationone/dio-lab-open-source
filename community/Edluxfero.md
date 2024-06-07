@@ -2,7 +2,7 @@
 
 ## Minhas Redes 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=Black)](https://www.linkedin.com/in/edson-mendes-140397310/)
- * Outras Redes  ainda em construção
+ * Outras Redes em construção
 ## Habilidades
  estudante de:
  * Python, java, javascript
