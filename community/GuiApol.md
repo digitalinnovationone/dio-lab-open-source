@@ -1,9 +1,17 @@
-<h1 align="center">Olá, venha me conhecer!</h1>
+<h1 align="center">Olá, Sou o Guilherme!😁</h1>
 
 
- <h2>Sobre mim</h2> 
-Sou o Guilherme Apolinario, tenho 25 anos, tenho um filho de 2 anos chamado Fracisco Uriel. Sou estudante de Análise e Desenvolvimento de Sistemas, no momento estou focando mais em FrontEnd.
- 
+ <h2>Sobre mim</h2>
+Tenho 25 anos, tenho um filho de 2 anos chamado Fracisco Uriel. Sou estudante de Análise e Desenvolvimento de Sistemas, no momento estou focando mais em FrontEnd.
+
+<h2>Meus Hobbes </h2>
+
+◇Assitir Séries e Filmes
+
+◇Jogar jogos Mobile
+
+◇Curtir em barzinho 
+
 <h2>Habilidades</h2>
 
 <div style="display: flex">
@@ -16,19 +24,6 @@ Sou o Guilherme Apolinario, tenho 25 anos, tenho um filho de 2 anos chamado Frac
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
-
-
-</div>
-
-<div  align="center">
-
-| Preview | Parameters |
-|HTML5:|:60%:|
-|CSS3:|:40%:|
-|React:|:20%:|
-|JavaScript:|:10%:|
-| ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guiapol&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)| `layout=compact` `bg_color=000` `border_color=30A3DC` `title_color=E94D5F` `text_color=FFF`|
-</div>
  
 <h2>Sistema operacional</h2>
 <br>
