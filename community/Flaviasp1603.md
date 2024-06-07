@@ -19,4 +19,4 @@ GitHub : [Flaviasp1603](https://github.com/Flaviasp1603/)  :shipit:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Flaviasp1603&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg) align="left">
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg) 
