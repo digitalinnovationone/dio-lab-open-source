@@ -1,4 +1,4 @@
-# Meu Perfil no GitHub
+# Meu Perfil no GitHub.
 
 Hello, my name is João Victor Fernandes Dias.
 I am studying at the Systems Analysis and Development faculty - Unifran (3rd Semester of 2024).
