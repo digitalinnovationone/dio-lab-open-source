@@ -30,3 +30,14 @@ Linux | Arquitetura de computadores | Lógica de programação | inglês interme
 ## GitHub Stats
 
 ![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ednaidebezerra&dio-lab-open-source=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
+
+
+## Minhas contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ednaidebezerra&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+
+## Resumo profissional
+<br><i>
+ Sou comerciante no ramo de mobiliario, na capital de pernambuco, Recife, a treze anos, já trabalheir recuperando e comercializando computadores de mesa e perifericos, já trabalhei como projetista de moveis e marcenaria. Estou migrando para a área de TI a dois anos, conclui uma graduação em ADS esse mês, e venho fazendo cursinhos nas áreas correlacionadas, estou achando muito instigante porém desafiador. O desafio é praticar, e isso exige dedicação e disponibilidade o que fez deixar o meu negocio de lado. Minha meta agora é conseguir um estágio para aprender mais e iniciar minha carreira, reaprevoitando toda a minha bagagem como gestora de projetos e empreendedorismo.
+ <br/>
