@@ -3,7 +3,7 @@
 <div align="center">
 <b>Analista Sênior | FullStack Developer</b>
 <b>Atuando | Empresa Luz e Força Santa Maria S/A</b>
-<b>Pós-graduação | Engenharia de Sistemas</br>
+<b>Pós-graduação | Engenharia de Sistemas</b>
 <br>
 <br>
 
@@ -13,7 +13,7 @@
         <br>
        George Bernard Shaw
     </i></p>
-</blockquote> 
+</blockquote>
 </div>
 
 <div align="center" style="display: inline_block">
