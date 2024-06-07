@@ -1,5 +1,3 @@
-# Bem-vindo ao Meu Perfil do GitHub!
-
 Olá! Eu sou Jonas de Melo, uma pessoa apaixonada por tecnologia, programação e análise de dados. Seja bem-vindo ao meu perfil do GitHub, onde compartilho meus projetos e colaboro com a comunidade de desenvolvedores.
 
 <img src="https://imgur.com/AJiCEXM.png" alt="Foto de Perfil" width="400"/>
