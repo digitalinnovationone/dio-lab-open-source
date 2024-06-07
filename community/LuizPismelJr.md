@@ -2,7 +2,7 @@
 
 # Luiz Pismel Junior
 
-## Conect-se comigo
+## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/@LuizPismel-082132?style=for-the-badge&logo=linkedin&logoColor=E69138)](https://www.linkedin.com/in/luiz-pismel/)
 
