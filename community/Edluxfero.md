@@ -3,9 +3,10 @@
 ## Minhas Redes 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=Black)](https://www.linkedin.com/in/edson-mendes-140397310/)
  * Outras Redes em construção
-## Habilidades
+## Habilidades em produção 
  estudante de:
  * Python, java, javascript
+  ## Habilidades Adquiridas
  * psicanalista e Hipnoterapeuta
  * Experiente lider de equipe
  * PNL
