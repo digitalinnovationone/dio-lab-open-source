@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou [Juan] 👋
 
 [![GitHub Badge](https://img.shields.io/badge/-juanaugusto0-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/juanaugusto0)](https://github.com/juanaugusto0)
 [![LinkedIn Badge](https://img.shields.io/badge/-juanaugusto0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-augusto-gomes-vieira-alura/)](https://www.linkedin.com/in/juan-augusto-gomes-vieira-alura/)
@@ -9,6 +9,7 @@
 Sou um entusiasta da programação, começando minha jornada com foco em Java. Estou animado para aprender e crescer na área de desenvolvimento de software.
 -  Atualmente estou aprendendo os fundamentos de Java
 -  Meu objetivo é me tornar um desenvolvedor Java competente
+-  Como me encontrar: [jg14253@gmail.com]
 
 ## 🚀 Minhas habilidades
 
