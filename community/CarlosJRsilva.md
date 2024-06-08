@@ -36,7 +36,7 @@ Meus principais conhecimentos em tecnologias são **Oracle**, **JavaScript**, **
    
 <div align="center" style="display:&nbsp;inline_block">
 <br>
-    <a href="https://github.com/danielrn07">
+    <a href="https://github.com/CarlosJRsilva">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CarlosJRsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosJRsilva&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
 </div>
