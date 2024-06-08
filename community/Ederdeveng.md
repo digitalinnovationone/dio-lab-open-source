@@ -2,7 +2,7 @@
 
 *#Orgulhor em Pertencer*
 
-## Na companhia há seis anos, busco sempre manter-me em aprendizado continuo. Apaixonado por tecnologia, mesmo trabalhando em loja, programação sempre foi um hobby, hoje aprendendo uma nova linguagem de programação. 
+## Na VIVO há seis anos, busco sempre manter-me em aprendizado continuo. Apaixonado por tecnologia, mesmo trabalhando em loja, programação sempre foi um hobby, hoje aprendendo uma nova linguagem de programação. 
 
 ### Graduado em ADS e cursando Engenharia de Software.
 ##
