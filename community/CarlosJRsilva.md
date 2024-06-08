@@ -3,7 +3,7 @@
 <div align="center">
 <b>Analista Sênior | FullStack Developer</b>
 <b>Atuando | Empresa Luz e Força Santa Maria S/A</b>
-<b>Pós-graduação | Engenharia de Sistemas</br>
+<b>Pós-graduação | Engenharia de Sistemas</b>
 <br>
 <br>
 
@@ -13,7 +13,7 @@
         <br>
        George Bernard Shaw
     </i></p>
-</blockquote> 
+</blockquote>
 </div>
 
 <div align="center" style="display: inline_block">
@@ -37,8 +37,8 @@ Meus principais conhecimentos em tecnologias são **Oracle**, **JavaScript**, **
 <div align="center" style="display:&nbsp;inline_block">
 <br>
     <a href="https://github.com/danielrn07">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danielrn07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrn07&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CarlosJRsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosJRsilva&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
 </div>
 
 </details>
@@ -46,6 +46,6 @@ Meus principais conhecimentos em tecnologias são **Oracle**, **JavaScript**, **
 ---
  
 <div>
-    <a href="https://www.linkedin.com/in/danielrn07/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:pdaniel.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/carlos-rocha-vix/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:cjrsilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
