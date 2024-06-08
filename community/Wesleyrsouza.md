@@ -35,5 +35,6 @@ Tenho formação técnica em Mecatrônica e atualmente trabalho na área de Manu
 </br>
 </br>
 </br>
+
 ## **Objetivo Desta Atividade**
 O objetivo desta atividade é aprender a colaborar com projetos open source utilizando o GitHub. Contribuir para projetos de código aberto não apenas ajuda a comunidade de desenvolvimento, mas também oferece oportunidades para aprender e aprimorar habilidades, além de expandir sua rede profissional.
