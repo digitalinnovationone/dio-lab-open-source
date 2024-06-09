@@ -1,5 +1,8 @@
 # Olá, eu me chamo Lucas
 
+    Tenho 20 anos de idade, moro na capital de SP e estou no 3º semestre do curso de Analise e Desenvolvimento de Sistema na Faculdade Impacta.
+    Estou em busca de adquirir novos conhecimentos na área e ingressar profissionalmente na técnologia.
+
 # Minhas Redes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ohliminha/)
@@ -22,3 +25,13 @@
 
 # GitHub States
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ohlm1&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+# Certificados DIO
+
+[![Certificados DIO](https://hermes.dio.me/certificates/cover/DECAE48C.jpg)](https://web.dio.me/certificates)
+[![Certificados DIO](https://hermes.dio.me/certificates/cover/OTWQJN4N.jpg)](https://web.dio.me/certificates)
+[![Certificados DIO](https://hermes.dio.me/certificates/cover/P5ZOTJLR.jpg)](https://web.dio.me/certificates)
+[![Certificados DIO](https://hermes.dio.me/certificates/cover/AJKZJI5O.jpg)](https://web.dio.me/certificates)
+[![Certificados DIO](https://hermes.dio.me/certificates/cover/YH0AEBK3.jpg)](https://web.dio.me/certificates)
+[![Certificados DIO](https://hermes.dio.me/certificates/cover/CWP4IEJQ.jpg)](https://web.dio.me/certificates)
+[![Certificados DIO](https://hermes.dio.me/certificates/cover/Q7PJ3LIW.jpg)](https://web.dio.me/certificates)
