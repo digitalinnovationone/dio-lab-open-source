@@ -1,6 +1,6 @@
 # Bruno Gonçalves
 
-Eaí!! Me chamo Bruno e sou um desenvolvedor em construção. Por aqui compartilho minha trilha de aprendizado e projetos práticos executados !
+Olá!! Me chamo Bruno e sou um desenvolvedor em construção. Por aqui compartilho minha trilha de aprendizado e projetos práticos executados !
 
 ## Como me achar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-rocha-goncalves)
