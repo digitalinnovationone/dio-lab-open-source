@@ -1,9 +1,8 @@
 <h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Olá!%20≧◠‿◠≦✌&textBg=false&fontAlign=50&animation=blink&descAlign=55"/>
+<img 
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> 
-    <var(--purple-)>
-    Olá! ≧◠‿◠≦✌ </span>
 </h1>
 
 Sou a Geiza (pode me chamar de Gê se preferir) 👋
