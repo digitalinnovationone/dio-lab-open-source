@@ -7,10 +7,10 @@ Sou formada em Biblioteconomia e Ciência da Informação na [Ufscar](https://ht
 
 Amo ouvir músicas e também apreciar o som do mar 🌊 Espero um dia poder conhecer o mundo na presença dos meus parceiros de estudos: Liz Regina 🐱, Fred 🐈 e Tove Luv 🐱
 
-A tecnologia sempre me atraiu e estou entusiasmada em trilhar esse novo processo de aprendizado com a 
-    <a href="https://www.dio.me/">
-     <img align="center" width=20px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"/>
- [Digital Innovation One](https://www.dio.me/)🚀👩‍💻
+A tecnologia sempre me atraiu e estou entusiasmada em trilhar esse novo processo de aprendizado com a
+<a href="https://www.dio.me/">
+     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+[Digital Innovation One](https://www.dio.me/)🚀👩‍💻
 </h3>
 
 ## ʕ•́ᴥ•̀ʔっ Conecte-se comigo 
