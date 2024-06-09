@@ -1,4 +1,4 @@
-## Olá, Seja Bem Vindo! 👋
+# Olá, Seja Bem Vindo! 👋
   
 Me chamo _Igor Manoel_, sou formado como Bacharel em Administração e Tecnólogo em Logística, atualmente estou em processo de transição de carreira para a área de **Desenvolvimento de Sistemas**. Estou buscando experiencia para ingressar na área, e hoje estou estudando a tarde na **Fatec Zona Leste**, no curso de **Análise e Desenvolvimento de Sistemas**.
   
@@ -17,7 +17,7 @@ Me chamo _Igor Manoel_, sou formado como Bacharel em Administração e Tecnólog
 <br>
 <br>
 
-<div> <strong> Estudando... </strong> <br>
+<div> <strong> 📖 Estudando... </strong> <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -35,7 +35,7 @@ Me chamo _Igor Manoel_, sou formado como Bacharel em Administração e Tecnólog
 
 <br>
 
-<div> IDE Utilizadas... <br>
+<div> 💻 IDE Utilizadas... <br>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
@@ -45,8 +45,7 @@ Me chamo _Igor Manoel_, sou formado como Bacharel em Administração e Tecnólog
 
 <br>
 
-<div>
-  Interessado em... <br>
+<div> 🧠 Interessado em... <br>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
