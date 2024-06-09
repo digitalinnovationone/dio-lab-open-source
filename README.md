@@ -10,12 +10,12 @@ Amo ouvir músicas e também apreciar o som do mar 🌊 Espero um dia poder conh
 A tecnologia sempre me atraiu e estou entusiasmada em trilhar esse novo processo de aprendizado com a
 <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-[Digital Innovation One](https://www.dio.me/)🚀👩‍💻
+[Digital Innovation One](https://www.dio.me/) 🚀👩‍💻
 </h3>
 
 ## ʕ•́ᴥ•̀ʔっ Conecte-se comigo 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geizamorais/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:geizamorais.code) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m0ra1s)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geizamorais/) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m0ra1s) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:geizamorais.code) 
 
 ## ʕ•́ᴥ•̀ʔっ GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m0ra1s&theme=jolly&icons=true)
