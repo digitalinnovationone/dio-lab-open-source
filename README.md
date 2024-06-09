@@ -1,18 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=9370DB&text=Olá!%20≧◠‿◠≦✌&fontColor=F8F8FF&animation=blink&textBg=false"/>
 
-<h1>
-<img 
-    <a href="https://www.dio.me/">
-     <img align="center" width=100px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-</h1>
-
 Sou a Geiza (pode me chamar de Gê, se preferir) 👋
 
 Sou formada em Biblioteconomia e Ciência da Informação na [Ufscar](https://https://www.ufscar.br/) 🎓 
 
 Amo ouvir músicas e também apreciar o som do mar 🌊 Espero um dia poder conhecer o mundo na presença dos meus parceiros de estudos: Liz Regina 🐱, Fred 🐈 e Tove Luv 🐱
 
-A tecnologia sempre me atraiu e estou entusiasmada em trilhar esse novo processo de aprendizado com a [Digital Innovation One](https://www.dio.me/) 🚀👩‍💻
+A tecnologia sempre me atraiu e estou entusiasmada em trilhar esse novo processo de aprendizado com a 
+    <a href="https://www.dio.me/">
+     <img align="center" width=20px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png">
+[Digital Innovation One](https://www.dio.me/) 🚀👩‍💻
 
 
 ## ʕ•́ᴥ•̀ʔっ Conecte-se comigo 
