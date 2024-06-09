@@ -15,10 +15,9 @@ Amo ouvir músicas e também apreciar o som do mar 🌊 Espero um dia poder conh
 A tecnologia sempre me atraiu e estou entusiasmada em trilhar esse novo processo de aprendizado com a [Digital Innovation One](https://www.dio.me/) 🚀👩‍💻
 
 
-## 🤝 Conecte-se comigo 
+## ʕ•́ᴥ•̀ʔっ Conecte-se comigo 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geizamorais/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:geizamorais.code)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geizamorais/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:geizamorais.code) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m0ra1s)
 
----
-## 📊 GitHub Stats
+## ʕ•́ᴥ•̀ʔっ GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m0ra1s&theme=jolly&icons=true)
