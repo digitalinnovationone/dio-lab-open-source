@@ -12,7 +12,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=E94D5F)](https://github.com/gabrielpaes97)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=E94D5F)](https://www.linkedin.com/in/gabriel-paes-ferreira/)
 [![Instagram](https://img.shields.io/badge/-Instagram-white?style=for-the-badge&logo=instagram&logoColor=E94D5F)](https://www.instagram.com/gabrielpaes.exe/)
-![Steam](https://img.shields.io/badge/steam-white?style=for-the-badge&logo=steam&logoColor=E94D5F)
 
 ## **Habilidades**
 
