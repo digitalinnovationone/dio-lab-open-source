@@ -1,6 +1,7 @@
 # 👋 Olá, meu nome é Jean (Rolcin)!
 Engenheiro Eletricista com especialização em Automação Industrial e Gerenciamento de Projetos, atualmente aprendendo mais sobre Engenharia de Dados.
 
+
 ##
 ### 📊 Estatísticas no GitHub:
 <a href="https://github.com/Rolcin">
