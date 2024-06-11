@@ -1,7 +1,7 @@
 # Hello World! 👨‍💻
 
 ## About Me 🧍‍♂
-Hello, what's up? I'm Anselmo Lopes, a fullstack developer based in the sunny land of Brazil. My journey is marked by dedication to technology and engineering. I found in computing the perfect way to combine these passions, constantly seeking to improve my skills to contribute to innovative solutions.
+Hello, what's up? I'm Anselmo, a fullstack developer based in the sunny land of Brazil. My journey is marked by dedication to technology and engineering. I found in computing the perfect way to combine these passions, constantly seeking to improve my skills to contribute to innovative solutions.
 
 ## GitHub Activities 📈
 Take a look at some statistics from my GitHub profile:
