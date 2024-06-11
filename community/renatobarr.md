@@ -8,11 +8,11 @@
 
 ## Competências:
 
-- Adobe Photoshop
-- Adobe After Effects
-- Adobe Ilustrator
-- Java
-- Javascript 
-- HTML 
-- CSS 
-- Inglês 
+- Adobe Photoshop.
+- Adobe After Effects.
+- Adobe Ilustrator.
+- Java.
+- Javascript. 
+- HTML. 
+- CSS. 
+- Inglês.
