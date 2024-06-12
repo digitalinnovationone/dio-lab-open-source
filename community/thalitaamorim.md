@@ -16,8 +16,4 @@ Mantenho-me atualizada com as últimas tendências e atualizações do Salesforc
 
 
 
-<h2 align="center">Contact me:</h2>
-<p align="center">
-<a href = "mailto:thalita.amorim@hotmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF" target=" _blank"></a>
-<a href="https://www.linkedin.com/in/thalitaamorimmoreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-ff9000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</p>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalitaamorimmoreira/)
