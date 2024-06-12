@@ -1,14 +1,16 @@
 <img align="Right"  alt="Computer Illustration" height="280" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=7644CF&random=false&width=435&lines=Ol%C3%A1+%F0%9F%96%96+Me+Chamo+Alessandro+Navarro!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=23&pause=1000&color=7644CF&random=false&width=435&lines=Ol%C3%A1+%F0%9F%96%96+Me+Chamo+Alessandro+Navarro!)
 
-Sou apaixonado por tecnologia, viciado em sites, Blogs seus códigos e Design. 
+<p align="justify">Sou apaixonado por tecnologia, viciado em sites, Blogs seus códigos e Design. 
+<br>
 Persistente, trabalho bem em equipe e tenho espirito de liderança.
+</p>
 
 ### 👨‍💻 Sobre mim
 
 - 💻 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Ciência da Computação** na <a href="https://descomplica.com.br/">Descomplica Faculdade Digital</a>.
+- 🎓 &nbsp; Estudando **Ciência da Computação** na <a href="https://descomplica.com.br/">Descomplica</a>.
 - 💼 &nbsp; Trabalhando como **Operador de Processo Industrial** na <a href="https://www.michelin.com.br">Michelin</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Power BI, Microstrategy, Power Apps, SharePoint, HTML, Python**.
 
