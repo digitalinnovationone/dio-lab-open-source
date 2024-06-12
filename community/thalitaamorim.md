@@ -12,9 +12,6 @@ Além disso, utilizo o GitHub para o deploy do desenvolvimento e o Jira para gar
 Sou uma colaboradora proativa, comunicativa e com facilidade para trabalhar em equipe. Possuo capacidade de implementar melhorias na ferramenta e garantir uma adoção eficaz do Salesforce.
 
 Mantenho-me atualizada com as últimas tendências e atualizações do Salesforce, participando ativamente da comunidade Salesforce e estudando constantemente pelo Trailhead. Sou apaixonada pelo Salesforce e busco aprender e evoluir diariamente para oferecer as melhores soluções aos clientes.
-
-
-
 <div>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalitaamorimmoreira/)
 </div>
