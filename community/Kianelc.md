@@ -4,8 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-08A369?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kiane-l-casagrande-169876b6/)](https://www.linkedin.com/in/kiane-l-casagrande-169876b6/)
 [![Gmail Badge](https://img.shields.io/badge/-kiane.casagrande@gmail.com-08A369?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kiane.casagrande@gmail.com)](mailto:kiane.casagrande@gmail.com)
 
-<img align="right" alt="Tech GIF" src="./gif_tech.gif"  width="300px"/>
-
 ### My name is Kiane
 (Vue JS | Angular | Javascript | HTML | CSS | PHP ) 🚀
 
