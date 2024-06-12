@@ -1,7 +1,7 @@
 # Joandson Silva 25
 Olá! Eu sou o Joandson Silva estudante e educador de Programação! Meu objetivo é aprender cada vez mais com vocês!
 
-## Conete-se comigo
+## Conete-se comigo sempre
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-007FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joandson-silva/)
 
