@@ -1,4 +1,4 @@
-Quem sou eu.
+## Quem sou eu!
 
 Sou desenvolvedora Funcional Salesforce com formação em Sistemas de Informação e pós-graduação em Gestão de Projetos, com experiência em projetos de Financial Service Cloud, Industry e atualmente focada em Service Cloud.
 
@@ -15,5 +15,6 @@ Mantenho-me atualizada com as últimas tendências e atualizações do Salesforc
 
 
 
-
+<div>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalitaamorimmoreira/)
+</div>
