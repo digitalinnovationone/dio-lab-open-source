@@ -615,14 +615,6 @@
         <code>![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)</code>
       </td>
    </tr>
-   <tr>
-      <td>
-        <img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white">
-      </td>
-      <td>
-        <code>![Unity](https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white)</code>
-      </td>
-   </tr>
     
   </tbody>
   <tfoot></tfoot>
