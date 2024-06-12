@@ -1,47 +1,4 @@
-[33mcommit f1da1a1c98f15b393d122f530fd1a3cb50cc0518[m[33m ([m[1;36mHEAD -> [m[1;32mfeat/community/joandsonsilva10[m[33m)[m
-Merge: 2a6574159 c86238f72
-Author: JoandsonOliveira <91487025+JoandsonSilva@users.noreply.github.com>
-Date:   Wed Jun 12 12:00:36 2024 -0300
-
-    feat: add joandsonsilva profile
-
-[33mcommit 2a65741599c2b8ef26aa58fd854f7075864be3a0[m
-Author: JoandsonOliveira <91487025+JoandsonSilva@users.noreply.github.com>
-Date:   Wed Jun 12 11:33:32 2024 -0300
-
-    add new files
-
-[33mcommit 16fd719a3c83e7f1878ec713192926110c3b7ada[m
-Author: JoandsonOliveira <91487025+JoandsonSilva@users.noreply.github.com>
-Date:   Wed Jun 12 11:30:55 2024 -0300
-
-    Remove old files and add new files
-
-[33mcommit 8be48c818d04698737c67e8c3f7f22a536ec4946[m[33m ([m[1;32mfeat/community/joandsonsilva[m[33m)[m
-Author: JoandsonOliveira <91487025+JoandsonSilva@users.noreply.github.com>
-Date:   Wed Jun 12 11:09:00 2024 -0300
-
-    feat: add Joandson Silva profile
-
-[33mcommit f4ab82d25f51e2d72a24f1aaa01464f02be99702[m
-Author: JoandsonOliveira <91487025+JoandsonSilva@users.noreply.github.com>
-Date:   Wed Jun 12 11:02:22 2024 -0300
-
-    feat: add Joandson Silva profile
-
-[33mcommit c86238f72f5d42c02bbe4a617d25258d4ac86869[m[33m ([m[1;31morigin/feat/community/joandsonsilva[m[33m)[m
-Author: Joandson Silva <91487025+JoandsonSilva@users.noreply.github.com>
-Date:   Wed Jun 12 10:52:15 2024 -0300
-
-    Delete community/002JoandsonSilva.md
-
-[33mcommit 65877d21feb28350413815b3d964e4cfec50ee2a[m
-Author: JoandsonOliveira <91487025+JoandsonSilva@users.noreply.github.com>
-Date:   Wed Jun 12 10:42:14 2024 -0300
-
-    feat: add Joandson Silva profile
-
-[33mcommit a4d962fd97eed60b2b0496f33269064a3e56cb52[m
+[33mcommit a4d962fd97eed60b2b0496f33269064a3e56cb52[m[33m ([m[1;36mHEAD -> [m[1;32mfeat/community/joandsonsilva[m[33m)[m
 Author: JoandsonOliveira <91487025+JoandsonSilva@users.noreply.github.com>
 Date:   Wed Jun 12 10:34:05 2024 -0300
 
@@ -221,4 +178,50 @@ Date:   Tue Jun 11 23:37:16 2024 -0300
 
 [33mcommit 48d2942ebfbb632abd72f9667faea737c6c8b26d[m
 Author: ayres <ayresdlemos@outlook.com>
-Date:   Tue 
+Date:   Tue Jun 11 23:35:55 2024 -0300
+
+    feat: add ayresdlemos profile
+
+[33mcommit 03efd1b8f12f59d26f60f18dddf0d355c5056f60[m
+Merge: 8b8855a98 b889249c1
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Jun 12 02:35:34 2024 +0000
+
+    Merge pull request #38938 from KaianFreitas/feat/community/KaianFreitas
+
+[33mcommit 642e70dd2f085961da684c05b7099511637e4dbd[m
+Author: ehomarcoss <ehomarcoss@gmail.com>
+Date:   Tue Jun 11 23:35:01 2024 -0300
+
+    Create ehomarcoss.md
+
+[33mcommit b889249c133f9a3671295dd404bf0e5095765035[m
+Author: Kaian Freitas <82061876+KaianFreitas@users.noreply.github.com>
+Date:   Tue Jun 11 23:34:44 2024 -0300
+
+    feat: add KaianFreitas profile
+    
+    Descrição
+    Adiciona profile README do KaianFreitas
+    
+    Tipo de alteração
+     [x]Resolução do Desafio Profile README (envie APENAS o arquivo community/SEU_USERNAME.md)
+     [ ]Correção de bug
+     [ ]Nova funcionalidade
+     [ ]Alteração na documentação
+     [ ]Outro (especifique)
+    Checklist
+     [x]Minhas alterações não deletam partes do projeto
+     [x]Minhas alterações não introduzem novos problemas
+     [x]Minha contribuição está de acordo com o Guia de Contribuição
+    Comentários adicionais
+    N/A
+
+[33mcommit 8b8855a9834c26841b590d067c357c702fb9a4b3[m
+Merge: c4bcf3b5e efb974949
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Jun 12 02:32:22 2024 +0000
+
+    Merge pull request #38937 from JPMarchiori/feat/community/JPMarchiori
+
+[33mcommit 71b8b1c7befe82d75c4487a440946b173ef
