@@ -1,13 +1,13 @@
-# Prazer, me chamo Kaio (KRNovaes)! ✌
+# Prazer, me chamo Kaio (kaio-novaes)! ✌
 
-Tenho 29 anos, comecei meus estudo aqui pela DIO, atuo no Mercado Financeiro, mas sempre gostei de tecnologia, e só agora pude me dedicar aos estudos! Meu passatempo favorito é jogar.  
+Comecei meus estudo aqui pela DIO, atuo no Mercado Financeiro, mas sempre gostei de tecnologia, e só agora pude me dedicar aos estudos! Meu passatempo favorito é jogar.  
 
 Hoje estou me aprimorando para me tornar desenvolvedor Back-End, estou aprendendo Python e Java! Minha expectativa é me tornar um bom profissional capaz de contribuir com a comunidade DEV.
 
 ## 💻 Tecnologias:
 
 <div style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=py,java,&perline=8" />
+  <img src="https://skillicons.dev/icons?i=py,&perline=8" />
 </div>
 
 ## 📱 Vamos nos conhecer!
