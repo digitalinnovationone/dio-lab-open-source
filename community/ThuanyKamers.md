@@ -4,7 +4,7 @@
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thuanypaulakamers/)
 
 
-## Tecnologias que estou estudando
+## Tecnologias que estou estudando:
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -15,7 +15,7 @@
   <img align="center" alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-## Sobre mim
+## Sobre mim:
 
 Atualmente cursando graduação em **Sistemas de Informação** e estou me dedicando à aprendizagem autônoma de diversas linguagens de programação.
 Conjuntamente stou estudando para prestar vestibular para o curso de **Análise e Desenvolvimento de Sistemas** na Faculdade Municipal de Palhoça
