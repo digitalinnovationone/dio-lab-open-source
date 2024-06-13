@@ -3,6 +3,10 @@
 # Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucianoZani&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+## 📬 Contato
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianozani/)
+- [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:lucianozani.2604@gmail.com)
+
 Seja bem-vindo ao meu espaço no GitHub, onde compartilho meu trabalho e projetos como Analista de Dados Jr.
 
 ## 🚀 Sobre mim
@@ -35,9 +39,5 @@ Integração e transformação de dados simplificada.
 
 ### [🐍 Scripts em Python](link_do_projeto)
 Soluções de automação e análise de dados.
-
-## 📬 Contato
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianozani/)
-- [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:lucianozani.2604@gmail.com)
 
 Vamos nos conectar e criar algo incrível juntos!
