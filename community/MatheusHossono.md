@@ -5,7 +5,7 @@
 
 - 📫 Contato: **matheushossono@gmail.com**
 
-- Tenho 4 anos de experiência com criação de jogos virtuais apartir da Modelagem 3D, tendo como função ser "Lead Modeler" e Designer de mapas. Estou atualmente expandindo minha área e obtendo conhecimento de programação para a elaboração de projetos mais complexos, aprimorarando a minha carreira.
+- Tenho 4 anos de experiência com criação de jogos virtuais apartir da Modelagem 3D, tendo como principal função ser "Lead Designer". Estou atualmente expandindo minha área e obtendo conhecimento de programação para a elaboração de projetos mais complexos, aprimorarando a minha carreira.
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
