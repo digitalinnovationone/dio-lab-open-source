@@ -2,7 +2,7 @@
 
 ## Sobre mim
 Olá! Adriano Beserra, Além das formações acadêmicas onde adquiri uma vasta teoria, tenho me dedicado a desenvolver
-projetos pessoais para construir minha carreira como programador
+projetos pessoais para construir solidificar na pratica meus conhecimentos, e construir minha carreira como programador.
 
 ### Habilidades
 
