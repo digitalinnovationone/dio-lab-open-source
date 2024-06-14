@@ -2,7 +2,7 @@
   Olá, me chamo Amarildo da Silva Chagas Junior, tenho 35 anos e estou começando na área de tecnologia. Utilizando [Roadsmap da DIO](https://digitalinnovationone.github.io/roadmaps/) confirmei que meu perfil 
   está mais ligado à área de banco dados e isso me ajudou muito a traçar uma trilha mais concisa.
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/amarildo-da-silva-chagas-junior-bb6312242)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarildocjr/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](amarildo.chagasjr@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](@amarildocjr)
 
