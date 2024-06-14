@@ -1,7 +1,7 @@
 
 ## Sobre mim
 
-Olá me chamo Alessandra Campos, estou no ultimo semestre de Análise de Sistemas pelo Centro Universitário Católico Ítalo Brasileiro. Atualmente sou Desenvolvedora de Backend Python com experiencia em APIs Flask e Fast API atuando há 3 anos em projetos de uma instituição bancária em diversos projetos de integração com serviços da AWS como SQS, Bucket S3 , Step Function , Athena e Glue Job . E outras tecnologias complementares como Terraform , Jaeger , Jekins , Grafana e Prometheus em empresa de consultoria.
+Olá me chamo Alessandra Campos, estou no ultimo semestre de Análise de Sistemas pelo Centro Universitário Católico Ítalo Brasileiro. Atualmente sou Desenvolvedora de Backend Python com experiencia em APIs Flask e Fast API atuando há 3 anos em projetos de uma instituição bancária em diversos projetos de integração com serviços da AWS como SQS, Bucket S3 , Step Function ,Athena e Glue Job . E outras tecnologias complementares como Terraform , Jaeger , Jekins , Grafana e Prometheus em empresa de consultoria.
 
 
 ## Linguagens, Bibliotecas, Frameworks e demais tecnologias:
