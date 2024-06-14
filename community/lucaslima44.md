@@ -25,3 +25,4 @@ Olá! Eu sou o Lucas e sou desenvolvedor front-end.
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslima44&repo=fsw-barber&bg_color=4080bf&border_color=fff&show_icons=true&icon_color=000&title_color=fff&text_color=000)](https://github.com/lucaslima44/fsw-barber)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslima44&repo=Portfolio-Atualizado&bg_color=4080bf&border_color=ff&show_icons=true&icon_color=000&title_color=fff&text_color=000)](https://github.com/lucaslima44/Portfolio-Atualizado)
+
