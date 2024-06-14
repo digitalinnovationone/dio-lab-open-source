@@ -1,4 +1,4 @@
-# Olá, me chamo Helcius 👋
+# Olá, me chamo Helcius
 
 ## Sobre mim
 
@@ -9,20 +9,19 @@ Sou Helcius Araújo Nóbrega Cabral, um profissional de QA dedicado com uma paix
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/helciuscabral/)](https://www.linkedin.com/in/helciuscabral/)
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/helciuscabral/)](https://www.instagram.com/helciuscabral/)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:helcius.cabral@hotmail.com)](mailto:helcius.cabral@hotmail.com)
 
 ## Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/Helcius">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Helcius&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helcius&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/helcius">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helcius&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helcius&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
-
+<br>
 TODO
 
-<pessoal>
+pessoal
 
 ## Projetos Destacados
 
