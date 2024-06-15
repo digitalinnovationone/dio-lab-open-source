@@ -1,7 +1,9 @@
 Camille Bitencourt de Assis
 
 Sobre Mim:
+
 Meu nome é Camille Bitencourt de Assis, tenho 19 anos. Sou uma mulher que valoriza o alto astral, a confiança, a comunicação e a inclusão, pois acredito que esses aspectos são fundamentais para transformar o ambiente na qual estamos.
+
 No momento, estou cursando o 3º Semestre de Gestão da Tecnologia da Informação no Centro Universitário Senac e busco uma oportunidade de estágio na área de Tecnologia.
 
 Conecte-se comigo
