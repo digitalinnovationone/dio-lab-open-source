@@ -1,59 +1,32 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/>
+# Bem-vindo ao Meu Perfil no GitHub!
 
-<h1 align="center">Olá! Eu sou a Luciana Almeida Ferreira 👋</h1>
+## Sobre Mim
 
-<h2>Sobre Mim</h2> 
-<p>Advogada por formação, com certificações profissionais do Google em UX Design e Project Management. Atualmente, estou iniciando meus estudos em programação com a linguagem Python e explorando o campo da inteligência artificial.</p>
+👋 Olá! Eu sou Luciana Almeida Ferreira, advogada por formação, com certificações profissionais do Google em UX Design e Project Management. Atualmente, estou iniciando meus estudos em programação com a linguagem Python e explorando o campo da inteligência artificial.
 
-<h2>Habilidades</h2>
+## Habilidades
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="margin: 5px;">
-</div>
+## Certificações
 
-<h2>Certificações</h2>
+### Google UX Design
+![Google UX Design Badge](https://www.credly.com/go/p4dkMHbL)
 
-<h3>Google UX Design</h3>
-<a href="https://www.credly.com/go/p4dkMHbL">
-  <img src="https://www.credly.com/go/p4dkMHbL" alt="Google UX Design Badge" style="margin: 5px;">
-</a>
-<p><b>Competências Adquiridas:</b></p>
-<div style="display: flex; flex-wrap: wrap;">
-  <span style="padding: 5px; border: 1px solid #ccc; border-radius: 5px; margin: 5px;">Conducting Usability Studies</span>
-  <span style="padding: 5px; border: 1px solid #ccc; border-radius: 5px; margin: 5px;">Figma Adobe XD</span>
-  <span style="padding: 5px; border: 1px solid #ccc; border-radius: 5px; margin: 5px;">Prototyping</span>
-  <span style="padding: 5px; border: 1px solid #ccc; border-radius: 5px; margin: 5px;">Sketching And Ideating</span>
-  <span style="padding: 5px; border: 1px solid #ccc; border-radius: 5px; margin: 5px;">User Experience Design (UXD)</span>
-  <span style="padding: 5px; border: 1px solid #ccc; border-radius: 5px; margin: 5px;">User Experience Research (UXR)</span>
-  <span style="padding: 5px; border: 1px solid #ccc; border-radius: 5px; margin: 5px;">Wireframing</span>
-</div>
+**Competências Adquiridas:**
 
-<h3>Google Project Management</h3>
-<a href="https://www.credly.com/go/0GBH61Wc">
-  <img src="https://www.credly.com/go/0GBH61Wc" alt="Google Project Management Badge" style="margin: 5px;">
-</a>
-<p><b>Competências Adquiridas:</b></p>
-<div style="display: flex; flex-wrap: wrap;">
-  <span style="padding: 5px; border: 1px solid #ccc; border-radius: 5px; margin: 5px;">Agile Project Management</span>
-  <span style="padding: 5px; border: 1px solid #ccc; border-radius: 5px; margin: 5px;">Budgeting And Procurement</span>
-  <span style="padding: 5px; border: 1px solid #ccc; border-radius: 5px; margin: 5px;">Effective Communication</span>
-  <span style="padding: 5px; border: 1px solid #ccc; border-radius: 5px; margin: 5px;">Process Improvement</span>
-  <span style="padding: 5px; border: 1px solid #ccc; border-radius: 5px; margin: 5px;">Project Management</span>
-  <span style="padding: 5px; border: 1px solid #ccc; border-radius: 5px; margin: 5px;">Project Scoping And Planning</span>
-  <span style="padding: 5px; border: 1px solid #ccc; border-radius: 5px; margin: 5px;">Risk Management</span>
-</div>
+- Conducting Usability Studies | Figma Adobe XD | Prototyping | Sketching And Ideating | User Experience Design (UXD) | User Experience Research (UXR) | Wireframing
 
-<h2>Vamos Conectar!</h2>
+### Google Project Management
+![Google Project Management Badge](https://www.credly.com/go/0GBH61Wc)
 
-<div style="display: flex; flex-wrap: wrap;">
-  <a href="mailto:lucianaemanuellelima@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" style="margin: 5px;">
-  </a>
-  <a href="https://www.linkedin.com/in/luciana-almeida-ferreira/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px;">
-  </a>
-</div>
+**Competências Adquiridas:**
 
+- Agile Project Management | Budgeting And Procurement | Effective Communication | Process Improvement | Project Management | Project Scoping And Planning | Risk Management
+
+## Vamos Conectar!
+
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:lucianaemanuellelima@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciana-almeida-ferreira/)
 ---
 
 _“A única maneira de fazer um excelente trabalho é amar o que você faz.” – Steve Jobs_
