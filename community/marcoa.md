@@ -1,6 +1,6 @@
  ### Olá eu sou o Marco Aurélio Barreto 👋
 
- Mudando de área aos 40 anos para tecnologia! 
+ Mudando aos 40 anos de idade para tecnologia. 
 
  ## Conecte-se comigo
 
