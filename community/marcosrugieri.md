@@ -1,6 +1,6 @@
 # Marcos Rugieri Machareth Peres
 
-Em formação em Análise e Desenvolvimento de Sistemas e Engenharia de produção pela UFF, com experiência técnica em Automação industrial e liderança de time, estou imerso em explorar as fronteiras da tecnologia, buscando compreender e aplicar os princípios fundamentais da computação para solucionar desafios do mundo real.💻
+Em formação em Análise e Desenvolvimento de Sistemas e Engenharia de produção pela UFF, com experiência técnica em Automação industrial e liderança de time pela Procter & Gamble, estou imerso em explorar as fronteiras da tecnologia, buscando compreender e aplicar os princípios fundamentais da computação para solucionar desafios do mundo real.💻
 
 ## Conecte-se comigo
 
