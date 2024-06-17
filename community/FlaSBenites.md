@@ -62,33 +62,25 @@
 
 ## Banco de dados
 <table>
-<tr>
-<td>
+<tr><td>
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-</td>
-<td>
+</td><td>
 
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
     
-</td>
-<td>
+</td><td>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
-</td>
-</tr>
-<tr>
-<td>
+</td></tr><tr><td>
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-</td>
-<td>
+</td><td>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-</td>
-</tr>
+</td></tr>
 </table>
