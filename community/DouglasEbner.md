@@ -44,9 +44,8 @@ Apaixonado por programação e tecnologia, sempre em busca de novos desafios. At
 - [**Gerenciador de Estoque**](https://github.com/seu-usuario/SistemaEstoque): Pequeno sistema de gerenciamento de estoque com exportação para Excel usando SQLite.
 
 ## 📫 Como me encontrar
-- Email: [douglas@gmail.com](mailto:wilsonebner@gmail.com)
-- LinkedIn: [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/douglas-ebner/)
-- GitHub: [github.com/seu-usuario](https://github.com/DouglasEbner)
+- Email: [wilsonebner@gmail.com](mailto:wilsonebner@gmail.com)
+- GitHub: [github.com/DouglasEbner](https://github.com/DouglasEbner)
 
 ## 💬 Idiomas
 ![English](https://img.shields.io/badge/-English-05122A?style=flat&logo=language&logoColor=white)
