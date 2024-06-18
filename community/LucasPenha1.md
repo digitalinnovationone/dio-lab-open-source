@@ -1,4 +1,4 @@
-## Olá, me chamo Lucas Penha! 👩🏻‍💻   
+## Olá, me chamo Lucas da Penha Soares! 👩🏻‍💻   
 Mestre em Matemática pela Universidade Estadual de Maringá. Atualmente, Pós-Graduando em Engenharia de Software.
 
  🔹 Tenho grande interesse na área de desenvolvimento, análise de dados, matemática e Artificial Intelligence. 📊
