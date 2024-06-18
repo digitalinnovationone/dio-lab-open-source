@@ -35,4 +35,5 @@ Ferramentas de backlog e gerenciamento de tarefas.
 ## 🔗 Conectes comigo!
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laysiene-silva/)
-![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+![Outlook](https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+![Instagram](https://img.shields.io/badge/instagram-FFF?style=for-the-badge&logo=instagram-instagramk&logoColor=white)
