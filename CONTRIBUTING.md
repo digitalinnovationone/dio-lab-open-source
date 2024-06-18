@@ -88,6 +88,21 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
 | `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
 
+## Commit de Uso Convencional 
+
+| Comando          | Descrição                                                                                         | Exemplo                                     |
+|------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------|
+| `git help`       | Exibe ajuda sobre comandos do Git.                                                                | `git help commit`                           |
+| `git status`     | Mostra o status atual do repositório.                                                             | `git status`                                |
+| `git config`     | Configura informações do usuário.                                                                 | `git config --global user.name "Seu Nome"`  |
+|                  |                                                                                                   | `git config --global user.email "email@example.com"` |
+| `git init`       | Inicializa um novo repositório Git na pasta atual.                                                | `git init`                                  |
+| `git add`        | Adiciona arquivos para serem commitados.                                                          | `git add arquivo`                       |
+| `git add .`      | Adiciona todos os arquivos para commit.                                                           | `git add .`                                 |
+| `git commit -m`  | Cria um commit com uma mensagem específica.                                                       | `git commit -m "mensagem do commit"`        |
+| `git push`       | Envia commits locais para um repositório remoto no GitHub.                                        | `git push origin main`                      |
+| `git pull`       | Puxa arquivos do repositório remoto no GitHub para o diretório local.                             | `git pull origin main`                      |
+
 
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
