@@ -1,12 +1,12 @@
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Comic&size=25&color=aeb1d7&center=true&vCenter=true&width=700&lines=Olá!+meu+nome+é+Danielle Costa+👋💻💜;" alt="Olá, Meu nome é Danielle Costa.">
-</a>
+# Olá! Meu nome é Danielle Costa 👋💻💜
+
+## Sobre mim
 
 Sou Danielle, uma entusiasta de FrontEnd e estudante de Engenharia da Computação na Universidade Virtual de São Paulo. Iniciei minha carreira com formação em Designer de Interiores pela Universidade de Maringá, e atualmente estou em uma transição para o universo da tecnologia.  
   
 Atualmente, estou explorando e aprimorando minhas habilidades em HTML, CSS, JavaScript, C++ e mais. Embora minha jornada profissional esteja no início, tenho dedicado tempo a projetos acadêmicos, onde pude aplicar essas tecnologias e desenvolver soluções criativas.
 
-###  Meu aprendizado
+##  Meu aprendizado
 
 <div>
 <img alt="HTML" height="30" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
