@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Comic&size=25&color=aeb1d7 &center=true&vCenter=true&width=700&lines=Olá!+meu+nome+é+Danielle Costa+👋💻💜;" alt="Olá, Meu nome é Danielle Costa.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Comic&size=25&color=aeb1d7&center=true&vCenter=true&width=700&lines=Olá!+meu+nome+é+Danielle Costa+👋💻💜;" alt="Olá, Meu nome é Danielle Costa.">
 </a>
 
 Sou Danielle, uma entusiasta de FrontEnd e estudante de Engenharia da Computação na Universidade Virtual de São Paulo. Iniciei minha carreira com formação em Designer de Interiores pela Universidade de Maringá, e atualmente estou em uma transição para o universo da tecnologia.  
