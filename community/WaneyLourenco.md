@@ -6,7 +6,7 @@
 
 
  <h2>Sobre mim</h2> 
-Estudante de Análise e Desenvolvimento de Sistemas pela Universidade Tiradentes. Entusiasta tecnológico.
+Estudante de Análise e Desenvolvimento de Sistemas pela Universidade Tiradentes e Entusiasta tecnológico.
 
 <h2>Redes Sociais</h2>
 
