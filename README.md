@@ -1,4 +1,4 @@
-# First Project
+# Open Source Project
 
 Heyo communit. My name is Felipe, I'm study Eletrical Engineering and enjoy programming. For now, I just practice, but I'm open to work.
 
