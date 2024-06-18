@@ -22,15 +22,9 @@ Conhecimento de ferramentas de gestão ágil como:
 ![Azure](https://img.shields.io/badge/azure-%23121011.svg?style=for-the-badge&logo=azure&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/servicenow-%23107C10.svg?style=for-the-badge&logo=servicenow&logoColor=white)
 
-* Jira 
-* Asana 
-* ServiceNow 
-* Azure 
 Ferramentas de backlog e gerenciamento de tarefas.
 
 ## 🛠 **Habilidades Técnicas**
-- **JAVA, GIT e GITHUB**
-
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/git-B71C1C.svg?style=for-the-badge&logo=git&logoColor=white)
