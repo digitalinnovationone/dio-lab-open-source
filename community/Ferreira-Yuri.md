@@ -5,12 +5,13 @@
 
 Olá, me chamo Yuri, sou estudante de S.I e atualmente não trabalho na área. Estou por aqui para criar um portifólio e adquirir conhecimento suficiente para emergir no mercado de trabalho!
 ### Soft and hard skills
-|**Soft** |  **Hard** |      
-:----|  |:----:|
-|Communication| Java|
-|Teamwork | SQL|
-|Creative|Agile methodologies|
-|Adaptability| Learn Git and GitHub|
+| Soft Skills    | Hard Skills          |
+| -------------- | -------------------- |
+| Communication  | Java                 |
+| Teamwork       | SQL                  |
+| Creative       | Agile methodologies  |
+| Adaptability   | Learn Git and GitHub |
+
 
 ## 💻 Redes sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Ferreira-Yurii/)
