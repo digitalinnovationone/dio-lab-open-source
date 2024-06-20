@@ -2,7 +2,7 @@
 
 ## Português (pt-br)
 
-Olá! Meu nome é Fabiano, tenho 29 anos e sou policial militar. Recentemente, decidi seguir minha paixão e migrar para a área que sempre amei: a programação.
+Olá! Meu nome é Fabiano Moreira, tenho 29 anos e sou policial militar. Recentemente, decidi seguir minha paixão e migrar para a área que sempre amei: a programação.
 Estou cursando Engenharia de Software, bem como também estou estudando em paralelo: Java, Python e Full Stack DevWeb.
 Pretendo me dedicar, para o quanto antes conseguir deixar a vida de militar no passado, e trabalhar com o que sempre gostei!
 
