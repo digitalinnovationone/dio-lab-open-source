@@ -1,5 +1,5 @@
 # Roselei Brancher
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindos+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/typing-svg)
 
 ### Me chamo Roselei e gostaria de fazer parte do time. Fazer parte da equipe significa um ambiente propício para o desenvolvimento profissional, com programas de treinamento, mentoria e possibilidades de avanço na carreira com uma marca reconhecida e valorizada no mercado.
 Eu teria a chance de expandir minhas habilidades e alcançar novos patamares dentro da organização e com a organização. Trabalhar como Especialista em Power BI, significa contribuir para análises e tomadas de decisão que impactam milhões de clientes e influenciam diretamente os rumos dos setores da empresa. Eu estaria envolvida, empenhada, 
@@ -10,21 +10,21 @@ Na programação tenho ótimos conhecimentos de Front-end com tecnologias como: 
 Próximos passos: Estudar e aperfeiçoar meus conhecimentos em Power BI, Análise de Dados e continuar a realizar projetos de qualidade e alta performance com essas tecnologias..
 Em resumo, fazer parte do time em uma vaga de Especialista de Power BI, pode ser uma combinação única de oportunidades de crescimento profissional, impacto significativo e um ambiente de trabalho estimulante e colaborativo.
 
-##Formação
+# Formação
 ### Formada em Análise e Desenvolvimento de Sistemas na UNIGRAN - DOURADOS/MS.
 ### Cursos pela DIO - Data Analystics com Power BI e Power BI Analyst, Outsystems Fundamentals.
 
 
-## Conecte-se Comigo!
+# Conecte-se Comigo!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/roselei-brancher/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/roseleibrancher/) 
 
-## Linguagens
+# Linguagens
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
 
-## Ferramentas
+# Ferramentas que domino
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Outsystems](https://seeklogo.com/images/O/outsystems-logo-6C679CFE75-seeklogo.com.pngColor=007ACC&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
@@ -34,4 +34,4 @@ Em resumo, fazer parte do time em uma vaga de Especialista de Power BI, pode ser
 
 ## GitHub Stats
 
-![RoseleiBrancher's GitHub stats](https://github-readme-stats.vercel.app/api?username=1amAlan&theme=tokyonight&_icons=true&hide_title=true)
+![RoseleiBrancher's GitHub stats](https://github-readme-stats.vercel.app/api?username=1amRoseleiBrancher&theme=tokyonight&_icons=true&hide_title=true)
