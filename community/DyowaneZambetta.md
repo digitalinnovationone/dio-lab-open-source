@@ -13,8 +13,8 @@ Sou um ex Analista de Laboratorio Químico em transição de carreira para a ár
 
  <div align="center">
   <a href="https://github.com/DyowaneZambetta">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DyowaneZambetta&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&bg_color=1,000000,16537e&title_color=fff&text_color=fff&icon_color=16537e&border_radius=0&hide=stars"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyowaneZambetta&layout=compact&langs_count=7&theme=chartreuse-dark&bg_color=1,16537e,000000&title_color=fff&text_color=fff&border_radius=0"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=DyowaneZambetta&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&bg_color=1,000000,16537e&title_color=fff&text_color=fff&icon_color=16537e&border_radius=0&hide=stars"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyowaneZambetta&layout=compact&langs_count=7&theme=chartreuse-dark&bg_color=1,16537e,000000&title_color=fff&text_color=fff&border_radius=0"/>
 </div>
 
 
@@ -59,4 +59,3 @@ Sou um ex Analista de Laboratorio Químico em transição de carreira para a ár
 </p>
 
 <div>
-          
