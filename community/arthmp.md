@@ -1,4 +1,4 @@
-# JPlyra24
+# arthmp
 
 Oi, me chamo Arthur Martins, sou estudante de Ciência da Computação pela Universidade de Brasília, e esse é o desafio
 "Contribuindo em um Projeto Open Source no GitHub" da Digital Innovation One.
@@ -16,5 +16,5 @@ Oi, me chamo Arthur Martins, sou estudante de Ciência da Computação pela Univ
 
 ## Stats
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/arthmp/Analise-de-dados)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arthmp&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=arthmp&repo=Analise-de-dados&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/arthmp/Analise-de-dados)
