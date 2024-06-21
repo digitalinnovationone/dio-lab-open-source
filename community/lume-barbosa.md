@@ -21,3 +21,4 @@
 - Machine Learning
 - PowerBI
 - SQL
+- Git & Github
