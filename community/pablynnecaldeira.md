@@ -9,7 +9,7 @@
 <br>
 
 ## 👩‍💻 Sobre mim <br>
-🎓 Estudante de Análise e Desenvolvimento de Sistemas. <br>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
 📚 Apaixonada por tecnologia, programação e resolver problemas através de soluções criativas. <br>
 🔍 Explorando o vasto mundo do desenvolvimento de software, por meio do backend e frontend.<br>
 🌱 Sempre em busca de aprender algo novo e aprimorar minhas habilidades. <br>
