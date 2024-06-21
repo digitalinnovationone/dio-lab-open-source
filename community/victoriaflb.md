@@ -8,7 +8,7 @@
 
 <br>Estudante de Análise e Desenvolvimento de Sistemas e atualmente estou focando no Back-End.
 
-
+<br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/villagenginx/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maria-vict%C3%B3ria-farias-683810261/) 
 
