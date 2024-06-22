@@ -5,7 +5,7 @@
 
 🔹 Meus principais interesses são: Gestão da Qualidade, Análise de Dados, Automação de Processos e Ferramentas de Visualização de Dados.
 
-🌺 Em relação a quem de fato sou eu: sou apaixonada por animes, jogos e artes manuais. Tenho uma loja de amigurumi e aquarela pet.
+🌺 Em relação aos meus gostos pessoais: sou apaixonada por animes, jogos e artes manuais. Tenho uma loja de amigurumi e aquarela pet.
 
 ## 📚 Atualmente estou estudando...
 
