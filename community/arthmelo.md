@@ -1,4 +1,4 @@
-# > Bem-vindo ao meu perfil do GitHub! (=
+# Bem-vindo ao meu perfil! (=
 
 ## Sobre mim
 Olá! Meu nome é Arthur de Melo Barbosa e sou estudante de graduação em Ciência da Computação na Universidade Federal do Rio de Janeiro (UFRJ). Estou interessado em diversas áreas dentro da computação, com foco especial em Ciência de Dados e Inteligência Artificial.
