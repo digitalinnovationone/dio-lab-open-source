@@ -1,6 +1,6 @@
-[Denise Vittorello]
+Olá, eu sou Denise Vittorello 
 
-Sou estudante com interesse em aprender e dominar a linguagem de programação. 
+Estudante com interesse em aprender e dominar a linguagem de programação. 
 Estou atualmente cursando [Análise de Desenvolvimento de Sistemas] na [Unifil Universidade], onde estou adquirindo uma base sólida em desenvolvimento de software.
 
 Objetivo:
