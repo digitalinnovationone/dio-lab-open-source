@@ -17,6 +17,8 @@ Tenho estudado programação há alguns meses e, atualmente, tenho afinidade com
 
 Sou um estudante dedicado, buscando constantemente novas oportunidades para crescer e aprender, e tenho certeza de que a tecnologia é o caminho para transformar minha realidade e alcançar meus objetivos profissionais.
 
+E espero conseguir fazer o pullrequest
+
 ## **English**
 
 I'm Carlos Daniel Carvalho da Silva, an Information Systems student. I've always had a passion for technology and computers, and this passion has driven me to seek a change in my financial situation through the study of programming.
