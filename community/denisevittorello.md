@@ -3,7 +3,6 @@ Olá, eu sou Denise Vittorello
 Estudante com interesse em aprender e dominar a linguagem de programação. 
 Estou atualmente cursando [Análise de Desenvolvimento de Sistemas] na [Unifil Universidade], onde estou adquirindo uma base sólida em desenvolvimento de software.
 
-Objetivo:
 Meu objetivo é desenvolver habilidades práticas em Java para criar aplicações eficientes e resolver problemas do mundo real. 
 Estou motivado para aprofundar meus conhecimentos e me tornar um desenvolvedor competente
 
