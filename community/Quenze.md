@@ -1,4 +1,4 @@
-## Olá, eu sou Ingrid Alves Moreira (Quenze) 
+## Olá, eu sou Ingrid Alves Moreira (Quenze) 👋
 
 🎓 Sou Fonoaudióloga de formação em processo de **transição de carreira** para o mundo da tecnologia.
 
