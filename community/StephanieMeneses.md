@@ -1,4 +1,4 @@
-STEPHANIE SOUSA
+STEPHANIE MENESES
 
     Desenvolvedora Backand
     Estudando Java, Python, JavaScript e alguns frameworks como SpringBoot.
