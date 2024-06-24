@@ -13,6 +13,7 @@ Bem-vindo ao meu perfil no GitHub! Sou Analista de implantação e suporte, com 
 
 - **Linguagens de Programação:** 
     - ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+    - ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
 
 - **Frameworks e Bibliotecas:**
   - ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
@@ -30,7 +31,7 @@ Bem-vindo ao meu perfil no GitHub! Sou Analista de implantação e suporte, com 
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SeuUsername&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=agsilvamhm&show_icons=true&theme=radical)
 
 ## 🏆 Conquistas no GitHub
 
@@ -38,8 +39,8 @@ Bem-vindo ao meu perfil no GitHub! Sou Analista de implantação e suporte, com 
 
 ## 📫 Contato
 
-- LinkedIn: [agsilvamhm](https://www.linkedin.com/in/agsilvamhm)
-- Email: [Seu Email](mailto:agsilva.mhm@gmail.com)
+- LinkedIn: [www.linkedin.com/in/agsilvamhm](https://www.linkedin.com/in/agsilvamhm)
+- Email: [agsilva.mhm@gmail.com](mailto:agsilva.mhm@gmail.com)
 
 ---
 
