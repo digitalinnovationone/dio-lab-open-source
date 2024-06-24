@@ -1,4 +1,4 @@
-# Olá! Meu nome é Jacques Roberto da Silva
+# Olá! Meu nome é Jacques Roberto
 
 Atualmente, atuo como Analista de Infraestrutura Sênior no Hospital Felício Rocho, em Belo Horizonte - MG. Com as seguintes atribuições:
  - Gestão de Servidores
