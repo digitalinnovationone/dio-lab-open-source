@@ -1,6 +1,7 @@
 ## Olá!
 
 Meu nome é Denilson Araujo.
+Estudo na estácio e também faço boot camp na DIO.
 
 - 👩🏻‍💼 Sou estudante de Gestão da tecnologia da informação;
 - 📍 Em transição de carreira para a área de programação;
