@@ -2,7 +2,7 @@
 
 ## BIO:
 
-Meu nome é Luana Teodósio, sou uma estudande independente sobre tecnologia e outras áreas. Com formação em Física estou buscando migrar de carreira para a área de cybersegurança, no geral, trabalhar com tecnologia.
+Meu nome é Luana Teodósio, sou uma estudante independente sobre tecnologia e outras áreas. Com formação em Física estou buscando migrar de carreira para a área de cybersegurança, no geral, trabalhar com tecnologia.
 
 
 ## Conecte-se comigo:
