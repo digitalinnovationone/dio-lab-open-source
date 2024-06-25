@@ -79,17 +79,23 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
     
 ## Convenção de Commits 
 
-| Tipo de Commit |Descrição                                                            | Exemplo
-| ---------------|----------------------------------------------------------------------|-----------
-| `feat`         | Adiciona uma nova funcionalidade ao projeto.                         | `feat: add USENAME.md profile`
-| `fix`          | Corrige um bug ou problema no projeto.                               | `fix: fixed issue fix#IssueNumber`
-| `docs`         | Altera a documentação do projeto.| `docs: update README.md`
-| `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         | `style: add EFFECTNAME to COMPONENT`
-| `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
-| `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
+| Tipo de Commit | Descrição                                                             | Exemplo                                      |
+| ---------------|-----------------------------------------------------------------------|----------------------------------------------|
+| `feat`         | Adiciona uma nova funcionalidade ao projeto.                          | `feat: add USENAME.md profile`               |
+| `fix`          | Corrige um bug ou problema no projeto.                                | `fix: fixed issue fix#IssueNumber`           |
+| `docs`         | Altera a documentação do projeto.                                     | `docs: update README.md`                     |
+| `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.          | `style: add EFFECTNAME to COMPONENT`         |
+| `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.          | `refactor: refactor at CLASSNAME`            |
+| `test`         | Adiciona ou modifica testes no projeto.                               | `test: add unit test for UserService`        |
+| `chore`        | Tarefas de manutenção do código que não alteram o comportamento.      | `chore: update dependencies`                 |
+| `perf`         | Melhora o desempenho do código.                                       | `perf: optimize image loading`               |
+| `build`        | Alterações que afetam o sistema de build ou dependências externas.    | `build: update webpack config`               |
+| `ci`           | Mudanças em arquivos e scripts de configuração de CI (Continuous Integration). | `ci: add TravisCI configuration`        |
+| `revert`       | Reverte um commit anterior.                                           | `revert: revert commit d4f5e9a`              |
 
 
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
 - [CONVENTIONAL COMMITS. Summary](https://www.conventionalcommits.org/en/v1.0.0/)
 - [GITHUB. Configurar diretrizes para os contribuidores do repositório](https://docs.github.com/pt/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
+
