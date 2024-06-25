@@ -7,7 +7,7 @@ Sou um cristão praticante e valorizo os princípios de justiça e disciplina qu
 ## Conecte-se comigo
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcelo-de-santana)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/marcelondesantana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/marcelodesantana)
 
 
 ## Habilidades
