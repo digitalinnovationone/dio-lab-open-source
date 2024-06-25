@@ -11,7 +11,7 @@ Para saber mais sobre o meu percurso profissional, deixarei abaixo o meu Linkedi
 
 #### Muito Obrigado &#129309;
 
-##  Conecte-se comigo
+###  Conecte-se comigo
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/analide-santos-80308b112)
 
 ## Habilidades
