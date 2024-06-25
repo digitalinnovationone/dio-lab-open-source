@@ -1,6 +1,5 @@
 # Jefferson Bandeira Barbosa
 
-
 ### Sobre mim
 
 <p align="justify">Atualmente trabalho em uma distribuidora.
