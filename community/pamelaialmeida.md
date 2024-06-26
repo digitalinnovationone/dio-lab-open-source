@@ -4,7 +4,7 @@
 <section>
   <h2>About me</h2>
 
-  - 🔭 I’ve been working in IT are 15+ years, 12+ years of those with **Quality Assurance**
+  - 🔭 I’ve been working in IT for 15+ years, 12+ years of those with **Quality Assurance**
 
   - 🎯 I've worked **leading QA teams with up to 13 people for 11 years**
 
