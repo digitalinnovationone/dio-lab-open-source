@@ -6,7 +6,7 @@
 
 
  <h2>Sobre mim</h2> 
-Estudante de Análise e Desenvolvimento de Sistemas e apaixonado pro tecnologia. Gosto muito do Full-Stack, porém estou focando mais no Front-End.
+Estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia. Gosto muito do Full-Stack, porém estou focando mais no Front-End.
 
 <h2>Redes Sociais</h2>
 
