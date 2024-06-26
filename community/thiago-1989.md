@@ -16,7 +16,7 @@
 
 
 
-<p align="justify">👨‍💻Graduando em <strong>Tecnologia da Informação</strong>, meu primeiro contato com uma linguagem de programação foi em 2022 aos 33 anos, em seguida comecei a estudar Lógica de Programação, no inicio de 2023 ingressei na faculdade, comecei a cursar Análise e Desenvolvimento de Sistemas na Uninove e no semestre seguinte, migrei para a UNIVESP.
+<p align="justify">👨‍💻Graduando em <strong>Tecnologia da Informação</strong>, meu primeiro contato com uma linguagem de programação foi em 2022 aos 33 anos através de um app do Google que ensinava JavaScrip, em seguida comecei a estudar Lógica de Programação, no inicio de 2023 ingressei na faculdade, comecei a cursar Análise e Desenvolvimento de Sistemas na Uninove e no semestre seguinte, migrei para a UNIVESP.
 
 ### Skills
 
