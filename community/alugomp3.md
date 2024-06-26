@@ -1,5 +1,8 @@
 # :sparkles: Seja bem-vindo(a)! :vulcan_salute:
 
+Hello There!!
+Meu chamo Maurício Almeida, gosto de computação, programação, montagem e manutenção, arduíno, jogos, animes  e séries, caso tenha algum interesse em comum só mandar um alow zo/ 
+
 - :computer: Analista de infraestrura +7XP
 - :computer: Desenvolvedor Backend Python +2XP
 - :mortar_board: Bacharel Sistemas de informação - UFSM
@@ -38,3 +41,6 @@
 ### System
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BelithB&theme=transparent&bg_color=00253f&border_color=fff&show_icons=true&icon_color=91ff95&title_0e7a8=91ff95&text_color=fff)
