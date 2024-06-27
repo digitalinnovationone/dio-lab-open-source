@@ -1,0 +1,228 @@
+[33mcommit edddfa7ee84243d79941650c82852b706c74368c[m[33m ([m[1;36mHEAD -> [m[1;32mfeat/community/irlanseixas[m[33m)[m
+Author: irlan <irlanvish@gmail.com>
+Date:   Thu Jun 27 15:39:46 2024 -0300
+
+    feat: add irlanseixas profile
+
+[33mcommit 3dd5a4fc26b3a9fd3423772aa7ad7a072285372b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/Irlanseixas[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: e8c9f1249 97f9364c4
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Jun 26 18:34:01 2024 +0000
+
+    Merge pull request #40198 from Solmayer-Alves/feat/community/Solmayer-Alves
+
+[33mcommit 97f9364c404f3ab08eacba9efcc0b468e0c5bd87[m
+Author: Solmayer Alves <solmayer.alves@gmail.com>
+Date:   Wed Jun 26 15:24:51 2024 -0300
+
+    feat: add Solmayer-Alves profile
+
+[33mcommit e8c9f1249e5ea112093f5ac69ae77d9ed8a80dae[m
+Merge: ff40a481b 59d44c498
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Jun 26 18:16:58 2024 +0000
+
+    Merge pull request #40197 from DevKaylane/feat/community/DevKaylane
+
+[33mcommit ff40a481b75ae1b8a05c8967c7f7f2c0264a7b4e[m
+Merge: 254c03e8d 7165b382e
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Jun 26 18:09:42 2024 +0000
+
+    Merge pull request #40196 from JamMatos/feat/community/jamil_matos
+
+[33mcommit 59d44c4985fa1f69eb263e591f8485364e889f50[m
+Author: Kaylane <kah.pereira027@gmail.com>
+Date:   Wed Jun 26 15:01:41 2024 -0300
+
+    feat: add DevKaylane profile
+
+[33mcommit 7165b382ee34f79a4c24bb6b6aee6b7f7e503961[m
+Author: Jam <jamil.matos7@gmail.com>
+Date:   Wed Jun 26 14:50:16 2024 -0300
+
+    feat: add JamMatos profile
+
+[33mcommit 254c03e8dc4bb00759ea1e968e5f72f8b74f99bf[m
+Merge: c1eaf68fb 418bfabd9
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Jun 26 17:34:31 2024 +0000
+
+    Merge pull request #40194 from Rafailusion/feat/community/Rafailusion
+
+[33mcommit 418bfabd9039a5a2c179a3440b3387cb61a95a37[m
+Author: RAFAEL CÉSAR PRESTES RAPOSO <116605939+Rafailusion@users.noreply.github.com>
+Date:   Wed Jun 26 14:31:40 2024 -0300
+
+    Create Rafailusion.md
+
+[33mcommit c1eaf68fbbd77caf827d7a3988b077ec21b3716f[m
+Merge: 94cfb1b07 5dd816a7f
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Jun 26 17:17:44 2024 +0000
+
+    Merge pull request #40192 from TMMichaelsen/feat/community/tmmichaelsen
+
+[33mcommit 5dd816a7fee8912f6354499c558344b2205e5321[m
+Author: Thiago Manata Michaelsen <herrtmm@proton.me>
+Date:   Wed Jun 26 14:17:18 2024 -0300
+
+    feat: Renamed for Case Sensitive check
+
+[33mcommit ab0b514c13d2dead0453d0cbab372f9d2f28ecc6[m
+Author: Thiago Manata Michaelsen <herrtmm@proton.me>
+Date:   Wed Jun 26 14:13:36 2024 -0300
+
+    feat: create tmmichaelsen.md
+
+[33mcommit 94cfb1b07bd1f9ecc10a235b02e312c779006cfb[m
+Merge: 5888eef14 0d32602e2
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Jun 26 17:08:22 2024 +0000
+
+    Merge pull request #40191 from lalaDevil/feat/community/lalaDevil
+
+[33mcommit 0d32602e2b586edcd209048a96daa1a832fbad06[m
+Author: Elaine Gomes <elainemg14@gmail.com>
+Date:   Wed Jun 26 13:58:57 2024 -0300
+
+    feat: add lalaDevil profile
+
+[33mcommit 5888eef14898202a12d818b4718f6a90f108f3ac[m
+Merge: 6282839aa 196080b42
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Jun 26 16:57:22 2024 +0000
+
+    Merge pull request #40190 from fariaswp/main
+
+[33mcommit 6282839aa033244b0aece0e4968f282c601e5a20[m
+Merge: c8fc3873d 538ddd906
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Jun 26 16:51:05 2024 +0000
+
+    Merge pull request #40181 from GustavoMMayer/main
+
+[33mcommit 538ddd90629b88e952ecf270a2ecffa3efd40682[m
+Author: Gustavo Mayer <112580442+GustavoMMayer@users.noreply.github.com>
+Date:   Wed Jun 26 13:50:40 2024 -0300
+
+    Rename gustavommayer.md to GustavoMMayer.md
+
+[33mcommit 196080b42ada0fa99d305e38af562af3301784f7[m
+Author: Wendell Pereira de Farias <farias.wendell@gmail.com>
+Date:   Wed Jun 26 13:50:00 2024 -0300
+
+    Create fariaswp.md
+    
+    Add profile readme.
+
+[33mcommit c8fc3873dea76d33626fc59b161ae3b44afd57ee[m
+Merge: 11994fc41 38390fc81
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Jun 26 16:22:45 2024 +0000
+
+    Merge pull request #40189 from luisffarias-dev/feat/community/luisffarias-dev
+
+[33mcommit 11994fc410bffd985a77d928a0689ee9463221a8[m
+Merge: a349d6c9e 55546a878
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Jun 26 16:20:29 2024 +0000
+
+    Merge pull request #40188 from KAUZ1NNN/main
+
+[33mcommit 38390fc81d285c67ae9d35699d8ce40bb28fb612[m
+Author: luisffarias-dev <luisfffarias27@gmail.com>
+Date:   Wed Jun 26 13:20:12 2024 -0300
+
+    Create luisffarias-dev.md
+
+[33mcommit 55546a878da54a78a0401360ae907f808c1a2d89[m
+Author: KAUZ1NNN <98913894+KAUZ1NNN@users.noreply.github.com>
+Date:   Wed Jun 26 13:08:11 2024 -0300
+
+    Create KAUZ1NNN.md
+
+[33mcommit a349d6c9e9aac85c60a19b568a74644a10805b5e[m
+Merge: 3d9dd28bc 5ff262ca2
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Jun 26 15:56:46 2024 +0000
+
+    Merge pull request #40187 from Mister-Guedes/main
+
+[33mcommit 5ff262ca2655f96ba67c3c33800cd63cb6806fc2[m
+Author: Arthur Guedes <143677332+Mister-Guedes@users.noreply.github.com>
+Date:   Wed Jun 26 12:45:58 2024 -0300
+
+    feat: add Mister-Guedes profile
+
+[33mcommit 3d9dd28bc91d2715518c1d44f28a95613aa9261a[m
+Merge: 7ef04899f 0133710d5
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Jun 26 15:45:44 2024 +0000
+
+    Merge pull request #40186 from lipecattani/feat/community/lipecattani
+
+[33mcommit 0133710d563fb97dfbe6c8a69cf823fdafd1eee6[m
+Author: Felipe Cattani <lipecattani@gmail.com>
+Date:   Wed Jun 26 12:44:02 2024 -0300
+
+    feat: add lipecattani profile
+
+[33mcommit 7ef04899f245c6e3dec572cba3341c2e446785db[m
+Merge: 5725d80e9 370e85e77
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Jun 26 15:40:43 2024 +0000
+
+    Merge pull request #40185 from thiago-1989/patch-1
+
+[33mcommit 370e85e77b9b4b06fc33a452a4daed305daa45c7[m
+Author: Thiago Silva de Oliveira <132413991+thiago-1989@users.noreply.github.com>
+Date:   Wed Jun 26 12:40:04 2024 -0300
+
+    Update thiago-1989.md
+
+[33mcommit 5725d80e91e5591a58e64a7d442976670b10ec31[m
+Merge: 9c1149941 ae69e680e
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Jun 26 15:33:06 2024 +0000
+
+    Merge pull request #40184 from thiago-1989/feat/community/thiago-1989
+
+[33mcommit ae69e680e7d133cae9063c9ef0d1c23207299520[m
+Author: Thiago Oliveira <thiagodevoliveira@hotmail.com>
+Date:   Wed Jun 26 12:26:40 2024 -0300
+
+    feat: add thiago-1989 profile
+
+[33mcommit 9c1149941211a038cd77b126e79044b5ef03d8c7[m
+Merge: 1b8f46f9f 42cb83023
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Jun 26 15:14:49 2024 +0000
+
+    Merge pull request #40183 from tgpolloni/feat/community/tgpolloni
+
+[33mcommit 42cb83023c0bf5a04b3342cdc129b26e0c069b8b[m
+Author: Polloni Tiago (RSE-ext) <POLLONI@rse-web.it>
+Date:   Wed Jun 26 17:07:02 2024 +0200
+
+    feat: add tgpolloni profile
+
+[33mcommit 1b8f46f9f4a793e175be70ccdd52ef752a260fd9[m
+Merge: 2225d5ccd b47283b15
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Jun 26 15:04:55 2024 +0000
+
+    Merge pull request #40182 from arcelino1997/feat/community/arcelino1997
+
+[33mcommit b47283b1584a34fc4f94988d341c4b514f271892[m
+Author: Arcelino <a.santos.contact@gmail.com>
+Date:   Wed Jun 26 11:57:05 2024 -0300
+
+    feat: add arcelino1997 profile
+
+[33mcommit b5edee9af5a40f853eaef29fae7e9c99b9849e54[m
+Merge: 3601383e8 2225d5ccd
+Author: Gustavo Mayer <112580442+GustavoMMayer@users.noreply.github.com>
+Date:   Wed Jun 26 11:54:37 2024 -0300
+
+    Merge b
