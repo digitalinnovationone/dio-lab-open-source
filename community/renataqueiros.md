@@ -4,7 +4,7 @@
 >Olá! Meu nome é Renata, e sou uma entusiasta da programação. Desde criança, sempre fui fascinada pela lógica por trás dos códigos e pela maneira como as máquinas processam informações. No entanto, a vida me levou por outros caminhos, e acabei seguindo áreas diferentes.
 Recentemente decidi voltar às minhas raízes e retomar meus estudos em programação, e encontrei nesse projeto do Bootcamp Santander uma ótima oportunidade para iniciar a minha jornada. 
 
-## Conecte-se comigo
+## Conecte-se comigo!
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RenataQueiros)    [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:renatinhauno20@gmail.com)
  
@@ -17,6 +17,7 @@ Recentemente decidi voltar às minhas raízes e retomar meus estudos em programa
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RenataQueiros&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RenataQueiros&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RenataQueiros/dio-lab-open-source)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RenataQueiros/RenataQueiros/output/github-contribution-grid-snake-dark.svg">
