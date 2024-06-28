@@ -1,5 +1,5 @@
 # Olá, me chamo Saulo Neemias Santana, mais conhecido como "Saulor"!
-Sou estudante de Análise e Desenvolvimento de Sistemas e comecei a estudar programação por conta própria a 5 meses.
+Sou estudante de Análise e Desenvolvimento de Sistemas e comecei a estudar programação por conta própria a 5 meses e gostando muito do processo.
 
 ##
 ### Minhas Estatísticas no GitHub:
