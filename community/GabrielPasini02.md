@@ -1,4 +1,4 @@
-### Olá, eu sou Gabriel Pasini (GabrielPasini02) 😁
+### Olá, eu sou Gabriel Pasini! (GabrielPasini02) 😁
  Sou um aprendiz em programação em constante busca por conhecimento e evolução. Atualmente, estou embarcando na jornada de me tornar um desenvolvedor de software, buscando aprender e aplicar novos conhecimentos todos os dias. Estou dedicado a resolver problemas complexos e criar soluções inovadoras através do código.
 
 ### 🛜 Conecte-se comigo
