@@ -49,7 +49,7 @@
 <p align="justify">
     Ainda não usamos tanto o Git quanto o Git Hub nos nossos projetos como deveríamos, e fazendo esse curso estou muito entusiasmado para implantar essa cultura entre toda a equipe. Além dessa ação que é a mais trivial, penso também que posso disponibilizar os recursos de “issues” para a equipe de suporte os quais não são programadores, mas executam testes de sistemas. Vou tentar deixar o ambiente o mais simplificado possível para que eles não tenham dificuldade ao usar a ferramenta.
 
-    Segue o link para o repositório onde explico como utilizar a ferramenta para esse fim:    
+    Segue o link para o repositório onde explico como utilizar a ferramenta para essa finalidade:    
 </p>
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=renatorocha-git&repo=issues-para-testadores&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/renatorocha-git/issues-para-testadores)
