@@ -1,7 +1,4 @@
 
-
-#                                      <u><img src="E:\Abner\Fotos\IMG_20220709_163811_684.jpg" alt="👨🏽‍💻  Abner Rodrigo" style="zoom:10%;" /></u>
-
 #                          👨🏽‍💻Abner Rodrigo
 
 - ## Sobre mim
