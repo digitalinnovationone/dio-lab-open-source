@@ -2,21 +2,11 @@
 <div>
     <div>
 
-[![Typing SVG](https://typewriter-orpin.vercel.app/typewriter/?font=JetBrains+Mono&weight=600&duration=4500&pause=400&color=A4AC06&center=false&width=435&lines=Prazer%2C+me+chamo+Kaw%C3%AA+Phelipe!;(username%3A+ewkekw)+%F0%9F%92%AC;Back-end+Developer+%3C+%2F+%3E)](https://github.com/DannyAlas)
+[![Typing SVG](https://typewriter-orpin.vercel.app/typewriter/?font=JetBrains+Mono&weight=600&duration=4500&pause=400&color=a4bd00&center=false&width=435&lines=Prazer%2C+me+chamo+Kaw%C3%AA+Phelipe!;(username%3A+ewkekw)+%F0%9F%92%AC;Back-end+Developer+%3C+%2F+%3E)](https://github.com/DannyAlas)
 
-🎓 Graduando em Engenharia de Software.
+- 🎓 Graduando em Engenharia de Software.
+- 💻 Estagiando como desenvolvedor back-end.
 
-💻 Estagiando como desenvolvedor back-end.
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewkekw/) 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ewkekw/)
-    </div> <div>
-    ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ewkekw&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-    </div>
-</div>
-
-
-  
 ## Habiliades e Tecnologias
 
 ### Linguagens
@@ -46,6 +36,14 @@
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ## Estatísticas
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ewkekw&bg_color=0A0A0A&border_color=a4bd00&title_color=ff0066&text_color=FFF)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ewkekw&card_height=284&locale=pt_BR&background=0A0A0A&border=A4BD00&stroke=A4BD00&sideLabels=FFF&ring=FF0066&fire=FFF&currStreakNum=FB8C00&sideNums=EBEBEB&currStreakLabel=FB8C00)](https://git.io/streak-stats)
+  <img height=281 src="https://github-readme-stats.vercel.app/api?username=ewkekw&include_all_commits=true&bg_color=0A0A0A&border_color=a4bd00&show_icons=true&icon_color=FF0066&title_color=a4bd00&text_color=FFF" />
+</a>
+
+## Conecte-se comigo
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewkekw/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ewkekw/)
 
 
 
