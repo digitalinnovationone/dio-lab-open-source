@@ -6,7 +6,7 @@ I'm a technology professional with diverse experience in Customer Experience and
 
 #### Mercado Livre (2021)
 
-Worked in the Customer Experience department in the financial sector. My responsibilities included handling financial fraud, suspicious purchases, account risk analysis, and processing refunds.
+I have been worked in the Customer Experience department in the financial sector. My responsibilities included handling financial fraud, suspicious purchases, account risk analysis, and processing refunds.
 
 #### Claro Brasil S/A (2022)
 
