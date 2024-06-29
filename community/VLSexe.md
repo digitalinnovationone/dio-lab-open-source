@@ -18,11 +18,9 @@ Sou programador profissional desde 2021 e tenho programado com: Java|Python|GoLa
 ### Conecte-se comigo
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/victorlopes514)
-https://www.dio.me/users/victorlopes514
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](victorlopes514@yahoo.com.br)
-victorlopes514@yahoo.com.br
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+
 
 ### Habilidades
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
