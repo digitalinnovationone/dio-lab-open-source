@@ -1,0 +1,95 @@
+/****https://github.com/MarciaMoreno/dio-lab-open-source
+Formato CSS: @import - Fontes do Google.
+Atualização: 20/05/2024****/
+.barlow-semi-condensed-light-italic {
+	font-family: "Barlow Semi Condensed", sans-serif;
+	font-weight: 300;
+	font-style: italic; }
+.dancing-script{
+	font-family: "Dancing Script", cursive;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
+	font-size: 52px;}
+.ibm-plex-mono-regular {
+	font-family: "IBM Plex Mono", monospace;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 42px;}
+.oswald{
+	font-family: "Oswald", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;}
+.pacifico-regular {
+	font-family: "Pacifico", cursive;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 36px;
+	padding-left: -20%;}
+.comfortaa{
+	font-family: "Comfortaa", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;	}  
+/****https://github.com/MarciaMoreno/dio-lab-open-source
+Formato CSS: estilo_ammi - BODY - Nazaré do Piauí /PI
+Ultima atualização: 22/05/2024 - 15:29
+*/
+p{ text-align: justify; text-indent: 32px;}
+a{text-decoration: none;}
+a:hover{box-shadow: 0px 15px 122px rgb(97, 27, 209);}
+table {border-collapse: collapse;}
+ul li{text-decoration: none;}
+/****https://github.com/MarciaMoreno/dio-lab-open-source
+Formato CSS: estilo_ammi - div - Nazaré do Piauí /PI
+Ultima atualização: 22/05/2024 - 15:29
+*/
+.logodio{ 
+	width: 100%; 
+	border-radius: 32%; 
+	margin: 4%;}
+.logodio:hover{ 
+	box-shadow: 0px 15px 122px rgb(97, 27, 209); }
+.primeira-linha-apresentação-desafio-dio{
+	font-size: 16px; }
+.emoji{ 
+	width: 40%; 
+	margin-top: -5%;
+	margin-left: 10%;
+	float: right;}
+.foto-profile{ 
+	border-radius: 42%; 
+	box-shadow: 3px 9px 39px #033, 0px 9px 119px rgb(97, 27, 209);
+	width: 100%;
+	margin-top: 30%;}
+.docs{
+	padding: 32px;
+	margin: 4%;
+	margin-left: 10%;
+	margin-top: 14%;
+	background-color:  rgb(97, 27, 209);	
+	color: rgb(253,255,163);}
+.docs:hover{ background-color: #fff; color: rgb(53,46,138)}
+.nav-doc ul li{ 
+	display: inline-block; 
+	margin-top: -12px;
+	text-decoration: none;}
+.name{
+	text-shadow: 2px 2px 5px rgb(97, 27, 209); 
+	text-align: center;}
+.temp_foot p{
+	text-align: center;
+}
+.orientadora{
+	width: 60%;
+	margin-left: 40%;
+}
+.back{
+	text-align: center;
+	margin-left: 30%;
+	background-color: rgb(97, 27, 209);
+}
+.rodape{
+	padding-left: 30%;
+}

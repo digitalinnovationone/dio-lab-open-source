@@ -1,0 +1,48 @@
+﻿
+	  
+	 /* 960px é a largura da página  */
+	 
+	.linha{
+				width: 100%;
+				margin: 0 auto;
+				overflow: auto;
+				padding: 10px 0;
+				float: center;
+				display: flex;
+				margin-top: 10%;
+			}
+	.coluna{
+				padding: 0 5px;
+			}
+		.col1{
+			width: 10% ;
+		}
+		.col2{
+			width: 20%;
+		}
+		.col3{
+			width: 30%;
+		}
+		.col4{
+			width: 40%;
+		}
+		.col5{
+			width: 50%;
+		}
+		.col6{
+			width: 60%;
+		}
+		.col7{
+			width: 70%;
+		}
+		.col8{
+			width: 80%;
+		}
+		.col9{
+			width: 90%;
+
+		}
+		.col10{
+			width: 100%;
+		}
+		
