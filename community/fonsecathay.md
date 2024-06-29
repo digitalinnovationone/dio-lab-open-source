@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente estou trabalhando/estudando com python<br>🌱 Atualmente estou aprendendo javascript/python<br>⚡ Fun fact: Sou devoradora de livros, cristã e fãgirl da nintendo <br>📧 contato:thaynarafonseca1203@gmail.com
+🔭 Atualmente estou trabalhando/estudando com python<br>🌱 Atualmente estou aprendendo javascript/python<br>⚡ Fun fact: Sou devoradora de livros, cristã e fãgirl da nintendo 😁 <br>📧 contato:thaynarafonseca1203@gmail.com
 
 
 ## 🌐 Socials:
