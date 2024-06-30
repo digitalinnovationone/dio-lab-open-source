@@ -88,6 +88,58 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
 | `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
 
+## Comandos do Sistema Operacional (SO)
+
+| **Comando** | **Descrição**
+|-------------|-------------------------------------------------------------------------------
+| `ls`        | Lista o conteúdo do diretório atual.
+| `cd`        | Muda o diretório atual para o especificado.                              
+| `pwd`       | Exibe o caminho completo do diretório de trabalho atual.                 
+| `mkdir`     | Cria um novo diretório.                                                  
+| `rmdir`     | Remove um diretório vazio.                                                
+| `rm`        | Remove arquivos ou diretórios.                                            
+| `cp`        | Copia arquivos ou diretórios.                                             
+| `mv`        | Move ou renomeia arquivos ou diretórios.                                  
+| `touch`     | Cria um novo arquivo vazio ou atualiza a data e hora de um arquivo existente.
+| `echo`      | Exibe uma linha de texto ou uma string passada como argumento.            
+| `cat`       | Exibe o conteúdo de um arquivo.                                           
+| `nano`      | Abre o editor de texto Nano para editar arquivos.                         
+| `chmod`     | Modifica as permissões de um arquivo ou diretório.                        
+| `chown`     | Modifica o proprietário de um arquivo ou diretório.                       
+| `grep`      | Pesquisa texto usando padrões.                                            
+| `find`      | Pesquisa arquivos e diretórios em uma hierarquia de diretórios.           
+| `tar`       | Arquiva vários arquivos em um único arquivo tarball.                      
+| `zip`       | Compacta arquivos em um arquivo zip.                                      
+| `unzip`     | Extrai arquivos de um arquivo zip.                                        
+| `df`        | Exibe a quantidade de espaço livre no sistema de arquivos.                
+| `du`        | Exibe o uso do espaço em disco de arquivos e diretórios.                  
+| `ps`        | Exibe uma lista de processos em execução.                                 
+| `kill`      | Envia um sinal para um processo, geralmente para terminar o processo.     
+
+## Comandos do Git
+
+|**Comando**     | **Descrição**
+|----------------|-----------------------------------------------------------------------------
+| `git init`     | Inicializa um novo repositório Git.
+| `git clone`    | Clona um repositório Git existente.
+| `git status`   | Exibe o status dos arquivos no diretório de trabalho e no índice (staging area).
+| `git add`      | Adiciona arquivos ao índice (staging area).                                 
+| `git commit`   | Salva as mudanças no repositório local.
+| `git push`     | Envia os commits do repositório local para um repositório remoto.         
+| `git pull`     | Atualiza o repositório local com as mudanças de um repositório remoto.    
+| `git fetch`    | Baixa commits, arquivos e referências de um repositório remoto.           
+| `git merge`    | Combina mudanças de diferentes ramificações.                              
+| `git branch`   | Lista, cria ou exclui ramificações.                                       
+| `git checkout` | Alterna entre ramificações ou restaura arquivos da árvore de trabalho.    
+| `git log`      | Exibe o histórico de commits do repositório.                              
+| `git diff`     | Mostra as diferenças entre commits, ramificações e arquivos.              
+| `git stash`    | Salva temporariamente as mudanças não comitadas.                          
+| `git remote`   | Gerencia repositórios remotos.                                            
+| `git tag`      | Cria, lista, exclui ou verifica tags.                                     
+| `git rebase`   | Reaplica commits em cima de outro ponto na história do repositório.       
+| `git reset`    | Redefine o índice (staging area) e a árvore de trabalho para coincidir com um commit.
+| `git rm`       | Remove arquivos do índice (staging area) e da árvore de trabalho.         
+| `git mv`       | Move ou renomeia arquivos e adiciona as mudanças ao índice (staging area).
 
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
