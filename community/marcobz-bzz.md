@@ -30,7 +30,9 @@
 
 ### Hardware
 > <a href="https://pt.wikipedia.org/wiki/Arduino" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/ArduinoLogo_%C2%AE.svg/96px-ArduinoLogo_%C2%AE.svg.png" alt="Arduino" height=30px><span style='color:darkblue;font-weight:bold;font-size:1.8em;'> Arduino</span></a>
+>
 > <a href="https://en.wikipedia.org/wiki/ESP32" target="_blank"><img src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg" alt="Esp32" height=30px><span style='color:darkblue;font-weight:bold;font-size:1.8em;'> Esp32</span></a>
+>
 > <a href="https://pt.wikipedia.org/wiki/Raspberry_Pi" target="_blank"><img src="https://assets.raspberrypi.com/static/logo-663a71244b0e42ebedb0ddd72abcae73.png" alt="Raspberry Pi" height=30px><span style='color:darkblue;font-weight:bold;font-size:1.8em;'> Raspberry Pi</span></a>
 
 ### Automação Industrial — SCADA Systems
