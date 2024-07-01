@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-santos-497219213/)
 
 ## Sobre mim
-Sou um estudante entusiasmado de Análise e Desenvolvimento de Sistemas, atualmente no terceiro semestre, e estou animado(a) em compartilhar minha paixão pela tecnologia, juntamente com minha experiência prévia na área de Suporte de T.I.
+Sou um estudante entusiasmado de Análise e Desenvolvimento de Sistemas, atualmente no terceiro semestre, e estou animado(a) em compartilhar minha paixão pela tecnologia, juntamente com minha experiência prévia na área de Suporte de T.I
 
 
 Atualmente estou desenvolvendo projetos na linguagem JAVA, recentemente finalizei o principal uma aplicação desktop onde fosse possível realizar o CRUD (Create, Read, Update e Delete) de clientes e produtos. A ideia era que fosse possível realizar vendas para os clientes com os produtos cadastrados e gerar relatório analítico e sintético das vendas em um certo período de tempo.
