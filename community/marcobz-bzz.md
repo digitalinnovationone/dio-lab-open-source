@@ -12,7 +12,8 @@
 ## Formação
 ### Mestre em Mecatrônica
 > <span style='font-size:1.2em;'>Universidade da Bahia — 2007 - 2010</span>
-> <a href="https://pt.wikipedia.org/wiki/Universidade_Federal_da_Bahia" target="_blank" style='color:darkblue;font-weight:bold;font-size:1.8em;'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Bras%C3%A3o_da_UFBA.png/300px-Bras%C3%A3o_da_UFBA.png" alt="UFBA" height=60px><sup> UFBA</sup></a> 
+>
+> <a href="https://pt.wikipedia.org/wiki/Universidade_Federal_da_Bahia" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Bras%C3%A3o_da_UFBA.png/300px-Bras%C3%A3o_da_UFBA.png" alt="UFBA" height=60px><sup style='color:darkblue;font-weight:bold;font-size:1.8em;'> UFBA</sup></a> 
 ### Engenheiro de Petróleo
 > <span style='font-size:1.2em;'>Universidade Petrobras — 1983</span>
 > [![Petrobras](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Petrobras_horizontal_logo.svg/300px-Petrobras_horizontal_logo.svg.png){height=30px}](https://pt.wikipedia.org/wiki/Petrobras)
