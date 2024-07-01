@@ -13,7 +13,7 @@
 ### Mestre em Mecatrônica
 > <span style='font-size:1.2em;'>Universidade da Bahia — 2007 - 2010</span>
 >
-> <a href="https://pt.wikipedia.org/wiki/Universidade_Federal_da_Bahia" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Bras%C3%A3o_da_UFBA.png/300px-Bras%C3%A3o_da_UFBA.png" alt="UFBA" height=60px><span style='color:darkblue;font-weight:bold;font-size:1.8em;'> UFBA</span></a> 
+> <a href="https://pt.wikipedia.org/wiki/Universidade_Federal_da_Bahia" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Bras%C3%A3o_da_UFBA.png/300px-Bras%C3%A3o_da_UFBA.png" alt="UFBA" height=60px><span style='color:darkblue;font-weight:bold;font-size:30px;'> UFBA</span></a> 
 ### Engenheiro de Petróleo
 > <span style='font-size:1.2em;'>Universidade Petrobras — 1983</span>
 >
