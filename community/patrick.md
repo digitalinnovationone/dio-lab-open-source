@@ -24,8 +24,6 @@ Essa experiência no Suporte de T.I. me permitiu aprimorar minhas habilidades de
 Através dessa experiência, fortaleci meu interesse em continuar a explorar o campo do Suporte de T.I., combinando meu conhecimento técnico em Análise e Desenvolvimento de Sistemas com a capacidade de fornecer assistência eficiente e soluções práticas aos usuários finais.
 Estou ansioso para conectar-me com profissionais da área de Análise e desenvolvimento de sistemas e suporte de T.i. 
 
-
-Obrigado(a) por visitar meu perfil! Estou ansioso para conectar-me com você e construir relacionamentos profissionais significativos nesta área fascinante e desafiadora da tecnologia.
 ## Habilidades 
 
 Spring boot, Java, Power BI, Eletroeletronica
