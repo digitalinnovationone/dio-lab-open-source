@@ -36,7 +36,7 @@
 > <a href="https://pt.wikipedia.org/wiki/Raspberry_Pi" target="_blank"><img src="https://assets.raspberrypi.com/static/logo-663a71244b0e42ebedb0ddd72abcae73.png" alt="Raspberry Pi" height=30px><span style='color:darkblue;font-weight:bold;font-size:1.8em;'> Raspberry Pi</span></a>
 
 ### Automação Industrial — SCADA Systems
-> Projetos, instrumentação, controladores, protocolos e HMIs.
+> Projetos, integração de sistemas, instrumentação, controladores, protocolos e HMIs.
 
 + + +
 
