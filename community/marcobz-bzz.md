@@ -12,26 +12,26 @@
 ## Formação
 ### Mestre em Mecatrônica
 > <span style='font-size:1.2em;'>Universidade da Bahia — 2007 - 2010</span>
-> [![UFBA](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Bras%C3%A3o_da_UFBA.png/300px-Bras%C3%A3o_da_UFBA.png){:height=50px}](https://pt.wikipedia.org/wiki/Universidade_Federal_da_Bahia) <sup style='color:darkblue;font-weight:bold;font-size:1.6em'>UFBA</sup>
+> <a href="https://pt.wikipedia.org/wiki/Universidade_Federal_da_Bahia" target="_blank" style='color:darkblue;font-weight:bold;font-size:1.8em;'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Bras%C3%A3o_da_UFBA.png/300px-Bras%C3%A3o_da_UFBA.png" alt="UFBA" height=60px><sup> UFBA</sup></a> 
 ### Engenheiro de Petróleo
 > <span style='font-size:1.2em;'>Universidade Petrobras — 1983</span>
 > [![Petrobras](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Petrobras_horizontal_logo.svg/300px-Petrobras_horizontal_logo.svg.png){height=30px}](https://pt.wikipedia.org/wiki/Petrobras)
 ### Engenheiro Eletricista
 > <span style='font-size:1.2em;'>Universidade de Brasília — 1979 - 1982</span>
-> [![UnB](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg/300px-Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg.png){height=30px}](https://pt.wikipedia.org/wiki/Universidade_de_Bras%C3%ADlia) <span style='color:darkgreen;font-weight:bold;font-size:1.6em'>UnB</span>
+> <a href="https://pt.wikipedia.org/wiki/Universidade_de_Bras%C3%ADlia" target="_blank" style='color:darkgreen;font-weight:bold;font-size:1.8em;'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg/300px-Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg.png" alt="UnB" height=30px> UnB</a> 
 
 ---
 ## Habilidades
 ### Software
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![BashScript](https://img.shields.io/badge/bash%20script-0101?style=flat&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+> ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![BashScript](https://img.shields.io/badge/bash%20script-0101?style=flat&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 
 ### Hardware
-[![Arduino](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/ArduinoLogo_%C2%AE.svg/96px-ArduinoLogo_%C2%AE.svg.png){height=30px}](https://pt.wikipedia.org/wiki/Arduino) <sup style='color:darkblue;font-weight:bold;font-size:1.6em'>Arduino</sup>
-[![Esp32](https://www.espressif.com/sites/all/themes/espressif/logo-black.svg){height=25px}](https://pt.wikipedia.org/wiki/Arduino) <span style='color:darkblue;font-weight:bold;font-size:1.6em'>Esp32</span>
-[![Raspberry Pi](https://assets.raspberrypi.com/static/logo-663a71244b0e42ebedb0ddd72abcae73.png){height=25px}](https://pt.wikipedia.org/wiki/Raspberry_Pi) <span style='color:darkblue;font-weight:bold;font-size:1.6em'>Raspberry Pi</span>
+> [![Arduino](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/ArduinoLogo_%C2%AE.svg/96px-ArduinoLogo_%C2%AE.svg.png){height=30px}](https://pt.wikipedia.org/wiki/Arduino) <sup style='color:darkblue;font-weight:bold;font-size:1.6em'>Arduino</sup>
+> [![Esp32](https://www.espressif.com/sites/all/themes/espressif/logo-black.svg){height=25px}](https://pt.wikipedia.org/wiki/Arduino) <span style='color:darkblue;font-weight:bold;font-size:1.6em'>Esp32</span>
+> [![Raspberry Pi](https://assets.raspberrypi.com/static/logo-663a71244b0e42ebedb0ddd72abcae73.png){height=25px}](https://pt.wikipedia.org/wiki/Raspberry_Pi) <span style='color:darkblue;font-weight:bold;font-size:1.6em'>Raspberry Pi</span>
 
 ### Automação Industrial — SCADA Systems
-Projetos, instrumentação, controladores, protocolos e HMIs.
+> Projetos, instrumentação, controladores, protocolos e HMIs.
 
 + + +
 
