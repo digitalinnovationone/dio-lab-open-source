@@ -16,6 +16,3 @@ Eu me chamo João Pedro, resido em Fortaleza-CE, no Brasil. Sou estudante do ter
     <a href="https://github.com/JotaP53">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JotaP53&show_icons=true&theme=transparent">
 </div>
-
-> [!IMPORTANT]   
-> *“Falar é fácil. Mostre-me o código!” (Linus Torvalds)*
