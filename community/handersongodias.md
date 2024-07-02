@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=B1F71D&background=FFFFFF00&random=false&width=435&lines=Ol%C3%A1!)](https://git.io/typing-svg)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=handersongodias&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 # 📊 Estatisticas no GitHub
