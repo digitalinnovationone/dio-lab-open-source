@@ -14,10 +14,6 @@
 
 <p>
 🔹Há muito tempo atrás cursei licenciatura em matemática e estive perto da formatura, porém descobri que dar aulas de matemática não era meu desejo.
-</p>   
-
-<p>
-🔹Há muito tempo atrás cursei licenciatura em matemática e estive perto da formatura, porém descobri que dar aulas de matemática não era meu desejo.
 </p>
 
 <p>
