@@ -2,7 +2,7 @@
 
 Prezados, 
 
-É um prazer entrar em contato! Sou Fernanda Molinas  e este é um arquivo teste para o Projeto de integração entre o git e github.
+É um prazer entrar em contato! Sou Fernanda M.  e este é um arquivo teste para o Projeto de integração entre o git e github.
 
 ## Resumo 
 A idéia deste projeto é realizar a integração entre o repositório Git e o GitHub. Para isso, neste arquivo colocarei algumas das minhas habilidades de forma a configurá-lo de acordo.
