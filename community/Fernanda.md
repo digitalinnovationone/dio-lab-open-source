@@ -28,6 +28,6 @@ Eu tenho experiência de quatro anos em gestão de projetos, tendo atuado com cont
 
 
 ## ?? Referência
-- [Página do Projeto Original do GiyHub](https://github.com/digitalinnovationone/dio-lab-open-source)
+- [Página do Projeto Original do GitHub](https://github.com/digitalinnovationone/dio-lab-open-source)
 - [Documentação GIT](https://git-scm.com/doc)
 - [Documentação GitHub](https://docs.github.com/)
