@@ -11,7 +11,7 @@
 > Estou iniciando agora nesse mundo da programação e espero aprender muito nesse bootcamp **Data Analytics com Power BI**. Já atuo como *Business Intelligence* e estou em busca de expandir meus conhecimentos.  
 
 
-## Conecte-se comigo:
+## Conecte-se comigo ;)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-B75ECD?style=for-the-badge&logo=linkedin&logoColor=F7CAC9)](https://www.linkedin.com/in/anna-carlla-braga-209581168/)
 [![E-mail](https://img.shields.io/badge/-Email-B75ECD?style=for-the-badge&logo=microsoft-outlook&logoColor=F7CAC9)](mailto:annacarllafb@gmail.com)
