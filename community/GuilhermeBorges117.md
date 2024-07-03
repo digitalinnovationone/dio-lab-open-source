@@ -1,11 +1,11 @@
 # Guilherme Borges de Souza
-Olá , sou Guilherme Borges de Souza tenho 24 anos,sou Designer grafico e gamer nos tempos vagos 🎮🎨 
+Olá , sou Guilherme Borges de Souza, tenho 24 anos, sou Designer grafico e gamer em horas vagas 🎮🎨 
 
-Graduando o quinto semestre de ciência da computação, 🖥️ na faculdade (FMU) Faculdades Metropolitans Unidas. 
+Graduando o quinto semestre de ciência da computação, 🖥 na Faculdades Metropolitans Unidas (FMU).
 
-Apaixonado por Engenharia de Software, Banco de Dados e SRE 🖥️🧑‍💻
+Apaixonado por Engenharia de Software, Banco de Dados e SRE 🖥🧑‍💻
 
-Além dos hobbies tecnológicos,divido meu tempo explorando o inglês, jogos e artes. 
+Além do profundo interesse pela área de tecnologia, costumo me ocupar buscando conhecimento em outras línguas e explorando jogos e arte.
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-borges-6260851ba/)  
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/1/#inbox)  
