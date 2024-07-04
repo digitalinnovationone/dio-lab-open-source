@@ -25,7 +25,7 @@
     <img Heigth="75px" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
 </div> <br/>
 
-<h1>Cursos em andamento</h1>
+<h1>Cursos em processo de aprendizado</h1>
 
 <div>
     <img heigth="100px" width="100px" src="https://cs50.gallerycdn.vsassets.io/extensions/cs50/ddb50/1.1.2/1691002683906/Microsoft.VisualStudio.Services.Icons.Default"/>
