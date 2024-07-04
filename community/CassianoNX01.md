@@ -15,7 +15,7 @@ Trabalho a mais de 30 anos na área comercial, hoje como Executivo de Vendas.
 
 ## Próximos aprendizados
 
-![PYTHON](https://img.shields.io/badgr/PYTHON-000?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 
