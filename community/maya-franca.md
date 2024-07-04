@@ -26,7 +26,7 @@ Tenho experiência em design gráfico e web e estou expandindo meus conhecimento
 ## Educação e Certificações
 
 | Curso | Plataforma | Duração |
-| ----- || ------- | ------- |
+| ----- | --------- | ------- |
 | Técnologo em Design Gráfico | Faculdade da Serra Gaúcha | 2 anos |
 | Desenvolvimento Web | Udemy |  128h |
 | Minicurso de UX/UI Design | Cubos Academy | 5h |
