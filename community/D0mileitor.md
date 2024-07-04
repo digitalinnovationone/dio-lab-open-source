@@ -1,0 +1,1 @@
+Olá, sou o Luis Otávio, também conhecido como Domileitor, atuo como Analista de Requisitos de  Software e tenho experiência em programação com python e Django.
