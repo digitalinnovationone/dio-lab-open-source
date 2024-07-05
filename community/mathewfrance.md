@@ -1,6 +1,6 @@
-# Bem vindo meu perfil no GitHub ✌️
+# Olá eu sou o Matheus França ✌️
 
-Olá eu sou o Matheus, um desenvolvedor de software apaixonado por tecnologia e inovação.
+Desenvolvedor de software apaixonado por tecnologia e inovação.
 
 ## 🚀 Sobre Mim
 Com quase seis anos de experiência em suporte técnico, estou em transição para a área de desenvolvimento de software, buscando sempre aprender e melhorar minhas habilidades.
