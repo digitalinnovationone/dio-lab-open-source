@@ -14,7 +14,7 @@ Atualmente estou estudando Java.
 <div style="display: flex">
 <br>
 
-[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)]([https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile](https://www.linkedin.com/in/guilherme-oliveira-4224791a2/?trk=public-profile-join-page))
+[![linkedin]((https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-oliveira-4224791a2/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:guilhermeoliveira1925.go@gmail.com)
 
 </div>
