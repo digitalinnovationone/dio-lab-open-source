@@ -1,5 +1,5 @@
 # Khaléu Sanches Mancini 
-Olá! Eu me chamo Khaléu Sanches Mancini e sou estudante de Desenvolvimento de Sistemas na Etec
+Olá! Eu me chamo Khaléu Sanches Mancini e sou estudante de Desenvolvimento de Sistemas na Etec.
 
 ## GitHub Stats
 
