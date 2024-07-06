@@ -1,13 +1,13 @@
 
 ## 🚀 Sobre mim
-Administradora, MBA em Gestão de Projetos. Quase desenvolvedora front-end, agora também me apaixonada pela área de dados. Atualmente cursando tecnólogo em Ciência de Dados.
+Administradora, MBA em Gestão de Projetos. Quase desenvolvedora front-end, agora também apaixonada pela área de dados. Atualmente cursando tecnólogo em Ciência de Dados.
 
 
 ## 🛠 Habilidades
 Javascript, HTML, CSS, Power BI, Power Apps, Wordpress, Metodologias Ágeis, Gestão de Projetos.
 
 ## 🗣️ Idiomas
-Português, Inglês e Francês
+Português, Inglês.
 
 ## 🧠 Estou aprendendo: Python, SQL, Banco de Dados, Machine Learning.
 
