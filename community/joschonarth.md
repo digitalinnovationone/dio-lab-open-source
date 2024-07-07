@@ -8,7 +8,7 @@ Aqui você confere uma lista de exemplos desenvolvida pela comunidade. Veja abai
 
 ---
 
-# João Otávio Schonarth
+# João Otávio Schonarth (joschoarth)
 
 Breve descrição sobre você.
 
