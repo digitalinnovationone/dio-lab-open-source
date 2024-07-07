@@ -1,0 +1,228 @@
+[33mcommit f012dab4d2dc943262775481fe5a18e6b9804904[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeat/community/BrunoPdev[m[33m)[m
+Author: BrunoPdev <paimbbacelar@gmail.com>
+Date:   Sun Jul 7 15:38:10 2024 -0300
+
+    feat: add BrunoPdev profile
+
+[33mcommit cb96a731da5dba4c331783fc31a5be732a715b0f[m[33m ([m[1;31mupstream/main[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: df286ce1e fc2c80055
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Jul 7 15:30:37 2024 +0000
+
+    Merge pull request #40981 from Matheus-AR/feat/community/Matheus-AR
+
+[33mcommit fc2c80055ce1fb94257deb9d912bc5f0557cc884[m
+Author: Matheus-AR <matheusaraujorodrigues@outlook.com>
+Date:   Sun Jul 7 12:24:39 2024 -0300
+
+    feat: add Matheus-AR profile
+
+[33mcommit df286ce1ec8ef5ab84553efebda67727967ba5c9[m
+Merge: 3e36dad32 9842dbbea
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Jul 7 15:08:21 2024 +0000
+
+    Merge pull request #40980 from LordSanctorum/feat/community/LordSanctourm
+
+[33mcommit 9842dbbea962ea429cccb3f3b9e5f0b02bda6448[m
+Author: LordSanctorum <156719123+LordSanctorum@users.noreply.github.com>
+Date:   Sun Jul 7 12:06:03 2024 -0300
+
+    feat: add LordSanctorum profile
+
+[33mcommit 3e36dad32e963b385c2d01a8da3b70df0a1241f8[m
+Merge: 70d4959c9 d542db478
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Jul 7 09:39:21 2024 +0000
+
+    Merge pull request #40976 from caioviniciusdossantos/feat/community/caioviniciusdossantos
+
+[33mcommit d542db4783c6806f3ad947dca4f213c0e56a9542[m
+Author: Caio Vinicius dos Santos <caioviniciusdossantos.ti@gmail.com>
+Date:   Sun Jul 7 18:34:29 2024 +0900
+
+    Create caioviniciusdossantos.md
+
+[33mcommit 70d4959c915cab14afe58dc5e16d149ef518fde8[m
+Merge: d9b1340b7 2ffb16978
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Jul 7 05:35:38 2024 +0000
+
+    Merge pull request #40975 from victordhn/feat/community/victordhn
+
+[33mcommit 2ffb169787429b8fabde27df56446d9d53d63a09[m
+Author: victordhn <33136394+victordhn@users.noreply.github.com>
+Date:   Sun Jul 7 02:34:17 2024 -0300
+
+    Update victordhn.md
+
+[33mcommit d9b1340b7482488d0c7ad8a0bba0477ae6e1d51d[m
+Merge: 5c90b5c1c a01e86c16
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Jul 7 05:26:54 2024 +0000
+
+    Merge pull request #40974 from victordhn/feat/community/victordhn
+
+[33mcommit a01e86c16900bb552e74b7a52d83ae25efe7efeb[m
+Author: victordhn <33136394+victordhn@users.noreply.github.com>
+Date:   Sun Jul 7 02:25:23 2024 -0300
+
+    Update victordhn.md
+
+[33mcommit 5c90b5c1c427476abf57110644467e8f1f5bc5b3[m
+Merge: 280979b16 c01411133
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Jul 7 05:14:04 2024 +0000
+
+    Merge pull request #40973 from victordhn/feat/community/victordhn
+
+[33mcommit c01411133cf567741a79a47576d722bd3dbc33cd[m
+Author: victordhn <33136394+victordhn@users.noreply.github.com>
+Date:   Sun Jul 7 02:11:20 2024 -0300
+
+    Create victordhn.md
+
+[33mcommit 280979b165cc264ebd52e3fc064385489494e86e[m
+Merge: 4ea7933a1 ce2c5553b
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Jul 7 03:38:47 2024 +0000
+
+    Merge pull request #40972 from vhvs-victor/feat/community/vhvs-victor
+
+[33mcommit ce2c5553b6fcd363ead2ac3ed2016af0e7fb3d83[m
+Author: victorviana <vhvs.victor@gmail.com>
+Date:   Sun Jul 7 00:33:51 2024 -0300
+
+    feat: add vhvs-victor profile
+
+[33mcommit 5409a9ef2036f70146faba8ff20e5b8574f943ea[m
+Author: victorviana <vhvs.victor@gmail.com>
+Date:   Sun Jul 7 00:25:19 2024 -0300
+
+    feat: add vhvs-victor profile
+
+[33mcommit 4ea7933a1bf80c6e15c364ab9396f586ea2f8651[m
+Merge: e61824412 b9b7a9b66
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Jul 7 03:02:09 2024 +0000
+
+    Merge pull request #40970 from AlanMarquesRocha/patch-2
+
+[33mcommit b9b7a9b66703009263a6d68fea1f046474ae587b[m
+Author: @m4rkn4la <13985581+AlanMarquesRocha@users.noreply.github.com>
+Date:   Sat Jul 6 23:58:50 2024 -0300
+
+    Criando AlanMarquesRocha.md
+
+[33mcommit e61824412c9a91b7ce181d83bd63b3efc68d67f9[m
+Merge: ee20a3e1c 6fd35c060
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Jul 7 02:43:09 2024 +0000
+
+    Merge pull request #40969 from GusGgk/feat/community/GusGgk
+
+[33mcommit 3e89945dfaeec058b0a3a5517fce09f18ad77f88[m
+Author: victorviana <vhvs.victor@gmail.com>
+Date:   Sat Jul 6 23:39:43 2024 -0300
+
+    feat: add vhvs-victor profile
+
+[33mcommit 6fd35c060c4d8cbe2ade5839bfee61beb6b95098[m
+Author: gusgk <gukumagai@gmail.com>
+Date:   Sat Jul 6 23:36:22 2024 -0300
+
+    feat: add GusGgk profile
+
+[33mcommit ee20a3e1c8545ea43ab6381b0503334ebc98ecb5[m
+Merge: bae14174a 01250d0b8
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Jul 7 02:09:45 2024 +0000
+
+    Merge pull request #40968 from sabarofa/feat/community/sabarofa
+
+[33mcommit bae14174a731666978c3f96d9b8c3f884f069069[m
+Merge: cfdbfb193 5f38c0e39
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Jul 7 02:04:48 2024 +0000
+
+    Merge pull request #40922 from Girotto1/feat/community/Girotto1
+
+[33mcommit 5f38c0e392e05c88244957e3e1e18d20d3cc5a49[m
+Author: Girotto <116986867+Girotto1@users.noreply.github.com>
+Date:   Sat Jul 6 23:04:24 2024 -0300
+
+    Delete community/girotto.md
+
+[33mcommit 01250d0b81acd36877325f87d70175c6518831f0[m
+Author: Adriano <abdm@outlook.com>
+Date:   Sat Jul 6 22:57:14 2024 -0300
+
+    feat: add sabarofa profile
+
+[33mcommit cfdbfb19336fbe07e537e3cfea7de6ad773d676f[m
+Merge: 230dc7f37 f22290d44
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Jul 7 01:36:12 2024 +0000
+
+    Merge pull request #40966 from gauloish/feat/community/gauloish
+
+[33mcommit f22290d44db662d4c349060622a323a613ac0d16[m
+Author: gauloish <125079293+gauloish@users.noreply.github.com>
+Date:   Sat Jul 6 22:32:28 2024 -0300
+
+    feat: add gaulois profile
+
+[33mcommit 230dc7f37a508a134c3c5ff2987069009f778e76[m
+Merge: 27a3b8863 aba2762ff
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Jul 7 01:28:39 2024 +0000
+
+    Merge pull request #40965 from EmilyCarla/feat/community/EmilyCarla
+
+[33mcommit aba2762ffc27abb2a40794ab1c339e471557684a[m
+Author: EmilyCarla <emilycarla.fernandes@gmail.com>
+Date:   Sat Jul 6 22:10:30 2024 -0300
+
+    feat: add EmilyCarla profile
+
+[33mcommit 27a3b8863367523b453e586cd4163a714eac8902[m
+Merge: bd6686842 455695957
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jul 6 23:25:38 2024 +0000
+
+    Merge pull request #40962 from Giulia9990/feat/community/Giulia9990
+
+[33mcommit 4556959578455cb0d2c43bc0a7b11f9979f5acfd[m
+Author: Giulia Soares <jujusoaresdasilva3@gmail.com>
+Date:   Sat Jul 6 20:25:12 2024 -0300
+
+    Rename venilson.md to Giulia9990.md
+
+[33mcommit e85bd704a04acbd3b762908fadba763194b94465[m
+Author: Giulia Soares <jujusoaresdasilva3@gmail.com>
+Date:   Sat Jul 6 20:17:03 2024 -0300
+
+    Create venilson.md
+
+[33mcommit bd66868423486e2e66012e97c644cdc60594d53f[m
+Merge: 844f2c482 55769b6c6
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jul 6 22:58:06 2024 +0000
+
+    Merge pull request #40961 from BrunLobo/feat/community/BrunLobo
+
+[33mcommit 55769b6c61ae0c5c02a23b3b2b50d41e9aa97b67[m
+Author: Bruna Pereira Lobo <145274395+BrunLobo@users.noreply.github.com>
+Date:   Sat Jul 6 19:57:41 2024 -0300
+
+    Rename BrunsLobo.md to BrunLobo.md
+
+[33mcommit 18a6ab6c14ab4927281d6ced8022b87a9a3cade9[m
+Author: Bruna Pereira Lobo <145274395+BrunLobo@users.noreply.github.com>
+Date:   Sat Jul 6 19:52:15 2024 -0300
+
+    Create BrunsLobo.md
+
+[33mcommit 844f2c482642479b32b1ea815eea4218a8c7403a[m
+Merge: a442cd699 5bdf60eef
+Author: github-actions[bot] <41898282+github-act
