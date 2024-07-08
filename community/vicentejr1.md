@@ -1,5 +1,5 @@
 # 👨‍💻 Quem sou eu?
-Me chamo Vicente, moro em Campo Grande, Recife - PE desde pequeno. Sou cristão, casado e pai de uma linda menina chamada Agatha. <br><br>
+Olá, me chamo Vicente, moro em Campo Grande, Recife - PE desde pequeno. Sou cristão, casado e pai de uma linda menina chamada Agatha. <br><br>
 Já trabalhei na área de TI, Contabilidade, Técnico de Fibra Óptica, e com uma leve noção em programação. Nesse momento estou trabalhando na área de instalador de fibra óptica, porém estou fazendo faculdade de ADS, onde pretendo me especializar em programação e configuração de sistemas. <br><br>
 Estou em busca de uma oportunidade de estágio, pois meu maior objetivo nesse momento é me desenvolver, e ter a oportunidade de fazer feitos incríveis na área da tecnologia.
 
