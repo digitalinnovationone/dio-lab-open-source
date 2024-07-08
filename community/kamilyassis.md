@@ -20,6 +20,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
+
 ## 💡 Softwares
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -40,4 +41,8 @@
 
 ![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamily-assis/)
 ![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.kamilyassis@gmail.com)
+<a href="https://www.dio.me/users/kamilyfacul">
+    <img src="https://repository-images.githubusercontent.com/535731759/7fd4b883-ee20-460c-a4ef-d7f834d989c2" alt="DIO" style="width:10%;">
+</a>
 ![GitHub](https://img.shields.io/github/followers/kamilyassis?label=follow&style=social)
+
