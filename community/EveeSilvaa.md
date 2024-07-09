@@ -29,7 +29,7 @@
 ### 🔥 Skills:
 ---
 
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-![JavaScript](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![c](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javaSript)
 ![Python](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 
