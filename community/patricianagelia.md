@@ -4,4 +4,4 @@
 
 <p> Apaixonada por tecnologia e por Banco de Dados, é uma área que futuramente pretendo segui carreira.
   
-  Fico muito feliz por poder estar progredindo mais uma etapa do meu processo evolutivo . </p>
+  Fico muito feliz por poder estar progredindo mais uma etapa do meu processo evolutivo. </p>
