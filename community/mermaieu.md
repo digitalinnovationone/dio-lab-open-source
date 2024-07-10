@@ -1,4 +1,4 @@
-### Olá, sou Emerson Sousa
+### Emerson Sousa
 
 
 🏢 **Atuação Profissional**
