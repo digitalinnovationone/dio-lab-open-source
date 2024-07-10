@@ -1,5 +1,5 @@
 # William Soares 
-Olá eu sou o William e atualmente estou estudando Java e Python, mais focado em desenvolvimento backend.
+Olá eu sou o William e atualmente estou estudando Java e Python, mais focado em desenvolvimento Backend.
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-soares-a429ba228)
 
