@@ -1,3 +1,0 @@
-- ###### São Paulo - Brazil 🌍
-- ###### Student 📚
-- ###### Python 💻
