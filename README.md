@@ -93,3 +93,30 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+
+
+
+
+## Perguntas Frequentes (FAQ)
+
+Como faço um fork deste repositório?
+- Vá até a página principal do repositório e clique no botão "Fork" no canto superior direito.
+
+Como crio uma nova branch?
+- Depois de fazer o fork, clone o repositório para o seu computador. Em seguida, crie uma nova branch com o comando `git checkout -b minha-branch`.
+
+Como faço um pull request (PR)?
+- Após fazer suas alterações, faça o commit e o push para sua branch. No GitHub, vá até o seu fork e clique em "New Pull Request".
+
+Onde encontro mais informações sobre Git e GitHub?
+- Consulte a [documentação oficial do GitHub](https://docs.github.com/).
+
+Como posso contribuir com novos utilitários ou melhorias na documentação?
+- Crie uma nova issue no repositório original para discutir sua ideia. Depois, faça um fork, implemente suas alterações e abra um pull request.
+
+Como resolver conflitos ao fazer um pull request?
+- Se houver conflitos, o GitHub mostrará quais arquivos precisam ser revisados. Resolva os conflitos localmente e faça um novo commit.
+
+Quem devo contatar em caso de dúvidas?
+- Utilize a aba "Discussions" no repositório para tirar suas dúvidas ou entre em contato com os mantenedores do projeto.
+
