@@ -1,4 +1,4 @@
-## Olá, Eu sou o Rafael Lauris 👋
+## Olá, Eu sou o Rafael T. Lauris 👋
  
  -🎓 Me formando em Data Science <br>
  -📚 Atualmente Estudando Python e Dados <br>
