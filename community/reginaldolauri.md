@@ -12,6 +12,10 @@ Reginaldo Fabiano Lauri sou Arquiteto de Sistemas Master na empresa [CI&T](https
 ![Markdown](https://img.shields.io/badge/Markdown-75CCCC?style=for-the-badge&logo=markdown&logoColor=FFF)
 ![HTML5](https://img.shields.io/badge/HTML5-DD4B24?style=for-the-badge&logo=html5&logoColor=FFF)
 ![CSS3](https://img.shields.io/badge/CSS3-2862E9?style=for-the-badge&logo=css3&logoColor=FFF)
+![XHTML](https://img.shields.io/badge/xhtml-000?style=for-the-badge&logo=xhtml&logoColor=FFF)
+![XML](https://img.shields.io/badge/xml-F7AB1E?style=for-the-badge&logo=xml&logoColor=FFF)
+![JSON](https://img.shields.io/badge/JSON-DDE4EB?style=for-the-badge&logo=json&logoColor=FFF)
+![YAML](https://img.shields.io/badge/YAML-FFF?style=for-the-badge&logo=yaml&logoColor=000)
 
 ## Habilidades - Linguagens de Programação
 
