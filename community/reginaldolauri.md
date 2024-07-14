@@ -4,6 +4,8 @@ Reginaldo Fabiano Lauri sou Arquiteto de Sistemas Master na empresa [CI&T](https
 ## Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/reginaldo-lauri-48bab031/) 
+[![FaceBook](https://img.shields.io/badge/FaceBook-0866FF?style=for-the-badge&logo=facebook&logoColor=FFF)](https://www.facebook.com/reginaldolauri?_rdc=2&_rdr/)
+[![Instagram](https://img.shields.io/badge/Instagram-CD1DAE?style=for-the-badge&logo=instagram&logoColor=FFF)](https://www.instagram.com/reginaldolauri/)
 
 ## Habilidades - Linguagens de Marcação e Estilos
 
@@ -20,10 +22,21 @@ Reginaldo Fabiano Lauri sou Arquiteto de Sistemas Master na empresa [CI&T](https
 
 ## Habilidades - Extras
 
-![GitHub](https://img.shields.io/badge/git-FFF?style=for-the-badge&logo=git&logoColor=FFCBDB)
-![JavaScript](https://img.shields.io/badge/GitHub-FFF?style=for-the-badge&logo=GitHub&logoColor=FFCBDB)
+![Git](https://img.shields.io/badge/git-E84E31?style=for-the-badge&logo=git&logoColor=FFF)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=FFF)
 
-## GitHub Stats
+<h1 align="center">
+  📈 Statisticas
+</h1>
+<h2>
+  GitHub
+</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=reginaldolauri&theme=dark&show_icons=true" />
+<h2>
+  Top Linguagens
+</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reginaldolauri&theme=dark&layout=compact&locale=pt-br" alt="Top Linguagens">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AgathaNFreitas&theme=transparent&bg_color=FFF&border_color=000&show_icons=true&icon_color=000&title_color=000&text_color=FFCBDB)
-
+<h2>Sequencia no GitHub</h2>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=reginaldolauri&theme=dark&locale=pt-br" alt="Reginaldo Lauri" />
