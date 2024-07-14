@@ -20,9 +20,14 @@ Reginaldo Fabiano Lauri sou Arquiteto de Sistemas Master na empresa [CI&T](https
 ## Habilidades - Linguagens de Programação
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-CCB029?style=for-the-badge&logo=javascript&logoColor=FFF)
-![Java](https://img.shields.io/badge/Java-286CB1?style=for-the-badge&logo=javascript&logoColor=FFF)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6AAD3D?style=for-the-badge&logo=javascript&logoColor=FFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=javascript&logoColor=FFF)
+![Java](https://img.shields.io/badge/Java-286CB1?style=for-the-badge&logo=java&logoColor=FFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=FFF)
+
+## Framewoks
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6AAD3D?style=for-the-badge&logo=springboot&logoColor=FFF)
+![SpringBoot-JPA](https://img.shields.io/badge/SpringBoot-6AAD3D?style=for-the-badge&logo=springbootjpa&logoColor=FFF)
+![JPA](https://img.shields.io/badge/jpa-000?style=for-the-badge&logo=jpa&logoColor=FFF)
+![Hybernate](https://img.shields.io/badge/hybernate-B6A978?style=for-the-badge&logo=hybernate&logoColor=FFF)
 
 ## Habilidades - Extras
 
