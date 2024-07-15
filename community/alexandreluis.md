@@ -1,15 +1,15 @@
  
-#Eu / I
+# Eu / I
 
 Olá, meu nome é Alexandre Luís
 Estou em busca de oportunidades na área de Tecnologia da Informação, principalmente em Análise e Desenvolvimento de Sistemas.
 Atualmente estou cursando graduação em Análise e Desenvolvimento de Sistemas na UNINOVE EAD(4 de 5), onde estou ampliando minhas habilidades técnicas. \
-Pronomes: Ele/Ele \
+Pronomes: Ele/Ele 
 
 Hi, I’m Alexandre Luís \
 I’m pursuing opportunities in the field of Information Technology, particularly in Analysis and Systems Development.
 I'm currently studying towards a degree in Analysis and Systems Development at UNINOVE EAD(4 de 5), where I'm expanding my technical skills. \
-Pronouns: He/Him \
+Pronouns: He/Him 
 
  
 GitHub: https://github.com/alexandreluis \
