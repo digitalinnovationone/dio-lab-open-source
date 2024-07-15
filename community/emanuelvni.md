@@ -27,7 +27,7 @@ Tenho interesse em Trabalhar com tecnologia e no momento estou estudan
 
 ## Minhas Redes <br>
 
- [![Gmail](https://img.shields.io/badge/Gmail-FFF?style=for-the-badge&logo=gmail&logoColor=red)](mailto:emanuelvni@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-6600FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emanuelvni) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@emanuelvni/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
+ [![Gmail](https://img.shields.io/badge/Gmail-FFF?style=for-the-badge&logo=gmail&logoColor=red)](mailto:emanuelvni@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-6600FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emanuelvni) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@emanuelvni/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/emanuel-nascimento-2849a5297/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 
 
 
