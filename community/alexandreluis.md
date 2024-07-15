@@ -16,7 +16,7 @@ GitHub: https://github.com/alexandreluis \
 Alura: https://cursos.alura.com.br/emprega-one/profile/alexandreluis \
 Dio: https://www.dio.me/users/alexandreluisrigotti \
 LinkedIn: https://www.linkedin.com/in/alexandreluis/  \
-https://about.me/alexandreluis \
+https://about.me/alexandreluis 
 
 
 ## Habilidades 
