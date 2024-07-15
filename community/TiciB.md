@@ -7,11 +7,9 @@
 
 ## GitHub Status
 
-<div align="center">
   <a href="https://github.com/TiciB">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TiciB&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiciB&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
+ 
 
 ## Conecte-se comigo
 
@@ -19,7 +17,8 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:tebezerra@gmail.com)
 
 ## Tecnologias
-<div style = display: inline_block>
+
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,7 +32,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-</div>
+
 ## Projetos
 
-[Dicionário da mulher negra](https://github.com/TiciB/mulher_negra)
+[DICIONARIO DA MULHER PRETA](https://github.com/TiciB/mulher_negra)
