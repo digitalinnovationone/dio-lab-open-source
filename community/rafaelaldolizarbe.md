@@ -35,15 +35,15 @@ Gosto muito de como os sistemas funcionam, sua complexidade e regras de negócio
 
 ## Github Stats
 
-![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelaldolizarbe&theme=transparent&bg_color=000&border_color=3ddc84&show_icons=true&icon_color=3ddc84&title_color=3ddc84&text_color=FFF)
+![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelaldolizarbe&theme=gotham)
 
 
 ## Minhas Conquistas
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rafaelaldolizarbe&theme=android-dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly)
+![GitHub Streak](https://streak-stats.demolab.com?user=rafaelaldolizarbe&theme=gotham)
 
 ## Linguagens mais usadas
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rafaelaldolizarbe&layout=compact&bg_color=000&border_color=3ddc84&title_color=3ddc84&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rafaelaldolizarbe&layout=compact&theme=gotham)
 
 
 </div>
