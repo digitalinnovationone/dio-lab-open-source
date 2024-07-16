@@ -1,6 +1,10 @@
+
 🚀 Sobre mim
-Joás Campos de Souza
-Atualmente estudando Java, Python e Mysql
+
+Me chamo Joás Campos de Souza, tenho 32 anos.
+Atualmente trabalho em uma empresa de suporte de manutenção na parte de SDAI e Controle de Acesso.
+
+Atualmente estou focando meus estudos em Java, Python e SQL.
 
 Conclui com sucesso 2 semestres do curso de Analise e Desenvolvimento de Sistemas oferecidos pela UNICESUMAR.
 
@@ -8,10 +12,15 @@ Desde cedo sempre me interessei por tecnologia, foi o que me motivou de verdade 
 
 Comecei trabalhar em indústrias, quando surgiu a aportunidade de ir para a área de TI, estagiei por 2 anos em uma empresa de tecnologia e passei mais 1 ano como analista técnico de suporte.
 
-Sou uma pessoa proativa, que gosta de projetos em equipe e pronta para desafios.
+Sou uma pessoa proativa e comunicativa, que gosta de projetos em equipe e pronta para desafios.
 
-Sou uma pessoa comunicativa, sei me expressar em certos momentos.
 
 
 Entre em Contato
-WhatsApp LinkedIn GitHub
+
+LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joás-campos/)
+WhatsApp 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581992798616)
+GitHub
+	[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joascampos)
