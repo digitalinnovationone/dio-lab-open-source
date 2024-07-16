@@ -4,7 +4,7 @@ Sou estudante do curso de Análise e Desenvolvimento de Sistemas pela Unijorge.
 
 ### Connect with me:
 
-![GitHub](https://github.com/igorjcs) 
+![GitHub](https://github.com/igorjcs)
 
 ### Skills (work in progress):
 
