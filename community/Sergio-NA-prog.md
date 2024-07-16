@@ -1,5 +1,5 @@
 
-<h1 align="center">Seja Bem-vindo. Sou o Sérgio.</h1>
+<h1 align="center">Seja Bem-vindo, Sou o Sérgio.</h1>
 
 
  <h2>Sobre mim</h2> 
