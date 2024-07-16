@@ -93,7 +93,6 @@
     </tr>
 </table>
 
-<img src="https://desktop.github.com/images/github-desktop-screenshot.png" alt="GitHub Desktop">
 
 <h2>Conclusão</h2>
 
