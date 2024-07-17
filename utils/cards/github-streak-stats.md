@@ -42,3 +42,21 @@
 ```
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 ```
+
+# DashBoard 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClxtMf&theme=dark" width="400">
+</p>
+
+```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClxtMf&theme=dark" width="400">
+</p>
+```
+
+# Classification
+<img src="https://github-profile-trophy.vercel.app/?username=ClxtMf&theme=nord&no-frame=true&margin-w=10&column=7" />
+
+```
+<img src="https://github-profile-trophy.vercel.app/?username=ClxtMf&theme=nord&no-frame=true&margin-w=10&column=7" />
+```
