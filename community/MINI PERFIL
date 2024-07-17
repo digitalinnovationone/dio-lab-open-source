@@ -1,0 +1,19 @@
+  <!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>OLA, COMUNIDADE </title>
+</head>
+<body>
+    <h1>Wagner Vieira</h1>
+    <p>Analista de segurança da informação.</p>
+    <p>Formado pela Estacio De Sa.</p>
+
+    <!-- Links para LinkedIn e GitHub -->
+    <p>Conecte-se comigo:</p>
+    <ul>
+        <li><a href="https://www.linkedin.com/in/wagner-vieira-065316254/" target="_blank">LinkedIn</a>https://www.linkedin.com/in/wagner-vieira-065316254/</li>
+        <li><a href="https://github.com/wagnerov2001" target="_blank">GitHub</a>https://github.com/wagnerov2001/dio-lab-open-source/new/main/community</li>
+    </ul>
+</body>
+</html>
