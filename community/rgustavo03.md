@@ -1,5 +1,5 @@
 ## Gustavo Barroso Marinho
-Oi, sou o Gustavo. Sou estudante de Análise e Desenvolvimento de Sistemas. Apresentação, ambição, etc.
+Oi, sou o Gustavo, estudante do curso Análise e Desenvolvimento de Sistemas. Me encontro mais avançado no desenvolvimento front-end, usando o Javascript e a biblioteca React com TypeScript. Procuro me tornar um desenvolvedor fullstack. Aprendi quase tudo de programação estudando por conta própria e acredito ser uma pessoa que aprende rápido e criativa para procurar formas para resolver um problema. Meu nível de inglês é intermediário (conversação, leitura e escrita).
 
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-barroso-marinho/)
