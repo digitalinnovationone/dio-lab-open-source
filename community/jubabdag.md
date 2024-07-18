@@ -1,9 +1,10 @@
 # Juvenal Nobuhiro Yoshikawa
 ## Conecte-se comigo
-[![LinkedIn](https://www.linkedin.com/in/juvenal-nobuhiro-yoshikawa-94191bb5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juvenal-nobuhiro-yoshikawa-94191bb5/)
 ## Habilidades
-![Python](https://img.shields.io/badge/Python-A7DF1E?style=for-the-badge&logo=python&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-FFFAFA?style=for-the-badge&logo=python&logoColor=3776AB)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-DCDCDC?style=for-the-badge&logo=googlecloud)
+![AWS](https://img.shields.io/badge/AWS-FFFFF0?style=for-the-badge&logo=amazonwebservices&logoColor=232F3E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=553C7B)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
