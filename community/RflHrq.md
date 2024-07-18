@@ -29,4 +29,4 @@ Este repositório contém um projeto completo de análise exploratória de dados
 - Experimentação com redes neurais e regressão logística para modelagem preditiva.
 - Preparação e limpeza de dados para garantir qualidade na análise e nos modelos desenvolvidos.
 
-Estou entusiasmado com minha jornada como programador e motivado a enfrentar novos desafios na área de tecnologia da informação. Cada projeto é uma oportunidade de aprendizado e crescimento, e estou ansioso para continuar evoluindo minhas habilidades e contribuindo para soluções inovadoras.
+Estou entusiasmado com minha jornada como programador e motivado a enfrentar novos desafios na área de tecnologia da informação. Cada projeto é uma oportunidade de aprendizado e crescimento, e estou ansioso para continuar evoluindo minhas habilidades e contribuindo para soluções inovadoras. Obrigado a todos!
