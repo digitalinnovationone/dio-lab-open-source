@@ -14,7 +14,7 @@ Montagem e Administração de Redes (Cabeadas e Wi-Fi):
 
 Telefonia IP (Issabel): Habilidade em configurar e administrar sistemas de telefonia IP, melhorando a comunicação interna e externa das organizações.
 
-Além das minhas atividades profissionais, sou entusiasta de corridas de rua, uma paixão que me ajuda a manter o equilíbrio entre a vida pessoal e profissional.
+Além das minhas atividades profissionais, sou entusiasta de corrida de rua, uma paixão que me ajuda a manter o equilíbrio entre a vida pessoal e profissional.
 
 ## 🛠 Habilidades
 
