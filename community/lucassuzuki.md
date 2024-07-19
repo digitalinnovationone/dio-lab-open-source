@@ -5,7 +5,15 @@
     <br><br><br><br>
 </div>
 
-Olá, meu nome é Lucas Suzuki e sou **estudante de Analise e Desenvolvimento de Sistemas**
+Olá, meu nome é Lucas Suzuki e sou **estudante de Analise e Desenvolvimento de Sistemas**.
+
+Estou no início da minha jornada profissional e ansioso para contribuir com minha energia e conhecimento no campo da inovação.
+
+Estou em busca de **oportunidades desafiadoras** que me permitam aplicar meus conhecimentos teóricos em situações práticas, contribuindo para projetos inovadores e aprendendo continuamente.
+
+Com habilidades acadêmicas em **Backend, Frontend, banco de dados, testes de software**, estou pronto para enfrentar desafios e contribuir para o sucesso de projetos. Sou um comunicador eficaz e estou sempre aberto a aprender com meus colegas.
+a
+Estou aberto a oportunidades de **estágio ou posições de entry-level na área de análise e desenvolvimento de sistemas**. Se você busca um profissional dedicado e entusiasmado, ficarei feliz em trocar ideias e informações sobre como posso contribuir para o sucesso da sua equipe.
 
 ## Conecte-se Comigo!
 
