@@ -1,6 +1,6 @@
 # Ulisses Moraes Dos Reis Souza
 
-Analista de sistemas há 27 anos, Sr em Tecnologias voltadas para MAINFRAME.
+Analista de sistemas há 27 anos, Sr em Tecnologias MAINFRAME, em processo de migração para aplicações de Baixa Plataforma com Java Spring.
 
 ## Meus Contatos:
 
