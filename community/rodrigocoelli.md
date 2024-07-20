@@ -14,21 +14,7 @@ Fonte: https://readme-typing-svg.herokuapp.com
     <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Rodrigo+Coelli;Welcome+to+my+profile!;Have+a+look+around!&font=sofia%20pro&%color=%fff&center=true&width=400&height=100">
 </p></a>
 
-<!--
- 
-**rodrigocoelli/rodrigocoelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!--
  Inicio dos trabalhos com widgebox.
@@ -55,13 +41,6 @@ Fonte:  https://github.com/Jurredr/github-widgetbox
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigocoelli/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo.coelli/)
 
- 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=rodrigocoelli&theme=chartreuse-dark&background=000&border=30A3DC&dates=FFF)](https://github.com/rodrigocoelli/)
-
-
-
-
-![Jogo da cobrinha](https://github.com/rodrigocoelli/rodrigocoelli/blob/main/github-contribution-grid-snake.svg)
 </div>
     </div>
 
