@@ -47,4 +47,5 @@ Fonte:  https://github.com/Jurredr/github-widgetbox
 <!-- 
 Fique a vontade para reproduzir, editar e contribuir com os widgets.
 Mas deixe a fonte do original, caso algum amiguinho necessite de ajuda.
+Obrigado
 -->
