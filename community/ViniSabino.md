@@ -6,7 +6,7 @@
 
 ### Estudante de Análise e Desenvolvimento de Sistemas
 
-Trabalho na área administrativa de uma Unidade Escolar e venho desenvolvendo programas que automatizam tarefas, visando aumentar a eficiência, a produtividade, diminuir o tempo gasto em cada atividade e reduzir erros. Alguns do principais programas desenvolvidos são:
+Trabalho na área administrativa de uma Unidade Escolar e venho desenvolvendo programas que automatizam tarefas, visando aumentar a eficiência, a produtividade, diminuir o tempo gasto em cada atividade e reduzir erros. Alguns dos principais programas desenvolvidos são:
 
 [Formulário de Matrícula](https://www.youtube.com/watch?v=tKitNvtZ-Y4&t=5s)
 
