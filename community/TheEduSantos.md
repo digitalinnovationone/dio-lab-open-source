@@ -1,7 +1,7 @@
 # Welcome to My Profile 👋
 
 ## About Me
-Hello! I am Eduardo, 20 years old, Brazilian, and I am student of Information Security, and Development. Although I have little professional experience, I am extremely motivated to learn and improve my skills.
+Hello! I am Eduardo, Brazilian, and I am student of Information Security, and Development. Although I have little professional experience, I am extremely motivated to learn and improve my skills.
 
 In my CyberSecurity studies, I've gained knowledge about computer networks, log analysis, and various tools used in ethical hacking/penetration testing. Regarding my studies in programming languages, I have studied programming logic, some programming languages, such as Python (my favorite one) and Ruby, as well as HTML, CSS and JavaScript. I have honed my skills through hands-on experience in diverse projects, guided by tutorials, and self-driven exploration..
 
