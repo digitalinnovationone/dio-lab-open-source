@@ -6,4 +6,4 @@ links úteis:
 
 <instagram>instagram.com/lucas.ettore
 
-Grato pela oprtunidade!
+Grato pela oportunidade!
