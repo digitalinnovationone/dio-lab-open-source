@@ -25,6 +25,7 @@ Sou um desenvolvedor front-end especializado em flutter, tanto mobile quanto web
 ### Meus Principais Desafios de Projeto DIO
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=thiagomesq&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thiagomesq/dio-lab-open-source)
+[![DIO BTC Wallet](https://github-readme-stats.vercel.app/api/pin/?username=thiagomesq&repo=dio_btc_wallet&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thiagomesq/dio_btc_wallet)
 <!--
     ### Meus Principais Artigos na DIO
 
