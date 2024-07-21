@@ -1,5 +1,5 @@
 # Olá, seja bem vinda(o) ao meu github😁!
-Me chamo Lessandro Ferreira, sou formado em Analise de Sistemas, porém por muitos anos atual como analista funcional e estou transição para área de desenvolvimento.
+Me chamo Lessandro Ferreira, sou formado em Analise de Sistemas, porém por muitos anos atuei como analista funcional e estou transição para área de desenvolvimento.
 
 ##  Habilidades e Frameworks
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
