@@ -3,7 +3,7 @@
 **Oi, sou o Gustavo e estou cursando Sistemas de informação.**
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ec63a1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-pereira-da-silva-bb8512237/)[![Instagram](https://img.shields.io/badge/-Instagram-ec63a1?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEUUSERNAME/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ec63a1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-pereira-da-silva-bb8512237/)[![Instagram](https://img.shields.io/badge/-Instagram-ec63a1?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/SEUUSERNAME/](https://www.instagram.com/gustavohenrique0207/))
 
 ## Habilidades
 ![Java](https://img.shields.io/badge/java-ec63a1.svg?style=for-the-badge&logo=openjdk&logoColor=white)[![GitHub](https://img.shields.io/badge/GitHub-ec63a1?style=for-the-badge&logo=github&logoColor=white)]()
