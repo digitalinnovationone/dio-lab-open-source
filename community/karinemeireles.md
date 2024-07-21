@@ -6,7 +6,7 @@
 <p align="center">💟</p>
 <p align="center">Passionate about technology, digital transformation, and value creation, my hobbies include running, watching movies and series, spending time with my family, and enjoying moments with God.</p>
 
------------------------------------------
+-------------------------------------------------------------------------------------------------
 
 <p align="center">Product Owner se especializando em QA e Inteligência Artificial, graduada em Administração de Empresas, com 12 anos de experiência no setor financeiro. 
 Minha paixão pela tecnologia sempre foi evidente, mas a necessidade de migrar para a área de produtos e tecnologia surgiu da vontade de contribuir efetivamente com os processos, aproveitando a experiência adquirida durante minha trajetória no segmento bancário.</p>
