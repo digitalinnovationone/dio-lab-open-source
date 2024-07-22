@@ -1,5 +1,5 @@
 
-# Mariana_paulina
+# Mariana Paulina 
 Olá, eu sou mariana e sou desenvolvedora back-end!
 ## Conecte-se comigo!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ec63a1?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/mariana-paulina-449b0466/)
