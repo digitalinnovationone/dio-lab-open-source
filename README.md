@@ -8,6 +8,8 @@ Olá! Eu sou Fernanda Alves, uma entusiasta de tecnologia e programação. Atual
 - JavaScript
 - Java
 - Python
+- PHP
+- MYSQL
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/fernanda-alves)
