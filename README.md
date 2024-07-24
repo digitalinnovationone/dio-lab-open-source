@@ -10,6 +10,7 @@ Olá! Eu sou Fernanda Alves, uma entusiasta de tecnologia e programação. Atual
 - Python
 - PHP
 - MYSQL
+- C
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/fernanda-alves)
