@@ -37,7 +37,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 
 
-## Soft Skills
+## Sobre Soft Skills
 
 #### Trabalhei muitos anos na áre de vendas, como vendedor ou gerente de vendas e pude exercitar as caracteristicas de um jogador de equipe, sendo liderado ou como lider, trabalhando com pessoas de varios expectros sociais.
 
