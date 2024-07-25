@@ -2,7 +2,9 @@
 Me chamo Maria Clara Nascimento Silva e sou estudante de Ciência da Computação na Unifavip Wyden. 
 
 🔹 Tenho grande interesse na área de desenvolvimento web, front-end e Inteligência Artificial
+
 🔹 Gosto muito de programar, mas também tenho apreço pela literatura e por outros aspectos subjetivos do conhecimento. 🖥️
+
 🔹 Estou construindo meu caminho na tecnologia através da criatividade, perseverança, proatividade e muita vontade de aprender! 💡🧠
 
 ## ⚒️ Habilidades 
