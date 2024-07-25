@@ -1,3 +1,0 @@
-# Caio Tibério
-
-👍
