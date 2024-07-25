@@ -20,4 +20,4 @@ Sou estudante de Engenharia de Software, atualmente estou no 4º semestre.
 
 ## Conecte-se Comigo
 
-Sinta-se à vontade para entrar em contato comigo pelo LinkedIn ou email. Estou sempre aberta a novas oportunidades e colaborações!
+Sinta-se à vontade para entrar em contato comigo pelo LinkedIn ou email. Estou sempre aberta a novas oportunidades e colaborações.
