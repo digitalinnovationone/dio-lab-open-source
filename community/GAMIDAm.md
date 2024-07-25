@@ -1,5 +1,5 @@
 
-# Miguel Santos
+# Miguel Baptista
 
 ## Sobre mim
 Tenho 23 anos e sou um estudante de programação.
