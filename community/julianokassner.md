@@ -19,11 +19,16 @@
 - Material
 - JSP / JSF
 
-  ## Tecnologias Backend
-  - Java
-  - Node Js
-  - NestJS
-  - Spring Framwework
-  - Spring Boot
-  - Rest Api
-  - SOAP
+## Tecnologias Backend
+- Java
+- Node Js
+- NestJS
+- Spring Framwework
+- Spring Boot
+- Rest Api
+- SOAP
+
+## Contato
+- [https://github.com/julianokassner31](https://github.com/julianokassner31)
+- [https://linkedin.com/juliano-kassner](https://www.linkedin.com/in/juliano-kassner/)
+
