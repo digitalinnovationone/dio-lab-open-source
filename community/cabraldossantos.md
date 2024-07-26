@@ -1,6 +1,6 @@
 # Cabral dos Santos
 
-Olá! Aqui é o Cabral, estudante de Engenharia de Software, Desenvolvedor Júnior Java no Centro de Computação da Aeronáutica do Rio de Janeiro.
+Olá! Aqui é o Cabral, estudante de Engenharia de Software, Desenvolvedor Júnior Java no Centro de Computação de Aeronáutica do Rio de Janeiro.
 
 ## Conecte-se Comigo
 
