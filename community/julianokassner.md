@@ -13,7 +13,7 @@
 - VueJs 2
 - Quasar Framework
 - Html
-- css
+- Css
 - ReactJs
 - PrimeNG
 - Material
