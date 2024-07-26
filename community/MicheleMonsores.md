@@ -1,6 +1,6 @@
 👋 Olá, sou @MicheleMonsores!
 
-👀 Estou interessado em desenvolvimento de software, inclusão digital e tecnologias sociais.
+👀 Estou interessada em desenvolvimento de software, inclusão digital e tecnologias sociais.
 
 🌱 Atualmente estou aprendendo novas técnicas de desenvolvimento web e aprofundando meu conhecimento em sistemas operacionais, bancos de dados e computação em nuvem.
 
