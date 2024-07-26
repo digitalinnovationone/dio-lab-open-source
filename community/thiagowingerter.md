@@ -1,3 +1,7 @@
+![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/20420559?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d)
+
+[//]: # (https://avatars.githubusercontent.com/u/20420559?v=4)
+
 # Hello there 👋
 
 ## Welcome to my page! 
