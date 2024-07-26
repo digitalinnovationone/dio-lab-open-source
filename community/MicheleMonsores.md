@@ -6,7 +6,7 @@
 
 💞️ Estou buscando colaborar em projetos que utilizem tecnologia para promover o desenvolvimento social e a inclusão digital.
 
-📫 Como me encontrar: [LinkedIn: Michele Monsores](https://www.linkedin.com/in/michele-monsores)
+📫 Como me encontrar: [LinkedIn: Michele Monsores](https://www.linkedin.com/in/michele-monsores-87a17735/)
 
 😄 Pronomes: ela/dela
 
