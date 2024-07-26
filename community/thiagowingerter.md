@@ -20,10 +20,12 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
 ### Code:
 ![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
 
 ### OS:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -50,6 +52,7 @@
     <li>Docker</li>
     <li>Kubernetes</li>
     <li>Python</li>
+    <li>Java</li>
 </ul>
 
 ## 📫 Get in touch
