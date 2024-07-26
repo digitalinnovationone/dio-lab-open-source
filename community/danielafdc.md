@@ -10,4 +10,6 @@ Java, JavaScript, Kotlin, Appium, Robot, Cypress, Rest Assured e Pact.
 
 
 ## 🔗 Conecte-se comigo
-[![Linkedin](https://www.linkedin.com/in/daniela-ferreira-063770ba/)](#)
+<div>
+<a href="www.linkedin.com/in/daniela-ferreira-06377ba/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
