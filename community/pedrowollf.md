@@ -7,7 +7,8 @@
 Sou tecnólogo em análise de sistemas, atualmente na busca de experiência e formação acadêmica avançada através da MBA Em segurança e Defesa cibernética e Pós em ciência de dados e IA. Possuo certificações em Fortinet e Salesforce, e busco sempre a excelência e inovação. Estou pronto para enfrentar desafios técnicos e contribuir com soluções seguras e eficientes.
 
 ## Experiência 
-![Fortinet](https://https://img.shields.io/badge/Fortinet-%23734F96.svg?style=for-the-badge&logo=fortinet&logoColor=white) 
+![Fortinet](https://img.shields.io/badge/Fortinet-FFFFFF.svg?style=for-the-badge&logo=fortinet&logoColor=red
+) 
  ![Salesforce](https://img.shields.io/badge/Salesforce-FFFFFF.svg?style=for-the-badge&logo=salesforce&logoColor=blue)
 
 ## Principais Linguagens 
