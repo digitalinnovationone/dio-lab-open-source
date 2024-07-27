@@ -93,3 +93,6 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+
+> Pequena alteração visando a contribuição em um projeto open-source :)
+> <a href="https://github.com/rhaissabg">Meu github :)))</a>
