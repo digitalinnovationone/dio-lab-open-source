@@ -1,6 +1,6 @@
 # Thiago do nascimento barros
 ### Sobre mim
-Sou Thiago estudante cursando a 2° Série do ensino médio e o ensino técnico em desenvolvimento de sistemas pelo SENAI Suiço-Brasileira.
+Sou estudante cursando a 2° Série do ensino médio e o ensino técnico em desenvolvimento de sistemas pelo SENAI Suiço-Brasileira.
 ## Conecte-se comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-nascimento-barros-b2b872274/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:tdonascimentobarros@gmail.com)
