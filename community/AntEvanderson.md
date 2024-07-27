@@ -7,7 +7,6 @@ Olá sou Evanderson, Estou comerçando minha caminhada no mundo da programação
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AntEvanderson)
 
-
 #Habilidades
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AntEvanderson&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
@@ -16,5 +15,3 @@ Olá sou Evanderson, Estou comerçando minha caminhada no mundo da programação
 
 #Minhas Contribuções
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AntEvanderson&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AntEvanderson/dio-lab-open-source)
-
-
