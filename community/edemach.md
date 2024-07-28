@@ -51,6 +51,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=edmach&theme=blue-green&border_radius=4&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=edemach&repo=analise_dados&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=edemach&repo=analise_dados&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/edemach/dio-lab-open-source)
 
 
