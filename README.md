@@ -31,15 +31,15 @@ Aprender o básico sobre contribuição no GitHub.
     </tr>
     <tr>
       <td>02</td>
-      <td>Formas de Contribuir num Projeto Open Source</td>
+      <td>Formas de Contribuir num Projeto Open Source.</td>
     </tr>
     <tr>
       <td>03</td>
-      <td>Desenvolvendo e Enviando uma Contribuição</td>  
+      <td>Desenvolvendo e Enviando uma Contribuição.</td>  
     </tr>
     <tr>
       <td>04</td>
-      <td>Dicas e Materiais de Apoio</td>    
+      <td>Dicas e Materiais de Apoio.</td>    
     </tr>
   </tbody>
 </table>
