@@ -1,3 +1,0 @@
-# Guilherme de Azevedo
-
-Sou um profissional experiente em RPA, utilizando Python para automatizar processos, com conhecimento sólido em redes de computadores e ampla experiência no desenvolvimento e manutenção de sites em WordPress. Estou em busca de especialização para evoluir e me destacar como um excelente Desenvolvedor. Além disso, possuo habilidades avançadas em Microsoft Office e uma notável capacidade de aprender rapidamente novas tecnologias.
