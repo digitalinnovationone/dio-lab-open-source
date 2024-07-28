@@ -4,7 +4,7 @@
 
 
 ## 🚀 Sobre mim
-Aqui é a Esther, nesse momento (2024) sou iniciante na no universo de TI. Estou cursando uma graduação voltada para a área da segurança da informação. Sou de MG.
+Aqui é a Esther, nesse momento (2024) sou iniciante no universo de TI. Estou cursando uma graduação voltada para a área da segurança da informação. Sou de MG.
 
 # Artigo criado na DIO
 
