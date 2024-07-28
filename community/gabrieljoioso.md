@@ -1,1 +1,0 @@
-Olá, sou o Gabriel!
