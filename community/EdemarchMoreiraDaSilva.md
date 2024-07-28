@@ -14,7 +14,7 @@
         <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
       </td>
       <td>
-        <code>Estácio de Sá</code>
+        <a href="https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas" style="color: black"><code>Estácio de Sá</code></a>
       </td>
     </tr>
       <tr>
@@ -43,3 +43,6 @@
     </tr>
   </table>
 </table>
+
+## 📝 Objetivo
+Aplicar meus conhecimentos de maneira eficiênte para garantir resultados e colaborando para um cresimento de hardskill e softskill.
