@@ -19,6 +19,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edemach&theme=transparent&bg_color=2aaa&border_color=30A3DC&show_icons=true&icon_color=fff&title_color=fff&text_color=FFF)
 
 ## 📑 Minhas Contribuições
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=edemach&bg_color=000&border_color=30A3DC&title_color=fff&text_color=FFF)
+[![GitHub Streak](https://streak-stats.demolab.com?user=edmach&theme=blue-green&border_radius=4&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
