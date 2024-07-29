@@ -25,6 +25,19 @@
 
 <div align="center">
     <h1>
+    Contatos: 
+    </h1>
+  <a href="https://www.instagram.com/xafiixx/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/fonseca_edu21//"/></a>
+  <a href="https://www.linkedin.com/in/gustavo-xafi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gust.and97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    </a>
+</div>
+
+<br>
+
+<div align="center">
+    <h1>
       Linguagens/Ferramentas/Stacks:
     </h1>
     <img align="center" alt="Xafi-MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
