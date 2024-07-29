@@ -15,7 +15,7 @@
 - ✔ Minhas principais soft skills são: Habilidade de Negociação, Organização e Liderança.
 
 
-- Busco  aprender algo diferente todos os dias, buscando sempre evoluir e ampliar meus conhecimentos nas ferramentas de TI. </h3>
+- Busco  aprimorar, evoluir e ampliar  meus conhecimentos nas ferramentas de na Área TI. </h3>
 </sub>
 
 __________________________________________________________________________________________________________________
