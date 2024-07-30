@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/>
 
-<h1 align="center">Olá! Eu sou o Herbert Felipe Emidio da Silva 👋</h1>
+<h1 align="center">Olá! Eu sou o Herbert Felipe Emidio 👋</h1>
 
 <h2>Sobre mim</h2>
 <p>Sou Herbert Emidio, um profissional dinâmico e orientado a resultados com sólida experiência na área financeira e um forte interesse em dados e tecnologia. Busco aplicar soluções inovadoras para maximizar o valor dos negócios e a satisfação dos clientes.</p>
