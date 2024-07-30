@@ -1,6 +1,6 @@
 # Marcelo Oliveira
 Olá, 
-Sou estudante de Blockchain e Criptografia Digital (CSI), estou começando a aprender programação agora.
+Sou estudante de Blockchain e Criptografia Digital (CST), estou começando a aprender programação agora.
 
 Presto suporte de TI em grandes empresas, mas estou fazendo essa mudança para programação. 
 
