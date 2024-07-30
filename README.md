@@ -93,3 +93,11 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+
+## Sobre Mim
+
+Olá, meu nome é Carlos Ben-Hur!
+
+- Sou desenvolvedor de Sistemas
+- Você pode encontrar meus projetos em [meu GitHub](https://github.com/benhurvirtual)
+- Entre em contato: carlosbenhurvirtual@gmail.com
