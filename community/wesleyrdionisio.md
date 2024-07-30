@@ -1,4 +1,4 @@
-<h1 align="center">Wesley R. Dionisio</h1>
+<h1 align="center">Wesley Dionisio</h1>
 
 ###
 
