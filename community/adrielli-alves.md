@@ -29,4 +29,6 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=adrielli-alves&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/adrielli-alves/dio-lab-open-source)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=adrielli-alves&repo=bootcamp_DIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/adrielli-alves/bootcamp_DIO)
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=adrielli-alves&repo=ciencia-computacao-python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/adrielli-alves/dio-lab-open-source)
