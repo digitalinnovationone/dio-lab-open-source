@@ -5,6 +5,8 @@ Esse é README do projeto Open Source da DIO onde irei contribuir com esse repos
 
 Aqui serão listados alguns comandos básicos sobre a utilização do Git no versionamento de código.
 
+&nbsp;
+
 ## 👨‍💻 Comandos Git para o dia a dia
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
@@ -23,8 +25,7 @@ Esses são apenas alguns dos comandos utilizados dentro do git para o auxilio no
 - [Git Documentation](https://git-scm.com/doc)
 - [GitHub Documentation](https://docs.github.com/pt)
 
-
-
+&nbsp;
 
 ## ☕ About me
 
@@ -44,21 +45,29 @@ Esses são apenas alguns dos comandos utilizados dentro do git para o auxilio no
 
 ```
 
+&nbsp;
 
 ## 💻 Technologies I use on a daily basis
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github)](https://skillicons.dev)
 
+&nbsp;
 
 ## 📚 Currently learning
 [![My Skills](https://skillicons.dev/icons?i=java,angular)](https://skillicons.dev)
 
+&nbsp;
 
 ## 🌎 On my roadmap
 [![My Skills](https://skillicons.dev/icons?i=spring,sass)](https://skillicons.dev)
 
+&nbsp;
 
+## 📈 Some Status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoAraujo95&theme=vue-dark&show_icons=true)
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FranciscoAraujo95&theme=vue-dark&layout=compact&)
 
+&nbsp;
 
 ## 📞 How to reach me
 
