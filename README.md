@@ -84,6 +84,8 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
  
 ⚠️ Resolvendo, respondendo ou indicando **issues**
 
+### Conteúdos que elevam o seu conhecimento, contribua.
+
 ⭐ Adicionando aos favoritos (**star**) 
 
 ### Membros da comunidade que já contribuiram:
