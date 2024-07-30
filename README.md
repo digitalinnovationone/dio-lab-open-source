@@ -57,6 +57,37 @@ Para contribuir neste repositório, uma das formas é através da contribuição
 Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
  Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
 
+## Convenção de Commits
+
+Para manter um histórico de commits claro e consistente, siga as seguintes diretrizes ao escrever suas mensagens de commit:
+
+
+| Tipo de Commit | Descrição |
+|----------------|-----------|
+| `feat`         | para novas funcionalidades |
+| `fix`          | para correção de bugs |
+| `docs`         | para mudanças na documentação |
+| `style`        | para formatação de código (sem alterações de lógica) |
+| `refactor`     | para alterações no código que não corrigem bugs nem adicionam funcionalidades |
+| `test`         | para adicionar ou modificar testes |
+
+
+### Referências
+
+1. **Conventional Commits Specification** - A especificação padrão para mensagens de commit claras e consistentes:
+   - [Conventional Commits](https://www.conventionalcommits.org)
+
+2. **Angular Commit Message Guidelines** - Um guia popular que influenciou muitas convenções de commits:
+   - [Angular Commit Message Guidelines](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#commit)
+
+3. **Keep a Changelog** - Um guia para manter changelogs claros e bem-organizados, que pode ser complementado com boas práticas de commits:
+   - [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
+
+4. **Semantic Versioning** - Um sistema de versionamento que pode ser melhor suportado com mensagens de commit estruturadas:
+   - [SemVer](https://semver.org)
+
+
+
 #### Utilitários
 
 [![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
