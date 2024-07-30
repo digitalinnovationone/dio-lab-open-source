@@ -70,8 +70,8 @@ Para isso, você pode inserir: badges indicando suas habilidades; cards com suas
 GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. Caso tenha dúvidas, você pode abrir uma discussão, dentro de uma categoria apropriada, na aba "Discussions" do repositório do projeto.
 
 ### Criando uma nova Branch
-Criando uma nova **branch** e nomeando como `feat/community/seunomedeusuario.md`: `git checkout -b feat/community/seunomedeusuario`;
-    > Exemplo: `git checkout -b feat/community/brenopsxky.md`
+Criando uma nova **branch** e nomeando como `feat/community/seunomedeusuario.md`: `git checkout -b feat/community/seunomedeusuario`;<br>
+  Exemplo: `git checkout -b feat/community/brenopsxky.md`
 ##
 
 > [!WARNING]  
