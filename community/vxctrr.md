@@ -4,14 +4,13 @@
 
 Hi, nice to meet you 😊.
 
-My name is Victor Gabriel, but you can call me *Victor*. I`m 24 years old. 
+My name is Victor Gabriel. I`m 24 years old. 
 
-I have worked in the IT area for 2 years, mainly with HelpDesk support, and in August 2023 I started my degree in systems analysis and development.
+I've worked in the IT area for 2 years, mainly with HelpDesk support, and in August 2023 I started my degree in systems analysis and development.
 I am currently studying Java and some Cloud technologies such as AWS and Azure through my efforts in addition to C# in my graduation.
+I have a initial knowledge with PostGreSQL, SQL Server, Python, HTML, CSS, PHP. But the language that i'm focusing is JAVA.
 
-I'm eager to learn new technologies and enhance my comprehension of technologies.
-
-Welcome to my little place.
+I have experience with some types of technologies, but the focus is in **Infrastructure and **Network**, like Cisco Switches, HP/Aruba Switches, Fortinet Firewalls, and some protocols like DNS, DHCP, NAT, etc..
 
 ### 📊 Statistics in GitHub
 
