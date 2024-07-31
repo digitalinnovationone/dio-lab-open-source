@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @polegar92
-- 👀 I have a postgraduate in IT Governance, a graduation in Computer Engineering and Bachelor's degree in Information Systems.
-- 🌱 I’m currently learning Java Spring Boot.
-- 💞️ I’m looking to collaborate on social and public projects.
