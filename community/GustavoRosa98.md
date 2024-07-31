@@ -1,4 +1,4 @@
-# <GUSTAVO DA ROSA>
+# GUSTAVO DA ROSA
 ##  Um breve resumo sobre mim:
 Experiência avançada (6 anos) em desenvolvimento web full-stack com ASP.NET MVC, envolvendo padrões de projeto, desenvolvimento de ERPs, fluxos de trabalho (com Aras Innovator), metodologias ágeis (SCRUM/Kanban), versionamento com Git, e seguindo princípios SOLID.
 
