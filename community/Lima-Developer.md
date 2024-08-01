@@ -1,6 +1,6 @@
 <h1 align="center"> Olá! Eu sou o João Victor | Hi! I'm João Victor 👋🏻</h1>
 <h3 align="center">Sou um aficionado estudante de Ciência da Computação, futuro Engenheiro de Dados</h3>
-<p align="center"> Tenho uma profunda admiração pela forma como a tecnologia molda nosso mundo e estou sempre fascinado pela complexidade e eficácia das soluções tecnológicas que impulsionam nossa era digital. Busco cultivar um constante crescimento intelectual, à procura de novas oportunidades de aprendizado e desenvolvimento.</p>
+<p align="center"> Tenho uma profunda admiração pela forma como a tecnologia molda nosso mundo e estou sempre fascinado pela complexidade e eficácia das soluções tecnológicas que impulsionam nossa era digital. Busco cultivar um constante crescimento intelectual, à procura de novas oportunidades de aprendizado e desenvolvimento. Atualmente estou me dedicando em estudar linguagem SQL e R.</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joao-v-fernandes/" target="_blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
