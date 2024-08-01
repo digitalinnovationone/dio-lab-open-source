@@ -1,5 +1,5 @@
 # LinneRodri
-Ola! Eu sou a Alinne, faço faculdade de analise e desenv. de Sistemas.
+Ola! Eu sou a Alinne, faco faculdade de analise e desenv. de Sistemas.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alinnerodrigues/)
