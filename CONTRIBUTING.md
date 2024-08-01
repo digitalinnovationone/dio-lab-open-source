@@ -1,95 +1,87 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Guia de Contribuição</span>
-</h1>
+# Vinicius Borges - Desenvolvedor Full Stack Júnior
 
-[![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/stargazers)
-[![Forks](https://img.shields.io/github/forks/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/forks)
-[![GitHub Issues](https://img.shields.io/github/issues/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/issues/)
+## Sobre Mim
 
- Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição além do seu exemplo de Profile README, é inserir outros utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils), ou melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/docs). <br>
- Além disso, você também pode contribuir:
- 
-⚠️ Resolvendo, respondendo ou indicando **issues**
+Durante minha participação na ÍmãTech, mergulhei no desenvolvimento Full Stack, adquirindo habilidades essenciais em diversas tecnologias. Dominei ferramentas como VsCode, Git e GitHub, construindo uma base sólida para o desenvolvimento colaborativo de projetos.
 
-⭐ Adicionando aos favoritos (**star**) 
+Aprofundei-me em linguagens fundamentais como HTML, CSS e JavaScript, desenvolvendo projetos práticos como o clone do Tinder e uma tabela de futebol individual. Além disso, explorei o universo dos bancos de dados, trabalhando com o PgAdmin4 e aprendendo a criar e manipular dados de forma eficiente.
 
-##  Contribuindo no diretório "Community" 
- A contribuição no diretório "Community" é uma das formas de completar o Desafio do lab "**Contribuindo em um Projeto Open Source no GitHub**" da [Digital Innovation One](https://www.dio.me/). Você pode colaborar criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. <br>
- Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
- Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
+Participei ativamente do desenvolvimento de um projeto de e-commerce totalmente funcional em React, integrando frontend, backend e banco de dados. Esse desafio me preparou para enfrentar os desafios do mercado de trabalho e contribuir com soluções inovadoras.
 
-### 1) Faça um **Fork** deste Repositório
-Acesse a página principal do repositório e clique no botão "Fork" no canto superior direito da página.
-> [!NOTE]  
-> Um "fork" no GitHub é uma cópia de um repositório que pode ser criada por qualquer usuário. <br>
-> Para mais detalhes, reveja a aula ou acesse a documentação do GitHub: [Criar fork de um repositório](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo).
+Atualmente, estou atuando como voluntário na CódigoCerto como Desenvolvedor Full Stack, onde crio interfaces de usuário responsivas e intuitivas utilizando HTML, CSS e JavaScript. Utilizo frameworks como React.js e Angular para criar experiências interativas, além de participar em reuniões de planejamento e discussão de requisitos.
 
-### 2) Clone localmente
-Abra o seu Git Bash e digite o comando `git clone` seguido da URL do seu fork para clonar o seu repositório localmente. Por exemplo:
-```bash
-git clone https://github.com/SEU_USERNAME/dio-lab-open-source.git
-```
-Pressione enter, e uma cópia do seu fork no GitHub será criada localmente.
+Estou em constante evolução, atualmente cursando Análise e Desenvolvimento de Sistemas, o que amplia ainda mais minha base de conhecimento e habilidades técnicas. Além disso, tenho interesse em aprender e aplicar novas tecnologias para expandir minhas capacidades no desenvolvimento full stack.
 
-### 3) Crie uma nova **branch** 
-Utilize o comando `git checkout -b` para criar e alternar para a nova branch e nomeie-a como `feat/community/SEU_USERNAME`
-> Exemplo: `git checkout -b feat/community/falvojr`
+## Principais Competências
 
-### 4) Crie o seu Profile README
- Dentro da pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub:
+- Next.js
+- React.js
+- JavaScript
+- Java
+- Node.js
+- PgAdmin4
+- HTML
+- Tailwind CSS
+- CSS Flexbox
 
-> Exemplo: `community/falvojr.md`
+## Experiência
 
-#### 4.1) Desenvolva o seu Profile README
-Para isso, você pode se inspirar nos exemplos no diretório [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils)
+### CodigoCerto
 
-### 5) Adicione suas alterações à "staging area" 
-Utilize o comando `git add community/SEU_USERNAME.md` para adicionar sua alteração (nesse caso o arquivo markdown criado)  à "staging area" no Git.
+**Desenvolvedor Full Stack**  
+junho de 2024 - Present (2 meses)  
+São Paulo, São Paulo, Brasil
 
-### 6) Crie um Commit
-Crie um commit e adicione a mensagem indicando a adição do seu perfil:
-```bash
-git commit -m"feat: add SEU_USERNAME profile"
-```
->[!IMPORTANT]
-> Verifique a [`Convenção de Commits`](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md#conven%C3%A7%C3%A3o-de-commits) para escrever a mensagem do seu commit de forma clara e padronizada.
+- Criação de interfaces de usuário responsivas e intuitivas utilizando HTML, CSS, Tailwind e JavaScript.
+- Utilização de frameworks como React.js e Next.js para criar experiências interativas.
+- Participação em reuniões de planejamento e discussão de requisitos.
 
-### 7) Envie as Alterações para o seu Repositório Remoto
-Envie as alterações realizadas no seu repositório local para a branch `feat/community/SEU_USERNAME` no seu repositório remoto com o comando:
-```bash
-git push origin feat/community/SEU_USERNAME
-```
->[!WARNING]
-> Caso você tenha criado seu arquivo diretamente no repositório remoto no GitHub, esse processo não será necessário.
+### Imã Tech
 
-### 8) Crie um **Pull Request**.
+**Boot Camp GODEV em JS, HTML, CSS, Node, React**  
+maio de 2022 - outubro de 2022 (6 meses)  
+Goiânia, Goiás, Brasil
 
-Atente-se para a seguir as orientações para a contribuição, principalmente:
-- Seu PR deve modificar apenas o arquivo community/SEU_USERNAME.md (dê uma olhadinha na aba "Files changed");
-- O nome desse arquivo deve ser exatamente igual ao nome de usuário no GitHub (nossa validação é case-sensitive).
+- Participação ativa na criação de um projeto de e-commerce em equipe.
+- Desenvolvimento utilizando JavaScript e ReactJS, com integração de um banco de dados PGAdmin4.
+- Formação Full Stack abrangente, adquirindo habilidades sólidas em CSS, HTML, JavaScript, ReactJS, Node.js e PGAdmin4.
 
->[!NOTE]
-> Caso não saiba como criar uma solicitação de pull, reveja o lab ou acesse a documentação do GitHub: [Como criar uma solicitação de pull
-](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+## Formação Acadêmica
 
-Após criar o seu Pull Request, nossa automação irá validar a sua submissão. Caso esteja tudo certo, será retornada uma mensagem indicado que seu PR foi aprovado. Do contrário, leia atentamente as orientações e verifique os arquivos modificados para saber se atende as instruções para contribuição.
-    
-    
-## Convenção de Commits 
+### Estácio
 
-| Tipo de Commit |Descrição                                                            | Exemplo
-| ---------------|----------------------------------------------------------------------|-----------
-| `feat`         | Adiciona uma nova funcionalidade ao projeto.                         | `feat: add USENAME.md profile`
-| `fix`          | Corrige um bug ou problema no projeto.                               | `fix: fixed issue fix#IssueNumber`
-| `docs`         | Altera a documentação do projeto.| `docs: update README.md`
-| `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         | `style: add EFFECTNAME to COMPONENT`
-| `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
-| `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
+**Análise e Desenvolvimento de Sistemas (ADS)**  
+janeiro de 2024
 
+### Ada Tech
 
-## Referências
-- [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
-- [CONVENTIONAL COMMITS. Summary](https://www.conventionalcommits.org/en/v1.0.0/)
-- [GITHUB. Configurar diretrizes para os contribuidores do repositório](https://docs.github.com/pt/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
+**Front-End, Programação de Computadores - Aplicativos Específicos**  
+junho de 2024
+
+### Imã Tech
+
+**Formação de Desenvolvimento FullStack**  
+maio de 2022 - novembro de 2022
+
+### UNIGOIÁS - Centro Universitário de Goiás
+
+**Curso Superior de Tecnologia (CST), Tecnologia em Gestão Comercial**  
+janeiro de 2014 - dezembro de 2015
+
+## Projetos Recentes
+
+- [Código Certo Frontend](https://codigocerto-frontend.netlify.app/)
+- [E-commerce Devs](https://ecommecer-devs.netlify.app/)
+- [Website Parallax Scrolling](https://websiteparallax-scrolling.netlify.app/)
+- [Café Animado](https://cafeanimado.netlify.app/)
+- [Lib Movies](https://lib-movies.netlify.app/)
+- [Geolocalização Rotas](https://geolocalizacao-rotas.netlify.app/)
+- [Jogo da Velha](https://jogoda-velhaa.netlify.app/)
+- [Calculadora CSS JS](https://css-js-cal.netlify.app/)
+
+## Contato
+
+- [GitHub](https://github.com/ViniciusBorgesdeAraujo)
+- [LinkedIn](https://www.linkedin.com/in/viniciusaraujodev)
+- [Portfolio](https://portfolio-vinicius-borges.netlify.app/)
+- [Email](mailto:vinnepaul@gmail.com)
