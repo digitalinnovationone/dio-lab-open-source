@@ -6,7 +6,7 @@
  Atualmente trabalho como Analista Treinee, utilizando SQL Oracle, Oracle Forms builder, Oracle Reports e PL/SQL. No meu tempo livre faço cursos para aprimoramento pessoal, além disso sou curioso e amo um desafio! 
  Formado em Análise e desenvolvimento de sistemas pela FATEC Zona Sul.
 
- Meu foco a curto prazo é ser um Desenvolvedor back-end, portanto tenho estudando para ser hábil nos desenvolvimentos back-end. Tenho feito cursos, além das demandas do trabalho, sempre me desafiando a criar implementações novas e a corrigir bugs e erros. 
+ Meu foco a curto prazo é ser um Desenvolvedor back-end, portanto tenho estudando para ser hábil nos desenvolvimentos back-end. Tenho feito cursos, além das demandas do trabalho, sempre me desafiando a criar implementações novas e corrigir bugs e erros. 
 
 
 ## Conecte-se comigo 📲
