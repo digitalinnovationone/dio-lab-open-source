@@ -3,6 +3,7 @@
 Estudante de Ciência de Dados e Inteligência Artificial.
  
  Em busca do inacreditavel através de conhecimentos.
+ Esse é apenas um readme simples para o projeto do bootcamp da DIO, o qual pretendo aprender muito para crescer profissionalmente
 
 
 
