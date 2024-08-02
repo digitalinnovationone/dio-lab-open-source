@@ -59,7 +59,7 @@ E --Study--> F[New expectations] --> G(Diferent Life)
 
 
 #### know more about me:
-* my ~social~ professional mídia link
+* my ~~social~~ professional mídia link
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:super.zinha@gmail.com)
 
