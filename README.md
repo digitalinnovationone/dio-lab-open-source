@@ -57,25 +57,6 @@ Para contribuir neste repositório, uma das formas é através da contribuição
 Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
  Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
 
-## Boas Práticas de Contribuição
-
-Para garantir uma colaboração positiva e produtiva no repositório, siga estas boas práticas:
-
-1. **Leia a Documentação**: Antes de começar a contribuir, leia a documentação disponível, incluindo este README e o [CONTRIBUTING.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md).
-
-2. **Abra uma Issue**: Se você identificar um problema ou tiver uma ideia de melhoria, abra uma issue para discutir a proposta antes de fazer grandes alterações. Isso ajuda a evitar trabalho duplicado e garante que sua contribuição esteja alinhada com os objetivos do projeto.
-
-3. **Commits Descritivos**: Faça commits descritivos e claros. Cada commit deve representar uma única mudança lógica no projeto.
-
-4. **Revisão de Código**: Participe da revisão de código de outros contribuidores. Isso ajuda a melhorar a qualidade do código e facilita o aprendizado mútuo.
-
-5. **Testes e Documentação**: Sempre que possível, inclua testes para suas alterações e atualize a documentação relevante.
-
-Ao seguir essas práticas, você contribui para um projeto mais colaborativo e eficiente, beneficiando toda a comunidade. 
-
----
-
-
 #### Utilitários
 
 [![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
