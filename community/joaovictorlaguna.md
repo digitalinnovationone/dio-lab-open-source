@@ -22,7 +22,7 @@ Atualmente trabalho como vendedor de Auto peças
 </br>
 
 ## **Minhas  Contribuições**
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=1988-Re-Nunes&repo=dio-lab-open-source&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)](https://github.com/1988-Re-Nunes/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictorlaguna&repo=dio-lab-open-source&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)](https://github.com/1988-Re-Nunes/dio-lab-open-source)
 </br>
 </br>
 </br>
