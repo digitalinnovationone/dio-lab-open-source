@@ -25,7 +25,7 @@ Atualmente trabalho como vendedor de Auto peças
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictorLaguna&repo=dio-lab-open-source&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)](https://github.com/1988-Re-Nunes/dio-lab-open-source)
 </br>
 </br>
-</br>
+
 
 ## **Estou Aprendendo**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
