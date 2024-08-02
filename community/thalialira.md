@@ -4,6 +4,7 @@
 # Thalia Lira
 
 Olá, muito prazer! Eu sou a Thalia :D
+
 Tenho 26 anos, sou formada em Gestão de Recursos Humanos, Pós Graduada em Cloud e Edge Computing pela Universidade São Judas Tadeu e atualmente estou no 4º semestre do curso de Análise e Desenvolvimento de Sistemas do SENAC. 
 
 Comecei a minha transição de carreira por volta do meu ano de formação (2021), onde passei por algumas experiências como Analista de Suporte de uma pequena empresa que oferecia soluções para cartórios e outra de médio porte que era o maior parceiro da Google Cloud na América Latina. Foi ali onde eu me encantei pelo mundo de Cloud e resolvi fazer um curso para me aprofundar e em 2023 conquistei a minha primeira certificação AWS Cloud Practitioner.
