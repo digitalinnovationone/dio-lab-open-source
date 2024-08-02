@@ -15,14 +15,14 @@ Atualmente trabalho como vendedor de Auto peças
 </br>
 
 ## **Status do Github** 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaovictorlaguna&theme=transparent&bg_color=122&border_color=40A5DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoVictorLaguna&theme=transparent&bg_color=122&border_color=40A5DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=1988-Re-Nunes&theme=transparent&bg_color=122&border_color=40A5DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB&layout=compact)
 </br>
 </br>
 </br>
 
 ## **Minhas  Contribuições**
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictorlaguna&repo=dio-lab-open-source&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)](https://github.com/1988-Re-Nunes/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictorLaguna&repo=dio-lab-open-source&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)](https://github.com/1988-Re-Nunes/dio-lab-open-source)
 </br>
 </br>
 </br>
