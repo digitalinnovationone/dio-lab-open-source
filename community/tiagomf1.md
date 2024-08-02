@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <style>
 .whatsapp-float {
     position: fixed;
