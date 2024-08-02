@@ -1,4 +1,4 @@
-Ola! Pode me chamar de Wagner, atualmente sou um estudante de Analise e Desenvolvimento de Sistema apaixonado por aprender sempre, me vir saindo de uma área onde eu tinha uma estabilidade e entrado para essa área totalmente diferente e desafiadora pra mim, a principio estou em busca de me tornar um desenvolverdor Full-Stack, espero conseguir atingir o objetivo, mas estou amando o contado como esse novo mundo.
+Atualmente sou um estudante de Analise e Desenvolvimento de Sistema apaixonado por aprender sempre, me vir saindo de uma área onde eu tinha uma estabilidade e entrado para essa área totalmente diferente e desafiadora pra mim, a principio estou em busca de me tornar um desenvolverdor Full-Stack, espero conseguir atingir o objetivo, mas estou amando o contado como esse novo mundo.
 
 ##
 ### 📊 Estatísticas no GitHub:
