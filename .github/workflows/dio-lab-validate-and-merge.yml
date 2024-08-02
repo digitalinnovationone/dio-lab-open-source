@@ -21,7 +21,7 @@ jobs:
     - name: Validate PR
       run: |
         AUTHOR_NAME="${{ github.event.pull_request.user.login }}"
-        FILE_PATH="community/$AUTHOR_NAME.md"
+        FILE_PATH="community/"
         
         # Obtém a lista de arquivos modificados usando a CLI do GitHub
         files_changed=$(gh api repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files --paginate | jq -r '.[].filename')

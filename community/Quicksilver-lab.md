@@ -23,18 +23,18 @@
 <h3> Skills</h3>
 
 - **Web Development**:
-  - 🌐 HTML, CSS, JavaScript
-  - 🛠️ WordPress Development
-  - 🖥️ Responsive Design & SEO Optimization
+  - 🌐 HTML, CSS, JavaScript.
+  - 🛠️ WordPress Development.
+  - 🖥️ Responsive Design & SEO Optimization.
 
 <div>
 <img align="right" src="https://github.com/Quicksilver-lab/Quicksilver-lab/blob/main/assets/coder.gif" width="40%"/>
   <br>
 
 - **Cybersecurity**:
-  - 🔒 Security Best Practices
-  - 🕵️‍♂️ Vulnerability Assessment
-  - ⚙️ Ethical Hacking Techniques
+  - 🔒 Security Best Practices.
+  - 🕵️‍♂️ Vulnerability Assessment.
+  - ⚙️ Ethical Hacking Techniques.
 
 - **Project Management**:
   - 📈 Product Listing & Management
