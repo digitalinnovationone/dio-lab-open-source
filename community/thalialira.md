@@ -3,7 +3,7 @@
 
 # Thalia Lira
 
-Olá, muito prazer! Eu sou a Thalia.
+Olá, muito prazer! Eu sou a Thalia :D
 Tenho 26 anos, sou formada em Gestão de Recursos Humanos, Pós Graduada em Cloud e Edge Computing pela Universidade São Judas Tadeu e atualmente estou no 4º semestre do curso de Análise e Desenvolvimento de Sistemas do SENAC. 
 
 Comecei a minha transição de carreira por volta do meu ano de formação (2021), onde passei por algumas experiências como Analista de Suporte de uma pequena empresa que oferecia soluções para cartórios e outra de médio porte que era o maior parceiro da Google Cloud na América Latina. Foi ali onde eu me encantei pelo mundo de Cloud e resolvi fazer um curso para me aprofundar e em 2023 conquistei a minha primeira certificação AWS Cloud Practitioner.
@@ -30,11 +30,8 @@ Será um prazer poder compartilhar essa jornada com você!
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=THALIALIRA&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=THALIALIRA&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-
- 
   </tbody>
   <tfoot></tfoot>
 </table>
