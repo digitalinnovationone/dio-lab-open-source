@@ -1,5 +1,5 @@
 
-# 👋 Olá, eu sou Jean Moraes Rocha!
+# 👋 Olá, eu sou Jean Moraes!
 
 [![GitHub Jean](https://img.shields.io/github/followers/JeanMRocha?label=Follow&style=social)](https://github.com/JeanMRocha)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean%20Moraes%20Rocha-blue?logo=linkedin)](https://www.linkedin.com/in/jean-moraes-rocha)
