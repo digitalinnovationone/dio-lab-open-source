@@ -1,17 +1,4 @@
 
-<style>
-.whatsapp-float {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    z-index: 1000; /* Garantir que ele esteja acima de outros elementos */
-}
-
-.whatsapp-float img {
-    width: 60px; /* Ajuste o tamanho conforme necessário */
-    height: 60px; /* Ajuste o tamanho conforme necessário */
-}
-</style>
 
 # Tiago Morais
 
@@ -47,11 +34,9 @@
 
 ### <div><a style="color:white" href="https://feito.online/external/Profile.pdf">📃 Currículo em pdf</a></div>
 #
-### Play Sound track! :)
-<iframe align="center" width="150" height="130" src="https://www.youtube.com/embed/woSz6sNuO4M?si=gS5xO2CfmS-DDWcC" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" referrerpolicy="strict-origin-when-cross-origin";
-></iframe>
 
-<div class="whatsapp-float">
-<a aria-label="Chat on WhatsApp" href="https://wa.me/5571988122398"><img alt="WhatsApp" src="https://feito.online/external/whatsapp.svg" />
+
+<div>
+<a aria-label="Chat on WhatsApp" href="https://wa.me/5571988122398?text=whatsapp%20pela%20DIO.me"><img alt="WhatsApp" src="https://feito.online/external/whatsapp.svg" />
 <a />
 </div>
