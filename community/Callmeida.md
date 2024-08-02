@@ -47,7 +47,7 @@ E --Study--> F[New expectations] --> G(Diferent Life)
 <details>
 <summary>
 
-### Habilidades
+### Abilities
 
 </summary>
 
