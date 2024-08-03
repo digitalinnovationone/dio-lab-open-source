@@ -1,0 +1,9 @@
+# Exercício de Curso
+
+Este repositório contém o código e os exercícios do curso [Nome do Curso]. Este exercício tem como objetivo ensinar e praticar comandos básicos de Git e GitHub.
+
+## Instruções
+
+1. Clone este repositório para a sua máquina local:
+   ```sh
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
