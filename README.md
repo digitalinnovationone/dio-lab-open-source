@@ -84,6 +84,8 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
  
 ⚠️ Resolvendo, respondendo ou indicando **issues**
 
+Para nova branch utilizar git checkout -b "Nome da Branch"
+
 ⭐ Adicionando aos favoritos (**star**) 
 
 ### Membros da comunidade que já contribuiram:
