@@ -1,6 +1,6 @@
-![](https://evermonte.com/wp-content/uploads/2022/09/tecnologia-inteligente-trabalho-humanizado.png)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Hello+World!+Me+chamo+Evandro+Santos.)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Esse+%C3%A9+meu+GitHub!)](https://git.io/typing-svg)
+<img src="https://scontent-gig4-1.xx.fbcdn.net/v/t39.30808-1/422969885_122115082304182595_6694014836954910757_n.jpg?stp=c0.0.200.200a_dst-jpg_p200x200&_nc_cat=105&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=OfvRiLkbdL0Q7kNvgH4ozH0&_nc_ht=scontent-gig4-1.xx&oh=00_AYBw5KT_uTjdZNNIy0iyj-t_KICKaj5zC4zZgJYkNN-7ew&oe=66B56588">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World!+Esse+é+meu+GitHub!)
 # Sobre mim
 Olá, meu nome é Evandro, tenho 39 anos e atualmente trabalho como Técnico na Claro Brasil, onde estou há 10 anos. Minha trajetória profissional me proporcionou uma base sólida e uma visão ampla do setor de telecomunicações, mas minha verdadeira paixão é a tecnologia. 
 
@@ -21,15 +21,14 @@ Estou empolgado com a oportunidade de aplicar minha paixão pela tecnologia e mi
 ![Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 
 ## Linguagens de Marcação e Estilo
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.icons8.com/?size=100&id=23028&format=png&color=FFFFFF)
+![CSS3](https://img.icons8.com/?size=100&id=38273&format=png&color=FFFFFF)
+![Markdown](https://img.icons8.com/?size=100&id=DgHQXqtXmQYX&format=png&color=FFFFFF)
 
 ## Linguagens de Programação
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.icons8.com/?size=100&id=laVIsJnTtYoj&format=png&color=000000)
+![Java](https://img.icons8.com/?size=100&id=5OD485koNIrb&format=png&color=000000) 
+![Python](https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000)
 
 em atualização....
 
