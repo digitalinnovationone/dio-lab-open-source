@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9966FF&height=120&section=header"/>
 
 # Kauã Lima de Queiroz
 #### _(Paracuru, CE - Brasil)_
