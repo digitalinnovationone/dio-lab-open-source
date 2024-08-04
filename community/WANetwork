@@ -1,0 +1,36 @@
+  <div class="container">
+        <h1>Olá! Meu nome é William</h1>
+        <h2>Bem-vindo(a) ao meu Perfil!</h2>
+        <p>Me chamo William A. Martins da Silva, estou no meu último semestre da faculdade de Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia desde que tive meu primeiro contato com programação, que foi durante o técnico em Telecomunicações pela ETEC, onde uma das matérias utilizava o Arduino. Meu maior sonho é conseguir um emprego na área da tecnologia. Estou estudando e dando o meu melhor para me capacitar e me tornar um programador competente.</p>
+        <hr>
+        <h2>Redes Sociais</h2>
+        <div class="social-links">
+            <a href="https://www.linkedin.com/in/williamperuibe" target="_blank">
+                <img src="https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn">
+            </a>
+            <a href="https://github.com/WANetwork" target="_blank">
+                <img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+            </a>
+        </div>
+        <hr>
+        <h2>Habilidades</h2>
+        <div class="skills">
+            <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript">
+            <img src="https://img.shields.io/badge/Php-000?style=for-the-badge&logo=php&logoColor=blue" alt="PHP">
+            <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" alt="HTML5">
+            <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS3">
+        </div>
+        <hr>
+        <h2>Programação</h2>
+        <div class="skills">
+            <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+            <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+        </div>
+        <hr>
+        <h2>Principais Projetos</h2>
+        <div class="center">
+            <a href="https://github.com/elidianaandrade/dio-lab-open-source" target="_blank">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Projeto DIO Git GitHub">
+            </a>
+        </div>
+    </div>
