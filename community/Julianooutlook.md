@@ -23,9 +23,9 @@
 <hr>
 <h1>Alguns Projetos </h1>
 
-:red_circle:![BLOG](https://github.com/Julianooutlook/Blog-Project)
-:heavy_check_mark:![BLOG](https://github.com/Julianooutlook/Calculator-Project)
-:computer:![BLOG](https://github.com/Julianooutlook/curriculo)
+:red_circle:[BLOG](https://github.com/Julianooutlook/Blog-Project)
+:heavy_check_mark:[CALCULADORA](https://github.com/Julianooutlook/Calculator-Project)
+:computer:[CURRICULO](https://github.com/Julianooutlook/curriculo)
 
 
 </a>
