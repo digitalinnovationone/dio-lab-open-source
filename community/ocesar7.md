@@ -1,3 +1,3 @@
 # Otávio César
 
-## Atualmente estudante de Ciência da Computação.
+Atualmente estudante de Ciência da Computação.
