@@ -23,14 +23,10 @@
 <hr>
 <h1>Alguns Projetos </h1>
 
-<a href="https://github.com/Julianooutlook/Blog-Project">
-<h1>Blog</h1>
-</a>
-<a href="https://github.com/Julianooutlook/Calculator-Project">
-<h1>Calculadora</h1>
-</a>
-<a href="https://github.com/Julianooutlook/curriculo">
-<h1>Curriculo</h1>
+https://github.com/Julianooutlook/Blog-Project
+https://github.com/Julianooutlook/Calculator-Project
+https://github.com/Julianooutlook/curriculo
+
 </a>
 <br>
 <br>
