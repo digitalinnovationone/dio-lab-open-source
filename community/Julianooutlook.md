@@ -23,10 +23,10 @@
 <hr>
 <h1>Alguns Projetos </h1>
 
-[![BLOG](:red_circle:)](https://github.com/Julianooutlook/Blog-Project)
+[![BLOG]:red_circle:](https://github.com/Julianooutlook/Blog-Project)
+[![BLOG]:heavy_check_mark:](https://github.com/Julianooutlook/Calculator-Project)
+[![BLOG]:computer:](https://github.com/Julianooutlook/curriculo)
 
-https://github.com/Julianooutlook/Calculator-Project
-https://github.com/Julianooutlook/curriculo
 
 </a>
 <br>
