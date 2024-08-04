@@ -1,4 +1,4 @@
-<h1>Oi,me chamo Juliano
+<h1>Oi, me chamo Juliano
 focado em Backend, mas com um pézinho no desenvolvimento Fullstack</h1>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="80">
@@ -29,3 +29,4 @@ focado em Backend, mas com um pézinho no desenvolvimento Fullstack</h1>
 <a href="https://www.linkedin.com/in/juliano-cesar-874348279/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="100">
 </a>
+############################
