@@ -1,4 +1,4 @@
-Hello my name's Candy, I am a recent graduate of systems analysis and development and i'm beggining a new journey at DIO.
+Hello my name's Candy, I am a recent graduate of systems analysis and development and i'm beggining a new journey at DIO. I'm looking for jobs and increase my knowledge.
 
 ## My Skills
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
