@@ -19,3 +19,4 @@ Estudante de tecnologia com previsão de formação em 12/2025. Fascinado e obce
 - **Comunicação**
 - **Flexibilidade**
 - **Proatividade**
+- **Empatia**
