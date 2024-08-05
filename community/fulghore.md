@@ -1,5 +1,5 @@
 
-# Bem vindo, eu sou Aldrin Lima (fulghore) 😊
+# Bem vindo, eu sou o Aldrin Lima (fulghore) 😊
 
 ## 🎓 Graduação
 - 🖥️ Graduado em análise e desenvolvimento de sistemas
