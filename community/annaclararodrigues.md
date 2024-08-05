@@ -42,9 +42,12 @@ Sou entusiasta pelo mundo de Desenvolvimento de Softwares, e por isso, sempre bu
 <br/>
 <br/>
 
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=annaclararodrigues&theme=transparent&date_format=j%20M%5B%20Y%5D&exclude_days=Sun"/></a>
+
 </p>
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=annaclararodrigues&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
 
 <br/>
 <br/>
@@ -52,7 +55,7 @@ Sou entusiasta pelo mundo de Desenvolvimento de Softwares, e por isso, sempre bu
 ## **🔎 Contato**
 [![Static Badge](https://img.shields.io/badge/DIO-blue?style=for-the-badge)](https://www.dio.me/users/annasubscriptionsconta)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anna-clara-rodrigues-691b37271/) 
-[![LinkedIn](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github)](https://github.com/annaclararodrigues) 
+[![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github)](https://github.com/annaclararodrigues) 
 
 
 
