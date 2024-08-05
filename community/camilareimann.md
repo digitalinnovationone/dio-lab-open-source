@@ -1,1 +1,0 @@
-Olá, eu sou a Camila Reimann. Sou estudante de desenvolvimento web fullstack na Dio.me. Gosto de videogames, livros, tecnologia, e sou UX Designer.
