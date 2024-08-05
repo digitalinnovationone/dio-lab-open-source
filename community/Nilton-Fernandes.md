@@ -3,10 +3,10 @@
 
     Segue um breve resumo profissional:
     #Formações: Técnico em eletrônica e Telecomunicação- Senai-SP.
-    engennharia da Computação- Univesp com formação concluida em 07/2023.
+    engenharia da Computação- Univesp com formação concluida em 07/2023.
 
     #experiências profissionais: técnico eletrônico/eletricista(manutenção de máquinas injetoras), 
-    técnico de manutenção de internet via-rádio e técnico de sistema de internent/telefone/tv a cabo.
+    técnico de manutenção de internet via-rádio e técnico de manutenção de internent/telefone/tv a cabo.
 
 
 O que busco?
