@@ -1,10 +1,6 @@
 # Olá a todos
 
-<<<<<<< HEAD
 Me chamo João Victor, sou recém-formado em Análise e desenvolvimento de sistemas. Sou curioso pela tecnologia e jogos.
-=======
-Me chamo João Victor, sou recem formado em Analise e desenvolvimento de sistemas. Sou curioso pela tecnologia e jogos.
->>>>>>> 015ca6b5ff87fffb47e265f2e5d8073321334775
 
 # Vamos nos conectar
 
