@@ -42,7 +42,7 @@ Prototipagem de todas as telas de um aplicativo que alerta as pessoas sobre a co
 
 **Game Jam Experience 2**
 
-Desenvolvimento de um jogo utilizando a engine "Game Maker" que envolve tanto conhecimento de design quanto de programação. O evento foi transmitido ao vivo na Twitch e o jogo teve destaque na web. [Link](https://www.culturamilanesa.com.br/2023/08/06/conheca-algumas-das-equipes-participantes-da-gamejam-experience-2-da-esportsmaker/)
+Desenvolvimento de um jogo utilizando a engine "Game Maker" que envolve tanto conhecimento de design quanto de programação. O evento foi transmitido ao vivo na Twitch e o jogo teve destaque na web. [Link](https://www.culturamilanesa.com.br/conheca-algumas-das-equipes-participantes-da-game-jam-experience-2-da-esportsmaker/)
 
 **Comunicast**
 
