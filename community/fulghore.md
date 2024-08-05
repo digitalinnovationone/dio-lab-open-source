@@ -5,7 +5,7 @@
 - 🖥️ Graduado em análise e desenvolvimento de sistemas
 - 🎲 Pós graduado em engenharia e análise de dados
 
-## 📱Contatos
+## 📱Contato
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@aldrin_17/)
 
