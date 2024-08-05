@@ -1,12 +1,12 @@
 <div align="center">
-  <img style="border-radius:100px;" height="150" src="https://github.com/afzsilva.png?s=400&u=787853edcdc4eb5407f6c1ce261683fa3abb57fa&v=4"  />
+  <img style="border-radius:100px;" height="150" src="https://github.com/Analistamax.png?s=400&u=787853edcdc4eb5407f6c1ce261683fa3abb57fa&v=4"  />
 </div>
 
 
 <h1 align="center">Olá 👋,Eu sou Max Rodrigues</h1>
 <h3 align="center">Analista de Sistemas</h3>
 
-- 🌱 Atualmente aprimorando os estudos na prate de DEV **Cursos Sobre Cloud, Git, Python, Java e Ferramentas de Desenvolvimento**
+- 🌱 Atualmente aprimorando os estudos na parte de DEV **Cursos Sobre Cloud, Git, Python, Java e Ferramentas de Desenvolvimento**
 
 - 👨‍💻 Você pode conferir alguns dos meus projetos de estudo [https://Analistamax.github.io/](https://Analistamax.github.io/)
 
