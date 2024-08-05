@@ -21,7 +21,7 @@ jobs:
     - name: Validate PR
       run: |
         AUTHOR_NAME="${{ github.event.pull_request.user.login }}"
-        FILE_PATH="community/$AUTHOR_NAME.md"
+        FILE_PATH="community/"
         
         # Obtém a lista de arquivos modificados usando a CLI do GitHub
         files_changed=$(gh api repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files --paginate | jq -r '.[].filename')
@@ -65,19 +65,17 @@ jobs:
     - name: Comment PR on Failure
       if: failure()
       run: |
+        REPO_URL=${{ github.event.pull_request.head.repo.html_url }}
         cat <<EOT > message.txt
-        Olá! Parece que houve um problema com o seu PR 🧐 Aqui estão algumas coisas para verificar:
-        - Seu PR deve modificar **apenas** o arquivo \`community/${{ github.event.pull_request.user.login }}.md\` (dê uma olhadinha na aba _"Files changed"_);
-        - O nome desse arquivo deve ser **exatamente** igual ao nome de usuário no GitHub (nossa validação é _case-sensitive_).
-
-        Para obter mais detalhes e garantir que tudo esteja correto, confira nossas instruções nos arquivos [README.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/README.md) e [CONTRIBUTING.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md) (que, em geral, NÃO devem ser modificados, pois são arquivos genéricos de apoio).
-
-        Se o seu PR tem um objetivo diferente, não se preocupe! Ele será analisado manualmente por nossa equipe, o que pode levar um pouco mais de tempo. Pedimos paciência nesse processo 🙏
-
-        Agradecemos sua contribuição e compreensão 👊😉
+        Aí sim hein! Seu PR foi aprovado 🥳 Você já pode submeter o seu projeto na plataforma da DIO. Segue sua URL:
+        \`\`\`
+        $REPO_URL
+        \`\`\`
+        Faremos o merge aqui em breve. Muito obrigado por fazer parte da nossa comunidade 🚀
         EOT
 
         gh pr comment ${{ github.event.pull_request.number }} --body-file=message.txt
+        gh pr edit ${{ github.event.pull_request.number }} --add-label "automerge"
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

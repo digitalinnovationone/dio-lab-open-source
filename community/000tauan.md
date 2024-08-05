@@ -7,7 +7,7 @@
   </a>
 </h1>
 
-#### Software Engineer | Node | Angular | Nest | React | React Native | Node | SQL
+#### Software Engineer | Node | Angular | Nest | React | React Native | Node | SQL |
 <i>(Paranavaí, PR - Brasil)</i>
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/tokou_cavalcanti)
