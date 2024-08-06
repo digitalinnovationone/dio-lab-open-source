@@ -1,4 +1,4 @@
-# Erick M Oliveira 
+# Erick M. Oliveira 
 
 Técnico de Mecatrônica por formação, atualmente trabalho com marketing digital prestando serviço para empresas de varejo. 
 Embora utilize HTML, CSS, JS e PHP em eu dia a dia para criação e personalização de sites, além de realizar pequenas automações e consumos de APIs com o Google Apps Script. Ingressei no Bootcamp Coding The Future XP Inc. Full Stack Developer, da DIO para reforçar e ampliar o conhecimento em tecnologias que já conheço como o C#, JavaScript, Git e SQL, além de aprender novas ferramentas, como React, Next.js, TypeScript e conceitos como Desenvolvimento voltado a Testes.
@@ -25,4 +25,4 @@ Embora utilize HTML, CSS, JS e PHP em eu dia a dia para criação e personaliza�
 ![Static Badge](https://img.shields.io/badge/Microchip%20PIC%20-%20black?style=for-the-badge&logoSize=auto)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erickM0&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erickM0&theme=merko&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&hide_title=true&text_color=FFF)![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=erickM0&layout=compact&theme=merko&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
