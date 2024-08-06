@@ -12,7 +12,7 @@ Atualmente procuro oportunidades de trabalhar como desenvolvedor.
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guiborgesilva)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guiborgesilva)
-[![linkedin](https://img.shields.io/badge/instagram-FFFFFF?style=for-the-badge&logo=instagram)](https://www.linkedin.com/in/guiborgesilva)
+[![instagram](https://img.shields.io/badge/instagram-FFFFFF?style=for-the-badge&logo=instagram)](https://www.instagram.com/ohguilhermeborges?igsh=empkd3d5bHBzdnFk)
 
 ## 🛠 Habilidades
 
