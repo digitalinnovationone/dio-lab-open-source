@@ -1,17 +1,16 @@
-# Olá, sou Eduardo
+<h1 align="center">Olá, sou Eduardo</h1>
+<h3 align="left
+">Estou aqui pelo curso Claro -JAVA com spring boot</h3>
 
-Estou aqui pelo curso Claro -Java com spring boot da [DIO](https://web.dio.me/)
 
-Estou iniciando uma mudança de carreira, venho da música tenho boas experiências de liderança através da minha formação em regência e atuação como maestro e tenho também a experiência de motar um cultivo de cogumelos comestíveis e comercializar o produto atendendo restaurantes, revendedores e consumidores finais através de entregas a domicílio.
 
-Qualquer erro de ortografia é porque ainda não tive tempo de aprender a colocar um corretor ortografico no VScode...
+- 🌱 Estou aprendendo **Python, Java, Git, Github**
 
-Estou iniciando em Python
+Por enquanto tenho só esse github [primtest](https://github.com/primtest)
+</p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-Interessado em aprender JAVA no curso
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=primtest&show_icons=true&locale=en" alt="primtest" /></p>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-No mais estou aqui iniciando uma jornada nesse GitHub.
