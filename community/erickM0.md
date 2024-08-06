@@ -1,7 +1,7 @@
 # Erick M. Oliveira 
 
 Técnico de Mecatrônica por formação, atualmente trabalho com marketing digital prestando serviço para empresas de varejo. 
-Embora utilize HTML, CSS, JS e PHP em eu dia a dia para criação e personalização de sites, além de realizar pequenas automações e consumos de APIs com o Google Apps Script. Ingressei no Bootcamp Coding The Future XP Inc. Full Stack Developer, da DIO para reforçar e ampliar o conhecimento em tecnologias que já conheço como o C#, JavaScript, Git e SQL, além de aprender novas ferramentas, como React, Next.js, TypeScript e conceitos como Desenvolvimento voltado a Testes.
+Embora utilize HTML, CSS, JS e PHP em eu dia a dia para criação e personalização de sites, além de realizar pequenas automações e consumos de APIs com o Google Apps Script. Ingressei no Bootcamp Coding The Future XP Inc. Full Stack Developer, da DIO para reforçar e ampliar o conhecimento em tecnologias que já conheço como o C#, JavaScript, Git e SQL, além de aprender novas ferramentas, como React, Next.js, TypeScript e conceitos como Desenvolvimento Voltado a Testes.
 
 ## Conecte-se Comigo
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@erickmo7342/)
