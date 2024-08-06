@@ -1,4 +1,3 @@
-# Me chamo Lucas
 ## Tudo bem? Bem vindo ao meu README!
 
 Pode me chamar de Lu, sou programador focado em Backend.
