@@ -4,6 +4,7 @@ Sou um jovem de 19 anos, apaixonado por tecnologia e estudante de Engenharia da 
 
 # Conecte-se comigo
 Se quiser conversar e interagir:
+
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pratooow/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-porto-pinheiro-do-prado/)
 	[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brenoprato)
@@ -26,7 +27,7 @@ Apesar de estar no começo, ja contribui em um projeto:
 ![Scratch Badge](https://img.shields.io/badge/Scratch-%23F4C20F?style=for-the-badge&logo=scratch&logoColor=white)
 Projeto de um jogo utilizando scratch , a intenção de fazer esse jogo foi para apresentar o labaratório de informática da meu ensino médio, o [instituto Embraer Juarez wanderley](https://g.co/kgs/A9k61jv). Certificado presente no meu [linkedin](https://www.linkedin.com/in/breno-porto-pinheiro-do-prado/)
 
-["Space Shooter!"](https://scratch.mit.edu/projects/667952127)
+[Link "Space Shooter!"](https://scratch.mit.edu/projects/667952127)
 
 
 
