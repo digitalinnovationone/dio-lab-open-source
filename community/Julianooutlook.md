@@ -31,6 +31,8 @@
 </a>
 <br>
 <br>
+<hr>
+<h2>Redes</h2>
 <a href="https://www.linkedin.com/in/juliano-cesar-874348279/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="90">
 </a>
