@@ -1,7 +1,6 @@
 # Jefferson Lucas Silva
 
-ATrabalho na área de tecnologia há alguns anos e atualmente estou aprendendo a programação
-backend utilizando a linguagem JAVA através do bootcamp da DIO.
+ATrabalho na área de tecnologia há alguns anos e atualmente estou aprendendo a programação backend utilizando a linguagem JAVA através do bootcamp da DIO.
 
 ### Conecte-se comigo
 
