@@ -2,8 +2,6 @@
 
 Atualmente trabalho como **Analista e Desenvolvedor Back-end - Hybris SAP Commerce**
 
-Analista Engenheira Eletricista de formação (UNIFEI)
-
 Mudei de carreira após meus 30 anos, tenho formação prévia em Lazer e Turismo e pós em Ciências Sociais pela USP e atuei mais de 10 anos com pesquisas.
 
 Em 2017 retomei os estudos e me formei como tecnóloga em Análise e Desenvolvimento de Sistemas na Fatec-SP.
