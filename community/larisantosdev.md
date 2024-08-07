@@ -8,7 +8,7 @@
 - 💻 Tecnologias favoritas: HTML, CSS e Javascript;
 - 📫 Contate-me pelo e-mail: laridsantoslima@gmail.com;
 - 😄 Meus pronomes: ela/dela;
-- ⚡ Fato divertido: _odeio cebolas!_
+- ⚡ Fato divertido: _eu odeio cebolas!_
 
 ## Minhas Skills👩🏻‍💻
 
