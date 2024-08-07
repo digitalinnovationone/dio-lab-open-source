@@ -2,8 +2,6 @@
 
  Sou Engenheiro de Software Sênior, trabalhando na área a mais de 13 anos, hoje atendendo clientes internacionais. Sempre fui muito curioso e autodidata e cursei Engenharia Elétrica, Análise e Desenvolvimento de Sistemas e estou no último semestre de medicina (não me entenda errado, eu pretendo continuar programando kkk). Sou apaixonado por programação, medicina, música e qualquer assunto que me chame atenção, confere meu LinkTree para ouvir meu soundcloud 😊. Hoje meu interesse está mais voltado para desenvolvimento utilizando IA, muitas ideias mas pouco conhecimento... Então é chegada a hora de aprofundar!
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danilloestrela&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 ## Confira meu OpenSource: Saint
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=danilloestrela&repo=saint&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/danilloestrela/saint)
