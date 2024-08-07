@@ -82,7 +82,7 @@
         Analista COP REDE<br>
         <em>Atual</em><br>
     </ul>
-    <h5 align="left">Estudando atualmente:</h5>
+    <h5 align="left">Estudando Atualmente:</h5>
 
 ###
 
