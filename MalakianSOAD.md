@@ -16,7 +16,7 @@
    <h2>Escolaridade</h2>
     <p><strong>Ensino Superior</strong><br>
     Anhanguera Educacional<br>
-     Sistemas para Internet<br>
+    Tecnologia Sistemas para Internet<br>
     <em>Conclusão: Cursando</em></p>
 
    <h2>Cursos</h2>
