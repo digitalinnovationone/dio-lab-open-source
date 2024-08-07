@@ -1,6 +1,6 @@
 # Romildo Alves de Lima Junior
 
-Sou formado em **Técnico de Contabilidade**, **Técnico em Rede de Computadores** e **Desenvolvimento de Sistema**. Atualmente, estou no **2º período na Faculdade Vincit**, cursando **Análise e Desenvolvimento de Sistema**. Gosto de programação em linguagem **Java** e, nas horas vagas, estudo **Programação de Games**.
+Sou formado em **Técnico em Rede de Computadores** e **Desenvolvimento de Sistema**. Atualmente, estou no **2º período na Faculdade Vincit**, cursando **Análise e Desenvolvimento de Sistema**. Gosto de programação em linguagem **Java** e, nas horas vagas, estudo **Programação de Games**.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romildo-a-lima-jr-/)
@@ -28,7 +28,7 @@ Sou formado em **Técnico de Contabilidade**, **Técnico em Rede de Computadores
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-## MOst Used Languages
+## Most Used Languages
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=romildoalimajr&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
