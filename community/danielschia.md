@@ -2,10 +2,8 @@
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajR1a2oxMmo4cmlzMmtlYWx4YXk3bTBlM2RkOTJwb3QyZGd1eWtvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif"/>
 </div>
+
 # Daniel Schiavoni
-
-
-
 
 ## 🚀 About me
 Developer and journalist.
