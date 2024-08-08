@@ -2,7 +2,6 @@
 
 Me chamo Luciano e estou cursando meu primeiro curso de Programação, no Boorcamp da DIO.
 
-Formado em Angenharia Eletrônica, Tive muitas dificuldades para entrar na área e acabei caindo de para-quedas no turismo onde trabalho atualmente. 
 
 Cursar Programação é o meu novo primeiro passo para voltar à área de Tecnologia e Fazer o que eu mais amo fazer, que é resolver problemas tecnológicos. 
 
