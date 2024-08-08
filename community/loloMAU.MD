@@ -3,15 +3,9 @@
 Me chamo **Alexsandro** e sou mais um apaixonado por tecnologia.
 
 
-|Jornada|
-| ---:
-|Comecei muito cedo o interesse pela área|
-|computacional, porém, na caminhada|
-|tomei rumo diverso concluindo|
-|o bacharelado em direito|
-|em 2002.|
+## Jornada
 
-
+*Comecei muito cedo o interesse pela área computacional, porém, na caminhada tomei rumo diverso concluindo o bacharelado em direito em 2002.*
 
 ## Habilidades básicas (iniciante)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
