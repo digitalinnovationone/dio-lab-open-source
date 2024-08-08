@@ -12,7 +12,7 @@
 <!--- Main skills -->
  <br>
 <div align="center">
-<h1> My skills:</h1>
+<h1> My skills::</h1>
 <br>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
