@@ -1,0 +1,135 @@
+#!/usr/bin/env bash
+
+# regex para validar a mensagem do commit
+# chamado quando o usuario executa o comando git commit
+# Garantindo que a convenção seja seguida nas mensagens
+
+# cores
+RED='\033[0;31m'
+NC='\033[0m' # No Color
+YELLOW='\033[1;33m'
+GREEN='\033[0;32m'
+
+message=$(grep -v '#' $1)
+
+# Especifique o tipo de commit
+error_msg="❌${RED}Commit abortado.${NC} Você deve adicionar um ${YELLOW}prefixo${NC} para o titulo do commit exemplo: \n"\
+"\t${YELLOW}docs:${NC} Altera a documentação do projeto. ${GREEN}(Exemplo: docs: update README.md)\n"\
+"\t${YELLOW}feat:${NC} Adiciona uma nova funcionalidade ao projeto. ${GREEN}(Exemplo: feat: add USENAME.md profile)\n"\
+"\t${YELLOW}fix:${NC} Corrige um bug ou problema no projeto. (${GREEN}Exemplo: fix: fixed issue fix#IssueNumber)\n"\
+"\t${YELLOW}refactor:${NC} Realiza mudanças no código que não alteram a funcionalidade. ${GREEN}(Exemplo: refactor: refactor at CLASSNAME)\n"\
+"\t${YELLOW}style:${NC} Realiza mudanças na aparência, sem alterar a funcionalidade. (${GREEN}Exemplo: style: add EFFECTNAME to COMPONENT)\n"\
+"\t${YELLOW}test:${NC} Adiciona ou modifica testes no projeto. ${GREEN}(Exemplo: test: add unit test for UserService)\n"\
+"\n"\
+"${YELLOW}<prefixo>: Adicionar convenção de commits no Guia de Contribuição\n"\
+"\n"\
+"Tarefa:\n"\
+"Issue-#43225\n"\
+"\n"\
+"Solucao:\n"\
+"* Script shell para impor as regras de mensagens de commit: ~\.git\hooks\commit-msg\n"\
+"\n"\
+"* Seven-rules\n"\
+"* 1. Separate subject from body with a blank line\n"\
+"* 2. Limit the subject line to 50 characters\n"\
+"* 3. Capitalize the subject line\n"\
+"* 4. Do not end the subject line with a period\n"\
+"* 5. Use the imperative mood in the subject line\n"\
+"* 6. Wrap the body at 72 characters\n"\
+"* 7. Use the body to explain what and why vs. how\n"\
+
+commit_regex='(^docs:|^feat:|^fix:|^refactor:|^style:|^test:)'
+
+# Without the type of commit
+if [[ "$message" =~ ${commit_regex} ]]; then
+    echo 
+else
+	printf "$error_msg"
+    exit 1
+fi
+
+# Constant
+max_size=50
+start_word="Tarefa:"
+end_word="Solucao:"
+word_after_blank_line=(Tarefa: Solucao:)
+
+# 1. Separate subject from body with a blank line
+# Check for a blank line before the word 'target_word'
+element_count=${#word_after_blank_line[*]}
+index=0
+
+while [ "$index" -lt "$element_count" ]
+do    # List all the elements in the array.
+  echo "$message" | grep -B1 ${word_after_blank_line[$index]} | grep -q '^$'
+  
+  if [ $? != 0 ]; then
+	echo -e "${RED}Commit abortado.${NC} Não há linha em branco antes da palavra '${word_after_blank_line[$index]}'. \n" >&2
+	exit 1	
+  fi  
+  
+  ((index++))
+done
+
+# 2. Limit the subject line to 50 characters
+error_msg="${RED}Commit abortado.${NC} O título do commit  deve ter no máximo ${max_size} caracteres: \n"
+
+extracted_string=$(echo "$message" | tr '\n' ' ' | sed -n "s/.*$start_word \(.*\) $end_word.*/\1/p" | awk '{$1=$1;print}')
+
+if ((${#extracted_string}>${max_size})); then
+    echo -e "$error_msg" >&2
+    exit 1
+fi
+
+error_msg="${RED}Commit abortado.${NC} O commit deve conter a palavra 'Tarefa:' antes do número da Issue.\n"\
+"${YELLOW}Exemplo:${NC}\n"\
+"${GREEN}Tarefa:${NC}\n"\
+"TG-01"
+
+# Count lines containing the word 'Tarefa:' at the beginning of the line
+count=$(echo "$message" | grep -c "^Tarefa:")
+
+if (( $count == 0 )); then	
+    echo -e "$error_msg" >&2
+    exit 1
+fi
+
+error_msg="${RED}Commit abortado.${NC} Você deve adicionar o número da sua tarefa na Issue.\n"\
+"${YELLOW}Exemplo:${NC}\n"\
+"${GREEN}Issue-#01${NC}"
+
+search_word="^Issue-"
+echo -e "$message" >&2
+# Count occurrences of 'search_word' followed by numbers
+count=$(echo "$message" | grep -o "${search_word}[0-9]\+" | wc -l)
+          
+if (( $count == 0 )); then
+    echo -e "$error_msg" >&2
+    exit 1
+fi
+
+error_msg="${RED}Commit abortado.${NC} O commit deve conter a palavra 'Solucao:' antes da lista de o que foi feito.\n"\
+"${YELLOW}Solucao:${NC}\n"
+
+# Count lines containing the word 'Solucao:' at the beginning of the line
+count=$(echo "$message" | grep -c "^Solucao:")
+
+if (( $count == 0 )); then	
+    echo -e "$error_msg" >&2
+    exit 1
+fi
+
+commit_regex='(\* [a-z0-9]+)'
+error_msg="${RED}Commit abortado.${NC} O commit deve conter uma lista de o que foi feito.\n"\
+"${YELLOW}* Adicionado o CSS para a pagina de login${NC}\n"\
+"${YELLOW}* Criado a validacao do campo de email${NC}\n"
+
+# Count occurrences of 'search_word' followed by numbers
+count=$(echo "$message" | grep -o "^*" | wc -l)
+          
+if (( $count == 0 )); then
+    echo -e "$error_msg" >&2
+    exit 1
+fi
+
+echo -e "${GREEN}Commit conforme a convenção, parabéns!${NC}\n"
