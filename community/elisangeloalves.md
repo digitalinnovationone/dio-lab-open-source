@@ -9,13 +9,11 @@
         background-color:black;
         height:0px;
     }
-    
 </style>
 </head >
 <body>
 
 ![header](https://capsule-render.vercel.app/api?text=Hello%20World!&fontAlignY=25&color=timeGradient&height=300&fontSize=80&desc=from%20bootcamp%20made%20by%20dio.%20and%20XP%20Inc.%20&descAlign=55&descAlignY=40&descSize=20&animation=twinkling)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&duration=4000&pause=1000&color=FBFF3A&width=435&lines=Hi!+Welcome+to+my+perfile...;I'm+so+glad+you're+here!)](https://git.io/typing-svg)
 
 <h1>About me</h1>
@@ -58,11 +56,8 @@
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=AWS-Lambda&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-
-
 ## Contact
 <p>Feel free to contact me where as you want it.</p>
-
 <div style="display:flex; flex-flow:row nowrap; justify-content:space-evenly;">
     <a href="https://www.linkedin.com/in/elisangeloalves/?locale=en_US">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
