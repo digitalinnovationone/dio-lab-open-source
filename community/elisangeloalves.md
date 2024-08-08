@@ -22,12 +22,12 @@
 </article>
 
 ## Stats
-<div style="display:flex; flex-flow:row nowrap; justify-content:space-evenly;">
+<div style="display:flex; flex-flow:row nowrap; justify-content:space-around; align-items:baseline;">
     <section>
-        <img alt="statistics" width="400px"  src="https://github-readme-stats.vercel.app/api?username=elisangeloalves&rank_icon=github&include_all_commits=true&show_icons=true&count_private=true&hide_border=true&title_color=D561FBFF&icon_color=D561FBFF&text_color=ffffff&bg_color=0d1119" alt="Elisangelo's github stats"/>
+        <img alt="statistics" heigth="400px"  src="https://github-readme-stats.vercel.app/api?username=elisangeloalves&rank_icon=github&include_all_commits=true&show_icons=true&count_private=true&hide_border=true&title_color=D561FBFF&icon_color=D561FBFF&text_color=ffffff&bg_color=0d1119" alt="Elisangelo's github stats"/>
     </section>
     <section> 
-        <img alt="top-languages" width="100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisangeloalves&layout=compact&hide_border=true&title_color=D561FBFF&text_color=ffffff&bg_color=0d1117"/>
+        <img alt="top-languages" width="350px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisangeloalves&layout=compact&hide_border=true&title_color=D561FBFF&text_color=ffffff&bg_color=0d1117"/>
     </section>
 </div>
 
