@@ -4,7 +4,7 @@ Hi, I'm Carlos Omar, I'm a self-taught full stack web developer and computer sci
 
 - 🔭 Studying front-end but interested in becoming full stack
 - 🌱Studying ANGULAR | SPRING | DJANGO
-- ⚡ Fun fact: I consider myself Ted Mosby
+
 
 
 ##
