@@ -13,7 +13,7 @@
 </head >
 <body>
 
-![header](https://capsule-render.vercel.app/api?text=Hello%20World!&fontAlignY=25&color=timeGradient&height=300&fontSize=80&desc=from%20bootcamp%20made%20by%20dio.%20and%20XP%20Inc.%20&descAlign=55&descAlignY=40&descSize=20&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?text=Hello%20World!&fontAlignY=25&color=timeGradient&height=300&fontSize=90&desc=from%20bootcamp%20made%20by%20dio.me%20and%20XP%20Inc.%20&descAlign=55&descAlignY=40&descSize=20&animation=twinkling)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&duration=4000&pause=1000&color=FBFF3A&width=435&lines=Hi!+Welcome+to+my+perfile...;I'm+so+glad+you're+here!)](https://git.io/typing-svg)
 
 <h1>About me</h1>
