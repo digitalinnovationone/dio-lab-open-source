@@ -50,11 +50,12 @@ Olá me chamo Felipe Alves, estudo no IFRN atualmente no 3º período de Anális
 
 ### Meus principais desafios de projeto
 
-[![dio-lab-open-source](https://github-readme-stats.vercel.app/api/pin/?username=Lipeeeeeee&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00477D&text_color=49B0FF)](https://github.com/Lipeeeeeee/dio-lab-open-source)
-[![sistema-bancario-com=python](https://github-readme-stats.vercel.app/api/pin/?username=Lipeeeeeee&repo=Sistema-bancario-com-python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00477D&text_color=49B0FF)](https://github.com/Lipeeeeeee/Sistema-bancario-com-python)
+[![dio lab open-source](https://github-readme-stats.vercel.app/api/pin/?username=Lipeeeeeee&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00477D&text_color=49B0FF)](https://github.com/Lipeeeeeee/dio-lab-open-source)
+[![Sistema bancário com python](https://github-readme-stats.vercel.app/api/pin/?username=Lipeeeeeee&repo=Sistema-bancario-com-python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00477D&text_color=49B0FF)](https://github.com/Lipeeeeeee/Sistema-bancario-com-python)
+[![FirstAPI](https://github-readme-stats.vercel.app/api/pin/?username=Lipeeeeeee&repo=FirstAPI&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00477D&text_color=49B0FF)](https://github.com/Lipeeeeeee/firstAPI)
+[![API com TDD](https://github-readme-stats.vercel.app/api/pin/?username=Lipeeeeeee&repo=API-com-TDD&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00477D&text_color=49B0FF)](https://github.com/Lipeeeeeee/API-com-TDD)
+[![lab natty or not](https://github-readme-stats.vercel.app/api/pin/?username=Lipeeeeeee&repo=lab-natty-or-not&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00477D&text_color=49B0FF)](https://github.com/Lipeeeeeee/lab-natty-or-not)
 
 ### Meus principais Artigos na DIO
 
-Não possuo artigos no momento😢...
-
-Mas terei futuramente 😁
+[Saiba como medir a complexidade do seu código apenas lendo ele!](https://web.dio.me/articles/saiba-como-medir-a-complexidade-do-seu-codigo-apenas-lendo-ele)
