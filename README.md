@@ -11,27 +11,7 @@ Repositório desenvolvido para fins didáticos, com a disponibilização de mate
 
 ## Objetivo
 
-Contribuir para um projeto de software livre no GitHub é mais do que apenas escrever código. É uma forma poderosa de:
-
--   Aprender: Ao trabalhar em um projeto real, você adquire experiência prática, aprende novas tecnologias e melhores práticas de desenvolvimento.
-
--   Colaborar: A interação com outros desenvolvedores, através de discussões e revisões de código, amplia sua rede de contatos e te ajuda a crescer profissionalmente.
-
--   Devolver à comunidade: Ao compartilhar seus conhecimentos e habilidades, você contribui para o desenvolvimento de ferramentas e recursos que beneficiam a todos.
-
--   Construir seu portfólio: Seus commits e pull requests no GitHub demonstram suas habilidades e podem ser utilizados em processos seletivos.
-
--   Impactar o mundo: Ao participar de projetos open source, você pode contribuir para a resolução de problemas reais e o desenvolvimento de tecnologias inovadoras.
-
-### Mas por que o GitHub?
-
--   Plataforma popular: É a plataforma de desenvolvimento colaborativo mais utilizada no mundo, facilitando a gestão de projetos e a colaboração entre desenvolvedores.
-
--   Visibilidade: Seus contribuições ficam visíveis para todos, o que pode te ajudar a encontrar novas oportunidades de trabalho.
-
--   Ferramentas poderosas: O GitHub oferece uma série de ferramentas que facilitam a colaboração, como issues, pull requests e code reviews.
-
-Em resumo, contribuir com projetos open source no GitHub é uma experiência enriquecedora que oferece diversos benefícios tanto para o desenvolvedor quanto para a comunidade.
+Aprender o básico sobre contribuição no GitHub.
 
 ## Ferramentas
 
