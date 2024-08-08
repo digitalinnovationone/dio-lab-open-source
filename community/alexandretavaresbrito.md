@@ -5,7 +5,7 @@
 
 Formação publicitária e com mais de 10 anos lidando com programação e webdesign, UX/UI. Tento trazer um olhar mais prático e alinhado com as expectativas dos clientes.
 
-### Linguagens e especialidades
+### Linguagens e frameworks
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
