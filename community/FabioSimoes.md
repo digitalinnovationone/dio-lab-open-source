@@ -1,4 +1,4 @@
-Seja Bem vindo!
+Seja Bem vindo!!
 
 Ola, meu nome e Fabio Simões, estou cursando Tecnologia e Analise de Sistemas no Instituto Federal do Paraná, já servi ao exercito pela Compania de Comando da 15ª Brigada de Infantaria Mecaniza. Atualmente trabalho como Analista de Suporte pela Linx.
 
