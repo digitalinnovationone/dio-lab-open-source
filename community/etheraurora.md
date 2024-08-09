@@ -17,3 +17,6 @@
 ## Repositorios
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=etheraurora&repo=Desktop-Project&bg_color=001921&border_color=033647&show_icons=true&icon_color=d16176&title_color=98e0d6&text_color=FFF)](https://github.com/EtherAurora/Desktop-Project)
+
+
+\\
