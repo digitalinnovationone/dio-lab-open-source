@@ -1,5 +1,5 @@
 
-<img src="https://github.com/DaviRibeiro06/dio-lab-open-source/utils/assets/img/capa.png?raw=true" width="100%">
+<img src="https://github.com/DaviRibeiro06/dio-lab-open-source/blob/feat/community/DaviRibeiro06/utils/assets/img/capa.png?raw=true" width="100%">
 
 ​			Olá pessoal, meu nome é **Davi Ribeiro**, tenho **21 anos** e estou adentrando na carreira de **DevSecOps**, estou me graduando em **Sistema de Informação** no Centro Universitário Católica de Quixadá - UniCatólica.
 
