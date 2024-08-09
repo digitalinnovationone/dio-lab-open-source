@@ -19,9 +19,10 @@
 
 ### Conecte-se comigo
 [Perfil DIO](https://www.dio.me/users/thenilson)
+
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=AA42F7)](mailto:contato.thenilson@yahoo.com)
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=AA42F7)](https://www.linkedin.com/)
 
 ### GitHub Stats
-![GitHub Stats](https://github.com/Then10)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=23LSDev&layout=compact&bg_color=000&border_color=AA42F7&title_color=AA42F7&text_color=FFF)
+ <a href="https://www.github.com/Then10" target="_blank" rel="Then10"> 
