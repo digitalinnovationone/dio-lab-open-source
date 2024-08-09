@@ -8,7 +8,7 @@ Sou estudante de Cyber Segurança na FIAP (Faculdade de Informática e Administr
 
 
 ## 📚☕ Atualmente estou estudando:
-- ![Infraestrutura de Rede](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-- ![CompTIA+](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
+- ![Infraestrutura de Rede](https://img.shields.io/badge/Infraestrutura_de_Rede-000?style=for-the-badge&logo=java)
+- ![CompTIA+](https://img.shields.io/badge/CompTIA+-000?style=for-the-badge&logo=CompTIA+&logoColor=C3002F)
 
- <iframe src="https://giphy.com/embed/QpVUMRUJGokfqXyfa1" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/one-numbers-binary-code-QpVUMRUJGokfqXyfa1">via GIPHY</a></p>
+![octocat-1723238507639](https://github.com/user-attachments/assets/0029cef9-fa6c-47b5-9c59-5ad936e2d542)
