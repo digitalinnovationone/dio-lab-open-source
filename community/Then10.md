@@ -1,7 +1,7 @@
 
 
 ---
-[Typing SVG]([![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=485&lines=Olá+Mundo!+Seja+bem-vindo+ao+meu+perfil+no+GitHub!;Prazer%2C+meu+nome+%C3%A9+Thenilson)]
+([![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=485&lines=Olá+Mundo!+Seja+bem-vindo+ao+meu+perfil+no+GitHub!;Prazer%2C+meu+nome+%C3%A9+Thenilson)]
 
 # Quem sou eu?
 Meu nome é Thenilson, Sou um apaixonado pela tecnologia, que me despertou o interesse e o amor pela programação. Estou iniciando minha carreira, visando o meio profissional, sempre buscando evolução, apreendizado e novos desafios.
