@@ -1,0 +1,13 @@
+# Commit Message Template
+# Prefixos: docs:,feat:,fix:,refactor:,style:,test: (50 caracteres ou menos)
+<prefixo>: <descricao>
+
+# Tarefa: 
+# Issue-<numero da Issue>
+Tarefa:
+Issue-
+
+# Solucao: 
+# * <descricao> (72 caracteres ou menos por linha)
+Solucao:
+*
