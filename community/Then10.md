@@ -1,7 +1,6 @@
 
 
----
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=485&=60&lines=Olá+Mundo!+Seja+bem-vindo+ao+meu+perfil+no+GitHub!;Prazer%2C+meu+nome+%C3%A9+Thenilson)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&weight=450&pause=1000&width=485&height=60&lines=Ol%C3%A1++Mundo!++Seja+bem+vindo+ao+meu+perfil+no+Github;Prazer%2C+Meu+nome+%C3%A9+Thenilson)](https://git.io/typing-svg)
 
 
 # Quem sou eu?
