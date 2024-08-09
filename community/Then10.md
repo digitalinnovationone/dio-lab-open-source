@@ -6,7 +6,7 @@
 # Quem sou eu?
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=7BF782&width=450&height=90&lines=Meu+nome+%C3%A9+Thenilson%2C+Sou+um+apaixonado+pela+;tecnologia%2C+que+me+despertou+o+interesse+e+o+amor+;pela+programa%C3%A7%C3%A3o.+Estou+iniciando+minha+carreira%2C+visando+o+meio+profissional%2C+sempre+buscando+evolu%C3%A7%C3%A3o%2C+apreendizado+e+novos+desafios.;visando+o+meio+profissional%2C+sempre+buscando+a+;evolu%C3%A7%C3%A3o%2C+apreendizado+e+novos+desafios.)](https://git.io/typing-svg)
 ### Conecte-se comigo
-[![Perfil DIO](https://www.dio.me/users/thenilson)
+[![Perfil DIO](https://www.dio.me/users/thenilson)]
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=AA42F7)](mailto:contato.thenilson@yahoo.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=AA42F7)](https://www.linkedin.com/)
 
