@@ -14,11 +14,18 @@
     <img src="https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge" alt="Link do Lab">
   </a>
 </p>
+<div align="center">
+  <img src="https://via.placeholder.com/600x300.png?text=Contributing+to+Open+Source" alt="Contributing to Open Source">
+</div>
 Objetivo
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 Aprender o básico sobre contribuição no GitHub.
 
 Ferramentas
-<p>
+<p align="center">
   <a href="https://docs.github.com/" style="color: #30A3DC;">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC" alt="GitHub">
   </a>
@@ -27,6 +34,9 @@ Ferramentas
   </a>
 </p>
 Percurso
+<div align="center">
+  <img src="https://via.placeholder.com/500x250.png?text=GitHub+Learning+Path" alt="GitHub Learning Path">
+</div>
 <table>
   <thead>
     <tr align="left" style="color: #E94D5F;">
@@ -54,6 +64,9 @@ Percurso
   </tbody>
 </table>
 Desafio de Projeto da DIO
+<p align="center">
+  <img src="https://via.placeholder.com/600x300.png?text=Project+Challenge" alt="Project Challenge">
+</p>
 Agora que você já sabe as formas de contribuir em um projeto Open Source, está na hora de colocar em prática o seu conhecimento sobre contribuição no GitHub! Para concluir este Desafio de Projeto, basta enviar a URL do seu "fork" de um projeto Open Source que você contribuiu para a entrega do desafio na plataforma DIO.
 
 Nota:
@@ -65,7 +78,7 @@ Para contribuir neste repositório, uma das formas é através da contribuição
 Inspire-se consultando os exemplos na pasta community, confira alguns utilitários na pasta utils e use sua criatividade para criar o seu 😊💙.
 
 Utilitários
-<p>
+<p align="center">
   <a href="https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md">
     <img src="https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge" alt="Badges">
   </a>
@@ -80,13 +93,16 @@ Importante:
 Confira as instruções antes de enviar a sua contribuição em CONTRIBUTING.md.
 
 Fórum do Repositório (GitHub Discussions)
+<p align="center">
+  <img src="https://via.placeholder.com/500x250.png?text=GitHub+Discussions" alt="GitHub Discussions">
+</p>
 GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. Caso tenha dúvidas, você pode abrir uma discussão, dentro de uma categoria apropriada, na aba "Discussions" do repositório do projeto.
 
 Atenção:
 Antes de criar uma nova discussão, verifique se sua dúvida já foi respondida em discussões anteriores. Use a função de pesquisa para encontrar tópicos relevantes.
 
 Contribua
-<p>
+<p align="center">
   <a href="https://github.com/digitalinnovationone/dio-lab-open-source/stargazers">
     <img src="https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social" alt="Star">
   </a>
