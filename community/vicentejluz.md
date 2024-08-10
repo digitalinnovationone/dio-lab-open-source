@@ -9,7 +9,7 @@ Nos meus tempos livres, gosto de ir à academia, assistir filmes e séries, e as
 ### Conecte-se comigo
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/vicentejluz/)
-[![Perfil Beecrowd](https://img.shields.io/badge/-Meu%20Perfil%20na%20Beecrowd-FFFF00?style=for-the-badge)](https://web.dio.me/users/vicentejluz/)
+[![Perfil Beecrowd](https://img.shields.io/badge/-Meu%20Perfil%20na%20Beecrowd-FFFF00?style=for-the-badge)](https://www.beecrowd.com.br/judge/pt/profile/374484)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/vicentejluz/)
 
 ### Habilidades
