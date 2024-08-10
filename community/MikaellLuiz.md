@@ -1,6 +1,6 @@
 # Olá👋🏻. Eu sou o Mikael Luiz!
 
-### Sou um estudande de Sistemas de Informação, estou sempre em busca de aprimorar minhas habilidades e adquirir novos conhecimentos. 
+### Sou um estudande de Sistemas de Informação, estou sempre aprimorando minhas habilidades e adquirindo novos conhecimentos. 
 
 #### No meu Perfil, irei postar meus trabalhos da faculdade e alguns projetos para o meu portifólio.
 
