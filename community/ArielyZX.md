@@ -1,7 +1,7 @@
 # *❓ Quem sou eu*
  Oi, meu nome é Ariely. Eu estou no ensino médio e curso Informática. <br>
 As coisas que mais amo são:
-- Observar e refletir sobre a Vida;
+- Observar e refletir sobre a vida;
 - Me divertir de qualquer forma;
 - Conhecer e saber cada vez mais sobre diversos assuntos.
 
