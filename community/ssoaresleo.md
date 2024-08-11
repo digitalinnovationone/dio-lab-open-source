@@ -11,6 +11,6 @@ Desenvolvedor apaixonado por tecnologia, sempre explorando novas ferramentas e a
 
 ## Habilidades
 
-(React JS | NextJS | Typescript | Javascript ) 🚀
+(React JS | NextJS | Typescript | Javascript | Java ) 🚀
 
 Always creating new ideas 💜
