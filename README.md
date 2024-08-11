@@ -15,7 +15,7 @@
   </a>
 </p>
 <div align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Contributing+to+Open+Source" alt="Contributing to Open Source">
+  <img src="https://cdn.pixabay.com/photo/2018/08/13/19/28/github-394322_1280.png" alt="GitHub Logo">
 </div>
 Objetivo
 <p align="center">
@@ -23,6 +23,7 @@ Objetivo
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 Aprender o básico sobre contribuição no GitHub.
+
 
 Ferramentas
 <p align="center">
