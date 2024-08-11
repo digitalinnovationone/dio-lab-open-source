@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Olá! Eu sou o Joé Gean 👋</h1>
+<h1 align="center">Olá! Eu sou o José Gean 👋</h1>
 
 
  <h2>Sobre mim</h2> 
