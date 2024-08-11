@@ -3,7 +3,7 @@
 ### Hey, what's up? 👋🏽
 
 
-I’m Filipe, an 18-year-old software engineering student from São Paulo, Brazil, studying at UNIASSELVI. I’m passionate about learning new skills and continuous improvement.
+I'm Filipe, an 18-year-old software engineering student from São Paulo, Brazil, studying at UNIASSELVI. I’m passionate about learning new skills and continuous improvement.
 
 <br>
 
