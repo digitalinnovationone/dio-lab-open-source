@@ -1,7 +1,3 @@
-Aqui está o seu perfil traduzido para o inglês:
-
----
-
 # 👋 Hi! I'm Massami
 
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/your-profile)-->
