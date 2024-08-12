@@ -1,6 +1,6 @@
 README | PORTFOLIO
 # IASMIN SANTIAGO 
-Conecte-se comigo! [Meu perfil na DIO](https://www.dio.me/en)
+Conecte-se comigo! [Meu perfil na DIO](https://dio.me/users/iasmin_santiago)
 
 
 
