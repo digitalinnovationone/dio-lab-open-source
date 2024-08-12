@@ -15,7 +15,6 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img align="center" alt="html5" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </div><br/>
 
 Apaixonado por programação sou um constante estudante da tecnologia buscando me desenvolver como um excelente profissional. Acredito fortemente que o estudo é a base para o crescimento, por isso estudo diariamente visando ser uma pessoa melhor e assim conseguir atingir meus objetivos.
