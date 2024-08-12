@@ -19,7 +19,7 @@ Originally from Brazil, I'm currently living in Japan. Besides studying programm
 ## 📚 Featured Projects
 
 - [**CodeLab**](https://github.com/mcmassami/codelab): Repository for exercises and projects related to my continuous learning and development.
-- [**Exercism**](https://github.com/mcmassami/exercism): Organization of my solved exercises and challenges on Exercism.
+<!-- - [**Exercism**](https://github.com/mcmassami/exercism): Organization of my solved exercises and challenges on Exercism. -->
 
 ## 📈 Goals for 2024
 
