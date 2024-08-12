@@ -4,7 +4,7 @@
 
 <i>Diadema, Sp - Brasil</i>
 
-Atualmente trabalhando na área fiscal, porém querendo focar apenas na área de tecnologia.
+Atualmente trabalho na área fiscal, mas meu objetivo é direcionar minha carreira exclusivamente para a área de tecnologia.
 
 [![GitHub](https://img.shields.io/badge/GitHub-F7567C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WillianXx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-bezerra-58b051322/)
