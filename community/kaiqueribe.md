@@ -2,13 +2,15 @@
 
 Back-end Developer
 
-##  About me
+## Sobre mim
 
-  Em 2023, retomei meus estudos em programação, com um foco especial no desenvolvimento backend. Desde então, tenho me dedicado a aprimorar minhas habilidades no ecossistema Java, particularmente com Spring Boot. 
-  
-  Utilizo ferramentas e tecnologias como Git, Docker, Postman, PostgreSQL e Maven para desenvolver APIs robustas e escaláveis. Paralelamente, estou estudando tecnologias DevOps para, no futuro, manter aplicações em cloud, como AWS ou Azure.
-  
-  Recentemente, também comecei a explorar o desenvolvimento frontend com o framework Angular, buscando criar aplicações web completas e integradas, desde a interface até a lógica de negócio.
+
+
+Em 2023, retomei meus estudos em programação, com um foco especial no desenvolvimento backend. Desde então, venho aprimorando minhas habilidades no ecossistema Java, especialmente com Spring Boot, e utilizando tecnologias como Git, Docker, Postman, PostgreSQL, MongoDB e Maven para desenvolver APIs robustas e escaláveis. Paralelamente, estou estudando tecnologias DevOps e Cloud Computing, para no futuro gerenciar aplicações em nuvens como AWS ou Azure.
+
+Recentemente, também comecei a explorar o desenvolvimento frontend com o framework Angular, buscando criar aplicações web completas e integradas, desde a interface até a lógica de negócio.
+
+Estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente.
 
 
 ## 📊 My activities
@@ -34,7 +36,7 @@ Back-end Developer
 
 
 
-## Connect with me:
+## Contato:
 <p align="left">
 <a href="https://www.linkedin.com/in/kaiqueribe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
@@ -48,21 +50,16 @@ abr de 2023 - fev de 2024
 
 **Universidade Paulista (UNIP)** <br>
 Análise e Desenvolvimento de Sistemas <br>
-jan de 2016 - jun de 2017
-
-
-
-
+mar de 2016 - mar de 2017
 
 ## Hardskills:
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,spring,angular," />
-</a>
-
+</a><br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,docker,maven,postman,mysql,mongo,postgres,aws,azure"/>
-</a>
+</a><br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode" />
 </a>
