@@ -1,4 +1,4 @@
-# Amanda Azevedo
+# Jean Cordeiro
 
 Olá, sou Jean, um professor de formação que começou a estudar Programação e se encantou. Hoje estou cursando tecnólogo em análise e desenvolvimento de sistemas, dedicando boa parte do meu tempo em estudos em programação Java.
 
