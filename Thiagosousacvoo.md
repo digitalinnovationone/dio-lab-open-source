@@ -1,4 +1,4 @@
-Oii! Eu sou o Thiago Ferreira Sousa👋
+Oii! Eu sou o Thiago Ferreira Sousa👋 
 
 - 🌱 Estou aprendendo atualmente a desenvolver aplicações front-end
 
