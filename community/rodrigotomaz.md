@@ -24,3 +24,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rodrigo-tomaz-840108323)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RodrigoTomaz)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodpay6@gmail.com)
+
+## About Me - Sobre Mim
+
+>Hi, my name is Rodrigo, I've 18 years, I like of the area Front-End Developer and Back-End, I'm a passionate in world of the technology, currently I search work as Front-End Developer.
+
+>Olá, meu no é Rodrigo, eu tenho 18 anos, Eu gosto da área de Desenvolvedor Front-End e Back-End, sou um apaixonada no mundo da tecnologia, atualmento procuro trabalhar como Desenvolvedor Front-End.
+
+#### Thanks For Read - Obrigado por ler 😁
