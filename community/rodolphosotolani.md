@@ -1,22 +1,22 @@
 ## Seja muito bem-vindo(a) ao meu perfil 😁
 Meu nome é Rodolpho, sou desenvolvedor Backend Java, atualmente estou trabalhando e buscando sempre me desenvolver sobre Spring Boot, Java, Kotlin, MongoDB, Kafka, Cloud, Docker e Kubernetes.
 Tenho 37 anos, casado e pai de um filha de 10 anos.
+<br/>
 
 ### Tecnologias e Ferramentas que utilizo:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="50" width="50" src="https://devicons.railway.app/i/java.svg" />
-  <img align="center" alt="Spring" height="50" width="50" src="https://devicons.railway.app/i/spring.svg" />
-  <img align="center" alt="PostgreSQL" height="50" width="50" src="https://devicons.railway.app/i/postgresql.svg"/>
-  <img align="center" alt="MongoDB" height="50" width="50" src="https://devicons.railway.app/i/mongodb.svg"/>
-  <img align="center" alt="Redis" height="50" width="50" src="https://devicons.railway.app/i/redis.svg"/>
-  <img align="center" alt="Docker" height="50" width="50" src="https://devicons.railway.app/i/docker.svg"/>
-  <img align="center" alt="GitHub" height="50" width="50" src="https://devicons.railway.app/i/github-dark.svg"/>
-  <img align="center" alt="Gitlab" height="50" width="50" src="https://devicons.railway.app/i/gitlab.svg"/>
+<div>
+  <img alt="Java" height="50" width="50" src="https://devicons.railway.app/i/java.svg" />
+  <img alt="Spring" height="50" width="50" src="https://devicons.railway.app/i/spring.svg" />
+  <img alt="PostgreSQL" height="50" width="50" src="https://devicons.railway.app/i/postgresql.svg"/>
+  <img alt="MongoDB" height="50" width="50" src="https://devicons.railway.app/i/mongodb.svg"/>
+  <img alt="Redis" height="50" width="50" src="https://devicons.railway.app/i/redis.svg"/>
+  <img alt="Docker" height="50" width="50" src="https://devicons.railway.app/i/docker.svg"/>
+  <img alt="GitHub" height="50" width="50" src="https://devicons.railway.app/i/github-dark.svg"/>
+  <img alt="Gitlab" height="50" width="50" src="https://devicons.railway.app/i/gitlab.svg"/>
 </div>
+<br/>
 
 ### Resumo do meu Github:
-
 <div style="margin: 30px;">
      <div>
        <a href="https://github.com/rodolphosotolani">
@@ -27,7 +27,8 @@ Tenho 37 anos, casado e pai de um filha de 10 anos.
        </a>
     </div>
 </div>
- 
+<br/>
+
 ### Conecte-se comigo!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodolpho-teixeira-sotolani/)
