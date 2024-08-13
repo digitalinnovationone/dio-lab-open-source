@@ -25,7 +25,7 @@ Empatia / Respeito / Bom ouvinte / Disciplina / Foco / Determinação / Pontuali
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanSieiro-Dev&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RyanSieiro-Dev/DIO-LAB-OPEN-SOURCE)
 
 ## Formas de contato 📞
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/ryan-sieiro-994973321/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-sieiro-994973321/)
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RyanSieiro-Dev)
