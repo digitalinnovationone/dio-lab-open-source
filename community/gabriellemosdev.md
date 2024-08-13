@@ -70,5 +70,5 @@
 
 <h1>Projetos</h1>
 <h2>Licença ágil</h2>
-<p>O projeto nasceu em um hackathon, organizado pelo SESCAP DE LONDRINA, nesse evento eu crieia ideia de criar um software para os escritórios de contabilidade cadastrarem e gerenciar as informações de novas empresas que os procuram para obter o alvará de funcionamento. Eu desenvolvi o projeto usando React JS, Java para Back-end e o postgresql para o banco de dados, é software web como um site onde os usuários acessam digitando sua URL: http://www.licencaagil.com.br. Quer saber mais clique no link abaixo do reposotório do projeto.</p>
+<p>O projeto nasceu em um hackathon, organizado pelo SESCAP DE LONDRINA, nesse evento eu criei a ideia de criar um software para os escritórios de contabilidade cadastrarem e gerenciar as informações de novas empresas que os procuram para obter o alvará de funcionamento. Eu desenvolvi o projeto usando React JS, Java para Back-end e o postgresql para o banco de dados, é software web como um site onde os usuários acessam digitando sua URL: http://www.licencaagil.com.br. Quer saber mais clique no link abaixo do reposotório do projeto.</p>
 <p><a href="https://github.com/gabriellemospereira/LicencaAgil">Licença ágil</a></p>
