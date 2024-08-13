@@ -1,6 +1,6 @@
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+JOÃO+VICTOR+NASCIMENTO;I'm+26+years+old;I+from+Brasil,+SP;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+JOÃO+VICTOR+NASCIMENTO;I'm+26+years+old;I+from+Brasil,+SP;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ### About me:
 I'm a system analyst and I'm studying to become a Java developer.
@@ -39,6 +39,8 @@ I'm a system analyst and I'm studying to become a Java developer.
   <img alt=java src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp;  <img alt=spring src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">&nbsp;
 
 ### Main repositories:  
-[![Readme Card](https://github-readme-stats-two-sigma-43.vercel.app/api/pin?username=jvictornascimento&repo=workshop-springboot-jpa&theme=swift)](https://github.com/jvictornascimento/workshop-springboot-jpa)
-[![Readme Card](https://github-readme-stats-two-sigma-43.vercel.app/api/pin?username=jvictornascimento&repo=treinaweb-java-testes-unitarios-junit5&theme=swift)](https://github.com/jvictornascimento/treinaweb-java-testes-unitarios-junit5)
-[![Readme Card](https://github-readme-stats-two-sigma-43.vercel.app/api/pin?username=jvictornascimento&repo=challenge-backend-security-password&theme=swift)](https://github.com/jvictornascimento/challenge-backend-security-password);
+[![Readme Card](https://github-readme-stats-two-sigma-43.vercel.app/api/pin?username=jvictornascimento&repo=workshop-springboot-jpa&theme=swift)](https://github.com/jvictornascimento/workshop-springboot-jpa)&nbsp;
+
+[![Readme Card](https://github-readme-stats-two-sigma-43.vercel.app/api/pin?username=jvictornascimento&repo=treinaweb-java-testes-unitarios-junit5&theme=swift)](https://github.com/jvictornascimento/treinaweb-java-testes-unitarios-junit5)&nbsp;
+
+[![Readme Card](https://github-readme-stats-two-sigma-43.vercel.app/api/pin?username=jvictornascimento&repo=challenge-backend-security-password&theme=swift)](https://github.com/jvictornascimento/challenge-backend-security-password)&nbsp;
