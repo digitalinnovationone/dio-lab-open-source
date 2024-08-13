@@ -8,4 +8,3 @@ Sou Larissa Nery, consultora especializada em RPA com 5 anos de experiência em 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-s-86897a138/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RPAPLUS)
-
