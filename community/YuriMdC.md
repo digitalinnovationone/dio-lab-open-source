@@ -1,4 +1,8 @@
 # Yuri Medeiros
+## Sobre mim
+- Sou um apaixonado por tecnologia, atualmente estou cursando ADS (4/5) na Estácio.
+- Sempre estou buscando aprender e aprimorar minhas habilidades
+- Tenho interesse em algumas áreas da computação, incluindo Segurança da informação, Desenvolvimento Web e Desenvolvimento de Jogos
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/yuri-medeiros-7b5671268/)
