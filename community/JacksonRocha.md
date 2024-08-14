@@ -1,4 +1,4 @@
-### Olá! Eu sou Jackson Rocha 👋
+### Olá! Eu sou Jackson Rocha. 👋
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando Spring Boot e Angular
