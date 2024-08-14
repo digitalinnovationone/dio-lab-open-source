@@ -20,11 +20,11 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RYANODIAS&theme=hacker&background=000&border=4eff00&dates=FFF)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RYANODIAS&bg_color=000&border_color=4eff00&title_color=4eff00&text_color=FFF)
-
 **GitHub Status**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RYANODIAS&theme=transparent&bg_color=000&border_color=4eff00&show_icons=true&icon_color=4eff00title_color=4eff00&text_color=4eff00)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RYANODIAS&bg_color=000&border_color=4eff00&title_color=4eff00&text_color=FFF)
 
 **Ficou Curioso?**
 
