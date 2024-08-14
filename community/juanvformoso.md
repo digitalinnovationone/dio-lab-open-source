@@ -30,7 +30,7 @@
 
 ## 📫 Como me encontrar?
 
-- LinkedIn: [Seu Nome](https://www.linkedin.com/in/juanvformoso)
+- LinkedIn: [Juan Formoso](https://www.linkedin.com/in/juanvformoso)
 - Email: trajano.juan@gmail.com
 
 ---
