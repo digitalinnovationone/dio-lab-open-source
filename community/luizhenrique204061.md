@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-Estou cursando Bacharelado em Engenharia de Software na Universidade Anhanguera e possuo
+ Estou cursando Bacharelado em Engenharia de Software na Universidade Anhanguera e possuo
  experiência desenvolvendo projetos pessoais, sempre buscando me aprimorar. Durante esse
  período, especializei-me na criação de aplicativos Android personalizados, cobrindo todo o ciclo de
  desenvolvimento, desde o conceito inicial até a entrega final. Meu trabalho envolve a atualização e
