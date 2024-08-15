@@ -8,5 +8,4 @@
 
 ### 📌 Projetos em andamento
 
-- [Portal]  
-  [Repositório]
+- [Perfil Profissonal](https://www.joeribeiro.com)
