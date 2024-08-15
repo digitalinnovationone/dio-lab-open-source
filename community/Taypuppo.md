@@ -1,4 +1,4 @@
-# Tayná Puppo
+# Tayna Puppo
 [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](www.linkedin.com/in/tayná-puppo-0b98202a9)
 ### SOBRE
 > Tenho 28 anos e comecei a trabalhar aos 17 anos, o que me permitiu adquirir 
