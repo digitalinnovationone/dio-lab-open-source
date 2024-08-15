@@ -10,8 +10,6 @@
 
 ## 
 
-<img align="left" padding="20px" alt="Foto de perfil de Thiago Araújo" src="https://media.licdn.com/dms/image/D4D03AQF2tlN2eDoIDA/profile-displayphoto-shrink_200_200/0/1708634943428?e=1714608000&v=beta&t=S6z91VYRSQO3rAXIyFyaToBX42cBf9mW8Ge9aEExL5g">
-<h1> 
   <a href="https://www.linkedin.com/in/thiago-4raujo/" style="color: #f00 !important; text-decoration: none; color: inherit;">
     
   </a>
