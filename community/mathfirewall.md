@@ -10,9 +10,6 @@
 
 ## 
 
-  <a href="https://www.linkedin.com/in/thiago-4raujo/" style="color: #f00 !important; text-decoration: none; color: inherit;">
-    
-  </a>
 
 > Front End
 >
