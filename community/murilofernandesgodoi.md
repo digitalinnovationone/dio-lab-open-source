@@ -1,5 +1,5 @@
 # Quem sou eu?
-#### Olá, eu me chamo Murilo, tenho 18 anos e estou cursando Analise de Desenvolvimento de Sistemas, sempre tive uma paixão por programação e neste ano após o inicio do 1º semestre da faculdade deicidi inicar meu estudos na área que tanto sonhei.
+#### Olá, eu me chamo Murilo, tenho 18 anos e estou cursando Análise de Desenvolvimento de Sistemas, sempre tive uma paixão por programação e neste ano após o inicio do 1º semestre da faculdade deicidi inicar meu estudos na área que tanto sonhei.
 
 ## No momento estou estudando:
 ### Como banco de dados:
