@@ -43,9 +43,9 @@
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardokatayama&theme=dracula&show_icons=true)
+![GitHub Stats](https://github-readme-stats-leonardokatayamas-projects.vercel.app/api?username=leonardokatayama&theme=dracula&show_icons=true)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=leonardokatayama&theme=dracula&show_icons=true)
+![Top Langs](https://github-readme-stats-leonardokatayamas-projects.vercel.app/api/top-langs/?username=leonardokatayama&theme=dracula&show_icons=true)
 
 
 ## 🌐 Vamos conectar?
