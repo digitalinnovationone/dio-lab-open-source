@@ -1,6 +1,6 @@
 ## Olá! 👋
-## Meu nome é, Gabriel Augusto!
-## Seja Bem-vindo ao meu Profile project!👤
+## Meu nome é Gabriel Augusto!
+## Seja bem-vindo ao meu profile!👤
 
 ![Gabriel Augusto](https://avatars.githubusercontent.com/u/142643394?v=4)
 
@@ -41,16 +41,25 @@
   
 ## Contato  🌍
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=flat&logo=gmail&logoColor=white)](mailto:g.augusto46hr@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-augusto-ads/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Gabriel-Augusto-ads)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5516992153271)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=20&labelColor=black&shape=round)](https://wa.me/5516992153271)
+&nbsp;&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=20&labelColor=black&shape=round)](https://www.instagram.com/gabrielllaugusto/)
+&nbsp;&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20&labelColor=black&shape=round)](mailto:g.augusto46hr@gmail.com)
+&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&labelColor=black&shape=round)](https://www.linkedin.com/in/gabriel-augusto-ads/)
+&nbsp;&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=20&labelColor=black&shape=round)](https://github.com/Gabriel-Augusto-ads)
+
+
+
+
 
 ---
 
 ---
 
-### Obrigado por visitar meu portfólio! 
+### Obrigado por visitar meu profile! 
 
 #### Espero que tenha gostado do conteúdo. Até a próxima! 👋
 
