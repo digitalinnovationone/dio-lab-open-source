@@ -9,7 +9,7 @@
 
 Tenho 19 anos e sou um desenvolvedor de software apaixonado por tecnologia, fui aluno de Desenvolvimento de Sistemas no Senai de Informática lugar onde percebi que dentro da infinidade de coisas que tecnologia abrange a paixão por programação era muito mais intensa do que as demais.
 
-Estou sempre em busca de novas oportunidades para aprender e crescer na carreira de desenvolvedor. No momento, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta, buscando aprimorar minhas habilidades e conhecimentos na área de TI.
+Estou sempre em busca de novas oportunidades para aprender e crescer na carreira de desenvolvedor. No momento, ja atuo na area e estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta, buscando aprimorar minhas habilidades e conhecimentos na área de TI.
 
 
 <br>
