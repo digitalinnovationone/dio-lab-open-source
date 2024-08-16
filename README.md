@@ -1,6 +1,6 @@
 # Open Source Project
 
-Heyo communit. My name is Felipe, I'm study Eletrical Engineering and enjoy programming. For now, I just practice, but I'm open to work.
+Heyo communit. My name is Felipe, I'm study Eletrical Engineering and enjoy programming. I practice for a future work.
 
 
 * ## Learn some languages, turns a hobbie:
@@ -14,7 +14,16 @@ If you know some language, connect with me for talk (pratice).
 |Korean|Soon| |German|Soon|
 
 * ## Language - Programming:
+ If I don't used at you seen that in any language in any data, probably I'll insert in future.
+
+  
 ![Teste](https://skillicons.dev/icons?i=java)
+![Teste](https://skillicons.dev/icons?i=css)
+![Teste](https://skillicons.dev/icons?i=html)
+![Teste](https://skillicons.dev/icons?i=py)
+![Teste](https://skillicons.dev/icons?i=cpp)
+![Teste](https://skillicons.dev/icons?i=dotnet)
+![Teste](https://skillicons.dev/icons?i=aws)
 
 ![PrianteF's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrianteF&show_icons=true&theme=withe)
 
