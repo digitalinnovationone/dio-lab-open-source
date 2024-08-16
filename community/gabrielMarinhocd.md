@@ -1,7 +1,5 @@
 <div align="center" style="text-align: center;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=ffffff&lines=Olá,%20+me+chamo+Lucas+Carvalho;Seja+muito+bem+vindo!+:)" alt="Typing SVG">
-  </a>
+    <h1>Gabriel Marinho </h1>
 </div>
 
 <div align="center"> 
