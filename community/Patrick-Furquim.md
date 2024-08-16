@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">• 🎓 Estudante de Analise e Desenvolvivento de Sistemas<br>• 🧑🏽‍💻 Pronto para me desenvolver na área de software developer</p>
+<p align="left">• 🎓 Estudante de Analise e Desenvolvivento de Sistemas<br>• Pronto para me desenvolver na área da tecnologia</p>
 
 ###
 
