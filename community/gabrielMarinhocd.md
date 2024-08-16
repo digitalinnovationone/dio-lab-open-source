@@ -5,7 +5,6 @@
 </div>
 
 <div align="center"> 
-  <a href="https://www.instagram.com/1ucas_ruan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielmarinhodossantoscd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="http://www.linkedin.com/in/gabriel-marinho-bsb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
@@ -26,7 +25,7 @@
 <h2 align="center">Principais tecnologias:</h2>
 </br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,java,spring,react,angular,mysql,postgres,git,github,vscode,figma,&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,java,spring,react,angular,mysql,postgres,git,github,vscode,figma,photoshop,&perline=8" />
 </div>
 
 <br> </br>
