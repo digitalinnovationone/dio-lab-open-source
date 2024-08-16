@@ -59,7 +59,7 @@ git commit -m"feat: add SEU_USERNAME profile"
 ### 7) Envie as Alterações para o seu Repositório Remoto
 Envie as alterações realizadas no seu repositório local para a branch `feat/community/SEU_USERNAME` no seu repositório remoto com o comando:
 ```bash
-git push origin feat/community/anakarollina19
+git push origin feat/community/SEU_USERNAME
 ```
 >[!WARNING]
 > Caso você tenha criado seu arquivo diretamente no repositório remoto no GitHub, esse processo não será necessário.
@@ -75,17 +75,19 @@ Atente-se para a seguir as orientações para a contribuição, principalmente:
 ](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 Após criar o seu Pull Request, nossa automação irá validar a sua submissão. Caso esteja tudo certo, será retornada uma mensagem indicado que seu PR foi aprovado. Do contrário, leia atentamente as orientações e verifique os arquivos modificados para saber se atende as instruções para contribuição.
-        
+    
+    
 ## Convenção de Commits 
 
 | Tipo de Commit |Descrição                                                            | Exemplo
 | ---------------|----------------------------------------------------------------------|-----------
 | `feat`         | Adiciona uma nova funcionalidade ao projeto.                         | `feat: add USENAME.md profile`
 | `fix`          | Corrige um bug ou problema no projeto.                               | `fix: fixed issue fix#IssueNumber`
-| `docs`         | Altera a documentação do projeto.                                    | `docs: update README.md`
+| `docs`         | Altera a documentação do projeto.| `docs: update README.md`
 | `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         | `style: add EFFECTNAME to COMPONENT`
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
 | `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
+
 
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
