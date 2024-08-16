@@ -6,7 +6,7 @@
 
 
  <h2>Sobre mim</h2> 
-Formado em Gestão de Técnologia da Informação e cursando pós em Análise e Desenvolvimento de Sistemas e apaixonado pro tecnologia. Gosto muito do Full-Stack, porém estou focando mais no Back-End.
+Formado em Gestão de Tecnlogia da Informação e cursando pós em Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia. Gosto muito do Full-Stack, porém estou focando mais no Back-End.
 Trabalho a mais de 2 anos com informatica na area de Suporte Helpdesk tanto com hardware quanto com software e agora estou entrando na parte de desenvolvimento.
 
 <h2>Redes Sociais</h2>
