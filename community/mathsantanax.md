@@ -4,7 +4,7 @@
 
 😎 Atualmente focado nos estudos e em projetos pessoais, e em busca da minha primeira oportunidade na área de TI !!
 
-Fique a vontade para xeretar meus repositórios.
+Fique a vontade para ver meus repositórios.
 
 📘 **Estudante:**
    - Cursando **Análise e Desenvolvimento de Sistema** na **Estácio**.
