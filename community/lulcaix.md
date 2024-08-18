@@ -38,4 +38,4 @@
 </td>
 </table>
 
-<img src="https://raw.githubusercontent.com/AlvesLuis0/AlvesLuis0/master/img/mario.gif" alt="Mario Coding">
+<img src="https://media.discordapp.net/attachments/1268360903569702957/1274736152225513483/mario.gif?ex=66c3560e&is=66c2048e&hm=2fd94af0736c575052e0583e6fd27821a6c62158758704265ab2a1224d963bbf&=&width=1193&height=671" height="350" width="600" alt="gif about mario coding">
