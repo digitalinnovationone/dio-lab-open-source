@@ -32,5 +32,8 @@ Sou um estudante de Engenharia de Software na Unicesumar, mergulhando no mundo d
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=techfrd&repo=trilha-net-fundamentos-desafio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/techfrd/trilha-net-fundamentos-desafio)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=techfrd&repo=trilha-net-explorando-desafio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/techfrd/trilha-net-explorando-desafio)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=techfrd&repo=trilha-net-poo-desafio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/techfrd/trilha-net-poo-desafio)
  
 Estou animado e ansioso para construir minha jornada e colaborar com a comunidade tech! ✌
