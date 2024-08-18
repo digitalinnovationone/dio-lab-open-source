@@ -32,3 +32,4 @@ Meu objetivo no momento é aprimorar as minhas habilidades de programação enqu
 ## 👨‍🎓 Ensino Superior
 
  - [Análise de Desenvolvimento de Sitemas - Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/?gad_source=1&gclid=Cj0KCQjwt4a2BhD6ARIsALgH7DonhNFy86iIjbzYauGbSf2_jfaY-K8tTKT9Sr-Oo_Ke7LeJpFoxPiQaAojsEALw_wcB)
+
