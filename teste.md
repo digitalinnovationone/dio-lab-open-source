@@ -1,10 +1,10 @@
 
 # Fabricio Guimarães
--Graduando em Sistemas de Informação.
--Atuei com desenvolvimento de sistemas entre 2000 e 2005, com Visual Basic e Java.
--Atuei como DBA Oracle e com BI entre 2005 e 2014
--Tenho atuado com Infra de Redes desde 2015 até os dias atuais
--Me desafiei a voltar a programar diariamente por 4 horas :)
+-Graduando em Sistemas de Informação.<br>
+-Atuei com desenvolvimento de sistemas entre 2000 e 2005, com Visual Basic e Java.<br>
+-Atuei como DBA Oracle e com BI entre 2005 e 2014.<br>
+-Tenho atuado com Infra de Redes de 2015 até os dias atuais.<br>
+-Desafiei-me a voltar a programar diariamente por 4 horas   :) <br>
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-augusto-de-oliveira-guimaraes-80178a55/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faogx9) 
