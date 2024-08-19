@@ -16,5 +16,9 @@ Olá, meu nome é Lilian, tenho 25 anos e sou estudante de Análise e desenvolvi
 
 
 ## Minhas contribuições
+<<<<<<< HEAD
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LilianABOliveira&repo=dio-lab-open-source&bg_color=000&border_color=DB7093&show_icons=true&icon_color=DB7093&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/LilianABOliveira/SEUREPOSITORIO)
+=======
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LilianABOliveira&repo=dio-lab-open-source&bg_color=000&border_color=DB7093&show_icons=true&icon_color=DB7093&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/LilianABOLiveira/SEUREPOSITORIO)
+>>>>>>> 0c145460cb48135287502c584d3440c8056b01c2
 
