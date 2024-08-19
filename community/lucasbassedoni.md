@@ -15,7 +15,7 @@
 
 ## 🌟 About Me
 
-Hello! I’m **Lucas Bassedoni**, a Backend Software Engineer focused on creating efficient and scalable solutions. With a strong foundation in **React** and **Golang**, I have experience building robust and secure systems. I’m a **blockchain** enthusiast and love exploring new technologies that can transform the way we work and live.
+Hello! I’m **Lucas Bassedoni**, a Backend Software Engineer focused on creating efficient and scalable solutions. With a strong foundation in **React** and **Golang**, I have experience building robust and secure systems. I’m a **blockchain** enthusiast and love exploring new technologies that can transform the way we work and live
 
 ---
 
