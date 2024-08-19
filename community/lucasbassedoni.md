@@ -1,4 +1,4 @@
-# Lucas Bassedoni
+# Lucas Bassedoni @ 2024
 
 ### Software Engineer | Blockchain Specialist | 
 
