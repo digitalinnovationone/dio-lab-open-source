@@ -4,11 +4,12 @@
     <span> Contribuindo em um Projeto Open Source no GitHub</span>
 </h1>
 
-Meu nome é Jackson Funchal, apaixonado por tecnologias, formado em Direito, pós graduado em direito civil e processo civil, quase me formando em pedagogia, mas o que sempre quis fazer foi estudar tecnologias com foco em programação, muito grato A CLARO e a DIO por esta maravilhosa opoprtunidade que de forma alguma deixarei de aproveitar ao maximo.
+Meu nome é Jackson Funchal, apaixonado por tecnologias, formado em Direito, pós graduado em direito civil e processo civil, quase me formando em pedagogia, mas o que sempre quis fazer foi estudar tecnologias com foco em programação, muito grato A CLARO <img align="center" width="40px" https://www.claro.com.br/files/104379/200x200/1829b73c0f/logo-claro-200x200.jpg> e a DIO <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"> por esta maravilhosa opoprtunidade que de forma alguma deixarei de aproveitar ao maximo.
 
 ## Link
-https://linktr.ee/drjacksonfunchal
-https://www.facebook.com/Dr.JacksonFunchal/?locale=pt_BR
+<h1>https://linktr.ee/drjacksonfunchal </h1>
+<h1>https://www.facebook.com/Dr.JacksonFunchal/?locale=pt_BR</h1>
+
 ## Ferramentas
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
