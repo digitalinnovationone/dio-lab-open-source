@@ -2,7 +2,7 @@
 
 Olá, Eu sou Rafael e estou desenvolvendo o desafio proposto no Bootcamp DIO.
 
-## Conecte-se comigo
+## Conecte-se comigo!
 
 [![GitHub](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/Rafaelusa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/devalbuquerque/)
