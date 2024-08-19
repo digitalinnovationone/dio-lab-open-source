@@ -17,4 +17,5 @@
 
 ## Conecte-se comigo
 
-[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=fffff)](https://github.com/dyegotech)    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dyego-oliveira-31b531128/)
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/dyegotech)    [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/dyego-oliveira-31b531128/)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:dsoliveira.tech@gmail.com)
