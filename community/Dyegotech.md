@@ -17,3 +17,4 @@
 
 ## Conecte-se comigo
 
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=fffff)](https://github.com/dyegotech)    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dyego-oliveira-31b531128/)
