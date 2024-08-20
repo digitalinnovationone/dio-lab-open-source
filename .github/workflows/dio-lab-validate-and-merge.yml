@@ -23,23 +23,21 @@ jobs:
         AUTHOR_NAME="${{ github.event.pull_request.user.login }}"
         FILE_PATH="community/$AUTHOR_NAME.md"
         
-        # Verifica se o arquivo esperado existe
-        if [[ ! -f $FILE_PATH ]]; then
-            echo "ERROR: Expected a file at $FILE_PATH, but it doesn't exist."
-            exit 1
-        fi
-        
         # Obtém a lista de arquivos modificados usando a CLI do GitHub
         files_changed=$(gh api repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files --paginate | jq -r '.[].filename')
-        
+    
         # Lista os arquivos modificados para fins de depuração
         echo "Changed files:"
         echo "$files_changed"
         
-        # Verifica se este é o único arquivo modificado
+        # Conta quantos arquivos foram modificados
         NUM_CHANGED_FILES=$(echo "$files_changed" | wc -l)
-        if [[ "$NUM_CHANGED_FILES" -ne 1 ]]; then
-            echo "ERROR: More files were changed besides $FILE_PATH."
+        
+        # Verifica se apenas o arquivo esperado foi modificado
+        if [[ "$NUM_CHANGED_FILES" -eq 1 && "$files_changed" == "$FILE_PATH" ]]; then
+            echo "PR is valid, only the expected file has been changed."
+        else
+            echo "ERROR: Invalid PR. More or different files than expected were changed."
             exit 1
         fi
       env:
@@ -90,6 +88,6 @@ jobs:
     
     steps:
     - name: Merge PR
-      uses: pascalgn/automerge-action@v0.15.6
+      uses: "pascalgn/automerge-action@v0.16.3"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
