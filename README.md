@@ -23,6 +23,8 @@ Meu nome é Jackson Funchal, apaixonado por tecnologias, formado em Direito, pó
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jacksonfunchal&theme=ocean-gradient&hide_border=true&border_radius=10&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacksonfunchal&theme=algolia&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 
 
 ##
