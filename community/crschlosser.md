@@ -10,7 +10,7 @@
 # Carlos Roberto Schlosser
 
 Cursei Engenharia Elétrica. Parei no 7º período porque na época, programando em Fortran IV, eu já ganhava mais que um Engenheiro. Ainda na faculdade, após formatar todo o Mainframe, ganhei um terminal somente para mim dentro do CPD. Imaginem o luxo. A minha vida de desenvolvedor passou po IBM /3, IBM 360, Mainframe Fujitsu, PDP-8 Digital, TRS80, ..... Programei em Fortran, Assambley, Basic, mBasic, KBasic, dBase, Clipper e finalmente Hummingboard.
-Desenvolver é minha paixão. Sou da época que não existia Desenvolvedor FullStack mas sim o cara do CPD
+
 
 # Redes
 
