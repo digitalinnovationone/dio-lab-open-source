@@ -12,9 +12,9 @@ Estou me atualizando com os novos frameworks de desenvolvimento e  e obtendo exp
 
 <div align="center">
   <a href="https://github.com/elianethomas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elianethomas&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=elianethomas&theme=radical&hide_border=false&locale=pt_BR&mode=weekly&card_width=790"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=elianethomas&show_icons=true&theme=radical"/>
+  <img height="190em" src="https://streak-stats.demolab.com?user=elianethomas&theme=radical&hide_border=false&locale=pt_BR&mode=weekly&card_width=790"/>
 </div>
 
 
