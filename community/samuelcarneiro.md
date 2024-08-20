@@ -1,6 +1,6 @@
 # Samuel Carneiro
 Desafio Dio - Contribuindo em um Projeto Open Source no Github.
-Esta é a primeira vez que contribuo em um outro repositório no GitHub. Sou técnico em Redes de Computadores e atualmente estudo Análise e Desenvolvimento de Sistemas e gosto muito da área de devenvolvimento e programação.
+Esta é a primeira vez que contribuo em um outro repositório no GitHub. Sou técnico em Redes de Computadores e atualmente estudo Análise e Desenvolvimento de Sistemas e gosto muito da área de desenvolvimento e programação.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-c-almeida-ab4ba5277)
