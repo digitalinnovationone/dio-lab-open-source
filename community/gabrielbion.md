@@ -1,5 +1,5 @@
 # Gabriel Bion
-Olá! Me chamo Gabriel sou estudante e um futuro Software developer.
+Olá! Me chamo GabrielBion sou estudante e um futuro Software developer.
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-bion-83431622a/)[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriel-bion)[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel1bion/)[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/woslla_Fllipe)
 
