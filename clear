@@ -1,0 +1,227 @@
+[33mcommit 1eb9abac66db6af954140af9b2eae9b996327e3b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeat/community/gabriel-bion[m[33m)[m
+Author: Gabriel Bion <gabriel1bion@gmail.com>
+Date:   Tue Aug 20 17:14:19 2024 -0300
+
+    feat: add gabriel-bion profile
+
+[33mcommit 52c92384c6f179b2f14b8529fa6f4b10e6941051[m[33m ([m[1;31mupstream/main[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 7c6e460b9 c9dc79c7f
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 20 19:21:02 2024 +0000
+
+    Merge pull request #44938 from Gadu05/feat/community/Gadu05
+
+[33mcommit c9dc79c7f36ff132d317aacb09c96e4031c5fde9[m
+Author: Gabriel Eduardo de Oliveira Santos <106440419+Gadu05@users.noreply.github.com>
+Date:   Tue Aug 20 19:16:21 2024 +0000
+
+    feat: add Gadu05 profile
+
+[33mcommit 7c6e460b9fde3e41f0a14c61b6ad71496f19704a[m
+Merge: 3391b30f0 5e0f4c957
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 20 18:56:55 2024 +0000
+
+    Merge pull request #44937 from Maycow-Duarte/feat/community/Maycow-Duarte
+
+[33mcommit 5e0f4c957f6d0609f44b534423dc3e409b4b9218[m
+Author: Maycow Duarte <99911937+Maycow-Duarte@users.noreply.github.com>
+Date:   Tue Aug 20 15:56:02 2024 -0300
+
+    feat: add Maycow-Duarte profile
+
+[33mcommit 3391b30f0d521d5309e7bd9d0d71a8037fd87837[m
+Merge: 59fed8ec3 23d09e0ff
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 20 18:53:51 2024 +0000
+
+    Merge pull request #44936 from adriano-eleuterio/feat/community/adriano-eleuterio
+
+[33mcommit 23d09e0ff0a9c8fc30e846a1fc054cdc02066d7c[m
+Author: Adriano José Eleuterio <132395262+adriano-eleuterio@users.noreply.github.com>
+Date:   Tue Aug 20 15:48:30 2024 -0300
+
+    Create adriano-eleuterio.md
+
+[33mcommit 59fed8ec38e07bb8ba7dd385f3f50066eeadb30a[m
+Merge: fbc1fe631 d3fc9f6eb
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 20 18:45:49 2024 +0000
+
+    Merge pull request #44933 from IsabelaAC/main
+
+[33mcommit d3fc9f6ebeebc7c33596cda79ef12969cb27ccbb[m
+Author: Isabela Cardoso <isabela.a.cardoso@hotmail.com>
+Date:   Tue Aug 20 15:45:23 2024 -0300
+
+    Rename IsabelaCardoso.md to IsabelaAC.md
+
+[33mcommit 498abb17f2c87fd55d9e136cc8d4b8bf65b7ae55[m
+Author: Isabela Cardoso <isabela.a.cardoso@hotmail.com>
+Date:   Tue Aug 20 15:42:31 2024 -0300
+
+    Create IsabelaCardoso.md
+
+[33mcommit fbc1fe631eac02aa2dfc4c714528b9a5a777c542[m
+Merge: ca8843815 fdc04adf5
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 20 18:38:48 2024 +0000
+
+    Merge pull request #44932 from Carloshmp17/feat/community/Carloshmp17
+
+[33mcommit fdc04adf5181e2db5f8cdd71ebec857ad616121b[m
+Author: Carlos Henrique <95989574+Carloshmp17@users.noreply.github.com>
+Date:   Tue Aug 20 15:28:03 2024 -0300
+
+    feat: add Carlos profile
+
+[33mcommit ca8843815fbcddcc5f525c198c956f06f6366ea1[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 157bcb826 f4c8def0b
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 20 18:14:11 2024 +0000
+
+    Merge pull request #44931 from GianLost/feat/community/GianLost
+
+[33mcommit 157bcb826f20da7581c48d476efced7e697bd6e6[m
+Merge: 9e0064043 e0e694f39
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 20 18:12:33 2024 +0000
+
+    Merge pull request #44930 from WyldnerPina/feat/community/WyldnerPina
+
+[33mcommit e0e694f390d370ae66b7d19a5b86cf373f7e68e2[m
+Author: Wyldner <105301418+WyldnerPina@users.noreply.github.com>
+Date:   Tue Aug 20 15:11:38 2024 -0300
+
+    Create WyldnerPina.md
+
+[33mcommit f4c8def0bb6cd49aa52155b6a3093ccf77f16458[m
+Author: GianLost <gianluca19993m@gmail.com>
+Date:   Tue Aug 20 15:11:29 2024 -0300
+
+    feat: add GianLost profile
+
+[33mcommit 9e0064043be283848e290ae5ca2ed465f674ee84[m
+Merge: f5c4c0cec 3d1f99a4e
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 20 18:10:58 2024 +0000
+
+    Merge pull request #44929 from italocunhas/main
+
+[33mcommit 3d1f99a4e89c3207e1b7a81af11037812f100afa[m
+Author: italocunhas <italocunhasilva1@gmail.com>
+Date:   Tue Aug 20 15:10:27 2024 -0300
+
+    italocunhas
+
+[33mcommit f5c4c0cecc834a65d1bfca18ef9f02d8e38d2bc1[m
+Merge: 759e86841 24c580139
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 20 18:00:01 2024 +0000
+
+    Merge pull request #44927 from Nunesalamino/feat/community/Nunesalamino
+
+[33mcommit 24c580139cb5485c4c86d2a1d4bc19ca0e250ee4[m
+Author: Nunesalamino <nunesalamino@gmail.com>
+Date:   Tue Aug 20 14:56:23 2024 -0300
+
+    Create Nunesalamino.md
+
+[33mcommit 5432d78edecbc8009e975f90aceb4d4d05fe1775[m
+Author: italocunhas <italocunhasilva1@gmail.com>
+Date:   Tue Aug 20 14:48:39 2024 -0300
+
+    adicionar perfil
+
+[33mcommit 759e86841ef7d3904770ee9b34db38928c563d27[m
+Merge: 003c5c801 7f46ed063
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 20 17:45:48 2024 +0000
+
+    Merge pull request #44926 from vitrokb/feat/community/vitrokb
+
+[33mcommit 7f46ed06305e096fe4a41604cc11d0571b44b48b[m
+Author: vitrokb <victor.brns2@gmail.com>
+Date:   Tue Aug 20 14:44:37 2024 -0300
+
+    fix: Corrige nome no arquivo MD
+
+[33mcommit 003c5c80182546bc7b7bf3eabb01ca84997677b6[m
+Merge: 94790b42d 175d411be
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 20 17:40:47 2024 +0000
+
+    Merge pull request #44925 from laviniiabenvindo/feat/community/laviniiabenvindo
+
+[33mcommit 175d411be56a4a272cbf706c403342e4d2e7c910[m
+Author: Laviniiabenvindo <laviniiabenvindo@gmail.com>
+Date:   Tue Aug 20 14:36:49 2024 -0300
+
+    feat: add laviniiabenvindo profile
+
+[33mcommit 94790b42d02f3807727683ad924986410f5f3668[m
+Merge: 6fe2e074b 866c60f13
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 20 17:36:45 2024 +0000
+
+    Merge pull request #44924 from ArrudaFreitas/feat/community/arrudafreitas
+
+[33mcommit 866c60f1316e7533e4899b46919d87f1affcdcf4[m
+Author: ArrudaFreitas <166840967+ArrudaFreitas@users.noreply.github.com>
+Date:   Tue Aug 20 14:34:48 2024 -0300
+
+    Create ArrudaFreitas.md
+
+[33mcommit 6fe2e074b5ce5b3aacf80e6aa7e39f4729100b2b[m
+Merge: 3f9f35acf 29c40e4b2
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 20 17:33:34 2024 +0000
+
+    Merge pull request #44922 from erik616/feat/community/erik616
+
+[33mcommit 3f9f35acff8e6feef9d90f6b73e122c2193aff77[m
+Merge: fe9ce8100 0858ee76d
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 20 17:33:23 2024 +0000
+
+    Merge pull request #44921 from ThathaCampos/feat/community/ThathaCampos
+
+[33mcommit 0858ee76d53a09b46a98e031a0922ad8fa45e783[m
+Author: ThathaCampos <thamires.campos@sptech.school>
+Date:   Tue Aug 20 14:31:38 2024 -0300
+
+    feat: add ThathaCampos profile
+
+[33mcommit 29c40e4b291683fac98c17759b3d3f35a92ed0f5[m
+Author: erik616 <106697854+erik616@users.noreply.github.com>
+Date:   Tue Aug 20 14:30:16 2024 -0300
+
+    Create erik616.md
+
+[33mcommit fe9ce810072dd04b468bfbc43bdfcaeaeb19a2a7[m
+Merge: ed1e3f216 6c0831a55
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 20 17:13:16 2024 +0000
+
+    Merge pull request #44919 from postzu/rodrigofaria
+
+[33mcommit 6c0831a5570aea82eff0500f524a1f4202cd965c[m
+Author: Poztu <postzuoficial@gmail.com>
+Date:   Tue Aug 20 14:09:21 2024 -0300
+
+    Create postzu.md
+
+[33mcommit ed1e3f216376c9451e9aaa90140a2f5404f5369b[m
+Merge: f30f6add8 1d98b3047
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 20 16:44:23 2024 +0000
+
+    Merge pull request #44914 from jeanfelippe/feat/community/jeanfelippe
+
+[33mcommit 1d98b3047ebc3a4c73d422333df5360128e4dd27[m
+Author: Jean Felippe <jeanfelippe_20@hotmail.com>
+Date:   Tue Aug 20 13:43:55 2024 -0300
+
+    Update README.md
+
+[33mcommit f30f6add8a
