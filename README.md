@@ -40,7 +40,6 @@ Aprender o básico sobre contribuição no GitHub.
     <tr>
       <td>04</td>
       <td>Dicas e Materiais de Apoio</td>    
-        <td>Teste</td> 
     </tr>
   </tbody>
 </table>
