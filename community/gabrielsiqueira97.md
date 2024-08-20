@@ -14,6 +14,7 @@ Aqui estão algumas das ferramentas e tecnologias com as quais tenho experiênci
   - Python
   - R
   - SQL
+  - Power BI
 
 - **Análise de Dados:**
   - Pandas
