@@ -1,4 +1,4 @@
-# Artur Cordeiro Duarte
+# Artur
 Olá! eu me chamo Artur e estou iniciando a minha jornada na programação!
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-cordeiro-duarte-55aa972b0/)
