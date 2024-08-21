@@ -3,8 +3,6 @@
 <! --
 **gmarinns** é um repositório ✨ _especial_✨ porque seu `README.md` (este arquivo) aparece em meu perfil GitHub.
 
-Aqui estão algumas idéias para você começar:
-
 - 🔭 Atualmente estou estudando na UFF
 - 🌱 Atualmente estou aprendendo sobre Data Science
 - 👯 Estou procurando colaborar em projetos
