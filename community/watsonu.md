@@ -1,5 +1,5 @@
 # Quem sou eu
-Olá me chamo Watson, tenho 23 anos,  sou estudante de ciências da computação na Universidade Estadual do Sudoeste da Bahia [UESB](https://www.uesb.br).
+Olá me chamo Watson, tenho 23 anos, sou estudante de ciências da computação na Universidade Estadual do Sudoeste da Bahia [UESB](https://www.uesb.br).
 
 ## Onde me encontrar
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/watsonbreno)
