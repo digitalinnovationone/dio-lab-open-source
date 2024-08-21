@@ -5,8 +5,7 @@
 
 
 <h3> Quem sou eu? </h3>
-
-        Eu me chamo Jackson Coelho, tenho formação técnica em Redes de Computadores e busco profissionalização na área da programação (ainda iniciante e descobrindo as inúmeras tecnologias). Tenho um conhecimento básico/intermediário de HTML, CSS e JavaScript e estou sempre em constante apredizado através de diversos cursos online, bootcamps e treinamentos. Atualmente iniciei minha graduação em Ciências da Computação (1º Período) e espero poder desenvolver minhas habilidades nessa área tão incrível da informática.
+Eu me chamo Jackson Coelho, tenho formação técnica em Redes de Computadores e busco profissionalização na área da programação (ainda iniciante e descobrindo as inúmeras tecnologias). Tenho um conhecimento básico/intermediário de HTML, CSS e JavaScript e estou sempre em constante apredizado através de diversos cursos online, bootcamps e treinamentos. Atualmente iniciei minha graduação em Ciências da Computação (1º Período) e espero poder desenvolver minhas habilidades nessa área tão incrível da informática.
 
 <br>
 
