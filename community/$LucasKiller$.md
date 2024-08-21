@@ -14,7 +14,7 @@ Hello, I'm Lucas Milani Thomsen Galhardo, a student of computer engineering at t
 
 ## Networking 🌐
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasmtgalhardo/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucalhardo@gmail.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/9HyfQm3Y) [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/lucalhardo) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasmtgalhardo/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucalhardo@gmail.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/9HyfQm3Y) [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white
 )](https://www.codewars.com/users/LucasKiller)
 
 ## Technologies 👨‍💻
@@ -43,6 +43,8 @@ Hello, I'm Lucas Milani Thomsen Galhardo, a student of computer engineering at t
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaskiller&show_icons=true&theme=tokyonight"/>
 
 ![](https://komarev.com/ghpvc/?username=LucasKiller&color=blue)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E8AE6&size=35&center=true&vCenter=true&width=1000&lines=Obrigado!)](https://git.io/typing-svg)
 
 
 <!--
