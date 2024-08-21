@@ -1,3 +1,0 @@
-#Ezequiel Junior
-
-#Conecte comigo
