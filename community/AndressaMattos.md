@@ -34,7 +34,6 @@ Tenho grande entusiasmo para aprender e desenvolver cada vez mais novas habilida
 </div>
 
 
-
 ## Hard Skills
 ![Git](https://img.shields.io/badge/Git-d2b9fd)
 ![GitHub](https://img.shields.io/badge/GitHub-2F4F2F)
