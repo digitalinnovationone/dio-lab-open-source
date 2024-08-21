@@ -1,3 +1,3 @@
-# Olá meu nome é Flavio
+# Olï¿½ meu nome ï¿½ Flavio
 
-## Minhas habilidades estão apenas iniciando,em uma transição de carreira que até o momento está fluindo de maneira muito boa.
+## Minhas habilidades estï¿½o apenas iniciando, em uma transiï¿½ï¿½o de carreira que atï¿½ o momento estï¿½ fluindo de maneira muito boa.
