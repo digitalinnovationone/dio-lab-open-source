@@ -1,6 +1,8 @@
-# Luiz Felipe
+# Olá, Mundo!
+Meu nome é Luiz Felipe, tenho 21 anos e sou estudante de ADS na Mackenzie.
 
-## Connect with me
+
+## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felipe-rodrigues-95a555315/)
 [![Gmail](https://img.shields.io/badge/email-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:luizrodrguesfelip@gmail.com)
 
