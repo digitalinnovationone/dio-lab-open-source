@@ -21,6 +21,6 @@ Olá! Saiba mais sobre mim:
 
 ## Conecte-se comigo 🌎:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/SEUUSERNAME/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/maria-eduarda-sim%C3%B5es-felipe-de-souza-b94410210/)
 [![Discord](https://img.shields.io/badge/Discord-DC0000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@eduardasimoex/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:duda_simoes02@yahoo.com.br)
