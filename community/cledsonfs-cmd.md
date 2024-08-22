@@ -1,5 +1,5 @@
 # Cledson Francisco Silva
-Sou Formado em Análise e Desenvolvimento de Sistemas e em Engenharia de Produção. Trabalho na área de TI a mais de 28 anos, e estou sempre a procura de novos desafios, focando sempre no aperfeiçoamento dontinuo.
+Sou Formado em Análise e Desenvolvimento de Sistemas e em Engenharia de Produção. Trabalho na área de TI a mais de 28 anos, e estou sempre a procura de novos desafios, focando sempre no aperfeiçoamento continuo.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/cledsonfs)
