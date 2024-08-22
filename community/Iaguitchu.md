@@ -55,6 +55,6 @@ Sou desenvolvedor Full Stack, atualmente trabalho no mercado utilizando Python p
  
 
 ## Conecte-se comigo
-- **Email:** iago2005andrade@gmail.com.com
+- **Email:** iago2005andrade@gmail.com
 - **LinkedIn:** [Iago de Andrade](https://www.linkedin.com/in/iago-de-andrade-marques/)
 - **GitHub:** [Iaguitchu](https://github.com/Iaguitchu)
