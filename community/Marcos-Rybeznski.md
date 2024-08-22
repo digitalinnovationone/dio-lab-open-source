@@ -2,7 +2,7 @@
 
 ----------------------
 
-## Gerente de Produtos / IA Generativa
+## Gerente de Produtos / Consultor de IA Generativa
 
 ----------------------
 
