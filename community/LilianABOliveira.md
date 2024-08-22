@@ -1,6 +1,6 @@
 # LilianABOliveira
 
-Olá, meu nome é Lilian, tenho 25 anos e sou estudante de Análise e desenvolvimento de Sistemas
+Olá, meu nome é Lilian, tenho 25 anos e sou estudante de Análise e desenvolvimento de Sistemas.
 
 ## Conecte-se comigo
 
