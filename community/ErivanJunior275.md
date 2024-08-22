@@ -50,10 +50,5 @@
   <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="Arduino logo" />
 </div>
 
-<!-- ## Linguagens mais usadas -->
-<!-- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=erivanjunior275&layout=compact&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&include_all_commits=true&count_private=true) -->
-<!-- ![](https://github-profile-trophy.vercel.app/?username=erivanjunior275&theme=onestar&no-frame=false&no-bg=true&margin-w=4) -->
-<!-- ![](https://github-profile-trophy.vercel.app/?username=erivanjunior275&theme=darkhub&no-frame=false&no-bg=true&margin-w=4) -->
-
 ##
 [![](https://visitcount.itsvg.in/api?id=erivanjunior275&icon=0&color=0)](https://visitcount.itsvg.in)
