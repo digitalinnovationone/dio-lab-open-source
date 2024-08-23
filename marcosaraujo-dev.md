@@ -48,4 +48,4 @@ Estou sempre interessado em novos desafios que possam me permitir aplicar minha 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosaraujo-dev&layout=compact&theme=radical)
 
 #### 📫 **Entre em contato**
-Estou sempre aberto para conversar sobre novas oportunidades ou projetos interessantes. Você pode me encontrar no [LinkedIn](https://www.linkedin.com) ou me enviar um email: marcos.araujo@example.com.
+Estou sempre aberto para conversar sobre novas oportunidades ou projetos interessantes. Você pode me encontrar no [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/marcosaraujosouza/)) ou me enviar um email: marcos.araso@hotmail.com.
