@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=venom&text=Leandro%20Natálio&color=0:9AB4FF,100:F0F4F9&height=230&section=header" />
-
 # Marcos Santana Viana
 
 # Sobre
