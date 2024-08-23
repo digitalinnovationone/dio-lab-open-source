@@ -1,4 +1,4 @@
-## Olá, sou o Fernando! 👋
+## Olá, sou o Fernando! 
 
 | Desenvolvedor Backend |
 
