@@ -1,6 +1,6 @@
 ### Olá, eu sou Marcos Araujo 👋
 
-Tenho 14 anos de experiência na área de desenvolvimento de software, onde venho contribuindo para a criação e manutenção de soluções robustas e escaláveis. Meu foco é na construção de aplicações que realmente fazem a diferença para os negócios e usuários finais.
+Tenho 14 anos de experiência na área de desenvolvimento de software, onde venho contribuindo para a criação e manutenção de soluções robustas. Meu foco é na construção de aplicações WEB que realmente fazem a diferença para os negócios e usuários finais.
 
 #### 💼 **Experiência Profissional**
 Ao longo dos anos, atuei em diversos projetos utilizando uma variedade de tecnologias.
