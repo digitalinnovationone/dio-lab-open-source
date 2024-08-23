@@ -1,5 +1,5 @@
 # Johnata Moreira
-
+Sou de BH-MG. 38 anos estudando Full Stack Python pela EBAC e DIO. Graduando pela UNOPAR em Engenharia de Software. Apaixonado por pessoas e tecnologia.
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-559?style=for-the-badge&logo=linkedin&logoColor=226)](https://www.linkedin.com/in/eujohnatamoreira)
 [![Instagram](https://img.shields.io/badge/Instagram-559?style=for-the-badge&logo=instagram&logoColor=226)](https://www.instagram.com/johnatavinicius)
