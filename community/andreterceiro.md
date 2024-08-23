@@ -79,7 +79,7 @@ Obviamente tive que mexer por exemplo com as tecnologias abaixo:
 
 Eu podia ficar adicionando badges diversas aqui (exemplo Express.JS, Vue.JS, Bootstrap etc), mas quero terminar logo para estudar o resto do curso kkkk. Arquivos com conteúdo markdown eu já fiz `vários` na minha carreira profissional.
 
-Vou adicionar apenas mais alguns badges, desta vez relacionados ao Github:
+Vou adicionar alguns Github cards:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreterceiro&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
