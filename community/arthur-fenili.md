@@ -4,7 +4,7 @@ Olá, bem-vindo ao meu README!
 <br>
 Com 23 anos de idade, eterno aprendiz de Tecnologia e Programação, vindo do interior de SP à cidade grande para perseguir meu sonho de construir uma carreira sólida como Desenvolvedor.
 
-# Conecte-se comigo
+# Conecte-se comigo 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-fenili/)
 
