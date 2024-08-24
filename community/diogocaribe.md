@@ -30,6 +30,8 @@ Há muito trabalho com geotecnologia e por consequência com muita tecnologia. D
 
 ![AirFlow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
+![Linux](https://img.shields.io/badge/Linux-017CEE?style=for-the-badge&logo=Linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-017CEE?style=for-the-badge&logo=Docker&logoColor=white)
 
 ## Github Stats
 
