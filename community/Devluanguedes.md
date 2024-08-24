@@ -5,7 +5,6 @@
 🏢 **Atuação Profissional**
 - 🚀 Analista de Controladoria
 
-
 📱 **Especialidades**
 - 📚 Java, HTML, CSS.
 
