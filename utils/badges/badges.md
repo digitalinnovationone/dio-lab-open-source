@@ -536,10 +536,10 @@
     </tr>
     <tr>
       <td>
-        <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117">
+        <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117">
       </td>
       <td>
-        <code>![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)</code>
+        <code>![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)</code>
       </td>
     </tr>
     <tr>
