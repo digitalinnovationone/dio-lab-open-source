@@ -2,10 +2,10 @@
 Formado em Direito e agora estudante de programação.
 
 ## ***BootCamp da DIO***
-Conheci o BootCamp da DIO através da indicação de um amigo e estou achando muito bom e feliz com meu progresso no estudo dessa área completamente diferente da minha. &#128512
+Conheci o BootCamp da DIO através da indicação de um amigo e estou achando muito bom e feliz com meu progresso no estudo dessa área completamente diferente da minha. 
 
 ## ***Contribuindo em um projeto Open Source no GitHub***
-Esse é meu primeiro projeto e estou muito animado por estar aprendendo HTML. Já havia estudado Python posteriormente e agora estou na busca de descobrir em qual posição da programação me encaixarei melhor. &#128516
+Esse é meu primeiro projeto e estou muito animado por estar aprendendo HTML. Já havia estudado Python posteriormente e agora estou na busca de descobrir em qual posição da programação me encaixarei melhor. 
 
 ## ***Sistemas operacionais utilizados***
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
