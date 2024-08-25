@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taguardado.net@gmail.com)
 ## 🎓 Sobre Mim
 
-Sou Janei Vieira, também conhecido como omaestro174 no GitHub. Meu nome de usuário é uma homenagem a um grande amigo que, infelizmente, faleceu devido à COVID-19. Ele era conhecido como "oMaestro", e eu adicionei "174" em referência à BR que me leva até minha família. Este perfil é dedicado à memória dele e ao compromisso que compartilho em criar e contribuir para a comunidade de tecnologia.
+Sou Janei Vieira, também conhecido como oMaestro174 no GitHub. Meu nome de usuário é uma homenagem a um grande amigo que, infelizmente, faleceu devido à COVID-19. Ele era um grande desenvolvedor conhecido como "oMaestro", e eu adicionei "174" em referência à BR 174 que interliga Manaus a Boa Vista e que me leva até minha família. Este perfil é dedicado à memória dele e ao compromisso que compartilho em criar e contribuir para a comunidade de tecnologia.
 
 ### Formação Acadêmica e Especializações
 
