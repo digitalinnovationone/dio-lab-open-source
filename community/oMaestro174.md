@@ -4,8 +4,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oMaestro174)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janei-vieira/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janeivieira@exemplo.com)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tagurdado.net@gmail.com)
 ## 🎓 Sobre Mim
 
 Sou Janei Vieira, também conhecido como omaestro174 no GitHub. Meu nome de usuário é uma homenagem a um grande amigo que, infelizmente, faleceu devido à COVID-19. Ele era conhecido como "oMaestro", e eu adicionei "174" em referência à BR que me leva até minha família. Este perfil é dedicado à memória dele e ao compromisso que compartilho em criar e contribuir para a comunidade de tecnologia.
@@ -36,14 +35,13 @@ No meu tempo livre, me dedico a compartilhar conhecimento e contribuir para a co
 
 ### Principais Projetos na DIO
 
-- **[Projeto 1 - Nome do Projeto](#)**
-  - Breve descrição do projeto, seu objetivo e tecnologias utilizadas.
+- **[Dio - lab open source](https://github.com/oMaestro174/dio-lab-open-source)**
+  - Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio e exercício prático para o lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One.
   
-- **[Projeto 2 - Nome do Projeto](#)**
-  - Breve descrição do projeto, seu objetivo e tecnologias utilizadas.
+- **[Proz - Restaurante Italiano](https://github.com/cmxrenato/Projeto-Proz-Restaurante-Italiano)**
+  - repositório do Tutti Nostri Ristorante! Este projeto contém o código fonte do site do restaurante, desenvolvido para proporcionar uma experiência agradável e intuitiva aos visitantes. O site inclui páginas para acessar o cardápio, saber mais sobre o restaurante, entrar em contato, reservar uma mesa, e muito mais.
   
-- **[Projeto 3 - Nome do Projeto](#)**
-  - Breve descrição do projeto, seu objetivo e tecnologias utilizadas.
+
 
 ## 🛠️ Habilidades Técnicas
 
@@ -88,7 +86,7 @@ No meu tempo livre, me dedico a compartilhar conhecimento e contribuir para a co
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oMaestro174&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## **Minhas  Contribuições**
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omaestro174&repo=dio-lab-open-source&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)](https://github.com/1988-Re-Nunes/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omaestro174&repo=dio-lab-open-source&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)](https://github.com/oMaestro174/dio-lab-open-source)
 
 ---
 
