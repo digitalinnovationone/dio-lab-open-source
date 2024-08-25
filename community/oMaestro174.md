@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taguardado.net@gmail.com)
 ## 🎓 Sobre Mim
 
-Sou Janei Vieira, também conhecido como omaestro174 no GitHub. Meu nome de usuário é uma homenagem a um grande amigo que, infelizmente, faleceu devido à COVID-19. Ele era conhecido como "oMaestro", e eu adicionei "174" em referência à BR que me leva até minha família. Este perfil é dedicado à memória dele e ao compromisso que compartilho em criar e contribuir para a comunidade de tecnologia.
+Sou Janei Vieira, também conhecido como oMaestro174 no GitHub. Meu nome de usuário é uma homenagem a um grande amigo que, infelizmente, faleceu devido à COVID-19. Ele era um grande desenvolvedor conhecido como "oMaestro", e eu adicionei "174" em referência à BR 174 que interliga Manaus a Boa Vista e que me leva até minha família. Este perfil é dedicado à memória dele e ao compromisso que compartilho em criar e contribuir para a comunidade de tecnologia.
 
 ### Formação Acadêmica e Especializações
 
@@ -83,7 +83,7 @@ No meu tempo livre, me dedico a compartilhar conhecimento e contribuir para a co
 
 ## 📊 GitHub Status
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oMaestro174&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oMaestro174&theme=transparent&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## **Minhas  Contribuições**
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omaestro174&repo=dio-lab-open-source&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)](https://github.com/oMaestro174/dio-lab-open-source)
