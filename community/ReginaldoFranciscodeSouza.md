@@ -1,5 +1,5 @@
 # Bem-Vindo(a)!
-#### Olá, meu nome é Reginaldo, Sou Bacharel em Adminstração de Empresas e Tecnologo em Marketing, Atualmente me encontro em processo de transição de carreira para a área de desenvolvimento de software,me qualificando pela plataforma da DIO.
+#### Olá, meu nome é Reginaldo, Sou Bacharel em Administração de Empresas e Tecnologo em Marketing, Atualmente me encontro em processo de transição de carreira para a área de desenvolvimento de software,me qualificando pela plataforma da DIO.
 
 ## Hard Skills
 ![Csharp](https://img.shields.io/badge/CSharp-%23934B8E?style=flat-square&labelColor=%23414141&logo=csharp&logoColor=white)
