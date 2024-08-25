@@ -51,10 +51,6 @@ Para concluir este Desafio de Projeto, basta enviar a **URL do seu "fork" de um 
 
 > [!NOTE]   
 > Por exemplo, a URL https://github.com/falvojr/dio-lab-open-source é o "**fork**" feito pelo usuário do GitHub "`falvojr`" para a contribuição no repositório `dio-lab-open-source`.
->
-
-### Instruções
-As instruções serão adicionadas posteriormente.
 
 ### Contribua com seu Profile README
 Para contribuir neste repositório, uma das formas é através da contribuição no diretório "**community**", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. <br>
