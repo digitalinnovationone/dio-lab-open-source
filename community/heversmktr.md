@@ -1,7 +1,7 @@
 
 # heversmktr
 
-Olá! Sou um formando em Engenharia Mecatrônica que deseja seguir carreira como Engenheiro de Dados.
+Olá! Sou um formando em Engenharia Mecatrônica que deseja seguir carreira como Engenheiro de Dados. Em breve atualizarei esse repositório com novidades.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heversonmorais/)
