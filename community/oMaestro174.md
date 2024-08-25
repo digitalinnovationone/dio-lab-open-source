@@ -4,7 +4,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oMaestro174)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janei-vieira/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tagurdado.net@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taguardado.net@gmail.com)
 ## 🎓 Sobre Mim
 
 Sou Janei Vieira, também conhecido como omaestro174 no GitHub. Meu nome de usuário é uma homenagem a um grande amigo que, infelizmente, faleceu devido à COVID-19. Ele era conhecido como "oMaestro", e eu adicionei "174" em referência à BR que me leva até minha família. Este perfil é dedicado à memória dele e ao compromisso que compartilho em criar e contribuir para a comunidade de tecnologia.
@@ -87,6 +87,9 @@ No meu tempo livre, me dedico a compartilhar conhecimento e contribuir para a co
 
 ## **Minhas  Contribuições**
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omaestro174&repo=dio-lab-open-source&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)](https://github.com/oMaestro174/dio-lab-open-source)
+
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cmxrenato&repo=Projeto-Proz-Restaurante-Italiano&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)](https://github.com/cmxrenato/Projeto-Proz-Restaurante-Italiano)
 
 ---
 
