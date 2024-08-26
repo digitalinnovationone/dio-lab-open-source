@@ -20,9 +20,13 @@ Analista de datacenter atualmente focado em devops. Formado em Análise e desenv
 
 <div style="display: flex">
 <br>
+ 
 ![Php](https://img.shields.io/badge/Php-000?style=for-the-badge&logo=php&logoColor=blue)
+ 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=yellow)
+
 ![Go](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go)
+
 ![ShellScript](https://img.shields.io/badge/ShellScript-000?style=for-the-badge&logo=shellscript&logoColor=blue)
   
 </div>
