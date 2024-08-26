@@ -1,4 +1,5 @@
 # Janderson Diniz
+Sou Engenheiro de Controle e Automação, atuo no ramo de Áudio & Vídeo e Automação Residencial e Corporativo, com forte conhecimento no ramo, onde atuo há 14 anos, atuo como Consultor de Projetos e hoje busco me desenvolver na área de Engenharia de Dados.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jandersondiniz/)
