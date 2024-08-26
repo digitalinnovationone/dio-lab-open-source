@@ -5,7 +5,7 @@
 💻 I am a data science and data analyst <br>
 💻 I have experience in business within Finance, Commercial Finance, Compliance and Supply Chain <br>
 👀 I’m interested in Data Science, Big Data, Python, Machine Learning and AI <br>
-:man_student: I’m currently learning Machine Learning and ML OPs at Alura and Stack Academy <br>
+:man_student: I’m currently learning Machine Learning and ML OPs at Alura and Stack Academy and Data Engineering at DIO <br>
 😄 Pronouns: He/Him <br>
  
 
