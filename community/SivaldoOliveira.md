@@ -14,3 +14,6 @@
 🗃️ Banco de dados: SQL Server, MySQL.
 
 🧰 Ferramentas de Desenvolvimento: Visual Studio, Visual Studio Code, Git.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](www.linkedin.com/in/sivaldomunizoliveira)
+
