@@ -7,7 +7,7 @@ Além de experiência com Oustystems.
 
 ##
 ### 📊 Estatísticas no GitHub:
-<a href="https://github.com/0rfreitas">
+<a href="https://github.com/JosiasRP18">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JosiasRP18&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&\&rank_icon=github" />
 </a>
 
