@@ -36,9 +36,9 @@
 <hr></hr>
 
 <h3>Connect with me!</h3>
-<table width="100%" >
+<table >
  <tr>
-    <td>
+    <td width="1000px">
     <a  href="https://www.instagram.com/kawanylf"target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:kawanysoareslf@hotmail.com">
