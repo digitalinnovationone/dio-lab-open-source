@@ -1,95 +1,99 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Contribuindo em um Projeto Open Source no GitHub</span>
-</h1>
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+</div>
 
-Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio e exercício prático para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
+<!-- Presentation -->
+<p>
+   Olá Mundo!🖖🏻 Sou a Alice, uma estudante de Design Web no Espírito Santo. Atualmente, estou me aprofundando no desenvolvimento web e já tive uma pequena experiência com cibersegurança.
 
-[![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
-[![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
+Meu grande sonho é trabalhar no desenvolvimento do meu primeiro jogo. Estou sempre disposta a aprender algo novo para alcançar esse objetivo.
 
-## Objetivo
-Aprender o básico sobre contribuição no GitHub.
+<br>
 
-## Ferramentas
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+<!-- GIF -->
+<img align="center" alt="img" src="https://i.pinimg.com/originals/dc/0b/e1/dc0be1e02f1aa1f113b217facb3a9109.gif" />
 
-## Percurso
-<table>
-  <thead>
-    <tr align="left">
-      <th>Nº</th>
-      <th>Etapas</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>01</td>
-      <td>Introdução ao Lab</td>
-    </tr>
-    <tr>
-      <td>02</td>
-      <td>Formas de Contribuir num Projeto Open Source</td>
-    </tr>
-    <tr>
-      <td>03</td>
-      <td>Desenvolvendo e Enviando uma Contribuição</td>  
-    </tr>
-    <tr>
-      <td>04</td>
-      <td>Dicas e Materiais de Apoio</td>    
-    </tr>
-  </tbody>
-</table>
+<br>
 
----
-## Desafio de Projeto da DIO
-Agora que você já sabe as formas de contribuir em um projeto Open Source, está na hora de colocar em prática o seu conhecimento sobre contribuição no GitHub! <br>
-Para concluir este Desafio de Projeto, basta enviar a **URL do seu "fork" de um projeto Open Source que você contribuiu** para a entrega do desafio na plataforma [DIO](https://www.dio.me/).
+♦️ Tenho 17 anos e atualmente vivo no Espírito Santo, Brasil. Embora eu não seja fluente em inglês, tenho a intenção de me aprofundar no assunto. Já tive contato com JavaScript, HTML, CSS e Python, mas ainda não posso dizer que tenho 100% de experiência com eles.
 
-> [!NOTE]   
-> Por exemplo, a URL https://github.com/falvojr/dio-lab-open-source é o "**fork**" feito pelo usuário do GitHub "`falvojr`" para a contribuição no repositório `dio-lab-open-source`.
+Pretendo começar a compartilhar conteúdos sobre design web no Instagram. Acredito que isso me ajudará a desenvolver outras habilidades importantes, como comunicação, criatividade e criação de conteúdos mais avançados.
+</p>
 
-### Contribua com seu Profile README
-Para contribuir neste repositório, uma das formas é através da contribuição no diretório "**community**", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. <br>
-Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
- Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
+<br><br>
 
-#### Utilitários
+<!-- Dropdown -->
+<details>
+  <summary>🖥️ Mais Sobre mim</summary>
+  </details>
+  <p>
+♦️ Eu gosto de ler e jogar, normalmente coisas de terror ou ação. Também assisto filmes e séries de diversos gêneros. Acredito que nossos interesses pessoais podem, de alguma forma, nos ajudar a desenvolver e solucionar projetos e problemas com mais facilidade.
+  </p>
+<br><br>
 
-[![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
-[![Card Stats](https://img.shields.io/badge/Card%20Stats-E94D5F?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
-[![Badges](https://img.shields.io/badge/Card%20Streak%20States-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-streak-stats.md)
+<!-- Links -->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lice_code/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alice-dos-passos-silva-9a6393307/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](x)
 
-> [!IMPORTANT]   
-> Confira as instruções antes de enviar a sua contribuição em [CONTRIBUTING.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md)
+<br><br>
 
-### Fórum do Repositório (GitHub Discussions)
-GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. Caso tenha dúvidas, você pode abrir uma discussão, dentro de uma categoria apropriada, na aba "Discussions" do repositório do projeto.
+<!-- GithubStats -->
+![Alice GitHub stats](https://github-readme-stats.vercel.app/api?username=lice-code&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lice-code&show_icons=true&theme=gotham)](https://github.com/lice-code/github-readme-stats)
 
-> [!WARNING]  
-> **Atenção:** Antes de criar uma nova discussão, verifique se sua dúvida já foi respondida em discussões anteriores. Use a função de pesquisa para encontrar tópicos relevantes.
+<br>
 
----
+<!-- Portfolio -->
+## Portfolio:
+- [MEUS PROJETOS](https://github.com/lice-code/projetos_alice.git)
+- [xxxxx](x)
+- [xxxxx](x)
+- [xxxxx](x)
+- [xxxxx](x)
 
-## Contribua
-[![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/stargazers)
-[![Forks](https://img.shields.io/github/forks/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/forks)
-[![GitHub Issues](https://img.shields.io/github/issues/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/issues/)
 
- Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição além do seu exemplo de Profile README, é inserir outros utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils), ou melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/docs). <br>
- Além disso, você também pode contribuir:
- 
-⚠️ Resolvendo, respondendo ou indicando **issues**
+## 📚 Habilidades
+<!-- Skills: Programming Languages -->
+<div style="flex-basis: 48%;">
+    <h3>Ferramentas que programo</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 
-⭐ Adicionando aos favoritos (**star**) 
 
-### Membros da comunidade que já contribuiram:
-<a href="https://github.com/digitalinnovationone/dio-lab-open-source/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=digitalinnovationone/dio-lab-open-source"/>
-</a>
 
-##
-<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+  <div style="flex-basis: 48%;">
+    <h3>Linguagens de programação</h3>
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+
+
+<div style="flex-basis: 48%;">
+    <h3>Desenvolvimento front-end</h3>
+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+
+
+<div style="flex-basis: 48%;">
+    <h3>Desenvolvimento de back-end</h3>
+    <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs">
+
+
+
+<div style="flex-basis: 48%;">
+    <h3>Software</h3>
+    <img align="center" alt="figma" height="30" width="40" 
+src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="git" width="40">
+
+
+
+<div style="flex-basis: 48%;">
+    <h3>Outros</h3>
+    <img align="center" alt="git" height="30" width="40" 
+src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40">
+</div>
+
