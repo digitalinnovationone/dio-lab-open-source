@@ -1,6 +1,6 @@
 # Robson Padilha
 ## Sobre mim.
-Prezer me chamo robson esto nesse camonho de desenvolvedor abrangendo conecimento.
+Prezer me chamo robson estou nesse camonho de desenvolvedor abrangendo conecimento.
 ### Conecte-se com migo.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-padilha-97/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/robsonv97/)
