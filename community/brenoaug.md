@@ -13,13 +13,13 @@ Sou Bacharel em Odontologia pela UFMA e estou em transição de carreira, estou 
 
 ## GitHub Stats
 
-![GitHub stats de Breno Augusto](https://github-readme-stats.vercel.app/api?username=brenoaug&theme=transparent&bg_color=151515&border_color=79ff97&show_icons=true&icon_color=79ff97&title_color=79ff97&text_color=FFF&hide_title=true)
+![GitHub stats de Breno Augusto](https://github-readme-stats.vercel.app/api?username=brenoaug&theme=transparent&bg_color=151515&border_color=79ff97&show_icons=true&icon_color=79ff97&title_color=79ff97&text_color=FFF&hide_title=true&locale=pt-br)
 
 
 ## Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brenoaug&layout=compact&bg_color=151515&border_color=79ff97&title_color=79ff97&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brenoaug&layout=compact&bg_color=151515&border_color=79ff97&title_color=79ff97&text_color=FFF&locale=pt-br&hide_title=true)
 
 ## Sequência no GitHub 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=brenoaug&theme=github-dark&background=151515&border=FFF&dates=79FF97)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=brenoaug&theme=github-dark&background=151515&border=79ff97&dates=79FF97&locale=pt-br)](https://git.io/streak-stats)
