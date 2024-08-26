@@ -3,7 +3,7 @@
 Olá a todos! Eu sou um cara apaixonado pela vida e pelo conhecimento. Tenho 29 anos, sou formado em Contabilidade, já trabalhei em outras áreas, porém busco um novo futuro em Tecnologia. Estou apenas no início, espero poder contribuir, crescer e aprender com vocês! 😁
 
 ## Conecte-se comigo!
-[![Perfil DIO](https://img.shields.io/badge/-%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/contato_sousa18/)
+[![Perfil DIO](https://img.shields.io/badge/-%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/felipepcmourao/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipepcmourao/)
 [![Instagram](https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/f1mourao/)
 [![E-mail](https://img.shields.io/badge/-Email-darkred?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipepcmourao@gmail.com)
