@@ -11,7 +11,7 @@
 
 # Connect with me  
 
-[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/felipedick])
+[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/felipedick)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/felipe-dick/)
 
 # Skills
