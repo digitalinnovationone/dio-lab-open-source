@@ -14,7 +14,7 @@
 - Atualmente estudando Java com SpringBoot.<br>
 - Participando do bootcamp Claro - Java com Spring Boot.<br>
 
-<div/>
+</div>
 
 <br>
 
