@@ -4,10 +4,13 @@
 
 
 ## 😺 Sobre mim
- Bacharela em Ciência e Técnologia
- Analista de sistemas
- Especialista em segurança da informação e proteção de dados
- Aspirante a Analista de Dados.
+🎓 Bacharela em Ciência e Técnologia
+
+💻 Analista de sistemas
+
+🔐 Especialista em segurança da informação e proteção de dados
+
+📊 Aspirante a Analista de Dados.
 
 
 ## 🐱 Conecte-se comigo
