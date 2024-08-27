@@ -9,7 +9,7 @@ de utilizá-las.
 Principais tecnologias conhecidas.
 	![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-	![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000
+	![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000>)
 
 |Idiomas| Nível|
 |-----:|---------------|
