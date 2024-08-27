@@ -77,16 +77,15 @@ Atente-se para a seguir as orientações para a contribuição, principalmente:
 Após criar o seu Pull Request, nossa automação irá validar a sua submissão. Caso esteja tudo certo, será retornada uma mensagem indicado que seu PR foi aprovado. Do contrário, leia atentamente as orientações e verifique os arquivos modificados para saber se atende as instruções para contribuição.
     
     
-## Convenção de Commits 
-
-| Tipo de Commit |Descrição                                                            | Exemplo
-| ---------------|----------------------------------------------------------------------|-----------
-| `feat`         | Adiciona uma nova funcionalidade ao projeto.                         | `feat: add USENAME.md profile`
-| `fix`          | Corrige um bug ou problema no projeto.                               | `fix: fixed issue fix#IssueNumber`
-| `docs`         | Altera a documentação do projeto.| `docs: update README.md`
-| `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         | `style: add EFFECTNAME to COMPONENT`
-| `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
-| `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
+## Facilitado de commit para o GitHub usando VScode
+PASSOS DE CONFIGURAÇÂO:
+1-Primeiro passo: Verifique se seu VScode está devidamente configurado e logado com seu GitHub
+2-Segundo passo: Abre seu GitHub e crie um novo repositório onde você vai usar para colocar o seu código 
+3-Terceiro passo: Clique no botão inferior esquerdo (open remote window) representado por este simbolo (><)
+4-Quarto passo: Clique na opção que tenha o nome do seu repositorio criado e selecione a opção mais adequada para seu computador ou seja o tanto de memória que ele aguenta usar no programa
+PASSOS PARA O COMMIT:
+5-Quinto passo: Após terminar seus trabalhos dentro do repositorio clique na opção source control (representada pelo simbolo do git), ele fica no canto esquerto geralmente abaixo da lupa de pesquisa
+6-Sexto passo: Após entrtar na aba do source control dê um nome para seu commit e clique em commitar depois clique em syncar e pronto seu arquivo vai estar no repositorio do GitHub em apenas 3 cliques
 
 
 ## Referências
