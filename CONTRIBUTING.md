@@ -13,7 +13,7 @@
  
 ⚠️ Resolvendo, respondendo ou indicando **issues**
 
-⭐ Adicionando aos favoritos (**star**) 
+⭐ Adicionando aos favoritos (**star**)
 
 ##  Contribuindo no diretório "Community" 
  A contribuição no diretório "Community" é uma das formas de completar o Desafio do lab "**Contribuindo em um Projeto Open Source no GitHub**" da [Digital Innovation One](https://www.dio.me/). Você pode colaborar criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. <br>
@@ -34,7 +34,7 @@ git clone https://github.com/SEU_USERNAME/dio-lab-open-source.git
 Pressione enter, e uma cópia do seu fork no GitHub será criada localmente.
 
 ### 3) Crie uma nova **branch** 
-Utilize o comando `git checkout -b` para criar e alternar para a nova branch e nomeie-a como `feat/community/SEU_USERNAME`
+Utilize o comando `git checkout -b` para criar e alternar para a nova branch e nomeie-a como `feat/community/SEU_USERNAME`: `git checkout -b feat/community/SEU_USERNAME`
 > Exemplo: `git checkout -b feat/community/falvojr`
 
 ### 4) Crie o seu Profile README
@@ -77,17 +77,11 @@ Atente-se para a seguir as orientações para a contribuição, principalmente:
 Após criar o seu Pull Request, nossa automação irá validar a sua submissão. Caso esteja tudo certo, será retornada uma mensagem indicado que seu PR foi aprovado. Do contrário, leia atentamente as orientações e verifique os arquivos modificados para saber se atende as instruções para contribuição.
     
     
-## Convenção de Commits 
+## Usar Codespace pelo Vscode (Para fazer seus commits de forma simplificada)
 
-| Tipo de Commit |Descrição                                                            | Exemplo
-| ---------------|----------------------------------------------------------------------|-----------
-| `feat`         | Adiciona uma nova funcionalidade ao projeto.                         | `feat: add USENAME.md profile`
-| `fix`          | Corrige um bug ou problema no projeto.                               | `fix: fixed issue fix#IssueNumber`
-| `docs`         | Altera a documentação do projeto.| `docs: update README.md`
-| `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         | `style: add EFFECTNAME to COMPONENT`
-| `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
-| `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
-
+Primeiros passos: Verifique se seu git e GitHub estão corretamente configurados em sua máquina e no VScode
+Configuração do sistema: 1-Crie um repositório em seu GitHub; 2-Se conecte ao GitHub pelo Vscode (caso não esteja conectado e syncado); 3-Clique em open Remote Window no canto inferior esquerdo do seu vscode (><); 4-selecione a opção (create a new codespace); 5-Selecione seu repósitorio criado no GitHub. 
+Commit dos arquivos modificados dentro do seu codespace do GitHub: Basta clicar em (Source Control) que usa o simbolo do git no canto esquerdo (no mesmo canto que vc acessa seu (Explore) onde fica os arquivos, depois de acessar está aba basta clicar em commitar e depois syncar os commit para efetuar o push automático para seu GitHub.
 
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
