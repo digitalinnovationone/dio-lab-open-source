@@ -42,5 +42,6 @@ I love to read, mainly subjects related to science, informatics. If you need to 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
 
+![](https://github.com/clenio77)
 ![](https://komarev.com/ghpvc/?username=clenio77)
 
