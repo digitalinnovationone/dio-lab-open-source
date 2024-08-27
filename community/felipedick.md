@@ -3,6 +3,7 @@
 
 :hand: Hi, I am Felipe Dick <br>
 💻 I am a data scientist and data analyst <br>
+:man_student: I have a bachelor in Mechanical Engineering and an MBA in Business <br>
 💻 I have experience in business within Finance, Commercial Finance, Compliance and Supply Chain <br>
 👀 I’m interested in Data Science, Big Data, Python, Machine Learning and AI <br>
 :man_student: I’m currently learning Machine Learning and ML OPs at Alura and Stack Academy and Data Engineering at DIO <br>
@@ -23,9 +24,7 @@
 # GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipedick&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-# Languages
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=felipedick&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 # My Projects
