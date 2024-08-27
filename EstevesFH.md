@@ -5,7 +5,7 @@
 🏢 **Atuação Profissional**
 - 🚀 Analista de TI
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
-- 
+  
 ### 📊 Estatísticas no GitHub
 
 ![estevesfh's GitHub stats](https://github-readme-stats.vercel.app/api?username=estevesfh&show_icons=true&theme=dracula)
