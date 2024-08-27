@@ -16,4 +16,19 @@ conhecimento.
 
 ## Atualmente estou estudando:
 
+- JAVA
+
+- SPRING BOOT
+
+- GIT
+
+- GITHUB
+
+
+## GitHub Stats
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniciusSchmitzMartins&theme=transparent&bg_color=000&border_color=AA42F7&show_icons=true&icon_color=AA42F7&title_color=AA42F7&text_color=FFF)
+
 
