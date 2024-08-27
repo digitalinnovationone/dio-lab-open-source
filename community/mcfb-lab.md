@@ -1,18 +1,14 @@
 <h1>
     <a href="https://github.com/mcfb-lab">
-     <img align="center" width="40px" border-radius="50%" overflow="hidden" src="https://avatars.githubusercontent.com/u/77882350?v=4"></a>
-    <span> Meu Profile README</span>
+     <img align="center" width="40px" overflow="hidden" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/77882350?v=4"></a>
+    <span> Mirela Bianor Profile README</span>
 </h1>
 
-Aqui você vai conferir um pouco mais sobre meu perfil profissional e contibuições.
-
----
-# Mirela Bianor
-
-Especialista em Engenharia/Análise de testes de softwares com mais de 10 anos de experiência em Qualidade de Software em diversos projetos de grandes empresas.
+<p>
+    Olá! Meu nome é Mirela, e sou uma engenheira de testes de software apaixonada por qualidade e inovação. Com uma sólida base técnica e  habilidades interpessoais, estou sempre disposta para enfrentar novos desafios.
+</p>
 
 ## Conecte-se Comigo
-
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/mirelaferr/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirela-bianor/)
 [![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mirelaferr)
@@ -51,6 +47,5 @@ Especialista em Engenharia/Análise de testes de softwares com mais de 10 anos d
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcfb-lab&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mcfb-lab&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
