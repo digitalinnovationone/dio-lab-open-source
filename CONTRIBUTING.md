@@ -81,7 +81,7 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 
 Primeiros passos: Verifique se seu git e GitHub estão corretamente configurados em sua máquina e no VScode
 Configuração do sistema: 1-Crie um repositório em seu GitHub; 2-Se conecte ao GitHub pelo Vscode (caso não esteja conectado e syncado); 3-Clique em open Remote Window no canto inferior esquerdo do seu vscode (><); 4-selecione a opção (create a new codespace); 5-Selecione seu repósitorio criado no GitHub. 
-Commit dos arquivos modificados dentro do seu codespace do GitHub: Basta clicar em (Source Control) que usa o simbolo do git no canto esquerdo (no mesmo canto que vc acessa seu (Explore) onde fica os arquivos, depois de acessar está aba basta clicar em commitar e depois syncar os commit para efetuar o push automático para seu GitHub. 
+Commit dos arquivos modificados dentro do seu codespace do GitHub: Basta clicar em (Source Control) que usa o simbolo do git no canto esquerdo (no mesmo canto que vc acessa seu (Explore) onde fica os arquivos, depois de acessar está aba basta clicar em commitar e depois syncar os commit para efetuar o push automático para seu GitHub.
 
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
