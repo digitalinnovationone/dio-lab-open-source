@@ -45,14 +45,7 @@ Meus hobbies são assistir Series e Filmes, quando consigo, e jogar vídeo game 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-
 ## Desafio no git hub
 
-
-
-
-
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdaoElias&show_icons=true&theme=radical)
 
