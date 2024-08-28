@@ -49,7 +49,7 @@ Tenho certificações importantes na área de tecnologia, como AWS Certified Clo
 Meu interesse por tecnologia e inovação me levou a explorar o campo da análise de dados e do desenvolvimento web, onde posso aplicar minha experiência prévia e adquirir novas competências em um setor dinâmico e em constante evolução.
 
 Sinta-se à vontade para explorar meus repositórios e conhecer mais sobre meu trabalho. Se você tiver interesse em discutir projetos ou colaborações, não hesite em entrar em contato. Acredito que, juntos, podemos construir soluções que façam a diferença.
-
+---
 ### English
 
 Hello, I am Erico Couto Jr., a professional with over 22 years of experience in Architecture and Civil Engineering. I hold degrees in Electrical Engineering and Architecture, with postgraduate studies in Project Management, Engineering Auditing, Evaluation and Expertise, Construction Management and Technology, and Building Pathology. Recently, I decided to shift my career towards Data Analysis and Web Development, where I have been applying my diverse experience and technical skills to solve complex problems.
