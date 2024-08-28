@@ -34,8 +34,6 @@ I'm Tatiana Limongi Chaves! 👋</h1>
 
 ![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=tatilimongi&layout=compact&theme=dark#gh-dark-mode-only)
 
-![Harlok's WakaTime stats-Dark](https://github-readme-stats.vercel.app/api/wakatime?username=limongi&layout=compact&theme=dark#gh-dark-mode-only)
-
 ## My contributions
 
 ![GitHub Streak-Dark](https://streak-stats.demolab.com?user=tatilimongi&theme=dark#gh-dark-mode-only)
