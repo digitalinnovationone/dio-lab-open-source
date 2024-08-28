@@ -1,4 +1,4 @@
-<h1>Hey there,<br />
+<h1 align="center">Hey there,<br />
 I'm Tatiana Limongi Chaves! 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tatilimongi&label=Profile%20views&color=0e75b6&style=flat" alt="tatilimongi" /> </p>
     <p>🥜 In a nutshell:</p>
@@ -31,18 +31,14 @@ I'm Tatiana Limongi Chaves! 👋</h1>
 ## Github Stats
 
 ![Tatiana Limongi's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=tatilimongi&show_icons=true\&rank_icon=github&theme=dark#gh-dark-mode-only)
-![Tatiana Limongi's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tatilimongi&show_icons=true\&rank_icon=github&theme=default#gh-light-mode-only)
 
 ![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=tatilimongi&layout=compact&theme=dark#gh-dark-mode-only)
-![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=tatilimongi&layout=compact&theme=default#gh-light-mode-only)
 
 ![Harlok's WakaTime stats-Dark](https://github-readme-stats.vercel.app/api/wakatime?username=limongi&layout=compact&theme=dark#gh-dark-mode-only)
-![Harlok's WakaTime stats-Light](https://github-readme-stats.vercel.app/api/wakatime?username=limongi&layout=compact&theme=default#gh-light-mode-only)
 
 ## My contributions
 
 ![GitHub Streak-Dark](https://streak-stats.demolab.com?user=tatilimongi&theme=dark#gh-dark-mode-only)
-![GitHub Streak-Light](https://streak-stats.demolab.com?user=tatilimongi&theme=default#gh-light-mode-only)
 
 ## Github Profile Trophy
 
@@ -50,9 +46,6 @@ I'm Tatiana Limongi Chaves! 👋</h1>
 
 ![GitHub Streak-Dark](https://github-profile-trophy.vercel.app/?username=tatilimongi&row=1&column=4&theme=onestar&title=PullRequest,Experience,Repositories,Stars&margin-w=15&margin-h=15&theme=onestar#gh-dark-mode-only)
 
-![GitHub Trophy-Light](https://github-trophies.vercel.app/?username=tatilimongi&row=2&column=4&no-frame=true&theme=default#gh-light-mode-only)
-
-![GitHub Streak-Light](https://github-profile-trophy.vercel.app/?username=tatilimongi&row=2&column=3&theme=onestar&title=PullRequest,Experience,Repositories,Stars&margin-w=15&margin-h=15&theme=default#gh-light-mode-only)
 
 
 
