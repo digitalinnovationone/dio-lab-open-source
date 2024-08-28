@@ -1,16 +1,11 @@
 <div align="center">
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=971094&width=435&lines=%F0%9F%A4%93+Welcome+!;%F0%9F%91%8B%F0%9F%8F%BB+I'm+Diogo+;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBComputer+Science+Student)](https://git.io/typing-svg)
 
-
 </div>
-
 - 🌱 I’m currently learning React, Next, and TypeScript.
 - 👀 I’m interested in programming, robotics, games, and technology.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/dplsantos) or via email: dpls.diogo@gmail.com.
-
-
 
 ## 📲 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/diogo.pls/)
@@ -20,13 +15,10 @@
 ### 👨‍💻 Available for Freelance Work
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 
-
-
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reiquem&layout=compact&langs_count=7&theme=dracula)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Reiquem&theme=catppuccin-frappe)](https://git.io/streak-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Reiquem&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ## 🛠️ Main Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -43,10 +35,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-
-
-## 🏠 Homelab
-
+## 🏠 Homelab Project
 ### 💻 Currently Working On
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -74,8 +63,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 
-
-
 ## 💻 Operating Systems Used
 ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
@@ -88,9 +75,3 @@
 ![Deepin](https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-
-
-<!---
-Reiquem/Reiquem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
