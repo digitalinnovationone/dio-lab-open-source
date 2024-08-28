@@ -43,5 +43,4 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnaCarolNP)
-
 [![E-mail](https://img.shields.io/badge/-Email-20232A?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:ananp.carolina@gmail.com)
