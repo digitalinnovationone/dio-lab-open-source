@@ -4,11 +4,11 @@ Olá! Meu nome é Alexsandro e sou Analista de Dados com certificados Nanocourse
 
 Connect with me/Conecte-se comigo
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsandro-bonfim-1562052a6/
+(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsandro-bonfim-1562052a6/
 
-![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_alexs4ndro_bonfim/
+(https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white (https://www.instagram.com/_alexs4ndro_bonfim/
 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexsandro-Bonfim
+(https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexsandro-Bonfim
 
  Programming Languages/Linguagens de programação
 
