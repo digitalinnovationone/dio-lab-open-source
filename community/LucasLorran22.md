@@ -12,7 +12,6 @@ Sou formado em Análise e Desenvolvimento de Sistemas e trabalho como Analista d
 ![Dart](https://img.shields.io/badge/Dart-30A3DC?style=for-the-badge&logo=Dart&logoColor=FFF)
 ![Flutter](https://img.shields.io/badge/Flutter-1572B6?style=for-the-badge&logo=Flutter&logoColor=FFF)
 
-
 ## Estatísticas GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasLorran22&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
