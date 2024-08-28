@@ -1,7 +1,11 @@
 # 👋🏻 Amanda Nassif
 
+## Sobre Mim
 Amando estudar 
 
+## Interesses
+* Desenvolvimento Web
+* Inteligência artificial
 
 ### GitHub Status
 
