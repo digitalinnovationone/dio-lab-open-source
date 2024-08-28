@@ -10,6 +10,7 @@
 mas minha paixão mesmo é a programação, tive contato com esta arte muito novo ainda através de revistas do sertor, 
 que mensalmente publicavam artigos sobre a linguagem BASIC.
 A partir dai não parei mais. Hoje trabalho com Delphi, C#, Python, Go, Java,  Dart, Advpl, PL/SQL.
+Atualemente encontro estudando as seguintes tecnologias de Devops: Docker, Kubernets, Grafana, Prometheus e Terraform.
 <br>
 Meus hobbies são pescar e eletrônica.</p>
 
