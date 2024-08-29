@@ -5,7 +5,7 @@
 ## 🤝 Conecte-se comigo!
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-111?style=for-the-badge)](https://www.dio.me/users/joaopmelosantos)
 [![E-mail](https://img.shields.io/badge/-Email-111?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:joaopmelosantos@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopmleosantos/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopmelosantos/)
 [![Discord](https://img.shields.io/badge/Discord-111?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@joaopmelosantos/)
 [![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaopmelosantos)
 
