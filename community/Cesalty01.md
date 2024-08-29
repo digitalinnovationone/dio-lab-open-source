@@ -1,3 +1,4 @@
-# Olá, eu sou a Cesaltina!
 
-Actualmente estou a aprender Git e GitHub na [Digital Innovation One](https://www.dio.me/).
+# Olá, sou a Cesaltina 👋🏾
+Actualmente cursando Electrônica e Telecomunicações, e uma entusiasta de Desenvolvimento Software 👩🏾‍
+💻💜
