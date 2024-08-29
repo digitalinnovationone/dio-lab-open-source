@@ -1,5 +1,5 @@
 # Inaldo - Barros
-Olá 🖐🏻 Me chamo Inaldo estou inciando na área de Ánalise e Desenvolvimento de Siltema e estou muito feliz participando do Boot Camp Dio.
+Olá 🖐🏻 Me chamo Inaldo estou inciando na área de Ánalise e Desenvolvimento de Sistema e estou muito feliz participando do Boot Camp Dio.
 ## Conete-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inaldo-barros-a4721775/)
 
