@@ -1,0 +1,35 @@
+name: Translate README
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install googletrans==4.0.0-rc1
+
+      - name: Translate README
+        run: python translate_readme.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add README_en.md README_fr.md README_zh.md README_ko.md README_ru.md README_de.md README_pt.md
+          git commit -m 'Add translated README files'
+          git push
