@@ -1,7 +1,7 @@
 # Olá, tudo bem? Meu nome é
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=AA42F7&width=435&lines=Josielle.)](https://git.io/typing-svg)</strong>
 
-##Conecte-se comigo 🤝
+## Conecte-se comigo 🤝
 
 Me segue lá no Insta e se tiver alguma dica ou algo que você queira deixar de aprendizado para uma inciante, é só mandar uma mensagem!! 😊
 
