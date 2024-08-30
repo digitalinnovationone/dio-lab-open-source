@@ -1,7 +1,7 @@
 ## 💻 If you can dream it, you can code it.
 
 📓 Sou univeritária de Ciência da Computação e estudo programação há pouco mais de um ano. <br>
-🧋 Ainda estou descobrindo o que gosto, mas por muito tempo cogitei em trabalhar com informática forense no cargo de Períto Criminal da Polícia Federal. No momento, essa ideia está engavetada. <br>
+🧋 Ainda estou descobrindo o que gosto, mas por muito tempo cogitei em trabalhar com informática forense no cargo de Períto Criminal da Polícia Federal. No momento, essa ideia está na gaveta. <br>
 
 
 ### **Estudando**
