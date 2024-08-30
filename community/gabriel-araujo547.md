@@ -26,5 +26,5 @@
 
 
 ## 💻 Minhas contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-araujo547&repo=Dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=34A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gabriel-araujo547/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-araujo547&repo=Dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=300A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gabriel-araujo547/dio-lab-open-source)
 
