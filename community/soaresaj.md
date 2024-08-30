@@ -1,6 +1,6 @@
 
 # Antonio Soares
-Engenheiro Civil, 62 anos, experiência em desenvolvimento e manutenção de sistemas para mercado financeiro: Fundos de Investimentos e Carteiras Administradas. Bom raciocínio lógico. Facilidade para trabalho em equipe e de relacionamento com clientes e parceiros. Flexibilidade para adaptação a mudanças de cenários. Bom conhecimento em gestão de projetos..
+Engenheiro Civil, 62 anos, experiência em desenvolvimento e manutenção de sistemas para mercado financeiro: Fundos de Investimentos e Carteiras Administradas. Bom raciocínio lógico. Facilidade para trabalho em equipe e de relacionamento com clientes e parceiros. Flexibilidade para adaptação a mudanças de cenários. Bom conhecimento em gestão de projetos.
 
 ### Conectar
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/soaresaj)
