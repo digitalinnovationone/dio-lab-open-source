@@ -93,3 +93,18 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+
+# Bem-vindo ao meu fork do dio-lab-open-source
+
+## Sobre Mim
+
+Muito prazer, chamo-me Lucas Braga. Sou um estudante do curso de ANALISE E DESENVOLVIMENTO DE SISTEMAS, mas tenho como objetivo me desenvolver na área de ANÁLISE DE DADOS. Com isso, concentrei meus estudos nos últimos tempos para desenvolver minhas habilidades como ANALISTA DE DADOS. 
+
+## Minhas Contribuições
+
+Neste repositório, eu adicionei minha primeira contribuição para um projeto Open Source, onde fiz uma pequena modificação no README.md para incluir essa apresentação.
+
+## Conecte-se Comigo
+
+- [LinkedIn]https://www.linkedin.com/in/lucas-braga-582a1515b/
+- [GitHub]https://github.com/LBraga1305
