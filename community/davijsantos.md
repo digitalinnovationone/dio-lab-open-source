@@ -1,6 +1,6 @@
 # Davi Santos
 
-Analista de Infraestrutura na Hexing Energy.
+Analista de Infraestrutura na Hexing Energy, com vasta experiência em Observabilidade (usando Zabbix) e ITSM.
 
 Rumo a [SRE](https://www.devopsinstitute.com/certifications/sre-foundation/)!
 
