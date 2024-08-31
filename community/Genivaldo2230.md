@@ -2,7 +2,7 @@
 ## criando uma nova branch
 
 ## Olá Dev sou  Genivaldo Alves
-- 🖥 Formação Acadêmica: Analise de Sistemas e Desenvolvimento 2024.
+- 🖥 Formação Acadêmica: Analise de Desenvolvimento Sistemas e  2024.
 - Centro Universitário Senac-sp
 - 🖋 Inicio desta jornada na programação: Janeiro 2022.
 - ⚡ Apaixonado por Tecnologia como pode facilita o Dia a Dia
