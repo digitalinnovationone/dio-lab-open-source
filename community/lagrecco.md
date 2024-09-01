@@ -1,1 +1,0 @@
-Criado por Luis Grecco
