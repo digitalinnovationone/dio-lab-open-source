@@ -1,6 +1,6 @@
 
 # Hi, I'm Marcus Vinicius! 👋
-I am a Systems Engineering student with a deep passion for Machine Learning and Data Science. ❤️
+I am a Systems Engineering student with a deep passion for Machine Learning, Data Science and Tecnology. ❤️
 
 
 ## 🛠 Skills
