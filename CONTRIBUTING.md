@@ -56,7 +56,21 @@ git commit -m"feat: add SEU_USERNAME profile"
 >[!IMPORTANT]
 > Verifique a [`Convenção de Commits`](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md#conven%C3%A7%C3%A3o-de-commits) para escrever a mensagem do seu commit de forma clara e padronizada.
 
-### 7) Envie as Alterações para o seu Repositório Remoto
+### 7) Caso você faça vários commits, você consegue reorganizar o histórico
+Use `git rebase -i HEAD~X` para reorganizar os últimos commits. Por exemplo, `git rebase -i HEAD~2` manipula os últimos 2 commits.
+
+    Um editor será aberto com os commits listados. Cada linha terá uma palavra-chave que define a ação:
+        - pick: Mantém o commit.
+        - reword: Edita a mensagem do commit.
+        - edit: Pausa para alterações.
+        - squash: Combina com o anterior.
+        - fixup: Como squash, mas descarta a mensagem.
+        - drop: Remove o commit.
+
+    Para salvar no Nano: CTRL + O, CTRL + X para sair
+  
+
+### 8) Envie as Alterações para o seu Repositório Remoto
 Envie as alterações realizadas no seu repositório local para a branch `feat/community/SEU_USERNAME` no seu repositório remoto com o comando:
 ```bash
 git push origin feat/community/SEU_USERNAME
@@ -64,7 +78,7 @@ git push origin feat/community/SEU_USERNAME
 >[!WARNING]
 > Caso você tenha criado seu arquivo diretamente no repositório remoto no GitHub, esse processo não será necessário.
 
-### 8) Crie um **Pull Request**.
+### 9) Crie um **Pull Request**.
 
 Atente-se para a seguir as orientações para a contribuição, principalmente:
 - Seu PR deve modificar apenas o arquivo community/SEU_USERNAME.md (dê uma olhadinha na aba "Files changed");
