@@ -17,7 +17,7 @@
 
 Nice to meet you!👋 I’m **Diego Kelme**, a driven web developer on a mission to build **scalable**, **user-centered**, and **innovative** businesses that captivate from the first impression. 🚀
 
-My journey began at IFAC in Brazil, where I studied web programming languages. There, I engaged in several case study projects and became a **Lean Startup Enthusiast**. I teamed up with my professor [**@vrcvieira**](https://github.com/vrcvieira), and together we launched [**@puddypet**](https://github.com/puddypet) — a startup that later participated in the [**Sebrae Startups**](sebraestartups.com.br) acceleration program.
+My journey began at IFAC in Brazil, where I studied web programming languages. There, I engaged in several case study projects and became a **Lean Startup Enthusiast**. I teamed up with my professor [**@vrcvieira**](https://github.com/vrcvieira), and together we launched [**@puddypet**](https://github.com/puddypet) — a startup that later participated in the [**Sebrae Startups**](https://sebraestartups.com.br) acceleration program.
 
 Over time, I realized that my passion extends far beyond web development. What truly drives me is **documenting new businesses**. This passion has taken me far, even representing the [Acre Amazon Rainforest Startup Ecosystem in National Events across Brazil](https://www.ifac.edu.br/noticias/2024/julho/empresa-incubada-pelo-ifac-faz-exposicao-e-representa-o-acre-em-eventos-de-inovacao).
 
@@ -46,7 +46,7 @@ Currently, I’m focused on establishing my career as an **entrepreneur** and **
 - 🎉   Successfully participated in the [Acre for Startups](https://ac.agenciasebrae.com.br/inovacao-e-tecnologia/sebrae-impulsiona-startups-locais-com-programa-acre-for-startups/) acceleration program by Sebrae Acre in 2023.
 - 🤝   Provided critical feedback on more than 5 startup projects, helping co-founders document their new businesses.
 - 🏅   Earned a UX Design Professional Certification from Google.
-- 🌟   Attended major entrepreneurship events in Brazil in 2024, including [Gramado Summit](gramadosummit.com.br), [Empreende Brazil](empreendebrazil.com.br), and [Startup Summit](startupsummit.com.br).
+- 🌟   Attended major entrepreneurship events in Brazil in 2024, including [Gramado Summit](https://gramadosummit.com.br), [Empreende Brazil](https://empreendebrazil.com.br), and [Startup Summit](https://startupsummit.com.br).
 
 
 
