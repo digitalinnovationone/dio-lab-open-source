@@ -35,6 +35,6 @@ jobs:
         run: |
           git config --global user.name 'lucianoschiavon'
           git config --global user.email 'luciano@redescorporativas.com.br'
-          git add README_en.md README_es.md README_fr.md README_zh.md README_ko.md README_ru.md README_de.md README_pt.md
+          git add README_en.md README_es.md  README_zh.md README_ja.md README_ko.md README_fr.md
           git commit -m 'Add translated README files'
           git push origin feat/community/lucianoschiavon
