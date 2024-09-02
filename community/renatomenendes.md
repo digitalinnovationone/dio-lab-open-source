@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 Bem-vindo ao Meu Perfil GitHub! 👋</h1>
-<h3 align="center">Renato Cruz - Data Science & Business Intelligence Leader</h3>
+<h1 align="center">Hi 👋 Bem-vindo ao Meu README ! 👋</h1>
+<h3 align="center">Renato Menendes - Cientista de Dados Sênior na Vibra Energia | MBA em Inteligência Artificial | MBA em Big Data | Certified Pricing Professional | Data Driven Evangelist | IA Generativa | Black Belt Lean Six Sigma</h3>
 
 <p align="center">
 Saudações a todos,
