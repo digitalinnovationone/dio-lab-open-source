@@ -60,11 +60,11 @@ Get inspired by consulting the examples in the [`Community`] folder (https://git
 #### Utilities
 
 [! [Badges] (https://img.shields.io/badge/badges-30a3dc?style=for-the-badge)]BLOB/MAIN/UTIL/BADGES/BADGES.MD)
-[! [Card stats] (https://img.shields.io/badge/card%20stats-e94d5f?style=for-the-badge)]-Source/blob/main/utils/cards/github-stats.md)
+[! [Card stats] (https://img.shields.io/badge/card%20stats-e94d5f?style=for-the-badge)]-Source/Blob/Main/Utils/Cards/Github-Stats.MD)
 [! [Badges] (https://img.shields.io/badge/card%20streak%20states-30a3dc?style=for-the-badge)]Open-Source/Blob/Main/Utils/Cards/Github-Streak-stats.MD)
 
 > [! Important]
-> Check out the instructions before sending your contribution to [Contributing.MD] (https://github.com/digitalinNovione/dio-ope-ope-source/blob/main/contributing.md)### Repository Forum (Github Discussions)
+> Check out the instructions before sending your contribution to [Contributing.MD] (https://github.com/digitalinnonone/dio-ope-ope-source/blob/main/contributing.md)### Repository Forum (Github Discussions)
 Github Discussions is a collaborative communication forum within Github.If you have questions, you can open a discussion within an appropriate category on the "Discussions" tab of the project repository.
 
 > [! Warning]
@@ -77,7 +77,7 @@ Github Discussions is a collaborative communication forum within Github.If you h
 [! [Forks] (https://img.shields.io/github/forks/digitalinNonone/dio-open-source?style=social)]]Open-Source/Forks)
 [! [Github Issues] (https://img.shields.io/github/issues/digitalinnonone/dio-ope-source?style=social)] (https://github.com/digitalinnovhenione/dio-lab-Oopen-source/issues/)
 
-This is a project made for the community, so feel free to contribute.Some forms of contribution beyond your profile readme example is to insert other utilities into the [`utils`] folder (https://github.com/digitalinnovhenone/dio-ope-pe-source/tree/main/utils), orImprove the search page of readmes making modifications to the files of the [`docs`] folder (https://github.com/digitalinNovhenione/dio-ope-ope-source/tee/main/docs).<br>
+This is a project made for the community, so feel free to contribute.Some forms of contribution beyond your profile readme example is to insert other utilities into the [`utils`] folder (https://github.com/digitalinnovhenone/dio-ope-pe-source/tree/main/utils), orImprove the Research page of the readmes making modifications to the files of the [`docs`] folder (https://github.com/digitalinnovhenion/dio-ope-ope-source/tree/main/docs).<br>
 In addition, you can also contribute:
 
 ⚠️ Solving, responding or indicating ** ISSUES **

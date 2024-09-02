@@ -77,7 +77,7 @@ Github Discussions es un foro de comunicación colaborativa dentro de Github.Si 
 [!
 [! -Source/Problemas/)
 
-Este es un proyecto hecho para la comunidad, así que siéntase libre de contribuir.Algunas formas de contribución más allá de su perfil de ejemplo ReadMe son insertar otras utilidades en la carpeta [`` Utils`] (https://github.com/digitalinnovhenone/dio-ope-pe-source/tree/main/utils), o mejorar La página de búsqueda de Readmes que realiza modificaciones en los archivos de la carpeta [`Docs`] (https://github.com/digitalinnovhenione/dio-ope-ope-source/tee/main/docs).<br>
+Este es un proyecto hecho para la comunidad, así que siéntase libre de contribuir.Algunas formas de contribución más allá de su perfil de ejemplo ReadMe son insertar otras utilidades en la carpeta [`` Utils`] (https://github.com/digitalinnovhenone/dio-ope-pe-source/tree/main/utils), o mejorar La página de investigación de los readmes realizando modificaciones en los archivos de la carpeta [`Docs`] (https://github.com/digitalinnovhenion/dio-ope-ope-source/tree/main/docs).<br>
 Además, también puede contribuir:
 
 ⚠️ Resolver, responder o indicar ** problemas **

@@ -44,40 +44,40 @@ Githubへの貢献に関する基本を学びます。
 </tbody>
 </table>
 
-----
+---
 ## DIOプロジェクトチャレンジ
 オープンソースプロジェクトに貢献する方法がわかったので、GitHubへの貢献に関する知識を実践する時が来ました！<br>
 このプロジェクトチャレンジを完了するには、[DIO]プラットフォーム（https://www.dio.me/）にチャレンジを提供するために**貢献したオープンソースプロジェクトからフォークの** URLを送信してください。
 
 > [！
->たとえば、url https://github.com/falvojr/dio-lab-open-sourceは、githubユーザーが作った「** fork **」です。 Lab-Open-Source`。
+>たとえば、URL https://github.com/falvojr/dio-lab-open-sourceは、githubユーザーが作成した「** fork **」です。 Lab-Open-Source`。
 
 ###あなたのプロフィールreadmeに貢献します
 このリポジトリに貢献するために、1つのフォームは、「** Community **」ディレクトリへの貢献を通じて、コミュニティと共有したい情報を含むプロファイルREADMEを作成します。<br>
 このために挿入できます。スキルを示すバッジ。Githubでの統計を備えたカードと、他の人が協力してもらった、協力した、または望んでいるプロジェクト。さらに、[Digital Innovation One]プラットフォーム（https://www.dio.me/）にプロジェクトの課題や記事へのリンクを挿入することもできます。<br>
-[`community`]フォルダー（https://github.com/dio-open-source/tree/tree/main/community）の例に触発されて、[` util`]フォルダーのいくつかのユーティリティをチェックしてください]（https://github.com/digitalinnovione/dio-lab-open-source/tree/main/utils）あなたの創造性を使用して😊💙を作成します。
+[`community`]フォルダー（https://github.com/dio-open-source/tree/main/community）の例に触発されて、[` util`]フォルダーのいくつかのユーティリティをチェックしてください]（https://github.com/digitalinnovione/dio-lab-open-source/tree/main/utils）あなたの創造性を使用して😊💙を作成します。
 
 ####ユーティリティ
 
 [！[バッジ]（https://img.shields.io/badge/badges-30a3dc？style = for-the-badge）
-[！[カードの統計]（https://img.shields.io/badge/card%20stats-e94d5f？for-the-badge）] -Source/blob/main/utils/cards/github-stats.md ））
-[！[バッジ]（https://img.shields.io/badge/card%20Strak%20States-30A3DC？Style = for-the-badge/utils/cards -stats.md）
+[！[カードの統計]（https://img.shields.io/badge/card%20stats-e94d5f？style = for-the-badge/utils/cards/github-stats.md ））
+[！[バッジ]（https://img.shields.io/badge/card%20Strak%20States-30A3DC？Style = for-the-badge/utils/cards/github-streak -stats.md）
 
 > [！
-> [Convinting.md]（https://github.com/digitalinnovione/dio-ope-ope-source/blob/main/contributing.md）への貢献を送信する前に手順を確認してください。###リポジトリフォーラム（githubディスカッション）
+> [Convinting.md]（https://github.com/digitalinnonone/dio-ope-ope-source/blob/main/contributing.md）への貢献を送信する前に手順を確認してください。###リポジトリフォーラム（githubディスカッション）
 Github Discussionsは、Github内の共同コミュニケーションフォーラムです。質問がある場合は、プロジェクトリポジトリの[ディスカッション]タブの適切なカテゴリ内でディスカッションを開くことができます。
 
 > [！
 > **注意：**新しいディスカッションを作成する前に、以前の議論で質問がすでに回答されていることを確認してください。検索関数を使用して、関連するトピックを見つけます。
 
-----
+---
 
 ＃＃ 貢献する
 [！[star]（https://img.shields.io/github/stars/digitalinnovione/dio-open-source?style = social）]]オープンソース/スターガーザー）
 [！[Forks]（https://img.shields.io/github/forks/digitalinnonone/dio-open-source？style = social）]]オープンソース/フォーク）
 [！[githubの問題]（https://img.shields.io/issues/digitalinnonone/dio-ope-source?style=social）]（https://github.com -Source/Issues/）
 
-これはコミュニティ向けに作られたプロジェクトですので、お気軽に貢献してください。プロフィールを超えたいくつかの形式の貢献の例は、他のユーティリティを[`utils`]フォルダー（https://github.com/digitalinnovhenone/dio-ope-pe-source/tree/main/utils）に挿入するか、改善することです。 [`docs`]フォルダー（https://github.com/digitalinnovhenione/dio-ope-ope-source/tee/main/docs）のファイルを変更するReadmesの検索ページ。<br>
+これはコミュニティ向けに作られたプロジェクトですので、お気軽に貢献してください。プロフィールを超えたいくつかの形式の貢献の例は、他のユーティリティを[`utils`]フォルダー（https://github.com/digitalinnovhenone/dio-ope-pe-source/tree/main/utils）に挿入するか、改善することです。 READMESの調査ページは、[`docs`]フォルダー（https://github.com/digitalinnovhenion/dio-ope-ope-source/tree/main/docs）のファイルを変更します。<br>
 さらに、貢献することもできます。
 
 ⚠️解決、応答、または示す**問題**

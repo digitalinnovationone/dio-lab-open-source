@@ -64,11 +64,11 @@ Inspirez-vous par la consultation des exemples dans le dossier [`Community`] (ht
 [! -stats.md)
 
 > [!
-> Consultez les instructions avant d'envoyer votre contribution à [contributing.md] (https://github.com/digitalinnovione/dio-ope-ope-source/blob/main/contributing.md)### Forum du référentiel (discussions GitHub)
+> Consultez les instructions avant d'envoyer votre contribution à [contributing.md] (https://github.com/digitalinnonone/dio-ope-ope-source/blob/main/contributing.md)### Forum du référentiel (discussions GitHub)
 GitHub Discussion est un forum de communication collaboratif au sein de GitHub.Si vous avez des questions, vous pouvez ouvrir une discussion dans une catégorie appropriée sur l'onglet "Discussions" du référentiel de projet.
 
 > [! Avertissement]
-> ** Attention: ** Avant de créer une nouvelle discussion, assurez-vous que votre question a déjà été répondue lors des discussions précédentes.Utilisez la fonction de recherche pour trouver des sujets pertinents.
+> ** Attention: ** Avant de créer une nouvelle discussion, assurez-vous que votre question a déjà été répondue dans les discussions précédentes.Utilisez la fonction de recherche pour trouver des sujets pertinents.
 
 ---
 
@@ -77,7 +77,7 @@ GitHub Discussion est un forum de communication collaboratif au sein de GitHub.S
 [!
 [! -Source / Issues /)
 
-Il s'agit d'un projet réalisé pour la communauté, alors n'hésitez pas à contribuer.Certaines formes de contribution au-delà de votre exemple de lecture de profil consistent à insérer d'autres utilitaires dans le dossier [`utils`] (https://github.com/digitalinnovhenone/dio-ope-pe-pe-source/tree/main/utils), ou améliorer La page de recherche de Readmes apportant des modifications dans les fichiers du dossier [`docs`] (https://github.com/digitalinnovhenione/dio-ope-ope-source/tee/main/docs).<br>
+Il s'agit d'un projet réalisé pour la communauté, alors n'hésitez pas à contribuer.Certaines formes de contribution au-delà de votre exemple de lecture de profil consistent à insérer d'autres utilitaires dans le dossier [`utils`] (https://github.com/digitalinnovhenone/dio-ope-pe-pe-source/tree/main/utils), ou améliorer La page de recherche des Readmes apportant des modifications des fichiers du dossier [`docs`] (https://github.com/digitalinnovhenion/dio-ope-ope-source/tree/main/docs).<br>
 De plus, vous pouvez également contribuer:
 
 ⚠️ Résolution, réponse ou indication ** Problèmes **
