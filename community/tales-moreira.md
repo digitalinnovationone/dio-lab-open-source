@@ -4,7 +4,6 @@ Buscando evoluir minhas habilidades para me tornar um desenvolvedor.
 
 ### Me encontre
 
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](www.linkedin.com/in/tales-silva-a40b1b196)
 
 ### Habilidades
