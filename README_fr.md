@@ -46,7 +46,7 @@ Apprenez les bases sur la contribution à Github.
 
 ---
 ## Dio Project Challenge
-Maintenant que vous connaissez les moyens de contribuer à un projet open source, il est temps de mettre vos connaissances sur la contribution à Github en pratique!<br>
+Maintenant que vous connaissez les moyens de contribuer à un projet open source, il est temps de mettre vos connaissances sur la contribution à GitHub en pratique!<br>
 Pour terminer ce défi de projet, envoyez simplement l'URL ** de votre fourche à partir d'un projet open source que vous avez apporté ** pour remettre le défi à la plate-forme [Dio] (https://www.dio.me/).
 
 > [!
@@ -54,7 +54,7 @@ Pour terminer ce défi de projet, envoyez simplement l'URL ** de votre fourche �
 
 ### Contribuez à votre profil Readme
 Pour contribuer à ce référentiel, un formulaire se fait par la contribution dans le répertoire "** Community **", créant une lecture de profil contenant des informations vous concernant que vous souhaitez partager avec la communauté.<br>
-Pour cela, vous pouvez insérer: des badges indiquant vos compétences;Les cartes avec leurs statistiques chez GitHub et les projets qui ont créé, collaboré ou souhaitent que d'autres personnes collaborent.De plus, vous pouvez également insérer des liens vers vos défis et articles de projet sur la plate-forme [Digital Innovation One] (https://www.dio.me/).<br>
+Pour cela, vous pouvez insérer: des badges indiquant vos compétences;Les cartes avec leurs statistiques chez GitHub et les projets qui ont créé, collaboré ou veulent que d'autres personnes collaborent.De plus, vous pouvez également insérer des liens vers vos défis et articles de projet sur la plate-forme [Digital Innovation One] (https://www.dio.me/).<br>
 Inspirez-vous par la consultation des exemples dans le dossier [`Community`] (https://github.com/digitalinnovhenione/dio-open-source/tree/main/community), consultez certains services publics dans le dossier [util`] ] (https://github.com/digitalinnovione/dio-bab-open-source/tree/main/utils) et utilisez votre créativité pour créer votre 😊💙.
 
 #### Utilitaires
@@ -64,11 +64,11 @@ Inspirez-vous par la consultation des exemples dans le dossier [`Community`] (ht
 [! -stats.md)
 
 > [!
-> Consultez les instructions avant d'envoyer votre contribution à [contributing.md] (https://github.com/digitalinnonone/dio-ope-ope-source/blob/main/contributing.md)### Forum du référentiel (discussions GitHub)
+> Consultez les instructions avant d'envoyer votre contribution à [contributing.md] (https://github.com/digitalinnovione/dio-ope-ope-source/blob/main/contributing.md)### Forum du référentiel (discussions GitHub)
 GitHub Discussion est un forum de communication collaboratif au sein de GitHub.Si vous avez des questions, vous pouvez ouvrir une discussion dans une catégorie appropriée sur l'onglet "Discussions" du référentiel de projet.
 
 > [! Avertissement]
-> ** Attention: ** Avant de créer une nouvelle discussion, assurez-vous que votre question a déjà été répondue dans les discussions précédentes.Utilisez la fonction de recherche pour trouver des sujets pertinents.
+> ** Attention: ** Avant de créer une nouvelle discussion, assurez-vous que votre question a déjà été répondue lors des discussions précédentes.Utilisez la fonction de recherche pour trouver des sujets pertinents.
 
 ---
 

@@ -64,7 +64,7 @@
 [！[徽章]（https://img.shields.io/badge/card%20streak%20states-30a3dc?style= for-the-badge）] -stats.md）
 
 > [！
->在将您的贡献发送给[parryuting.md]（https://github.com/digitalinnonone/dio-ope-ope-source/blob/main/main/contributing.md）之前，请查看说明###存储库论坛（GitHub讨论）
+>在将您的贡献发送给[parryuting.md]（https://github.com/digitalinnovione/dio-ope-ope-source/blob/main/main/contributing.md）之前，请查看说明###存储库论坛（GitHub讨论）
 GitHub讨论是Github内部的一个协作交流论坛。如果您有疑问，则可以在项目存储库的“讨论”选项卡上的适当类别中开设讨论。
 
 > [！
@@ -75,9 +75,9 @@ GitHub讨论是Github内部的一个协作交流论坛。如果您有疑问，�
 ＃＃ 贡献
 [！[Star]（https://img.shields.io/github/stars/digitalinnovione/dio-open-source?style=social）]
 [！[叉]（https://img.shields.io/github/forks/digitalinnonone/dio-open-source?style=social）]
-[！[github问题]（https://img.shields.io/github/issues/digitalinnonone/dio-ope-source?style=social） - 源/问题/）
+[！[github问题]（https://img.shields.io/github/issues/digitalinnonone/dio-ope-source?style=social）] - 源/问题/）
 
-这是一个为社区制定的项目，因此请随时做出贡献。除了您的个人资料阅读信息之外，某些形式的贡献是将其他实用程序插入[utils`]文件夹（https://github.com/digitalirinnovhenone/dio-ope-ope-ope-pe-pe-source/tree/main/main/utils ），或改进READMES的研究页面对[docs']文件夹的文件进行修改（https://github.com/digitalinnovhenion/dio-ope-ope-ope-source/tree/tree/main/main/docs）。<br>
+这是一个为社区制定的项目，因此请随时做出贡献。除了您的个人资料阅读信息之外，某些形式的贡献是将其他实用程序插入[utils`]文件夹（https://github.com/digitalirinnovhenone/dio-ope-ope-ope-pe-pe-source/tree/main/main/utils ），或改进对[docs']文件夹文件（https://github.com/digitalinnovhenione/dio-ope-ope-ope-source/tee/tee/tee/main/docs）进行修改的搜索页面。<br>
 此外，您还可以做出贡献：
 
 ⚠️解决，响应或指示**问题**
