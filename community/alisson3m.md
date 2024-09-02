@@ -46,5 +46,5 @@ Sempre buscando aprender e me desenvolver para entregar soluções de alta quali
 
 
 
-## 🖱 Credely
+## 🖱 Credely.
 [![Static Badge](https://img.shields.io/badge/TODAS_AS_CERTIFICA%C3%87%C3%95ES-blue)](https://www.credly.com/users/alisson-queiroz/)
