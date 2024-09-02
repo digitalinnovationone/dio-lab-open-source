@@ -1,17 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-  <title>Meu Perfil</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-    }
-  </style>
-</head>
-
 <body>
   <div>
     <h2>Oi, Meu nome é André 🐢</h2>
