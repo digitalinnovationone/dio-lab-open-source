@@ -3,7 +3,7 @@
 ## Sobre mim
 Sou formado em Análise e Desenvolvimento de Sistemas e sempre fui apaixonado por tecnologia. 
 
-Iniciei minha carreira como Técnico em Informática, desenvolvendo técnicas avançadas para a resolução de problemas diversos na área.
+Iniciei minha carreira como Técnico em Informática, onde por 10 anos desenvolvi técnicas avançadas para a resolução de problemas diversos na área.
 
 Com o tempo, migrei para a área de dados, iniciando minha jornada como DBA SQL Server, o que me permitiu conquistar certificações fundamentais na área. 
 
