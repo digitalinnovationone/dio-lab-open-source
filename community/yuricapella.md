@@ -15,8 +15,7 @@
   }
 
   .stats-img {
-    width:50%;
-
+    width:400px;
         }
   
 </style>
@@ -75,9 +74,9 @@ Tenho interesse futuramente em fazer um jogo no roblox.
 ## GitHub Stats
 
 <div>
-<img src= https://github-readme-stats.vercel.app/api?username=yuricapella&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&alt= "Estatísticas do GitHub" class="stats-img">
-<img src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuricapella&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&alt="Linguagem mais usada class="stats-img">
-
+<img src="https://github-readme-stats.vercel.app/api?username=yuricapella&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true"
+alt= "Estatísticas do GitHub" class="stats-img">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuricapella&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true" alt="Linguagem mais usada" class="stats-img">
 
 </div>
 
