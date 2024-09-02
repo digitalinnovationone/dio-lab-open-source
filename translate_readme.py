@@ -47,7 +47,8 @@ idiomas = {
     'es': 'README_es.md',  
     'zh-cn': 'README_zh.md',  
     'ja': 'README_ja.md',  
-    'ko': 'README_ko.md'  
+    'ko': 'README_ko.md',
+    'fr': 'README_fr.md'
 }  
 
 # Traduzir e salvar o conteúdo em novos arquivos  
