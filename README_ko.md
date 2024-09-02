@@ -64,7 +64,7 @@ Github에 대한 기본 사항에 대한 기본 사항을 배우십시오.
 [! -stats.md)
 
 > [! 중요]
-> [Contributing.md] (https://github.com/digitalinnonone/dio-ope-ope-source/blob/main/contributing.md에 기여하기 전에 지침을 확인하십시오.### 저장소 포럼 (Github 토론)
+> [기여### 저장소 포럼 (Github 토론)
 Github 토론은 Github 내의 공동 커뮤니케이션 포럼입니다.궁금한 점이 있으면 프로젝트 저장소의 "토론"탭에서 적절한 범주 내에서 토론을 열 수 있습니다.
 
 > [! 경고]
@@ -77,8 +77,8 @@ Github 토론은 Github 내의 공동 커뮤니케이션 포럼입니다.궁금�
 [포크]
 [github 문제] (https://img.shields.io/github/issues/digitalinnonone/dio-source?style=social)] (https://github.com/digitalinnovhenione/dio-lab-oopen -소스/문제/)
 
-이것은 커뮤니티를위한 프로젝트이므로 자유롭게 기여하십시오.프로파일 readme 예제 이외의 일부 형태의 기여는 다른 유틸리티를 [`utils '] 폴더 (https://github.com/digitalinnovhenone/dio-pe-source/tree/main/utils)에 삽입하거나 개선하는 것입니다. readmes의 연구 페이지는 [`docs`] 폴더 (https://github.com/digitalinnovhenion/dio-ope-source/tree/main/docs)의 파일을 수정합니다.<br>
-또한 다음과 같이 기여할 수도 있습니다.
+이것은 커뮤니티를위한 프로젝트이므로 자유롭게 기여하십시오.프로파일 readme 예제 이외의 일부 형태의 기여는 다른 유틸리티를 [`utils '] 폴더 (https://github.com/digitalinnovhenone/dio-pe-source/tree/main/utils)에 삽입하거나 개선하는 것입니다. readmes의 검색 페이지는 [`docs`] 폴더 (https://github.com/digitalinnovhenione/dio-ope-source/tee/main/docs)의 파일을 수정합니다.<br>
+또한 다음을 기여할 수도 있습니다.
 
 ⚠️ 해결, 응답 또는 표시 ** 문제 **
 
