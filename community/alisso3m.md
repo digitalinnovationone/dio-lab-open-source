@@ -1,7 +1,7 @@
 # 👋 Olá! Seja bem-vindo ao meu perfil de GitHub!
 ## Sobre mim
 Sou formado em Análise e Desenvolvimento de Sistemas e sempre fui apaixonado por tecnologia. 
-Iniciei minha carreira como Técnico em Informática, desenvolvendo técnicas avançadas para a resolução de problemas diversos na área.
+Iniciei minha carreira como Técnico em Informática, desenvolvendo técnicas avançadas para a resolução de problemas diversos do setor.
 Com o tempo, migrei para a área de dados, iniciando minha jornada como DBA SQL Server, o que me permitiu conquistar certificações fundamentais na área. 
 Sempre buscando aprender e me desenvolver para entregar soluções de alta qualidade.
 ## 🌐 Redes Sociais e Contatos
