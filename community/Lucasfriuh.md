@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #32cd32">Lucas Pereira Araujo</h1>
+<h1 align="center" style="color: #00000">Lucas Pereira Araujo</h1>
 <p align="center">Estou cursando Análise e Desenvolvimento de Sistemas na UCB - Universidade Católica de Brasília</p>
 
 <h2 align="center"> 🔌Conecte-se comigo</h2>
@@ -11,11 +11,11 @@
 <h2 align=center>Sobre mim</h2> 
 
 <p>
-🔹 Atualmente eu estou cursando o curso de Análise e Desenvolvimento de Sistemas, e estou a procura de uma vaga de estágio para que eu possa desevolver ainda mais as minhas habilidades.
+🔹 Atualmente estou cursando o curso de Análise e Desenvolvimento de Sistemas, e estou a procura de uma vaga de estágio para que eu possa desevolver ainda mais as minhas habilidades.
 </p>
 
 <p>
-🔹Em questão de linguagens eu tenho um foco maior em tentar aprender python de inicio pois é uma linguagem mais "fácil" e também é visando la frente em relação ao avanço das IAs e a necessidade de gente capacitada isso. Também tenho familiaridade comm Java, pois tive um semestre todo de POO(Programação orientada a objetos) e consegui fazer as atividades de forma tranquila, também sei o básico de HTML e Javascript
+🔹Em questão de linguagens, eu tenho um foco maior em aprender python de inicio, pois é uma linguagem mais tranquila em relação a sintaxe e também é visando o avanço das IAs e a necessidade de gente capacitada isso. Também tenho familiaridade com Java, pois tive um semestre completo de POO(Programação orientada a objetos) e consegui realizar as atividades de forma tranquila, sei o básico de HTML e Javascript
 </p>
 
 
