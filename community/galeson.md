@@ -1,6 +1,6 @@
 # Galeson/Soares
 
-Bem vindo ao minha contribuição.
+Bem vindo a minha contribuição.
 
 Sou um Engenheiro Mecânico que adora aprender coisas novas, agora estudando a área de tecnologia e cibersegurança. Breve pois não quero deixar muita informação pessoal solta 😜.
 
