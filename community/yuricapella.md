@@ -1,24 +1,15 @@
-
-# Yuri Capella Dos Santos
-
-<style>
-  body {
-    font-family: "Arial", sans-serif; 
+<div style="
+    font-family: 'Arial', sans-serif; 
     background: radial-gradient(circle, #D1E9F6, #87CEFA);
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
     color: #000000;
     text-align: center;
-    padding:80px;
+    padding: 80px;
     line-height: 2;
     letter-spacing: 0.5px;
-    word-spacing:1px;
-  }
+    word-spacing: 1px;">
 
-  .stats-img {
-    width:400px;
-        }
-  
-</style>
+# Yuri Capella Dos Santos
 
 <p><b>
 Sou formado em Análise e Desenvolvimento de Sistemas e estou em busca de uma oportunidade para crescer dentro de uma empresa, sempre procurando ampliar meus conhecimentos.
@@ -34,9 +25,6 @@ Estou constantemente estudando e me esforçando para ser o mais ágil possível 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=blue&color=black)](https://hackerrank.com/profile/yuricapelladoss1)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=blue&color=black)](mailto:yuricapelladossantos@gmail.com)
 [![Perfil Fronted Mentor](https://img.shields.io/badge/-Front%20end%20mentor%20-30A3DC?style=for-the-badge&&color=black)](https://www.frontendmentor.io/profile/yuricapella)
-
-
-
 
 ## Linguagens que possuo experiência com projetos pessoais
 
@@ -73,11 +61,11 @@ Tenho interesse futuramente em fazer um jogo no roblox.
 
 ## GitHub Stats
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=yuricapella&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true"
-alt= "Estatísticas do GitHub" class="stats-img">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuricapella&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true" alt="Linguagem mais usada" class="stats-img">
-
+<div style="display: flex; justify-content: space-between; width: 95%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=yuricapella&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true" 
+         alt="Estatísticas do GitHub" style="width: 48%;">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuricapella&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true" 
+         alt="Linguagem mais usada" style="width: 47%;">
 </div>
 
 ## Meus principais projetos pessoais por enquanto
@@ -91,3 +79,4 @@ alt= "Estatísticas do GitHub" class="stats-img">
 [![frontendmentor-challenge-2-newbie](https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=frontendmentor-challenge-2-newbie&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/yuricapella/frontendmentor-challenge-2-newbie)
 
 </b>
+</div>
