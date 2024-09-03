@@ -83,7 +83,7 @@
 
 ## Principais habilidades 🧠
 * Desenvolvimento Back-End
-* Criação de API REST
+* Criação de API's REST
 * Padrão REST
 * Arquitetura MVC e de Microsserviços
 * RabiitMQ
