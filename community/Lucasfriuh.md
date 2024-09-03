@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #32cd32">Lucas Pereira Araujo</h1>
+<h1 align="center" style="color: #00000">Lucas Pereira Araujo</h1>
 <p align="center">Estou cursando Análise e Desenvolvimento de Sistemas na UCB - Universidade Católica de Brasília</p>
 
 <h2 align="center"> 🔌Conecte-se comigo</h2>
