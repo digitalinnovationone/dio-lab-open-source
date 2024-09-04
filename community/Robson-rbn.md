@@ -2,7 +2,7 @@
 
 ## 📓 Descrição
 
-Desafio Alura - Challenge ONE Decodificador de Textos
+Contribuindo com Projeto Open Source
 
 ## 🛠 Habilidades
 
