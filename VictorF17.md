@@ -1,4 +1,4 @@
-### Olá, eu sou Victor (VIctorF17) 👋
+### Olá, eu sou Victor (VictorF17) 👋
 
 ✨ **Sou estudante de Tecnologia em transição de carreira** e hoje estou em busca de uma oportunidade.
 
