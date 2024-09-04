@@ -3,8 +3,8 @@
 💻 **Administrador de Banco de dados** na [Celcoin](https://www.celcoin.com.br/) 
 
 
-#### Apaixonado por dados, soluções inovadoras e ágeis  
-#### Estou sempre aprendendo e conhecendo novas tecnologias 🌱 [DIO](https://www.dio.me/users/vitor_fernandes_p) 
+##### Apaixonado por dados, soluções inovadoras e ágeis  
+##### Estou sempre aprendendo e conhecendo novas tecnologias 🌱 [DIO](https://www.dio.me/users/vitor_fernandes_p) 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorrfernandes/)
