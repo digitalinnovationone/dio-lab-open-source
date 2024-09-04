@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... python, sql
 - 💞️ I’m looking to... help where I can help and be helped aswel!
 - ⚡ Fun fact: ... A chicken once lived for 18 months without a head
+
 **Tecnologias:**
 
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows&logoColor=0078D6)
