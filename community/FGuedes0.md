@@ -14,6 +14,7 @@
 
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
+
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fellipe-guedes-35a10082/)
