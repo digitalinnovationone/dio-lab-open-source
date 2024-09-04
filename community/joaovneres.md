@@ -1,8 +1,6 @@
 # João Victor Cosme Neres de Sousa
 
 ## Sobre mim
-
-## Sobre mim
 Olá! Meu nome é João Victor Cosme Neres de Sousa e sou um entusiasta da tecnologia. Tenho experiência em desenvolvimento de software e sou apaixonado por resolver problemas complexos. Sou dedicado, curioso e estou sempre em busca de aprender coisas novas.
 
 ## Habilidades
