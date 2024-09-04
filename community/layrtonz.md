@@ -18,6 +18,7 @@ Desenvolvedor Back-end Java. Gosto de alguns jogos, mitologias e basquete 🏀 <
 </div>
 </div>
 
+
 ## Meus Status
 <div align="left">
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layrtonz&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
