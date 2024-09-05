@@ -4,7 +4,7 @@ Atualmente estou no Departamento de Desenvolvimento de Software da Secretaria de
 
 #Pretenções <h1>
 
-Estou imbuido em me tornar um Analisada de Dados ou talvez Engeneiro de Dados
+Estou imbuido em me tornar um Analisada de Dados ou talvez Engeneiro de Dados.alterar
 
 #Minha Formação
 
