@@ -12,6 +12,6 @@
 ## **Áreas de interesse**
 ### Ciência de dados, aprendizado de máquina, desenvolvimento back-end e gestão de projetos.
 
-## **Contato**
+## **Contato** 
 ### [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-paulo-paiva-9444791a5/) 
 
