@@ -9,7 +9,7 @@ Analista de sistemas, estudante de Cloud e DevOps, em busca de novos desafios ðŸ
 
 ## ðŸ‘‰ Contato direto para oportunidades
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ivan.junior.ti@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+19+993314719)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519993314719)
 
 ### Redes sociais
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ivan_discreto/)
