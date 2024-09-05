@@ -1,6 +1,8 @@
 # Olá, Meu nome é Sérgio Sousa!
 ## Desenvolvedor Web Front-End.
 
+Olá tudo bem!
+
 ### Meu portifólio
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portifolio-react-lovat.vercel.app/#projetos )
@@ -10,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/sergiosousa-tec/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:oxenttesergio@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:oxenttesergio@gmail.com)
 
 ## Habilidades
 
