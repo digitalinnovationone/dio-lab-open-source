@@ -2,6 +2,7 @@
   </a>
 </h1>
 
+
 #### Engenheiro Eletrônico / Projetos de Automação e Sistemas
 <i>(São Paulo/SP - Brasil)</i>
 
@@ -16,4 +17,10 @@
 
  ### Sobre mim
 
- >
+>Apaixonado por aprender e compreender o undo a volta cada vez mais, cada detalhe que o compôe e principamnete como as coisas funcionam.
+>
+><i>Nada está bom o suficiente que não possa ser aprimorado.</i>
+>
+>Este é meu lema, sempre buscando "Streamline" todos os processos a minha volta atravez de automação. Atualmente formado em Engenharia elétrica, ja trabalhei na construção civil e projetos de sistemas elétricos, hidráulicos, BMS (automação predial) e SDAI (incêndio). Também formado técnico eletrônico, ja desenvolvi diversos trabalhos utilizando C e C++ no meio acadêmico. Estudando Python e Power BI para meu sonho de ser um Engenheiro de Dados.
+>
+>A parte mais importante: Nada melhor no mundo que um gatinho que te ame todo dia e só deseja seu colo e carinho.
