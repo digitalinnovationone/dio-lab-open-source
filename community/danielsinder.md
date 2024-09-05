@@ -1,6 +1,6 @@
 Olá, eu sou Daniel Sinder (sinderdaniel) 👋
 
-✨ Especilista em Segurança da Informação e estudante de 
+✨ Especialista em Segurança da Informação
 
 🎓Estudante no mundo de dados
 
