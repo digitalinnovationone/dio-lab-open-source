@@ -26,6 +26,6 @@ Em **2021**, entrei na **NTT Data** por meio do primeiro bootcamp da empresa em 
 ### 📂 Projetos e Portfolio
 No momento, estou focado no meu atual projeto, o que limita um pouco minhas contribuições recentes ao portfólio. No entanto, tenho vários projetos em **Python**, utilizados principalmente para automatizar minhas tarefas diárias, embora **Java** seja minha principal linguagem de trabalho.
 
-Minha especialidade hoje é **microsserviços**, e continuo expandindo minhas habilidades nessa área, com foco em entregar soluções eficientes e escaláveis.
+Minha especialidade hoje é **Arquitetura de Microsserviços**, e continuo expandindo minhas habilidades nessa área, com foco em entregar soluções eficientes e escaláveis.
 
 
