@@ -75,7 +75,7 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 ---
 ...
 <br>
-4. Crie uma nova ""branch"" e nomei como 'feat/community/fernando-cesar-serafim': 'git checkout -b feat/community/fernando-cesar-serafim';
+4. Crie uma nova ""branch"" e nomei como 'feat/community/fernando-cesar-serafim': 'git checkout -b feat/community/fernando-cesar-serafim'; <br>
 ...
 
 ## Contribua
