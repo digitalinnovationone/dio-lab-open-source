@@ -1,6 +1,6 @@
 # - 👋 Carlos Bannai!
 
-Carlos Bannai, formado em Análise de Sistemas com 28 anos de experiência em TI.
+Sou o Carlos Bannai, formado em Análise de Sistemas com 28 anos de experiência em TI.
 
 Porém, tenho muito tempo em Mainfraime e estou apreendendo novas tecnologias como Power BI.
 
