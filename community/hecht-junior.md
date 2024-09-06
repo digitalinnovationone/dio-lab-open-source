@@ -27,7 +27,7 @@ Aqui está o que eu aprendi até agora e o que estou fazendo para melhorar o pro
 
 Crie uma Branch: A cada nova ideia, crie sua própria branch e experimente. Não tenha medo de testar algo novo!
 
-    
+
     git checkout -b minha-nova-branch
 
 
