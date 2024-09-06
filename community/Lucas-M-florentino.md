@@ -4,20 +4,42 @@ Sou formado em Engenharia de Computação pela Universidade Federal da Grande Do
 
 Atualmente, estou focado em aprimorar minhas habilidades em Python para engenharia de dados, serviços de coleta de dados e filas de execução.
 
-## 💻 Habilidades e Tecnologias
 
-- **Linguagens:** Python, JavaScript (React JS, Vue JS, Node.js)
-- **Frameworks:** React JS, Vue JS, Express, Next.js, NestJS
-- **Ferramentas:** Docker, Git, SQL
-- **Interesses:** Coleta e tratamento de dados, desenvolvimento full-stack, automação de processos
+## 💻 Habilidades e Tecnologias
+<details>
+<summary></summary>
+<div align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" height="40" width="52" alt="trello logo"  />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker logo" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask logo" height="40"  width="52"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"  width="52" alt="html5 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"  width="52" alt="css3 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"  width="52" alt="javascript logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"  width="52" alt="react logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue logo" height="40"  width="52"  />
+    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"  width="52" alt="mysql logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"  height="52" alt="postgresql logo"  />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"  width="52" alt="nodejs logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"  width="52" alt="express logo"  />
+    <img src="https://user-images.githubusercontent.com/98190806/192385009-fa2bf5dc-d0ca-40fc-b47e-3909d5540ed6.png" height="40"  width="52" alt="Typescript logo"  />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" height="40"  width="54" alt="MongoDB logo"  />
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </div>
+</details>
 
 ## 🚀 Projetos em Destaque
-
+<details>
+<summary></summary>
+<div align="left">
 - **[Sistema de Gerenciamento de Finanças Pessoais](https://github.com/Lucas-M-florentino/financa_todo_dia)**: Um painel para cadastro e acompanhamento de transações financeiras, com gráficos e relatórios.
 - **[Gerador de URL encurtada](https://github.com/Lucas-M-florentino/url-gerador)**: Um app mobile nativo para encurtar url.
 - **[Gerador de QrCode](https://github.com/Lucas-M-florentino/qrcode-generator)**: Um app mobile nativo que gera QrCode do conteúdo inserido.
 - **[Batalha urbana](https://github.com/Lucas-M-florentino/Batalha_urbana)**: Jogo de tiro ao alvo em C com OpenGL Glut.
-
+  </div>
+</details>
 
 ## 📫 Como me encontrar:
 
