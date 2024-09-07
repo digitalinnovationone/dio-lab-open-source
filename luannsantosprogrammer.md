@@ -2,6 +2,7 @@
 
 ## Conecte-se comigo 😎
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luann-rodrigo-de-souza-santos-492298317/)
 ## Habilidades
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
