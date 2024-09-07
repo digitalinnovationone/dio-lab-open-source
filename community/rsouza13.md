@@ -37,5 +37,5 @@ Aqui estão algumas estatísticas sobre meu perfil no GitHub:
 
 Você pode entrar em contato comigo através das seguintes plataformas:
 
-- [LinkedIn]([https://www.linkedin.com/in/seu-perfil-linkedin](https://www.linkedin.com/in/tiago-rodrigues-de-souza-7a939344/))
+- [LinkedIn](https://www.linkedin.com/in/tiago-rodrigues-de-souza-7a939344)
 - [GitHub](https://github.com/rsouza13)
