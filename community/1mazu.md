@@ -1,6 +1,6 @@
 # Hi, I'm Matheus Mazurechen Barros 👋
 
-Welcome to my GitHub profile! I'm a passionate student of backend Java development, eager to build scalable, robust, and efficient backend systems. Here you can find some of my projects, contributions, and repositories showcasing my journey in backend development.
+Welcome to my GitHub profile! I'm a passionate student of backend Java development, eager to build scalable, robust, and efficient backend systems. Here you can find some of my projects, contributions, and repositories showcasing my journey in backend developments.
 
 ---
 
