@@ -943,6 +943,15 @@
         <code>![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)</code>
       </td>
     </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Jupyter" src="https://img.shields.io/badge/JUPYTER-orange?style=for-the-badge&logo=jupyter&logoColor=white&link=https%3A%2F%2Fjupyter.org%2F">
+      </td>
+      <td>
+        <code>![Static Badge](https://img.shields.io/badge/JUPYTER-orange?style=for-the-badge&logo=jupyter&logoColor=white)
+</code>
+      </td>
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
