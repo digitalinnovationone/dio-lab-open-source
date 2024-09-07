@@ -9,7 +9,7 @@
 - 💻 Analise e Desenvolvimento de Sistemas | Faculdade Unip
 - 📫[Linkdln](https://www.linkedin.com/in/adriane-janaina-didi/)
 
-<img src="https://conteudize.ai/blog/wp-content/uploads/2024/06/como-criar-prompts-para-geracao-de-imagens-com-ia.webp" alt="imagem" width="100" height="100"/>
+<img src="https://conteudize.ai/blog/wp-content/uploads/2024/06/como-criar-prompts-para-geracao-de-imagens-com-ia.webp" alt="imagem" width="300" height=""/>
 
 
 ## Meus Hubbies
