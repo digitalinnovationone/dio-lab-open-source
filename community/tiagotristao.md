@@ -1,8 +1,22 @@
 # Tiago Tristão
-Estou aprendedo Java no Bootcamp da Dio:
-
+Estou participando do Bootcamp de Java da Dio:    
 **Claro - Java com Spring Boot**
 
+## Formação
+**Bacharelado Ciência da computação**   
+**Pós-graduação em Computação em Nuvem**
+
+## Certificações
+**AWS Certified Cloud Practitioner**
+**Microsoft Certified: Azure Fundamentals**
+**LPI-1, LPI-2 e LPI-3**    
+**RHCSA**   
+**IBM Spectrum Protect 8.1**    
+**ISO 27002**
+
+## Idiomas
+**Portugês - Nativo**   
+**Inglês - Intermediário**
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-tristao/)
