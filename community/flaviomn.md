@@ -2,7 +2,7 @@
 
 ## 📝 Introdução
 
-Olá, meu nome é Flavio Nakagawa. Sou Especialista em Redes com muita vontade de aprender a Programar.
+Olá, meu nome é Flavio. Sou Especialista em Redes com muita vontade de aprender a Programar.
 
 ## 💼 Experiência Profissional
 
