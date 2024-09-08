@@ -31,15 +31,30 @@ Atualmente, estou focado em aprimorar minhas habilidades em Python para engenhar
 </details>
 
 ## 🚀 Projetos em Destaque
+
 <details>
-<summary></summary>
+<summary>Clique para ver mais detalhes</summary>
 <div align="left">
-- **[Sistema de Gerenciamento de Finanças Pessoais](https://github.com/Lucas-M-florentino/financa_todo_dia)**: Um painel para cadastro e acompanhamento de transações financeiras, com gráficos e relatórios.
-- **[Gerador de URL encurtada](https://github.com/Lucas-M-florentino/url-gerador)**: Um app mobile nativo para encurtar url.
-- **[Gerador de QrCode](https://github.com/Lucas-M-florentino/qrcode-generator)**: Um app mobile nativo que gera QrCode do conteúdo inserido.
-- **[Batalha urbana](https://github.com/Lucas-M-florentino/Batalha_urbana)**: Jogo de tiro ao alvo em C com OpenGL Glut.
-  </div>
+
+- **[Sistema de Gerenciamento de Finanças Pessoais](https://github.com/Lucas-M-florentino/financa_todo_dia)**  
+  Um sistema completo para gerenciar finanças pessoais, permitindo o cadastro e acompanhamento de receitas e despesas. O painel exibe gráficos interativos, relatórios financeiros detalhados, e possibilita o estabelecimento de metas financeiras.  
+  **Tecnologias**: Vue.js, Node.js, PostgreSQL, Docker
+
+- **[Gerador de URL Encurtada](https://github.com/Lucas-M-florentino/url-gerador)**  
+  Aplicativo mobile nativo para criar URLs encurtadas de maneira simples e rápida, com opções de customização de links.  
+  **Tecnologias**: React Native, Node.js, API REST
+
+- **[Gerador de QRCode](https://github.com/Lucas-M-florentino/qrcode-generator)**  
+  Um aplicativo nativo que gera códigos QR a partir de qualquer texto ou link inserido, com funcionalidade de download e compartilhamento.  
+  **Tecnologias**: React Native, Expo, JavaScript
+
+- **[Batalha Urbana](https://github.com/Lucas-M-florentino/Batalha_urbana)**  
+  Um jogo de tiro em primeira pessoa desenvolvido em C com OpenGL. O jogador enfrenta desafios urbanos em cenários tridimensionais, testando suas habilidades de mira e velocidade.  
+  **Tecnologias**: C, OpenGL, Glut
+
+</div>
 </details>
+
 
 ## 📫 Como me encontrar:
 
