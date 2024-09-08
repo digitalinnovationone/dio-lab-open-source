@@ -62,7 +62,7 @@ Essas experiências me ajudaram a aprimorar minhas habilidades técnicas e inter
 
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+55+091+982255033)
 - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/
-@SEUUSERNAME/)
+@paulosergiomaia1969/)
 
 ### Top Linguegens
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pssmaia51&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
