@@ -22,7 +22,7 @@ Olá, me chamo Maria Eduarda
 <hr>
 
 <pre>
-📚 Sou bacharel em computação pela UNIVEM
+📚 Sou bacharel em Ciência da Computação pela UNIVEM
 📝 Tenho interesse em Análise de Dados e Engenharia de Dados
 🌟 Linguagens Principais: Python, SQL
 <hr>
