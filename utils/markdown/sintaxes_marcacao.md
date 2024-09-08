@@ -132,7 +132,7 @@ As linhas seguintes, correspondem as representações do conteúdo de cada obser
 ` |Linha 1 | Valor 1 | Valor 2 | Valor 3 |`
 ` |Linha 2 | Valor 1 | Valor 2 | Valor 3 |`
 
-Dessa forma, seguinte o exemplo acima, pode-se obter o seguinte resultado:
+Dessa forma, seguindo o exemplo acima pode-se obter o seguinte resultado:
 
 | Linha | Título da 1ª coluna | Título da 2ª coluna | Título da 3ª coluna |
 |-------|-------|-------|-------|
