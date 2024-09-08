@@ -26,9 +26,9 @@ Universidade do Vale do Itajaí
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2B702?style=for-the-badge&logo=powerbi)
 ### Competências & Habilidades
 
-- 📚 Engenharia de Dados (em aprendizado)
-- 🛠️ Design Mecânico e Modelagem 3D
-- 🌍 Inglês fluente
+- 📚 Engenharia de Dados (em aprendizado).
+- 🛠️ Design Mecânico e Modelagem 3D.
+- 🌍 Inglês fluente.
 
 ### 📘 Jornada de Aprendizado:  
 - Atualmente matriculado no **CS50: Introduction to Computer Science** pela Harvard University, focando em conceitos fundamentais de ciência da computação e programação.  
