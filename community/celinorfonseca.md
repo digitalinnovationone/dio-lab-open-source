@@ -1,5 +1,21 @@
 <img align="left" padding="20px" alt="Foto de perfil de Tauan Gabriel" src="https://media.licdn.com/dms/image/v2/D4E03AQFsqh7etLRl0w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1675694288799?e=1731542400&v=beta&t=h8fBYVfKub3hjMCrBunT8fFkzW6UvTqdsXO9_i8AJvk">
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <h1> 
   <a href="https://www.linkedin.com/in/celinor-junior-a42b89186/" style="color: #800080 !important; text-decoration: none; color: inherit;">
     <span>CELINOR LIMA DA FONSECA JÚNIOR</span>
