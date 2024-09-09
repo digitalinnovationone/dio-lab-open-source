@@ -9,7 +9,7 @@ Estudo de modo auto-didata, partindo sempre da base de cada tema, para alcancar 
 Muito prazer esse sou eu Heitor Porto !
 
 E neste momento estou participando do BootCamp XP Inc. - Full Stack Developer .
-Na platataforma de Ensino da DIO que traz uma exelente oprotunidade de ensino baseada em projetos, com oportunidades no mundo profissional!!!
+Na platataforma de Ensino da DIO que traz uma exelente oprotunidade de ensino baseada em projetos, com oportunidades no mundo profissional!!!<br>
 https://www.dio.me/users/linuxheitor_87383
 </p>
 
