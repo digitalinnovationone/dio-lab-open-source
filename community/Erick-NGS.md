@@ -6,6 +6,14 @@ Sou um desenvolvedor RPA, porém aberto a aprender/explorar outras áreas de con
 
 Atuo principalmente utilizando mais a ferramenta UiPath, porém busco sempre tentar expandir meus horizontes de conhecimento, seja me aprofundando mais na área de RPA como aprendendo novas tecnologiais ou diferentes ferramentas de trabalho, ou aprendendo algo novo em uma área diferente.
 
+## Links e Redes sociais para conexões
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/erick-nogueira-943677173/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erick-NGS)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/engs_3003)
+
+## Conquistas
+
 Algumas certificações, certificados e treinamentos que possuo:
 
 | Nome                                        | Empresa emissora                      |
@@ -13,12 +21,6 @@ Algumas certificações, certificados e treinamentos que possuo:
 | UiPath Certified Advanced Developer v1.0    | [UiPath](https://www.uipath.com/)     |
 | Scrum Foundation Professional Certification | [CertiProf](https://certiprof.com/pt) |
 | Versionamento de Códigos com Git e Github   | [DIO](https://www.dio.me/)            |
-
-## Links e Redes sociais para conexões
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/erick-nogueira-943677173/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erick-NGS)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/engs_3003)
 
 ## Skills
 
