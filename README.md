@@ -4,92 +4,44 @@
     <span> Contribuindo em um Projeto Open Source no GitHub</span>
 </h1>
 
-Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio e exercício prático para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
+# Hey! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25>
 
-[![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
-[![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
+Olá, sou a Aline 🙋🏻. Graduada em Sistemas de Informação pela Universidade Vila Velha (UVV), após um longo período atuando na área de Gestão de Projetos e Clientes, dei início ao processo de migração de carreira para Desenvolvimento Back-end com foco em Java. Tenho experiência em Metodologias Ágeis - Scrum, Lean, Kanbam e conhecimentos em Modelagem de Banco de Dados, MySQL, PostgresSQL ☕.
 
-## Objetivo
-Aprender o básico sobre contribuição no GitHub.
+- 📌 Vila Velha/ES.
+- 👩🏻‍💻 Java Developer.
+- 🔍 Aberta a desafios para a minha evolução como Desenvolvedora.
+- <a href="#" target="_blank">[Acompanhe essa jornada](https://github.com/AlinePBrandao?tab=repositories)</a>
+## Git Status <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=30 alt="Git"/>
 
-## Ferramentas
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlinePBrandao&theme=dark&show_icons=true&card_width=400)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlinePBrandao&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Percurso
-<table>
-  <thead>
-    <tr align="left">
-      <th>Nº</th>
-      <th>Etapas</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>01</td>
-      <td>Introdução ao Lab</td>
-    </tr>
-    <tr>
-      <td>02</td>
-      <td>Formas de Contribuir num Projeto Open Source</td>
-    </tr>
-    <tr>
-      <td>03</td>
-      <td>Desenvolvendo e Enviando uma Contribuição</td>  
-    </tr>
-    <tr>
-      <td>04</td>
-      <td>Dicas e Materiais de Apoio</td>    
-    </tr>
-  </tbody>
-</table>
+## Cursos 📚
+- <a href="#" target="_blank">[Java COMPLETO Programação Orientada a Objetos - Nelio Alves](https://www.udemy.com/course/java-curso-completo/?couponCode=KEEPLEARNING) ☕</a>
+- <a href="#" target="_blank">[SQL Explorer e MySQL Explorer na Oracle University](https://mylearn.oracle.com/) ☕</a>
+- <a href="#" target="_blank">[Bootcamp Java com Spring Boot na Digital Innovation One](https://web.dio.me/track/coding-the-future-claro-java-spring-boot?utm_source=engagement&utm_medium=email&utm_campaign=coding-the-future-claro-java-spring-boot&utm_term=bootcamp-users&utm_content=enrollment-cta) ☕</a>
+- <a href="#" target="_blank">[Ignite - Java](https://app.rocketseat.com.br/journey/java/overview) ☕</a>
 
----
-## Desafio de Projeto da DIO
-Agora que você já sabe as formas de contribuir em um projeto Open Source, está na hora de colocar em prática o seu conhecimento sobre contribuição no GitHub! <br>
-Para concluir este Desafio de Projeto, basta enviar a **URL do seu "fork" de um projeto Open Source que você contribuiu** para a entrega do desafio na plataforma [DIO](https://www.dio.me/).
+## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22>
 
-> [!NOTE]   
-> Por exemplo, a URL https://github.com/falvojr/dio-lab-open-source é o "**fork**" feito pelo usuário do GitHub "`falvojr`" para a contribuição no repositório `dio-lab-open-source`.
+<a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'></a>
+<a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'></a>
+<a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'></a>
+<a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/oracle.svg'></a>
+<a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'></a>
+<a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'></a>
+<a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'></a>
+<a><img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'></a>
 
-### Contribua com seu Profile README
-Para contribuir neste repositório, uma das formas é através da contribuição no diretório "**community**", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. <br>
-Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
- Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
 
-#### Utilitários
-
-[![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
-[![Card Stats](https://img.shields.io/badge/Card%20Stats-E94D5F?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
-[![Badges](https://img.shields.io/badge/Card%20Streak%20States-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-streak-stats.md)
-
-> [!IMPORTANT]   
-> Confira as instruções antes de enviar a sua contribuição em [CONTRIBUTING.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md)
-
-### Fórum do Repositório (GitHub Discussions)
-GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. Caso tenha dúvidas, você pode abrir uma discussão, dentro de uma categoria apropriada, na aba "Discussions" do repositório do projeto.
-
-> [!WARNING]  
-> **Atenção:** Antes de criar uma nova discussão, verifique se sua dúvida já foi respondida em discussões anteriores. Use a função de pesquisa para encontrar tópicos relevantes.
-
----
-
-## Contribua
-[![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/stargazers)
-[![Forks](https://img.shields.io/github/forks/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/forks)
-[![GitHub Issues](https://img.shields.io/github/issues/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/issues/)
-
- Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição além do seu exemplo de Profile README, é inserir outros utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils), ou melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/docs). <br>
- Além disso, você também pode contribuir:
- 
-⚠️ Resolvendo, respondendo ou indicando **issues**
-
-⭐ Adicionando aos favoritos (**star**) 
-
-### Membros da comunidade que já contribuiram:
-<a href="https://github.com/digitalinnovationone/dio-lab-open-source/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=digitalinnovationone/dio-lab-open-source"/>
-</a>
-
-##
-<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+## Me encontre aqui 👇🏻
+<a href="https://www.linkedin.com/in/aline-brandão/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+ <a href="mailto:alinep02brandao@gmail.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://api.whatsapp.com/send?phone=5527996606692">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />        
+  </a>&nbsp;&nbsp; 
