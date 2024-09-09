@@ -1,6 +1,5 @@
 <img src="https://user-images.githubusercontent.com/121198911/221385206-5d9f8046-1d04-4a63-a4ec-8caaf10d1236.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
-
 <p align="left"> 
 <br>
 Sou um apaixonado por tecnologia e no momento estou buscando migrar de carreira pra area de Desenvolvimento, uma area a qual sempre fui extremamente apaixonado,
