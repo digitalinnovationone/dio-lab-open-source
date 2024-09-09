@@ -5,7 +5,7 @@ Sou um estudante de Engenharia de Computação na Universidade de Brasília (UnB
 
 Minha curiosidade insaciável me impulsiona a explorar novas soluções e a colaborar com colegas, compartilhando conhecimentos e aprendendo com as experiências compartilhadas. A motivação é alimentada pela vontade de criar, inovar e contribuir significativamente para o sucesso de projetos desafiadores. Como um programador dedicado e colaborador engajado, estou comprometido em usar minhas habilidades para impulsionar a excelência e transformar ideias em realidades impactantes.
 
-Meu principal objetivo é utilizar a engenharia como ferramenta para impactar positivamente o mundo, desenvolvendo tecnologias que melhorem a vida das pessoas.
+Meu principal objetivo é utilizar a engenharia como ferramenta para impactar positivamente o mundo, desenvolvendo tecnologias que melhorem a vida das pessoas !!!
 
 ## ✨Linguagens de Programção
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
