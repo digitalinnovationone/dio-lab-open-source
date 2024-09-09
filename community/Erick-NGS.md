@@ -4,7 +4,7 @@ Olá! Prazer, Erick.
 
 Sou um desenvolvedor RPA, porém aberto a aprender/explorar outras áreas de conhecimento.
 
-Atuo principalmente utilizando mais a ferramenta UiPath, porém busco sempre tentar expandir meus horizontes de conhecimento, seja me aprofundando mais na ára de RPA, como novas tecnologiais ou diferentes ferramentas de trabalho, ou aprendendo algo novo em uma área diferente.
+Atuo principalmente utilizando mais a ferramenta UiPath, porém busco sempre tentar expandir meus horizontes de conhecimento, seja me aprofundando mais na área de RPA como aprendendo novas tecnologiais ou diferentes ferramentas de trabalho, ou aprendendo algo novo em uma área diferente.
 
 Algumas certificações, certificados e treinamentos que possuo:
 
