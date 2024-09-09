@@ -23,7 +23,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=XXXParanoidXXX&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
  
 ## About me
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XXX_Paranoid_XXX)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XXXParanoidXXX)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinícius-lima-61aa082a6//)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/_x_paranoid_x_/)
 - Thanks for visiting.
