@@ -1,9 +1,3 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Contribuindo em um Projeto Open Source no GitHub</span>
-</h1>
-
 # Hey! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25>
 
 Olá, sou a Aline 🙋🏻. Graduada em Sistemas de Informação pela Universidade Vila Velha (UVV), após um longo período atuando na área de Gestão de Projetos e Clientes, dei início ao processo de migração de carreira para Desenvolvimento Back-end com foco em Java. Tenho experiência em Metodologias Ágeis - Scrum, Lean, Kanbam e conhecimentos em Modelagem de Banco de Dados, MySQL, PostgresSQL ☕.
