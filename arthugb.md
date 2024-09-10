@@ -9,4 +9,4 @@ Olá, sou Arthur e sou iniciante na área! Gosto de desafios e de aprender novas
 ## Git Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthugb&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ## Minhas contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=arthugb&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/arthugb/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=arthugb&repo=arthugb.md&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/arthugb/arthugb.md)
