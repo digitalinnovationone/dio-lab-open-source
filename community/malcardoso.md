@@ -4,7 +4,8 @@
 **Sobre mim**
 - 🙋‍♂️ Olá meu nome é Marcos 
 - 🤔 Expandindo o conhecimento.
-- 🎓 Estudando infraestrutura.
+- 🎓 Estudando infraestrutura
+- Cloud Azure, AWS
 
 **Aprendendo mais sobre**
 
