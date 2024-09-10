@@ -24,8 +24,6 @@ Sou estudante de Ciência da Computação apaixonada por aprender constantemente
 
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=blue)
 
-![C#](https://img.shields.io/badge/C#-000?style=for-the-badge&logo=c#&logoColor=blue)
-
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=green)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
