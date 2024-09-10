@@ -1,7 +1,7 @@
-# Olá, eu sou [Jailton Lima] ??
+# OlÃ¡, eu sou Jailton Lima
 
 ## Sobre Mim
-Sou um Especilista em sistemas de Gestão TOTVS e desenvolvedor ADVPL apaixonado por tecnologia e inovação. Tenho experiência em diversas linguagens de programação e adoro contribuir para projetos open source.
+Sou um Especilista em sistemas de GestÃ£o TOTVS e desenvolvedor ADVPL apaixonado por tecnologia e inovaÃ§Ã£o. Tenho experiÃªncia em diversas linguagens de programaÃ§Ã£o e adoro contribuir para projetos open source.
 
 
 ## Conecte-se comigo
@@ -11,9 +11,9 @@ Sou um Especilista em sistemas de Gestão TOTVS e desenvolvedor ADVPL apaixonado 
 
 - GitHub
 
-## Contribuições em Projetos Open Source
+## ContribuiÃ§Ãµes em Projetos Open Source
 ### Projeto 1: Smart View - Gerador de Relatorios TOTVS
-- **Descrição**: Contribuir com exemplos de elaboração relatorios.
+- **DescriÃ§Ã£o**: Contribuir com exemplos de elaboraÃ§Ã£o relatorios.
 - **Tecnologias Utilizadas**: Smart View, TOTVS Protheus, SQL, ADVPL e TLPP.
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DEVJAILTON&repo=DEVJAILTON&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/devjailton)
@@ -24,4 +24,4 @@ Sou um Especilista em sistemas de Gestão TOTVS e desenvolvedor ADVPL apaixonado 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-* * Obrigado por visitar meu perfil! Se você gostou do que viu, sinta-se à vontade para entrar em contato ou contribuir com meus projetos.* *
+* * Obrigado por visitar meu perfil! Se vocÃª gostou do que viu, sinta-se Ã  vontade para entrar em contato ou contribuir com meus projetos.* *
