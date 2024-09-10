@@ -1,5 +1,5 @@
 # Isabertazza
-Olá, eu sou a Isa e estou estudando Python na DIO.
+Olá, eu sou a Isa e estou estudando Python para engenharia de dados na DIO!
 
 ## Conecte-se comigo!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabertazza/)
