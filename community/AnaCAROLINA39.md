@@ -1,5 +1,5 @@
 # Ana Carolina 
-Ola, sou Ana Carolina Programadora Front-End, estudante de desenvolvimento cursando ciencia da computação na estacio no 3 periodo.
+Olá, sou Ana Carolina Programadora Front-End, estudante de desenvolvimento cursando Ciência da computação na Faculdade da Estácio no 3 período.
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-carolina-front-end/)
