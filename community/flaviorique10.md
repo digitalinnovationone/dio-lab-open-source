@@ -5,7 +5,7 @@
 
 # Olá Pessoal![Logo Estrela](https://icons.iconarchive.com/icons/psdblast/flat-christmas/48/star-icon.png)
 
-Me chamo _Adhara_. Sou Estudante de Sistemas para internet e pretendo atuar como analista de dados.
+Me chamo _Flávio_. Sou Estudante de Sistemas para internet e pretendo atuar como analista de dados.
 Estou desenvolvendo minhas habilidades em linguagens de programação como Python e estou muito feliz em participar do desafio **"Contribuindo em um Projeto Open Source no GitHub"**
 
 
