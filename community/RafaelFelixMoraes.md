@@ -47,8 +47,5 @@ Além de programar, sou apaixonado por esportes radicais e jogos, tanto eletrôn
 ## Contacte-me
 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafaelFelixMores)
-<<<<<<< HEAD
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-felix-dev/)
-=======
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-felix-dev/)
->>>>>>> c2b9e707d079a223f244b613adda35a4108d5520
+=
