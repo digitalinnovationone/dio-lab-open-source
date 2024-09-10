@@ -11,7 +11,7 @@ Sou Flávio Luis Coelho, estou cursando Desenvolvimento de sistemas multiplatafo
 ## Habilidades
 
 Possuo o curso técnico em informática o que me trouxe uma boa base em redes, hardware e sofware, possuo também a certificação AZ-900 do Microsoft Azure que me ajudou a ter uma noção sobre computação em núvem.
-Durante a faculdade já realizei projetos em algumas linguagens:
+Durante a faculdade já realizei projetos em algumas linguagens como:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
