@@ -1,42 +1,62 @@
-# Theophilo Silva - Analista de Sistemas
+<img align="center" style="margin-bottom:100px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
-![Desenvolvedor de Sistemas](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
+<h1 align="center">Francisco das Chagas Teófilo da Silva</h1>
+<h3 align="center">Analista de TI | Desenvolvedor de Sistemas | Administrador de Redes</h3>
 
-## Sobre mim
+<p align="center">
+  <a href="mailto:teophilo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/teofilo-silva-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/theophiloweb?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</p>
 
-Olá, sou Theophilo Silva, um analista de sistemas apaixonado por tecnologia e desenvolvimento pessoal. Formado em Sistemas para Internet e Administração Pública, sou pós-graduado em Banco de Dados e tenho mais de 15 anos de experiência na área de TI, iniciando com infraestrutura de redes e manutenção de hardware.
+## Sobre Mim
 
-Atualmente, estou focado no desenvolvimento de sistemas web com PHP, HTML, CSS e JavaScript, mas também tenho conhecimentos em Python, Java, SQL, Grafana e Zabbix.
+Profissional de TI com mais de 19 anos de experiência no Exército Brasileiro, especializado em administração de sistemas, desenvolvimento de software e resolução de problemas complexos. Autodidata com forte capacidade de adaptação e aprendizado contínuo, transformando desafios do mundo real em soluções tecnológicas eficientes.
 
-## Habilidades
+## Métricas e contribuições
 
-Aqui estão algumas das minhas habilidades:
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theophiloweb&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theophiloweb&layout=compact&theme=dark" alt="Top Linguagens"/>
+</div>
 
-- [![Desenvolvimento Pessoal](https://img.shields.io/badge/-Desenvolvimento%20Pessoal-blue)](#)
-- [![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)](#)
-- [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)](#)
-- [![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)](#)
-- [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
-- [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](#)
-- [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)](#)
-- [![SQL](https://img.shields.io/badge/-SQL-red)](#)
-- [![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)](#)
-- [![Zabbix](https://img.shields.io/badge/-Zabbix-green)](#)
+## Minhas Habilidades
 
-## Estatísticas do GitHub
+### Stack Principal:
 
-[![Estatísticas do GitHub de theophiloweb](https://github-readme-stats.vercel.app/api?username=theophiloweb&show_icons=true&theme=dark)](https://github.com/theophiloweb)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-[![Estatísticas de Streak do GitHub de theophiloweb](https://github-readme-streak-stats.herokuapp.com/?user=theophiloweb&theme=dark)](https://github.com/theophiloweb)
+### Stack Secundária:
 
-## Contato
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-Você pode entrar em contato comigo através das minhas redes sociais:
+### Bancos de Dados:
 
-- [LinkedIn](https://www.linkedin.com/in/teophilo-silva-dev)
-- theophilo@gmail.com
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+### Ferramentas de Trabalho:
 
-[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
-Este trabalho está licenciado sob uma [Licença Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/).
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+
+
+
+
+## Contato:
+
+<a href = "mailto:teophilo@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/teophilo-silva-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+
+ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
