@@ -1,5 +1,5 @@
 # Ana Carolina 
-Olá, sou Ana Carolina Programadora Front-End, estudante de desenvolvimento cursando Ciência da computação na Faculdade da Estácio no 3 período.
+Olá, sou Ana Carolina Programadora Front-End, estudante de desenvolvimento cursando Ciência da computação na Faculdade da Estácio no 3 período. Tenho 23 anos e uma filha linda de 6anos, moro no Rio de Janeiro, Nova Iguaçu.
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-carolina-front-end/)
