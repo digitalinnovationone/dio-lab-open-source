@@ -4,7 +4,7 @@
 **Sobre mim**
 - 🙋‍♂️ Olá meu nome é Marcos 
 - 🤔 Expandindo o conhecimento.
-- 🎓 Estudando ingraestrutura.
+- 🎓 Estudando infraestrutura.
 
 **Aprendendo mais sobre**
 
