@@ -9,7 +9,7 @@
 [![GitHub Issues](https://img.shields.io/github/issues/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/issues/)
 
 Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição são:
-- Criar o seu Profile README e contribuir no diretório "Community" ([instruções abaixo](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md#contribuindo-no-diret%C3%B3rio-community))
+- Criar o seu Profile README e contribuir no diretório "Community" (instruções [abaixo](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md#contribuindo-no-diret%C3%B3rio-community))
 - Inserir outros utilitários, como _badges_ ou _cards_, na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) (ex.: issue [#5070](https://github.com/digitalinnovationone/dio-lab-open-source/issues/5070))
 - Melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/docs) (ex.: [#3191](https://github.com/digitalinnovationone/dio-lab-open-source/pull/3191))
 - Resolver, responder ou indicar **issues** ⚠️ (ex.: [#34449](https://github.com/digitalinnovationone/dio-lab-open-source/issues/34449))
