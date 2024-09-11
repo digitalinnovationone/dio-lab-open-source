@@ -1,6 +1,6 @@
 # Rafael Evangelista
 
-Olá sou Rafael tenho 17 anos, atuolamente sou estudante do Ensino Médio mas faço curso técnico na Instituiçao da PROZ de DESENVOLVIMENTO DE SISTEMAS. Por enquanto estou com o básico de Python, mas ja consingo fazer codigos simples sei um pouco de Banco de Dados e HTML mas só o básico.  
+Olá sou Rafael tenho 17 anos, atuolamente sou estudante do Ensino Médio mas faço curso técnico na Instituiçao da PROZ de DESENVOLVIMENTO DE SISTEMAS. Por enquanto estou com o básico de Python, mas ja consingo fazer codigos simples sei um pouco de Banco de Dados e HTML mas só o básico.
 
 ### Conecte-se comigo
 
@@ -11,5 +11,9 @@ Olá sou Rafael tenho 17 anos, atuolamente sou estudante do Ensino Médio mas fa
 ### Habilidades
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=30A3DC)
+
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
+
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=30A3DC)
 
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
