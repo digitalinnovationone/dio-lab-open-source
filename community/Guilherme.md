@@ -2,7 +2,7 @@
 
 Desenvolvedor Back-End Java.
 
-Tenho 21 anos, e muita vontade de aprender. Sou apaixonado por tecnologia!
+Tenho 21 anos, e muita vontade de aprender. Sou apaixonado por tecnologia!!
 
 ### Conecte-se comigo
 
