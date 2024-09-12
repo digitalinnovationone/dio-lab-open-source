@@ -1,7 +1,7 @@
 # ![App Screenshot](https://avatars.githubusercontent.com/u/181212417?s=30&u=6fa79b45feeee397e2bfdaecde06142c91457c41&v=4) Diego Bertolin Rosenente
  Welcome to my GitHub portfolio. Here, you will find information about me and my career. I have included several projects that I have been involved in throughout my professional experience at various companies, as well as examples of original processes and software that I have developed.
 ## 🔗 Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosenente/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rosenente)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/digorosso/)
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/Digo_Bert)
