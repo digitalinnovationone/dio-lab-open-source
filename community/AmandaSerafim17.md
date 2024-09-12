@@ -24,7 +24,7 @@ Aqui estão alguns dos meus projetos mais recentes ou importantes:
 
 ## 📫 Como entrar em contato
 
-- Email: amandalabl@hotmail.com
+- [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:amandalabl@hotmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-das-gra%C3%A7as-serafim-626849b4/)
 
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmandaSerafim17)
