@@ -1,4 +1,4 @@
-# PEDROHCCOSTA
+# pedrohccosta
 Olá, eu sou Pedro e estou aprendendo git e github
 ## Conecte-se comigo
 [![Instagram](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/p_costa12_/)
