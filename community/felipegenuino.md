@@ -1,7 +1,9 @@
 
-<img src="https://www.felipegenuino.com/static/media/brand.c4171539.svg" alt="Logotipo no formato circular, letra F centralizada na cor branca, o fundo é preto" width="200">
+<img src="https://www.felipegenuino.com/static/media/brand.c4171539.svg" alt="Logotipo no formato circular, letra F centralizada na cor branca, o fundo é preto" width="80">
 
 # Felipe Genuino
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=felipegenuino)](https://git.io/streak-stats)
 
 ## UX/UI Designer | Especialista em Acessibilidade Digital | 12 Anos de Experiência
 
@@ -69,4 +71,3 @@ Competências avançadas em prototipagem para web e mobile, design de informaç�
 - **LinkedIn**: [linkedin.com/in/felipegenuino](https://linkedin.com/in/felipegenuino)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=felipegenuino)](https://git.io/streak-stats)
