@@ -67,3 +67,6 @@ Competências avançadas em prototipagem para web e mobile, design de informaç�
 ### Contato
 - **Email**: design@felipegenuino.com
 - **LinkedIn**: [linkedin.com/in/felipegenuino](https://linkedin.com/in/felipegenuino)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=felipegenuino)](https://git.io/streak-stats)
