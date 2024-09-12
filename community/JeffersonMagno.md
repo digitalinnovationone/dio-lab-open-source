@@ -1,4 +1,4 @@
-### Olá, eu sou Jefferson Magno (jeffersonmagno) 👋
+### Olá, eu sou Jefferson Magno (JeffersonMagno) 👋
 
 ✨ **Analista de Negócios** na [Tambasa Atacadistas](https://tambasa.com) e bacharel em Ciências da Computação.
 
