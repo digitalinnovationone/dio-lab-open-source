@@ -1,5 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0B2447&height=120&section=header"/>
 
+### João Gabriel
+Sou um estudante dedicado de Desenvolvimento de Software com entusiasmo por aprender e crescer na indústria. Minhas principais áreas de interesse são o desenvolvimento de aplicações, linguagem PHP, Javascript, HTML, CSS, SQL e também possuo conhecimento no framework Laravel. Estou constantemente aprimorando minhas habilidades técnicas e buscando oportunidades para aplicar meus conhecimentos em projetos práticos.
+
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaogabriei&theme=tokyo-night)](https://github.com/joaogabriei/github-readme-activity-graph)
 
 <div align="center">  
