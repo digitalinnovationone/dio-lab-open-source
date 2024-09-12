@@ -19,7 +19,7 @@ Estou estudando intensivamente e aprimorando minhas habilidades em linguagens.</
 
 <div align="center">
   
-![glaucyaraujo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yoewoo&theme=tokyonight&hide_border=false)
+![yoewoo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yoewoo&theme=tokyonight&hide_border=false)
   
 </div>
 
