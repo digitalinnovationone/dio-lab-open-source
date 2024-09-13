@@ -24,3 +24,8 @@ Sou a Geicy, Analista de Suporte de TI por enquanto, mas minha verdadeira paixã
   <img align="center" alt="Geicy-Azure" height="30" width="40" src="https://www.svgrepo.com/show/331302/azure-v2.svg" />
   <img align="center" alt="Geicy-Microsoft" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/2048px-Microsoft_logo.svg.png">
   </div>
+
+  ##
+  <div> 
+  <a href="https://www.linkedin.com/in/geicyane-clemente-851155163/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></a>  
+</div>
