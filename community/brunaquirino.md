@@ -27,9 +27,9 @@ Oi! Sou Bruna, uma entusiasta da tecnologia e eterna estudante em busca de novas
 
 # Contato
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) brunaqc.au@gmail.com
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  brunaqc.au@gmail.com
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) www.linkedin.com/in/bruna-quirino-corrêa-b2278ab9
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  www.linkedin.com/in/bruna-quirino-corrêa-b2278ab9
 
 ------------------
 
@@ -61,6 +61,6 @@ Hi! I'm Bruna, a technology enthusiast and lifelong learner in search of new adv
 
 # Contact
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)brunaqc.au@gmail.com
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  brunaqc.au@gmail.com
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)www.linkedin.com/in/bruna-quirino-corrêa-b2278ab9
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  www.linkedin.com/in/bruna-quirino-corrêa-b2278ab9
