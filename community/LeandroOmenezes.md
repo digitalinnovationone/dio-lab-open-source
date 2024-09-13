@@ -1,7 +1,7 @@
 # 👋 Olá, pode de chamar de Leandro Menezes!
 
 ## Sobre mim
-Olá! Sou um entusiasta da tecnologia e apaixonado por resolver problemas. Meu sonho é ser um profissional em nuvem e ajudar empresas a crescerem seus negócios
+Sou um entusiasta da tecnologia e apaixonado por resolver problemas. Meu sonho é ser um profissional em nuvem e ajudar empresas a crescerem seus negócios
 com as tecnologias mais atuais. Atualmente, minha área de atuação é **Analista de Suporte Pleno** mas a desejada é **DevOps Cloud** ou **Arquiteto de Cloud**.
 
 ## 🤓 Formação Acadêmica
@@ -30,5 +30,5 @@ com as tecnologias mais atuais. Atualmente, minha área de atuação é **Analis
 
 ## 📲 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-menezes-47336b1a2/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeandroOmenezes/feat/community/LeandroOmenezes)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeandroOmenezes/dio-lab-open-source)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+11+964027914)
