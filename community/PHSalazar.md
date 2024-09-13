@@ -1,6 +1,6 @@
 # Pedro Henrique Salazar
 
-Sou um desenvolvedor a procura sempre do desenvolvimento pessoal e profissional.
+Sou um desenvolvedor a procura sempre do desenvolvimento pessoal e profissional..
 
 ### Conecte-se comigo
 
