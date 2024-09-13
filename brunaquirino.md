@@ -5,7 +5,7 @@ Oi! Sou Bruna, uma entusiasta da tecnologia e eterna estudante em busca de novas
 
 # Informações
 
-## Idiomas
+## Idiomas 
 
 🇧🇷 Português - nativo
 
