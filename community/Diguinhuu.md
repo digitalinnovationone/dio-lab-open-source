@@ -1,4 +1,4 @@
-# Lobomal
+# Diego
 
 ## Conecte-se comigo
 [![GITHUB](https://img.shields.io/badge/Github-222145?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Diguinhuu)
