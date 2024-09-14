@@ -12,27 +12,29 @@
 - 💻 Técnico em informática  
         Rg informática 2013 a 2014
 - 💻 Desenvolvedor Delphi 6 e Delphi xe10.4 com Unigui
-        Infobr Ltda  
+        Infobr Ltda de 2014 a 2022  
 - 💻 Gerente de Desenvolvimento 
-        WMC Software Ltda
+        WMC Software Ltda de 2022 a atual
+
+
+
+
+
+
+
+## 🚀 Sobre mim
+  Sou Gerente de desenvolvimento na empresa WMC Software e trabalhamos com um ERP para Distribuidoras desenvolvido em Delphi. Também temos aplicativo em java e algums outros projetos em node e vue com bancos firebird, mysql e Postgres. 
+Além do trabalho estou sempre estudando para me atualizar em novas tecnologias como Go, Js entre outras. Também estudo para me aperfeiçoar na parte de liderança e gerenciamento de projetos com tecnologias ageis.
 
 <div align="center">
-  <a href="https://github.dev/danielsilveiradevbr">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=0DanielSilveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0DanielSilveira&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/danielsilveiradevbr">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=danielsilveiradevbr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="center" style="margin-top:20px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsilveiradevbr&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<div align="center" style="display: inline_block"><br>
-    <img alt="Gu-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
-    <img alt="Gu-dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-    <img align="center" alt="Gu-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Gu-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" alt="Gu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Gu-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-    <img align="center" alt="Gu-C#"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Gu-Java"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="center" alt="Gu-MySQL"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-    <img align="center" alt="Gu-AndroidStudio"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-</div>
-  
+ 
 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/danielsilveiradevbr/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-silveira-14026780//)
+[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/daniel.r.silveira)
 
