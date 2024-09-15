@@ -6,7 +6,7 @@ Atualmente trabalho na área de telecomunicações com centrais de PABX, onde eu
 o que me levou a focar meus estudos de programação utilizando Java como liguagem principal. 
 
 ## Link
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-xavier-rosa-69805b11a/)
 
 ## Área de conhecimento
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
