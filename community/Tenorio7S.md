@@ -7,11 +7,9 @@ Estou sempre aberto a novos desafios e oportunidades que me permitam aplicar meu
 
 ### 📌 Projetos em Destaque
 
-[![Speech2Learning](https://github-readme-stats.vercel.app/api/pin/?username=falvojr&repo=speech2learning)](https://github.com/Tenorio7S/DevopsCrudDockerMonitoring)
-[![Speech2Learning](https://github-readme-stats.vercel.app/api/pin/?username=falvojr&repo=speech2learning)](https://github.com/Tenorio7S/crudmongodbAV2)
+[![DevOps Crud Docker Monitoring](https://github-readme-stats.vercel.app/api/pin/?username=Tenorio7S&repo=DevopsCrudDockerMonitoring)](https://github.com/Tenorio7S/DevopsCrudDockerMonitoring)
+[![CRUD MongoDB AV2](https://github-readme-stats.vercel.app/api/pin/?username=Tenorio7S&repo=crudmongodbAV2)](https://github.com/Tenorio7S/crudmongodbAV2)
 
-## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=TenorioS7&theme=blood&border_radius=50)](https://git.io/streak-stats)
 
 ## Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j-victor-tenorio-ramos/)
