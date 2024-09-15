@@ -54,6 +54,7 @@ a {
     color: var(--black);
     font-weight: 600;
     text-decoration: none;
+    transition: .2s ease-in-out;
 }
 
 a:hover {
@@ -190,6 +191,7 @@ main, section {
     flex-direction: column;
     align-items: center;
     gap: 1rem;   
+    margin: 0 0 1.7% 0;
 }
 
 #desafio p {
@@ -240,12 +242,12 @@ main, section {
 }
 
 #searchInput {
+    cursor: text;
     max-width: 100%;
     font-size: 1rem;
     border: .125rem solid var(--secondary-color);
     border-radius: .35rem 0 0 .35rem;
     padding: .5rem 1.5rem;
-    cursor: pointer; 
 }
 
 #searchInput:focus {
