@@ -1,1 +1,26 @@
+<input type="text" id="searchInput" placeholder="Search README files...">
+<ul id="readmeList">
+  <li><a href="readme1.md">README 1</a></li>
+  <li><a href="readme2.md">README 2</a></li>
+  <!-- Mais itens -->
+</ul>
+
+<script>
+  const searchInput = document.getElementById('searchInput');
+  const readmeList = document.getElementById('readmeList');
+  
+  searchInput.addEventListener('keyup', function() {
+    const filter = searchInput.value.toLowerCase();
+    const items = readmeList.getElementsByTagName('li');
+    
+    Array.from(items).forEach(item => {
+      const text = item.textContent || item.innerText;
+      if (text.toLowerCase().includes(filter)) {
+        item.style.display = '';
+      } else {
+        item.style.display = 'none';
+      }
+    });
+  });
+</script>
 
