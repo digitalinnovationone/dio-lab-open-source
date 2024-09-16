@@ -26,6 +26,7 @@ Aprender o básico sobre contribuição no GitHub.
  
 ### Informações pessoais:
 Nathali Hillaury
+<br>
 Senior System Analyst;
 
 ### Habilidades técnicas:
