@@ -39,11 +39,5 @@ Sou Analista de Infraestrutura de redes, sempre em busca de conhecimento e ultim
 
 ### Card - Repository
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kleitonraraujo&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/kleitonraraujo/)
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kleitonraraujo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kleitonraraujo&theme=bear)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kleitonrararujo&theme=dark)](https://git.io/streak-stats)
