@@ -1,6 +1,6 @@
-# Felipe Assis da Cruz
+# Felipe Assis da Cruz 
 
-<h3>Tenho 27 anos, moro em Sorocaba - SP e sou formado em Tecnólogo de Sistemas para Internet pela Unicesumar. Possuo experiência como analista de implantação e suporte, onde atuei na implementação de sistemas que otimizaram processos e aumentaram a eficiência de diversos clientes no ramo de serralheria e vidraçaria. Além disso, realizei consultoria para adaptar o sistema à realidade dos clientes, desenhando organogramas e mapeando processos. Também atuei como trainee em desenvolvimento de sistemas em low code, contribuindo para o desenvolvimento ágil de soluções.</h3> <br>
+<h3>Tenho 27 anos, moro em Sorocaba - SP. Sou formado em Tecnólogo de Sistemas para Internet pela Unicesumar. Possuo experiência como analista de implantação e suporte, onde atuei na implementação de sistemas que otimizaram processos e aumentaram a eficiência de diversos clientes no ramo de serralheria e vidraçaria. Além disso, realizei consultoria para adaptar o sistema à realidade dos clientes, desenhando organogramas e mapeando processos. Também atuei como trainee em desenvolvimento de sistemas em low code, contribuindo para o desenvolvimento ágil de soluções.</h3> <br>
 
 ## Conecte-se comigo
 
@@ -31,3 +31,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeaCruz1&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FelipeaCruz1&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
