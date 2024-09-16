@@ -18,7 +18,7 @@ Nathali Hillaury
 Senior System Analyst;
 
 
-### Habilidades técnicas:
+### :star: Habilidades técnicas:
 
 <div style="border: 3px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
     <h4> Frontend:** HTML, CSS, JS </h4>
@@ -50,11 +50,7 @@ Senior System Analyst;
 </table>
 
 ### Contato:
-📝 https://www.linkedin.com/in/nathali-hillaury-7b33942a5/
- :octocat: GitHub
-:star: Estrela
-:rocket: Lançamento
-:bug: Bug
+:octocat: https://www.linkedin.com/in/nathali-hillaury-7b33942a5/
 
 ### Interesses:
 Atualmente estudando Engenharia de Dados com Python
