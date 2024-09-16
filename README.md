@@ -10,7 +10,6 @@ Aprender o básico sobre contribuição no GitHub.
 <table>
   <thead>
     <tr align="center">
-      <th>Nº</th>
       <th>-</th>
     </tr>
   </thead>
@@ -20,9 +19,6 @@ Aprender o básico sobre contribuição no GitHub.
     </tr>
   </tbody>
 </table>
-
-
-> [!IMPORTANT]   
  
 ### Informações pessoais:
 Nathali Hillaury
