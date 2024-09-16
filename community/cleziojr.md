@@ -13,8 +13,8 @@ Por fim, almejo uma carreira na área de Análise de Dados e Automação de Proc
 | Linguagem | Símbolo |
 | :---: | :---: |
 | C | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)|
-C++ | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-Python | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+| C++ | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+|Python | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # Contatos
 
