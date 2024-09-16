@@ -1,6 +1,6 @@
 ### Hey, I'm Eduardo 👋
 
-A back-end app developer and a front-end enthusiast/lover :heart:
+A back-end C# developer and a front-end enthusiast/lover :heart:
 
 - :brazil: Rio de Janeiro - Brazil
 - :tada:  C#, .NET, Flutter, React
