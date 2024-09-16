@@ -19,12 +19,13 @@ Senior System Analyst;
 
 
 ### Habilidades técnicas:
-* **
-*  ![Frontend:** HTML, CSS, J]
 
-* **
-* ![Banco de dados:** PostgreSQL, MySQL] 
-
+<div style="border: 3px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+    <h3> Frontend:** HTML, CSS, JS </h3>
+</div>
+<div style="border: 3px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+    <h3> Banco de dados:** PostgreSQL, MySQL </h3>
+</div>
 
 ### Outros 
 <img src="https://via.placeholder.com/150" alt="Imagem">
