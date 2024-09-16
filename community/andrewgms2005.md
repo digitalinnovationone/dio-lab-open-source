@@ -15,7 +15,7 @@ Olá, me chamo Andrew e sou um desenvolvedor frontend e backend iniciante.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![andrewgms2005's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewgms2005&show_icons=true&theme=radical)
 
 
 ## Minhas Contribuições
