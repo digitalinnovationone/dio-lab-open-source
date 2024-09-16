@@ -1,6 +1,6 @@
 <h1>
     <a href="https://github.com/nathillaury">
-     <img align="center" width="40px" src="> </a>
+     <img align="center" width="40px" src=""> </a>
     <span> Contribuindo em um Projeto Open Source no GitHub</span>
 </h1>
 
