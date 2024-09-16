@@ -1,6 +1,12 @@
+# Bem-vindo ao Meu GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&theme=cobalt&show_icons=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=cobalt)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=cobalt)
+
 <h1>
     <a href="https://github.com/nathillaury">
-     <img align="center" width="40px" src=""> </a>
+     <img align="center" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqj9Ii13d6hx5a9kyLnC5A8A96LDSaSZv_w&s"> </a>
     <span> Contribuindo em um Projeto Open Source no GitHub</span>
 </h1>
 
@@ -26,6 +32,7 @@ Aprender o básico sobre contribuição no GitHub.
 ### Informações pessoais:
 Nathali Hillaury
 Senior System Analyst;
+
 
 ### Habilidades técnicas:
 * **
