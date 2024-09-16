@@ -274,3 +274,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,windows,macos,intellij,visualstudiocode,eclipse
+1
+
+# ignorar o arquivo felipe1cruz
+community/felipe1cruz.md
