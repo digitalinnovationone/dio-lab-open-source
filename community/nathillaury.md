@@ -27,7 +27,7 @@ Senior System Analyst;
     <h4> Banco de dados:** PostgreSQL, MySQL </h4>
 </div>
 
-### Outros 
+### Outros: 
 
 <table>
   <tbody align="center">
@@ -50,12 +50,16 @@ Senior System Analyst;
 </table>
 
 ### Contato:
-<img src="[https://via.placeholder.com/150](https://static.vecteezy.com/ti/vetor-gratis/p1/18910721-do-logotipo-do-linkedin-simbolo-do-linkedin-gratis-do-icone-do-linkedin-gratis-vetor.jpg)" alt="Linkedin"> https://www.linkedin.com/in/nathali-hillaury-7b33942a5/
- 
+📝 https://www.linkedin.com/in/nathali-hillaury-7b33942a5/
+ :octocat: GitHub
+:star: Estrela
+:rocket: Lançamento
+:bug: Bug
+
 ### Interesses:
 Atualmente estudando Engenharia de Dados com Python
 
- ## Projetos
+ ## Projetos:
   Este é um dos meus projetos, então sinta-se livre para contribuir.  
 Decodificador
 [![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)]
