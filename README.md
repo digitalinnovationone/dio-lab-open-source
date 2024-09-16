@@ -43,7 +43,7 @@ Aprender o básico sobre contribuição no GitHub.
     </tr>
     <tr>
       <td>05</td>
-      <td>DResumão e Explicação Sobre a Automação dos PRs</td>    
+      <td>Resumão e Explicação Sobre a Automação dos PRs</td>    
     </tr>
   </tbody>
 </table>
