@@ -10,7 +10,7 @@ O que estou estudando atualmente:
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-000?style=for-the-badge&logo=github&logoColor=white)
 ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-000.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
