@@ -10,8 +10,6 @@ Algumas informações sobre mim:
 
 ⚡ Curiosidade: Sou professor de Kung Fu!
 
-Alterações aqui pq deu pau nesse arquivo!
-
 ## Conecte - se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-brassolotto/)
 
