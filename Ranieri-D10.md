@@ -20,4 +20,4 @@ Desenvolvedor full-stack apaixonado por criar interfaces intuitivas e eficientes
 
 **Contato:**
 * E-mail: ranieri.dev.ms@outlook.com
-* LinkedIn: [https://www.linkedin.com/in/joaosilvadev](https://www.linkedin.com/in/joaosilvadev)
+* LinkedIn: (https://www.linkedin.com/in/rsm10/)
