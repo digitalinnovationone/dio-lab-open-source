@@ -1,5 +1,5 @@
 
-# **Olá, meu nome é Renata** 
+# **Olá, meu nome é Alexandre** 
 
 Sou estudante de tecnologia.\
 Atualmente trabalho na área de Tecnologia. Em busca de oportunidades melhores e de crescimento profissional.  
