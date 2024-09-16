@@ -1,5 +1,4 @@
 # Tales Silva
-<style>body {text-align: center}</style>
 
 Bem-vindo ao meu humilde perfil para o projeto do bootcamp DIO de Engenharia de Dados.
 
