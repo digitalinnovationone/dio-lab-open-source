@@ -1,6 +1,6 @@
 # Hello Git!
 <div align="center">
-<img align="left" height="300" src="./img/neofetch.png"  />
+<img align="left" height="300" src="https://github.com/jeanrodrigop/jeanrodrigop/blob/master/img/neofetch.png"  />
 
 ###
 
