@@ -1,36 +1,20 @@
 # Bem-vindo ao Meu GitHub 
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&theme=cobalt&show_icons=true)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=cobalt)
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=cobalt)
-
-<h1>
-    <a href="https://github.com/nathillaury">
-     <img align="center" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqj9Ii13d6hx5a9kyLnC5A8A96LDSaSZv_w&s"> </a>
-    <span> Contribuindo em um Projeto Open Source no GitHub</span>
-</h1>
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+    <h1>
+        <a href="https://github.com/nathillaury">
+         <img align="center" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqj9Ii13d6hx5a9kyLnC5A8A96LDSaSZv_w&s">     </a>
+        <span> Contribuindo em um Projeto Open Source no GitHub</span>
+    </h1>
+</div>
 
  
 ## Objetivo
 Aprender o básico sobre contribuição no GitHub.
- 
-<table>
-  <thead>
-    <tr align="center">
-      <th>Nº</th>
-      <th>-</th>
-    </tr>
-  </thead>
-  <tbody align="center">
-    <tr>
-      <td>RESUME</td>
-    </tr>
-  </tbody>
-</table>
-
- 
+  
 ### Informações pessoais:
 Nathali Hillaury
+<br>
 Senior System Analyst;
 
 
@@ -43,11 +27,26 @@ Senior System Analyst;
 
 
 ### Outros 
-PHP
-Jira;
-Unified Modeling Language (UML);
-GitHub;
-English
+<img src="https://via.placeholder.com/150" alt="Imagem">
+<table>
+  <tbody align="center">
+    <tr>
+      <td>PHP</td>
+    </tr>
+      <tr>
+      <td>Jira</td>
+    </tr>
+      <tr>
+      <td>Unified Modeling Language (UML)</td>
+    </tr>
+      <tr>
+      <td>GitHub</td>
+    </tr>
+      <tr>
+      <td>English</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Contato:
 https://www.linkedin.com/in/nathali-hillaury-7b33942a5/
