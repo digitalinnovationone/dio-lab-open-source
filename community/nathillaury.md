@@ -21,14 +21,14 @@ Senior System Analyst;
 ### Habilidades técnicas:
 
 <div style="border: 3px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
-    <h3> Frontend:** HTML, CSS, JS </h3>
+    <h4> Frontend:** HTML, CSS, JS </h4>
 </div>
 <div style="border: 3px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
-    <h3> Banco de dados:** PostgreSQL, MySQL </h3>
+    <h4> Banco de dados:** PostgreSQL, MySQL </h4>
 </div>
 
 ### Outros 
-<img src="https://via.placeholder.com/150" alt="Imagem">
+
 <table>
   <tbody align="center">
     <tr>
@@ -50,7 +50,7 @@ Senior System Analyst;
 </table>
 
 ### Contato:
-https://www.linkedin.com/in/nathali-hillaury-7b33942a5/
+<img src="[https://via.placeholder.com/150](https://static.vecteezy.com/ti/vetor-gratis/p1/18910721-do-logotipo-do-linkedin-simbolo-do-linkedin-gratis-do-icone-do-linkedin-gratis-vetor.jpg)" alt="Linkedin"> https://www.linkedin.com/in/nathali-hillaury-7b33942a5/
  
 ### Interesses:
 Atualmente estudando Engenharia de Dados com Python
