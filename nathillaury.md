@@ -4,7 +4,6 @@
     <span> Contribuindo em um Projeto Open Source no GitHub</span>
 </h1>
 
-
  
 ## Objetivo
 Aprender o básico sobre contribuição no GitHub.
@@ -29,8 +28,12 @@ Nathali Hillaury
 Senior System Analyst;
 
 ### Habilidades técnicas:
-* **Frontend:** HTML, CSS, JS
-* **Banco de dados:** PostgreSQL, MySQL
+* **
+*  ![Frontend:** HTML, CSS, J](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=cobalt&show_icons=true)
+
+* **
+* ![Banco de dados:** PostgreSQL, MySQL](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=cobalt&show_icons=true)
+
 
 ### Outros 
 PHP
