@@ -1,9 +1,7 @@
-<img align="center" padding="0" alt="Imagem de capa contendo um lago semi congelado com montanhas ao fundo" src="https://media.licdn.com/dms/image/D4D16AQHleJwD7SZAYg/profile-displaybackgroundimage-shrink_350_1400/0/1708634547699?e=1714608000&v=beta&t=UA9hWN_DX404qGZGPHM-UK7sf5sHymVXysBj3SvvR1I">
 <br >
-<img align="left" padding="20px" alt="Foto de perfil de Tauan Gabriel" src="https://media.licdn.com/dms/image/D4D03AQF2tlN2eDoIDA/profile-displayphoto-shrink_200_200/0/1708634943428?e=1714608000&v=beta&t=S6z91VYRSQO3rAXIyFyaToBX42cBf9mW8Ge9aEExL5g">
 <h1> 
-  <a href="https://www.linkedin.com/in/tauangabriel/" style="color: #f00 !important; text-decoration: none; color: inherit;">
-    <span>Tauan Gabriel G. Cavalcanti</span>
+  <a href="https://www.linkedin.com/in/marcelo-vidal-41a74027" style="color: #f00 !important; text-decoration: none; color: inherit;">
+    <span>Marcelo Vidal</span>
   </a>
 </h1>
 
