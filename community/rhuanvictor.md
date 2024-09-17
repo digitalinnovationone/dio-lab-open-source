@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1>    
 # RHUAN VICTOR SANTOS LOPES
 </h1>
@@ -70,5 +70,5 @@
 
 ## Minhas Contribuicoes
 Às vezes, me pego querendo ajudar as pessoas de maneiras meio inesperadas. Sabe aqueles momentos em que você está numa fila ou em uma cafeteria, e, do nada, sente que pode fazer algo para melhorar o dia de alguém? Eu sou assim.
->>>>>>> 545d5179e0f12bd8dc33b85204da9ce368e34287
+
 Quando penso em como seria um "site inteligente", imagino uma plataforma que se adapta às necessidades de cada usuário de forma quase intuitiva, antecipando problemas, oferecendo soluções, e personalizando a experiência em tempo real.
