@@ -70,7 +70,3 @@
 |Apache|![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)|
 |||
 <p><center>Obrigado por visitar o meu perfil! 😉</p>
-
-
-
-
