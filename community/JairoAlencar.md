@@ -6,7 +6,7 @@ Sou formado pelo IFSP - Campus itapetininga como Técnico em informática e esto
 
 Possuo alguns cursos na área geral de TI, mas agora estou focando minhas buscas por conhecimentos na área de cyber security
 
-## TÉCNOLOGIAS MAIS UTILIZADAS
+## TECNOLOGIAS MAIS UTILIZADAS
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JairoAlencar&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## CONTATOS
