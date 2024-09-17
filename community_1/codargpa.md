@@ -1,2 +1,0 @@
-# CodarGpa
-Developer, Brazil.
