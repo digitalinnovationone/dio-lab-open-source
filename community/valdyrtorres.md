@@ -1,8 +1,9 @@
 
 Olá eu sou Valdir Torres Borges (valdyrtorres)
 
-Arquiteto e desenvolvedor fullstack
+Devops e desenvolvedor fullstack
 
+Entrega do desafio "Contribuindo em um Projeto Open Source no GitHub"
 
 ## Licença
 
