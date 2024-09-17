@@ -4,7 +4,7 @@ Olá, me chamo Jairo de Alencar.
 
 Sou formado pelo IFSP - Campus itapetininga como Técnico em informática e estou me graduando em Gestão da Segurança e Defesa Cibernética pela Uninter.
 
-Possuo alguns cursos na área geral de TI, mas agora estou focando minha busca por conhecimentos na área de cyber security
+Possuo alguns cursos na área geral de TI, mas agora estou focando minhas buscas por conhecimentos na área de cyber security
 
 ## TÉCNOLOGIAS MAIS UTILIZADAS
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JairoAlencar&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
