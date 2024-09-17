@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eokuhara&label=Profile%20views&color=0e75b6&style=flat" alt="eokuhara" /> </p>
 
-- 🌱 Estou aprendendo **Python**
+- 🌱 Estou aprendendo **Python** com a DIO!
 
 - 📫 Entre em contato comigo! **e.okuhara@gmail.com**
 
