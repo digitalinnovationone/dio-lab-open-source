@@ -1,5 +1,5 @@
 
-# Olá, eu sou o Bruno Rossim! 👋
+# Olá, eu sou o Bruno Rossim!! 👋
 
 🚀 Sobre mim
 
