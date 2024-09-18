@@ -6,7 +6,7 @@
 <p align="left">- Trabalha na Unitel SA</p>
 
 
-<h1 align="left">Estatistica</h1>
+<h1 align="left">Estatistica</h1> 
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=muecalia&theme=dark&show_icons=true" height="160em">
