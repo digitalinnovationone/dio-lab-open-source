@@ -1,7 +1,7 @@
 
 # ola, me chamo Adonis!
 ## Apaixonado pela área da tecnologia e sua complexidade
-- atualmente faço faculdade de ADS, cursos e bootcamp na plataforma da Dio. Tenho conhecimento em javascript, Html e CSS, continuo estudando e buscando cada vez mais evoluir, quero ser desenvolvedor fullstack e jogos.
+- atualmente faço faculdade de ADS, cursos e bootcamp na plataforma da Dio. Tenho conhecimento em javascript, Html, CSS, Git e GitHub. Continuo estudando e buscando cada vez mais evoluir, quero ser desenvolvedor fullstack e jogos.
 ## Tecnologia que estão em minha metas de estudos:
 - ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) 
 - ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) 
