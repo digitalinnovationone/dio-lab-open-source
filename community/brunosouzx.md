@@ -1,7 +1,7 @@
 
 # Bruno Souza
 
-Sou do Recife e tenho 24 anos, faço o curso de Sistemas de Informação na Uninassau de Olinda e adoro meu cachorrinho.
+Sou do Recife e tenho 24 anos, faço o curso de Sistemas de Informação na Uninassau de Olinda e adoro meu cachorrinho .
 
 ### Conecte-se comigo
 
