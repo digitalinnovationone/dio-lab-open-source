@@ -14,5 +14,6 @@ Sou biólogo de formação, apaixonado por bioinformática, aprendizado de máqu
 
 
 <details> 
-<summary> **Clique aqui para ver meu _GitHub Status_**</summary>
-[![GitHub Streak](https://streak-stats.demolab.com?user=rafawithR&theme=prussian&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)</details>
+<summary>GitHub Status</summary>
+[![GitHub Streak](https://streak-stats.demolab.com?user=rafawithR&theme=prussian&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
+</details>
