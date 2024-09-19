@@ -23,7 +23,7 @@ Sou um engenheiro de dados e desenvolvedor web apaixonado por tecnologia e inova
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=halisson-gomides&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=halisson-gomides&theme=transparent&bg_color=353D41&border_color=123547&show_icons=true&icon_color=EB9326&title_color=EB9326&text_color=FFF&hide_title=true&hide=stars&rank_icon=github&count_private=true)
 
 ### Contato
 
