@@ -12,12 +12,13 @@ My name is João Paulo, and I am currently studying data analysis.
 
 ## 👨🏽‍💻 Learning
 Python, Jupyter Notebook, Power BI, MySQL and  Azure.
-
+<div>
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Power BI" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png">
   <img align="center" alt="MySQL" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png">
   <img align="center" alt="MySQL" height="40" width="40" src="https://swimburger.net/media/ppnn3pcl/azure.png">
+</div>
 
 ## 🤝 Connect with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopaulo-contato/)
