@@ -10,7 +10,7 @@ Por fim, além de desenvolvedor, já estive em projetos como atuante em PO e UX/
 <br>
 
 <h2>Tecnologias</h2>
-Aqui estão algumas tecnologias com as quais já tive experiência em desenvolvimento em meio acadêmico, profissional ou de pesquisa:
+Aqui estão algumas tecnologias com as quais já tive experiência em desenvolvimento em meio acadêmico, profissional e de pesquisa:
 <br>
 <br>
 <div>
