@@ -9,4 +9,4 @@ Meu nome é Bruno Vinicius Urias Queiroz. Tenho 23 anos e sou formando em Fabric
 
 
 ## 🛠 Habilidades
-Python, SQL, Power BI...
+Python, SQL, Power BI
