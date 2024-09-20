@@ -72,4 +72,4 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=paulosergiofig&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/paulosergiofig/dio-lab-open-source)
 
 ## Meus Bootcamps DIO
-[<img src="URL da imagem do bootcamp" height="50"></a>](URL do bootcamp que realizou)
+<img src="https://hermes.dio.me/tracks/8052db1b-f434-4980-8bbb-9f7daa725b8d.png" height="50"></a>
