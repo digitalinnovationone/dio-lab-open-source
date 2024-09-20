@@ -2,7 +2,6 @@
 ### Desenvolvedor com experiência em suporte técnico e um entusiasta de front-end
 
 <img src="https://avatars.githubusercontent.com/u/111785664?s=400&u=bb4346870bed523c03744d67d7875768e6cd3e3f&v=4" style="border-radius:50%; width:45%; display:block; margin:0 auto;" alt="Lucas Sousa" />
-
 ## Hardskills:
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
