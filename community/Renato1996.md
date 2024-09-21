@@ -1,10 +1,8 @@
-
 # **Desafio DIO**
 
 ## **NOME:** Renato Marinho Dantas 
 
 ## **SOBRE:**
-### Claro, aqui está:
 
 Olá! Sou um estudante do curso de Ciências da Computação, atualmente residindo na vibrante cidade de Manaus, no estado do Amazonas. Estou profundamente interessado no mundo da tecnologia e da programação, sempre buscando aprender e explorar novas áreas dentro desse vasto campo.
 
