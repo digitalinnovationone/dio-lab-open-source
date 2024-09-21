@@ -1,4 +1,4 @@
-### Anderson Souza
+### Anderson de Souza
 - 🎓 Estudante de Engenharia da Computação - Univesp
 - 🌱 Estudando HTML5, CSS3, JavaScript
 - 💻 Desenvolvimento Front-end
@@ -24,4 +24,3 @@
   <a href = "mailto:asouzanderson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andersdsouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
