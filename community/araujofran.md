@@ -14,7 +14,7 @@ Minha experiência anterior inclui atividades no Laboratório de Refrigeração,
 
 Minhas responsabilidades incluíam emitir relatórios de aprovação ou reprovação de produtos e componentes, elaborar fichas técnicas relativas à parte funcional dos produtos, e realizar visitas técnicas a clientes para coletar informações e dados a serem trabalhados nos laboratórios. Também ofereci suporte às áreas de Produção, Qualidade e Pós-Venda.
 
-Agora, estou focado em aplicar meus conhecimentos e habilidades na área de Tecnologia da Informação, com especial interesse em Inteligência Artificial e Desenvolvimento de Sistemas.
+Agora, estou focado em aplicar meus conhecimentos e habilidades na área de Tecnologia da Informação, com especial interesse em Inteligência Artificial e Desenvolvimento de Sistemas...
 </p>
 
 
