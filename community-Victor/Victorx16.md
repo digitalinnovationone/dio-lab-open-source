@@ -1,6 +1,6 @@
 # Victor Xavier 
 
-Olá, Me chamo Victor. Curso Analise e desenvolvimento de Sistemas na faculdade Impacta Tecnologia. Tenho interesse em diversas áreas do desenvolvimento, atualmente estou me aprimorando em back-end.
+Olá, meu nome é Victor e sou de São Paulo. Estou em transição de carreira da área Comercial para a Tecnologia, cursando Análise e Desenvolvimento de Sistemas na faculdade Impacta Tecnologia. Tenho interesse em várias áreas do desenvolvimento de software, com foco atual em aprimorar minhas habilidades em back-end.
 
 # Conecte-se comigo 
 
@@ -47,21 +47,7 @@ Olá, Me chamo Victor. Curso Analise e desenvolvimento de Sistemas na faculdade 
 
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victorx16&repo=dio-lab-open-source&bg_color=003&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victorx16&repo=Projeto_DevLink&bg_color=003&border_color=30A3DC&show_icons=true&icon_color=60A3DC&title_color=E94D5F&text_color=FFF)](ttps://github.com/Victorx16/Projeto_DevLink) 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victorx16&repo=Projeto_DevLink&bg_color=003&border_color=30A3DC&show_icons=true&icon_color=60A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Victorx16/Projeto_DevLink) 
 
-# Sobre mim 
 
-Meu nome é Victor Xavier, tenho 24 anos e estou atualmente em transição de carreira da área Comercial para a área de Tecnologia. 
-
-  
-
-Ao longo da minha trajetória profissional, desenvolvi e implementei estratégias comerciais focadas no crescimento de faturamento e na otimização de campanhas. Essas experiências me permitiram aprimorar minhas habilidades de comunicação, adaptabilidade, resiliência, trabalho em equipe e resolução de problemas. 
-
-  
-
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Impacta Tecnologia, onde estou no terceiro período. Além disso, estou complementando minha formação com cursos específicos oferecidos pelas plataformas Alura e Dio.me, com o objetivo de me aprofundar ainda mais nas práticas e ferramentas da área de Tecnologia. 
-
-  
-
-Sou uma pessoa focada, organizada e de rápida adaptação, com muita facilidade de aprendizado. Estou em busca de uma oportunidade que me permita aplicar e expandir meus conhecimentos acadêmicos em um ambiente desafiador e dinâmico. 
 
