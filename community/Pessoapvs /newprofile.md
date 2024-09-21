@@ -1,7 +1,7 @@
 
 # Olá! Meu nome é Person Vieira de Sá.
 
-Sou estudante de Segurança da Informação e sou apaixonado por tecnologia, inovação e música.
+Sou estudante de Segurança da Informação e sou apaixonado por tecnologia e inovação.
 
 # Conecte-se comigo: 
 person.vieira@gmail.com
