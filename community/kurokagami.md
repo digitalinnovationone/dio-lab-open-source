@@ -49,6 +49,6 @@ Passionate about art and technology, especially music and robotics, some of my h
   - Streak Stats <a href="https://github.com/DenverCoder1/github-readme-streak-stats/">DenverCoder1</a>
   - Langs & Git Stats <a href="https://github.com/anuraghazra/github-readme-stats/">Anuraghazra</a>
  
-  <div align="right">Made by <a href="https://github.com/kurokagami/">Kuro Kagami</a>.</div>
+  <div align="right">Made by <a href="https://github.com/kurokagami/">Kuro Kagami.</a></div>
 
 </details>
