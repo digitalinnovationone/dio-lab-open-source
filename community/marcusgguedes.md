@@ -37,6 +37,6 @@ Outras seções comuns em perfis do GitHub
 [![facebook](https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.facebook.com/)
 
 
-:jo: Suporte
+ Suporte
 
 Para suporte, mande um email para marcusgguedes@gmail.com ou entre em nosso canal do Slack.
