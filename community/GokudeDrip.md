@@ -14,6 +14,7 @@ Apaixonado por tecnologia, cinema, games, e-sports e esportes físicos, busca in
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=black)](mailto:ryan.bs5552@hotmail.com)
 
 
+
 ### Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black)
