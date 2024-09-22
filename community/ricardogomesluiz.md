@@ -1,5 +1,5 @@
-# Dio Lab Open Source
+# Dio Lab Open Source - profile README
 
-Este é o arquivo README para o Lab Open Source.
+Este é o arquivo profile README para o Lab Open Source.
 
-## Está em construção (21/09/24 - 21h53)
+# Está em construção (21/09/24 - 22h14)
