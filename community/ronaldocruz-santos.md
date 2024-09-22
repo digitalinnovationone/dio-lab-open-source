@@ -59,4 +59,3 @@ Recentemente iniciei meus estudos com a [**DIO.**](https://www.dio.me/) no qual 
 |GitHub Stats                   |[https://github.com/anuraghazra/github-readme-stats.git](https://github.com/anuraghazra/github-readme-stats.git)                  |
 |Static Badge                   |[https://shields.io/](https://shields.io/)                                                                                        |
 |Profile Header Generator       |[https://leviarista.github.io/github-profile-header-generator/](https://leviarista.github.io/github-profile-header-generator/)    |
-|GitHub Profile Readme Generator|[https://github.com/rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)  |
