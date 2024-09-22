@@ -1,4 +1,3 @@
-
 ## 🚀 Sobre mim
 Desenvolvedor full stack e instrutor pelo Senac Paraná. Apaixonado por tecnologia e desenvolvimento de sistemas. Amante de um bom café e barista por hobby!
 
