@@ -5,7 +5,7 @@ Bem-Vindo ao meu Perfil
 Sou Estudante de Ciências da Computação na **Universidade Agostinho Neto (UAN)**. Tenho interesse nas áreas de **Desenvolvimento Front-End, Back-End, Programação Competitiva e Inteligência Artificial**.
 
 ## Conecte-se Comigo
-[![Perfil na DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3?style=for-the-badge)](https://www.dio.me/users/fredericogdpaiva)
+[![Perfil na DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3?style=for-the-badge)](https://github.com/FreddyBF)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredo-baptista-99980a290/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor)](mailto:baptistaalfredo81@gmail.com)
