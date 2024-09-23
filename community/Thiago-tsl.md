@@ -1,8 +1,13 @@
+# Thiago Sousa de Lima
 
-# 🚀 Sobre Mim
+## Sobre mim
 
-- Meu nome é ThiagoSousa e sou um entusiasta da programação. Estou começando minha jornada no mundo da codificação e estou animado para aprender mais sobre Back-end.
+Olá! Sou o Thiago Sousa de Lima, um entusiasta da programação em busca de novas oportunidades de aprendizado. 
 
+**Habilidades:**
+* **Linguagens:** Java (iniciante),
+* **Ferramentas:**  Git, VS Code
 
-
-
+**Contato:**
+* **Email:** arthi.thiago@email.com
+* **LinkedIn:** [https://www.linkedin.com/in/arthi-thiago/]
