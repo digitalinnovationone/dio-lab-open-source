@@ -48,12 +48,14 @@ body {
     background: var(--gray-100);
     width: 100vw;
     overflow-x: hidden;
+    text-transform: capitalize;
 }
 
 a {
     color: var(--black);
     font-weight: 600;
     text-decoration: none;
+    transition: .3s;
 }
 
 a:hover {
@@ -96,9 +98,18 @@ header nav ul{
     justify-content: center;
 }
 
+header nav ul li a {
+    margin-left: 2rem;
+} 
+
 .brand {
     display: flex;
     gap: .65rem;
+    transition: .3s;
+}
+
+.brand:hover{
+    filter: brightness(.7);
 }
 
 .brand img {
@@ -151,7 +162,7 @@ header nav {
     width: 100%;
     display: flex;
     flex-flow: row wrap;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     background: var(--gray-200);
     padding: .25rem 2rem;
@@ -175,6 +186,7 @@ header nav {
 .menu__link {
     font-size: .95rem;
     color: var(--black);
+    transition: .3s;
 }
 
 .menu__link:hover {
@@ -183,6 +195,10 @@ header nav {
 
 main, section {
     padding: 2rem 2rem 0;
+}
+
+h1{
+    margin-bottom: 1rem;
 }
 
 #desafio h1 {
