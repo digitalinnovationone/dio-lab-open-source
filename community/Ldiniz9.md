@@ -16,7 +16,7 @@ Love arts, technology and culinary, my hobbies are cooking, watching(movies/anim
 
 
 ##
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Minfyx&layout=compact&bg_color=000&border_color=FFF&title_color=FF0000&text_color=F8F8FF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ldiniz9&layout=compact&bg_color=000&border_color=FFF&title_color=FF0000&text_color=F8F8FF)
 
 
 
