@@ -17,11 +17,6 @@ Aqui estão mais algumas tecnologias que estou estudando e utilizando em meus pr
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## 📝 Projetos Recentes
-
-- **Catlendar**: Um calendário personalizável que inclui visualizações semanais e anuais (HTML, CSS, JavaScript).
-- **Sudoku**: Um jogo de Sudoku interativo em desenvolvimento com HTML, CSS e JavaScript.
-- **To Dog List**: Uma aplicação de lista de tarefas voltada para gestão de tarefas relacionadas a pets (HTML, CSS, JavaScript).
 
 ## 📊 GitHub Status
 
