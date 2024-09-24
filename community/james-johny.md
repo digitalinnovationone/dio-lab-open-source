@@ -25,4 +25,4 @@
 ## Minhas Contribuições
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=james-johny&bg_color=0F082F&border_color=0F0&title_color=0F0&text_color=FFF)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=james-johny&repo=SEUREPOSITORIO&bg_color=0F082F&border_color=0F0&show_icons=true&icon_color=0F0&title_color=0F0&text_color=FFF)](https://github.com/james-johny/)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=james-johny&repo=dio-lab-open-source&bg_color=0F082F&border_color=0F0&show_icons=true&icon_color=0F0&title_color=0F0&text_color=FFF)](https://github.com/james-johny/)
