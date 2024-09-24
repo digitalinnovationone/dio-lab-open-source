@@ -1,41 +1,66 @@
-<p align="left"><img style="border-radius: 50%" width="100px" height="100px" src="https://avatars.githubusercontent.com/u/99769541?v=4" alt="Tiago Guimarães"/></p>
-<h1 align = "justify">  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá, meu nome é Tiago Guimarães! </h1> 
-<p align = "justify">Full Stack Development, Coffee, Games and Music.</p>
+<a style="display: block; width: 150px; margin: 0 auto; text-align: center" href="https://github.com/tabguimaraes/">
+<img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/99769541?v=4" alt="Tiago Guimarães"/>
+</a>
+<br>
+<h1 style="text-align: center">Olá, meu nome é Tiago Guimarães! 😉
+</h1>
 
-I currently work at [SENAC](https://www.dn.senac.br/)
+Atuo na área de TI há 20 anos, com foco em infraestrutura e suporte, e agora estou em transição para as áreas de desenvolvimento e computação em nuvem.
 
-Learning at the moment **C#** and **.NET**
+Sou instrutor de Redes de Computadores no [SENAI](https://sp.senai.br/).
 
-## 💻 Technologies & Tools
+Atualmente estou focando meus estudos em **JavaScript**, **NodeJs** e **Python**.
+
+## 💻 Tecnologias
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Math-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Math-dotnet" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
+ 
   <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Math-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Math-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" />
-  <img align="center" alt="Math-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Math-Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
-  <img align="center" alt="Math-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
-  <img align="center" alt="Math-DevOps" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg">
-  
-   
+  <img align="center" alt="Math-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git">
+  <img align="center" alt="Math-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs">
+  <img align="center" alt="Math-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python">
+  <img align="center" alt="Math-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="azure">
+     
 </div>
+<br>
 
-## 📱 Social
+## 📱 Conecte-se Comigo
 
-<div style="display: inline_block" align="center" > 
-  <a href="https://instagram.com/_mathmatos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mt.matos.costa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-matos-37a62321a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<br>
+
+<div style="display: flex; justify-content: center; gap: 20px">
+  <a href="https://github.com/tabguimaraes/" target="_blank">
+  <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/tabguimaraes/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
  </div>
 
-## ⚡ GitHub Stats
+## ⚒️ Alguns projetos:
 
-<div align="center">
-  <a href="https://github.com/zmathmatos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zmathmatos&show_icons=true&theme=dark#gh-dark-mode-only"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmathmatos&layout=compact&langs_count=7&theme=react"/>
+<br>
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tabguimaraes&repo=pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/tabguimaraes/pokedex)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tabguimaraes&repo=bikcraft&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/tabguimaraes/bikcraft)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tabguimaraes&repo=miguelwebdev&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/tabguimaraes/miguelwebdev)
+
+<br>
+
+## ⚡ Meus status no GitHub:
+
+<br>
+<div>
+  <a href="https://github.com/tabguimaraes/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tabguimaraes&show_icons=true&theme=dark#gh-dark-mode-only"/>
+  
+  <br>
+  <a href="https://github.com/tabguimaraes/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabguimaraes&layout=compact&langs_count=7&theme=react"/>
+  
+  
 </div>
