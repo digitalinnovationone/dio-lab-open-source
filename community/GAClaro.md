@@ -2,7 +2,7 @@
 
 ## Bem-vindo(a) à minha contribuição
 
-<p align="justify"> Sou de São Caetano do Sul/SP, nascido em 1984 e sempre gostei de tecnologia. Durante a adolecência estudei ensino técnico e teve meu primeiro contato com programação, na linguagem C++, mas acabei me afastando da área, tendo cursado Direito e trabalhado como advogado por 11 anos. 
+<p align="justify"> Sou de São Caetano do Sul/SP, nascido em 1984 e sempre gostei de tecnologia. Durante a adolecência estudei ensino técnico e tive meu primeiro contato com programação, na linguagem C++, mas acabei me afastando da área, tendo cursado Direito e trabalhado como advogado por 11 anos. 
 Agora estou buscando a transição de carreira. Em 2022 resolvi estudar novamente programação e realizei o Projeto Educacional da Oracle, Oracle Next Education, turma 3, formado em fevereiro de 2022, onde tive contato com Javascript, Java, SQL e Python.
 Também prestei vestibular para a UNIVESP, onde fui aprovado para o Bacharelado em Ciência de Dados.
 Atualmente estou cursando bootcamps na Digital Innovation One para ampliar meu conhecimento  e desenvolvendo projetos backend (JAVA e Python), ciência de dados e fullstack.</p>
