@@ -1,6 +1,6 @@
 # James-Johny
 
-## Conect-se comigo
+## Conecte-se comigo
 [![Instagram](https://img.shields.io/badge/Instagram-0F082F?style=for-the-badge&logo=instagram&logoColor=green)](https://www.instagram.com/jamesjohny.sg/)
 [![Facebook](https://img.shields.io/badge/Facebook-0F082F?style=for-the-badge&logo=facebook&logoColor=green)](https://www.facebook.com/JamesJohny.SG/)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-0F082F?style=for-the-badge&logo=whatsapp&logoColor=green)](https://wa.me/+5562994498536)
