@@ -1,4 +1,4 @@
-# :computer: Emeyas Franco
+# Emeyas Franco
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-444444?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emeyas-franco/)
