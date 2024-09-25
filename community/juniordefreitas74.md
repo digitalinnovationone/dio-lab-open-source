@@ -1,23 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Fundo Repetitivo</title>
-<style>
-body {
-  background-image: url("https://i.pinimg.com/originals/07/6a/a2/076aa238131aa2a01fd6acba6d7dd553.jpg");
-  width: 95%;
-  margin: 10;
-  padding: 10;
-  background-size:720px 1280px; 
-}
-</style>
-</head>
-<body>
-</body>
-</html>
 
-<h1 style="color: lightblue;"> Jose Quintino de Freitas Junior
-</h1>
+
+# Jose Quintino de Freitas Junior
+
 
 
 ## 👨‍💻 Competências
@@ -57,8 +41,8 @@ Designer gráfico sênior com mais de 20 anos de experiência, buscando novos de
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=blue)](https://discord.com/channels/juniordefreitas1974/) 
 
 
-<h1 style="color: lightblue;"> Estatísticas do GitHub
-</h1>
+# Estatísticas do GitHub
+
 
 
 
