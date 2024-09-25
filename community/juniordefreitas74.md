@@ -41,8 +41,8 @@ Designer gráfico sênior com mais de 20 anos de experiência, buscando novos de
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=blue)](https://discord.com/channels/juniordefreitas1974/) 
 
 
-<h1 style="color: lightblue;"> Estatísticas do GitHub
-</h1>
+# Estatísticas do GitHub
+
 
 
 
