@@ -20,7 +20,7 @@
  Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
  Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
 
-### 1) Faça um **Fork** deste Repositório
+#### 1) Faça um **Fork** deste Repositório:
 Acesse a página principal do repositório e clique no botão "Fork" no canto superior direito da página.
 > [!NOTE]  
 > Um "fork" no GitHub é uma cópia de um repositório que pode ser criada por qualquer usuário. <br>
@@ -35,7 +35,7 @@ Pressione enter, e uma cópia do seu fork no GitHub será criada localmente.
 
 ### 3) Crie uma nova **branch** 
 Utilize o comando `git checkout -b` para criar e alternar para a nova branch e nomeie-a como `feat/community/SEU_USERNAME`
-> Exemplo: `git checkout -b feat/community/falvojr`
+#> Exemplo: `git checkout -b feat/community/falvojr`
 
 ### 4) Crie o seu Profile README
  Dentro da pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub:
