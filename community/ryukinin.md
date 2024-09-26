@@ -1,7 +1,7 @@
 
 Waldeir José de Souza Bispo da Silva
 
-Sou Waldeir Silva, sempre trabalhei na área de Alimentos , atualmente como SubGerente, resolvi em idade tardia seguir algo que eu sempre que me interessei que é TI-Atualmente no curso de Analise e desenvolvimento de Sistemas . E descobri a DIO a um tempo quando eu navegando aelatoriamente vi um anuncio do mesmo no YT
+Sou Waldeir Silva, sempre trabalhei na área de Alimentos , atualmente como SubGerente, resolvi em idade tardia seguir algo que eu sempre que me interessei que é TI-Atualmente no curso de Analise e desenvolvimento de Sistemas . E descobri a DIO a um tempo quando eu navegando aelatoriamente vi um anuncio do mesmo no YT,e com isso aprendendo a linguagem Java que mesmo sendo "verbosa" é altamente interessante
 
 
 |Habilidades|
