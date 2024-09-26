@@ -8,10 +8,10 @@ assignees: ''
 ---
 
 *Tem alguma sugestão para quem for fazer o Desafio? Por favor descreva.*
-Uma descrição do que pode ser feito. 
+Foca no curso, que terá ótimas habilidades. 
 
 *Descreva como você realizou o seu*
-Uma descrição sobre como você fez o seu.
+Realizei com organização de cronogramas, para ter o tempo livre é focar no curso.
 
 *Links úteis*
-- [Nome do Link](URL)
+- Jonathas Xavier (https://www.linkedin.com/in/jonathasxavier01/)
