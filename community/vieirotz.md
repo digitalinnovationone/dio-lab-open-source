@@ -1,22 +1,22 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Contribuindo em um Projeto Open Source no GitHub</span>
-</h1>
+# Alexsandro Vieira
 
-Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio e exercício prático para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
+ Olá! Estou aprimorando meus conhecimentos hoje trabalho com rede e amo a area de desenvolvimento. Acredito com toda minha experiencia em redes seja um diferencial para area de criação.
 
-Quem sou eu:
-Olá meu nome é Alexsandro esse é o meu primeiro projeto no GitHub e utilizei o Vim direto no Gitbash para criar.
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/alexsandro-da-silva-vieira-712773132/)
 
-## Objetivo
-Aprender o básico sobre contribuição no GitHub.
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=0E76A8)](https://github.com/Alexsandro Vieira)
 
----
-## Desafio de Projeto da DIO
-Agora que você já sabe as formas de contribuir em um projeto Open Source, está na hora de colocar em prática o seu conhecimento sobre contribuição no GitHub! <br>
-Para concluir este Desafio de Projeto, basta enviar a **URL do seu "fork" de um projeto Open Source que você contribuiu** para a entrega do desafio na plataforma [DIO](https://www.dio.me/).
+## Habilidades
+[![GitHub](https://img.shields.io/badge/GitHub-ec63a1?style=for-the-badge&logo=github&logoColor=fff)](https://docs.github.com/)
 
+[![Git](https://img.shields.io/badge/Git-ec63a1?style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com/doc)
 
-##
-<div align="center">Feito com por <a href="https://github.com/vieirotz">Alexsandro Vieira</a>.</div>
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vieirotz&theme=transparent&bg_color=ec63a1&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff&hide_title=true&hide=stars)
+
+## Minhas Contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vieirotz&repo=dio-lab-open-source&bg_color=ec63a1&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)](https://github.com/vieirotz/dio-lab-oprn-source)
