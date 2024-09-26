@@ -1,7 +1,7 @@
 # Marlon Poquis
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MARLONPOQUIS/)   [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/MARLONPOQUIS/) [![Gmail](https://img.shields.io/badge/Gmail-FFF?style=for-the-badge&logo=gmail&logoColor=red)](mailto:MARLONPOQUIS123@GMAIL.COM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MARLONPOQUIS/)   [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/MARLLONPOQUIS/) [![Gmail](https://img.shields.io/badge/Gmail-FFF?style=for-the-badge&logo=gmail&logoColor=red)](mailto:MARLONPOQUIS123@GMAIL.COM)
 ## Habilidades
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
