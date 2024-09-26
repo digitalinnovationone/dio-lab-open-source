@@ -1,6 +1,8 @@
  ## 👋 Olá! Eu sou a Raiane, uma desenvolvedora apaixonada pelo que faz!  👩‍💻
 ### Me acompanhe nas redes sociais :
 
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/raianebatiistaa)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raiane-batista-08b4432b8/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raiabebatistasc@gmail.co)
