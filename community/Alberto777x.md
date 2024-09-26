@@ -1,6 +1,8 @@
 # 💡 Alberto Rodrigues Muniz Neto
 Profissional dedicado e entusiasta da área de tecnologia, com uma forte disposição para aprender e evoluir constantemente. Apesar de ainda estar iniciando minha trajetória, demonstro grande capacidade de absorver novos conhecimentos e se adaptar a diferentes ferramentas e linguagens de programação. Tenho interesse por desenvolvimento de software, sistemas web e mobile, além de infraestrutura em nuvem e bancos de dados.
+
 Com uma mentalidade voltada para a solução de problemas e a busca por inovação, estou sempre em busca de aprimorar minhas habilidades em linguagens como HTML, JavaScript e ferramentas de desenvolvimento moderno, como Visual Studio Code e Git. Focado em trabalhar com metodologias ágeis e explorar novas tecnologias como inteligência artificial e big data, sou movido pela curiosidade e pelo desejo de construir soluções tecnológicas eficientes.
+
 Comprometido em desenvolver minhas competências técnicas e soft skills, estou pronto para contribuir com equipes de tecnologia, agregando valor com uma postura colaborativa, aprendendo com desafios e implementando novas ideias que ajudem a empresa a alcançar seus objetivos.
 # 📚 Linguagens e Banco de Dados Vivenciados
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
