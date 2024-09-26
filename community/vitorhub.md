@@ -1,3 +1,4 @@
 Olá.
-Me chamo João Vitor e sou desenvolvedor frontend. Conheço javascript com react, redux, styled components dentre outras tecnologias.
-Atualmente estudo para tentar ingressar na área tech.
+Me chamo joao vitor e sou desenvolvedor frontend. 
+Compreendo javascript com React, Redux, Styled Components dentre outras tecnologias.
+Atualmente estudo para ingressar na área tech.
