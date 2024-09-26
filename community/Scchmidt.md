@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @Scchmidt
-- 👀 I am interested in learning to program and code in Java and Python
-- 🌱 I'm currently learning to program in Java

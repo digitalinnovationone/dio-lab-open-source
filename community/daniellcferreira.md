@@ -1,5 +1,0 @@
-# daniellcferreira
-
-## Habilidades
-
-## GitHub Status
