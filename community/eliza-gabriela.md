@@ -18,7 +18,6 @@ Me encantei pela área de Dados e estou estudando bastante com o objetivo de mig
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizabeth-gabriela-mamani/)
 
 
-<a href="mailto:thauanb.dev@gmail.com">
 <img src="https://media.tenor.com/kXp0f-dmTXAAAAAi/%E6%94%B6%E5%88%B0-%E5%B7%A5%E4%BD%9C.gif" width="50px" />
 </a>
 
