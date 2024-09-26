@@ -16,5 +16,10 @@
 ![Vscode](https://img.shields.io/badge/Vscode-000?style=for-the-badge&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/Postman-000.svg?style=for-the-badge&logo=Postman&logoColor=orange)
 
+## Linguagens utilizadas
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoGalani&layout=compact" alt="YagoGalani" />
+
 ## GitHub Status
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YagoGalani&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
