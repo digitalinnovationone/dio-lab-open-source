@@ -3,7 +3,6 @@
     <span>Arthur Ramos</span>
   </a>
 </h1>
-
 #### Software Engineer | React | Node | JavaScript
 <i>(São Luis, MA - Brasil)</i>
 
