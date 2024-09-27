@@ -17,16 +17,16 @@
 
 
 
-###  Sobre
+### Sobre
 <i>
-<br />
+<br/>
 
 > Olá! Eu sou Arthur Ramos, Estudante de Analise e desenvolvimento de Sistemas e estudo programação há 9 meses.
 
 > Estou constantemente buscando novos desafios e oportunidades para expandir meu conhecimento e habilidades. Se você está em busca de um profissional apaixonado, dedicado e experiente para impulsionar seus projetos de tecnologia, estou aqui para ajudar. Vamos construir algo incrível juntos!
 </i>
 
-<br />
+<br/>
 
 ### Linguagens de Marcação e Estilo
  
