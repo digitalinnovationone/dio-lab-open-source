@@ -1,4 +1,3 @@
-
 # Leo Fidelis11
 
 ## Conecte-se comigo
@@ -6,7 +5,6 @@
 
 
 ## Github Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonardoFidelis&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF&hide_title=true&hide=stars)
 
 
