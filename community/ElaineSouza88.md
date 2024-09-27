@@ -11,7 +11,7 @@ As principais tecnologias que utilizo durante o aprendizado e nos projetos que d
 
 ![Top tecnologias](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElaineSouza88&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-##Github Stats
+## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElaineSouza88&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Soft Skills
