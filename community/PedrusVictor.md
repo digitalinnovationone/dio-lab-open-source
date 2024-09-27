@@ -1,7 +1,7 @@
 
 # [Pedrus Victor](https://github.com/PedrusVictor)
 
-Estudante - desenvolvedor de software | python | node | javaScript | react | unity C#
+Estudante - desenvolvedor de software | python | node | javaScript | react | Unity C# | Designer Gráfico
 
 (Fortaleza - Ceará)
 # Repositório github
