@@ -7,8 +7,10 @@ Seja bem vindo! Me chamo Adriana e estou me aventurando por aqui, meu readme ser
 ## 📖 Minha Formação
 - Pós Graduação em Engenharia de Inteligência Artificial
 
+
 ## 💻 Trabalho
 - Desenvolvedora de RPA
 
+
 ## 🔗 Conecte-se comigo
-[![linkedin](https://www.linkedin.com/in/adriana-lima-a159a5231/)
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriana-lima-a159a5231/)
