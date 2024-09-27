@@ -1,6 +1,5 @@
-
 # Olá, sou a Elaine
-<i>Blumenau - SC <i>
+<i>Blumenau - SC </i>
 Desenvolvedora Web Jr. rumo ao Full Stack 🚀
 Apaixonada por tecnologia e fórmula 1 🏁🏎️
 
