@@ -1,7 +1,9 @@
 # Greice Lacerda
 
+!![Foto de Greice Lacerda](Contribuindo-no-open-source-dio\community-DESKTOP-V0489DS\foto 2024.jpg)
 
 ## Sobre Mim
+
 
 Olá! Eu sou [Seu Nome], um [Sua Profissão] apaixonado por [Seu Interesse Principal]. Tenho experiência em [Suas Habilidades ou Áreas de Atuação] e adoro trabalhar em projetos que envolvem [Seus Interesses ou Projetos Favoritos].
 
