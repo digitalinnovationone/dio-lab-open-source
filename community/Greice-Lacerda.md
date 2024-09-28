@@ -1,11 +1,6 @@
 # Greice Lacerda
-import pandas
 
-<picture>
- <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode."  src="Foto 2024.png">
-
-</picture>">
-</picture>
+Foto 2024.png
 
 !Foto de Perfil
 
