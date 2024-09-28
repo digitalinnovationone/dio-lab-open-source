@@ -5,7 +5,7 @@ Mergulhador na área da programação, com desejo me aprender a aprofundar cada 
 
 Tenho profundo conhecimento e habilidades na Linguagem Java (Backend).
 
-
+Conhecimento em linguagem Python.
 
 ## Conecte-se comigo 
 [![GitHub](https://img.shields.io/badge/GitHub-0077b5?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Allanjs1)
