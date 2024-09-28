@@ -8,4 +8,4 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmogawa&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmogawa&hide_progress=true&theme=buefy)
