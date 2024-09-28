@@ -1,4 +1,4 @@
-# Olá, eu sou a Alexia (accstudyac)! 👋
+# Olá, eu sou a [Alexia](https://github.com/alexiacamargo)! 👋
 
 Sou uma desenvolvedora apaixonada por tecnologia e inovação. Atualmente, estou em busca de novas oportunidades para aplicar minhas habilidades e continuar aprendendo.
 
@@ -11,7 +11,8 @@ Sou uma desenvolvedora apaixonada por tecnologia e inovação. Atualmente, estou
 
 ## 📊 Estatísticas do GitHub 
 
-![accstudyac GitHub stats](https://github-readme-stats.vercel.app/api?username=accstudyac&show_icons=true&theme=radical)
+![alexiacamargo GitHub stats](https://github-readme-stats.vercel.app/api?username=alexiacamargo&show_icons=true&theme=radical)
+
 
 ## 🔗 Conecte-se comigo!
 
