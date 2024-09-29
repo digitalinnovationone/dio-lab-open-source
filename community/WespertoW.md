@@ -19,11 +19,7 @@ Aqui apredo coisas novas e aplico dentro do meu ambiente de trabalho, possuindo 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<<<<<<< HEAD
- 
-=======
 
->>>>>>> 182da40107d765adec3fcc6bf6ba35e4ae74f201
 ## Pretendo Aprender
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -41,8 +37,4 @@ Aqui apredo coisas novas e aplico dentro do meu ambiente de trabalho, possuindo 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFA500&size=35&center=true&vCenter=true&width=1000&lines=At%C3%A9+a+Proxima!)](https://git.io/typing-svg)
 
-<<<<<<< HEAD
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=180&section=footer&animation=twinkling&fontAlignY=35"/>
-=======
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=180&section=footer&animation=twinkling&fontAlignY=35"/>
->>>>>>> 182da40107d765adec3fcc6bf6ba35e4ae74f201
