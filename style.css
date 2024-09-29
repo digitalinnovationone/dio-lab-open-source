@@ -1,0 +1,118 @@
+/* Estilos globais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #4CAF50;
+    padding: 10px 20px;
+    color: white;
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.banner {
+    background: url('banner.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+    padding: 100px 20px;
+    text-align: center;background: url('banner.jpg') no-repeat center center;
+}
+
+.btn-agendar {
+    background-color: #FFA500;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+section {
+    padding: 40px 20px;
+}
+
+.servicos {
+    display: flex;
+    justify-content: space-between;
+}
+
+.servico {
+    width: 30%;
+}
+
+.contato form {
+    display: flex;
+    flex-direction: column;
+}
+/* Estilos para a Tabela de Preços */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #ddd;
+}
+
+
+
+
+.contato label, 
+.contato input, 
+.contato textarea {
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+footer nav ul {
+    padding: 0;
+    margin: 0;
+}
+
+footer nav ul li {
+    display: inline;
+    margin: 0 5px;
+}
