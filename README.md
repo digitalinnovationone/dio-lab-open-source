@@ -51,7 +51,7 @@ Para concluir este Desafio de Projeto, basta enviar a **URL do seu "fork" de um 
 
 > [!NOTE]
 <td>Dicas</td>    
-> Por exemplo, a URL https://github.com/Esther-Candido/dio-lab-open-source é o "**fork**" feito pelo usuário do GitHub "`Esther-Candido`" para a contribuição no repositório `dio-lab-open-source`.
+> Por exemplo, a URL https://github.com/falvojr/dio-lab-open-source é o "**fork**" feito pelo usuário do GitHub "`falvojr`" para a contribuição no repositório `dio-lab-open-source`.
 
 
 ### Contribua com seu Profile README
