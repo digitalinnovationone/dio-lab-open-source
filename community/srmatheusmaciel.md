@@ -13,7 +13,7 @@
 - Integração de **APIs RESTful** e banco de dados SQL e NOSQL.
 - Desenvolvimento Frontend com **React** e **Tailwind CSS**
 - Melhores práticas em **arquitetura de software** e **design patterns**
-- Otimização de código e **melhorias de performance**
+- Otimização de código e **melhorias de performance**.
 - 📫 Como me encontrar: [eumatheusmaciel@gmail.com](mailto:eumatheusmaciel@gmail.com)
 
 ---
