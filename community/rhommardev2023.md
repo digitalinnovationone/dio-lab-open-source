@@ -1,5 +1,5 @@
 # Rhommar Martinez 
-Sou profesional eletromecanico industrial cursanso analise e denevolvimento de sistemas , apasionado pela automação industrial , design ui, e tecnologia,  ja começando botar mao na massa no desenvolvimendo Front-End , experimentando programação desde 2023.
+Sou professional eletromecanico industrial cursanso analise e densevolvimento de sistemas , apasionado pela automação industrial , design ui, e tecnologia,  ja começando botar mao na massa no desenvolvimendo Front-End , experimentando programação desde 2023.
 
 ## Conete-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rjmartinezlapaz/)
