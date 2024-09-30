@@ -1,4 +1,4 @@
-# Ben Vindo, Eu sou a Elan
+# Ben Vindo, Eu sou o Elan
 <i>São Paulo - SP </i>
 Estudante de Analise e Desenvolvimento de Sistemas, com interesse em desenvolvimento de sistemas e tecnologias da informação. Possuo conhecimentos em MySQL, Python, React, JavaScript, HTML, CSS e Java.
 <br>
