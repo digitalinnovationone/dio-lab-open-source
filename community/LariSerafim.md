@@ -1,4 +1,4 @@
-👋 Olá, eu sou a Larissa Serafim.
+👋 Olá, eu sou a Larissa Serafim. (LariSerafim)
 
 🎓 Formada em Análise e Desenvolvimento de Sistemas.
 
