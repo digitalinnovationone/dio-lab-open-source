@@ -1,4 +1,5 @@
 ## Camila Hero
+*Profissional com mais de 10 anos de experiência na área de Compras e Suprimentos se aventurando na área de TI para migração de carreira.*
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-hero-46832097//)
