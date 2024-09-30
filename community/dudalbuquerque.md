@@ -25,7 +25,7 @@ Sou apaixonado(a) por tecnologia e constantemente busco expandir meus conhecimen
 - **Resolução de problemas:** Experiência em solucionar problemas de algoritmos e lógica.
 - **Gerenciamento de tempo:** Organização e priorização de tarefas para cumprir prazos em múltiplos projetos.
 
-📫 Conecte-se comigo  
+
 📫 Conecte-se comigo  
 
 <p align="center">
