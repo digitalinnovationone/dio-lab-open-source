@@ -1,4 +1,6 @@
 # Ewerton Amorim
+Olá, sou estudante de ADS (Anáslise e Desenvolvimento de Sistemas), colocando meus conhecimentos teóricos em pratica com o bootcamp da Ri Happy.
+
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=A66038)](https://www.linkedin.com/in/ewerton-amorim-1315a1243/)
 [![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=A66038)](https://github.com/EwertonAmorim)
