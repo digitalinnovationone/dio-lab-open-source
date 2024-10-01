@@ -18,9 +18,3 @@ Compartilhando mais um pouco dos meus sonhos e desejos, eu quero me tornar um po
 ## Futuro
 Estou fazendo transiçao de carreira, então estou em busca de me tornar um desenvolvedor web (Desenvolvedor Front-End), aprender mais e me tornar um Desenvolvedor Full Stack. 
 
-Caso vocês queiram me encontrar:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-guilherme-dos-santos-bruno-8b2a60283/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cguilhar@gmail.com)
-
-siçao de carreira, então estou em busca de me tornar um desenvolvedor web (Desenvolvedor Front-End), aprender mais e me tornar um Desenvolvedor Full Stack. 
