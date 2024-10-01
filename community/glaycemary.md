@@ -1,4 +1,4 @@
-# glaycemary
+# Glayce Mary
 Olá. Me chamo Glayce e estou iniciando no mundo do TI. Um mundo distinto, complexo e fascinante. 
 
 ## Conecte-se comigo:
