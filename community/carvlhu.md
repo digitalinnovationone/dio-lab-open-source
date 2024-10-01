@@ -4,7 +4,7 @@
 
 > Estudante de Análise e Desenvolvimento de Sistemas - Senai Cotia
 
-> Adquirindo habilidades constantemente
+> Adquirindo habilidades frequentemente
 
 > Buscando oportunidades e desafios
 
