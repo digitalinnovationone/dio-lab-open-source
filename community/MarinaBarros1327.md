@@ -1,6 +1,6 @@
 # Marina Barros
 
-Olá! Estou desenvolvendo minhas habilidades em programação.
+Olá! estou desenvolvendo minhas habilidades em programação.
 
 ## Conecte-se comigo
 
@@ -26,6 +26,6 @@ Olá! Estou desenvolvendo minhas habilidades em programação.
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marinabarros1327&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/marinabarros1327/dio-lab-open-source)
 
-## Meus projetos
+## Meus Projetos
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marinabarros1327&repo=projeto_2024&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/marinabarros1327/projeto_2024)
