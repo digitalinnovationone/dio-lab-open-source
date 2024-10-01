@@ -3,7 +3,7 @@
 
 Olá mundo!!!
 
-Meu nome é Eduardo Henrique e estou iniciando minha jornada na programação mais uma vez, meu desejo é que venha minha primeira vaga para que eu possa ter estabilidade e tranquilidades.
+Meu nome é Eduardo Henrique e estou iniciando minha jornada na programação mais uma vez, meu desejo é que venha minha primeira vaga para que eu possa ter estabilidade e tranquilidade para mim e meus entes queridos.
 
 
 
