@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Samir Alves e sou estudande na UNIFOR de Ciência da computação. Atualmente no 4º Semestre e procurando estagio na aréa 🙂.</p>
+<p align="left">Meu nome é Samir Alves e sou estudante na UNIFOR de Ciência da computação. Atualmente no 4º Semestre e procurando estagio na área 🙂.</p>
 
 
 <h2 align="left">Tenho conhecimento em</h2>
