@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Roger Brião 👋</h1>
+<h1 align="center">Olá! Eu sou o <strong>Roger Brião</strong> 👋</h1>
 
 
 <h2>Sobre mim</h2> 
