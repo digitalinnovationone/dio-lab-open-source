@@ -6,6 +6,6 @@
 
 📊 Também atuo na implementação e manutenção de CRMs, criando relatórios e dashboards personalizados.
 
-🚀 Estou sempre em busca de novos conhecimentos e desafios para crescer na área de Desenvolvimento de Software.
+🚀 Estou sempre em busca de novos conhecimentos e desafios para crescer na área de Desenvolvimento de Software
 
 
