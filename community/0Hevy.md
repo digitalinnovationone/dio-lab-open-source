@@ -21,6 +21,8 @@ Atualmente sou um estudante de Ciência da Computação com foco em dados, machi
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
+
+
 ##
 ### 💻 Conecte-se!
 
