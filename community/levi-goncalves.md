@@ -1,4 +1,4 @@
-# Olá! Sou o Levi Gonçalves
+# Olá! Sou o Levi Gonçalves 👋
 
 ## Meu resumo profissional
 
@@ -6,9 +6,9 @@ Tenho mais de 8 anos de experiência em Inteligência Comercial, com foco em an�
 
 ## Principais ferramentas
 
-- Excel
-- VBA
+- Excel avançado
 - Power BI
+- VBA
 - DAX
 - Pyhton
 - MySQL
