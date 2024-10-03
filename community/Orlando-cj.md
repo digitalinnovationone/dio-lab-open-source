@@ -3,6 +3,3 @@
 # Conecte-se comigo
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-orlando-cardoso-655215239/)
 
-amorr_de_orlando =  "Verona" , " Parentes" , " Ônibus ", " A família daqui de casa"
-print(amorr_de_orlando)
-
