@@ -51,7 +51,6 @@ Para concluir este Desafio de Projeto, basta enviar a **URL do seu "fork" de um 
 
 > [!NOTE]   
 > Por exemplo, a URL https://github.com/falvojr/dio-lab-open-source é o "**fork**" feito pelo usuário do GitHub "`falvojr`" para a contribuição no repositório `dio-lab-open-source`.
-
 ### Contribua com seu Profile README
 Para contribuir neste repositório, uma das formas é através da contribuição no diretório "**community**", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. <br>
 Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
@@ -65,13 +64,11 @@ Para isso, você pode inserir: badges indicando suas habilidades; cards com suas
 
 > [!IMPORTANT]   
 > Confira as instruções antes de enviar a sua contribuição em [CONTRIBUTING.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md)
-
 ### Fórum do Repositório (GitHub Discussions)
 GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. Caso tenha dúvidas, você pode abrir uma discussão, dentro de uma categoria apropriada, na aba "Discussions" do repositório do projeto.
 
 > [!WARNING]  
 > **Atenção:** Antes de criar uma nova discussão, verifique se sua dúvida já foi respondida em discussões anteriores. Use a função de pesquisa para encontrar tópicos relevantes.
-
 ---
 
 ## Contribua
@@ -81,7 +78,7 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 
  Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição além do seu exemplo de Profile README, é inserir outros utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils), ou melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/docs). <br>
  Além disso, você também pode contribuir:
- 
+
 ⚠️ Resolvendo, respondendo ou indicando **issues**
 
 ⭐ Adicionando aos favoritos (**star**) 
