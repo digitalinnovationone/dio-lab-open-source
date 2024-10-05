@@ -29,7 +29,7 @@ Olá! Eu sou a Greice, um professora e analista de sistema apaixonada por Matem�
 
 <h2 style="color: blue;">Meus Hobbies</h2>
 <div style="display: flex; align-items: center;">
-  <img src="https://th.bing.com/th/id/OIP.SNRNaKQMVPuSefRs6JU1NgHaE1?rs=1&pid=ImgDetMain" alt="hobbies" style="border-radius: 10%; width: 100; height: 100; object-fit: cover; margin-right: 10px;">
+  <img src="https://th.bing.com/th/id/OIP.SNRNaKQMVPuSefRs6JU1NgHaE1?rs=1&pid=ImgDetMain" alt="hobbies" style="border-radius: 10%; width: 100px; height: 100px; object-fit: cover; margin-right: 10px;">
   <div style="display: flex; flex-direction: column; align-items: flex-start;">
       <ul>
       <li>Mergulhar</li>
@@ -139,7 +139,7 @@ Atuar nas áreas de Matemática e Tecnologia, buscando constantemente aprimorar 
 
 <h2 style="color: blue;"> Frase que me motiva</h2>
 <div style="display: flex; align-items: center;">
-  <img src="https://th.bing.com/th/id/OIP.lJ9MtrDj-y0CmEOpWMlKPQHaI6?w=170&h=205&c=7&r=0&o=5&pid=1.7" alt="Bye" style="border-radius: 10%; width: 120; height: 120; object-fit: cover; margin-right: 10px;">
+  <img src="https://th.bing.com/th/id/OIP.lJ9MtrDj-y0CmEOpWMlKPQHaI6?w=170&h=205&c=7&r=0&o=5&pid=1.7" alt="Bye" style="border-radius: 10%; width: 120px; height: 120px; object-fit: cover; margin-right: 10px;">
     <div style="display: flex; flex-direction: column; align-items: flex-start; align-items: center;"><p>
       <p style="color: yellow;" align="center"><i>"Nunca é tarde para aprender coisas novas, recomeçar e sair de lugares que não te cabem mais". 
       <p style="color: yellow;" align="center"><i><u> Greice Lacerda</u></i></p>
