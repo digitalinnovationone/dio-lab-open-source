@@ -44,7 +44,7 @@ Olá! Eu sou a Greice, um professora e analista de sistema apaixonada por Matem�
 
 <h2 style="color: blue;">Experiência Profissional</h2>
 <div style="display: flex; align-items: left;">
-  <img src="https://i.pinimg.com/originals/7c/21/93/7c21936d03ff68439d48689a01f6c4e0.jpg" alt="profissões" style="border-radius: 10%; width: 100; height: 100; object-fit: cover; margin-left: 10px;">
+  <img src="https://i.pinimg.com/originals/7c/21/93/7c21936d03ff68439d48689a01f6c4e0.jpg" alt="profissões" style="border-radius: 10%; width: 100px; height: 100px; object-fit: cover; margin-left: 10px;">
     <div style="display: flex; flex-direction: column; align-items: flex-start;">
     <ul>
     <li align="justify">Professora substituta de Matemática na FFP/UERJ (2024)</li>
@@ -61,7 +61,7 @@ Olá! Eu sou a Greice, um professora e analista de sistema apaixonada por Matem�
 
 <h2 style="color: blue;">Educação</h2>
 <div style="display: flex; align-items: left;">
-  <img src="https://i.pinimg.com/736x/7c/f4/ac/7cf4ac9a64cbc5f63860267e86fe6886.jpg" alt="conhecimento" style="border-radius: 10%; width: 100; height: 100; object-fit: cover; margin-left: 10px;">
+  <img src="https://i.pinimg.com/736x/7c/f4/ac/7cf4ac9a64cbc5f63860267e86fe6886.jpg" alt="conhecimento" style="border-radius: 10%; width: 100px; height: 100px; object-fit: cover; margin-left: 10px;">
     <div style="display: flex; flex-direction: column; align-items: flex-start;">
       <ul>
       <li align="justify">Doutora em Educação pela UNESA (2023)
@@ -142,6 +142,6 @@ Atuar nas áreas de Matemática e Tecnologia, buscando constantemente aprimorar 
   <img src="https://th.bing.com/th/id/OIP.lJ9MtrDj-y0CmEOpWMlKPQHaI6?w=170&h=205&c=7&r=0&o=5&pid=1.7" alt="Bye" style="border-radius: 10%; width: 120; height: 120; object-fit: cover; margin-right: 10px;">
     <div style="display: flex; flex-direction: column; align-items: flex-start;"><p>
       <p style="color: yellow;" align="center"><i>"Nunca é tarde para aprender coisas novas, ou para recomeçar e sair de lugares que não te cabem mais". 
-      <p style="color: yellow;" align="center"><i><u>__________________________ Greice Lacerda</u></i></p>
+      <p style="color: yellow;" align="center"><i><u>______________________ Greice Lacerda</u></i></p>
     </div>
 </div>
