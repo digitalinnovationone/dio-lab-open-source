@@ -24,7 +24,7 @@
 
 <h2 style="color: blue;">Um pouco sobre mim</h2>
 <div style="text-align: justify">
-Olá! Eu sou a Greice, um professora e analista de sistema apaixonada por Matemática e Programação. Tenho experiência nas diferentes áreas de Educação e Ensino da Matemática e de Análise e Desenvolvimento de Sistema e adoro trabalhar em novos projetos e adquirir novos conhecimentos. Trabalho bem em grupos, geralmente em posição de liderança ou individualmente. Sou disciplinada, focada, comprometida e persistente.
+Olá! Eu sou a Greice, professora e analista de sistemas apaixonada por Matemática e Programação. Tenho vasta experiência em diversas áreas da Educação Matemática, Ensino da Matemática, e Análise e Desenvolvimento de Sistemas. Adoro trabalhar em novos projetos e adquirir novos conhecimentos. Sou eficiente tanto em trabalho em grupo, frequentemente assumindo posições de liderança, quanto em tarefas individuais. Sou disciplinada, focada, comprometida e persistente.
 </div>
 
 <h2 style="color: blue;">Meus Hobbies</h2>
