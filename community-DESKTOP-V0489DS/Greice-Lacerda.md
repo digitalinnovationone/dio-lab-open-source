@@ -1,7 +1,7 @@
 <h1 style="color: blue;">Greice Lacerda</h1>
 
 <div style="display: flex; align-items: center;">
-  <img src="Foto 2.png" alt="Essa sou eu!" style="border-radius: 30%; width: 180px; height: 180px; object-fit: cover; margin-right: 10px;">
+  <img src="foto 2024.jpg" alt="Essa sou eu!" style="border-radius: 30%; width: 160px; height: 160px; object-fit: cover; margin-right: 10px;">
   <div style="display: flex; flex-direction: column; align-items: flex-start;">
     <span><b><u>Meus Contatos:</u></U></span><p></p>
     <a href="https://www.linkedin.com/in/greice-lacerda-87071228b" style="margin-top: 10px;">
