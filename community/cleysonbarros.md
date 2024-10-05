@@ -1,4 +1,4 @@
-# Olá nome é Cleyson barros e sou apaixonado por tecnologio 
+# Olá, meu nome é Cleyson barros e sou apaixonado por tecnologia.
 ### Conecte-se Comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-cleyson-barros-marinho-0aa090176/)
 
