@@ -1,5 +1,5 @@
 ---
-name: Community Challenge
+name: cleytonantenor
 about: Crie uma issue sobre o Desafio proposto à comunidade
 title: "[DESAFIO]"
 labels: Desafiador da Comunidade
