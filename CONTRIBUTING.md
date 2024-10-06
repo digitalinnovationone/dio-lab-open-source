@@ -87,7 +87,9 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 | `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         | `style: add EFFECTNAME to COMPONENT`
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
 | `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
-
+| `chore`        |	Alterações de manutenção, que não afetam o código ou os testes.	    | `chore: update dependencies`
+| `perf`        |    Melhora o desempenho do código sem alterar sua funcionalidade.	    |`perf: optimize loop in process`
+|`build`        |	Mudanças que afetam o sistema de build ou dependências externas.	|`build: update build script`
 
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
