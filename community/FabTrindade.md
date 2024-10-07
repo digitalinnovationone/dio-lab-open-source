@@ -1,4 +1,4 @@
-# Fabrício Trindae
+# Fabrício Trindade
 
 Formado em Engenharia Eletrônica, atualmente atuando com desenvolvimento de software.
 Apaixonado por tecnologia! 
