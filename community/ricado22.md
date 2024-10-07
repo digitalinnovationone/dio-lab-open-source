@@ -1,3 +1,0 @@
-# Ricardo
-
-estou iniciando esse projeto.
