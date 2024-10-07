@@ -11,8 +11,6 @@ Atualmente sou um estudante do 5º Semestre de Ciência da Computação.
 <img aLign="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img aLing="center" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
            
-         
-
 </div>
 
 ##
@@ -26,4 +24,6 @@ Atualmente sou um estudante do 5º Semestre de Ciência da Computação.
 ### 📲 Você pode me encontrar em:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-augusto-30a694231/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](a.caio2904@gmail.com)
+
 
