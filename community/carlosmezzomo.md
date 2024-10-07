@@ -1,6 +1,6 @@
 <h1>Olá, me chamo Carlos Mezzomo.</h1>
 
-<p style="text-align: justify">
+<p>
     Profissional com diagnóstico de TDAH, utilizando essa característica como uma fonte de motivação constante e de aprendizado contínuo. Acredito que minha mente dinâmica me permite ter ideias inovadoras e encontrar soluções práticas e rápidas para desafios. Iniciei meus estudos em Engenharia Civil na Universidade Positivo, mas posteriormente migrei para Direito, área em que me formei em 2021. Atualmente, estou cursando Gestão Financeira na PUCPR, com conclusão prevista para o final de 2024. Paralelamente, já fui DJ Profissional de músicas eletrônicas por 5 anos, mas abandonei para mudar de carreira. Tenho me dedicado ao estudo de programação, visando seguir essa área profissionalmente. Tenho 10 anos de experiência trabalhando na mesma empresa, que embora tenha uma mente bem caótica, demonstra minha dedicação e comprometimento.
 </p>
 <details>
