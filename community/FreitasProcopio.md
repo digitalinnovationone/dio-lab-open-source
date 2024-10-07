@@ -1,7 +1,7 @@
 # Pedro Procópio
 ## Conecte-se comigo
 
-[![LinkedIn](https://www.linkedin.com/in/pedro-proc%C3%B3pio-7476b5284/)
+![LinkedIn](https://www.linkedin.com/in/pedro-proc%C3%B3pio-7476b5284/)
 
 ## Habilidades
 ![PHP](https://img.shields.io/badge/PHP-%232397B9?style=for-the-badge&logo=php&logoColor=white)
