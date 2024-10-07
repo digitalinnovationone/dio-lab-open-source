@@ -9,7 +9,9 @@ Atualmente sou um estudante do 5º Semestre de Ciência da Computação.
 <img aLign="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img aLign="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img aLign="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img aLign="center" alt="​SQL SERVER" src="https://img.shields.io/static/v1?label=%E2%80%8B&message=SQL+SERVER&color=CC2927&style=for-the-badge&logo=microsoftsqlserver">
+<img aLing="center" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+           
+         
 
 </div>
 
