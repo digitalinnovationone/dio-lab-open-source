@@ -22,8 +22,17 @@ Aprender o básico sobre contribuição no GitHub.
 - Git e GitHub
 
 ## Ferramentas
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/Jessika-Andrade)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+
+## Contato
+- Email: jessika_andrade_11@hotmail.com
+- LinkedIn: [Meu Perfil](https://www.linkedin.com/in/j%C3%A9ssika-andrade-920633231/edit/forms/intro/new/?profileFormEntryPoint=PROFILE_SECTION)
+
+## Agradecimentos
+Agradeço à Digital Innovation One e a todos os colaboradores do projeto.
+
+<hr>
 
 ## Percurso
 <table>
