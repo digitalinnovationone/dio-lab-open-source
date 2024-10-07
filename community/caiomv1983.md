@@ -19,6 +19,7 @@ Atualmente sou um estudante do 5º Semestre de Ciência da Computação.
 
 <div style="display: inline_block"><br/>
 <img align="center" src="https://img.shields.io/badge/Ingl%C3%AAs-2ea44f?style=for-the-badge" alt="Inglês"></a>
+<img align="center" src="https://img.shields.io/badge/Assembly-007ACC?style=for-the-badge&logoColor=white" alt="Assembly"></a>
 </div>
 
 ##
