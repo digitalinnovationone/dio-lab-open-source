@@ -6,7 +6,7 @@ Bem-vindo ao meu repositório! Sou um estudante de Ciência da Computação e ap
 
 - **Nome:** Leandro Carvalho
 - **Curso:** Ciência da Computação
-- **Interesses:** Desenvolvimento web, algoritmos, inteligência artificial e muito mais!
+- **Interesses:** Desenvolvimento web, inteligência artificial, ciência de dados e muito mais!
 
 ## Linguagens que Estou Aprendendo
 
