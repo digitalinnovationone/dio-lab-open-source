@@ -79,11 +79,14 @@ Os links relativos são mais fáceis para usuários que clonam o seu repositóri
 
 Expostos aos vastos conteúdos do GitHub, não contribuir com algum projeto é quase impossível, tendo isso em mente para nós novatos em linguagem de marcação é primordial saber que é possível anexarmos imagens nesses projetos, a final como dito no início dessa colaboração, uma grande parcela da população interpreta melhores informações através de imagens. 
 
-Para adicionar imagens ao README.md podemos usar Markdown e HTML5. Vou deixar os dois métodos logo abaixo.
+Para adicionar imagens ao README.md podemos usar Markdown e HTML5. Vou deixar os dois métodos logo abaixo.<br>
 
-    ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 > Exibindo no formato `Markdown`.
+
+    
+    ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
 
 <div align="Center">
 
@@ -92,6 +95,10 @@ Para adicionar imagens ao README.md podemos usar Markdown e HTML5. Vou deixar os
 </div>
 
 > Esta sendo exibida no formato `HTML5`.
+
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="500" height="500"/> 
+
+
 
 <div align="Center">
 
