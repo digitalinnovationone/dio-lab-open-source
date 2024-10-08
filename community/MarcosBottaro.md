@@ -1,5 +1,5 @@
-- 👋 Olá, sou Marcos Bottaro 
-- 👀 Estou interessado em ingreçar no mundo da programação.
+- 👋 Olá, sou Marcos Bottaro.
+- 👀 Estou interessado em ingressar no mundo da programação.
 - 📜 Sou formado em ADS pela UNOPAR.
 - 📖 Atualmente estou estudando pela DIO para me aperfeiçoar na área de programação.
 
