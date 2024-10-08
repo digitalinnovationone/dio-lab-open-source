@@ -83,14 +83,17 @@ Utilize as features do GitHub: Explore as funcionalidades do GitHub, como issues
 
 * **O que é Linux?**
   Linux é um sistema operacional de código aberto, conhecido por sua flexibilidade e estabilidade.
+  
 * **Por que usar o Linux?**
   * Gratuito e personalizável
   * Grande comunidade de usuários
   * Ideal para desenvolvimento e servidores
-     Linux ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+  * Linux ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+    
 * **Distribuições Linux populares:**
   * Ubuntu ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
   * Debian ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
   * Fedora ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+    
 * **Utilidades**
   * ![DIO Utils](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils). 
