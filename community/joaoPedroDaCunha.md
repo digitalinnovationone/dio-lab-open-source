@@ -1,5 +1,5 @@
 <h1>
-    <a href="" ><img width="36px" src="if_5137012.png" alt="https://www.freepik.com/"></a>
+    <a href="" ><img width="36px" src="https://github.com/joaoPedroDaCunha/joaoPedroDaCunha/blob/main/if_5137012.png?raw=true" alt=""></a>
     <span>João Pedro Da Cunha Santos<span>
 </h1>
 <p align="justify" >Programador Junior voltado para o back-end,terminando a facudade de Analise e Desenvolvimento de Sistemas</p>
