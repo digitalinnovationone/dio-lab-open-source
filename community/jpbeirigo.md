@@ -1,13 +1,15 @@
-<h1 align="center">Olá! Meu nome é João Pedro </h1> 
-<h3 align="center">Um desenvolvedor novato de Orlândia, interior de São Paulo</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=40&pause=1000&center=true&vCenter=true&random=false&width=913&lines=Hello+There)](https://git.io/typing-svg)
+<h1 align="center">My name is João Pedro </h1> 
+<h3 align="center">A novice developer from Orlândia, in the countryside of São Paulo, Brazil
+</h3>
 
-- 🔭 Atualmente estou trabalhando em **expandir meus horizontes**
+- 🔭 I'm currently working on  **expanding my horizons**
 
-- 🌱 Atualmente estou aprendendo **Python e desenvolvimento mobile**
+- 🌱 I'm currently learning **Python e Front End Development**
 
-- 👯 Busco colaborar em projetos novos **de áreas em que não tenho experiência**
+- 👯 I look forward to collaborate on new projects **in areas i'm not experienced yet**
 
-- 🤝 Gostaria de ajuda com **dicas e sugestões do que posso melhorar**
+- 🤝 I would appreciate **tips and suggestions on how i can improve**
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-ferreira-beirigo-8130b7269/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@granek./) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JPBeirigo) [![DIO](https://img.shields.io/badge/DIO-000?style=for-the-badge&logo)](https://www.dio.me/users/joao_f_beirigo)
