@@ -27,8 +27,7 @@ Sou uma apaixonda por tecnologia e aprendizado contínuo. Atualmente estou em bu
 
 
 ## Projeto
-- [spotify-clone](https://github.com/Lucinete-Tavares/spotfy-clone)
-): Projeto realizado durante a imersão Alura.
+- [spotify-clone](https://github.com/Lucinete-Tavares/spotfy-clone): Projeto realizado durante a imersão Alura.
 - [dio-lab-open-source](https://github.com/Lucinete-Tavares/dio-lab-open-source): Contribuindo em um Projeto Open Source no GitHub durante o Ri Happy - Front-end do Zero.
 
 
