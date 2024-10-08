@@ -3,7 +3,7 @@
 
 <h3> &nbsp; Sobre mim </h3>
 
-- 🤓 &nbsp; Sou formata em Gestão da tecnologia da informação, mas sou apaixonada por programação
+- 🤓 &nbsp; Sou formata em Gestão da tecnologia da informação, mas sou apaixonada por programação.
 
 <h3> &nbsp; Linguagem de programação que sei</h3>
 
