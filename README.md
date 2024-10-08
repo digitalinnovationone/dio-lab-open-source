@@ -12,7 +12,7 @@ Sou uma apaixonda por tecnologia e aprendizado contínuo. Atualmente estou em bu
 
 - **Linguagens de Programação**: Python, JavaScript
 - **Tenologias**: Git - Em andamento
-- **Ferramentas**: Sisual Studio Code, GitHub
+- **Ferramentas**: Visual Studio Code, GitHub
 
 
 ---
