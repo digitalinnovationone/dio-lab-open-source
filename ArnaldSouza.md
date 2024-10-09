@@ -6,6 +6,7 @@ My name is Arnald, I'm a engineering computer student at Centro Universitário F
   <a href="https://github.com/ArnaldSouza">
   <img align="left" height="180" src="https://github-readme-stats.vercel.app/api?username=ArnaldSouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=15"/>
   <img align="left" height="230"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnaldSouza&layout=compact&langs_count=8&title_color=FFFFFF&bg_color=DEG,000000,000000,000000&border_color=FFFFFF&border_radius=15"/>
+    
 </div>
 
 ##
