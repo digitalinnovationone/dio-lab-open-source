@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Nilson da Silva Brites!
+# 👋 Olá, eu sou Nilson da Silva Brites! (nilrd)
 
 🔍 Sou um desenvolvedor em busca da **excelência** em **automação de testes**. Acredito que qualidade é fundamental para o sucesso de qualquer aplicação, e estou aqui para garantir que os sistemas funcionem perfeitamente!
 
