@@ -11,7 +11,10 @@ Atualmente estou cursando Analise e Desenvolvimento de Sistemas pela Gran Faculd
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+##
+### Minhas contribuições no GITHUB:
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LEOTECH47&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 
 ##
