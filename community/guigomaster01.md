@@ -4,7 +4,7 @@
 - **E-mail:** [contatorodrigorodrigues@gmail.com](mailto:contatorodrigorodrigues@gmail.com)
 - **LinkedIn:** [Rodrigo Ferreira Rodrigues](https://www.linkedin.com/in/rodrigo-ferreira-157817b4/)
 - **GitHub:** [Guigomaster01](https://github.com/guigomaster01)
-- - **Idiomas:** Português (nativo)🇧🇷 , Inglês (avançado) :us:
+- **Idiomas:** Português (nativo)🇧🇷 , Inglês (avançado) :us:
 
 ---
 
