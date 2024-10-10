@@ -24,7 +24,7 @@ Atualmente, estou participando de um bootcamp proporcionado pela DIO, onde venho
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-left: 20px;">
   </a>
 
-- Perfil LinkedIn:
+- Perfil Instagram:
   <a href="https://www.instagram.com/alee_x_/">
   <img align="center" src="https://img.shields.io/badge/-Instagram-0acbff?style=for-the-badge&logo=instagram&logoColor=white" style="margin-left: 20px;">
   </a>
