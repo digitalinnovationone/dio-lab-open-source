@@ -20,5 +20,6 @@ Atualmente estou cursando Analise e Desenvolvimento de Sistemas pela Gran Faculd
 ##
 ### 💻 Conecte-se!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/leonardo-silva-tech1975)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/leonardo-silva-tech1975)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LEOTECH47)
+
 
