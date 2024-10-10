@@ -3,7 +3,7 @@
 
 ## 🚀 Sobre mim
 Eu sou uma pessoa proativa, analista de integração, especialista em integração de APi Oficial de What's App, Instagram, Facebook e Wechat
-Estudando para o desafio DIO Ri-Happy.
+Estudando para o desafio DIO Ri-Happy. 
 
 
 ## Conecte-se comigo
