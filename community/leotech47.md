@@ -7,12 +7,11 @@ Atualmente estou cursando Analise e Desenvolvimento de Sistemas pela Gran Faculd
 
 
 
-
-
 ##
 ### 📖 Estudando atualmente:
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 ##
 ### Minhas contribuições no GITHUB:
