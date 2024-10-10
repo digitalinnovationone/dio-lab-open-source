@@ -31,6 +31,6 @@ Sou um profissional com experiência em análise de sistemas, especializado no d
 - **Backend:** C# (em progresso)
 - **Databases:** MongoDB (em progresso)
 - **Frameworks:** React (em progresso)
-- **Plataformas:** Salesforce (em progresso)
+- **Plataformas:** Salesforce - Apex | Triggers| Flows | LWC (em progresso)
 - **Outros:** Python, APIs REST, Git/GitHub
 
