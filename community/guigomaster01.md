@@ -4,6 +4,7 @@
 - **E-mail:** [contatorodrigorodrigues@gmail.com](mailto:contatorodrigorodrigues@gmail.com)
 - **LinkedIn:** [Rodrigo Ferreira Rodrigues](https://www.linkedin.com/in/rodrigo-ferreira-157817b4/)
 - **GitHub:** [Guigomaster01](https://github.com/guigomaster01)
+- - **Idiomas:** Português (nativo)🇧🇷 , Inglês (avançado) :us:
 
 ---
 
@@ -32,4 +33,4 @@ Sou um profissional com experiência em análise de sistemas, especializado no d
 - **Frameworks:** React (em progresso)
 - **Plataformas:** Salesforce (em progresso)
 - **Outros:** Python, APIs REST, Git/GitHub
-- **Idiomas:** Português (nativo), Inglês (avançado)
+
