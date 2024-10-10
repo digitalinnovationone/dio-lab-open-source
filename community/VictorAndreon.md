@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=29&duration=3000&pause=3000&color=F7F7F7&background=36BCF700&center=true&repeat=false&width=520&lines=Seja+bem-vindo(a)+ao+meu+Perfil!)](https://git.io/typing-svg) Victor Andreon
 
 
-Olá! Me chamo Victor, Sou um jovem interessado e aspirante a programador.   
+Olá!! Me chamo Victor, Sou um jovem interessado e aspirante a programador.   
 Atualmente estou cursando o meu Terceiro Semestre de Engenharia da Computação na UNISINOS.
 
 
