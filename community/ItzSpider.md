@@ -4,6 +4,5 @@
 
 ![ItzSpider's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzSpider&show_icons-true&theme-navy_blue)
 
-🚀 **Projetos**
+**Mais informações sobre mim estão no link a seguir: https://github.com/ItzSpider**
 
-[![Speech2Learning](https://github-readme-stats.vercel.app/api/pin/?username=falvojr&repo=speech2learning)](https://github.com/falvojr/speech2learning)
