@@ -1,4 +1,5 @@
 # Marcos Santos
+Sou uma pessoa simples que está tentando aprender a programar por este motivo o perfil é simples e com poucas ou quase nenhuma habilidade!
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcos-santos-13a0a197)
 ## Habilidades
