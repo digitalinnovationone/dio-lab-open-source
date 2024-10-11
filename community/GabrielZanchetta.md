@@ -1,3 +1,3 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou GabrielZanchetta 👋
 
 Estou começando no mundo da tecnologia, futuro desenvolvedor full stack.
