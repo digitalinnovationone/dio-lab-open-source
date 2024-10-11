@@ -3,7 +3,7 @@
 # Petterson Oliveira 👋
 
 <div style="display:flex; width: 100%; justify-content: flex-start; align-items: center;">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=ffffff&lines=Olá,+bem-vindo+ao+meu+perfil!;Desenvolvedor+Front-End+%26+Tecnico+de+TI💻" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=ffffff&lines=Olá,+bem-vindo+ao+meu+perfil!;Desenvolvedor+Front-End+%26+Tecnico+de+TI" alt="Typing SVG">
 </div>
 
 ---
