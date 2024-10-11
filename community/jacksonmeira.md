@@ -6,7 +6,7 @@
 
 
  <h2>Sobre mim</h2> 
-Sou estudante do curso Análise e Desenvolvimento de Sistemas e meu maior objeto é se tornar um desenvolvedor Full-Stack.
+Sou estudante do curso Análise e Desenvolvimento de Sistemas e meu maior objetivo é me tornar um desenvolvedor Full-Stack.
 
 
 <h2>Habilidades</h2>
