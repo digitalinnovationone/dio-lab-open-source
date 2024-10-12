@@ -58,5 +58,4 @@
 <hr/>
 
 <img align = 'left' src="https://github-readme-stats.vercel.app/api?username=eriquinhos&show_icons=true&theme=midnight-purple" width='45%'/>
-<img align = 'right' src="https://github-readme-streak-stats.herokuapp.com/?user=eriquinhos&theme=midnight-purple"  width='50%' /> 
-git 
+<img align = 'right' src="https://github-readme-streak-stats.herokuapp.com/?user=eriquinhos&theme=midnight-purple"  width='50%' />
