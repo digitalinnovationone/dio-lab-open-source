@@ -1,15 +1,15 @@
-# New Beginning!
+# Olá, eu sou o dlucas027 👋
 
-My name is Matheus de Lucas Arouca, I'm 24 years old, and I'm in the process of career migration. I'm currently doing an internship in computer networks where I don't use tools like Git and GitHub frequently, but I'm learning to use them more as I intend to trabalhar na área de desenvolvimento.
+## Sobre mim
+- Sou estudante de Análise e Desenvolvimento de Sistemas.
+- Tenho 24 anos.
+- Faço estágio em Redes de Computadores dentro da equipe de NOC em uma empresa provedora de internet.
+- Quero aprender mais sobre desenvolvimento web.
 
-## A Thank You!
-I want to thank DIO and all the teachers present at this bootcamp. Thank you very much for making this content available for free.
-
-## My Skills:
-- I'm currently working on improving my skills in web development, particularly with HTML, CSS, and JavaScript.
-
-## Meet Me Here!
-- [Meu Portfólio](https://github.com/dlucas027)
-- [Email](https://mail.google.com/mail/u/1/#inbox)
+## Contatos
+- [LinkedIn](https://www.linkedin.com/in/delucas027/)
 - [Instagram](https://www.instagram.com/dlucasz027?igsh=OXQyZDQwd2E1ZWJ0)
-- [LinkedIn](https://www.linkedin.com/in/matheus-de-lucas-arouca-9ab53a273/)
+
+## Agradecimentos
+Quero agradecer aos professores da DIO e à própria DIO por possibilitar esse bootcamp de forma gratuita.
+
