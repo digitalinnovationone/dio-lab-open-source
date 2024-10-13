@@ -29,7 +29,7 @@ Acesse a página principal do repositório e clique no botão "Fork" no canto su
 ### 2) Clone localmente
 Abra o seu Git Bash e digite o comando `git clone` seguido da URL do seu fork para clonar o seu repositório localmente. Por exemplo:
 ```bash
-git clone https://github.com/SEU_USERNAME/dio-lab-open-source.git
+git clone https://github.com/SEU.USERNAME/dio-lab-open-source.git
 ```
 Pressione enter, e uma cópia do seu fork no GitHub será criada localmente.
 
