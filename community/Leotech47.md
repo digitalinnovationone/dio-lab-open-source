@@ -1,4 +1,4 @@
-# Saudações Tech!
+# Saudações High Tech!
 ## Meu nome é Leonardo silva
 Atualmente estou cursando Analise e Desenvolvimento de Sistemas pela Gran Faculdade e pretendo me especializar em cibersegurança com enfase em inteligencia artificial.
 ### 🛠 Principais Tecnologias e Ferramentas
