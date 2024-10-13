@@ -1,22 +1,16 @@
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maycon-lu%C3%ADs-carpes-877283193/) [<img src="https://img.shields.io/github/followers/4lexRossi?label=follow&style=social" height="22" title="Follow me" />](https://github.com/MayconCarpes)
+# 👋 Olá! Eu sou Maycon Carpes
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></code>
+Sou um(a) **desenvolvedor(a)** apaixonado(a) por tecnologia e inovação. Com uma formação em **[Sua Formação]** e experiência em **[Tecnologias ou áreas de atuação]**, busco constantemente aprender e compartilhar conhecimento. 🚀
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=4lexRossi&repo=4lexRossi&countColorcountColor)
-![Visitor Count](https://profile-counter.glitch.me/4lexRossi/count.svg)
-> /\ Se você leu esse contador de visitas e essa msg te peguei no meu jutsu 😄 clica na foto no final da página e conecta no In, ah e me avisa que meu Jutsu funcionou
+---
 
-## 👋 Olá Mundo!
-<table>
-    <tr align="row">
-        <td>
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=4lexRossi&show_icons=true&theme=tokyonight" />
-        </td>    
-        <td>
-            <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lexRossi&layout=compact&show_icons=true&theme=tokyonight" />
-        </td>
-    </tr>
-</table>
-    
+## 🛠️ Tecnologias e Ferramentas
 
+### Linguagens
 
+```plaintext
+[![Java](https://img.shields.io/badge/Java-%23E34F26.svg?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![SQL](https://img.shields.io/badge/SQL-%234F5B93.svg?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
