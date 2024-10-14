@@ -89,6 +89,39 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 | `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
 
 
+## Descrição mais detalhada dos commits:
+
+- feat (Feature):
+Descrição: Utilizado para adicionar uma nova funcionalidade ao projeto.
+Exemplo: feat: add user login functionality
+Detalhe: Este tipo de commit é usado quando você está introduzindo algo novo que não existia antes, como uma nova página, um novo componente ou uma nova API.
+
+- fix (Bug Fix):
+Descrição: Utilizado para corrigir um bug ou problema no projeto.
+Exemplo: fix: resolve login issue
+Detalhe: Este commit é usado para resolver problemas que estavam causando falhas ou comportamentos indesejados no sistema. Pode incluir correções de erros de lógica, problemas de desempenho, entre outros.
+
+- docs (Documentation):
+Descrição: Utilizado para alterações na documentação do projeto.
+Exemplo: docs: update API usage in README
+Detalhe: Este tipo de commit é usado para mudanças que afetam apenas a documentação, como README, arquivos de ajuda, ou comentários no código que explicam como usar uma função ou módulo.
+
+- style (Styling):
+Descrição: Utilizado para mudanças de formatação que não afetam a funcionalidade do código.
+Exemplo: style: format code with prettier
+Detalhe: Este commit é usado para alterações que dizem respeito apenas à aparência do código, como ajustes de indentação, remoção de espaços em branco, ou mudanças no estilo de código para seguir uma convenção específica.
+
+- refactor (Refactoring):
+Descrição: Utilizado para mudanças no código que não alteram a funcionalidade externa.
+Exemplo: refactor: simplify login logic
+Detalhe: Este tipo de commit é usado quando você está melhorando a estrutura interna do código sem alterar seu comportamento externo. Pode incluir a reorganização de código, renomeação de variáveis, ou a extração de métodos para melhorar a legibilidade e manutenção.
+
+- test (Testing):
+Descrição: Utilizado para adicionar ou modificar testes no projeto.
+Exemplo: test: add unit tests for login service
+Detalhe: Este commit é usado para qualquer coisa relacionada a testes, como a criação de novos testes, a correção de testes existentes, ou a melhoria da cobertura de testes.
+
+
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
 - [CONVENTIONAL COMMITS. Summary](https://www.conventionalcommits.org/en/v1.0.0/)
