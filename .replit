@@ -1,0 +1,2 @@
+[nix]
+channel = "stable-24_05"
