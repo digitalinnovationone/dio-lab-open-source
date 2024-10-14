@@ -1,4 +1,4 @@
-# Rafael Suzuki
+# Rafael-Suzuki
 
 Sou chefe da Divisão de Planejamento e responsável pela TI no Departamento Municipal de Águas e Esgotos, com experiência em planejamento estratégico, gestão de projetos e infraestrutura tecnológica. Atualmente, estou desenvolvendo um sistema de monitoramento de fornecimento de água com foco em mapas interativos. Com formação em Engenharia da Computação, busco aplicar soluções tecnológicas inovadoras para otimizar processos e melhorar a eficiência dos serviços públicos.
 
