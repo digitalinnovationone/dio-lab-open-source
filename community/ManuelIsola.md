@@ -18,7 +18,7 @@
 ---
 
 ### 👋 Sobre Mim
-Sou um desenvolvedor com 3 anos de experiência em **Programação Web**, **Desenvolvimento Desktop** e outras tecnologias. Tenho paixão por resolver problemas complexos e criar soluções eficientes que agreguem valor aos negócios e usuários. Estou sempre buscando aprimorar minhas habilidades e explorar novas tendências tecnológicas.
+Sou um desenvolvedor com 2 anos de experiência em **Programação Web**, **Desenvolvimento Desktop** e outras tecnologias. Tenho paixão por resolver problemas complexos e criar soluções eficientes que agreguem valor aos negócios e usuários. Estou sempre buscando aprimorar minhas habilidades e explorar novas tendências tecnológicas.
 
 ---
 
