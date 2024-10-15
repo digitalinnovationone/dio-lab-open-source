@@ -1,9 +1,9 @@
 
 ## Olá Pessoal!!!, Eu sou Elizeth de Paiva. 
 
-Sou Analista de Sistemas de Informação
+Sou Analista de Sistemas de Informação.
 
-Especialista na área de Saúde 
+Especialista na área de Saúde.
 
 
 ## Conecte-se Comigo
