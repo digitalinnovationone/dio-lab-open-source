@@ -3,8 +3,9 @@
 
 Sou Analista de Sistemas de Informação.
 
-Especialista na área de Saúde.
+Especialista na área de Saúde. 
 
+Analista de Projetos.
 
 ## Conecte-se Comigo
 
