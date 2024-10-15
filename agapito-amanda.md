@@ -1,5 +1,5 @@
 # Olá, meu nome é Amanda!
-Sou graduanda de Análise e desenvolvimento de Sistemas, e estou na caminhada para aprofundar meu conhecimento em Python, que é a uma das minhas paixões dentro do mundo de TI. 
+Sou graduanda de Análise e desenvolvimento de Sistemas, e estou na caminhada para aprofundar meu conhecimento em Python, que é a uma das minhas paixões dentro do mundo Tech. 
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-agapito-90810a272/)
