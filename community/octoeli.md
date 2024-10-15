@@ -1,4 +1,4 @@
-# Olá meu nome e Thiago e tenho 28 anos. Estou fazendo fazendo faculdade. Conecte-se comigo para me conhecer melhor
+# Olá meu nome e Thiago e tenho 28 anos. Estou fazendo fazendo faculdade. Conecte-se comigo para me conhecer melhor!
 
 ## Conecte-se comigo
 
