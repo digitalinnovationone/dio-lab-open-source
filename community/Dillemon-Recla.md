@@ -13,7 +13,7 @@ Vivo tentado construir um sonho.
 ### Onde sou mais ativo
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dillemon_recla/)
-[![threads](https://img.shields.io/badge/threads-010101?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@dillemon_recla)
+[![threads](https://img.shields.io/badge/threads-010101?style=for-the-badge&logo=threads&logoColor=white)](https://github.com/Dillemon-Recla)
 
 
 ##
