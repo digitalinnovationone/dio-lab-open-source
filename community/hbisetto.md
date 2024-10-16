@@ -7,7 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 🚀 Sobre mim
-Meu nome é Henrique Bisetto, tenho 35 anos e estou migrando para a área detecnologia.
+Meu nome é Henrique Bisetto, tenho 35 anos e estou migrando para a área de tecnologia.
 
 ## 🛠 Habilidades
 Python, Linux, GIT e OOP.
