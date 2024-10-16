@@ -1,5 +1,5 @@
-# Necilia
- Olá, sou Karen Necilia! estou embarcando na jornada de desenvolvimento web. Minhas principais áreas de interesse são HTML, CSS e JavaScript, e estou ansiosa para construir projetos que façam a diferença.
+# Necilia 🤘🏻
+ Olá, sou Karen Necilia! Estou embarcando na jornada de desenvolvimento web. Minhas principais áreas de interesse são HTML, CSS e JavaScript, e estou ansiosa para construir projetos que façam a diferença. 👩🏻‍💻🚀
 
 ## Conecte-se comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/karen-necilia-0b8861313/)
