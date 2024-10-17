@@ -6,17 +6,15 @@
 
 Sou um entusiasta de tecnologia apaixonado por programação e desenvolvimento de soluções inovadoras. Sempre em busca de novos desafios e aprendizados.
 
-- 🌱 Atualmente estou aprendendo **[Computação em Nuvem]**
-- 💬 Pergunte-me sobre **[Agilidade e entrega de valor]**
+- 🌱 Atualmente estou estudando **[Azure - Computação em nuvem]**
+- 💬 Pergunte-me sobre **[Programação]**
 - 😄 Pronomes: ele/dele
 
 
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/seu-usuario)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:seu-email@example.com)
+[![LinkedIn](https://www.linkedin.com/in/euclisiomendes)
 
 
 ## 🎯 Objetivos
@@ -25,4 +23,3 @@ Sou um entusiasta de tecnologia apaixonado por programação e desenvolvimento d
 - Aprender novas tecnologias e linguagens de programação.
 - Colaborar com desenvolvedores do mundo todo.
 
----
