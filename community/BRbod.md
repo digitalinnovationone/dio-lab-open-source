@@ -43,7 +43,7 @@ Tenho trabalhado em projetos variados e cada um deles me ajudou a aprimorar minh
 
 <div align="center">
 
-## Habilidades - Acadêmico/Profissional/Pessoal
+## Conhecimentos e Curiosidades
 
 <br>
 
@@ -74,7 +74,7 @@ Tenho trabalhado em projetos variados e cada um deles me ajudou a aprimorar minh
 <strong>Bibliotecas e Frameworks</strong>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/nodejs-6DA55F?&logo=nodejs&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node%2Ejs-6DA55F?&logo=nodejs&logoColor=white) 
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?logo=yarn&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?logo=bootstrap&labelColor=0D1117) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white) 
@@ -129,7 +129,7 @@ Tenho trabalhado em projetos variados e cada um deles me ajudou a aprimorar minh
 
 <strong>IDE's</strong>
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?slogo=visual-studio-code&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?slogo=visual-studio-code&logoColor=white) 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green) 
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white) 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white) 
