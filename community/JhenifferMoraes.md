@@ -31,7 +31,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-2d2d2d?style=for-the-badge&logo=github&logoColor=a23cdd&color:FFF)
 
 
-<h3 align="center">Conecte-se comigo::</h3>
+<h3 align="center">Conecte-se comigo:</h3>
 
 [![linkedin](https://img.shields.io/badge/linkedin-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=a23cdd&color:FFF)](https://www.linkedin.com/in/jheniffer-moraes/)
 [![GitHub](https://img.shields.io/badge/GitHub-2d2d2d?style=for-the-badge&logo=github&logoColor=a23cdd&color:FFF)](https://github.com/JhenifferMoraes)
