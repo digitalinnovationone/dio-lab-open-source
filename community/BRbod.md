@@ -44,6 +44,7 @@ Tenho trabalhado em projetos variados e cada um deles me ajudou a aprimorar minh
 <div align="center">
 
 ## Conhecimentos e Curiosidades
+
 <br>
 
 <strong>Sistemas Operacionais</strong>
@@ -77,6 +78,8 @@ Tenho trabalhado em projetos variados e cada um deles me ajudou a aprimorar minh
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?logo=yarn&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?logo=bootstrap&labelColor=0D1117) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=fff) 
+![Scrum](https://img.shields.io/badge/SCRUM-yellow) 
 
 <strong>Bancos de Dados</strong>
 
@@ -109,7 +112,6 @@ Tenho trabalhado em projetos variados e cada um deles me ajudou a aprimorar minh
 ![GitHub](https://img.shields.io/badge/github-101010.svg?logo=github&logoColor=white) 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?logo=cisco&logoColor=black) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white) 
-![Scrum](https://img.shields.io/badge/SCRUM-yellow) 
 
 <strong>Inteligências Artificiais</strong>
 
@@ -127,7 +129,7 @@ Tenho trabalhado em projetos variados e cada um deles me ajudou a aprimorar minh
 
 <strong>IDE's</strong>
 
-![Visual_Studio_Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?slogo=visual-studio-code&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?slogo=visual-studio-code&logoColor=white) 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green) 
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white) 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white) 
