@@ -14,7 +14,7 @@ Sou um entusiasta de tecnologia apaixonado por programação e desenvolvimento d
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn] **[https://www.linkedin.com/in/euclisiomendes]**
+[[LinkedIn] **[https://www.linkedin.com/in/euclisiomendes]**
 
 ## 🎯 Objetivos
 
