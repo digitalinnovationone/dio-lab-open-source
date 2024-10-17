@@ -6,15 +6,16 @@
 
 Sou um entusiasta de tecnologia apaixonado por programação e desenvolvimento de soluções inovadoras. Sempre em busca de novos desafios e aprendizados.
 
-- 🌱 Atualmente estou aprendendo **[Azure]**
-- 💬 Pergunte-me sobre **[Desenvolvimento]**
+- 🌱 Atualmente estou estudando **[Azure - Computação em nuvem]**
+- 💬 Pergunte-me sobre **[Programação]**
 - 😄 Pronomes: ele/dele
 
 
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn]
+[![LinkedIn](https://www.linkedin.com/in/euclisiomendes)
+
 
 ## 🎯 Objetivos
 
