@@ -3,7 +3,7 @@
 ## Sobre mim 
 
 Atualmente sou estudante de Desenvolvimento de Sistemas apaixonado pelo fasto mundo da programação. Quero seguir na carreira e me especializar em front-end.
-Hoje estou trabalhando no desenvolvimento de um aplicativo para auxiliar deficientes. visuais
+Hoje estou trabalhando no desenvolvimento de um aplicativo para auxiliar deficientes visuais.
 
 ## Habilidades
 
