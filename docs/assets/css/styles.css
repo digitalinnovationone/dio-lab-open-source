@@ -245,7 +245,6 @@ main, section {
     border: .125rem solid var(--secondary-color);
     border-radius: .35rem 0 0 .35rem;
     padding: .5rem 1.5rem;
-    cursor: pointer; 
 }
 
 #searchInput:focus {
