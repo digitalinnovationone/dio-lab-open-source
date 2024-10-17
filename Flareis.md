@@ -19,16 +19,16 @@ usando: HTML, CSS, React e System Design interno
 
 ### 📊 Estatísticas no GitHub
 
-![Flareis's GitHub stats](https://github-readme-stats.vercel.app/api?usernameFlareis&show_icons=true&theme=dracula)
+![Flareis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flareis&show_icons=true&theme=dracula)
 
 ### 📌 Projetos em Destaque
 
-[![Finnance Application](https://github-readme-stats.vercel.app/api/pin/?usernameFlareis&repo=finance-application)](https://github.com/Flareis/finance-application)
+[![Finnance Application](https://github-readme-stats.vercel.app/api/pin/?username=Flareis&repo=finance-application)](https://github.com/Flareis/finance-application)
 
 
 ### 🚀 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernameFlareis&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flareis&layout=compact)
 
 ## Habilidades
 
