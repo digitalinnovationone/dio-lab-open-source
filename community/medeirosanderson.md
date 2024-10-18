@@ -23,6 +23,7 @@ Estou sempre em busca de novos desafios e sempre disposto a aprender novas tecno
 ### __Github__ ###
 
 [![GitHub](https://img.shields.io/badge/GitHub-purple?style=for-the-badge&logo=github&logoColor=white)](https://github.com/medeirosanderson)
+
 ![medeirosanderson's Streak](https://github-readme-streak-stats.herokuapp.com/?user=medeirosanderson&theme=radical&hide_border=false)
 
 
