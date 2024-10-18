@@ -1,5 +1,7 @@
 # Rafael Ferreira
 
+Sou um amigo e parceiro para todas as horas!
+
 ## Conte comigo!
 
 ## Redes
