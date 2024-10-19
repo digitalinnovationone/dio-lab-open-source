@@ -1,4 +1,7 @@
-# Importância de Estudar Git e GitHub
+# Olá, me chamo Mayron
+
+
+## Irei falar sobre a importância de Estudar Git e GitHub
 
 Git e GitHub são ferramentas fundamentais para o desenvolvimento de software moderno. Independentemente se você está apenas começando na programação ou se já é um desenvolvedor experiente, entender e dominar essas tecnologias pode transformar a forma como você gerencia projetos e colabora com outros desenvolvedores.
 
