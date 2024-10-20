@@ -4,7 +4,7 @@
 </h2>
 
 <div align="center"> 
-  <img src="../docs/assets/dio_campus.png"  style="height:20em; width:100em;" /> 
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGGzFJkCT_BWA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722899750346?e=1735171200&v=beta&t=Ce8yXAGJTvK-b7I8IAyWIDNo22KfYzz6HWlhjzM-OGQ"  style="height:20em; width:100em;" /> 
 </div>
 
 <p align="center">
