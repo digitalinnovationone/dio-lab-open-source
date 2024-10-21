@@ -12,59 +12,8 @@
 
 <h2 style="color: white;">Habilidades</h2>
 
-**HTML** 
-<div style="background-color: #000000; border: 1px solid #FFFFFF; border-radius: 5px; width: 100%;">
-  <div style="background-color: #FFFFFF; width: 40%; height: 20px; border-radius: 5px;"></div>
-</div>
-<!-- 40% -->
-
-**CSS** 
-<div style="background-color: #000000; border: 1px solid #FFFFFF; border-radius: 5px; width: 100%;">
-  <div style="background-color: #FFFFFF; width: 40%; height: 20px; border-radius: 5px;"></div>
-</div>
-<!-- 40% -->
-
-**JavaScript** 
-<div style="background-color: #000000; border: 1px solid #FFFFFF; border-radius: 5px; width: 100%;">
-  <div style="background-color: #FFFFFF; width: 30%; height: 20px; border-radius: 5px;"></div>
-</div>
-<!-- 30% -->
-
-**Python** 
-<div style="background-color: #000000; border: 1px solid #FFFFFF; border-radius: 5px; width: 100%;">
-  <div style="background-color: #FFFFFF; width: 50%; height: 20px; border-radius: 5px;"></div>
-</div>
-<!-- 50% -->
-
-**Django** 
-<div style="background-color: #000000; border: 1px solid #FFFFFF; border-radius: 5px; width: 100%;">
-  <div style="background-color: #FFFFFF; width: 50%; height: 20px; border-radius: 5px;"></div>
-</div>
-<!-- 50% -->
-
-**SQL** 
-<div style="background-color: #000000; border: 1px solid #FFFFFF; border-radius: 5px; width: 100%;">
-  <div style="background-color: #FFFFFF; width: 30%; height: 20px; border-radius: 5px;"></div>
-</div>
-<!-- 30% -->
-
-**Git** 
-<div style="background-color: #000000; border: 1px solid #FFFFFF; border-radius: 5px; width: 100%;">
-  <div style="background-color: #FFFFFF; width: 70%; height: 20px; border-radius: 5px;"></div>
-</div>
-<!-- 70% -->
-
-**GitHub** 
-<div style="background-color: #000000; border: 1px solid #FFFFFF; border-radius: 5px; width: 100%;">
-  <div style="background-color: #FFFFFF; width: 70%; height: 20px; border-radius: 5px;"></div>
-</div>
-<!-- 70% -->
-
-**APIs REST** 
-<div style="background-color: #000000; border: 1px solid #FFFFFF; border-radius: 5px; width: 100%;">
-  <div style="background-color: #FFFFFF; width: 20%; height: 20px; border-radius: 5px;"></div>
-</div>
-<!-- 20% -->
+![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white)
 
 
 <h2 style="color: white;">GitHub Stats</h2>
