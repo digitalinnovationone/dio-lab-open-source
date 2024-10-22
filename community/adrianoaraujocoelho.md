@@ -34,8 +34,3 @@ sou apaixonado por Tecnologia da Informação, com ampla experiência no gerenci
 <img height="26" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> &nbsp;
 
 <hr>
-
-#### Contato ⤵️
-
-[![Gmail Badge](https://img.shields.io/badge/GMAIL-%23DC322F.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrianosolid@gmail.com)&nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-ara%C3%BAjo-co%C3%AAlho-a9020547/)
