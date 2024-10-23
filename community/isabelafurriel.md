@@ -1,6 +1,6 @@
 ### Olá, sou a isabela!💕
 
-- 🔭 Tenho 22 anos, formei 2024 em Análise e Desenvolvimento de sistema, já tive contato com linguagens como java e PHP no período que cursei a graduação, estudo nos tempos vagos python atualmente;
+- 🔭 Tenho 22 anos, formei 2024 em Análise e Desenvolvimento de Sistema, já tive contato com linguagens como java e PHP no período que cursei a graduação, estudo nos tempos vagos python atualmente;
 - Estou motivada a apreender novas atividades. Já tive contato com a parte de infra no meu antigo estágio de TI e estou em busca de novas oportunidades;
 
 ### Formação:
