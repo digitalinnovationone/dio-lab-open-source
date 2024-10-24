@@ -97,9 +97,6 @@ Sou desenvolvedor web e designer gráfico com paixão por criar soluções inter
 
 ## Projetos
 - [Site de Treino] (https://github.com/rateryyz/site) – Um site interativo para personal trainers e academias que ainda está em desenvolvimento
-- .
-## Como contribuir
-Se você quiser colaborar, sinta-se à vontade para enviar pull requests ou abrir uma issue. Feedbacks são sempre bem-vindos!
 
 ## Contato
 - [LinkedIn] (https://www.linkedin.com/in/marcus-vinicius-moreira-front-end/)
