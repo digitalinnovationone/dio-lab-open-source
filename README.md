@@ -81,23 +81,15 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 
  Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição além do seu exemplo de Profile README, é inserir outros utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils), ou melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/docs). <br>
  Além disso, você também pode contribuir:
+ 
+⚠️ Resolvendo, respondendo ou indicando **issues**
 
-# Minha contribuição!
+⭐ Adicionando aos favoritos (**star**) 
 
-# Olá, sou o Marcus! 👋
+### Membros da comunidade que já contribuiram:
+<a href="https://github.com/digitalinnovationone/dio-lab-open-source/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=digitalinnovationone/dio-lab-open-source"/>
+</a>
 
-## Sobre mim
-Sou desenvolvedor web e designer gráfico com paixão por criar soluções interativas e eficientes. Atualmente, estou focado em melhorar minhas habilidades em front-end e design minimalista.
-
-## Habilidades
-- **Linguagens**: HTML, CSS, JavaScript, Python
-- **Ferramentas**: Adobe Photoshop, Illustrator, Figma
-- **Metodologias**: Scrum, Kanban
-- **Outros**: Git, GitHub, Flask
-
-## Projetos
-- [Site de Treino] (https://github.com/rateryyz/site) – Um site interativo para personal trainers e academias que ainda está em desenvolvimento
-
-## Contato
-- [LinkedIn] (https://www.linkedin.com/in/marcus-vinicius-moreira-front-end/)
-- [GitHub] (https://github.com/rateryyz)
+##
+<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
