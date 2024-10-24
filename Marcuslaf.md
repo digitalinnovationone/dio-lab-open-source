@@ -1,5 +1,5 @@
 
-# Marcus Lafaiete - Desenvolvedor Full Stack Jr
+# Marcus Lafaiete (Marcuslaf) - Desenvolvedor Full Stack Jr
 
 Bem-vindo ao meu perfil de desenvolvimento! Meu nome é Marcus Lafaiete e sou Desenvolvedor Full Stack Jr, com experiência em HTML, CSS, JavaScript, e estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades. 
 
