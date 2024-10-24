@@ -1,0 +1,6 @@
+## Douglas Rocha
+<p align="justify">Cursando Análise e Desenvolvimento de Sistemas pela Unicesumar, estou atualmente em transição de carreira, alinhando minha paixão por tecnologia com minha experiência prática. Trabalho na gestão de compras e estoque em uma empresa do setor de A&B, onde tive a oportunidade de implementar soluções em Power BI, estudando de forma autônoma e aplicando esse conhecimento para otimizar a tomada de decisões. Desenvolvo dashboards e KPIs, gerando insights estratégicos sobre vendas, estoque e desempenho financeiro. Embora minha experiência seja focada em análise de dados, tenho grande interesse em explorar o desenvolvimento back-end e aprofundar meus conhecimentos nessa área.</p>
+
+---
+### Habilidades
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
