@@ -22,8 +22,9 @@ Diagnóstico, tratamento, cirurgia, gestão de clínicas.
 Gosto de resolver problemas e de um desafio, tenho habilidades em gerir equipes muito isso devido a 16 anos gerindo minha clinica veterinária. Sou muito comunicativo e prestativo.
 
 * **Sistemas Opreacionais:**
+  
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)  | ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-----------| -----
+----- | -----
 
 🧠 Estou aprendendo...
 
