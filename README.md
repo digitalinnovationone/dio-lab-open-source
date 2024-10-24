@@ -74,6 +74,24 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 
 ---
 
+### Padrão de commit 
+
+| tag      | descrição                                                                                                     |
+| -------- | ------------------------------------------------------------------------------------------------------------- |
+| test     | indica qualquer tipo de criação ou modificação de códigos de teste                                           |
+| feat     | indica o desenvolvimento de uma nova funcionalidade para o projeto                                           |
+| refactor | usado quando há uma refatoração de código que não tem impacto na lógica/regras de negócio do sistema          |
+| style    | utilizado quando há mudanças de formatação e estilo no código que não alteram o sistema de forma alguma      |
+| fix      | usado para corrigir erros que estão causando bugs no sistema                                                 |
+| chore    | indica mudanças no projeto que não afetam os arquivos do sistema ou de teste. Essas são mudanças de desenvolvimento |
+| docs     | usado quando há alterações na documentação do projeto                                                        |
+| build    | usado para indicar mudanças que afetam o processo de construção do projeto ou dependências externas            |
+| perf     | indica uma alteração que melhorou o desempenho do sistema                                                    |
+| ci       | usado para alterações nos arquivos de configuração do CI                                                      |
+| revert   | indica a reversão de um commit anterior                                                                      |
+
+
+
 ## Contribua
 [![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/stargazers)
 [![Forks](https://img.shields.io/github/forks/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/forks)
