@@ -2,7 +2,7 @@
 <h3>Eu sou Eduardo. Seja bem-vindo ao meu perfil GitHub.</h3>
 
 - 📌 Sou de Mutuípe/Ba, Brasil.
-- 🪐 Apaixonado por Futebol e Tecnologia. 
+- 🪐 Apaixonado por Tecnologia e Futebol. 
 - 🎓 Graduando de **Sistemas de Informação** na UESB.
 - 🧠 Quem dorme sonha, quem vive realiza. 
 
