@@ -1,15 +1,14 @@
 <div align="center" color="000">
   <h1>Welcome to my profile</h1>
 </div>
-<img src="perfil.png" alt="Meu Perfil" width="700" height="200"> 
+
+![perfil](https://github.com/TiagoFerreirago/arqwork/blob/main/D%C3%A1%20uma%20olhada%20no%20design%20que%20eu%20fiz%20no%20Canva!.png)
+
 <div align = "center">
-<a href="https://www.linkedin.com/in/tiagoferreira97" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/FFFFFF" alt="LinkedIn" width="30" height="30">
-</a>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagoferreira97/)
 &nbsp; &nbsp;
-<a href="mailto:thdejesusferreira@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="30" height="30">
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:SEUGMAIL)
 </div>
 
 
@@ -21,59 +20,32 @@ Estou sempre aberto a novos desafios e colaborações e ansioso para contribuir 
 
 ## Tecnologias
 
-<a href="https://www.java.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30">
-</a>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30">
-</a>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 &nbsp;
-<a href="https://www.python.org" target="_blank">
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="30" height="30">
-</a>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30">
-</a>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30">
-</a>
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 &nbsp;
-<a href="https://spring.io/projects/spring-boot" target="_blank">
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" alt="Spring Boot" width="30" height="30">
-</a>
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 &nbsp;
-<a href="https://junit.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-plain.svg" alt="JUnit" width="30" height="30">
-</a>
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 &nbsp;
-<a href="https://www.json.org" target="_blank">
-  <img src="https://cdn.simpleicons.org/json/00BFFF" alt="JSON" width="30" height="30">
-</a>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 &nbsp;
-<a href="https://icons8.com.br/icons/set/scrum" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="Mysql" width="30" height="30">
-</a>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 &nbsp;
-<a href="https://icons8.com.br/icons/set/scrum" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="Postgresql" width="30" height="30">
-</a>
+[![Scrum](https://img.shields.io/badge/Scrum-FFCA28?style=flat-square&logo=github&logoColor=black)](https://www.scrum.org)
 &nbsp;
-<a href="https://www.mongodb.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30">
-</a>
+[![Kanban](https://img.shields.io/badge/Kanban-5BBFBA?style=flat-square&logo=github&logoColor=black)](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban)
+[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit&logoColor=white)](https://junit.org)
 &nbsp;
-<a href="https://icons8.com.br/icons/set/scrum" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=laMQmJgsmwsL&format=png&color=000000" alt="Scrum" width="30" height="30">
-</a>
-&nbsp;
-<a href="https://icons8.com.br/icons/set/scrum" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=rGWvD4kg7bXd&format=png&color=000000" alt="Kanban" width="30" height="30">
-</a>
+[![HATEOAS](https://img.shields.io/badge/HATEOAS-0078D7?style=flat-square&logo=api&logoColor=white)](https://en.wikipedia.org/wiki/HATEOAS)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TiagoFerreirago&layout=compact&bg_color=000&border_color=FF7F50&title_color=FF7F50&text_color=FFF&hide_title=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TiagoFerreirago&layout=compact&bg_color=000&border_color=0&title_color=FF7F50&text_color=FFF)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TiagoFerreirago&theme=transparent&bg_color=000&border_color=ffffff&show_icons=true&icon_color=FF7F50&title_color=FF7F50&text_color=FFF&hide_title=true)
 
 ## Principais Projetos
