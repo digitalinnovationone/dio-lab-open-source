@@ -4,9 +4,9 @@ Olá! Seja muito bem vindo ao meu GitHub pessoal, me chamo Lucca, tenho 21 anos 
 
 ### Conecte-se comigo
 
-[![Album Atual](https://img.shields.io/badge/Atualmente_Escutando-000?style=for-the-badge&logo=spotify)](https://web.dio.me/users/SEUUSERNAME/)
-[![E-mail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:luccalimoeiro.ltr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/lucca-limoeiro-13b30b231/)
+[![Album Atual](https://img.shields.io/badge/Atualmente_Escutando-000?style=for-the-badge&logo=spotify)]()
+[![E-mail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)]()
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)]()
 
 ### Habilidades
 
