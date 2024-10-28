@@ -14,7 +14,7 @@ Olá! Eu sou Emanuel e estou aprendendo a como programar!
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmanuelNetin&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=&text_color=FFF&hide_title=true&hide=stars)
 
 ## Minhas Conquistas
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelNetin&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=&text_color=FFF)](https://github.com/EmanuelNetin/)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelNetin&repo=Oringin6&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=&text_color=FFF)](https://github.com/EmanuelNetin/)
 
 
 
