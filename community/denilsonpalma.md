@@ -19,7 +19,7 @@ Já atuei com tecnologia em indústria, varejo e provedor de internet - mais inf
 
 
 ## Estatísticas de perfil
-### Ponta do Ice berg
+### Ponta do Iceberg
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=denilsonpalma&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
