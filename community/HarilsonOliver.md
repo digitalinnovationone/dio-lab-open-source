@@ -1,7 +1,6 @@
 
 <h2>Conecte-se comigo</h2>
 <div align="center">
-
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harilsonpires/)
   [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=fffff)](https://github.com/HarilsonOliver)
   [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/harilsonpires)
