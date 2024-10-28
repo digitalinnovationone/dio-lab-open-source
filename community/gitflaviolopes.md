@@ -1,6 +1,6 @@
 # Flávio Euzébio Lopes da Silva
 
-Olá, sou o João, tenho 38 anos, forma do em Analise de Sistemas pela universidade UNIBAN, atualmente moro em São Paulo.
+Olá, sou o Flávio, tenho 39 anos, formado em Analise de Sistemas pela universidade UNIBAN, atualmente moro em São Paulo.
 
 Minha paixão pela tecnologia teve início em 2001, quando tive meu primeiro contato com computadores. Desde então, venho aprimorando meus conhecimentos nessa área, atualmente atuo na área como engenheiro de software numa grande empresa do ramo financeiro e pretendo fazer transição de carreira para área de dados.
 
