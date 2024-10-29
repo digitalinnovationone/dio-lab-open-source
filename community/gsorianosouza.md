@@ -1,4 +1,4 @@
-# Raoni Soares
+# Gabriel Soriano de Souza
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-soriano-33a42b2b1/)
 ## Habilidades
