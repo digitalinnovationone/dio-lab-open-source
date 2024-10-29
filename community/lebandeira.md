@@ -1,9 +1,12 @@
 
-# Letícia   
+# Letícia M. Bandeira   
 
 # Conecte-se comigo
-	[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lebandeira)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lebandeira)	
 
-Olá!! Eu sou a Letícia Bandeira, estou estudando desenvolvimento de sistemas EAD, e então comecei a estudar mais sobre alguns assuntos. Para mim tudo é novo, então está sendo muito incrível cada etapa que eu consigo vencer!!
-Meus hobbies são fotografia e música.
+Olá!! Eu sou a Letícia Mara Bandeira, estou estudando desenvolvimento de sistemas na ETEC (EAD).
+Já sou formada em Biotecnologia, mas não atuo na área.
+Atualemente sou professora de música e inglês.
+Estou começando na área de Desenvolvimento de sistemas, então estou estudando muito para conseguir evoluir também. 
 
+#### Para mim tudo é novo, então está sendo muito incrível cada etapa que eu consigo vencer!!
