@@ -36,4 +36,4 @@ I have a degree in systems analysis and development from Cruzeiro do Sul Univers
 
 > # GitHub Stats
 >
-> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ademarkumabe)
+> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ademarkumabe)
