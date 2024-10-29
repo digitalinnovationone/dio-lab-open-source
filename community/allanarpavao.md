@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou formada em Análise e Desenvolvimento de Sistemas e possuo habilidades em tecnologia.
+Sou formada em Engenharia Química e estudo linguagens de programação
 
 ## Contato
 
