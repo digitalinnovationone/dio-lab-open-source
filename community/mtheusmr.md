@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por desenvolvimento de softwar
 ## 🚀 Sobre Mim
 - 🌱 Atualmente, estou aprimorando minhas habilidades em **[Html, Css, JavaScript, Git e Git GitHub]**.
 - 💡 Tenho interesse em **[áreas de interesse, Front-end , Web Desener, Desenvolvedor de aplicativos e softwares]**.
-- 📫 Como me encontrar: [ma.theus_95@gmail.com]
+- 📫 Como me encontrar: [ma.theus_123@gmail.com]
 
 ## 🛠️ Tecnologias e Ferramentas
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
