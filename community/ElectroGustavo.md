@@ -1,6 +1,6 @@
 # Jorge Gustavo Santos do Carmo
 
-Geralmente chamado de Gustavo, tenho 16 anos, estudo em uma escola técnica cursando TI, atualmente moro em Belém - PA.
+Geralmente chamado de Gustavo, tenho 16 anos, estudo em uma escola técnica cursando Técnico em Informática, atualmente moro em Belém - PA.
 
 ### Conecte-se comigo
 
