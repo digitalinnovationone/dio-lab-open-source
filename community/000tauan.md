@@ -2,7 +2,7 @@
 <br >
 <img align="left" padding="20px" alt="Foto de perfil de Tauan Gabriel" src="https://media.licdn.com/dms/image/D4D03AQF2tlN2eDoIDA/profile-displayphoto-shrink_200_200/0/1708634943428?e=1714608000&v=beta&t=S6z91VYRSQO3rAXIyFyaToBX42cBf9mW8Ge9aEExL5g">
 <h1> 
-  <a href="https://www.linkedin.com/in/tauangabriel/" style="color: #f00 !important; text-decoration: none; color: inherit;">
+  <a href="https://www.linkedin.com/in/amandeep2011/" style="color: #f00 !important; text-decoration: none; color: inherit;">
     <span>Tauan Gabriel G. Cavalcanti</span>
   </a>
 </h1>
@@ -10,11 +10,10 @@
 #### Software Engineer | Node | Angular | Nest | React | React Native | Node | SQL
 <i>(Paranavaí, PR - Brasil)</i>
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/tokou_cavalcanti)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tauangabriel/)
-[![E-mail](https://img.shields.io/badge/-Email-0077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:tokou_cavalcanti@hotmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+44+997685582)  
-[![GitHub](https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tauan)
+[![Web Site](https://he-is-capturing.netlify.app/)
+[![LinkedIn](https://www.linkedin.com/in/amandeep2011/)
+[![E-mail](nataman001@gmail.com) 
+[![GitHub](https://github.com/ady-31)
 <br />
 <br />
 
@@ -22,32 +21,17 @@
 <i>
 <br />
   
-> Hello! I'm Tauan Gabriel, a passionate software developer with over a decade of experience in the technology field. At 27 years old, I've delved deep into the world of programming, becoming a versatile professional with extensive experience in a variety of technologies and platforms.
+> Hello! I'm Aman, a dedicated data science student currently in my 3rd year of B.Tech, with a deep passion for data-driven insights and innovative problem-solving. At 20 years old, I’ve already dived into various aspects of data science, working with technologies like Python, SQL, machine learning, and data visualization tools.
   
-> My professional journey spans a wide spectrum of challenging projects, from web applications to mobile solutions, working with technologies like Node.js, React, Angular, React Native, Nest.js, Next.js, TypeORM, and more. My expertise includes relational databases such as PostgreSQL and MySQL, as well as query languages like SQL.
+> My academic and project journey has exposed me to a broad range of data science applications—from exploratory data analysis to predictive modeling, working on projects with real-world datasets across diverse domains. My expertise extends to statistical analysis, machine learning algorithms, and visualizations, where I focus on deriving meaningful insights from complex data.
   
-> Over the years, I've had the privilege of contributing to large-scale projects, from information management systems with huge volumes of data to platforms for issuing fiscal documents. My main focus is always on delivering robust and efficient solutions, ensuring customer satisfaction and technical excellence.
+> Over the years, I've collaborated on impactful projects, including analyses of large datasets and model development for data-driven decision-making. My goal is always to build accurate, efficient models and provide actionable insights, ensuring a robust approach to solving data-centric challenges.
   
-> In addition to my technical proficiency, I'm an agile collaborator committed to teamwork. My experience in agile development, combined with dozens of certifications and courses in the field of technology, has empowered me to lead and integrate high-performance teams, ensuring timely and high-quality deliveries.
+> Alongside my technical skills, I’m a team player, experienced in collaborating within agile environments and passionate about continuous learning. I actively pursue certifications and courses to expand my knowledge and stay at the forefront of the data science field.
   
-> I'm constantly seeking new challenges and opportunities to expand my knowledge and skills. If you're looking for a passionate, dedicated, and experienced professional to drive your technology projects forward, I'm here to help. Let's build something amazing together!
+> I am eager to take on new challenges and explore opportunities where I can apply my data science skills to make a positive impact. If you’re looking for an enthusiastic, skilled, and growth-driven individual to bring value to your data projects, let’s connect and create something transformative!
 <br />
 <br />
-</i>
-
-###  Sobre
-<i>
-<br />
-
-> Olá! Eu sou Tauan Gabriel, um apaixonado desenvolvedor de software com mais de uma década de experiência no campo da tecnologia. Com meus 27 anos de idade, mergulhei fundo no mundo da programação, tornando-me um profissional versátil e experiente em uma variedade de tecnologias e plataformas.
-  
-> Minha jornada profissional abrange um vasto espectro de projetos desafiadores, desde aplicativos web até soluções móveis, trabalhando com tecnologias como Node.js, React, Angular, React Native, Nest.js, Next.js, TypeORM e muito mais. Meu domínio inclui bancos de dados relacionais como PostgreSQL e MySQL, bem como linguagens de consulta como SQL.
-  
-> Ao longo dos anos, tive o privilégio de contribuir para projetos de grande escala, desde sistemas de gestão de informações com enormes volumes de dados até plataformas para emissão de documentos fiscais. Meu foco principal é sempre oferecer soluções robustas e eficientes, garantindo a satisfação do cliente e a excelência técnica.
-  
-> Além da minha proficiência técnica, sou um colaborador ágil e comprometido com o trabalho em equipe. Minha experiência em desenvolvimento ágil, combinada com dezenas de certificações e cursos na área de tecnologia, me capacitou a liderar e integrar equipes de alto desempenho, garantindo entregas pontuais e de alta qualidade.
-  
-> Estou constantemente buscando novos desafios e oportunidades para expandir meu conhecimento e habilidades. Se você está em busca de um profissional apaixonado, dedicado e experiente para impulsionar seus projetos de tecnologia, estou aqui para ajudar. Vamos construir algo incrível juntos!
 </i>
 
 
