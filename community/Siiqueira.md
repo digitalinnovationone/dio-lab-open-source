@@ -29,3 +29,7 @@ No final do ano passado nasceu meu primeiro filho, e meio que o mundo deu um rec
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ynvestellan.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/22999996556)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@¹Siiqueira)
+
+## 📊🎖️Estatisticas e indicadores
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Siiqueira&theme=rising-sun&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
