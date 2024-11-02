@@ -1,5 +1,5 @@
 <a href="https://www.dio.me/">
-  <img align="right" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+  <img align="right" height="auto" width="50px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
 
 # Christian William 🐻
 
