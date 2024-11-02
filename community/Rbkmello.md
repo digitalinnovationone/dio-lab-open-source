@@ -1,47 +1,47 @@
+## Olá! 👋 Seja bem-vindo ao meu GitHub
 
-# <span style="color: turquoise;">IURI RANIERI DE OLIVEIRA BATISTA</span>
+Sou **Rebecca**, estudante de **Ciência da Computação**, atualmente aprimorando minhas habilidades em **programação** e **cibersegurança** por meio de cursos focados em tecnologia. 
+ 
+## 👀 Sobre Mim 
+Um breve resumo sobre os meus estudos e o que gosto de fazer no meu tempo livre.
 
-Olá, sou desenvolvedor web full stack em formação pela Rocketseat.
-Atualmente estou no 2º ano da graduação em Análise e desenvolvimento de sistemas pela UNINTER. Fui sócio de uma empresa de manutenção de computadores, quando adolescente, e com 17 anos iniciei minha primeira formação acadêmica, em Direito. Desde o início de 2022 segui transição de carreira, ou seja, de volta a área que mais amo, TI. Primeiro com cursos focados no universo dos OS Linux e Windows e posteriormente, partindo pro web full stack.
+|| Jornada  Acadêmica e Interesses|
+|-------------------------|--------------------------|
+| Estudos |🎓 **Formação**: Bacharel em Direito pela Estácio de Sá (2015/2019) e Segurança Pública pela Universidade Federal Fluminense - UFF (2016/2019).</br> 💻 **Em transição** para Ciência da Computação (GRAN - 2023/2027), com interesse em cibersegurança, análise de dados, IA e desenvolvimento fullstack. </br>📚 Realizando **Cursos** na área de tecnologia para aprimorar conhecimentos em programação e cibersgurança: DIO, Alura, Cisco, Google, SoulCode, entre outros.  <br>🔐 Interesse em **hacking ético** e **desenvolvimento web**. |
+| Hobbies| 📚 Ler livros. <br>📺 Assistir a séries e filmes.<br>🏞️ Viajar e curtir atividades ao ar livre.<br>🎮 Jogar jogos de estratégia e simulação com os amigos.<br>🍳 Experimentar novas receitas na cozinha.<br>🧩 Montar quebra-cabeças desafiadores.<p>🧶 Fazer crochê, criando peças artesanais.<br>🎨 Criar artes no Canva para projetos pessoais.|.
 
-Tem sido um prazer viver esta experiência pela Dio. Instituição fantástica e que venho aprendendo a amar a cada dia.
-Desejo sucesso a todos e <strong><span style="color: turquoise;">Let's coding!</span></strong> 
+## 💬 Conecte-se comigo
 
-## <span style="color: turquoise;">VAMOS NOS CONECTAR</span>
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/rebeccabmello)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=turquoise)](https://www.linkedin.com/in/rebeccabmello)
+[![GitHub Logo](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Rbkmello)
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/iuriranierioliveira)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=turquoise)](https://www.linkedin.com/in/iuri-r-o-batista-266219253)
-[![GitHub Logo](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ranieriiuri)
-
-## <span style="color: turquoise;">MINHAS HABILIDADES </span>
+## 🧠 Habilidades em Desenvolvimento
 
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=30A3DC)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=ubuntu&logoColor=red)
-
-[![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=30A3DC)
-![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss&logoColor=30A3DC)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=purple)](https://docs.github.com/)
+![Kali](https://img.shields.io/badge/Kali-000?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)
+![GoogleCloud](https://img.shields.io/badge/GoogleCloud-000.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=figma)
+![Vscode](https://img.shields.io/badge/Vscode-000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## <span style="color: turquoise;">INFORMAÇÕES SOBRE MEU PERFIL GITHUB</span>
+## 📊 Informações do meu perfil GitHub
+Um resumo das minhas atividades no GitHub. Na aba Informações GitHub, são exibidas as principais estatísticas do meu perfil. Na aba Gráficos, você pode visualizar minhas contribuições ao longo do tempo, bem como as linguagens de programação que mais utilizo.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranieriiuri&theme=prussian&bg_color=056&border_color=30A3DC&show_icons=true&text_color=fff&hide_title=true&hide=stars)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ranieriiuri&layout=compact&bg_color=056&border_color=30A3DC&title_color=FFF&text_color=FFF)
+|Informações GitHub | Gráficos
+|--------------------------|--------------------------|
+| GitHub Stats | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rbkmello&theme=ambient_gradient&show_icons=true&hide_title=true&card_width=468px&card_height=80px) |
+| Minhas Contribuições | ![GitHub Streak](https://streak-stats.demolab.com?user=Rbkmello&theme=ambient-gradient&hide_border=true&card_width=468px&card_height=80px) |
+| Linguagens mais usadas | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rbkmello&theme=ambient_gradient&hide_border=true&card_width=468px&hide_title=true&layout=compact)|
 
-## <span style="color: turquoise;">DADOS SOBRE ESTE PROJETO DIO</span>
+## 📂 Meu Repositório
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ranieriiuri&theme=prussian&background=056&border=30A3DC&title_color=turquoise&dates=fff)](https://git.io/streak-stats)
+Neste repositório, você verá projetos e estudos que abrangem desde os fundamentos da programação até tópicos avançados em segurança cibernética e análise de dados. Minha ideia é compartilhar o que aprendo e construir uma base sólida para contribuir com a comunidade de tecnologia.
 
-## <span style="color: turquoise;">RESUMO SOBRE O REPOSITÓRIO</span>
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ranieriiuri&repo=dio-lab-open-source&bg_color=056&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=FFF)](https://github.com/ranieriiuri/dio-lab-open-source)
-
-
-## <span style="color: turquoise;">CONTATE-ME</span>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=Gmail&logoColor=E94D5F)](mailto:iuriranierioliveira@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-000?style=for-the-badge&logo=whatsapp&logoColor=)](https://wa.me/5582981325349)
+Repositório | Descrição |
+|---|---|
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Rbkmello&repo=dio-lab-open-source&theme=ambient_gradient&hide_border=true&show_icons=true&icon_color=fff&title_color=fff&card_width=438px)](https://github.com/Rbkmello/dio-lab-open-source) | Desafio do lab "Contribuindo em um Projeto Open Source no GitHub" da Digital Innovation One. Onde você pode aprender como funciona um projeto open source ao criar um Profile README contendo informações sobre você que deseje compartilhar com a comunidade.|
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Rbkmello&repo=decodificador-de-texto-desafio-alura&theme=ambient_gradient&hide_border=true&show_icons=true&icon_color=fff&title_color=fff&text_color=FFF&card_width=438px)](https://github.com/Rbkmello/decodificador-de-texto-desafio-alura)| Projeto de Decodificador de texto, desenvolvido durante um Challenge da Alura. Nele é possivel criptografar e descriptografar textos de acordo com algumas regras específicas, permitindo que você possa trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.|
