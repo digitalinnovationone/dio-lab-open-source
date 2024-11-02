@@ -49,10 +49,10 @@
 
 ### Meus Principais Desafios de Projeto DIO / My Main DIO Project Challenges
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/elidianaandrade/dio-lab-open-source](https://github.com/Christian-Rui/dio-lab-open-source))
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
 
 ### Meus Principais Projetos /  My Main Projects
-[![Projeto Buildar](https://github-readme-stats.vercel.app/api/pin/?username=Projeto-Buildar&repo=buildar&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/Projeto-Buildar/buildar](https://github.com/Projeto-Buildar/buildar))
+[![Projeto Buildar](https://github-readme-stats.vercel.app/api/pin/?username=Projeto-Buildar&repo=Projeto-Buildar&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Projeto-Buildar/buildar)
 
 <img align="left" alt="Chris-Bear" height="auto" width="49" src="https://em-content.zobj.net/source/microsoft-teams/363/bear_1f43b.png" />
 
