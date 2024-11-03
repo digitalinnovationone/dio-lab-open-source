@@ -18,5 +18,3 @@ Olá! Eu sou o Lucivan e ajudo a Eli nos tutoriais de Git e GitHub.
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ## GitHub Status
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEV-Dondon&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DEV-Dondon)
-## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DEV-Dondon&repo=octoeli&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DEV-Dondon/octoeli)
