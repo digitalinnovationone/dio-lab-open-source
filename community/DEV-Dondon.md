@@ -1,5 +1,5 @@
 ## Octoeli
-Olá! Eu sou a Octoeli e ajudo a Eli nos tutoriais de Git e GitHub.
+Olá! Eu sou o Lucivan e ajudo a Eli nos tutoriais de Git e GitHub.
 ## Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=red)](https://github.com/DEV-Dondon)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=red)](https://www.linkedin.com/in/lucivan-filho-8a45512aa/)
