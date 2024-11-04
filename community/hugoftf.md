@@ -3,7 +3,7 @@
 
 <h1> 
   <a href="https://www.linkedin.com/in/hugo-de-fran%C3%A7a-torres-5a9058287/" style="color: #f00 !important; text-decoration: none; color: inherit;">
-    <span>Hugo de França Torres Ferreiraa</span>
+    <span>Hugo de França Torres Ferreira</span>
   </a>
 </h1>
 
