@@ -19,6 +19,7 @@ Hive, MongoDB
 IBM DataStage e Pentaho Data Integration
 Neo4J Graph Analytics
 
+
 ### Situação atual
 
 - 📚 Estudando Apache AirFlow ![alt text](image-3.png) e Azure ![alt text](image-4.png)
