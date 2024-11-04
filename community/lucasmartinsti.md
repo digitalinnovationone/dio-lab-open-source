@@ -16,7 +16,7 @@ Sou estudante de Engenharia da Computação na Facens (2022 - 2027) e atualmente
 ### Contato
 📧 **Email**: lucasmartinsti@outlook.com  
 🔗 [**LinkedIn**](https://www.linkedin.com/in/lucas-martins-0a135b1b4/)  
-📍 **Localização**: Porto Feliz, São Paulo  
+📍 **Localização**: Porto Feliz, São Paulo.
 
 ---
 
