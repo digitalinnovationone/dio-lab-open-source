@@ -1,6 +1,6 @@
 # Rodrigo Ferreira
 
-Estou atualmente desempregado, estudando para concurso publico e me inscrevendo em vagas de emprego. 
+Estou atualmente procurando emprego, estudando para concurso publico e me inscrevendo em vagas de emprego. 
 
 Tenho experiencia em suporte técnico e Help Desk.
 
