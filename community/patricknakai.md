@@ -15,7 +15,7 @@ Tenho interesse em aprender mais sobre desenvolvimento de software e pretendo, u
 
 - 🧠 **Melhorar meu inglês** para poder me comunicar melhor em ambientes internacionais e ter mais opções de trabalho;
 - 💼 **Trabalhar na área de desenvolvimento** em uma empresa onde eu possa colocar em prática o que estou aprendendo e crescer na carreira;
-- 🌍 **Encontrar um emprego remoto** que me dê a liberdade de trabalhar com o que gosto, podendo conhecer diferentes lugares do mundo ao mesmo tempo.
+- 🌍 **Encontrar um emprego remoto** que me dê a liberdade de trabalhar com o que gosto, podendo conhecer diferentes lugares do mundo ao mesmo tempo
 
 
 ## 👨‍💻 Habilidades e Ferramentas
