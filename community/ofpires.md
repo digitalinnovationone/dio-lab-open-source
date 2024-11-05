@@ -22,7 +22,7 @@ Neo4J Graph Analytics
 
 ### Situação atual
 
-- 📚 Estudando Apache AirFlow ![alt text](image-3.png) e Azure ![alt text](image-4.png)
+- 📚 Estudando Apache AirFlow e Azure 
 
 
 ### Linguagens e ferramentas
