@@ -1,7 +1,10 @@
 Pâmella Ranne
 
+Sou uma mulher admiradora da tecnologia e atualmente estou me especializando como Desenvolvedora Full-Stack. Possuo experiência com fluxo de desenvolvimento utilizando git, HTML5, CSS, JavaScript, SQL, .NET Core, C# e React. Meu comprometimento nesta nova jornada é total, explorando e absorvendo tudo que o mundo do desenvolvimento web tem a oferecer.
+
 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pâmella-ranne-97679621b/)
+
 
 Habilidades
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pamellaranne)
