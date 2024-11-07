@@ -13,8 +13,8 @@
 
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=FFF)](https://[[www.linkedin.com/in/eduardo-barbosa-dos-santos/](https://www.linkedin.com/in/eduardo-barbosa-dos-santos/)](https://www.linkedin.com/in/eduardo-barbosa-dos-santos/))
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F&color=FFF)]([https://www.instagram.com/eduardo.b.santos/](https://www.instagram.com/eduardo.b.santos/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=FFF)](https://www.linkedin.com/in/eduardo-barbosa-dos-santos/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F&color=FFF)](https://www.instagram.com/eduardo.b.santos/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=FFF&color=000)](https://github.com/eduardobsantoss)
 
 ### GitHub Stats
