@@ -45,3 +45,5 @@ Sou formado em Engenharia Mecânica, e apaixonado por tecnologia e dados. Atualm
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{jaquessonoliveira}/count.svg" /></p> 
 <br>
 </div>
+
+---
