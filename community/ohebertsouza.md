@@ -38,3 +38,4 @@
 ### Curiosidades
 - 🛠️ Já montei e desmontei um PC inteiro.
 - 📱 Troquei a primeira tela de celular aos 13 anos!
+- Para saber Mais, me Siga no Instagram
