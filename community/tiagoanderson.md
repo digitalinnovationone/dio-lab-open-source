@@ -6,4 +6,4 @@ Nome: Tiago Anderson da Silva
 
 Tecnologias: Java, C#
 
-Interesses: Desenvolvimento de software, aprendizado contínuo, novas tecnologias
+Interesses: Desenvolvimento de software, aprendizado contínuo, novas tecnologias.
