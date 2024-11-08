@@ -25,10 +25,10 @@ Aqui estão algumas das minhas habilidades e o meu nível atual de conhecimento:
 
 | **Tecnologia**        | **Nível**                                                                                                                                           |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Front-end**         | <progress value="70" max="100"></progress> 70%                                                                                                      |
-| **Back-end**          | <progress value="80" max="100"></progress> 80%                                                                                                      |
+| **Front-end**         | <progress value="70" max="100"></progress> 30%                                                                                                      |
+| **Back-end**          | <progress value="80" max="100"></progress> 20%                                                                                                      |
 | **Banco de Dados**    | <progress value="60" max="100"></progress> 60%                                                                                                      |
-| **Ferramentas de Dev**| <progress value="80" max="100"></progress> 80%                                                                                                      |
+| **Ferramentas de Dev**| <progress value="80" max="100"></progress> 25%                                                                                                      |
 | **Outras Tecnologias**| <progress value="70" max="100"></progress> 70%                                                                                                      |
 
 ---
