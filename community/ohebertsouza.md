@@ -25,11 +25,11 @@ Aqui estão algumas das minhas habilidades e o meu nível atual de conhecimento:
 
 | **Tecnologia**        | **Nível**                                                                                                                                           |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Front-end**         | ![React.js, HTML, CSS](https://progress-bar.dev/70/?title=React.js%20HTML%20CSS&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)   |
-| **Back-end**          | ![.NET, ASP.NET](https://progress-bar.dev/80/?title=.NET%20ASP.NET&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)              |
-| **Banco de Dados**    | ![SQL Server, MySQL](https://progress-bar.dev/60/?title=SQL%20Server%20MySQL&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)     |
-| **Ferramentas de Dev**| ![Visual Studio, VS Code, Git](https://progress-bar.dev/80/?title=VS%20Visual%20Studio%20VS%20Code%20Git&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) |
-| **Outras Tecnologias**| ![Docker, RESTful APIs](https://progress-bar.dev/70/?title=Docker%20RESTful%20APIs&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) |
+| **Front-end**         | <progress value="70" max="100"></progress> 70%                                                                                                      |
+| **Back-end**          | <progress value="80" max="100"></progress> 80%                                                                                                      |
+| **Banco de Dados**    | <progress value="60" max="100"></progress> 60%                                                                                                      |
+| **Ferramentas de Dev**| <progress value="80" max="100"></progress> 80%                                                                                                      |
+| **Outras Tecnologias**| <progress value="70" max="100"></progress> 70%                                                                                                      |
 
 ---
 
@@ -39,8 +39,8 @@ Aqui estão as línguas que eu falo e o meu nível de fluência:
 
 | **Língua**      | **Nível**                                                                                                                   |
 |-----------------|-----------------------------------------------------------------------------------------------------------------------------|
-| **Inglês**      | ![Inglês](https://progress-bar.dev/90/?title=Inglês&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)        |
-| **Espanhol**    | ![Espanhol](https://progress-bar.dev/70/?title=Espanhol&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)     |
+| **Inglês**      | <progress value="90" max="100"></progress> 90%                                                                                 |
+| **Espanhol**    | <progress value="70" max="100"></progress> 70%                                                                                 |
 
 ---
 
@@ -79,4 +79,3 @@ Se você gostou deste projeto ou quer sugerir melhorias, fique à vontade para c
 - Adicionar seus badges e personalizações no **Profile README**.
 
 ---
-
