@@ -1,4 +1,4 @@
-# Mayara Aparecida Pedrazoli Bomback
+# Inux13
 
 Sou iniciante no aprendizado de programação.
 
