@@ -1,15 +1,12 @@
 # Fabrício dos Santos Moreira
 
-
 ## Estudante de Desenvolvimento de Sistemas SESI/SC Senai. Nasci no RS e atualmente moro em SC.
-
 
 ### Conecte-se comigo
 
 [![DIO profile](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DER?style=for-the-badge&logoColor=white&color=purple)](https://www.dio.me/users/fabriciosantosmoreira)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&labelColor=%230A66C2&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/Fabrício-dos-Santos-Moreira)
 [![GitHub](https://img.shields.io/badge/-GitHub-%230A66C2?style=for-the-badge&labelColor=FFF&logo=GitHub&logoColor=black&color=white)](https://github.com/FabricioDosSantosMoreira)
-
 
 ### Habilidades, Linguagens e Ferramentas
 
@@ -24,7 +21,6 @@
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-%236872B2?style=flat-square&labelColor=%23414141&logo=openai&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7?style=flat-square&labelColor=%23414141&logo=trello&logoColor=white)
-
 
 #### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" style="vertical-align: down;"> Meu GitHub: 
 

@@ -59,6 +59,11 @@ Sou um estudante de Ciência da Computação com formação em Direito e interes
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlie-fonseca/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:dev@charliefonseca.com.br)
 
+
+### Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charlierf&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=charlierf&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 ---
 
 > "A tecnologia é a ferramenta para transformar a imaginação em realidade."
