@@ -15,7 +15,7 @@
 
 </div>
 
-<img src="../image/gifs/divider.gif" max-width="1200px" width="100%" height="40px">
+<img src="https://raw.githubusercontent.com/emersonpessoa01/dio-lab-open-source/refs/heads/main/image/gifs/divider.gif" max-width="1200px" width="100%" height="40px">
 <!-- 👨‍💻 Atualmente estou envolvido no <b>Programa Desenvolve 2022 da Boticário com trilha FullStack ministrado pela Alura</b>. -->
 
 <!--
