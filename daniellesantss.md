@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, sou Danielle</h1>
+<h1 align="center">Olá 👋, meu nome é Danielle</h1>
 <h3 align="center">Sou formada em gestão financeira pela UNIP- Universidade Paulista. Atualmente sou funcionária pública de trabalho na área de educação, estou aprendendo front-end do zero, minha intenção é migrar para área de Tecnologia em busca de novas oportunidades e de crescimento profissional.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniellesantss&label=Profile%20views&color=0e75b6&style=flat" alt="daniellesantss" /> </p>
