@@ -23,7 +23,7 @@ Formado em Análise e Desenvolvimento de Sistemas pela Fatec, tenho experiência
 
 ## Meus Projetos
 
-### Projeto 1: Desenvolvimento Salesforce - Fundação FAT
+### Projeto 1: Desenvolvimento Apex Salesforce - Fundação FAT
 Curso de Desenvolvedor Salesforce pela Fundação FAT. Implementação de funcionalidades customizadas.
 
 ### Projeto 2: Clicked Analyst - Salesforce & Deloitte
