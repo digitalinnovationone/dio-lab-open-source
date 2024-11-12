@@ -1,64 +1,35 @@
+<img align="center" padding="0" alt="Imagem de capa contendo um lago semi congelado com montanhas ao fundo" src="https://media.licdn.com/dms/image/D4D16AQHleJwD7SZAYg/profile-displaybackgroundimage-shrink_350_1400/0/1708634547699?e=1714608000&v=beta&t=UA9hWN_DX404qGZGPHM-UK7sf5sHymVXysBj3SvvR1I">
+<br >
 
-# 📝Sobre mim
-<br/><br/>
-<h3 align="center"> Estudante e amante de novas tecnologias, no momento aprendendo mais sobre JavaScript </h3>
-<br/><br/>
+<h1> 
+  <a href="https://www.linkedin.com/in/gaspar-moreira/" style="color: #f00 !important; text-decoration: none; color: inherit;">
+    <span>Gaspar Moreira</span>
+  </a>
+</h1>
 
-# <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Tecnologias que eu conheço
+#### Estudante | Node | Angular | Nest | React | React Native | Node | SQL | Dart | C#
+<i>(Gaspar - SC - Brasil)</i>
 
-<table align="center"><tr><td valign="top" width="30%">
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/gaspar84moreira)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaspar-moreira/)
+[![E-mail](https://img.shields.io/badge/-Email-0077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gaspar85moreira@gmai.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+11+960313257)  
+[![GitHub](https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kespersantos)
+<br />
+<br />
 
-### <div align="center"> Frontend </div>
+### About 
+<i>
+<br />
+  
+> Hello! My name is Gaspar Moreira, 
+  
+> Eternal student, trained as a mechatronic technician and now challenging myself as a Full-Stack developer
+<br />
+<br />
+</i>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ts,react,javascript,css,html,nodejs&theme=dark&perline=3" />
-</p>
 
-</td><td valign="top" width="30%">
 
-### <div align="center"> Backend </div>
+<img align="center" padding="0" alt="Imagem do footer da pagina contendo um trilho de trem ao por do sol" src="https://media.licdn.com/dms/image/C5616AQEy_2s0SSuEUA/profile-displaybackgroundimage-shrink_350_1400/0/1658235864274?e=1714608000&v=beta&t=jYrHUWyaoJJ--afHNEZQvgMZ2w9tMoNetRLLjFJ_Oho">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c#,go&theme=dark&perline=3" />
-</p>
-
-</td><td valign="top" width="20%">
-
-### <div align="center"> Databases </div>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=redis&theme=dark&perline=2" />
-</p>
-
-</td><td valign="top" width="20%">
-
-### <div align="center"> Tools </div>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark&perline=2" />
-</p>
-
-</td></tr></table>
-<br/><br/>
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kespersantos&theme=radical" />
-</p>
-<br/><br/>
-
-# 📫 Conecte-se comigo
-
-<div align="center">
-<a href="https://www.linkedin.com/in/gaspar-moreira/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://kespersantos.github.io/Minha-pagina-online/" target="_blank">
-<img src="https://img.shields.io/badge/mysite-b200ed.svg?&style=for-the-badge&logo=gnometerminal&logoColor=white" alt=mysite style="margin-bottom: 5px;" />
-</a>   
-</div>  
-<br/><br/>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kespersantos&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kespersantos&theme=radical)
