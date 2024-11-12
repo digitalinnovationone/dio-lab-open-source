@@ -1,6 +1,7 @@
 ### Hello, I am Mirella
 
 📚 Sou estudante de Cibersegurança e gosto de estudar novas tecnologias e oportunidades 
+<<<<<<< HEAD
 ### Hello, I am Mirella
 
 Sou estudante de Cibersegurança e gosto de estudar novas tecnologias e oportunidades de carreira.
@@ -19,6 +20,9 @@ Sou estudante de Cibersegurança e gosto de estudar novas tecnologias e oportuni
 ## Habilidades
 - Linguagens: Python, JavaScript
 - Frameworks: Flutter, React
+=======
+
+>>>>>>> fcffd72f5e227bc0259a07bf50d9a2578b8a36ea
 
 👥 De uma olhada no meu perfil do Instagram https://www.instagram.com/mirellawanessa_
 

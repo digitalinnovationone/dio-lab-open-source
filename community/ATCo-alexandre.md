@@ -1,6 +1,10 @@
 # ATCo-alexandre
 
+<<<<<<< HEAD
 #### Olá. Sou Alexandre, tenho 54 anos de idade e sou militar aposentado da Força Aérea. Trabalhei por 32 anos, como militar, na área de Controle de Tráfego Aéreo, onde atingi a função de Supervisor Operacional. Atualmente tenho me dedicado ao estudo de HTML e CSS e, num futuro próximo, iniciar os estudos em Javascript, PHP e Banco de Dados SQL. <br>
+=======
+#### Olá. Sou Alexandre, tenho 54 anos de idade e sou militar aposentado da Força Aérea. Atualmente estou fazendo um curso pela [DIO](https://dio.me) de front-end (HTML, CSS e Javascript). Também estou estudando HTML e CSS pelo portal [Curso em Vídeo](https://cursoemvideo.com) e Python pelo portal [Hashtag](https://www.hashtagtreinamentos.com/).
+>>>>>>> fcffd72f5e227bc0259a07bf50d9a2578b8a36ea
 
 ## Conecte-se comigo <br>
 

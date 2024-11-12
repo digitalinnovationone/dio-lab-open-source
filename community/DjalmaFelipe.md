@@ -35,6 +35,10 @@ __*[Unifacisa/ 2020 - 2025]: Bacharelado em Sistemas de Informação*__
  ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
  ![javascript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
  ![java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk)
+<<<<<<< HEAD
+=======
+ ![spring](https://img.shields.io/badge/spring-000?style=for-the-badge&logo=spring)
+>>>>>>> fcffd72f5e227bc0259a07bf50d9a2578b8a36ea
  ![github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github)
  ![git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)
  ![postgresql](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql)
