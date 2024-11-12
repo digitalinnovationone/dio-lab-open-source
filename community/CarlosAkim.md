@@ -11,7 +11,6 @@ Olá, me chamo Carlos, tenho 30 anos, sou estudante de ADS e futuro dev back-end
 
 ## Framework
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Flet](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 
 ## Banco de dados
@@ -24,4 +23,4 @@ Olá, me chamo Carlos, tenho 30 anos, sou estudante de ADS e futuro dev back-end
 
 
 ## GitHub Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF_hide_tittle=True)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CarlosAkim&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF_hide_tittle=True)
