@@ -1,3 +1,18 @@
+# Profile README de Mirella Wanessa
+
+## Badges
+![Python Badge](https://img.shields.io/badge/-Python-blue)
+![GitHub Badge](https://img.shields.io/badge/-GitHub-grey)
+
+## Estatísticas
+![Mirella's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mirellawanessa&show_icons=true&hide_title=true)
+
+## Projetos
+- [Meu repositório de projetos](https://github.com/Mirellawanessa)
+- [Contribuições na DIO](https://www.dio.me)
+
+## Sobre mim
+Olá, sou Mirella Wanessa, apaixonada por programação e aprendizado contínuo. Atualmente estou estudando Flutter e trabalhando em diversos projetos de tecnologia.
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
