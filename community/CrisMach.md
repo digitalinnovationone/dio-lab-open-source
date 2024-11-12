@@ -1,6 +1,6 @@
 ## Olá, meu nome é Cristiano Machado 👋
 
-Trabalho como Cloud Engeneer com especialidade e certificações am Azure, atuo em projetos AWS, possuo mais de 25 anos de experiência em TI.
+Trabalho como Cloud Engineer com especialidade e certificações am Azure, atuo em projetos AWS, possuo mais de 25 anos de experiência em TI.
 ## 🛠 Habilidades
 
 ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
