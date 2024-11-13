@@ -8,10 +8,13 @@ I am deeply fascinated by the development of interactive games and their multifa
 
 In addition to my academic pursuits, I thrive in creative spaces as **A. Reznor** — a writer, composer, and public speaker. I am the imaginative force behind the **"Valley of Secrets"** book series and have a notable presence in over 30 anthologies. Stay updated with my latest projects and publications through my [website](https://www.amandareznor.com.br).
 
-Follow my creative journey on:
-- [Facebook](https://www.facebook.com/AmandaReznor)
-- [Instagram](https://www.instagram.com/AmandaReznor)
-- [Twitter](https://twitter.com/AmandaReznor)
+**Follow my creative journey on:**
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandareznor/)
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/AmandaReznor)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/AmandaReznor)
 
 ## Video Game Development
 
