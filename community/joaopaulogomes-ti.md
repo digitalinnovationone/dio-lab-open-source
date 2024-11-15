@@ -3,7 +3,7 @@
 
 # João Paulo Gomes
 
-Sou um profissional que atua a mais de 15 anos na área de TI, sempre trabalhando com infraestrutura local e service desk.
+Profissional que atua a mais de 15 anos na área de TI, sempre trabalhando com infraestrutura local e service desk.
 
 ### Conecte-se comigo
 
