@@ -9,9 +9,10 @@ Olá! Eu sou o Bruno, tenho 47 anos, sou Brasileiro, casado, pós-graduado em Lo
 Hello! I'm Bruno, I'm 47 years old, I'm Brazilian, married, postgraduated in LowCode from Academia RafaOutsystems/Faculdade Focus, Licensed Teacher in Physical Education from the School of Physical Education and Sports-EEFD/UFRJ, certified drone pilot, I speak English advanced and DEV, Web programming student and looking for a professional placement in the world of technology.
 
 ## _Social_
-[![Perfil na DIO](https://img.shields.io/badge/Perfil_na_DIO-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://www.dio.me/users/brunostudart)
+[![Perfil na DIO](https://img.shields.io/badge/Perfil_na_DIO-007ABB?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://www.dio.me/users/brunostudart)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/bruno-nico-24617455)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BruStud77)
+[![OutSystems Profile](https://img.shields.io/badge/Outsystems_Profile-ffffff?style=for-the-badge&logo=instagram&&logoColor=red)](https://www.outsystems.com/profile/3esn3rqj6l/overview)
 
 ## _Habilidades / Skills_
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
