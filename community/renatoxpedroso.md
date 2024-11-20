@@ -1,7 +1,7 @@
 # Olá, eu sou Renato Xavier Pedroso! 👋
 
 ## 🚀 Sobre Mim
-- 📚 Sou Tecnólogo  em Análise  e Desenvolvimento de Sistemas Faculdade de Tecnologia - TecBrasil(FTEC, 2018).
+- 📚 Sou Tecnólogo em Análise  e Desenvolvimento de Sistemas Faculdade de Tecnologia - TecBrasil(FTEC, 2018).
 - 📚 Pós-graduado em Inteligência Artificial e Machine Learning pela Universidade Norte do Paraná (UNOPAR, 2024).
 - 📚 Pós-graduado em Desenvolvimento de aplicações mobile pela Universidade Norte do Paraná (UNOPAR, 2024).
 - 👨 Desenvolvedor Full Stack e Mobile.
