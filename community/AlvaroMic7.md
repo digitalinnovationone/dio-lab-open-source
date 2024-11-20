@@ -2,7 +2,7 @@
 
 # Alvaro M.
 
-Sou estudante de Engenharia de Software na Universidade Federal do Ceará (UFC), com grande entusiasmo por Machine Learning, Python e desenvolvimento de Inteligência Artificial.
+Sou estudante de Engenharia de Software na Universidade Federal do Ceará (UFC), com grande entusiasmo por Machine Learning, Python e desenvolvimento de Inteligência Artificial
 ### Conecte-se comigo
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/alvaromedeiros/)
