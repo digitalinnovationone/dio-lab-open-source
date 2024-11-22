@@ -1,6 +1,6 @@
 # Olá, sou Weslley Pereira! 👋
 
-Bem-vindo ao meu perfil no GitHub! Atuo a aproximadamente 10 anos na área da Tecnologia, era da área de infra estrutura de redes, atualmente tentando a migração pra área de análise de dados.
+Bem-vindo ao meu perfil no GitHub! Atuo a aproximadamente 10 anos na área da Tecnologia, na parde de infraestrutura de redes, atualmente tentando a migração pra área de análise de dados.
 
 ## 🚀 Sobre Mim
 - 🌱 Atualmente, estou aprimorando minhas habilidades em **[Banco de dados, Análise de dados, PHP, HTML, Python, Git e Git GitHub]**.
