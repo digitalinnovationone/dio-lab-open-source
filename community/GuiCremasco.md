@@ -17,7 +17,7 @@
     * 🎮 Vídeo games, principalmente jogos de mundo aberto, Rocket League e Crash Bandicoot (meu preferido 😁).
 
 * Meu primeiro contato com a área de desenvolvimento foi uma "brincadeira" na pré-adolescência, época em que eu era um dos editores de uma Wiki/FANDOM sobre o jogo *Five Nights at Freddy's*. Na ocasião, eu criava artigos sobre o jogo utilizando HTML, CSS e Javascript, e nem sabia a real importância dessas linguagens... 🤯
-    * Foi com essa experiência que decidi o que seguir como carreira. 💙
+    * Foi com essa experiência que decidi o que seguir na minha carreira. 💙
 
 ## 📊 GitHub Stats
  ![GithubStats](https://github-readme-stats.vercel.app/api?username=GuiCremasco&bg_color=0,ca0000,fff,0a0a0a&title_color=000&text_color=000)
