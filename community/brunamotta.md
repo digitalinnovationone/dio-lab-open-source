@@ -1,13 +1,13 @@
 # ✨ Bem-vindo(a) ✨
 Muito prazer! Me chamo Bruna, sou designer em transição de carreira, formanda em Análise e Desenvolvimento de Sistemas. Atuo há 2 anos com **desenvolvimento web** com foco em **Front End** e **User Interface** e estou aprimorando meus conhecimentos em **React.js**.
 
-## Conecte-se comigo
+## 👋🏼 Conecte-se comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunamottap/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunamottap/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@brunamotta/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:brunamottap@gmail.com)
 
-## Habilidades
+## 🛠️ Habilidades 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=vscode&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
@@ -22,9 +22,6 @@ Muito prazer! Me chamo Bruna, sou designer em transição de carreira, formanda 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![AWS](https://img.shields.io/badge/-AWS-141f2e?style=for-the-badge&logo=amazon-web-services&logoColor=f90)
 
-## GitHub Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunamotta&layout=compact&theme=dracula&bg_color=000&)
-
+## 📊 GitHub Stats 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunamotta&theme=dracula&bg_color=000&show_icons=true)
-
-## Minhas Contribuições
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunamotta&layout=compact&theme=dracula&bg_color=000&)
