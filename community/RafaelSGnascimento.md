@@ -1,5 +1,0 @@
-# RafaelSGnascimento👑
-tambem conhcido como DieyK, novo na plataforma da DIO em busca de conhecimento para meu primeiro estagio, assim podendo dar inicio a minha carreira como Backend ou talvez quem sabe gamedev(sonho de infancia era poder criar essas obras de arte que me acompanharam do rante td a vida e poder proporcionar experiencias maravilhosas assim como as que vivi), e ter uma boa vida estavel com minha futura esposa Victórya que amo tanto.
-
-## habilidades🎯
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> sennti desde o começo curiosidade e vontade de aprender a programar e a tecnologia que mais me interessou foi o python, simples, "facil" e interessante, até pq ja fiz automações para meu irmão usar no trabalho dele em pouquissimo tempo estudando!

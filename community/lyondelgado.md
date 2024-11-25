@@ -1,1 +1,0 @@
-# Lyon Delgado
