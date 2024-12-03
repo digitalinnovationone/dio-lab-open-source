@@ -1,25 +1,11 @@
 <h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Profiles README DIO</span>
+    Ab7bruno
 </h1>
+<h2>Conecte-se a mim</h2>
 
-## Sobre o Projeto
-Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Lembre-se de que Markdown é mais voltado para a documentação e apresentação de texto formatado, enquanto a remoção de bugs normalmente envolve a compreensão detalhada do código e o uso de ferramentas de desenvolvimento adequadas à linguagem de programação específica.
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ab7brunogt/)
 
-[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
-
-```
-docs/
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   └── js/
-│       └── scripts.js
-├── favicon.ico
-├── index.html
-└── README.md
-```
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ab7bruno&repo=ab7bruno&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ab7bruno/aula04css)
 
 ## Tecnologias
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
