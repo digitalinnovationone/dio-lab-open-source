@@ -25,7 +25,7 @@ tenho uma formação variada, em tecnologia e comunicação social. Sou também 
 ---
 
 # 🌐 Como Me Encontrar
-- 💼 LinkedIn: [Meu perfil](https://www.linkedin.com/in/thiago-souza-dias))
+- 💼 LinkedIn: [Meu perfil](https://www.linkedin.com/in/thiago-souza-dias)
 - 📝 Blog/Portfólio: [Meu site profissional](https://thiagodias.dev.br/)
 - 📧 Email: [thiagodiascomput@yahoo.com.br](mailto:thiagodiascomput@yahoo.com.br)
 
