@@ -1,5 +1,5 @@
-Olá !
-Eu sou a Mariza Aparecida Dias e estou participando do Bootcamp "Coding The Future Ri Happy  - Desenvolvimento Front-end do Zero" que conta com uma trilha de 5 módulos que vão desde a lógica de programação até o domínio de HTML, CSS e JAVASCRIPT, passando pelos elementos principais da estilização de páginas dinâmicas e responsivas. 
+Olá!
+Eu sou a Mariza Aparecida Dias e estou participando do Bootcamp "Coding The Future Ri Happy - Desenvolvimento Front-end do Zero" que conta com uma trilha de 5 módulos que vão desde a lógica de programação até o domínio de HTML, CSS e JavaScript, passando pelos elementos principais da estilização de páginas dinâmicas e responsivas. 
 
 Conecte-se comigo
 
