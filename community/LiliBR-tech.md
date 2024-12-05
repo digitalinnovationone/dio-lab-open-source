@@ -42,8 +42,6 @@
 ## 📚 Linguagens 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LiliBR-tech&layout=compact&bg_color=000&border_color=0064ff&title_color=0064ff&text_color=b87814)
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E8AE6&&size=35&center=true&vCenter=true&width=1000&lines=💻✨+Obrigada+,+por+visitar!🚀👾)](https://git.io/typing-svg)
-
-<h2><a>🎸by me</a> ❤️ </p></h2> 
+ <h2><a>🎸by me</a> ❤️ </p></h2> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=150&section=footer"/> 
