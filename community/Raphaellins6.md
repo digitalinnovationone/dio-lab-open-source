@@ -36,13 +36,6 @@ my skill set.
 
 📍 - Brasília, DF
 
-## 
-<div align="left">
-  <img align="left" style="border: 30px solid black height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGo1bnJ0MXZ4MGFvNTB4NjBrMmcyeWZmY3dhamxlNjByMjQzanZheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTMgE8owWM0q7iTKzx/giphy.gif"  />
-</div>
-
-##
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaellins6/)
 
@@ -73,3 +66,10 @@ my skill set.
 ![](https://github-readme-stats.vercel.app/api?username=RaphaelLins6&theme=transparent&bg_color=000&border_color=FF4500&show_icons=true&icon_color=FF4500&title_color=FF4500&text_color=FFF)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelLins6&theme=transparent&bg_color=000&border_color=FF4500&show_icons=true&icon_color=FF4500&title_color=FF4500&text_color=FFF)
+
+## 
+<div align="left">
+  <img align="left" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGo1bnJ0MXZ4MGFvNTB4NjBrMmcyeWZmY3dhamxlNjByMjQzanZheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTMgE8owWM0q7iTKzx/giphy.gif"  style="border: 30px solid black; />
+</div>
+
+##
