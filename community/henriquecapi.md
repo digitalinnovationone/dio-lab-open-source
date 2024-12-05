@@ -5,7 +5,6 @@ Já trabalhei com desenvolvimento web dos anos 2000 até 2013.<br/>
 Desenvolvi varios sites, tive alguns clientes mas abandonei a programação por 10 anos e resolvi voltar a estudar.<br/>
 </div>
 
-
 ## 📊 Estatísticas no GitHub:
 
 <a href="https://github.com/henriquecapi">
@@ -30,7 +29,6 @@ Desenvolvi varios sites, tive alguns clientes mas abandonei a programação por 
 <img aLign="center" alt="bootstrap" src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117" />
 <img aLign="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
-
 
 ## 🤓 Estudando atualmente:
 
