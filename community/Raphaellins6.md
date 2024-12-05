@@ -20,7 +20,7 @@ meu conjunto de habilidades.
 
 🇺🇸: 
 
-📚 I - am currently attending college for computer science.
+📚 - I am currently attending college for computer science.
 
 🏫 - I have knowledge and I am also currently studying all the tech stacks below. 
 
@@ -38,7 +38,7 @@ my skill set.
 
 ## 
 <div align="left">
-  <img align="left" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGo1bnJ0MXZ4MGFvNTB4NjBrMmcyeWZmY3dhamxlNjByMjQzanZheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTMgE8owWM0q7iTKzx/giphy.gif"  />
+  <img align="left" style="border: 30px solid black height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGo1bnJ0MXZ4MGFvNTB4NjBrMmcyeWZmY3dhamxlNjByMjQzanZheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTMgE8owWM0q7iTKzx/giphy.gif"  />
 </div>
 
 ##
