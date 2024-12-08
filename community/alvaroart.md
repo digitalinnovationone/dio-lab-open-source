@@ -23,6 +23,8 @@
 
 
 ![Static Badge](https://img.shields.io/badge/LINUX-000%3F?style=for-the-badge&logoColor=darkblue&color=darkblue)
+
+
 ![Static Badge](https://img.shields.io/badge/AZURE-000)
 
 
