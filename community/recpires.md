@@ -234,6 +234,7 @@ Sou Técnico de Enfermagem em transição de carreira para área de tecnolçogia
     <img height="95cm" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=recpires&repo=DIO-Machine-Learning-transfer-learning&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
   </a>
 </div>
+<br><br><br><br><br><br><br><br><br><br>
 
 ### Estatísticas das contribuições e dos usos das linguagens
 
