@@ -1,4 +1,4 @@
-#Sou o Luciano
+#Meu nome é Luciano
 
 ## Sobre mim
 
