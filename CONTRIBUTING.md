@@ -75,7 +75,67 @@ Atente-se para a seguir as orientações para a contribuição, principalmente:
 ](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 Após criar o seu Pull Request, nossa automação irá validar a sua submissão. Caso esteja tudo certo, será retornada uma mensagem indicado que seu PR foi aprovado. Do contrário, leia atentamente as orientações e verifique os arquivos modificados para saber se atende as instruções para contribuição.
+
+*Vejamos algumas definições abaixo:*
+
+ | Nomes     |  Descrição                                           |
+ |---------- |------------------------------------------------------|
+ | `commit`  | é um comando fundamental no sistema de controle de versão Git, utilizado para registrar alterações feitas no código-fonte de um projeto. |
+ | `merge`   | é a operação de combinar as mudanças de diferentes branches.|
+ | `issues`  | refere-se a uma maneira de rastrear tarefas, melhorias, erros(bugs) ou discussões relacionadas a um projeto específico. |
+ | `hash `   | é o identificador único de cada commit. |
+ | `backlog` | é um registro ou histórico de requisições. |
+ | `upstream `| é tudo que você insere no git : criar um repositório, fazer um commit, um push...|
+ | `downstream `| é tudo que você pega do git : clonar um repositório, fazer um pull...|
+ | `MarKdown `  |é uma linguagem de marcação que oferece uma abordagem simplificada para edição de conteúdo,protegendo os criadores de conteúdo das   complexidades do HTML.|
+ 
+
+**Dúvidas sobre:**
+
+
+**1 - Qual a diferença entre branch local e branch remoto?**
+
+* Branch local é uma ramificação do seu código que apenas você vê, ou seja, está apenas no seu computador localmente.
+Por exemplo, quando você cria um branch (com git branch <nome-do-branch), ele estará visível apenas para você. 
+
+* Já um branch remoto, é quando esse branch está alocado em um outro local remotamente, geralmente público ou restrito a um grupo de pessoas.
+
+* Lembre-se:  Quando você usa o comando git push origin <nome-do-branch você está pegando o seu branch local e colocando ele para origin, um “lugar” remoto. 
+
+
+
+
+
+# Comandos relativos a branches: #
+                            
+
+ 1. Criar uma nova branch : 
+ 
+          git branch <nome-da-branch>
     
+ 2.  Mudar para uma branch :
+ 
+           git checkout <nome-da-branch>
+
+ 3. Criar e mudar para uma nova branch :
+
+           git checkout -b <nome-da-branch>
+
+ 4. Listar todas as branches :
+
+          git branch
+
+
+5. Renomear uma branch :
+
+           git branch -m <nome-da-branch>
+
+ 6. Excluir uma branch :
+
+           git branch -d <nome-da-branch>
+
+
+ 
     
 ## Convenção de Commits 
 
