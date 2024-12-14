@@ -1,27 +1,27 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Profiles README DIO</span>
-</h1>
+# Olá, eu sou [Seu Nome] 👋
 
-## Sobre o Projeto
-Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Lembre-se de que Markdown é mais voltado para a documentação e apresentação de texto formatado, enquanto a remoção de bugs normalmente envolve a compreensão detalhada do código e o uso de ferramentas de desenvolvimento adequadas à linguagem de programação específica.
+Sou um desenvolvedor apaixonado por tecnologia e estou aprendendo sobre projetos Open Source.
 
-[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
+## Minhas habilidades:
+- Linguagens: Python, JavaScript, Java
+- Ferramentas: Git, GitHub, VS Code
+- Frameworks: React, Node.js
 
-```
-docs/
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   └── js/
-│       └── scripts.js
-├── favicon.ico
-├── index.html
-└── README.md
-```
+## Projetos:
+- Meu projeto mais recente: # EcoTrack - Gerenciador de Finanças
 
-## Tecnologias
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+EcoTrack é um aplicativo protótipo desenvolvido para ajudar a gerenciar suas finanças de forma prática e eficiente.
+
+## Funcionalidades:
+- Controle de despesas e receitas por categoria.
+- Definição de orçamento mensal e alertas de limites excedidos.
+- Relatórios financeiros com gráficos de desempenho.
+- Criação de metas de economia e acompanhamento de progresso.
+- Notificações para pagamentos de contas e lembretes financeiros.
+
+## Objetivo:
+Ajudar os usuários a organizar e controlar melhor suas finanças pessoais, promover uma visão clara dos gastos e facilitar o processo de economia.
+
+Fique à vontade para sugerir melhorias e contribuições!
+
+Estou sempre aberto a aprender e colaborar em projetos interessantes. Fique à vontade para conferir meu trabalho e contribuir!
