@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Álan Ômni 👋
 
 Sou um desenvolvedor apaixonado por tecnologia e estou aprendendo sobre projetos Open Source.
 
