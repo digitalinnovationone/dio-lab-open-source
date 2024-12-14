@@ -1,0 +1,228 @@
+[33mcommit 17bbd22edd070b0688e155c68800db4e6d37cf4a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeat/community/jandhersantos-dev[m[33m)[m
+Author: Jandhersson Andrade <95887870+jandhersantos-dev@users.noreply.github.com>
+Date:   Sat Dec 14 17:20:47 2024 -0300
+
+    feat: add jandhersantos-dev profile
+
+[33mcommit 1d98d128685ad25539d04ec1315f55662a55f112[m[33m ([m[1;31mupstream/main[m[33m, [m[1;32mmain[m[33m)[m
+Merge: a23a2e915 95640ee3c
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Mon Dec 9 00:04:14 2024 +0000
+
+    Merge pull request #52866 from YuriLohan/feat/community/YuriLohan
+
+[33mcommit 95640ee3ca57dccd57a260de362437c68359c472[m
+Author: YuriLohan <yurilohan1000@gmail.com>
+Date:   Sun Dec 8 21:01:07 2024 -0300
+
+    feat: add yurilohan profile
+    
+    Criei o meu arquivo markdown para o desafio da DIO Open Source
+
+[33mcommit a23a2e9150551fc576b83eab3141513b6d8352fa[m
+Merge: 6ea4ab9a0 15f180c4e
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Dec 8 23:33:14 2024 +0000
+
+    Merge pull request #52865 from Paolahegel/feat/community/Paolahegel
+
+[33mcommit 15f180c4e5b41d758509552a1178c4f4d67b08c9[m
+Author: Paola Moura <169110243+Paolahegel@users.noreply.github.com>
+Date:   Sun Dec 8 20:31:07 2024 -0300
+
+    Create Paolahegel.md
+
+[33mcommit 6ea4ab9a038c8411ab03bedd43d84e86fb2ef12a[m
+Merge: 0521fbd10 31d87e2ff
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Dec 8 13:24:46 2024 +0000
+
+    Merge pull request #52863 from alvaroart/feat/community/alvaroart
+
+[33mcommit 31d87e2ffae26f9335de2b2b890bd879a0ec2592[m
+Author: alvaroart <alvaro.rosa1985@gmail.com>
+Date:   Sun Dec 8 13:13:51 2024 +0000
+
+    feat: add alvaroart profile
+
+[33mcommit 468eed3d78667c747966db3046392d2db17f1da1[m
+Author: alvaroart <alvaro.rosa1985@gmail.com>
+Date:   Sun Dec 8 13:04:53 2024 +0000
+
+    feat: add alvaroart profile
+
+[33mcommit 1e3b5b68d7e8fd4c8efd094ff61e23d64dad3742[m
+Author: alvaroart <alvaro.rosa1985@gmail.com>
+Date:   Sun Dec 8 12:29:29 2024 +0000
+
+    feat: add alvaroart profile
+
+[33mcommit 0521fbd100123dd0794506120ac8cc58c2ca89b3[m
+Merge: 824aa7623 678232655
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Dec 7 22:32:09 2024 +0000
+
+    Merge pull request #52861 from Seikou16/feat/community/Seikou16
+
+[33mcommit 6782326558f26aad4c390e383db28ae1fef1df04[m
+Author: Richard <richarddejesus265@gmail.com>
+Date:   Sat Dec 7 19:23:52 2024 -0300
+
+    feat: add Seikou16 profile
+
+[33mcommit 824aa7623037bf56ba9e7dfeeb671c1cd64dea84[m
+Merge: 9793807d6 1858b37ac
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Dec 7 18:25:11 2024 +0000
+
+    Merge pull request #52860 from Kame-ng/feat/community/kame-ng
+
+[33mcommit 1858b37ac1aae799b782d828ff73832d9d80f24e[m
+Author: Kame-ng <96061120+Kame-ng@users.noreply.github.com>
+Date:   Sat Dec 7 15:18:01 2024 -0300
+
+    Create Kame-ng.md
+
+[33mcommit 9793807d613ab8295655e8c13e5012ae155e04f8[m
+Merge: a4bc0a8ba 657490d03
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Dec 7 16:49:59 2024 +0000
+
+    Merge pull request #52859 from edgallojr/feat/community/edgallojr
+
+[33mcommit 657490d0322f11f5134154afb61e723ae98eca86[m
+Author: Edson De Mello Gallo <85174365+edgallojr@users.noreply.github.com>
+Date:   Sat Dec 7 13:45:54 2024 -0300
+
+    feat: add edgallojr profile
+
+[33mcommit a4bc0a8bac393f2eaa00996dd305f5e0781110d7[m
+Merge: 85dc8a618 142ada332
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Dec 6 20:37:23 2024 +0000
+
+    Merge pull request #52857 from patrickmaciel/feat/community/patrickmaciel
+
+[33mcommit 142ada3320bdb17c51aa6d593b967d533f979621[m
+Author: Patrick Maciel <patrickmaciel.info@gmail.com>
+Date:   Fri Dec 6 17:32:24 2024 -0300
+
+    feat: add patrickmaciel profile
+
+[33mcommit 85dc8a61879052f0c6ea66a298df6d4ee2a9a9a9[m
+Merge: 1af317f3f 0d0298aea
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Dec 6 18:44:30 2024 +0000
+
+    Merge pull request #52855 from wjcaetano/feat/community/wjcaetano
+
+[33mcommit 0d0298aeadd9e5958127d53d2ebc7cc4f369dd06[m
+Author: Willian Caetano <92658211+wjcaetano@users.noreply.github.com>
+Date:   Fri Dec 6 15:42:24 2024 -0300
+
+    Create wjcaetano.md
+    
+    Create a community readme description for the DIO project contributions lab.
+
+[33mcommit 1af317f3f25059e85c3e1987aa55e0f3258b8310[m
+Merge: 6d6b877cd 5c5ddd359
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Dec 6 16:18:47 2024 +0000
+
+    Merge pull request #52854 from MuriloSchivinin/feat/community/mschivinin
+
+[33mcommit 5c5ddd359968314c121d52477d75dcfd36102542[m
+Author: Murilo Schivinin <71531288+MuriloSchivinin@users.noreply.github.com>
+Date:   Fri Dec 6 13:18:18 2024 -0300
+
+    Rename mschivinin.md to MuriloSchivinin.md
+
+[33mcommit 8107661926ff3670751cbe420d005506cd76cddf[m
+Author: Murilo Schivinin <71531288+MuriloSchivinin@users.noreply.github.com>
+Date:   Fri Dec 6 13:13:23 2024 -0300
+
+    Create mschivinin.md
+
+[33mcommit 6d6b877cd8471fa932f0debfe543d756e72d27b9[m
+Merge: d8d9b547a 1e0108cd2
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Dec 6 13:53:11 2024 +0000
+
+    Merge pull request #52853 from VanessaSeratna/feat/community/VanessaSeratna
+
+[33mcommit 1e0108cd238dba2d3917e5f9b03a2eb05cc1ab9f[m
+Author: unknown <vanessa.seratna@gmail.com>
+Date:   Fri Dec 6 10:45:04 2024 -0300
+
+    feat: add VanessaSeratna profile
+
+[33mcommit d8d9b547aedcd09070b96c1dbc84ee33245af673[m
+Merge: 28009f8ac 71843312b
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Dec 5 22:40:19 2024 +0000
+
+    Merge pull request #52851 from Mariluz1/feat/community/Mariluz1
+
+[33mcommit 71843312bc5c13cc7e9120b9c38ad444fb77b779[m
+Author: Mariluz1 <mariluz.ludovico@hotmail.com>
+Date:   Thu Dec 5 19:27:08 2024 -0300
+
+    feat: add Mariluz1 profile
+
+[33mcommit 28009f8ac971102b11b4744c03189de39a3cb21c[m
+Merge: 2648c5001 870111cf7
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Dec 5 22:10:47 2024 +0000
+
+    Merge pull request #52850 from henriquecapi/feat/community/henriquecapi
+
+[33mcommit 870111cf7d67ac78306a67003edf5f5caae7cb9d[m
+Author: Henrique Capibaribe <henriquecapi@hotmail.com>
+Date:   Thu Dec 5 18:41:36 2024 -0300
+
+    feat: add henriquecapi profile
+
+[33mcommit 5cba386853ba1570aa7a2354b260b9b24062c283[m
+Author: Henrique Capibaribe <henriquecapi@hotmail.com>
+Date:   Thu Dec 5 18:36:04 2024 -0300
+
+    feat: add henriquecapi profile
+
+[33mcommit 2648c500158fdf23bc696f3dab30be12f2495d0f[m
+Merge: 3088f6c2d 04345a660
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Dec 5 18:54:51 2024 +0000
+
+    Merge pull request #52849 from EversonUsumak/feat/community/EversonUsumak
+
+[33mcommit 04345a6606200841d040d8fa9b7a42b0ea92f3ca[m
+Author: EversonUsumak <156707539+EversonUsumak@users.noreply.github.com>
+Date:   Thu Dec 5 15:52:00 2024 -0300
+
+    Create EversonUsumak.md
+
+[33mcommit 3088f6c2d70cc870cbde3e3bb4b3872e74aa47f1[m
+Merge: 233e5ff0d c80100a6d
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Dec 5 18:07:49 2024 +0000
+
+    Merge pull request #52848 from Mtheuxa/feat/community/Mtheuxa.md
+
+[33mcommit c80100a6de13efd5243806aa1a84c5f7bb64c6b9[m
+Author: Mtheuxa <matheusaraujopaulucci@gmail.com>
+Date:   Thu Dec 5 15:05:20 2024 -0300
+
+    Create Mtheuxa.md
+
+[33mcommit 233e5ff0dd239f23eb8ac824a73756b80b94d972[m
+Merge: fa21446aa fe3130458
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Dec 5 15:25:23 2024 +0000
+
+    Merge pull request #52847 from WesllenWorld/feat/community/WesllenWorld
+
+[33mcommit fe31304585134c5013ec54a5094d66601bf35381[m
+Author: WesllenWorld <wesllen.2020111052@unicap.br>
+Date:   Thu Dec 5 12:21:11 2024 -0300
+
+  
