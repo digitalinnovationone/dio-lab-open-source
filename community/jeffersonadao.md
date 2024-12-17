@@ -3,7 +3,7 @@
 ## Sobre mim
 - 👨‍💻 Tenho 34 anos formado em Análise e Desenvolvimento de Sistemas.
 - 🌐 Apaixonado por tecnologia e sempre em busca de mais conhecimento.
-- 🎓 No momento, estou procurando uma vaga para aplicar o conhecimento que estou adquirindo.
+- 🎓 No momento, estou a procura uma vaga para aplicar o conhecimento que estou adquirindo.
 
 ## Habilidades
 - ![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat-square&logo=html5&logoColor=white)
