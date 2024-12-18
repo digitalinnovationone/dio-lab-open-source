@@ -72,8 +72,8 @@ Here are the primary tools and technologies I use, with their logos for better v
 ## Let's Connect
 If you’d like to discuss **Generative AI**, **Biomedical Signal Processing**, machine learning, or potential collaborations, feel free to reach out to me through the links below:
 
-- **LinkedIn**: (https://www.linkedin.com/in/jessica-cristina-tironi/)  
-- **GitHub**: [Your GitHub Profile](https://github.com/TironiJC)  
+- **LinkedIn**: https://www.linkedin.com/in/jessica-cristina-tironi/ 
+- **GitHub**: https://github.com/TironiJC
 - **Email**: jessicactironi@gmail.com  
 
 Thank you for visiting my portfolio. Let's create impactful solutions together!
