@@ -943,6 +943,14 @@
         <code>![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)</code>
       </td>
     </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-0077B5?style=for-the-badge&logo=docker&logoColor=white">
+      </td>
+      <td>
+        <code>![Docker](https://img.shields.io/badge/Docker-0077B5?style=for-the-badge&logo=docker&logoColor=white)</code>
+      </td>
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
