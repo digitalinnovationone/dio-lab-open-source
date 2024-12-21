@@ -1,7 +1,7 @@
-<img align="right" alt="Developer vector www.freepik.com persoalizada por RosaV con illustrator" height="380" src="https://drive.google.com/file/d/1hT0n5TD8vusC-yeO0v-fjZJzJ8SK0BQs/view">
+<img align="right" alt="Developer vector www.freepik.com persoalizada por RosaV con illustrator" height="380" src="https://github.com/Rosavf/dio-lab-open-source/blob/main/Imagen_01_perfil.png">
 
 
- <h1>   <a href="https://edtcreative.com/">
+ <h1><a href="https://edtcreative.com/">
      <img align="center" alt="Logo EDT CREATIVE" width="36px" src="https://www.freepik.com/free-vector/gradient-world-wide-web-internet_149441737.htm#fromView=search&page=1&position=27&uuid=72de2afa-1ced-4b18-a703-d48209a28fb1&new_detail=true"></a>
     <span>Rosa Virginia</span>
 </h1>
