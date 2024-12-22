@@ -57,7 +57,7 @@ Soy una profesional venezolana con formación en Ingeniería en Informática en 
 
 ## Lenguajes
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rosavf&bg_color=fff&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rosavf&bg_color=fff&border_color=7A1DBC&title_color=7A1DBC&text_color=7A1DBC)
 
 
 
