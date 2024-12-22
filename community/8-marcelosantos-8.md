@@ -2,7 +2,7 @@ Hi, I'm Marcelo Santos, founder and general manager of Chambertran Solutions, a 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelosantostechnology/)](https://www.linkedin.com/in/marcelosantostechnology/)
 
-
+&nbsp;
 ## About me
 My connection with technology officially started when I was fourteen... that was about 1986. I was having industrial electricity classes at a professional school and taking internship in a "fully automated glass factory" and, although I was there for electricity stuffs, there was where I could write my first lines of codes in BASIC language as well some batch files (DOS). However, software development was not my main role and for longer than 30 years I was just running parallel to it, sometimes developing some lines of codes for industrial computers (PLC) at work or doing some stuff as hobby.
 
