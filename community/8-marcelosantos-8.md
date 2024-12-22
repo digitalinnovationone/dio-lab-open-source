@@ -1,12 +1,12 @@
-#### Hi, I'm Marcelo Santos, founder and general manager of Chambertran Solutions, a technical services contractor company. At Chambertran I was also a field service engineer and, for over 10 years worked on some international projects for the "oil & gas" industry; but this is past...
+Hi, I'm Marcelo Santos, founder and general manager of Chambertran Solutions, a technical services contractor company. At Chambertran I was also a field service engineer and, for over 10 years worked on some international projects for the "oil & gas" industry; but this is past...
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelosantostechnology/)](https://www.linkedin.com/in/marcelosantostechnology/)
 
 
 ## About me
-**My connection with technology officially started when I was fourteen... that was about 1986. I was having industrial electricity classes at a professional school and taking internship in a "fully automated glass factory" and, although I was there for electricity stuffs, there was where I could write my first lines of codes in BASIC language as well some batch files (DOS). However, software development was not my main role and for longer than 30 years I was just running parallel to it, sometimes developing some lines of codes for industrial computers (PLC) at work or doing some stuff as hobby.**
+My connection with technology officially started when I was fourteen... that was about 1986. I was having industrial electricity classes at a professional school and taking internship in a "fully automated glass factory" and, although I was there for electricity stuffs, there was where I could write my first lines of codes in BASIC language as well some batch files (DOS). However, software development was not my main role and for longer than 30 years I was just running parallel to it, sometimes developing some lines of codes for industrial computers (PLC) at work or doing some stuff as hobby.
 
-**It was in 2020 when I was rethinking my life due to the COVID-19 that I decided to start over my professional career and shift at once to software development, then I registered myself on a fullstack JS/JAVA development bootcamp; since then, many hours of "study and code" have gone... Want to know more about my apprenticeship and hands on coding? Take a look at my repo or just contact me!**
+It was in 2020 when I was rethinking my life due to the COVID-19 that I decided to start over my professional career and shift at once to software development, then I registered myself on a fullstack JS/JAVA development bootcamp; since then, many hours of "study and code" have gone... Want to know more about my apprenticeship and hands on coding? Take a look at my repo or just contact me!
 
 &nbsp;
 ## Education
