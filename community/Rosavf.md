@@ -152,7 +152,9 @@ Sou uma profissional venezuelana formada em Engenharia em Informática pela UNER
 ## Redes Sociais 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-RosaVirginia-blue)](https://www.linkedin.com/in/rosa-virginia-flores/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=blue)](https://www.instagram.com/edt.creative/)
+[![Instagram](https://img.shields.io/badge/Instagram-RosaVirginia-blue)](https://www.instagram.com/edt.creative/)
+
+
 
 ---
 
