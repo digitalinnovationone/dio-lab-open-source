@@ -1,6 +1,6 @@
-### Hi, I'm Marcelo Santos, founder and general manager of Chambertran Solutions, a technical services contractor company. At Chambertran I was also a field service engineer and, for over 10 years worked on some international projects for the "oil & gas" industry; but this is past...
+## Hi, I'm Marcelo Santos, founder and general manager of Chambertran Solutions, a technical services contractor company. At Chambertran I was also a field service engineer and, for over 10 years worked on some international projects for the "oil & gas" industry; but this is past...
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelobikerdev/)](https://www.linkedin.com/in/marcelobikerdev/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelosantostechnology/)](https://www.linkedin.com/in/marcelosantostechnology/)
 
 
 ### About me
@@ -8,14 +8,17 @@ My connection with technology officially started when I was fourteen... that was
 
 It was in 2020 when I was rethinking my life due to the COVID-19 that I decided to start over my professional career and shift at once to software development, then I registered myself on a fullstack JS/JAVA development bootcamp; since then, many hours of "study and code" have gone... Want to know more about my apprenticeship and hands on coding? Take a look at my repo or just contact me!
 
-- [Courses](https://web.dio.me/) 
-- [Courses](https://www.academiadecodigo.org/)
-- [Courses](https://www.baeldung.com/)
-- [Courses](https://www.algaworks.com)
-- [Courses](https://www.udemy.com)
-- [Courses](https://www.freecodecamp.org)
+&nbsp;
+### Education
+- [Computer Engineering - Expected completion in December 2025](https://descomplica.com.br/)
+- [Digital Inovation One](https://web.dio.me/)
+- [Academia de Código](https://www.academiadecodigo.org/)
+- [Baeldung](https://www.baeldung.com/)
+- [Algaworks](https://www.algaworks.com)
+- [Udemy](https://www.udemy.com)
+- [Free Code Camp](https://www.freecodecamp.org)
 
-
+&nbsp;
 ### These are some examples of what I have learned
 ![image-20211113233356591](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113233356591.png)               ![image-20211113235059543](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113235059543.png)                ![image-20211113234134511](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113234134511.png)                ![image-20211113122919140](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113122919140.png)                ![image-20211113122258724](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113122258724.png)
 
@@ -29,14 +32,14 @@ It was in 2020 when I was rethinking my life due to the COVID-19 that I decided 
 
 ![image-20211113233023632](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113233023632.png)               ![image-20211113213905917](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113213905917.png)
 
-
+&nbsp;
 ### Certificates
-!ONGOING! Redesigning section as there are many certificates to be shown...
+Redesigning section as there are many certificates to be shown...
 
 
 
 
-
+&nbsp;
 <center>
 
 
@@ -46,15 +49,18 @@ It was in 2020 when I was rethinking my life due to the COVID-19 that I decided 
 
 
 
-</center>
-
-```Work
-Work in constant evolution, visit us often!
-```
-
+&nbsp;
 ![Gits Snake Revenge Animation](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/github-contribution-grid-snake.svg)
 
 
-
+&nbsp;
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F8-marcelosantos-8%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=postwoman.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+&nbsp;
+</center>
+
+```Work
+> **Work in constant evolution, visit us often!**
+```
