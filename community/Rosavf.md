@@ -19,10 +19,14 @@ Ingeniera en Informática | Diseñadora Digital | Creativa & Resiliente
 
 Soy una profesional venezolana con formación en Ingeniería en Informática en la UNERG, con una especialización en IBM y aplicaciones, además de certificaciones en redes con el curso CCNA Cisco. Mi carrera combina la lógica de la tecnología con la sensibilidad del diseño, permitiéndome construir soluciones innovadoras que conectan funcionalidad y estética. La naturaleza es mi gran inspiración, y creo firmemente en diseñar con propósito, buscando soluciones que impacten positivamente.
 
-- **Ingeniera en Informática** en la UNERG (Venezuela)
-- Especialización en **IBM y aplicaciones**
-- Máster en **Diseño Digital con Adobe Photoshop**
-- Diplomado en **Docencia Universitaria**
+## Formación
+<ul>
+        <li><span class="icon">🎓</span><strong>Ingeniera en Informática</strong> por la UNERG (Venezuela)</li>
+        <li><span class="icon">🖥️</span>Especialización en <strong>IBM y aplicaciones</strong></li>
+        <li><span class="icon">📸</span>Máster en <strong>Diseño Digital con Adobe Photoshop</strong></li>
+        <li><span class="icon">📚</span>Diplomado en <strong>Docencia Universitaria</strong></li>
+    </ul>
+
 
 ---
 
@@ -51,6 +55,13 @@ Soy una profesional venezolana con formación en Ingeniería en Informática en 
 
 ---
 
+## Lenguajes
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
+
+---
 ## Contacto
 
 📧 **Email**: [rosav.flores.ochoa@gmail.com](mailto:rosav.flores.ochoa@gmail.com)
@@ -65,4 +76,5 @@ Soy una profesional venezolana con formación en Ingeniería en Informática en 
 
 ---
 
-> "Cada día es una nueva oportunidad para ser mi mejor versión."
+> Mi frase "Cada día es una nueva oportunidad para ser mi mejor versión." RV
+
