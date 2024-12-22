@@ -2,7 +2,7 @@
 
 
  <h1><a href="https://edtcreative.com/">
-     <img align="center" alt="Logo EDT CREATIVE" width="36px" src="https://www.freepik.com/free-vector/gradient-world-wide-web-internet_149441737.htm#fromView=search&page=1&position=27&uuid=72de2afa-1ced-4b18-a703-d48209a28fb1&new_detail=true"></a>
+     <img align="center" alt="Logo EDT CREATIVE" width="36px" src="https://github.com/Rosavf/dio-lab-open-source/blob/main/site.png"></a>
     <span>Rosa Virginia</span>
 </h1>
 
@@ -13,7 +13,7 @@ Application e-bussines y Diplomado en Docencia Universitária.
 
 Soy Web Designer UI/UX | Graphic Designer | Community Manager
 
----
+-
 
 ## Sobre mí
 
