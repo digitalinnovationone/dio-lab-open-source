@@ -119,19 +119,19 @@ Sou uma profissional venezuelana formada em Engenharia em Informática pela UNER
 
 ## Experiência 🚀
 
-📌 **Web Designer Pleno** - Idealine Aquarius S Comercial LTDA (Brasil, Noviembre 2024)
+📌**Web Designer Pleno** - Idealine Aquarius S Comercial LTDA (Brasil, Noviembre 2024)
   - Design de protótipos no Figma, criação de banners animados, mudanças de cores de produtos, estruturas (Keyshot) e vídeos para reels.
 
--📌 **Web Designer** - Zênite (Brasil, Sep 2022- Jun 2023)
+-📌**Web Designer** - Zênite (Brasil, Sep 2022- Jun 2023)
   - Desempenhei funções focadas em melhorar a aparência visual e adaptabilidade nas versões desktop, laptop e mobile sob a linguagem HTML e CSS, Javascript. Além do trabalho em equipe na criação de gifs animados, peças gráficas para carrosséis de postagens estáticos e dinâmicos para redes sociais. Camadas de vídeo para  youtube. Elaboração de manuais para utilização do CMS WordPress. Manutenção WordPress, integração de formulários HTML e E-goi, logótipos, design de banners para (revolução de slides) e integração com calendário Google. Criação de post news em Wordpress.
 
--📌 **Web Designer** - EDT Creative (Brasil,  2023)
+-📌**Web Designer** - EDT Creative (Brasil,  2023)
   - Design web, animação 3D e criação de vídeos motion.
 
-📌 **Community Manager** (Venezuela 2022)
+📌**Community Manager** (Venezuela 2022)
   - Gestão de redes sociais e design de conteúdo visual.
 
-📌 **Web Designer** - Rentaweb (Chile, 2020-2022)
+📌**Web Designer** - Rentaweb (Chile, 2020-2022)
   - Criação de layouts e design responsivo.
 ---
 
