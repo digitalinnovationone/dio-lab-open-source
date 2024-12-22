@@ -8,7 +8,7 @@
 
 
 # Hola, soy Rosa Virginia.:star:
-### Me gradué en Venezuela en Ingeniera en Informática. Specialist Sof tware Development and Application e-bussines y Diplomado en Docencia Universitária.
+### Me gradué en Venezuela en Ingeniera en Informática. Specialist Software Development and Application e-bussines y Diplomado en Docencia Universitária.
 Soy Web Designer UI/UX | Graphic Designer | Community Manager
 
 ---
@@ -17,9 +17,9 @@ Soy Web Designer UI/UX | Graphic Designer | Community Manager
 
 Ingeniera en Informática | Diseñadora Digital | Creativa & Resiliente
 
-Soy una profesional venezolana con formación en Ingeniería en Informática por la UNERG, complementada con una especialización en IBM y aplicaciones, además de certificaciones en redes con el curso CCNA Cisco. Mi carrera combina la lógica de la tecnología con la sensibilidad del diseño, permitiéndome construir soluciones innovadoras que conectan funcionalidad y estética.
+Soy una profesional venezolana con formación en Ingeniería en Informática en la UNERG, con una especialización en IBM y aplicaciones, además de certificaciones en redes con el curso CCNA Cisco. Mi carrera combina la lógica de la tecnología con la sensibilidad del diseño, permitiéndome construir soluciones innovadoras que conectan funcionalidad y estética. La naturaleza es mi gran inspiración, y creo firmemente en diseñar con propósito, buscando soluciones que impacten positivamente.
 
-- **Ingeniera en Informática** por la UNERG (Venezuela)
+- **Ingeniera en Informática** en la UNERG (Venezuela)
 - Especialización en **IBM y aplicaciones**
 - Máster en **Diseño Digital con Adobe Photoshop**
 - Diplomado en **Docencia Universitaria**
@@ -38,6 +38,8 @@ Soy una profesional venezolana con formación en Ingeniería en Informática por
 
 ## Experiencia
 
+-**Web Designer Pleno** - Idealine Aquarius S Comercial LTDA (Brasil, Noviembre 2024)
+  - Diseño web prototipos en Figma, Diseño de Banners animados, productos cambios de colores, estructuras (Keyshot), videos para reels. 
 - **Web Designer** - EDT Creative (Brasil, 2022 - 2023)
   - Diseño web, animación 3D y creación de videos motion.
 
