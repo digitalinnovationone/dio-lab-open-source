@@ -44,7 +44,7 @@ Redesigning section as there are many certificates to be shown...
 
 
 | |Statistics | |
-| :---: |  :---: |  :---: |
+
 |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=8-marcelosantos-8&theme=blue-green) |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 
