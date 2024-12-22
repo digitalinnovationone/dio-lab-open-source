@@ -7,7 +7,7 @@
 </h1>
 
 
-# Hola, soy Rosa Virginia.:star:
+# Hola, soy Rosa Virginia.👋
 ### Me gradué en Venezuela en Ingeniera en Informática. Specialist Software Development and Application e-bussines y Diplomado en Docencia Universitária.
 Soy Web Designer UI/UX | Graphic Designer | Community Manager
 
