@@ -50,17 +50,10 @@ Redesigning section as there are many certificates to be shown...
 
 
 &nbsp;
-![Gits Snake Revenge Animation](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/github-contribution-grid-snake.svg)
-
-
-&nbsp;
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F8-marcelosantos-8%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=postwoman.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 &nbsp;
-</center>
 
-```Work
 > **Work in constant evolution, visit us often!**
-```
