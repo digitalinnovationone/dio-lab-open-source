@@ -15,14 +15,13 @@ It was in 2020 when I was rethinking my life due to the COVID-19 that I decided 
 - [Courses](https://www.udemy.com)
 - [Courses](https://www.freecodecamp.org)
 
+
 ### These are some examples of what I have learned
 ![image-20211113233356591](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113233356591.png)               ![image-20211113235059543](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113235059543.png)                ![image-20211113234134511](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113234134511.png)                ![image-20211113122919140](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113122919140.png)                ![image-20211113122258724](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113122258724.png)
 
-<<<<<<< HEAD
 ![image-20211113125410000](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113125410000.png)               ![image-20211113125511569](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113125511569.png)                ![image-20211113125128447](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113125128447.png)                ![image-20211113125235400](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113125235400.png)               ![image-20211113125128474](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113125128474.png)
-=======
+
 ![image-20211113125410000](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113125410000.png)               ![image-20211113125511569](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113125511569.png)                ![image-20211113125128447](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113125128447.png)                ![image-20211113125235400](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113125235400.png)                ![image-20211113125128474](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113125128474.png)
->>>>>>> 3da51cf2b91bc7ca3fd17315f7a5b23467eafeb8
 
 ![image-20211113214416142](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113214416142.png)              ![image-20211113214913945](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113214913945.png)               ![image-20211113232623951](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113232623951.png)               ![image-20211113232623950](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113232623950.png)
 
@@ -31,6 +30,7 @@ It was in 2020 when I was rethinking my life due to the COVID-19 that I decided 
 ![image-20211113213944803](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113213944803.png)               ![image-20211113214625413](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113214625413.png)
 
 ![image-20211113233023632](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113233023632.png)               ![image-20211113213905917](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113213905917.png)
+
 
 ### Certificates
 !ONGOING! Redesigning section as there are many certificates to be shown...
@@ -54,7 +54,7 @@ It was in 2020 when I was rethinking my life due to the COVID-19 that I decided 
 Work in constant evolution, visit us often!
 ```
 
-![Gits Snake Revenge Animation](https://github.com/Marcelo-Biker-Dev/8-marcelosantos-8/blob/main/github-contribution-grid-snake.svg)
+![Gits Snake Revenge Animation](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/github-contribution-grid-snake.svg)
 
 
 
