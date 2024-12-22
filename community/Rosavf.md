@@ -8,16 +8,16 @@
 
 
 # Hola, soy Rosa Virginia.:star:
-### Me gradué en Venezuela en Ingeniera en Informática. Specialist Sof tware Development and
-Application e-bussines y Diplomado en Docencia Universitária.
-
+### Me gradué en Venezuela en Ingeniera en Informática. Specialist Sof tware Development and Application e-bussines y Diplomado en Docencia Universitária.
 Soy Web Designer UI/UX | Graphic Designer | Community Manager
 
--
+---
 
 ## Sobre mí
 
-Hola, soy Rosa Virginia, una profesional resiliente y orientada al logro, agradecida con la vida y comprometida con la excelencia. 
+Ingeniera en Informática | Diseñadora Digital | Creativa & Resiliente
+
+Soy una profesional venezolana con formación en Ingeniería en Informática por la UNERG, complementada con una especialización en IBM y aplicaciones, además de certificaciones en redes con el curso CCNA Cisco. Mi carrera combina la lógica de la tecnología con la sensibilidad del diseño, permitiéndome construir soluciones innovadoras que conectan funcionalidad y estética.
 
 - **Ingeniera en Informática** por la UNERG (Venezuela)
 - Especialización en **IBM y aplicaciones**
