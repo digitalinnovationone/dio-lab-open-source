@@ -42,7 +42,7 @@ Soy una profesional venezolana con formación en Ingeniería en Informática en 
 
 ## Experiencia
 
--**Web Designer Pleno** - Idealine Aquarius S Comercial LTDA (Brasil, Noviembre 2024)
+- **Web Designer Pleno** - Idealine Aquarius S Comercial LTDA (Brasil, Noviembre 2024)
   - Diseño web prototipos en Figma, Diseño de Banners animados, productos cambios de colores, estructuras (Keyshot), videos para reels. 
 - **Web Designer** - EDT Creative (Brasil, 2022 - 2023)
   - Diseño web, animación 3D y creación de videos motion.
@@ -57,7 +57,7 @@ Soy una profesional venezolana con formación en Ingeniería en Informática en 
 
 ## Lenguajes
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rosavf&bg_color=fff&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 
