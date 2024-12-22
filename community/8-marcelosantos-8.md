@@ -18,7 +18,7 @@ It was in 2020 when I was rethinking my life due to the COVID-19 that I decided 
 ### These are some examples of what I have learned
 ![image-20211113233356591](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113233356591.png)               ![image-20211113235059543](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113235059543.png)                ![image-20211113234134511](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113234134511.png)                ![image-20211113122919140](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113122919140.png)                ![image-20211113122258724](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113122258724.png)
 
-![image-20211113125410000](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113125410000.png)              ![image-20211113125511569](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113125511569.png)               ![image-20211113125128447](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113125128447.png)               ! [image-20211113125235400](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113125235400.png)               ![image-20211113125128474](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113125128474.png)
+![image-20211113125410000](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113125410000.png)               ![image-20211113125511569](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113125511569.png)                ![image-20211113125128447](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113125128447.png)                ![image-20211113125235400](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113125235400.png)               ![image-20211113125128474](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113125128474.png)
 
 ![image-20211113214416142](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113214416142.png)              ![image-20211113214913945](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113214913945.png)               ![image-20211113232623951](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113232623951.png)               ![image-20211113232623950](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/Image/image-20211113232623950.png)
 
@@ -40,7 +40,7 @@ It was in 2020 when I was rethinking my life due to the COVID-19 that I decided 
 
 | |Statistics | |
 | :---: |  :---: |  :---: |
-|  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Biker-Dev&theme=blue-green) |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=8-marcelosantos-8&theme=blue-green) |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 
 
@@ -50,11 +50,9 @@ It was in 2020 when I was rethinking my life due to the COVID-19 that I decided 
 Work in constant evolution, visit us often!
 ```
 
-![Gits Snake Revenge Animation](https://github.com/Marcelo-Biker-Dev/Marcelo-Biker-Dev/blob/main/github-contribution-grid-snake.svg)
+![Gits Snake Revenge Animation](https://github.com/Marcelo-Biker-Dev/8-marcelosantos-8/blob/main/github-contribution-grid-snake.svg)
 
 
 
 
-| | | |
-| :---: |  :---: |  :---: |
-|  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMarcelo-Biker-Dev%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F8-marcelosantos-8%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=postwoman.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
