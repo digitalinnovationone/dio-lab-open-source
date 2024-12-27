@@ -1,0 +1,223 @@
+[33mcommit c96be86dd8ce325d46f153c874ef0f4e3b8b9bdd[m[33m ([m[1;36mHEAD -> [m[1;32mfeat/community/Eloniam[m[33m)[m
+Author: elonia <eloniamaria@gmail.com>
+Date:   Thu Dec 26 21:54:57 2024 -0300
+
+    feat: add Eloniam profile
+
+[33mcommit 792dede58579c0fd5d6823c8aeba458867684621[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: e75037ffb 728c1de12
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Dec 26 03:30:35 2024 +0000
+
+    Merge pull request #53048 from felixjp1/felixjp1
+
+[33mcommit 728c1de12093e8bdfa172d2b4df38294dd45ee3c[m
+Author: João Pedro <felixjoaopedro114@gmail.com>
+Date:   Thu Dec 26 00:29:29 2024 -0300
+
+    Create felixjp1.md
+
+[33mcommit e75037ffbe6f95cca6afc0894ffbc8bf3d6b4f98[m
+Merge: 2be4cb4cf 8ea0fcbbf
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Dec 26 00:56:31 2024 +0000
+
+    Merge pull request #53045 from PauloJapa/feat/community/PauloJapa
+
+[33mcommit 8ea0fcbbfd6453dbf30b761c10522f6ff4b47dbb[m
+Author: Paulo Watakabe <watakabe05@gmail.com>
+Date:   Wed Dec 25 21:51:49 2024 -0300
+
+    feat: add PauloJapa profile
+
+[33mcommit 2be4cb4cf48cea6055b6304ecb3e557252cbf8ae[m
+Merge: 2658c24b7 b484c04ed
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Dec 24 20:25:02 2024 +0000
+
+    Merge pull request #53041 from lucaspy10/feat/community/lucaspy10
+
+[33mcommit b484c04ed2ca541723773f230d9deff3085da29c[m
+Author: Hershell Lucas <hershellsousa@gmail.com>
+Date:   Tue Dec 24 17:15:49 2024 -0300
+
+    feat: add lucaspy10 profile
+
+[33mcommit 2658c24b7dafa1c07b169f81dc4d75ad009382e0[m
+Merge: 102d53581 515b1d5ea
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Dec 24 17:04:37 2024 +0000
+
+    Merge pull request #53040 from olikiverjesus/feat/community/olikiverjesus
+
+[33mcommit 515b1d5ea011a1cc6d9cfc83ce38ede0dc5280ff[m
+Author: Olikiver Barros <149892232+olikiverjesus@users.noreply.github.com>
+Date:   Tue Dec 24 14:01:07 2024 -0300
+
+    Create olikiverjesus.md
+
+[33mcommit 102d535815a660e8cef13a9f41045495a48566ce[m
+Merge: 30c2462bc 6422bfb14
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Dec 24 09:12:12 2024 +0000
+
+    Merge pull request #53039 from Raiacovitch-Jean/feat/community/Raiacovitch-Jean
+
+[33mcommit 6422bfb14d7a769763cd70960d60e0aae3dad1ba[m
+Author: Raiak <jcarloss440@gmail.com>
+Date:   Tue Dec 24 06:09:28 2024 -0300
+
+    feat: add Raiacovitch-Jean profile
+
+[33mcommit 30c2462bcbaba5311d5acf68a484e4c1f7c704d9[m
+Merge: 4f9c5a279 28de073c6
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Dec 24 00:04:09 2024 +0000
+
+    Merge pull request #53038 from jotavictor20/feat/community/jotavictor20
+
+[33mcommit 28de073c6a766f61e9c09a81bb5fbc8180d160c5[m
+Author: João Victor <130237210+jotavictor20@users.noreply.github.com>
+Date:   Mon Dec 23 23:54:24 2024 +0000
+
+    feat: jotavictor
+
+[33mcommit 4f9c5a279fe4e659e629f3b90518ec3cc1c6f43e[m
+Merge: 2c76956cd cfcf9d4aa
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Mon Dec 23 17:40:25 2024 +0000
+
+    Merge pull request #53036 from matheuslinhaus/feat/community/matheuslinhaus
+
+[33mcommit cfcf9d4aa3fe0e3b92c02077dcf9fa97c04d86f1[m
+Author: Matheus Rita Linhaus <58149645+matheuslinhaus@users.noreply.github.com>
+Date:   Mon Dec 23 14:34:11 2024 -0300
+
+    feat: add matheuslinhaus profile
+
+[33mcommit 2c76956cd7cd7052f802e7df5d08a142c2c634d8[m
+Merge: c55cc4dba bba16facf
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Mon Dec 23 15:00:29 2024 +0000
+
+    Merge pull request #53035 from VibeSideral/feat/community/VibeSideral
+
+[33mcommit bba16facffbbbb7e5db5d5233bdcc48469bbedff[m
+Author: VibeSideral <victor.correaoficial@gmail.com>
+Date:   Mon Dec 23 11:56:48 2024 -0300
+
+    feat: add VibeSideral profile
+
+[33mcommit c55cc4dbad22fc04bdf792a1fba97ada7e69619e[m
+Merge: 4abfc2ae9 4adac8d70
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Mon Dec 23 14:38:42 2024 +0000
+
+    Merge pull request #53034 from viictor-h-amaral/feat/community/viictor-h-amaral
+
+[33mcommit 4adac8d70143a81a08ff3f4af8ddf08b39d8c67d[m
+Author: viictor-h-amaral <victorhamaralom@gmail.com>
+Date:   Mon Dec 23 11:27:13 2024 -0300
+
+    feat: add viictor-h-amaral profile
+
+[33mcommit 4abfc2ae91d9af6519821181be63186338b98c40[m
+Merge: 9c8a72ebe 6195cba72
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Mon Dec 23 13:55:43 2024 +0000
+
+    Merge pull request #53031 from freitasmateus/feat/community/freitasmateus
+
+[33mcommit 9c8a72ebee1df48f2720092326440a4b230c9c56[m
+Merge: 7b21e57a5 4a80d9615
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Mon Dec 23 13:55:37 2024 +0000
+
+    Merge pull request #53032 from JPC885/feat/community/JPC885
+
+[33mcommit 7b21e57a55e1a132ec74cd828fdbea9dba64ed3d[m
+Merge: 1f4329648 047fc0316
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Mon Dec 23 13:05:44 2024 +0000
+
+    Merge pull request #53030 from VandyckLN/feat/community/VandyckLN
+
+[33mcommit 047fc0316d764f6d7aca9ed142fc6af666bdafeb[m
+Author: VandyckLN <vandycklima@gmail.com>
+Date:   Mon Dec 23 09:20:25 2024 -0300
+
+    Rename VLND.md to VandyckLN.md
+
+[33mcommit 9180555b1dab15b73d8158075bd36281f8517c84[m
+Author: VandyckLN <vandycklima@gmail.com>
+Date:   Mon Dec 23 08:02:37 2024 -0300
+
+    feat: add VandyckLN
+
+[33mcommit 1f43296483e85bad46e0a64c8d2e3b093c58eff9[m
+Merge: 689a41518 6ef9df7bb
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Dec 22 22:24:30 2024 +0000
+
+    Merge pull request #53028 from enzohdribeiro/feat/community/enzohdribeiro
+
+[33mcommit 6ef9df7bbd7bd6d53832d040f00ef2d2b9718366[m
+Author: enzohdribeiro <enzo.hdribeiro@gmail.com>
+Date:   Sun Dec 22 19:12:17 2024 -0300
+
+    feat: add enzohdribeiro profile
+
+[33mcommit 689a41518672f11dd24e72ed4e9975b02ae21ad0[m
+Merge: c6f7de440 413cfab20
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Dec 22 21:45:34 2024 +0000
+
+    Merge pull request #53027 from SissiMacedo/feat/community/SissiMacedo
+
+[33mcommit 413cfab20fea5213af7dd738f3c765e2148792e0[m
+Author: thaysse <thaysse09@gmail.com>
+Date:   Sun Dec 22 18:34:02 2024 -0300
+
+    feat: add SissiMacedo profile
+
+[33mcommit c6f7de440bb3ea3f1bd77079794ed173052287f4[m
+Merge: 0dec6f019 97274daf3
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Dec 22 16:29:49 2024 +0000
+
+    Merge pull request #53026 from Luixs/feat/community/Luixs
+
+[33mcommit 97274daf333817d29beb2299afb5122d91125a5c[m
+Author: Luis Starlino <luis.guilherme009@gmail.com>
+Date:   Sun Dec 22 13:26:03 2024 -0300
+
+    feat: add Luixs profile
+
+[33mcommit 0dec6f0199355931930de34fda6ac80df64de4a5[m
+Merge: 9a8077a89 8f99761eb
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Dec 22 15:23:38 2024 +0000
+
+    Merge pull request #53025 from Rosavf/feat/community/Rosavf
+
+[33mcommit 8f99761ebefb1a6e5acbb28ba1226a0389a3b620[m
+Author: Rosa <rosav.flores.ochoa@gmail.com>
+Date:   Sun Dec 22 12:22:37 2024 -0300
+
+    Editando meu Readme Rosavf.md estou Estou colocando meu arquivo readme.md em português.
+
+[33mcommit 6279570ebf9a6f284cfc55c646e88d7715c753cd[m
+Author: Rosa <rosav.flores.ochoa@gmail.com>
+Date:   Sun Dec 22 12:19:31 2024 -0300
+
+    Editando meu Readme Rosavf.md estou Estou colocando meu arquivo readme.md em português.
+
+[33mcommit 62471e3a73e7f1aa4ff5a5973a3538b2d531f354[m
+Author: Rosa <rosav.flores.ochoa@gmail.com>
+Date:   Sun Dec 22 12:17:59 2024 -0300
+
+    Editando meu Readme Rosavf.md estou Estou colocando meu arquivo readme.md em português.
+
+[33mcommit 6ec2def3c84a6b1dd5d33b71e984ace584f79e7b[m
+Author: Rosa <rosav.flores.ochoa@gmail.com>
+Date:   Sun Dec 22 12:15:38 2024 -0
