@@ -9,7 +9,7 @@
         <p align="center"><h2>About me</h2></p>
         <p align="left">😉 Hi! My name is <b>Márcio Estevam da Silva</b>.</p>
         <p align="left">🏠 I live in Rio Claro, in the state of São Paulo, <b>Brazil</b>.</p>
-        <p align="letf">🧑‍🎓 I have completed a Data Analysis course (@ Resília Educação bootcamp) and I'm also studying <b>Computer Science</b> @ FAM Faculdade das Américas e estou no Bootcamp de Cybersegurança da DIO / Santander.</p>
+        <p align="letf">🧑‍🎓 I have completed a Data Analysis course (@ Resília Educação bootcamp) and I'm also studying <b>Computer Science</b> @ FAM Faculdade das Américas and I'm also in the Dio / Santander Cybersecurity Bootcamp..</p>
         <p align="left">😘 I'm passionate about football and also I like to play some video games.</p>
         <p align="left">🔭 Visit my Kaggle: <a href="https://www.kaggle.com/mrcioestevamdasilva" target="_blank" rel="noopener noreferrer">Márcio Estevam da Silva</a></p>
     </td>
