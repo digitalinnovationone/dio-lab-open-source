@@ -14,8 +14,6 @@
   <img align="center" alt="Dev-CSS" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dev-JavaScript" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Dev-PHP" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img align="center" alt="Dev-Vue.js" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg"/>
-  <img align="center" alt="Dev-JAVA" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
   <img align="center" alt="Dev-GIT" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
            
           
@@ -23,6 +21,6 @@
 
 <div style="display: inline_block"><br>
  
-<a href="https://www.linkedin.com/in/daniel-felix-a404411b8/" target="_blank" aling="center"> <img alt="Instagram" height="50" width="200" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/daniel-felix-a404411b8/" target="_blank" aling="center"> <img alt="Instagram" height="25" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </div>
