@@ -3,13 +3,14 @@
 Olá, sou dev iniciante, cursando Análise e Desenvolvimento de Sistemas (ADS) - UFBRA.
 tenho 40 anos, amante da tecnologia!
 
-## Certificações
+## Certificações:
 
 * Curso de Algoritmo [40 Horas] - Curso em Video
 * Curso de Git e GitHub [20 Horas] - Curso em Video
 * Curso Start na Programação HTML,CSS e JAVASCRIPT [3 h 14 min] - OneBitCode.
 
-## Habilidades
+
+## Habilidades:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,7 +25,7 @@ tenho 40 anos, amante da tecnologia!
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FelipeMachado-dev-ads&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-### Rede Social
+### Rede Social:
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeMachado-dev-ads)   
 [![PerfilDIO](https://img.shields.io/badge/meu_perfil_na_DIO-202?style=for-the-badge)](https://www.dio.me/users/felipe_dev_ads)
