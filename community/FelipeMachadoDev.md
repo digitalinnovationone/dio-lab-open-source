@@ -19,7 +19,7 @@ tenho 40 anos, amante da tecnologia!
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 
-## GitHub Stats
+## GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeMachado-dev-ads&theme=transparent&bg_color=000&border_color=7fffd4&show_icons=true&icon_color=30A3DC&title_color=7fffd4&text_color=FFF)
 
