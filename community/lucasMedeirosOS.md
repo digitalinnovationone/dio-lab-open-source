@@ -1,5 +1,3 @@
-
-
 # 🌟 Seja Bem-Vindo ao Perfil de Lucas Medeiros! 🌟
 
 Este projeto README.MD foi proposto pela [Digital Innovation One](https://web.dio.me/home). Aqui, compartilho um pouco sobre mim e minhas habilidades interpessoais (Soft Skills) que já possuo e quais habilidades técnicas (Hard Skills) pretendo adquirir.
