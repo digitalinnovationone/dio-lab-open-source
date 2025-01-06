@@ -1,9 +1,9 @@
-## Olá, meu nome é Bianca ??
+## Hi, my name is Bianca ??
 
-Sou apaixonado por tecnologia e criminologia. Futuramente quero trabalhar na área de cibersegurança.
-Sou estudante de Ciência da Computação.
+I am passionate about technology and criminology. I am a Computer Science student.
 
-- ?? Estudando Linguagem C, JavaScript, Cloud Computing e Cibersegurança.
+- ?? In the future I want to work in cybersecurity
+- ?? I?m currently learning C language and cybersecurity
 
 ##
 
