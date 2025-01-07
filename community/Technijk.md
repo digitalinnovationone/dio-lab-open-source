@@ -1,4 +1,4 @@
-# Olá, sou o [Technijk](https://web.dio.me/users/technijk)! 👋
+# Olá, sou o [Kauê Avelino](https://web.dio.me/users/technijk)! 👋
 
 Seja bem-vindo(a) ao meu perfil no GitHub! 🚀  
 Aqui você encontrará projetos e estudos relacionados ao meu interesse em **Desenvolvimento de Software**, **Inteligência Artificial** e muito mais.
