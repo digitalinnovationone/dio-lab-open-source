@@ -27,7 +27,7 @@ Olá! Sou Deyvid Souza, graduado em Sistemas de Informação pela FeMASS, onde d
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)&nbsp;
 
-## <img src="image-2.png" alt="alt text" style="width: 26px; height: 26px; vertical-align: middle;"> Tools and Technologies
+## 🛠 Tools and Technologies
 
 
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
