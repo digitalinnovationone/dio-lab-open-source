@@ -19,6 +19,3 @@ Minhas áreas de interesse são Back-end e IA (Inteligência Artificial).   Esto
 
 ## GitHub Stats ⚙
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isabasstos&theme=transparent&bg_color=965&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=FFF&hide_title=true&hide-stars)
-
-## Minhas Contribuições 💡
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=isabasstos&repo=SEUREPOSITORIO&bg_color=965&border_color=fff&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=FFF)](https://github.com/isabasstos/dio-lab-open-source.git)
