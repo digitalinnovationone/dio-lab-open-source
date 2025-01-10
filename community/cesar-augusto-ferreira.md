@@ -1,6 +1,6 @@
 # César Augusto Ferreira
 
-## Conecte-se comigo
+## Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ADD8E3?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](linkedin.com/in/cesar-augusto-ferreira-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-ADD8E3?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/cesar-augusto-ferreira)
 
@@ -12,7 +12,7 @@
 ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
 
 
-## gitHub stats
+## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cesar-augusto-ferreira&theme=transparent&bg_color=ADD8E3&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=000&title=false&hide=stars)
 
 ## Minhas Contribuições
