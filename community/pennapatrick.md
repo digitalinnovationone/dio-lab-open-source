@@ -11,8 +11,6 @@ Atualmente estagiário e apaixonado por desenvolvimento, tecnologia e entusiasta
 ### 💼 Projetos em Destaque
 - [Projeto Node.js](https://github.com/pennapatrick/API-VENDAS)  
   Uma API para gerenciamento de Vendas desenvolvida com Typescript e Express.
-- [Projeto Python](https://github.com/seuusername/projeto-python)  
-  Script de automação usando Python para análise de dados.
 
 ### 🔥 Linguagens Mais Usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=pennapatrick&layout=compact&theme=dracula)
