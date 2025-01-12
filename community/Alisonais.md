@@ -17,9 +17,19 @@ No momento que estou criando esta contribuição estou buscando trasição de ca
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+![TypeScript](https://shields.io/badge/TypeScript-000?logo=TypeScript&logoColor=FFF&style=for-the-badge)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-<!-- [![ReactJs](https://img.shields.io/badge/ReactJs-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/) -->
+![ReactJs](https://img.shields.io/badge/-ReactJs-000?logo=react&logoColor=white&style=for-the-badge)
+![laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://shields.io/badge/-PHP-000?style=for-the-badge&logo=php)
+![vuejs](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![expo](https://img.shields.io/badge/Expo-000?style=for-the-badge&logo=expo&logoColor=white)
+![PostgresSQL](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://shields.io/badge/MySQL-000?logo=mysql&style=for-the-badge&logoColor=white&labelColor=000)
+![RHF](https://img.shields.io/badge/react--hook--form-000?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/-Zod-000?style=for-the-badge&logo=zod&logoColor=white)
+![TailWind](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
 ### GitHub Stats
 
