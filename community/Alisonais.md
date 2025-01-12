@@ -36,3 +36,16 @@ No momento que estou criando esta contribuição estou buscando trasição de ca
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alisonais&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Alisonais&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+### Portifólio
+<ul>
+    <li>
+        <a href="https://www.rinaldocar.com.br"><span>landing Page para uma oficina de funilaria e pintura</span></a>
+    </li>
+    <li>
+        <a href="https://orcamento.rinaldocar.com.br"><span>sistema para elaborar orçamento para uma oficina de funilaria e pintura</span></a>
+    </li>
+    <li>
+        <a href="https://www.linkedin.com/company/clientcraft/about/"><span>Colabori com o desenvolvimento de features, escolha de bibliotecas, estrutura de banco de dados, tanto no front-end quanto back-end</span></a>
+    </li>
+</ul>
