@@ -56,4 +56,4 @@ As entertainment and cultural activities, I like reading and gathering with frie
 [![DIO Profile](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/rmjo_inbox)
 
 You can also contact me by email: rmjo.inbox@gmail.com
---------------------------------------------------------
+---------------------------------------------------------
