@@ -1,7 +1,7 @@
 # Olá, Me chamo Fabiano Maciel
 Sou **Especialista em Inovação** no Grupo Energisa, **Tecnológo em Telecomunicações** pelo IFPB e com **Pós-graduação _Lato Sensu_ MBA em Gestão Empresarial** pelo Unipê
 
-Atualmente faço uma outra **graduação EAD em Inteligência Artifical pela Universidade Cruzeiro do Sul e passei no **Mestrado (2025.1) em Ciência de Dados e Inteligência Artificial** pelo IFPB
+Atualmente faço uma outra **graduação EAD** em Inteligência Artifical pela Universidade Cruzeiro do Sul e passei no **Mestrado (2025.1) em Ciência de Dados e Inteligência Artificial** pelo IFPB
 
 
 ## Conecte-se comigo
