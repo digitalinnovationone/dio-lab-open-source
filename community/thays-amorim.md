@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Muito prazer! Thays,</h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas, último semestre. Já estagiei em Engenharia de Dados.</h3>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas (ADS), último semestre. Já estagiei em Engenharia de Dados.</h3>
 
 - 🌱 Atualmente estudando **a plataforma Databricks e outras ferramentas para análise de dados.**
 
