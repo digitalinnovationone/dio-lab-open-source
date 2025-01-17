@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  💌 Para entrar em contato com você: ⤵️
+  💌 Para entrar em contato: ⤵️
 </p>
 
 <p align="left">
