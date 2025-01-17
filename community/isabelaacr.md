@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 <p align="left"> 
   Me chamo Isabela, sou técnica em administração pelo Instituto Federal Farroupilha Campus São Vicente do Sul e atualmente estou graduando em Engenharia de Computação pela Universidade Federal de Santa Maria</p>
 
