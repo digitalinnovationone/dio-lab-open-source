@@ -1,2 +1,0 @@
-<h2>Livia Caetano de Andrade</h2>
-<p>Me chamo Livia Caetano de Andrade, sou formada pelo Instituto Federal de Mato Grosso do Sul no curso Técnico em Informática para Internet, no qual tive meu primeiro contato com a programação e desenvolvi grande afinidade pela área. Atualmente, estou matriculada em Engenharia de Computação na Universidade Federal da Grande Dourados, onde pretendo aprofundar meus conhecimentos e me desenvolver como estudante e profissional.👩‍💻 📖</p>
