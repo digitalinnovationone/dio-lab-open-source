@@ -8,7 +8,7 @@ Aqui você confere uma lista de exemplos desenvolvida pela comunidade. Veja abai
 
 ---
 
-# Nome Sobrenome
+# Vernan Marques
 
 Breve descrição sobre você.
 
