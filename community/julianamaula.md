@@ -1,6 +1,6 @@
-<img src="https://github.com/user-attachments/assets/0e2f5ac9-9821-48e8-999f-d7b7cd50d08a" min-width="200px" max-width="200px" width="200px" align="right">
 
-<p align=center>JULIANA DE MAULA</p>
+ # Olá, eu sou a Juliana! 👋
+
 
 ![icons8-mulher-tecnóloga-48](https://github.com/user-attachments/assets/cef91082-065d-4d6e-8175-bc67dccbea5e)**Analista Desenvolvimento de Produtos**  
 
@@ -32,7 +32,7 @@ pesquisa e tendências de novos produtos. Com espírito resiliente, capacidade d
 
 ![icons8-código-fonte-94](https://github.com/user-attachments/assets/0252bad5-eb3a-4023-8d0f-fbe92ffa7612)**Tecnologias e Programação**:
  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 ![icons8-gráfico-positivo-94](https://github.com/user-attachments/assets/f665302e-83fa-44ed-8a15-765056da9036) Estatísticas no GitHub:
@@ -41,6 +41,7 @@ pesquisa e tendências de novos produtos. Com espírito resiliente, capacidade d
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julianamaula&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=julianamaula&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 
 ---
 ## ![icons8-certificação-50](https://github.com/user-attachments/assets/e0c58308-3cf4-4e55-b2d9-911462e12bbb) **Certificados e Cursos**
