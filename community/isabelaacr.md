@@ -1,8 +1,8 @@
-<p align="left"> 
-  Me chamo Isabela, sou técnica em administração pelo Instituto Federal Farroupilha Campus São Vicente do Sul e atualmente estou graduando em Engenharia de Computação pela Universidade Federal de Santa Maria</p>
+`<p align="left">`
+ Me chamo Isabela, sou técnica em administração pelo Instituto Federal Farroupilha - Campus São Vicente do Sul e atualmente estou graduando em Engenharia de Computação pela Universidade Federal de Santa Maria. `</p>`
 
 <p align="left">
-  🦄 Linguagens: python, C, SQL e Java
+  🦄 Linguagens: Python, C, SQL e Java.
 </p>
 
 <p align="left">
