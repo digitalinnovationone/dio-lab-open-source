@@ -22,13 +22,6 @@ Este projeto é sobre meu conhecimento em Cypress e ao decorrer do curso, coloca
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
 
-## 🚀 Tecnologias Utilizadas
-
-Liste as tecnologias e ferramentas principais. Por exemplo:
-- **Front-end:** HTML5, CSS3, JavaScript
-- **Back-end:** Node.js.
-- **Banco de Dados:** MongoDB
-- **Outras ferramentas:** Git
 
 ## 📂 Estrutura do Projeto
 
