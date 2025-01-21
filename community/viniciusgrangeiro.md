@@ -1,12 +1,22 @@
-# Vinicius Grangeiro
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Olá 👋, eu sou o Vinicius</h1></summary>
+</div>
 
-- 🤖 Sou estudante de desenvolvimento back-end.
+🙋 Tenho 23 anos de idade, sou estudante de desenvolvimento back-end e moro em São Paulo.
 
-- 📖 Eu tenho 23 anos de idade, atualmente curso Ciências da Computação e sou certificado pela ETEC em Desenvolvimento de SIstemas.
-- 🧙‍♂️ Gosto muito de assistir filmes e ler histórias de fantasia ou ficção científica, acredito que a imaginação pode nos ajudar a contruir um mundo melhor para todos
+📖 Atualmente curso Ciências da Computação e sou certificado pela ETEC em Desenvolvimento de SIstemas.
 
-_"A imaginação é mais importante que o conhecimento, porque o conhecimento é limitado, ao passo que a imaginação abrange o mundo inteiro.<br>
-Albert Einstein"_
+🌱 Estou estudando também outros conceitos também, como modelagem de API's, fundamentos de nuvem OCI, e crio alguns scripts para automatizar tarefas e gerar relatorios em um servidor de teste Linux que eu mesmo genrencio.
+
+🔭 Busco minha primeira oportunidade de emprego. Espero um dia poder trabalhar com desenvolvimento e com toda certeza fazer a diferença.
+
+💬 Sou sempre aberto a novas ideias e troca de conhecimento, acredito que isso é algo enriquecedor para qualquer profissional.
+
+🧙‍♂️Gosto muito de assistir filmes e ler histórias de fantasia ou ficção científica, acredito que a imaginação pode nos ajudar a contruir um mundo melhor para todos.
+
+_"A imaginação é mais importante que o conhecimento, porque o conhecimento é limitado, ao passo que a imaginação abrange o mundo inteiro”. Albert Einstein_
 
 ## Habilidades
 
