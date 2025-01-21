@@ -1,4 +1,4 @@
-### Olá, eu sou Josué Melo (josueMe) 👋
+### Olá, eu sou Josué Melo (JosueMelo58) 👋
 
 ✨ Analista Comercial na *Stellantis* e Especialista em Engenharia de Software pela PUC Minas.
 
