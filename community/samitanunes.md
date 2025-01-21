@@ -1,14 +1,12 @@
+<b>greetings visitor!</b> 
 
-## greetings, visitor!
+<img src="https://33.media.tumblr.com/9399e5e1fa6f95c895a501b8226121bd/tumblr_nr4f0wy65q1updbngo1_250.gif"> ``Olá! Eu me chamo Samita, sou estudante de Análise e Desenvolvimento de Sistemas. Minha jornada é impulsionada por um profundo interesse em tecnologia e design. Estou explorando minhas habilidades em Front-end, tendo um grande interesse em UX/UI design. Atualmente, estou aprimorando minhas habilidades para criar experiências digitais únicas e memoráveis! ``
 
-<div style="display: flex; align-items: center;"> <img src="https://33.media.tumblr.com/9399e5e1fa6f95c895a501b8226121bd/tumblr_nr4f0wy65q1updbngo1_250.gif" style="width: 150; height: 150;">  
-<p style="text-align:justify; font-size: 15px; line-height: 1.5;"> Olá! Eu me chamo Samita, sou estudante de Análise e Desenvolvimento de Sistemas. Minha jornada é impulsionada por um profundo interesse em tecnologia e design. Estou explorando minhas habilidades em Front-end, tendo um grande interesse em UX/UI design. Atualmente, estou aprimorando minhas habilidades para criar experiências digitais únicas e memoráveis!
-</div>
-
-## desenvolvendo habilidades em: <img src="https://pt.bloggif.com/output/5/a/5a7099fcad5c9aa6e688c2b342aaa68f.gif?1737492767" width="100" height="100" style="float: right;"> 
-<span style="font-family: 'Press start 2p'; font-size: 12px; padding: 4px 8px; border-radius: 4px; background-color: #FFC0CB; color: #333;">HTML</span>
-<span style="font-family: 'Press start 2p'; font-size: 12px; padding: 4px 8px; border-radius: 4px; background-color: #FFC0CB; color: #333;">CSS</span>
-<span style="font-family: 'Press start 2p'; font-size: 12px; padding: 4px 8px; border-radius: 4px; background-color: #FFC0CB; color: #333;">JAVASCRIPT</span>
+## desenvolvendo habilidades em: 
+ 
+![Static Badge](https://img.shields.io/badge/HTML-pink?style=flat)
+![Static Badge](https://img.shields.io/badge/CSS-pink?style=flat)
+![Static Badge](https://img.shields.io/badge/JAVASCRIPT-pink?style=flat) <p align="left"><img src="https://i.gifer.com/4tyo.gif" width="100" height="100"></p>
 
 #
 
@@ -22,5 +20,4 @@
  [![Static Badge](https://img.shields.io/badge/INSTAGRAM-black?style=flat)](https://www.instagram.com/samitanunes)
  [![Static Badge](https://img.shields.io/badge/GITHUB-black?style=flat)](https://github.com/samitanunes) 
 
-<p style="text-align: right;"><i>by mimi</i></p>
-
+<p align="right"><i>by mimi</i></p>
