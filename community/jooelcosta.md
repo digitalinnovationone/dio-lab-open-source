@@ -2,6 +2,7 @@
 # Olá, sou o Joel Costa
 
 Essa contribuição é para concluir a atividade `Contribuindo em um Projeto Open Source no GitHub` do curso `Introdução a GitHub` do bootcamp `Heineken - Inteligência Artificial Aplicada a Dados com Copilot`
+
 ## 🚀 Sobre mim
 Atualmente trabalho como Analista de Negócios e estou migrando para a área de Análise de Dados.
 
