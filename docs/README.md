@@ -1,5 +1,3 @@
-Aqui está uma versão melhorada do seu README, com uma estrutura mais clara e informações organizadas de forma prática e objetiva:
-
 ---
 
 # 📝 **Profiles README DIO**
@@ -75,5 +73,3 @@ Se você não sabe como fazer isso, consulte a documentação do GitHub ou procu
 Este projeto está licenciado sob a licença [MIT](LICENSE).
 
 ---
-
-Com essas melhorias, o README fica mais acessível, organizado e com informações completas sobre o projeto, como objetivos, estrutura e como colaborar. Se precisar de mais ajustes, é só falar!
