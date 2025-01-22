@@ -1,5 +1,9 @@
 # BRSant40
-Olá, me chamo Bruno, e sou estudante de TI com foco na área de dados.
+😃 Olá, me chamo Bruno, e sou estudante de TI com foco na área de dados.
+
+📚 Formação:
+
+* Tecnólogo de Big Data & Inteligência Analítica pela UNIASSELVI.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunosantana01/)
@@ -8,8 +12,13 @@ Olá, me chamo Bruno, e sou estudante de TI com foco na área de dados.
 
 ## Habilidades
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+![Selenium](https://img.shields.io/badge/Selenium-%23f1413d.svg?style=for-the-badge&logo=Selenium&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit-learn-%23f1413d.svg?style=for-the-badge&logo=scikit-learn&logoColor=blue)
+![Pandas](https://img.shields.io/badge/Pandas-%23000.svg?style=for-the-badge&logo=Pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+![Scrapy](https://img.shields.io/badge/scrapy-%23ffffff.svg?style=for-the-badge&logo=scrapy&logoColor=151515)>
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BRSant40&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
