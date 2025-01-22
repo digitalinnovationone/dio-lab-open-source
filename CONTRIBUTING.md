@@ -40,6 +40,7 @@
 
 ## Convenção de Commits 
 
+
 | Tipo de Commit | Descrição|
 | ---------------|----------|
 | `feat`         | Adiciona uma nova funcionalidade ao projeto.   |
