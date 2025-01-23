@@ -3,7 +3,7 @@
 
 
 ## Sobre mim
->Estudante de programação, atualmente cursando Ciência da Computação na Universidade Paulista.
+Estudante de programação, atualmente cursando Ciência da Computação na Universidade Paulista.
 Meus interesses pessoais estão objetivamente em aprender e me qualificar como profissional, na área de Desenvolvimento de Sistemas.
 
 >Atributos que destaco:
@@ -26,11 +26,11 @@ Meus interesses pessoais estão objetivamente em aprender e me qualificar como p
 >- SQL
 >- Git / GitHub
 
-> Dedicado a sempre estudar, a rotina de aprendizado faz parte do meu dia a dia, por isso sempre busco desenvolver uma nova aplicação ou discutir projetos em grupo com meus colegas
+ Dedicado a sempre estudar, a rotina de aprendizado faz parte do meu dia a dia, por isso sempre busco desenvolver uma nova aplicação ou discutir projetos em grupo com meus colegas
 
->Busco a oportunidade de estágio para apresentar neste momento, minha dedicação e disposição á organização a qual tiver meu vínculo, apto á aprender e desenvolver o necessário para evolução e êxito da equipe.
+Busco a oportunidade de estágio para apresentar neste momento, minha dedicação e disposição á organização a qual tiver meu vínculo, apto á aprender e desenvolver o necessário para evolução e êxito da equipe.
 
->Convido-o a nos conectarmo também pelo GitHub, será um prazer discutirmos ideias! :
+Convido-o a nos conectarmo também pelo GitHub, será um prazer discutirmos ideias! :
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IgorAcioly)
 
