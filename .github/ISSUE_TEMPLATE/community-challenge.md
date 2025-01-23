@@ -1,8 +1,8 @@
 ---
 name: Community Challenge
-about: Crie uma issue sobre o Desafio proposto a Comunidade
+about: Crie uma issue sobre o Desafio proposto à comunidade
 title: "[DESAFIO]"
-labels: Community Challenge
+labels: community challenge
 assignees: ''
 
 ---
