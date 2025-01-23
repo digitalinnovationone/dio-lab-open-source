@@ -4,14 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Breno Ferreira</title>
-    <link rel="stylesheet" href="BRENOBFS.css">
+    <link rel="stylesheet" href="BrenoBFS.css">
 </head>
 <body>
     <div class="container">
         <nav>
             <ul>
                 <li>
-                    <a href="BRENOBFS.html">Sobre min</a>
+                    <a href="BrenoBFS.html">Sobre min</a>
                 </li>
                 <li>
                     <a href="projetc BrenoBFS.html">Projetos</a>
