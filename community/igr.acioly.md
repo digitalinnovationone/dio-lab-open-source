@@ -1,7 +1,6 @@
 # <*Hello word!*>
 # Eu sou o Igor, e  é um prazer te ter em meu perfil !
 
-
 ## Sobre mim
 Estudante de programação, atualmente cursando Ciência da Computação na Universidade Paulista.
 Meus interesses pessoais estão objetivamente em aprender e me qualificar como profissional, na área de Desenvolvimento de Sistemas.
