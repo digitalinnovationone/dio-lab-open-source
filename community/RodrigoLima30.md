@@ -1,4 +1,4 @@
-# 🧑‍💻 Rodrigo Augusto 
+# 🧑‍💻 Rodrigo Augusto
 
 **`Desenvolvedor Front-end`**
 
