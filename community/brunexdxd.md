@@ -1,0 +1,5 @@
+Bruno Conforto
+
+Graduando em Engenharia Agronômica | Estagiário em Valmont Valley
+
+Sobre mim Engenheiro agrônomo dedicado à sustentabilidade ambiental, com experiência na Valmont Valley em manejo eficiente e gestão de custos de irrigação, além de projetos de engenhearia. Contribuí ativamente no Grupo de Pesquisa Água e Solo em Sistemas Agrícolas (GPASSA), participando de projetos de mudas florestais, tratamento de água residuária, uso de lodo de esgoto como substrato para cultivo, avaliação de erosão hídrica e adubação orgânica em diferentes sistemas. Bolsista do CNPq, foquei em mudas de Jequitibá-branco e erosão hídrica em solo Argissolo Vermelho-Amarelo, além de otimizar sistemas de irrigação na FAPERJ para a restauração da Mata Atlântica. Graduando em Agronomia pela UFRRJ entre os 3% melhores de seu curso, busco aplicar minha expertise em solos, sistemas produtivos, recursos hídricos e práticas sustentáveis em desafios ambientais, pronto para contribuir efetivamente na agronomia e pesquisa ambiental.
