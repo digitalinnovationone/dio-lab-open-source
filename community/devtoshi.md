@@ -1,6 +1,6 @@
 # devtoshi
 
-## Conecte-se comigo
+## Conecte-se comigo!
 [![Linkendin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=2CA5E0)](https://www.linkedin.com/in/%C3%A9rico-toshiyuki-ide-38481a148/)
 
 [![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=2CA5E0)](https://www.instagram.com/profericotoshi/)
@@ -9,7 +9,7 @@
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=007BFF)](mailto:devtoshi.io@gmail.com)
 
-## Estudando
+## Estudando...
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
