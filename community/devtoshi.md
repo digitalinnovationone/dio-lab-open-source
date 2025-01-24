@@ -27,4 +27,3 @@
 
 ## Minhas contribuições
 
-![devtoshi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=devtoshi&theme=dracula&hide_border=true)
