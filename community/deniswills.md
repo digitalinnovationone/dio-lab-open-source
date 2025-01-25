@@ -2,7 +2,7 @@
 
 ## A humble tech lawyer...
 
-<picture> <img alt="Uma balança simbolizando a justiça alinhada à tecnologia" src="https://">  
+tag <picture> <img alt="Uma balança simbolizando a justiça alinhada à tecnologia" src="https://">  
   
 Saudações, colegas! Sou um profissional do direito consternado com a morosidade com que a tecnologia tem avançado neste campo. Processos que não acabam, decisões que não são tomadas, pesquisas demoradas, reuniões desnecessárias, comunicação ineficiente, bases de dados e de conhecimento desorganizadas ou inacessíveis foi o que me trouxe para estas bandas. Entusiasmado com a capacidade das ferramentas tecnológicas de resolver com eficiência todos estes problemas, decidi me graduar em Gestão de Tecnologia da Informação, como um primeiro passo para contribuir nesta jornada. Atualmente busco desenvolver habilidades técnicas que possam me auxiliar neste desiderato.
 
