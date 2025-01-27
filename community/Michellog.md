@@ -1,4 +1,11 @@
 Ola eu sou o  Michel de Oliveira Costa
+
+Social midia
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/michel_costa78/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/michel-de-oliveira-costa-97a83149/)
+
+
+
 Trabalho como Coordenador de Suporte
 
 Sou estudante de Data Science na USP, apaixonado por tecnologia e inovação. Atualmente, estou desenvolvendo projetos na área de Inteligência Artificial, buscando aplicar soluções avançadas para resolver problemas complexos.
