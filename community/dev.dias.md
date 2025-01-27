@@ -1,5 +1,5 @@
 # <center>Olá! Sou Igor</center>
-## Sobre mim: ### Sou estudante, gosto mais da área de ciber security e não gosto de front-end :D
+## Sobre mim: Sou estudante, gosto mais da área de ciber security e não gosto de front-end :D
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Diaas2006&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
