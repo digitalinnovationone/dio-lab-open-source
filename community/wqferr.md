@@ -16,5 +16,4 @@ My name is William, I'm CS major who loves math, software development, music, an
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 
 ## Stats
-
 [![wqferr's GitHub stats](https://github-readme-stats.vercel.app/api?username=wqferr)](https://github.com/wqferr/github-readme-stats)
