@@ -2,7 +2,7 @@ Olá a todos!
 
 Eu me chamo *Filipe Gabriel*, tenho na data atual *(Jan/2025)* 21 anos e estou estudando sobre contribuição em projeto open source no GitHub.
 
-Nesse momento sou iniciante nos estudos, e estou muito empenhado e empolgado com as novidades!
+Sou estudante de Análise e desenvolvimento de sistemas, e nesse momento sou iniciante nos estudos, e estou muito empenhado e empolgado com as novidades!
 
 Abaixo segue algumas formas de me conhecer melhor:
 
