@@ -9,7 +9,9 @@
 <img style="height: auto; width: 42%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maarzano&layout=compact&text_color=E0E0E0&title_color=6600CC&bg_color=00000000&hide=ShaderLab,HLSL,ASP.NET&)](https://github.com/Maarzano/github-readme-stats)"/>
 
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Maarzano&repo=Pessoal&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Maarzano/Pessoal)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Maarzano&repo=C-digos-C---Curso&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Maarzano/C-digos-C---Curso)
 
 
 
