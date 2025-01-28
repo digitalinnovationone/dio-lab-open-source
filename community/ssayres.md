@@ -49,14 +49,6 @@ Aqui estão alguns dos projetos que desenvolvi ou estou trabalhando:
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SidneiAyres&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneiAyres&layout=compact&theme=radical" />
-</div>
-
----
 
 ## 📫 Como me encontrar
 💼 **LinkedIn**: [Sidnei Ayres](https://www.linkedin.com/in/https://www.linkedin.com/in/sidnei-ayres-8a5806140/?originalSubdomain=br/)  
