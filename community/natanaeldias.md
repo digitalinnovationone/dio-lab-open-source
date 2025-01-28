@@ -1,5 +1,5 @@
 **Sobre mim**
--  Olá meu nome é Natanael Dias
+-  Olá meu nome é **Natanael Dias**
 -  Buscando desenvolver novas capacidades.
 -  Nesse inicio de 2025 estou estudando **Inteligência Artificial Aplicada a Dados com Copilot**.
 
