@@ -7,7 +7,11 @@
 
 🎉 Bem-vindo (a) !!!
 
-Aqui você encontrará um resumo das minhas experiências, conhecimentos e interesses, preparados especialmente para a realização deste desafio. 🚀
+Aqui você encontrará um resumo das minhas experiências, conhecimentos e alguns interesses, preparados especialmente para a realização deste desafio. 🚀
+
+🔗 Sinta-se à vontade para me contatar no LinkedIn:  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-vin%C3%ADcius-siqueira-da-rosa-842171220)
 
 
 ![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvsrosa&show_icons=true&theme=dracula)
@@ -55,9 +59,7 @@ A [**Samanta - Vaso Inteligente**](https://github.com/lucasvsrosa/SAMANTA_VASO_I
 
 ---
 
-## 🔗 > Sinta-se à vontade para me contatar no LinkedIn:  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-vin%C3%ADcius-siqueira-da-rosa-842171220)
 
 ---
 
