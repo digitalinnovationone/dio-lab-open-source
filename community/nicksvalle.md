@@ -17,8 +17,7 @@ Sou um **Desenvolvedor de Software** apaixonado por desenvolvimento backend, aut
 
 ## 📫 Conecte-se comigo
 - 📧 **E-mail:** nicolasdeoliveiravalle@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/nicolasvalle](https://linkedin.com/in/nicolasvalle)
-- 📝 **Portfólio:** [Em breve!]
+- 💼 **LinkedIn:** [linkedin.com/in/nicolasvalle](www.linkedin.com/in/nicolas-valle-620b29219)
 
 ---
 🚀 *Sempre aprendendo, sempre construindo!*
@@ -44,8 +43,7 @@ I'm a **Software Developer** passionate about backend development, automation, a
 
 ## 📫 Connect with Me
 - 📧 **Email:** nicolasdeoliveiravalle@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/nicolasvalle](https://linkedin.com/in/nicolasvalle)
-- 📝 **Portfolio:** [Coming soon!]
+- 💼 **LinkedIn:** [linkedin.com/in/nicolasvalle](www.linkedin.com/in/nicolas-valle-620b29219)
 
 ---
 🚀 *Always learning, always building!*
