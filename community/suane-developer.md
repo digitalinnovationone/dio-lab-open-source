@@ -15,7 +15,7 @@ Foi na faculdade que aprendi que os dados contam histórias que representam muit
 
 Você pode conhecer mais sobre mim acessando meus perfis profissional e aprendiz.
 
-Abaixo deixo os link para você me encontrar com facilidade!
+Abaixo deixo os link para que você me encontrar com facilidade!
 
 ## Aprendiz da Tecnologia da informação
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077b5?style=for-the-badge)](https://www.dio.me/users/suuanedjesus)
