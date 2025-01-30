@@ -51,7 +51,7 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por criar soluções in
 ## 📫 Como me encontrar
 
 - GitHub: [@almirfilho9](https://github.com/almirfilho9)
-- LinkedIn: [Almir Filho](https://www.linkedin.com/in/almirfilho/)
+- LinkedIn: [Almir Filho](https://www.linkedin.com/in/almirfilho9/)
 - Email: almirfilho9.ja@gmail.com
 
 ## 🎯 Objetivos
