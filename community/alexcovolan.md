@@ -68,7 +68,7 @@
 
 ---
 
-### 👩‍💻📚 Tecnologias que quero aprender este ano. 
+### 👩‍💻📚 Tecnologias que quero aprender este ano. 👨‍🎓
 
 <img 
     align="left" 
