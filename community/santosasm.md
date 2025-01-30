@@ -3,7 +3,7 @@
 
 Olá, tudo bem? Sou Andrey, um estudante na área de tecnologia e análise de dados, cursando Análise e Desenvolvimento de Sistemas. Estou aprendendo programação, metodologias ágeis e como aplicar esses conhecimentos para resolver problemas reais e criar soluções.
 
-Tive a oportunidade de liderar projetos, como o My Cart Express, um aplicativo para compras no Brasil, que me ensinou sobre gestão de projetos, trabalho em equipe e a importância da inovação. Essa experiência despertou meu interesse em usar a tecnologia para resolver desafios do cotidiano.
+Tive a oportunidade de liderar projetos, como o My Cart Express, um aplicativo para compras no Brasil, que me ensinou sobre gestão de projetos, trabalho em equipe e a importância da inovação. Essa experiência despertou meu interesse em usar a tecnologia para resolver desafios.
 
 Além disso, como consultor de vendas na Mondina Veículos, desenvolvi habilidades em negociação, atendimento ao cliente e visão estratégica, o que complementa meu aprendizado técnico com uma perspectiva prática de negócios.
 
