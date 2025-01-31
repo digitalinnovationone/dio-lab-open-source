@@ -11,7 +11,7 @@
 - *I understand Portugues but still speak some kind of european portunhol 🤷🏻‍♂️*
 - *I'm a Telecommunication Engineer 📡🛰️ with around 14 years of experience, and I have focused my career mainly on networking, primarily with Cisco technology*
 - *I enjoy tinkering with things at my own pace, wether it's electronics (Arduino, Raspberry Pi, and IOT gadgets) or computing and software stuff (I have a home lab with Proxmox filled with LXC and Docker containers)*
-- *I am enthusiastic about learning, labbing, and helping other whenever possible* 
+- *I am enthusiastic about learning, labbing, and helping others whenever possible* 
 - *Estou muito contente por ser parte desta incrível comunidade da DIO*
 
 ## My skills
