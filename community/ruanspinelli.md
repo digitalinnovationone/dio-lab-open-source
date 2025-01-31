@@ -1,4 +1,4 @@
-# RuanSpinelli
+# Ruan Spinelli
 
 ## Sobre mim
 
