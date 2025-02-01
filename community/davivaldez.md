@@ -40,7 +40,7 @@
 
 Meu nome é Davi e ingressei na área de tecnologia em 2023, atualmente cursando Ciência da Computação.
 
-Atualmente no meu emprego atual, estou envolvido em projetos focados em automação de processos e desenvolvimento de pipelines de CI/CD. Tenho desenvolvido pipelines de Continuous Deployment (CD) no **Azure DevOps**, configurando e ajustando pipelines e migrando repositórios antigos para novos ambientes nessa plataforma e migrando pipelines de Jenkins para o Azure DevOps, otimizando fluxos de trabalho e aprimorando a eficiência no processo de desenvolvimento.
+No meu emprego atual, estou envolvido em projetos focados em automação de processos e desenvolvimento de pipelines de CI/CD. Tenho desenvolvido pipelines de Continuous Deployment (CD) no **Azure DevOps**, configurando e ajustando pipelines e migrando repositórios antigos para novos ambientes nessa plataforma e migrando pipelines de Jenkins para o Azure DevOps, otimizando fluxos de trabalho e aprimorando a eficiência no processo de desenvolvimento.
 
 Além disso, possuo experiência com **Zabbix**, realizando a configuração de sistemas de monitoramento e alertas em tempo real, garantindo a estabilidade das operações. Conquistei também experiência com **Kubernetes** e **Docker**, através de cursos especializados, ampliando meus conhecimentos em orquestração de containers e gerenciamento de infraestrutura. Sou certificado em **Kubernetes (CKA)** e **AWS**, o que reflete meu compromisso com o aprendizado contínuo e meu interesse por tecnologias emergentes.
 
