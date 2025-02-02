@@ -2,9 +2,15 @@
 
 ## Sobre mim
 
-Atualmente sou um profissonal da área de infraestrutura de redes de computadores com foco em Pequenas e Médias Empresas (PME). Neste trabalho, sou especialista em Microsoft ADDS (LDAP) e a partir deste modelo de organização para uma rede de computadores, transito por temas como: DNS, DHCP, GPO, DFS, DevSecOps, Firewall, Virtualização, Switch, Rack, Cabeamento Estruturado, ISO 27000, ITIL, ESG, CID, Backup, Backbone, Server SO, Client SO, Cloud, Ativos de TI, Microsoft Office, Servidores WEB e Plugins entre tantos outros. 
+Atualmente sou um profissonal da área de infraestrutura de redes de computadores com foco em Pequenas e Médias Empresas (PME). Neste trabalho, sou especialista em Microsoft ADDS (LDAP) e a partir deste modelo de organização para uma rede de computadores, transito por temas como: DNS, DHCP, GPO, DFS, DevSecOps, Firewall, Virtualização, Switch, Rack, Cabeamento Estruturado, ISO 27000, ITIL, ESG, CID, Backup, Backbone, Server SO, Client SO, Cloud, Ativos de TI, Microsoft Office, Servidores WEB e Plugins entre tantos outros.
 
 Como desde 1991 já trabalho na área da Tecnologia da Informação, isto me permitu também adquirir outras experiências como desenvolveor de software de ERP, utilizando liguangens de programação estruturadas como Basic, d´Base III Plus, Clipper (década de 90) e ainda MS Access, designer em CAD e ser instrutor em cursos de TI. Também atuei como professor de tecnologia da informação no ensino fundamental técnico e no ensino superior ministrando as matérias de: arquitetura de computadores, informática, sistemas operacionais, sistemas operacinais de rede e banco de dados estruturado.
+
+- <em>Bacharel em Sistemas de Informação</em>
+
+- <em>Especialista Lato Sensu em Segurança da Informação</em>
+
+- <em>Profissional Certificado Microsoft</em>
 
 ## Habilidades
 
