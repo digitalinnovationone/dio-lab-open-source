@@ -54,5 +54,7 @@ Experience in using various technologies and methodologies, quickly learning new
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anselmo.blanco.dominguez@gmail.com)
 [![Github](https://img.shields.io/badge/Github-000?logo=github&logoColor=white)](https://github.com/anselmobd)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anselmobd&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&include_all_commits=true)
+
 ---
 💡 Always exploring new technologies and challenges! 🚀
