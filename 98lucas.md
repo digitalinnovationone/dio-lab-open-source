@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Olá! Eu sou o lucas 👋</h1>
+<h1 align="center">Olá! Eu sou o lucas de lima 👋</h1>
 
 
  <h2>Sobre mim</h2> 
