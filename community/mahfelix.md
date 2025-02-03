@@ -7,7 +7,7 @@ Tenho 27 anos e sou apaixonado por programação desde o ensino médio, mas foi 
 
 ## 🛠 Habilidades
 Hard Skills:\
-• Backend: Java, Spring Boot, Spring Data JPA, Node.js\
+• Backend: Java, Spring Boot, Spring Data JPA, Node.js.\
 • Frontend: HTML, CSS, Bootstrap, JavaScript, React, StyledComponentsc .\
 • Aprendendo: AWS, Docker\
 • Banco de dados: PostgreSQL, MongoDB, MySQL, DB2.\
