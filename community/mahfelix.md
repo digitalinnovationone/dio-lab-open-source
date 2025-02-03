@@ -19,7 +19,7 @@ Soft Skills: \
 • Curiosidade.\
 • trabalho em equipe.\
 • proativo.\
-• autodidata.
+• autodidata.\
 
 ## Curiosidades
 👩‍💻 Trabalho atualmente na [Qintess](www.https://qintess.com//)
