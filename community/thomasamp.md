@@ -1,4 +1,4 @@
-# 👋 Olá, sou Thomas Ampessan
+# 👋 Olá! sou Thomas Ampessan
 
 Sou advogado tributarista por profissão e entusiasta de tecnologia por paixão. Com uma sólida experiência no Direito Tributário, busco integrar soluções tecnológicas que otimizem processos jurídicos e impulsionem a eficiência na advocacia.
 
