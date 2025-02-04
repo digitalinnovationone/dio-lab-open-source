@@ -1,4 +1,4 @@
-# Olá, eu sou a Kayra Joaquim 👋
+# Olá, eu sou a Kayra Joaquim (KayraJoaquim)👋
 
 🔧 **Estou começando minha jornada no mundo da tecnologia** e sou apaixonada por aprender.
 
