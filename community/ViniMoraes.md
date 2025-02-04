@@ -1,40 +1,25 @@
-# 💻 **010O1010 - Johann Raphael**
+# 💻 *ViniMoraes - Vinicius Moraes**
 ##
-### 👨‍💻 Hello there!
+### 👨‍💻 Olá para todos!
 
-I'm Johann from São Paulo and I'm a hardware technician, and currently expanding my skill set by diving into software development.
+Meu nome é Vinicius L Moraes . Resido em Curitiba PR E sou Desenvolvedor Mobile e Desktop há 17 anos.
 
-My experience in hardware has given me a special insight into how the two fields interact, and I'm really excited to explore the amazing possibilities that software can unlock.
+Tenho experiência com hardware e configuração de toda infraestrutura de servidores. Estou participando deste BootCamp oferecido pela Dio e Heineken buscando experiencias e relacionamentos com outros desenvolvedores..
 
-I'm passionate about problem-solving and learning new things all the time, and I'm really looking forward to applying my technical background to create some cool, innovative solutions in the software realm. I'd love to connect and share insights on this journey!
+Como hobby participo de um pequeno grupo de colegas da pós graduação em Jogos Digitais programando em C# na Engine Unity 3D.
 
-(ﾉ◕ヮ◕)ﾉ*:･ﾟ*:･ﾟ✧ 💚
- 
+## 🟢 Meu Profile na Dio Community
 
-## 🟢 My Status
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=010O1010&theme=hacker&background=000&border=black&dates=)](https://git.io/streak-stats)
+#### *https://www.linkedin.com/posts/activity-7292678604692295680-Dbov?utm_source=share&utm_medium=member_desktop&rcm=ACoAABm6dvEBcRATANRCUe6VhnA_xKDmDuYCvI4*
 
 
-## 🟢 Programming Languages
+## 🟢 Linguagens que programo
 
-
-![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=20C20E)
 ![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=20C20E)
 ![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=openjdk&logoColor=20C20E)
-![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=20C20E)
+Javascript
 
-## 🟢 OS
 
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=20C20E)
-
-## 🟢 DB
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=20C20E)
-
-## 🟢 Contact Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=20C20E)](https://github.com/010O1010)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=20C20E)](mailto:jraphael.primo@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=20C20E)](https://t.me/hanselraphael)
+## 🟢 Banco de Dados
+SQL SERVER
 
