@@ -1,4 +1,4 @@
-## Olá, aqui é Reinaldo!
+# Olá, aqui é Reinaldo!
 
 ## Sobre 
 Sou Reinaldo, tenho 51 anos, sou formado em Gestão de Negóiios e Meio Amiente e estou usando agregar conheimentos em tecnologia à minha carreira. Atualmente atuo na indústria de eletroeletônicos. 
@@ -11,3 +11,4 @@ Sou Reinaldo, tenho 51 anos, sou formado em Gestão de Negóiios e Meio Amiente 
 <div align="center">
   <img width="49%" height="195px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldocantidio&layout=compact&theme=tokyonight"/>
 </div>
+
