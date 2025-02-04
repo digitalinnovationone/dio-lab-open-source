@@ -38,7 +38,7 @@
 ![rafael-feitosa-santos's Stats](https://github-readme-stats.vercel.app/api?username=rafael-feitosa-santos&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![rafael-feitosa-santos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-feitosa-santos&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
-## Contato 📬
+# Contato 📬
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafaelfeitosa-dev/)
 &nbsp;&nbsp;
