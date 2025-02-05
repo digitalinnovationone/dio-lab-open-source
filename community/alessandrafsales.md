@@ -12,7 +12,7 @@ Gosto de cantar, jogar, escrever, me exercitar, um pouco de tudo aleatório.
 E também sou uma catperson, que ama gatinhos. 😻
 ```
 
-## ☎️ Conecte-se comigo 
+## 👩🏻‍💻 Conecte-se comigo 
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:alessandrasales.tech@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrafsales/)
