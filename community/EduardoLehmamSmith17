@@ -1,0 +1,31 @@
+# Nome do Projeto
+
+Descrição breve e objetiva do projeto, explicando seu propósito e funcionalidades principais.
+
+---
+
+## 📋 Índice
+- [Sobre o Projeto](#sobre-o-projeto)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Como Executar](#como-executar)
+- [Estrutura do Projeto](#estrutura-do-projeto)
+- [Contribuições](#contribuições)
+- [Licença](#licença)
+
+---
+
+## Sobre o Projeto
+Este projeto foi desenvolvido para [descrição detalhada do problema que ele resolve]. Ele oferece as seguintes funcionalidades:
+- [Funcionalidade 1]
+- [Funcionalidade 2]
+- [Funcionalidade 3]
+
+---
+
+## 🚀 Como Executar
+Siga os passos abaixo para rodar o projeto em sua máquina local:
+
+### Passos
+1. Clone o repositório:
+   ```bash
+   git clone git@github.com:EduardoLehmamSmith17/dio-lab-open-source.git
