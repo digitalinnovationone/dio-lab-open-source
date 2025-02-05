@@ -16,10 +16,9 @@ Sou apenas um cara curioso 🤔, tentando aprender 🎓 um pouco sobre programa�
 
 - 👷🏻‍♂️ Engenheiro Civil (POLI-USP);
 - 👨🏻‍💼 Especialista em Administração de empresas (EAESP/FGV);
-- 🏥 Especialista em Arquitetura Hospitalar; (INBEC)
-- 🏢 Especialista
-Especialista em Modelagem de Informações da Construção (BIM) [INBEC]
-- 🎓 Master BIM Management (Zigurat)
+- 🏥 Especialista em Arquitetura Hospitalar (INBEC);
+- 🏢 Especialista em Modelagem de Informações da Construção (BIM) [INBEC];
+- 🎓 Master BIM Management (Zigurat);
 - 🔜 Especialista em Engenharia de Software (ESALQ/USP)
 
 ## Programação
