@@ -9,11 +9,9 @@
 
 ![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGuesser&show_icons=true&theme=dracula)
 
-### 📌 Projetos em Destaque
+### 📌 Projeto em Destaque
 
 [![Casa do Agricultor - API](https://github-readme-stats.vercel.app/api/pin/?username=AlexGuesser&repo=casadoagricultor-api)](https://github.com/AlexGuesser/casadoagricultor-api)
-
-[![JPA Specialist](https://github-readme-stats.vercel.app/api/pin/?username=falvojr&repo=jpa-specialist)](https://github.com/AlexGuesser/jpa-specialist)
 
 
 ### 🚀 Linguagens Mais Usadas
