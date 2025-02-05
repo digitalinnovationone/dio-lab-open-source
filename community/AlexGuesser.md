@@ -11,7 +11,7 @@
 
 ### 📌 Projeto em Destaque
 
-[![Casa do Agricultor - API]](https://github.com/AlexGuesser/casadoagricultor-api)
+[Casa do Agricultor - API](https://github.com/AlexGuesser/casadoagricultor-api)
 
 
 ### 🚀 Linguagens Mais Usadas
