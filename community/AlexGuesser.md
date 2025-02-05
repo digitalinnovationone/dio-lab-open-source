@@ -7,7 +7,9 @@
 
 ### 📊 Estatísticas no GitHub
 
-![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGuesser&show_icons=true&theme=dracula)
+![Alex Guesser (Personal) GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGuesser&show_icons=true&theme=dracula)
+![Alex Guesser (Axonify) GitHub stats](https://github-readme-stats.vercel.app/api?username=Axonify-Alex-Guesser&show_icons=true&theme=dracula)
+
 
 ### 📌 Projeto em Destaque
 
