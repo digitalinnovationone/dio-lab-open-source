@@ -12,4 +12,4 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasespica&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </div>
 
-### [Abra meu perfil e veja mais sobre mim e meus repositórios😊](https://github.com/Lucasespica)
+### [Abra meu perfil e veja mais sobre mim e meus repositórios!😊](https://github.com/Lucasespica)
