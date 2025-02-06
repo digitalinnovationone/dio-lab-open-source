@@ -47,9 +47,8 @@ Atuo na **Gestão de Versionamento de Código** no cliente **Grande instituiçã
 
 ## linguagens Mais Usadas
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mazielluiz&layout=compact=compact)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mazielluiz&layout=compact)
 
----
 
 ## 📫 Contato
 | 📧 Email | 🔗 GitHub | 💼 LinkedIn |
