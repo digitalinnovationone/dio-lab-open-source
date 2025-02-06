@@ -1,7 +1,7 @@
 # 💼 Maziel | Gestão de Versionamento e Integração de Código
 
 🚀 **Líder Técnico em Gestão de Versionamento de Código** | Grande instituição Financeira  
-📍 **Especialista em ALM StarTeam** | Experiência em Alta e Baixa Plataforma  
+📍 **Especialista em ALM StarTeam** | Experiência em Alta e Baixa Plataforma.  
 
 ---
 
@@ -45,7 +45,9 @@ Atuo na **Gestão de Versionamento de Código** no cliente **Grande instituiçã
 ## 📊 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mazielluiz&show_icons=true&theme=dark)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mazielluiz&layout=compact&theme=dark)
+## linguagens Mais Usadas
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mazielluiz&layout=compact=compact)
 
 ---
 
