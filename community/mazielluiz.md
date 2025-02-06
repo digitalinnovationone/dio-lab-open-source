@@ -1,7 +1,7 @@
 # 💼 Maziel | Gestão de Versionamento e Integração de Código
 
 🚀 **Líder Técnico em Gestão de Versionamento de Código** | Grande instituição Financeira  
-📍 **Especialista em ALM StarTeam** | Experiência em Alta e Baixa Plataforma.  
+📍 **Especialista em ALM StarTeam** | Experiência em Alta e Baixa Plataforma
 
 ---
 
