@@ -1,7 +1,7 @@
 # Gustavo M. Layber
 
 ## Sobre mim 
-    Atualmente curso Engenharia Química na USP, mas nos últimos anos venho buscado crescer na área de tecnologia. Durante meu estágio no BTG Pactual, adquiri experiência no ciclo de desenvolvimento de software, onde utilizei ferramentas como .NET Core, React.js e AWS, além de atuar com metodologias ágeis (SCRUM). Sempre em busca de novos desafios, nos meus momentos livres gosto de ir à academia, assistir séries, ouvir música, ler, conhecer novos restaurantes e viajar.
+Atualmente curso Engenharia Química na USP, mas nos últimos anos venho buscado crescer na área de tecnologia. Durante meu estágio no BTG Pactual, adquiri experiência no ciclo de desenvolvimento de software, onde utilizei ferramentas como .NET Core, React.js e AWS, além de atuar com metodologias ágeis (SCRUM). Sempre em busca de novos desafios, nos meus momentos livres gosto de ir à academia, assistir séries, ouvir música, ler, conhecer novos restaurantes e viajar.
 
 ## Conecte-se comigo!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guslayber/)
