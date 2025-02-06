@@ -26,3 +26,7 @@
 ## 🚀 Featured Projects  
 🔹 [**Dio Lab Contribution**](https://github.com/RonanRS/dio-lab-open-source) - An activity to demonstrate the power of contribution in Open Source projects.  
 🔹 [**Coming soon**](https://github.com/RonanRS/chess-system-java) - Chess System.
+
+## 🔗 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronan-ramalho-339028b6/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/RonanRS)
