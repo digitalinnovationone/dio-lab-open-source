@@ -5,7 +5,7 @@
 
 
 👋 Olá!
-Eu sou Anderson Otávio, desenvolvedor web com mais de 2 anos de experiência na criação de aplicações para a web 👋 .
+Eu sou Anderson Otávio, desenvolvedor web com mais de 2 anos de experiência na criação de aplicações para a web .
 
 🚀 Com formação em Análise e Desenvolvimento de Sistemas, tenho direcionado meu desenvolvimento profissional para a criação de sites e aplicações web.
 Meu objetivo é colaborar com equipes dinâmicas e contribuir para projetos que impactem positivamente a vida das pessoas.
