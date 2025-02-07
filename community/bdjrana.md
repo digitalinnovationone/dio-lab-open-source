@@ -5,9 +5,7 @@ Sejam bem-vindos a minha página!!
 
 <! --
 
-
-    
-![alt text][def]
+![alt text](octocat-1738870402616-2.png)
 
 
 ## Conecte-se comigo
