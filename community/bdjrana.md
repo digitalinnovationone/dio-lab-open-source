@@ -5,7 +5,7 @@ Sejam bem-vindos a minha página!!
 
 <! --
 
-![alt text](octocat-1738870402616-2.png)
+<img allng="right" alt="GIF" src= "https://github.com/user-attachments/assets/3424f284-6818-4f79-9469-4ac1cef44bef" width="400px" />
 
 
 ## Conecte-se comigo
