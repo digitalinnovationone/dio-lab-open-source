@@ -2,7 +2,7 @@
 # Michael Victor
 ## Conecte-se comigo
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MichaelVictoor/Projeto-Open-Source)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MichaelVictoor/dio-lab-open-source)
 
 
 ## 🙋‍♂️ Sobre mim:
