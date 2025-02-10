@@ -37,7 +37,7 @@
         <img align="center" alt="Bluesky" src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&color=0285FF&logoColor=white">
       </td>
       <td>
-        <code>[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&color=0285FF&logoColor=white)](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&color=0285FF&logoColor=white)</code>
+        <code>[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&color=0285FF&logoColor=white)](https://bsky.app/profile/USERNAME.bsky.social)</code>
       </td>
     </tr>
     <tr>
