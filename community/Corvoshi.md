@@ -17,5 +17,3 @@
  [My Website | Meu Site **Em Construção*](corvoshi.com.br) -
  [Github](https://github.com/Corvoshi) -
  [Dio](https://web.dio.me/users/shion_obata_o)
-
-## 
