@@ -19,12 +19,10 @@ Atualmente estudante de Análise e Desenvolvimento de Sistemas.
 
 ![Windows](https://img.shields.io/badge/Windows-45562d?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
-## Badges
-> [!IMPORTANT]
-> https://www.credly.com/users/ronney-pinheiro-almeida-da-silva
-
-
 ## GitHub Status
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=musasPI&theme=transparent&bg_color=45562d&border_color=30A3DC&show_icons=true&icon_color=b1b63a&title_color=d9ddd5&text_color=FFF)
 
+## Badges
+> [!IMPORTANT]
+> https://www.credly.com/users/ronney-pinheiro-almeida-da-silva
