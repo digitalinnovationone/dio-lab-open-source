@@ -4,5 +4,5 @@
 
 Estou inicindo na busca de conhecimento no campo da  Inteligência Artificial <br>
 
-Aceito sugestões dos passos que devo seguir.
+Aceito sugestões dos passos que devo seguir!
 	
