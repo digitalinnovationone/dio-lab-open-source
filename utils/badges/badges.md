@@ -560,6 +560,14 @@
    </tr>
    <tr>
       <td>
+        <img align="center" alt="Fastapi" src="https://img.shields.io/badge/Fastapi-009688?style=for-the-badge&logo=fastapi&color=009688&logoColor=white">
+      </td>
+      <td>
+        <code>![Fastapi](https://img.shields.io/badge/Fastapi-009688?style=for-the-badge&logo=fastapi&color=009688&logoColor=white)</code>
+      </td>
+   </tr>
+   <tr>
+      <td>
         <img align="center" alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
       </td>
       <td>
@@ -941,6 +949,14 @@
       </td>
       <td>
         <code>![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&color=4000BF&logoColor=white">
+      </td>
+      <td>
+        <code>![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&color=4000BF&logoColor=white)</code>
       </td>
     </tr>
   </tbody>
