@@ -34,6 +34,14 @@
   <tbody align="left">
     <tr>
       <td>
+        <img align="center" alt="Bluesky" src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&color=0285FF&logoColor=white">
+      </td>
+      <td>
+        <code>[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&color=0285FF&logoColor=white)](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&color=0285FF&logoColor=white)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
       </td>
       <td>
