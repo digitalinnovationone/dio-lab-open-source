@@ -5,15 +5,14 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rapassos)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/rapassos)
 
-## Habilidades
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rapassos&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+## HABILIDADES
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rapassos&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br&layout=compact&include_all_commits=true&count_private=true)
+
+## GITHUB STATS
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rapassos&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br&include_all_commits=true&count_private=true)
 
 
-## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rapassos&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
-## Linguagens de Programação
+## LINGUAGENS
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
