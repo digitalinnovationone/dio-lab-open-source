@@ -9,12 +9,10 @@ Atualmente estou no 2º período do curso na matéria de Front-End no qual posto
  
 <hr>
 
-**Aqui vou listar de forma simples meus conhecimentos pertinentes em _tecnologia_ ** :
+**Aqui vou listar de forma simples meus conhecimentos pertinentes em _tecnologia_** 
 <hr>
 
 ## Redes Sociais & Contatoas
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@Louis Henry/) 
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizhenrik.13/)
 
