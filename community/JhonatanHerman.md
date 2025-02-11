@@ -19,14 +19,6 @@
 - 📧 E-mail: jhonatan.herman@example.com
 - 🌐 GitHub: [@jhonatanherman](https://github.com/jhonatanherman)
 
-## 💻 Meus Repositórios
-
-Aqui você pode encontrar alguns dos projetos que desenvolvi e estou trabalhando atualmente:
-
-- [Projeto 1](https://github.com/jhonatanherman/projeto1)
-- [Projeto 2](https://github.com/jhonatanherman/projeto2)
-- [Projeto 3](https://github.com/jhonatanherman/projeto3)
-
 ## 🛠️ Tecnologias e Ferramentas
 
 - 🔧 **Infraestrutura e TI**: Windows, Linux, Redes, Servidores, VPNs, Active Directory, Segurança da Informação.
