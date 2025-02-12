@@ -26,8 +26,8 @@
 
 <div>
  <h1> Detalhes </h1>
-<img   height="200em" src="https://github-readme-stats.vercel.app/api?username=AlexSilvaCB&count_private=true&show_icons=true&theme=dracula"/>
+<img   height="200em" src="https://github-readme-stats.vercel.app/api?username=herminiooficial&count_private=true&show_icons=true&theme=dracula"/>
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSilvaCB&layout=compact&theme=dracula"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herminiooficial&layout=compact&theme=dracula"/>
 <img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg">
 </div>
