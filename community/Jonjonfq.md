@@ -1,6 +1,6 @@
 # **Jônatas Freire**
 
-* *Olá, me chamo Jônatas, tenho 33 anos e sou Técnologo em ADS, porém nunca atuei com programação. Atualmente retormei meus estudos na área com foco em Análise de Dados. Objetivo aprimorar meus conhecimentos em SQL, Python, Tablue, Power BI, Excel e o meu nível de inglês a princípio. Já atuei como Suporte Técnico em TI e Hoje Técnico em Fibra Óptica, busco uma oportunidade de expandir meus conhecimentos e atuar no setor de dados.* 
+* *Olá, me chamo Jônatas, tenho 33 anos e sou Técnologo em ADS, porém nunca atuei com programação. Atualmente retomei meus estudos na área com foco em Análise de Dados. Objetivo aprimorar meus conhecimentos em SQL, Python, Tablue, Power BI, Excel e o meu nível de inglês a princípio. Já atuei como Suporte Técnico em TI e Hoje Técnico em Fibra Óptica, busco uma oportunidade de expandir meus conhecimentos e atuar no setor de dados.* 
 
                                                🚀 Bem-vindo ao meu GitHub! 🚀
 
@@ -23,7 +23,7 @@
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jonjonfq&theme=transparent&bg_color=100&border_color=1001&show_icons=true&icon_color=FFFF&title_color=F22&text_color=FFFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lp&layout=compact&bg_color=100&border_color=1001&title_color=F22&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jonjonfq&layout=compact&bg_color=100&border_color=1001&title_color=F22&text_color=FFF)
 
 
 
