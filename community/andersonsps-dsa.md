@@ -5,7 +5,6 @@
 <p align="left"> Sou um entusiasta de dados e desenvolvo soluções analíticas, modelos preditivos e dashboards. Meu objetivo é transformar dados em insights valiosos para melhorar a tomada de decisões e otimizar processos. </p>
 
 <p align="left">💬 Fique à vontade para me perguntar sobre modelos preditivos para regressão, classificação e análise de dados contínuos. Também sou especializado no desenvolvimento de dashboards utilizando Streamlit, Dash Plotly, Power BI, Looker e Excel, além de deploy de soluções em websites para contribuir com decisões mais assertivas e otimização de processos.<br><br>
-📄 Conheça mais sobre minhas experiências profissionais no meu: </p>
 
 ###
 
