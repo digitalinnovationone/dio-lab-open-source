@@ -16,13 +16,10 @@
  <div>
    <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-0?style=social&logo=JavaScript&logoColor=yellow"> .
    <img alt="Static Badge" src="https://img.shields.io/badge/TYPESCRIPT-0?style=social&logo=TypeScript&logoColor=blue"> .
-   <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-0?style=social&logo=coffeescript">
  </div>
 
  <div>
-   <img alt="Static Badge" src="https://img.shields.io/badge/ANGULAR-0?style=social&logo=Angular"> . 
-   <img alt="Static Badge" src="https://img.shields.io/badge/SPRING-0?style=social&logo=Spring"> .
-   <img alt="Static Badge" src="https://img.shields.io/badge/SPRINGBOOT-0?style=social&logo=SpringBoot">
+   <img alt="Static Badge" src="https://img.shields.io/badge/REACT?style=social&logo=React"> . 
   </div>
 </div>
 
