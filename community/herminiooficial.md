@@ -6,7 +6,7 @@
  <img width="400px" src="alex silva.gif" />
 </div>
 
-<h1> Linguagens e Frameworks </h1>
+<h1> Linguagens </h1>
 
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-0?style=social&logo=html5"> .
@@ -17,17 +17,12 @@
    <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-0?style=social&logo=JavaScript&logoColor=yellow"> .
    <img alt="Static Badge" src="https://img.shields.io/badge/TYPESCRIPT-0?style=social&logo=TypeScript&logoColor=blue"> .
  </div>
-
- <div>
-   <img alt="Static Badge" src="https://img.shields.io/badge/REACT?style=social&logo=React"> . 
-  </div>
 </div>
 
   <h1> Ferramentas </h1>
   
   <img alt="Static Badge" src="https://img.shields.io/badge/GIT-0?style=social&logo=git"> .
   <img alt="Static Badge" src="https://img.shields.io/badge/GITHUB-0?style=social&logo=github"> .
-  <img alt="Static Badge" src="https://img.shields.io/badge/POSTMAN-0?style=social&logo=postman">
 
 <div>
  <h1> Detalhes </h1>
