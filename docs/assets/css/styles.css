@@ -268,7 +268,4 @@ footer p {
     font-size: .9rem;
     color: var(--black);
 }
-button:hover {
-    background-color: #f0f0f0;
-    transition: 0.3s;
-}
+
