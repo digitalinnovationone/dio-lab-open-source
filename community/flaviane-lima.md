@@ -1,6 +1,6 @@
 
 # 👩‍💻 Perfil Flaviane de Lima
-### Desesenvolvedora Full Stack | Admiradora por Teconologia e Inovação
+### Desesenvolvedora Full Stack | Admiradora de Teconologia e Inovação
 
 # 👩‍💻 Sobre mim
 Olá, sou Flaviane de Lima! Estou em transição de carreira, anteriormente atuando como CEO de uma empresa de mudança. Atualmente, estou aprofundando meus conhecimento em tecnologia, com experiência em projetos pessoais com HTML, CSS, JavaScript, Node.js e Sql. Estou cursando o 3° semestre de Ciência da Computação. 
