@@ -30,12 +30,12 @@ Estou ingressando na área de inteligência artificial principalmente usando Ope
 
 ### Habilidades
 
-![Sql Server](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)>
+![Sql Server](https://img.shields.io/badge/SQL_Server-8A2BE2)
+![PySpark](https://img.shields.io/badge/PySpark-8A2BE2)
+![Databricks](https://img.shields.io/badge/Databricks-8A2BE2)
+![Synapse Analytics](https://img.shields.io/badge/Synapse_Analytics-8A2BE2)
+![Ms Fabric](https://img.shields.io/badge/MS_Fabric-8A2BE2)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PySpark](https://img.shields.io/badge/just%20the%20message-8A2BE2)
-![Databricks](https://img.shields.io/badge/just%20the%20message-8A2BE2)
-![Synapse Analytics](https://img.shields.io/badge/just%20the%20message-8A2BE2)
-![Ms Fabric](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
