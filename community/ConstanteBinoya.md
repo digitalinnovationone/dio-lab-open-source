@@ -8,7 +8,7 @@
 
 ## 🛤️ Minha Jornada na Programação  
 Acompanhe as tecnologias que já aprendi e as que ainda estou conquistando:  
-![Road Map](img/road_M-bg_off.png) 
+![Road Map](https://github.com/ConstanteBinoya/Site_com_Guanabara/blob/main/_imagens/road_M-bg_off.png)
 
 ## 🔮 Visão de Futuro: Onde me Vejo em 5 Anos  
 
