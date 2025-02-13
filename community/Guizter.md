@@ -23,6 +23,7 @@
 
 - Olá, meu nome é Guilherme Freire, tenho 33 anos de idade;
 - Possuo bacharelado em Direito pela faculdade UNIP; tecnólogo em Processos gerenciais pela faculdade estácio e estou terminando mais um tecnólogo em Gestão da Tecnologia da informação. 
+- Trabalho na área de compliance, com ênfase em OSINT.
 - O sucesso não cai do céu. Ele exige muita luta, esforço, estudo e força de vontade.
 
 
