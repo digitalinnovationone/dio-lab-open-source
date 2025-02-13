@@ -35,10 +35,10 @@ Possivelmente, assumir posições de liderança ou empreender em soluções tecn
 ![RPA (Blue Prism)](https://img.shields.io/badge/RPA-Blue%20Prism-2C5BAA?style=flat&logo=robot-framework&logoColor=white) 
 
 ## 🌐 Conecte-se Comigo  
-📌 **LinkedIn:** [![LinkedIn](img/linkedIn-mini.png)](https://www.linkedin.com/in/constante-binoya-26474b25a/)  
+📌 **LinkedIn:** [![LinkedIn](https://github.com/ConstanteBinoya/Site_com_Guanabara/blob/main/_imagens/linkedIn-mini.png)](https://www.linkedin.com/in/constante-binoya-26474b25a/)  
 🔗 [linkedin.com/in/constante-binoya](https://www.linkedin.com/in/constante-binoya-26474b25a/)  
 
-📌 **GitHub:** [![GitHub](img/github_mini.png)](https://github.com/ConstanteBinoya)  
+📌 **GitHub:** [![GitHub](https://github.com/ConstanteBinoya/Site_com_Guanabara/blob/main/_imagens/github_mini.png)](https://github.com/ConstanteBinoya)  
 🔗 [github.com/ConstanteBinoya](https://github.com/ConstanteBinoya)  
 
  
