@@ -14,4 +14,5 @@ and on my own study Java/SpringBoot/postgreSQL, focusing on developing for the b
 - 🔥 Junior Back end developer focus on learning more
 - 💬 Ask me about **Java, SpringBoot**
 - 💬 Or **Python**
+- Tentando novamente
 
