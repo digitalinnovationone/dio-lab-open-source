@@ -209,3 +209,14 @@ Para inserir um espaço para código escreva usando acento grave " ` ". Como no 
 Insira aqui sua linha de código
 
 ````
+
+## Com relação ao informado acima
+Para destacarmos código de uma linguagem específica podemos informar sobre qual linguagem será este código. Adicionando após as quatro crases de abertura o nome da linguagem. Exemplos: java, javascript, ...
+
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+    }
+}
+```
