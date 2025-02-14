@@ -268,3 +268,7 @@ footer p {
     font-size: .9rem;
     color: var(--black);
 }
+
+#apenasFazendoParaPr{
+    background-color: red;
+}
