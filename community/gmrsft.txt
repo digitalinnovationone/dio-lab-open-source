@@ -1,0 +1,17 @@
+# GMRSFT
+
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://br.linkedin.com/in/guilherme-mathias-ribeiro-968aa4223)
+
+## Sobre
+#### Graduação completa em ADS, 5 anos de experiência com manutenção de computadores (foco em hardware), 6 meses como suporte, focado em identificação e escalonamentos de chamados de software (ERP,WMS,apk Mobile) .
+
+## Habilidades
+
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
+
+
+#### Java COMPLETO 2023 Programação Orientada a Objetos +Projetos - Prof. Nélio Alves
