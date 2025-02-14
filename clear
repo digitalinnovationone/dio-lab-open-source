@@ -1,0 +1,226 @@
+[33mcommit 5a4ff45a9e600e998e46d89fce8cad513a305836[m[33m ([m[1;36mHEAD -> [m[1;32mfeat/community/lucaslm7[m[33m)[m
+Author: lucaslm7 <lucasmoises2803@gmail.com>
+Date:   Wed Apr 3 15:07:33 2024 -0300
+
+    feat: add SEU_USERNAME profile
+
+[33mcommit db6cf8be0a46d9e62ecd2743c00e903be058d187[m[33m ([m[1;31mupstream/main[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 5b8989930 dd2cc9986
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Apr 3 17:00:08 2024 +0000
+
+    Merge pull request #25822 from lucas-urdangarin/feat/community/lucas-urdangarin
+
+[33mcommit dd2cc9986bc955aa593b63deb8b996b420798c4d[m
+Author: Lucas-Urdangarin <lucasurdan@gmail.com>
+Date:   Wed Apr 3 13:56:35 2024 -0300
+
+    feat: add lucas-urdangarin profile
+
+[33mcommit 5b898993014ed39287dd12930d5b5e8fd3ce6ac2[m
+Merge: d3844a77f e2a10c980
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Apr 3 16:54:02 2024 +0000
+
+    Merge pull request #25821 from VictorFDiniz/feat/community/VictorFDiniz
+
+[33mcommit e2a10c980734789a02c06117afac8c8f0f5ea1a1[m
+Author: victorfdiniz <victorfd80@gmail.com>
+Date:   Wed Apr 3 13:52:07 2024 -0300
+
+    feat: add VictorFDiniz profile
+
+[33mcommit 3beb1c3d485968783b2520942aec7fc804f57f4b[m
+Author: Lucas-Urdangarin <lucasurdan@gmail.com>
+Date:   Wed Apr 3 13:46:35 2024 -0300
+
+    feat: add lucas-urdangarin profile
+
+[33mcommit d3844a77f02e3757ff822508b38efbeacec957ce[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: de5abef91 f5222df15
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Apr 3 16:23:09 2024 +0000
+
+    Merge pull request #25817 from alcantara-gustavo/feat/community/alcantara-gustavo
+
+[33mcommit f5222df159116a15084d0ac6e27d77685d51ace1[m
+Author: Gustavo Alcantara <g.henrique.test@gmail.com>
+Date:   Wed Apr 3 13:22:18 2024 -0300
+
+    feat: add alcantara-gustavo profile
+
+[33mcommit de5abef913fdaf573be70048d97a0995acd1e0a0[m
+Merge: 5f879b552 44d839849
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Apr 3 16:20:03 2024 +0000
+
+    Merge pull request #25818 from jaoteus/feat/community/jaoteus
+
+[33mcommit da57097b23dfbdf33de602461d7582c0be5cf4a3[m
+Author: Gustavo Alcantara <g.henrique.test@gmail.com>
+Date:   Wed Apr 3 13:17:06 2024 -0300
+
+    feat: add alcantara-gustavo profile
+
+[33mcommit 44d8398490b8cfbb8e138bd4246cae4e70f6c3d1[m
+Author: Mateus <mateusff2323@gmail.com>
+Date:   Wed Apr 3 13:13:48 2024 -0300
+
+    feat: add jaoteus.md profile
+
+[33mcommit 5f879b552ccd481008d9eb6d1dad18788a152d90[m
+Merge: 052854eff 4816348b3
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Apr 3 15:44:39 2024 +0000
+
+    Merge pull request #25814 from DavydBraz/feat/community/DavydBraz
+
+[33mcommit 4816348b3573b12c6fbfb939187b9d2c8b225ed2[m
+Author: Davyd Braz <davydbraz11@gmail.com>
+Date:   Wed Apr 3 12:34:36 2024 -0300
+
+    feat: add DavydBraz profile
+
+[33mcommit 052854eff08ea136c27ec1ca62819d0eb4586082[m
+Merge: 6cd7bade7 3922fc479
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Apr 3 14:53:52 2024 +0000
+
+    Merge pull request #25813 from Joao-Silverio/feat/community/Joao-Silverio
+
+[33mcommit 6cd7bade7c2710b881f6bb6b3e7d8e048f5d8f51[m
+Merge: c5ad5fa1d 1f91a1da6
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Apr 3 14:53:03 2024 +0000
+
+    Merge pull request #25812 from Raffael-Wagner/feat/community/Raffael-Wagner
+
+[33mcommit 3922fc479310dd9296149994386a308c37d5b35a[m
+Author: Joao Silverio <jvictorsilverio2001@gmail.com>
+Date:   Wed Apr 3 11:51:23 2024 -0300
+
+    feat: add Joao-Silverio profile
+
+[33mcommit 1f91a1da69b0693b27ef5e638115aaa40fdcb7ec[m
+Author: Raffael Wagner <raffaelwagner@gmail.com>
+Date:   Wed Apr 3 11:37:28 2024 -0300
+
+    feat: add Raffael-Wagner profile
+
+[33mcommit c5ad5fa1df17d9ee9905a2be1d814e1004ac40e9[m
+Merge: 13bd8eebb e956adc20
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Apr 3 14:24:05 2024 +0000
+
+    Merge pull request #25807 from ericksposito/feat/community/ericksposito
+
+[33mcommit e956adc204e9d77b46f1058853135715f843cbf7[m
+Author: Erick Sposito <ericksposito@gmail.com>
+Date:   Wed Apr 3 11:18:27 2024 -0300
+
+    feat: add ericksposito profile
+
+[33mcommit 13bd8eebb1e273354b4155ddd7e5da9b23d0238f[m
+Merge: 09e4f6789 64654ae1f
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Apr 3 14:13:31 2024 +0000
+
+    Merge pull request #25806 from stenioEll/feat/community/stenioEll
+
+[33mcommit 09e4f67898e3b1734bb40af32111e1dd63b636d6[m
+Merge: a14cf0077 7c97c1233
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Apr 3 14:12:59 2024 +0000
+
+    Merge pull request #25805 from silviamolinas/feat/community/silviamolinas
+
+[33mcommit 64654ae1f1ced367fc7c3adc4dc6463ac5d774d7[m
+Author: Stênio Ellison <39472541+stenioEll@users.noreply.github.com>
+Date:   Wed Apr 3 11:10:45 2024 -0300
+
+    feat: add stenioEll profile
+
+[33mcommit a14cf0077af8cadbfacfdb20977f444805e73f08[m
+Merge: 7dc197e76 34263fff7
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Apr 3 13:53:05 2024 +0000
+
+    Merge pull request #25803 from victormoraes-dev/feat/community/victormoraes-dev
+
+[33mcommit 7dc197e76e97e34529672437b11d8ba9bd551bdc[m
+Merge: 6dba7f14a 5bf45ea6b
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Apr 3 13:52:33 2024 +0000
+
+    Merge pull request #25802 from JoaoLuispteles/feat/community/JoaoLuispteles
+
+[33mcommit 34263fff73e481d6103e3d145e890d12e026f2e6[m
+Author: Victor Moraes <victormoraes.dev@gmail.com>
+Date:   Wed Apr 3 10:51:09 2024 -0300
+
+    feat: add victormoraes-dev profile
+
+[33mcommit 5bf45ea6b4a65f4ebf5943003f0293a9647dff3c[m
+Author: João Luís <joaoluispedrosateles145@gmail.com>
+Date:   Wed Apr 3 10:36:49 2024 -0300
+
+    feat: add JoaoLuispteles profile
+
+[33mcommit 6dba7f14ac052c74161ff518a60478a611c2e64f[m
+Merge: 6901fa046 4d7581803
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Apr 3 12:31:54 2024 +0000
+
+    Merge pull request #25799 from flavio-couto/feat/community/flavio-couto
+
+[33mcommit 4d7581803726d4468e723d1d1a1cd2545866b27a[m
+Author: Flavio Couto <flavitwo@hotmail.com>
+Date:   Wed Apr 3 09:27:10 2024 -0300
+
+    feat: add flavio-couto profile
+
+[33mcommit 6901fa0465176b0c86e04365f106e579d3744d9d[m
+Merge: d43670c9d d9f8163f1
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Apr 3 12:01:39 2024 +0000
+
+    Merge pull request #25797 from rafa-jr/feat/community/rafa-jr
+
+[33mcommit d9f8163f1e3786f32457ecfaa9e5e643cc7b72a8[m
+Author: rafa-jr <151754904+rafa-jr@users.noreply.github.com>
+Date:   Wed Apr 3 09:00:22 2024 -0300
+
+    Create rafa-jr.md
+
+[33mcommit d43670c9d0d277b8b965931f6b37b612315395ae[m
+Merge: 666e28c42 47969e066
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Apr 3 11:40:21 2024 +0000
+
+    Merge pull request #25795 from tasugvo/tasugvo
+
+[33mcommit 47969e066227f0d3b857641aac05b2bd778a04b3[m
+Author: Gustavo Ricci Ferreira <91757025+tasugvo@users.noreply.github.com>
+Date:   Wed Apr 3 08:38:16 2024 -0300
+
+    Create tasugvo.md
+
+[33mcommit 666e28c428237d000be8c7472a1590b7ad62b633[m
+Merge: b7a891a6f 57b279b92
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Apr 3 08:52:08 2024 +0000
+
+    Merge pull request #25794 from gildsant/feat/community/gildsant
+
+[33mcommit 57b279b9221469d40af42fc86d2aecd7e17ea1ef[m
+Author: Gilberto Dos Santos <gildsant50@gmail.com>
+Date:   Wed Apr 3 05:49:19 2024 -0300
+
+    gildsant
+
+[33mcommit b7a891a6fd1ec5d42f82de8d43c7609f0aa09954[m
+Merge: c77930e84 683623fb7
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Apr 3 07:18:44 2024 +0000
+
+    Merge pull 
