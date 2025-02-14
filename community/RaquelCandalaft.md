@@ -1,0 +1,3 @@
+# Raquel Candalaft
+
+Sou uma profissional em transição de carreira com uma paixão crescente pela tecnologia. Como ex-cabeleireira, aprendi a ter uma forte ética de trabalho e habilidades interpessoais que me permitem trabalhar bem em equipe e entender as necessidades de cada pessoa. Atualmente estou na Formação UX Design e Desenvolvimento Frontend com Angular na DIO. Além disso, estou no terceiro semestre da faculdade de Análise e Desenvolvimento de Sistemas, demonstrando dedicação contínua à formação acadêmica.
