@@ -26,9 +26,16 @@
 - Trabalho na área de compliance, com ênfase em OSINT.
 - O sucesso não cai do céu. Ele exige muita luta, esforço, estudo e força de vontade.
 
+## 📊 Estatísticas no GitHub
 
 <div align="center">
   <a href="https://github.com/Guizter">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guizter&show_icons=true&theme=tokyonight"/>
+  </div>
+  
+  ## 🚀 Linguagens Mais Usadas
+
+  <div align="center">
+
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guizter&layout=compact&langs_count=7&theme=dracula"/>
 </div>
