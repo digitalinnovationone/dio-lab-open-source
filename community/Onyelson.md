@@ -1,5 +1,5 @@
 <div>
-    <h1>Olá, eu sou Onyelson!</h1>
+    <h1>Oi, eu sou Onyelson!</h1>
     <h2>Bem-vindo ao meu perfil.</h2>
     <p>
 Minha trajetória na programação começou com a curiosidade e a vontade de aprender mais sobre tecnologia. Atualmente, estou focado no estudo de Python e terminei de me formar em Análise e Desenvolvimento de Sistemas (ADS). A programação me desafia a buscar soluções criativas para problemas complexos, tornando cada aprendizado uma conquista.
