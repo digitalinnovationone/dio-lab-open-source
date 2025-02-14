@@ -34,8 +34,8 @@ git clone https://github.com/SEU_USERNAME/dio-lab-open-source.git
 Pressione enter, e uma cópia do seu fork no GitHub será criada localmente.
 
 ### 3) Crie uma nova **branch** 
-Utilize o comando `git checkout -b` para criar e alternar para a nova branch e nomeie-a como `feat/community/SEU_USERNAME`
-> Exemplo: `git checkout -b feat/community/falvojr`
+Utilize o comando `git checkout -b` para criar e alternar para a nova branch e nomeie-a como `feat/community/SEU_USERNAME`: `git checkout -b feat/community/heros-s`
+> Exemplo: `git checkout -b feat/community/heros-s`
 
 ### 4) Crie o seu Profile README
  Dentro da pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub:
