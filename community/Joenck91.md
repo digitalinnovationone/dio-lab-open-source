@@ -1,9 +1,9 @@
 # Luis Joenck
 
-Casado com a Sayonara e pai de duas princesas da Disney a 2 anos.
-Depois que entendi algumas coisas sobre minha vida fiquei inconformado, excluir perfis nas redes para me dedicar com foco na jornada de transição de carreira.
+Casado com a Sayonara e pai de duas princesinhas da Disney.
+Depois que entendi algumas coisas sobre minha vida, fiquei inconformado e exclui perfis nas redes para me dedicar com foco na jornada de transição de carreira.
 
-As emoçõez que eu sentia ao jogar video game na infância, retornaram quando criei meus primeiros algoritmos.
+As emoções que eu sentia ao jogar video game na infância, retornaram quando criei meus primeiros algoritmos.
 
 Ainda não tive nenhuma experiência com alguma empresa a não ser projetos pessoais com vendas na internet.
 
