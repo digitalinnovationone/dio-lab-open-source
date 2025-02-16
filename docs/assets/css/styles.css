@@ -202,6 +202,11 @@ main, section {
     gap: 1rem;
 }
 
+#editor{
+    display: flex;
+    height: 100vh;
+}
+
 #searchForm {
     display: flex;
 }
@@ -267,4 +272,35 @@ footer p {
     text-align: center;
     font-size: .9rem;
     color: var(--black);
+}
+
+
+
+.editor, .preview {
+    flex: 1;
+    box-sizing: border-box;
+}
+  
+  textarea {
+    width: 100%;
+    max-width: 100%;
+    font-size: 1rem;
+    border: .125rem solid var(--secondary-color);
+    border-radius: .35rem;
+    padding: .5rem 1.5rem;
+    cursor: pointer; 
+  }
+
+.markdown{
+    height: 50h;
+}  
+.editor{
+    padding-right: 20px;
+    min-height: 50vh;
+    height: 50h;
+} 
+ 
+.preview, .editor{
+    width: 50%;
+    overflow-y: auto;
 }
