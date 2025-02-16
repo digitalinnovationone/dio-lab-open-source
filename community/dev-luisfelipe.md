@@ -1,1 +1,0 @@
-<p>Olá, meu nome é Luis Felipe, atualmente tenho 19 anos de idade, estudante de TI e busco uma chance de estágio na área. Nunca tive contato profissionalmente com a área, mas já tive contato com algumas linguagens de programação como HTML, CSS, PHP, JavaScript e Java. </p>

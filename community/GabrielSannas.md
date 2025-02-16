@@ -1,1 +1,0 @@
-Sou um profissional apaixonado por tecnologia e suporte ao usuário, com experiência prática na gestão e manutenção de equipamentos de TI. Atualmente, atuo como Técnico de TI na MAIS SAÚDE - PROJETOS E SOLUÇÕES, onde sou responsável pela gestão de equipamentos, suporte a usuários e instalação de redes e impressoras.
