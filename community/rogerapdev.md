@@ -1,3 +1,0 @@
-# Rogério Silva
-
-Sou desenvolvedor com mais de 18 anos de experiência, formado na área em Processamento de Dados, tendo atuado em diversos projetos utilizando várias linguagens de programação e banco de dados. Meus trabalhos vão deste aplicações desktop utilizando C#/WinForm até sistemas web utilizando principalmente PHP/Laravel, mas também utilizando .Net Core/C#. Sempre utilizando bancos de dados como MySQL, Oracle, Postgresql. Além dos mencionados posso citar outros em outras linguagens tais como: Clarion, Visual Basic, Java, Autoit, etc.. Possuo certificação Sun Certified Programmer e Oracle 10g Certified
