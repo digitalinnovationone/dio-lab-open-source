@@ -8,7 +8,7 @@
         <meta name="theme-color" content="#EAEAEA">
         <link rel="icon" type="image/x-icon" href="favicon.ico">
         <link rel="stylesheet" href="assets/css/styles.css">
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
+      
     </head>
     <body>
         <header>
@@ -39,7 +39,7 @@
                         <a href="#materiais" class="menu__link">Materiais de Apoio</a>
                     </li>
                     <li class="menu__item">
-                        <a href="#teste_markdown" class="menu__link">Teste o seu Markdown</a>
+                        <a href="#editor" class="menu__link">Editor Markdown</a>
                     </li>
                 </ul>
             </nav>
@@ -166,18 +166,20 @@
             </ol>
         </section>
 
-        <section id="teste_markdown">
-            <h2>Teste seu markdown</h2>
+        <section id="editor">
+            <h2>Editor Markdown</h2>
 
+            <div class="editor-container">
             <div class="editor">
                 <textarea id="markdown" placeholder="Digite seu Markdown aqui">
+                    
                 </textarea>
               </div>
           
                 
             <div class="preview markdown-body" id="output">
             </div>
-
+            </div>
         </section>
 
 
@@ -188,6 +190,7 @@
                 <a href="https://github.com/digitalinnovationone/dio-lab-open-source">GitHub</a>.
             </p>
         </footer>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
         <script src="assets/js/scripts.js"></script>
         
         </script>

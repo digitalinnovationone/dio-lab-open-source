@@ -4,6 +4,16 @@ const textarea = document.getElementById('markdown');
 const output = document.getElementById('output');
 const convertButton = document.getElementById('convertButton');
 
+const converter = new showdown.Converter({
+  simpleLineBreaks: true,
+  strikethrough: true,
+  tables: true,
+  ghCompatibleHeaderId: true,
+  emoji: true,
+  disableForced4SpacesIndentedSublists: true, 
+  literalMidWordUnderscores: true 
+});
+
 searchButton.addEventListener('click', (e) => {
   e.preventDefault();
   const searchValue = searchInput.value;
@@ -19,24 +29,31 @@ searchButton.addEventListener('click', (e) => {
   window.open(url, '_blank');
 })
 
-textarea.addEventListener('input', (e) => {
-  e.preventDefault();
-  const converter = new showdown.Converter({
-    simpleLineBreaks: true,
-    strikethrough: true,
-    tables: true,
-    ghCompatibleHeaderId: true,
-    emoji: true,
-    disableForced4SpacesIndentedSublists: true, 
-    literalMidWordUnderscores: true 
-  });
+function updatePreview() {
+  const markdownText = textarea.value;
+  const html = converter.makeHtml(markdownText);
+  output.innerHTML = html;
+}
 
-  function updatePreview() {
-    const markdownText = textarea.value;
-    const html = converter.makeHtml(markdownText);
-    output.innerHTML = html;
-  }
+function loadCommunityMarkdown() {
+  fetch('/community/ViniciusKoiti.md')
+    .then(response => {
+      if (!response.ok) {
+        throw new Error(`Erro ao buscar o arquivo: ${response.statusText}`);
+      }
+      return response.text();
+    })
+    .then(markdown => {
+      textarea.value = markdown;
+      updatePreview();
+    })
+    .catch(error => {
+      console.error('Erro ao carregar o Markdown:', error);
+      output.innerHTML = `<p>Erro ao carregar o conteúdo: ${error.message}</p>`;
+    });
+}
 
-  updatePreview();
-                      
-})
+loadCommunityMarkdown();
+
+
+textarea.addEventListener('input', updatePreview);
