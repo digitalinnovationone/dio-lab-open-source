@@ -27,7 +27,6 @@ Alguns dos hobbies incluem animes, games, ouvir música e ler livros.
 - ![SQL](https://img.shields.io/badge/SQL-FFCA28?style=for-the-badge&logo=sql&logoColor=black)
 
 **Front-end**
-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -37,7 +36,7 @@ Alguns dos hobbies incluem animes, games, ouvir música e ler livros.
 
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![Reactjs](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 - **Ferramentas**
 

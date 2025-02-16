@@ -8,7 +8,7 @@
 <br>
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=eulersili&show_icons=true&theme=white&include_all_commits=true">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulersili&langs_count=8">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulersili&layout=compact">
 </div>
 <div>
   <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">

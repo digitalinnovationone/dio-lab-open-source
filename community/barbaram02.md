@@ -1,42 +1,50 @@
-# Hey, eu sou a Bárbara. Prazer! 
-
-Como eu disse anteriormente, meu nome é Bárbara Marcello, tenho 18 anos e atualmente eu faço faculdade de Análise e Desenvolvimento de Sistemas. 
-Desde nova eu sempre goste muito de coisas tecnologicas e nunca imaginei que existisse realmente profissões que desenvolvam a tecnologia até eu chegar a uma certa idade. Desde o ensino médio para cá, eu descobri o extenso mundo de TI, então começei a me interessar mais e a me aprofundar no assunto. Eu tenho grandes sonhos e aredito que você que está lendo também tenha. Então, não vamos desistir independente da dificuldade, fechou?!
-
-## Metas
-- Em um futuro próximo me tornar uma Desenvolvedora Backend.
-- Complementar minha formação e me tornar uma Analista de Dados.
-- Me tornar uma Engenheira de Software.
-
-Loucura né?! Eu não acho, pois são meus sonhos. Sei que posso realiza-los, porque nada é impossivel.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
 
 
-## Habilidades 
-![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Bárbara+Marcello;I'm+from+Rio+De+Janeiro+-+Brazil;Thanks+for+coming!+ "&#128156")](https://git.io/typing-svg)
 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+<div Font-family= "Bodoni MT">
+Backend Development student from Rio de Janeiro - Brazil and Systems Analysis and Development course. Since I was young, I've always really liked technological things and right after I entered high school, I started to discover more about the world of IT and I haven't let go since then. My hobbies are reading, watching series, playing sports and doing small projects to exercise and practice.
+</div>
+<br>
 
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=4B0082)](https://www.linkedin.com/in/b%C3%A1rbara-marcello-224b51260/)
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=4B0082)](https://www.discord.com/in/.barbaram/)
+  
+</div>
 
-![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python)
+<h1 align="center"> Main skills: </h1>
 
-![Django](https://img.shields.io/badge/django-000?style=for-the-badge&logo=django)
+<div align="center">
+  
+![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=4B0082) 
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=4B0082)
+![Django](https://img.shields.io/badge/django-000?style=for-the-badge&logo=django&logoColor=4B0082)
+![SQlServer](https://img.shields.io/badge/sqlserver-000?style=for-the-badge&logo=microsoftsqlserver&logoColor=4B0082)
+</div>
 
-![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql)
+<h1 align="center">Studying in this moment:</h1>
 
-![SQlServer](https://img.shields.io/badge/sqlserver-000?style=for-the-badge&logo=microsoftsqlserver)
+<div align="center">
 
-![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)
+![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=4B0082) 
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=4B0082)
+![Csharp](https://img.shields.io/badge/CSharp-000?style=for-the-badge&logo=C#&logoColor=264CE4&logoColor=4B0082)
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=4B0082)
+![.Net](https://img.shields.io/badge/dotnetcore-000?style=for-the-badge&logo=.Net&logoColor=4B0082)
+![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=4B0082)
+![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=4B0082)
+![CSS](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=4B0082)
 
-![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)
+</div>
+
+<div align="center">  
+  <a href= "https://github.com/barbaram02">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=barbaram02&show_icons=true&count_private=true&hide_border=true&title_color=4B0082&icon_color=4B0082&text_color=c9d1d9&bg_color=0d1117&random=1" alt="Github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaram02&layout=compact&hide_border=true&title_color=4B0082&text_color=4B0082&bg_color=0d1117&random=1" />
+</div>
 
 
-
-## Redes Sociais 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/b%C3%A1rbara-marcello-224b51260/)
-
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/.barbaram/)
-
-[![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)](https://github.com/barbaram02)
-
-Como pode-se notar eu sou iniciante, mas me siga nas redes e vamos contribuir e compartilhar nossos conhecimentos! Obrigada por ter chego até aqui.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
