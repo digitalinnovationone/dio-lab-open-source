@@ -1,27 +1,38 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Profiles README DIO</span>
-</h1>
 
-## Sobre o Projeto
-Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Lembre-se de que Markdown é mais voltado para a documentação e apresentação de texto formatado, enquanto a remoção de bugs normalmente envolve a compreensão detalhada do código e o uso de ferramentas de desenvolvimento adequadas à linguagem de programação específica.
+## Plácido Martins
+<p>
+🧔 32 anos
+</p>
+<p> 
+👨‍👧 Pai
+</p>
+<p>
+💻 Estudante de tecnologia na UNIVESP
+</p>
 
-[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
+[![Static Badge](https://img.shields.io/badge/LINKEDIN-blue)](www.linkedin.com/in/placido-martins-41a330166)
+[![Static Badge](https://img.shields.io/badge/EMAIL-black)](mailto:placidomartins@hotmail.com)
 
-```
-docs/
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   └── js/
-│       └── scripts.js
-├── favicon.ico
-├── index.html
-└── README.md
-```
+<h3 align=center>Sobre mim</h3> 
 
-## Tecnologias
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+<p>
+🔹Já fiz um curso técnico de TI em 2012 na ETEC porém não conclui infelizmente, retornei para área de tecnologia em 2024 cursando bacharel em tecnologia da informação na UNIVESP.
+</p>
+
+<p>
+🔹Sou casado há 5 anos e tenho uma filha.
+</p>
+
+<p>
+🔹Sempre fui um entusiasta em tecnologia, e recentemente estou buscando mais conhecimento na área pra que possa realizar uma transição de carreira em breve.
+</p>
+
+<p>
+🔹Profisionalmente tenho habilidades nas áreas de logística e administrativa.
+</p>
+
+<p>
+🔹Meu hobbie favorito e jogar video games, penso que um dia talvez possa participar e colaborar de algum projeto sobre games.
+</p>
+
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/placido_rock/)
