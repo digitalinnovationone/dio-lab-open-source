@@ -1,8 +1,8 @@
 ---
 name: Feature request
 about: Sugira uma ideia para este repositório
-title: "[SUGESTÃO]"
-labels: enhancement
+title: "[DESAFIO]"
+labels: documentation, enhancement
 assignees: ''
 
 ---
