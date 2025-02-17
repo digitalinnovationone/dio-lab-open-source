@@ -56,4 +56,4 @@ Me chamo Henrique Candido, tenho 19 anos e sou natural do Paraná. Atualmente, e
 ## 🟢 My Status
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=010O1010&theme=hacker&background=000&border=black&dates=)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=candidohenrique&theme=hacker&background=000&border=black&dates=)](https://git.io/streak-stats)
