@@ -1,17 +1,15 @@
 <h1>Hello World!</h1>
-<p align="center">
-<table border="2">
+<p align="center"><table border="2">
   <tr>
+    <td><p align="left"><img        src=https://static.wixstatic.com/media/fa559d_fa2cf4ccc63e4aa6b4139bd9fd83a54c~mv2.jpg/v1/crop/x_74,y_0,w_550,h_595/fill/w_215,h_232,al_c,q_80,usm_0.66_1.00_0.01/marcio.webp">     </p></td>
     <td>
-        <p align="left"><img src=https://static.wixstatic.com/media/fa559d_fa2cf4ccc63e4aa6b4139bd9fd83a54c~mv2.jpg/v1/crop/x_74,y_0,w_550,h_595/fill/w_215,h_232,al_c,q_80,usm_0.66_1.00_0.01/marcio.webp"></p>
-    </td>
-    <td>
-        <p align="center"><h2>About me</h2></p>
-        <p align="left">😉 Hi! My name is <b>Márcio Estevam da Silva</b>.</p>
-        <p align="left">🏠 I live in Rio Claro, in the state of São Paulo, <b>Brazil</b>.</p>
-        <p align="letf">🧑‍🎓 I have completed a Data Analysis course (@ Resília Educação bootcamp) and I'm also studying <b>Computer Science</b> @ FAM Faculdade das Américas and I'm also in the Dio / Santander Cybersecurity Bootcamp..</p>
-        <p align="left">😘 I'm passionate about football and also I like to play some video games.</p>
-        <p align="left">🔭 Visit my Kaggle: <a href="https://www.kaggle.com/mrcioestevamdasilva" target="_blank" rel="noopener noreferrer">Márcio Estevam da Silva</a></p>
+    <p align="center"><h2>About me</h2></p>
+      <p align="left">😉 Hi! My name is <b>Márcio Estevam da Silva</b>.</p>
+      <p align="left">🏠 I live in Rio Claro, in the state of São Paulo, <b>Brazil</b>.</p>
+    <p align="letf">🧑‍🎓 I have completed a Data Analysis course (@ Resília Educação bootcamp) and I'm also studying <b>Computer Science</b>.</p>
+      <p align="left">&nbsp &nbsp &nbsp I have a degree in <b>Environmental Management</b> and a specialization in <b>Environmental Sustainability</b>.</p>
+    <p align="left">😘 I'm passionate about football and also I like to play some video games.</p>
+      <p align="left">🔭 Visit my Kaggle: <a href="https://www.kaggle.com/mrcioestevamdasilva" target="_blank" rel="noopener noreferrer">Márcio Estevam da Silva</a></p>
     </td>
   </tr>
 </table></p>
@@ -54,10 +52,11 @@
   
   <div align="center"> 
   <a href="https://www.youtube.com/channel/UCqPcqSW_VcECSZqJaD54tBQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href = "mailto:marcio.estevam@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:marcio.estevam@yahoo.com"><img src="https://img.shields.io/badge/Yahoo Mail-%23333?style=for-the-badge&logo=Yahoo!&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcio-estevam-da-silva-mes16876" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://api.whatsapp.com/send?phone=5519998421176&text=Oi%20Márcio" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
-  
+ <a href="https://api.whatsapp.com/send?phone=5519998421176&text=Oi%20Márcio" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+
+ 
  <p align="center"> 
 
  ## Visitas ao meu perfil <br>
