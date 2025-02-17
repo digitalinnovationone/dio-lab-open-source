@@ -1,8 +1,8 @@
-**README**  
+**SOBRE MIM**  
 
 Olá! 👋
 
-Sou estudante de **Gestão Financeira** 📊, com grande interesse em expandir meus conhecimentos e habilidades na área de **Tecnologia** 💻. Atualmente, não tenho experiência com linguagens de programação, mas estou focado em aprender e me desenvolver na área. 🚀
+Sou estudante de **Gestão Financeira** , com grande interesse em expandir meus conhecimentos e habilidades na área de **Tecnologia** 💻. Atualmente, não tenho experiência com linguagens de programação, mas estou focado em aprender e me desenvolver na área. 🚀
 
 Meu objetivo é combinar meu entendimento de gestão financeira com as inovações tecnológicas, aprimorando minhas capacidades e trazendo soluções eficazes para os desafios do mercado. 💡
 
