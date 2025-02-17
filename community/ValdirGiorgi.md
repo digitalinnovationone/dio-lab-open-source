@@ -31,4 +31,5 @@ Contribuir para projetos desafiadores e ajudar novos desenvolvedores a ingressar
 
 ---
 
+
 💡 *“Tecnologia é mais do que um trabalho, é uma paixão. E o maior legado que podemos deixar é o conhecimento compartilhado.”*
