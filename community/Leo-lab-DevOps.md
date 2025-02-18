@@ -1,4 +1,5 @@
-Me chamo #Leonardo Azevedo#, sou Engenheiro DevOps e estou me dedicando ao mundo do desenvolvimento, mas precisamente falando JAVA, focado no seguimento FullStack. 
+## Meu nome é  Leonardo Azevedo
+Sou Engenheiro DevOps e estou me dedicando ao mundo do desenvolvimento, mas precisamente falando JAVA, focado no seguimento FullStack. 
 
 ## Conecte-se comigo
 
