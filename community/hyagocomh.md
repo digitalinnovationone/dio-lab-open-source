@@ -2,7 +2,7 @@
 # Learning Git with Bootcamp's Heineken
 
 
-E aí! Me chamo Hyago e estou mudando de front-end para a área de dados. Com sorte, pude me deparar logo com esse Bootcamp, que está ampliando minha visão sobre o setor. Estou animado com essa nova jornada e vou me esforçar ao máximo para me sair bem como Analista de Dados e, futuramente, como Cientista de Dados.
+### E aí! Me chamo Hyago e estou mudando de front-end para a área de dados. Com sorte, pude me deparar logo com esse Bootcamp, que está ampliando minha visão sobre o setor. Estou animado com essa nova jornada e vou me esforçar ao máximo para me sair bem como Analista de Dados e, futuramente, como Cientista de Dados.
 
 
 ## Skills
@@ -57,4 +57,4 @@ E aí! Me chamo Hyago e estou mudando de front-end para a área de dados. Com so
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hyagocarvalhom/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hyagocomh)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hyagocomh)   
