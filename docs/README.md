@@ -20,6 +20,10 @@ docs/
 ├── index.html
 └── README.md
 ```
+
+Crie uma nova branch e nomeie como comunity feat/comunity/seunomedeusuario: git checkout -b  
+exemplo "git checkout -b  feat/comunity/seunomedeusuario
+
 "(https://www.dio.me/)"
 ## Tecnologias
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
