@@ -7,6 +7,8 @@ Sou Engenheiro DevOps e estou me dedicando ao mundo do desenvolvimento, mas prec
 
 ## Habilidades
 
+```bash
+
 [IaC]: Terraform/CloudFormation/Ansible.
 [Nuvem]: AWS / Azure / GCP / OCI.
 [Monitoramento]: Prometheus/Grafana/CloudWatch/K9S/Kibana/Datadog.
@@ -20,3 +22,5 @@ Sou Engenheiro DevOps e estou me dedicando ao mundo do desenvolvimento, mas prec
 [Construir]: Maven/npm.
 [Colaboração]: Trello/Jira/Confluence.
 [Metodologias]: Ágil/Scrum/Lean/Kanban.
+
+```
