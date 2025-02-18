@@ -34,31 +34,6 @@ As principais contribuições realizadas incluem:
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sanstevens&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SanStevens/dio-lab-open-source)
 
 
-
-Criação de Branch: Criei uma branch para as minhas contribuições:
-
-bash
-
-git checkout -b minha-branch-contribuicao
-Implementação de Alterações: Adicionei minhas contribuições/implementações no código.
-Commit das Alterações: Comitei as mudanças realizadas:
-bash
-
-git add .
-git commit -m "Descrição do que foi alterado"
-Sincronização com o Repositório Remoto:
-Sincronizei meu fork com o repositório principal antes de enviar as alterações:
-bash
-
-git fetch upstream
-git merge upstream/main
-Resolvi eventuais conflitos, se necessários.
-Push para o Fork:
-bash
-
-
-git push origin minha-branch-contribuicao
-Pull Request: Abri um Pull Request no repositório principal da dio-lab-open-source.
 🚀 Como Usar este Repositório
 Faça o fork deste repositório.
 Clone o repositório no seu ambiente local.
