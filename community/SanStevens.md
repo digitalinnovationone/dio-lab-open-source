@@ -79,6 +79,3 @@ GitHub: sanstevens
 📚 Feito com aprendizado, prática e muita dedicação!
 
 
-
-Salve este arquivo como `README.md` no seu repositório e ajuste os detalhes específicos das suas contribuições conforme necessário! 🚀
-
