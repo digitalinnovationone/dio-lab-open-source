@@ -1,6 +1,6 @@
 # Lucca Lanzellotti
 
-Sou um Analista de BI e estudante de Ciência de Dados, buscando aprimorar minhas habilidades em análise preditiva, machine learning e visualização de dados. Tenho experiência com SQL, Python, Power BI, Excel e BigQuery, e aplico esses conhecimentos na construção de dashboards e soluções analíticas para e-commerce e desporto.
+Sou um Analista de BI e estudante de Ciência de Dados, buscando aprimorar minhas habilidades em análise preditiva, machine learning e visualização de dados. Tenho experiência com SQL, Python, Power BI, Excel e BigQuery, e aplico esses conhecimentos na construção de dashboards e soluções analíticas para e-commerce.
 
 ### Conecte-se comigo
 
