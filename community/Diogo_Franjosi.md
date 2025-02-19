@@ -14,7 +14,7 @@ Olá! Me chamo Diogo e ajudo a Eli nos tutoriais de Git e Github.
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## Github stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diogo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF&hide_title=true&hide=stars)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diogo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF&hide_title=true&hide=stars)
 
 ## Minhas contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DiogoFranjosi&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)](https://github.com/DiogoFranjosi/dio-lab-open-source)
