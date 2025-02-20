@@ -1,18 +1,16 @@
-# ✨ Olá, sou Gabriel Ferreira dos Santos.
-```
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%E2%9C%A8+Ol%C3%A1%2C+sou+Gabriel+Ferreira.)](https://git.io/typing-svg)
+
 📚 Tenho 28 anos, sou estudante de Ciências da Computação na Universidade Anhembi Morumbi - UAM e estou em busca de uma oportunidade profissional para mostrar meus conhecimentos e habilidades.
-```
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielF-S)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ferreira-dos-santos-655a18145/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:gabrielf.me@outlook.com)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/profile/gabrielf_me)
 
-```
-📝 Em nenhum dos meu antigos empregos cheguei a trabalhar com programação, mas em todos consegui contribuir de alguma forma com alguma inovação, sejam elas, um sistema para registro de visitantes, planilhas e automações para recebimento de demandas, criação e correção de templates de e-mails HTML.
-Cheguei a receber mentoria em desenvolvimento Java afim de conseguir entregar projetos utilizando as mesmas tecnologias, métodos e padrões utilizados nos projetos reais de clientes. 
-Estou sempre estudando para ter mais conhecimento em tecnologias, padrões de projetos e novidades
+📝 Apesar dos meu antigos empregos não cheguei a trabalhar diretamente com programação, em vários momentos consegui contribuir com alguma inovação agregante, sejam elas, um sistema para registro de visitantes, planilhas e automações para recebimento de demandas, criação e correção de templates de e-mails HTML. Me desafiando a entender as plataformas e alcançar um objetivo benéfico para a equipe.
+Busquei mentorias em desenvolvimento Java afim de conseguir entregar projetos utilizando as mesmas tecnologias, métodos e padrões utilizados nos projetos reais de clientes. 
+Estou sempre estudando para ter mais conhecimento em tecnologias, padrões de projetos e novidades.
 
-```
 ## Ultimo Repositório
 | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielF-S&repo=UAM-A3-HospSalvacao&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GabrielF-S/UAM-A3-HospSalvacao)
 
