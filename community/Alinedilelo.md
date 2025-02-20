@@ -7,7 +7,7 @@ Olá, meu nome é Aline Dilelo, tenho 41 anos. Trabalho como assistente administ
 
 
 ## Conhecimentos
-Git  | GitHub | Java | linguagem C  | Banco de dados
+Git  | GitHub | Java | linguagem C 
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aline-dilelo-455701256/)
