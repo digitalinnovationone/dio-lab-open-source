@@ -8,7 +8,7 @@
 <h3 align="left"> Tenho Conhecimento básico na linguagem Python
 <h3 align="left">Conecte-se comigo :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adriel cézar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adriel cézar" height="35" width="45" /></a><a href="https://instagram.com/cz.adriel" target="black"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cz.adriel" height="40" width="50" /></a> 
+<a href="https://www.linkedin.com/in/adrielcézar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adriel cézar" height="35" width="45" /></a><a href="https://instagram.com/cz.adriel" target="black"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cz.adriel" height="40" width="50" /></a> 
 <a href = "https://github.com/Czadriel" target="black"><img align="center" src= "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt = "Czadriel" height = "40" width = "40">
 
 <h3 align="left">Linguagens e Ferramentas :</h3>
