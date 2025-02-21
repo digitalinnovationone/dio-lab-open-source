@@ -1,5 +1,5 @@
 # Apresentação
-Essé o READ.ME de apresentação do projeto do GitHub da DIO, sobre colaboração de projetos Open Source, no meu caso, feito dentro do Bootcamp da Randstand - Backend com .NET
+Esse é o READ.ME de apresentação do projeto do GitHub da DIO, sobre colaboração de projetos Open Source, no meu caso, feito dentro do Bootcamp da Randstand - Backend com .NET
 
 # Conecte comigo
 
