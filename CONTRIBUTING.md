@@ -3,6 +3,9 @@
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
     <span> Guia de Contribuição</span>
 </h1>
+<h2>
+    Dica Não dar Git Clone, está baixando mais de 1GB
+</h2>
 
 [![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/stargazers)
 [![Forks](https://img.shields.io/github/forks/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/forks)
