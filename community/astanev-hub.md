@@ -1,8 +1,8 @@
 ## Olá, eu sou o Alexandre Stanev (astanev-hub)
 
-**Desenvolvedor Antigo, reciclando suas habilidades!!!!**
+**Desenvolvedor antigo, reciclando suas habilidades!!!!**
 
-**Sobra mim**
+**Sobre mim**
 
 *  Atuamente atuo como Gerente de Sistemas.
 *  Procuro sempre estudar para atualizar meus conhecimentos.
