@@ -24,7 +24,7 @@ Contexto para as mudanças.
 Links ou referências úteis.
 ## Tipo de alteração
 
-- [x] Resolução do Desafio Profile README (envie APENAS o arquivo `community/SanStevens.md`)
+- [x] Resolução do Desafio Profile README (envie APENAS o arquivo `community/sanstevens.md`)
 - [ ] Correção de bug
 - [ ] Nova funcionalidade
 - [ ] Alteração na documentação
