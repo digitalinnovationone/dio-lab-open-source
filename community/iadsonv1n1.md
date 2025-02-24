@@ -29,4 +29,4 @@ Sou graduando em TI na UFRN, formado em tecnico de informática pela IFRN. Gosto
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iadsonv1n1&show_icons=true)
