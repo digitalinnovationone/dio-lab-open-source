@@ -2,7 +2,7 @@
 
 Sou graduando em TI na UFRN, formado em tecnico de informática pela IFRN. Gosto de praticar esportes e jogar jogos Eletrônicos no meu tempo livre e sempre que possivel aprender coisas novas.
 
-🔭 Estou desenvolvendo um sistema de turma gameficada, que consiste em uma metodologia de ensino baseada em acumolo de pontos e resgate de recompensas.
+🔭 Estou desenvolvendo um sistema de turma gameficada, que consiste em uma metodologia de ensino baseada em acúmulo de pontos e resgate de recompensas.
 
 💬 Atualmente estou em busca de um aportunidade de estágio então, caso alguém veja esse perfil a tiver alguma vaga disponivel pode entrar em contato 
 
