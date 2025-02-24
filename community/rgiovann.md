@@ -73,6 +73,51 @@ Meus projetos abrangem diversas tecnologias e frameworks:
 - **Finanças**: Algoritmos de trading, análise técnica
 
 
+## Projetos do Bootcamp DIO/Bradesco Java
+
+Este repositório contém links para os projetos desenvolvidos como parte dos desafios do Bootcamp DIO/Bradesco Java. Cada projeto representa uma solução para um desafio específico proposto durante o bootcamp.
+
+## 📋 Lista de Projetos
+
+### 1. [Desafio iPhone UML](https://github.com/rgiovann/dio-bradesco-iphone-uml)
+Modelagem e implementação em Java das interfaces e classe do iPhone, baseado no vídeo de lançamento de 2007. Este projeto utiliza conceitos de Programação Orientada a Objetos, como interfaces e implementação, para representar as funcionalidades de reprodutor musical, aparelho telefônico e navegador na internet.
+
+### 2. [Desafio Controle de Fluxo](https://github.com/rgiovann/dio-bradesco-desafio-controle-fluxo)
+Implementação de um programa que utiliza estruturas de controle de fluxo em Java, demonstrando o uso de condicionais, loops e tratamento de exceções para resolver problemas específicos propostos no desafio.
+
+### 3. [Desafio Conta Bancária](https://github.com/rgiovann/dio-bradesco-desafio-conta-banco)
+Simulação de um sistema bancário simplificado em Java, implementando funcionalidades básicas como criação de contas, operações de depósito, saque e transferência, utilizando conceitos de encapsulamento e abstração.
+
+## 🚀 Tecnologias Utilizadas
+
+- Java
+- Programação Orientada a Objetos
+- UML (Unified Modeling Language)
+- Git e GitHub
+
+## 💻 Conceitos Aplicados
+
+- Interfaces e Implementação
+- Encapsulamento
+- Abstração
+- Tratamento de Exceções
+- Estruturas de Controle de Fluxo
+- Modelagem de Classes
+- Documentação de Código
+
+## 📝 Sobre o Bootcamp
+
+O Bootcamp DIO/Bradesco Java é um programa de formação focado em desenvolvimento Java, oferecido pela Digital Innovation One em parceria com o Bradesco. O bootcamp cobre desde conceitos fundamentais até temas avançados em desenvolvimento Java.
+
+## 👨‍💻 Autor
+
+Estes projetos foram desenvolvidos por [Seu Nome](https://github.com/rgiovann) como parte dos requisitos para conclusão do Bootcamp DIO/Bradesco Java.
+
+## 📄 Licença
+
+Estes projetos estão sob a licença [MIT](LICENSE).
+
+
 ## :memo: Github stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rgiovann&show_icons=true&count_private=true)  
 
