@@ -193,3 +193,6 @@ $ git Branch -d teste
 ```
 
 </details>
+
+Editando o commit para o padrão de atividade
+feat: add leandrooliota profile
