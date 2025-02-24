@@ -21,4 +21,4 @@ _All of this technologies are for Backend Development purpose!_
 
 ## Projects
 - This is my [social network](https://github.com/vitorbcc2021/social_network) developed with Flutter, using a integrated database SQLite.  
-- My [TicTacToe](https://github.com/vitorbcc2021/social_network) game developed in Java Language.
+- My [TicTacToe](https://github.com/vitorbcc2021/tictactoe) game developed in Java Language.
