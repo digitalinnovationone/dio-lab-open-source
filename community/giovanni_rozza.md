@@ -67,8 +67,7 @@ Aplicação web para catalogação e avaliação de filmes, com sistema de revie
 
 Meus projetos abrangem diversas tecnologias e frameworks:
 
-- **Back-end**: Java, Spring Boot, SQL, Node.js
-- **Front-end**: React, TypeScript, HTML/CSS
+- **Back-end**: Java, Spring Boot, SQL,JPQL
 - **DevOps**: Docker, Railway, CI/CD
 - **Dados**: Análise estatística, ARIMA, séries temporais
 - **Finanças**: Algoritmos de trading, análise técnica
