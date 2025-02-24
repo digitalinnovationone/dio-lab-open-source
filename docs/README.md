@@ -8,7 +8,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 
-📖 Minha Formação
+## 📖 Minha Formação
 Análise e Desenvolvimento de Sistemas -  Uninove
 
 ## GitHub Stats
