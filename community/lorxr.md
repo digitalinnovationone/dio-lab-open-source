@@ -4,7 +4,7 @@
 
 Me chamo Lorenço Zambiazi de Oliveira, sou um entusiasta na área tecnológica. Sou formado no curso de Análise e Desenvolvimento de Sistemas pela Universidade Unopar, estou em busca de uma oportunidade de aprofundar-me nos conhecimentos da área de programação. Participei em 2023 do Programa de Capacitação Tecnológica Jovem Programador, realizado pelo Senac SC, sendo desenvolvido aprendizados na área da programação, com foco FullStack (tendo uma carga horária total de 440 horas).  
 Participei em 2024 do Programa de Capacitação Tecnológica ENTRA21 (EAD).  
-Atualmente estou atuando como Desenvolvedor Júnior na empresa Confiança Software, atuando com Java WEB, tendo foco no Front-end utilizando XHTML, CSS e JSF com o auxílio do Framework Primefaces.
+Atualmente estou atuando como Desenvolvedor Júnior, utilizando Java WEB com foco no Front-end utilizando XHTML, CSS e JSF com o auxílio do Framework Primefaces.
 
 ### 🛠️ Tecnologias que utilizo:
 
