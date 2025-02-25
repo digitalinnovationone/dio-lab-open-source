@@ -2,7 +2,7 @@
 <h1 align=center>Olá, como vai?  Sou a Isabella Alves, prazer!</h1> <br>
 
 <p align="center">
- <img alt="banner_IsabellaSMA" src="\community\IsabellaSMA\img\banner_github (1).png" alt="banner_IsabellaSMA" width="75%">
+ <img alt="banner_IsabellaSMA" src="https://github.com/IsabellaSMA/IsabellaSMA/blob/main/banner_github%20(1).png" alt="banner_IsabellaSMA" width="75%">
 </p> 
 <h3 align="center">Artista e programadora</h3> <br>
 <p align="center">
