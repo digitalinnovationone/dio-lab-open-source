@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Olá! Eu sou Auricélia, mas para facilitar a vida de todos, podem me chamar de Téia. Sou da época do assembly e comecei a programar na escola técnica com apenas 15 anos. Até hoje, sou apaixonada por TI.
+Olá! Eu sou Auricélia, mas para facilitar a vida de todos, podem me chamar de Téia. Sou da época do assembly e comecei a programar na escola técnica com apenas 15 anos. Depois fiz Ciências da computação e até hoje, sou apaixonada por TI.
 
 ## Experiência
 
