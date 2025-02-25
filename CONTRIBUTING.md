@@ -77,16 +77,18 @@ Atente-se para a seguir as orientações para a contribuição, principalmente:
 Após criar o seu Pull Request, nossa automação irá validar a sua submissão. Caso esteja tudo certo, será retornada uma mensagem indicado que seu PR foi aprovado. Do contrário, leia atentamente as orientações e verifique os arquivos modificados para saber se atende as instruções para contribuição.
     
     
-## Convenção de Commits 
+## Convenção de Commits
 
-| Tipo de Commit |Descrição                                                            | Exemplo
-| ---------------|----------------------------------------------------------------------|-----------
-| `feat`         | Adiciona uma nova funcionalidade ao projeto.                         | `feat: add USENAME.md profile`
-| `fix`          | Corrige um bug ou problema no projeto.                               | `fix: fixed issue fix#IssueNumber`
-| `docs`         | Altera a documentação do projeto.| `docs: update README.md`
-| `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         | `style: add EFFECTNAME to COMPONENT`
-| `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
-| `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
+| Tipo de Commit | Descrição                                                                 | Exemplo                                |
+|----------------|---------------------------------------------------------------------------|----------------------------------------|
+| `feat`         | Adiciona uma nova funcionalidade ao projeto.                              | `feat: add USERNAME.md profile`        |
+| `fix`          | Corrige um bug ou problema no projeto.                                    | `fix: resolve issue #IssueNumber`      |
+| `docs`         | Altera ou atualiza a documentação do projeto.                             | `docs: update README.md`               |
+| `style`        | Realiza mudanças na aparência ou formatação, sem alterar a funcionalidade.| `style: add EFFECTNAME to COMPONENT`   |
+| `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.              | `refactor: optimize CLASSNAME methods` |
+| `test`         | Adiciona ou modifica testes no projeto.                                   | `test: add unit test for UserService`  |
+
+
 
 
 ## Referências
