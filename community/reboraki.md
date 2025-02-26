@@ -11,8 +11,6 @@
 
 💻 Atualmente aprendendo **Python, Dados, POO, Pandas, Numpy, Flask, Django, dentre outros.**
 
-👯 Estou colaborando atualmente no [Dio Lab Open Source](https://github.com/digitalinnovationone/dio-lab-open-source)
-
 📫 Contato: **renataboraki@hotmail.com**
 
 ⚡ Fato sobre mim: **Eu jamais imaginei que algum dia iria querer tanto entrar no mundo dev... e aqui estou <3!**
