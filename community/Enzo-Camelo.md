@@ -1,7 +1,7 @@
 # Olá! eu sou o Enzo 👋🏻
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/typing-svg)
 
-### Meu nome é Enzo Camelo sou de Joinville - SC, e estou constantemente em busca de aprimorar meus conhecimentos na área da tecnologia.
+### Meu nome é Enzo Camelo sou de Joinville - SC, e estou constantemente em busca de aprimorar meus conhecimentos na área da tecnologia!
 ### Atualmente cursando o primeiro semestre de Engenharia de Software na Católica de Santa Catarina.
 
 
