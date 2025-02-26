@@ -1,13 +1,20 @@
 # Klaytson Chrystian C. Pereira
-## Desenvolvedor Back End
+## Sobre mim
+> Sou um profissional com mais de 20 anos de experiência no desenvolvimento de software e sistemas de tecnologia da informação. Ao longo da minha carreira, adquiri conhecimentos sólidos em diversas linguagens de programação, bancos de dados e ferramentas de desenvolvimento, sempre buscando me atualizar com as melhores práticas e tecnologias do mercado.  
 
-### Linguagens
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)>
-![Delphi](https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white)>
+> Minha paixão por resolver problemas complexos e criar soluções eficientes me levou a trabalhar em projetos desafiadores, desde a concepção até a implementação e manutenção. Atualmente, estou focado em aprimorar minhas habilidades em Git, GitHub e Python, e ferramentas de I.A., ampliando ainda mais meu conjunto de ferramentas para entregar resultados de alta qualidade.  
+
+### Linguagens Conhecidas
+| Linguagem | Link |
+| --------- | ---- |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Javascript |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Python |
+| ![Delphi](https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white) | Delphi |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | PHP |
+| ![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000) | PL/SQL | 
+| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | Microsoft C# |
+| ![RestAPI](https://img.shields.io/badge/RestAPI-blue) | Rest API |
+
 
 ### Bibliotecas & Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
