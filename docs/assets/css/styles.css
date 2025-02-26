@@ -5,13 +5,15 @@
 :root {
   --primary-color: #E94D5F;
   --secondary-color: #30A3DC;
+  --a: #cbeeff;
 
-  --gray-600: #212327BF;
+  --gray-600: #181a1dbf;
   --gray-500: #707070;
   --gray-300: #CED2D6;
   --gray-200: #DEE2E6;
   --gray-100: #E9EDF1;
-
+  --bg: rgb(21, 22, 27) !important;
+  --detail: rgb(41, 41, 51) !important;
   --white: #FAFAFA;
   --black: #0F0F0F;
 }
@@ -45,13 +47,13 @@ html {
 body {
     font-family: 'Open Sans', Tahoma, Geneva, Verdana, sans-serif;
     color: var(--black);
-    background: var(--gray-100);
+    background: var(--bg);
     width: 100vw;
     overflow-x: hidden;
 }
 
 a {
-    color: var(--black);
+    color: var(--a);
     font-weight: 600;
     text-decoration: none;
 }
@@ -66,8 +68,8 @@ ol > li {
 }
 
 code {
-    color: var(--black);
-    background: var(--gray-300);
+    color: var(--white);
+    background: var(--gray-600);
     border-radius: .35rem;
     padding: .25rem .35rem;
 }
@@ -94,6 +96,10 @@ header nav ul{
     display: flex;
     text-align: center;
     justify-content: center;
+}
+
+.detailBgColor{
+    background-color: var(--detail);
 }
 
 .brand {
@@ -140,7 +146,7 @@ header nav ul{
     align-items: center;
     gap: .5rem;
     font-size: 1.25rem;
-    color: var(--white);
+    color: var(--white) ;
 }
 
 .menu-social__link:hover {
@@ -153,9 +159,9 @@ header nav {
     flex-flow: row wrap;
     justify-content: space-between;
     align-items: center;
-    background: var(--gray-200);
+    background: var(--detail);
     padding: .25rem 2rem;
-    box-shadow: inset 0 0.1rem 0.2rem var(--gray-500);
+    box-shadow: inset 0 0.1rem 0.2rem var(--black);
 }
 
 .menu {
@@ -174,7 +180,7 @@ header nav {
 
 .menu__link {
     font-size: .95rem;
-    color: var(--black);
+    color: var(--white);
 }
 
 .menu__link:hover {
@@ -189,6 +195,7 @@ main, section {
     display: flex;
     flex-direction: column;
     align-items: center;
+    color: var(--gray-100);
     gap: 1rem;   
 }
 
@@ -198,8 +205,38 @@ main, section {
 
 #comunidade {
     display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
     flex-direction: column;
+    color: var(--gray-100);
     gap: 1rem;
+}
+#apresentacao{
+    padding: 1em;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--gray-100)
+}
+
+#apresentacao p {
+    width: 80%;
+    text-align: center;
+}
+
+#instrucoes{
+    padding: 2em;
+    background-color: var(--detail);
+    border-radius: 15px;
+    color: var(--gray-100);
+}
+#instrucoesTitulo{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #searchForm {
@@ -243,6 +280,8 @@ main, section {
     max-width: 100%;
     font-size: 1rem;
     border: .125rem solid var(--secondary-color);
+    background-color: transparent;
+    color: var(--white);
     border-radius: .35rem 0 0 .35rem;
     padding: .5rem 1.5rem;
     cursor: pointer; 
@@ -253,12 +292,28 @@ main, section {
     outline: 0;
 }
 
+#materiais{
+  
+    display: flex;
+    justify-content: center;
+}
+
+#materiais h2{
+    margin-bottom: 1em;
+}
+#materiaisCard{
+   
+    padding: 2em;
+    background-color: var(--detail);
+    border-radius: 15px;
+    color: var(--gray-100);
+}
 footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    border-top: .1rem solid var(--gray-300);
-    background: var(--gray-200);
+    border-top: .1rem solid var(--gray-600);
+    background: var(--detail);
     margin-top: 2rem;
     padding: 1.125rem 2rem;
 }
@@ -266,5 +321,5 @@ footer {
 footer p {
     text-align: center;
     font-size: .9rem;
-    color: var(--black);
+    color: var(--white);
 }
