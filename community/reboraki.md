@@ -1,15 +1,21 @@
-<h1 align="center">Olá 👋 Eu sou Renata</h1>
+<h1 align="center">Olá 👋 Eu sou a Renata</h1>
 
-<h3 align="center">Estudante autodidata de Phyton e futuramente front-end.</h3>
+<h3 align="center">Estudante autodidata de Python e futuramente front-end.</h3>
 <br/>
 
-- Estou aprendendo **Phyton, Dados, POO, Pandas, Numpy, Flask e Django**
+🤩 Tenho 31 anos, sou casada e resido em Brasília/DF.
 
-- 👯 Estou colaborando atualmente no [Dio Lab Open Source](https://github.com/digitalinnovationone/dio-lab-open-source)
+👩‍🎓 Formada em Tecnologia em Gestão de Recursos Humanos em 2019 pela Unicesumar/PR.
 
-- 📫 Contato: **renataboraki@hotmail.com**
+👩‍💻 Estou me preparando para seguir a carreira de Tecnologia na área de Full Stack com Python e Front-end.
 
-- ⚡ Fato sobre mim: **Eu jamais imaginei que algum dia iria me interessar pelo mundo dev, e aqui estou <3!**
+💻 Atualmente aprendendo **Python, Dados, POO, Pandas, Numpy, Flask, Django, dentre outros.**
+
+👯 Estou colaborando atualmente no [Dio Lab Open Source](https://github.com/digitalinnovationone/dio-lab-open-source)
+
+📫 Contato: **renataboraki@hotmail.com**
+
+⚡ Fato sobre mim: **Eu jamais imaginei que algum dia iria querer tanto entrar no mundo dev... e aqui estou <3!**
 
 <br/>
 
@@ -19,7 +25,7 @@
 <a href="https://linkedin.com/in/reboraki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reboraki" height="30" width="40" /></a>
 <a href="https://fb.com/renatacblopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="renatacblopes" height="30" width="40" /></a>
 <a href="https://instagram.com/re_boraki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="re_boraki" height="30" width="40" /></a>
-<a href="https://discord.gg/relopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="relopes" height="30" width="40" /></a>
+
 </p>
 <br/>
 <h3 align="left">Linguagens e ferramentas:</h3>
