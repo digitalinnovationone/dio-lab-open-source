@@ -33,6 +33,13 @@
 
 <br/>
 
-## Minhas atividades
-<a href="https://github.com/reboraki">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=reboraki&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+## ✍🏻 *Contribuição no repositório da [Dio](https://www.dio.me/bootcamp) - Digital Innovation One*
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reboraki&repo=dio-lab-open-source&theme=neon)](https://github.com/reboraki/dio-lab-open-source)
+<br/><br/>
+
+## 📊 *Minhas atividades*
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reboraki&show_icons=true&theme=omni)
+<br/><br/>
+
