@@ -1,4 +1,0 @@
-# Ugo Abrahão
-Engenheiro
-
-Brasil
