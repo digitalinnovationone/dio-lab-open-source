@@ -17,5 +17,4 @@ Javascript, HTML, CSS, Vue, Flutter e Java...
 
 ## Feedback
 
-
 Se você tiver algum feedback, por favor me deixe saber por meio de eudevrodrigo@gmail.com
