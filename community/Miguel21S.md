@@ -3,6 +3,11 @@
 
 Meu nome Miguel Simão, Engenheiro informático formado pela Universidade de Holguín, com sólida experiência em sistemas informáticos e desenvolvimento de software. Sou especialista em conceber e otimizar soluções tecnológicas que simplificam processos complexos e acrescentam valor às organizações. Ao longo da minha carreira, realizei vários projectos, integrando tecnologias como TypeScript, JavaScript, React, TypeORM e Java, com foco na usabilidade e manutenção eficiente.
 
+## Academias virtuais
+<a href="https://web.dio.dev/">
+  <img src="https://img.shields.io/badge/DIO-0D4B93?style=for-the-badge&logo=dio&logoColor=white">
+</a>
+
 ## 🛠️ Ferramentas e Tecnologias
 
 <a href="https://code.visualstudio.com/">
