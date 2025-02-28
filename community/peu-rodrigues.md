@@ -1,3 +1,0 @@
-### Olá, meu nome é Pedro Henrique.
-
-Estudante de Análise e Desenvolvimento de Sistemas com experiência em projetos acadêmicos e prática em trabalho remoto, focado em análise de dados e desenvolvimento de soluções eficientes. Possuo conhecimento em análises preditivas e prescritivas, domínio em SQL, e experiência com ferramentas de visualização de dados como Power BI e Tableau. Familiarizado com DBT, GitHub, e integração de APIs, além de experiência com a stack AWS para armazenamento e processamento de dados em Data Lakes e Data Warehouses. Também tenho habilidades em Python e R para análises estatísticas e criação de modelos.
