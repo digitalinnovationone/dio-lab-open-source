@@ -7,7 +7,7 @@
 
 
 ## Thiago, 19 years old
-# Student of Systems Analysis and Development, focused on improving technical and practical skills in the technology field. Currently, I am dedicated to learning programming languages such as C, C#, and .NET, aiming to expand my knowledge in these languages. I have a strong interest in programming, development logic, and problem-solving, always striving to stay updated with the best practices and market trends. My goal is to contribute to various projects for the community.
+### Student of Systems Analysis and Development, focused on improving technical and practical skills in the technology field. Currently, I am dedicated to learning programming languages such as C, C#, and .NET, aiming to expand my knowledge in these languages. I have a strong interest in programming, development logic, and problem-solving, always striving to stay updated with the best practices and market trends. My goal is to contribute to various projects for the community.
 
 
 ##  Thiago, 19 anos
