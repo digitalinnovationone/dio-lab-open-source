@@ -3,7 +3,7 @@
 <h2 align="center"><a href="https://git.io/typing-svg" target=_blank rel="nofollow noopener noreferrer"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&height=100&duration=1600&pause=1000&color=DD0031&width=750&lines=Fala+Devs!+Sejam+bem-vindos!+:);Web+Developers...;Mobile+Developers...;FullStack...;Systems+Analysts...;...and students!" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&duration=1600&pause=1000&color=DD0031&width=435&lines=Fala+Devs!+Sejam+bem-vindos!;Web+Developers...;Mobile+Developers...;FullStack..https://emresitesweb.com.br/wp-content/uploads/2023/11/gitironman01.png.;Systems+Analysts...;...and students!" style="max-width: 100%;"></a></h2>
 
 
-<img align="left" src="https://github.com/emersonpessoa01/dio-lab-open-source/blob/main/image/images/amy-lee-coder-round.gif" width="380" height="auto" style="margin:10px"/>
+<img align="left" src="https://github.com/emersonpessoa01/emersonpessoa01/blob/main/image/images/amylee-programmer03.1.gif" width="350" height="auto" style="margin:10px"/>
 
 <p>⚗️ Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Pará.</p>
 <p>💻 Redes de Computadores pela FAP-Faculdade do Estado do Pará.</p>
@@ -15,7 +15,7 @@
 
 </div>
 
-<img src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" max-width="1200px" width="100%" height="40px">
+<img src="https://raw.githubusercontent.com/emersonpessoa01/dio-lab-open-source/refs/heads/main/image/gifs/divider.gif" max-width="1200px" width="100%" height="40px">
 <!-- 👨‍💻 Atualmente estou envolvido no <b>Programa Desenvolve 2022 da Boticário com trilha FullStack ministrado pela Alura</b>. -->
 
 <!--

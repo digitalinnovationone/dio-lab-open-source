@@ -1,26 +1,22 @@
-## 💻Lucas Antonio Santos Alves
+# Olá, sou Lucas Alves! 👋
 
 ## Sobre mim
 
+- 📚 Estudante do 4º período do curso de Tecnologia em Sistemas para Internet.
+- 👨‍💻 Desenvolvedor Front-End com foco em UX.
 
-Sou um jovem apaixonado por tecnologia, atualmente cursando **Sistemas para Internet** no [IFSP-BIRIGUI](https://bri.ifsp.edu.br/) e participando de um bootcamp em Java  na plataforma da [Dio](https://www.dio.me/). Minha dedicação a esses estudos me permite explorar meu amor pela tecnologia e desfrutar da flexibilidade do home office para aprimorar minhas habilidades e contribuir para o mundo digital.
+## Experiência
 
-## Social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lucas-antonio-84657a218/)
+- 💼 Analista de Suporte Técnico- Uappi.
 
+## Tecnologias
 
-## habilidades
- ### Hard Skills
-- ![HTML5](https://img.shields.io/badge/HTML5-fff?style=for-the-badge&logo=html5)
-- ![CSS3](https://img.shields.io/badge/CSS3-fff?style=for-the-badge&logo=css3&logoColor=264CE4)
-- ![C++](https://img.shields.io/badge/C%2B%2B-fff?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-- ![Java](https://img.shields.io/badge/Java-fff?style=for-the-badge&logo=java)
-- [![Git](https://img.shields.io/badge/Git-fff?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-- [![GitHub](https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/) 
+- 💻 Linguagens de programação: C++, JavaScript.
+- 🌐 Front-end: React.js, HTML, CSS.
+- 🧰 Ferramentas de Desenvolvimento: Visual Studio, Visual Studio Code, Git, Figma.
 
-### Soft Skills
-- Comunicativo
-- Trabalho em Equipe
-- Empatia
-- Gerenciamento de Tempo
+## Contato
 
+-## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lucas-antonio-santos-alves/)
+[![GitHub](https://img.shields.io/badge/GitHbt-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasalvessssss)
