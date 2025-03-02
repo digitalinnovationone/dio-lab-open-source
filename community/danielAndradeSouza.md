@@ -1,5 +1,5 @@
 ## Quem Sou Eu?
-Olá, meu nome é Daniel Andrade de Souza, sou nascido de Americana São Paulo, mas hoje moro em Guarapuava Paraná. Sou um Jovem que possui interesse em desenvolvimento de Aplicações Web e também possuo como hobby a criação de conteudo audio visual no youtube.
+Olá, meu nome é Daniel Andrade de Souza, sou nascido de Americana, São Paulo, mas hoje moro em Guarapuava Paraná. Sou um Jovem que possui interesse em desenvolvimento de Aplicações Web e também possuo como hobby a criação de conteudo audio visual no youtube.
 ## Formação
 No momento sou estudante de Ciência da Computação na Universidade Estadual do Centro Oeste(Unicentro).
 ## Habilidades
