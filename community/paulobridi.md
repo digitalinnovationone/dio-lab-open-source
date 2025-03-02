@@ -1,4 +1,4 @@
-# Paulo Ricardo
+# Paulo Bridi
 
 ## Sobre mim
 👨🏻‍💻 - Estudante de Programação - Cursando Ciências da Computação: GRAN FACULDADE.
