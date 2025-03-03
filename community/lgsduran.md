@@ -9,8 +9,8 @@ It is an open-source challenge.
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luiz-gustavo-duran-105a6557/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luiz-gustavo-duran-105a6557)
 
 ## Repo contributions
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lgsduran)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lgsduran&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
