@@ -25,4 +25,4 @@ Atualmente, sou funcionário público e atuo como gerente de projetos, o que me 
 
 **Front-end:** React, Redux, TailwindCSS, VUE
 
-**Back-end:** JAVA, SPRINT BOOT, PHP, Node, FLUTTER.
+**Back-end:** JAVA, SPRINT BOOT, JAVA MOBILE, PHP, Node, FLUTTER.
