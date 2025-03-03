@@ -23,6 +23,6 @@ Atualmente, sou funcionário público e atuo como gerente de projetos, o que me 
 
 ## Stack utilizada
 
-**Front-end:** React, Redux, TailwindCSS, VUE
+**Front-end:** React, Reac Native, Redux, TailwindCSS, VUE
 
 **Back-end:** JAVA, SPRINT BOOT, JAVA MOBILE, PHP, Node, FLUTTER.
