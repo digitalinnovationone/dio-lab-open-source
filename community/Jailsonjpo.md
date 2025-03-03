@@ -23,6 +23,10 @@ Atualmente, sou funcionário público e atuo como gerente de projetos, o que me 
 
 ## Stack utilizada
 
+<<<<<<< HEAD:community/jailsonjpo.md
 **Front-end:** React, Reac Native, Redux, TailwindCSS, VUE
+=======
+**Front-end:** React, Redux, CSS, TailwindCSS, VUE
+>>>>>>> 1134592bb (feat: add Jailsonjpo.md profile):community/Jailsonjpo.md
 
 **Back-end:** JAVA, SPRINT BOOT, JAVA MOBILE, PHP, Node, FLUTTER.
