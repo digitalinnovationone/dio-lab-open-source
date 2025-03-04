@@ -1,4 +1,4 @@
-#gustavocbatista
+# gustavocbatista
 # Gustavo Crepaldi
  
 - Sou um apaixonado por dados, hoje trabalho como Engenheiro de Dados em uma empresa, e estou mergulhando no mundo de prompts para GENAI. Estou a disposição para quem queira conversar e enterder mais dessa área que não para de crescer.
