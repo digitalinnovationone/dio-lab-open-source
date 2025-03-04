@@ -11,12 +11,12 @@ Novato em versionamento de código com Git e GitHub. Estudante do Bootcamp: Cria
 
 ### Redes Sociais
 
-[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@hunter_crawford/)
-[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SEUUSERNAME/)
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5663ec)](https://discord.com/channels/@hunter_crawford/)
+[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=0865fd)](https://www.facebook.com/SEUUSERNAME/)
 [![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x)](https://x.com/SEUUSERNAME)
 [![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEUUSERNAME/)
-[![Reddit](https://img.shields.io/badge/Reddit-0d1117?style=for-the-badge&logo=reddit&logoColor=FF4500)](https://www.reddit.com/u/SEUUSERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=red)](mailto:SEUGMAIL)
+[![Reddit](https://img.shields.io/badge/Reddit-0d1117?style=for-the-badge&logo=reddit&logoColor=ff4500)](https://www.reddit.com/u/SEUUSERNAME)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ce3c30)](mailto:SEUGMAIL)
 
 
 
