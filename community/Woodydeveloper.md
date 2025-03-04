@@ -10,9 +10,11 @@
 <p2>Let's connect!</p2>
   </br>
   </br>
-  <a href="[LINKEDIN](https://www.linkedin.com/in/woodmanson-pierre-853a461b1/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/woodmanson-pierre-853a461b1/)
+
+  
+</div>
 
 </br>
 </br>
