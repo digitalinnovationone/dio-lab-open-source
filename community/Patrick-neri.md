@@ -1,20 +1,18 @@
 
-# DIO | Resumos Git e GitHub
+# PERFIL | Patrick Neri
 
-Repositório para armazenar resumos sobre Git e GitHub da [Digital Innovation One](https://web.dio.me/track/502225f7-8b50-41f7-86bf-67e8f3c1ed78).
+Me chamo Patrick, estou fazendo transição de carreira para a área de dados e segurança da Informação.
 
 
 
-##🖥️ Resumos das Aulas
+## Cursos em Andamento:
 
-| Aulas | Resumos |
-|-------|---------|
-| Gravando Alterções no Repositório Local| [Resumos]()
+- Tecnólogo em Ciência de Dados - Gran faculdadade.
+- Bootcamp - Heineken - Inteligência Artificial aplicada a Dados - DIO.
 
-## Comandos Git
+## Conhecimentos:
 
-| Comando | Descrição |
-|---------|-----------|
-|Git Config | Ver opções de configuração |
-|Git Clone | Cria um clone do repositório remoto|
-|Git init | Cria um repositório na pasta local |
+- Conhecimento em manutenção de computadores, instalação e configuração de programas.
+- Conhecimento em programas 3D - 3DsMax, Sketchup, Corona Render, Lumion
+- Conhecimento em Adobe Photoshop, Illustrator e Premiere
+- Conhecimento em Libras.
