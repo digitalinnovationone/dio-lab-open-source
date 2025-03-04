@@ -1,9 +1,9 @@
 
-<p align="left" width="20%">
-    <img width="6%" src="https://i.pinimg.com/736x/91/7e/07/917e07ae5b1420ae71c5f466f509dc87.jpg">
-</p>
-
-# Hunter Crawford
+<h1>
+    <a href="https://github.com/Hunter-Crawford">
+     <img align="center" width="40px" src="https://i.pinimg.com/736x/91/7e/07/917e07ae5b1420ae71c5f466f509dc87.jpg"></a>
+    <span> Hunter Crawford</span>
+</h1>
 
 Novato em versionamento de código com Git e GitHub. Estudante do Bootcamp: Criando jogos com Godot do Santander 2024.
 #
