@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <p>I am Woodmanson Pierre, recente graduado em análise e desenvolvimento de sistemas.</p>
+  <p>I am Woodmanson Pierre, recentely graduated in Software engineering.</p>
 </div>
 
 <div> 
@@ -36,4 +36,4 @@
 ![VSCODE](https://img.shields.io/badge/vscode-192436?style=for-the-badge&logo=visualstudiocode)
 ![GIT](https://img.shields.io/badge/Git-192436?style=for-the-badge&logo=git)
 ![GITHUB](https://img.shields.io/badge/Github-192436?style=for-the-badge&logo=github)
-![MYSQL](https://img.shields.io/badge/Mysql-192436?style=for-the-badge&logo=mysql&logoColor=6E99F5))
+![MYSQL](https://img.shields.io/badge/Mysql-192436?style=for-the-badge&logo=mysql&logoColor=6E99F5)
