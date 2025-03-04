@@ -1,6 +1,6 @@
 
 <p align="left" width="20%">
-    <img width="6%" src="https://i.pinimg.com/736x/dd/e6/9e/dde69e29968d5831fe5c86da5df85f4c.jpg">
+    <img width="6%" src="https://i.pinimg.com/736x/91/7e/07/917e07ae5b1420ae71c5f466f509dc87.jpg">
 </p>
 
 # Hunter Crawford
