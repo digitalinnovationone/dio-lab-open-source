@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://linkedin.com/in/vinycxuz](https://linkedin.com/in/vinycxuz)
 
-- ⚡ Fun fact **I have three cats**
+- ⚡ Fun fact **I have four cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
