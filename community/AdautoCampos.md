@@ -2,10 +2,10 @@
 
 ## Transformando o Direito com a Tecnologia 
 
-Sou um advogado apaixonado por tecnologia, explorando o mundo da análise e desenvolvimento de sistemas no Instituto Federal Baiano. Acredito que a inovação tecnológica pode revolucionar a prática jurídica, tornando a justiça mais acessível e eficiente.
+Sou um advogado apaixonado por tecnologia, explorando o mundo da análise e desenvolvimento de sistemas. Acredito que a inovação tecnológica pode revolucionar a prática jurídica, tornando a justiça mais acessível e eficiente.
 
 <p align="center">
-  <img src="https://images7.alphacoders.com/499/499787.png" alt="Justiça e Tecnologia" width="500">
+  <img src="https://cdn.pixabay.com/photo/2018/09/27/09/22/artificial-intelligence-3706562_1280.jpg" alt="Justiça e Tecnologia" width="500">
 </p>
 
 ## ️ Habilidades Técnicas
@@ -18,24 +18,24 @@ Sou um advogado apaixonado por tecnologia, explorando o mundo da análise e dese
 ##  Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://github.com/seu_usuario_github">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario_github&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu_usuario_github&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
+  <a href="https://github.com/adcampos-adv">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adcampos-adv&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adcampos-adv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
   </a>
 </p>
 
 ##  Conecte-se Comigo
 
 <p align="center">
-  <a href="seu_link_linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="seu_link_instagram" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:seu_email@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="adauto-campos-825b9190" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="adautodecampos" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:adautodecampos@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
 ##  Projetos e Contribuições
 
-* [Nome do Projeto 1](link_do_projeto_1): Descrição breve do projeto.
-* [Nome do Projeto 2](link_do_projeto_2): Descrição breve do projeto.
+* [Nome do Projeto 1](https://adautocampos.com.br/): Criação de LandPage para escritório de advocacia.
+
 
 ##  Colaboração
 
