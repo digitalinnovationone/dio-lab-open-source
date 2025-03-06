@@ -1,20 +1,29 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Profiles README DIO</span>
-</h1>
+Olá, eu sou [Seu Nome]! 👋
 
-## Sobre o Projeto
-Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Lembre-se de que Markdown é mais voltado para a documentação e apresentação de texto formatado, enquanto a remoção de bugs normalmente envolve a compreensão detalhada do código e o uso de ferramentas de desenvolvimento adequadas à linguagem de programação específica.
+Sou formando no curso Superior de Sistemas Para Internet, apaixonado por tecnologia e sempre em busca de novos desafios no mundo do desenvolvimento web e UX Design.
 
-[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
+💻 O que eu faço?
 
-```
-docs/
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   └── js/
+Desenvolvedor Web
+
+UX Designer
+
+Engenheiro de Prompt
+
+📌 Tecnologias e Ferramentas:
+
+HTML | CSS | JavaScript
+
+Python | PHP | MySQL
+
+🚀 Sempre em busca de novas tendências e boas práticas no desenvolvimento de software!
+
+📫 Onde me encontrar?
+
+- [LinkedIn](https://www.linkedin.com/in/brendosilva313/)  
+- [E-mail](mailto:brendocastro555@gmail.com)  
+
+Vamos trocar ideias e construir projetos incríveis juntos! 😃
 │       └── scripts.js
 ├── favicon.ico
 ├── index.html
