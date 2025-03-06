@@ -52,7 +52,7 @@ Exemplos de perfis[^2].
     <span> Eli</span>
 </h1>
 
-[^2]: [DIO] ()
+[^2]: [![DIO](https://github.com/digitalinnovationone)]
 
-
-[DIO]: https://github.com/digitalinnovationone
+> [!NOTE]
+> O código deste arquivo pode estar confuso e com equívocos ou erros devido à inexperiência do usuário.
