@@ -41,13 +41,20 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hunter-Crawford&theme=transparent&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF3C00&title_color=B50000&text_color=FFF)
 
 ## Referências
-<h1>
-    <a href="https://github.com/digitalinnovationone">
-     <img align="center" width="40px" src="https://avatars.githubusercontent.com/u/26231823?s=200&v=4"></a>
-    <span>DIO</span>
-</h1>
+Código do cabeçalho com foto[^1].
+
+Exemplos de perfis[^2].
+
+[^1]: 
 <h1>
     <a href="https://github.com/elidianaandrade">
      <img align="center" width="40px" src="https://avatars.githubusercontent.com/u/97471199?v=4"></a>
     <span> Eli</span>
 </h1>
+[^2]: 
+<h1>
+    <a href="https://github.com/digitalinnovationone">
+     <img align="center" width="40px" src="https://avatars.githubusercontent.com/u/26231823?s=200&v=4"></a>
+    <span>DIO</span>
+</h1>
+
