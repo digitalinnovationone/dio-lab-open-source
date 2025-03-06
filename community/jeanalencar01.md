@@ -55,4 +55,4 @@ Atualmente, estou focado em aprender **Python** e outras tecnologias para aprimo
 
 ---
 
-🚀 Obrigado por visitar meu perfil! Vamos aprender e evoluir juntos! 😃  
+🚀 Obrigado por visitar meu perfil! Vamos aprender e evoluir juntos! 😃🚀 
