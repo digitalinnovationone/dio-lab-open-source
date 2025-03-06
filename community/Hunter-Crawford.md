@@ -5,18 +5,20 @@
     <span> Hunter Crawford</span>
 </h1>
 
-<p style="font-family:courier;">Novato em versionamento de código com Git e GitHub. Estudante do Bootcamp: Criando jogos com Godot do Santander 2024.
+<p style="font-family:courier;">Novato em versionamento de código com Git e GitHub. Estudante do Bootcamp: Criando jogos com Godot do Santander 2024. Procuro aprender mais sobre desenvolvimento de games para começar a criar meus jogos independentes.
 </p>
 
 
 ### Redes Sociais
 
-[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5663ec)](https://discord.com/channels/@Hunter_Crawford#9658/)
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5663ec)](https://discord.com/channels/@me/)
+<button type="button" onclick="navigator.clipboard.writeText('Hunter_Crawford#9658')">Copiar para a Área de Transferência</button>
+
 [![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=0865fd)](https://www.facebook.com/profile.php?id=100080001433762/)
 [![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x)](https://x.com/SEUUSERNAME)
 [![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hunter.tjdss/)
 [![Reddit](https://img.shields.io/badge/Reddit-0d1117?style=for-the-badge&logo=reddit&logoColor=ff4500)](https://www.reddit.com/user/Hunter_Crawford-TJSS)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ce3c30)](mailto:SEUGMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ce3c30)](https://mail.google.com/mail/u/2/?fs=1&to=hunter.tjdss@gmail.com&tf=cm)
 
 
 
@@ -37,7 +39,7 @@
 
 ## Referências
 <h1>
-    <a href="https://github.com/elidianaandrade">
+    <a href="https://github.com/digitalinnovationone">
      <img align="center" width="40px" src="https://avatars.githubusercontent.com/u/26231823?s=200&v=4"></a>
     <span>DIO</span>
 </h1>
