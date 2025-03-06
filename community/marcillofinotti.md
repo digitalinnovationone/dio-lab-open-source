@@ -4,5 +4,6 @@ Olá, eu sou Marcillo (marcillofinotti)
 
 🏢 Atuação Profissional
 
-🚀 Analista/Suporte de Sistemas ERP.
-🚀 Analista de Integração de Dados.
+🚀 Analista/Suporte de Sistemas ERP
+
+🚀 Analista de Integração de Dados
