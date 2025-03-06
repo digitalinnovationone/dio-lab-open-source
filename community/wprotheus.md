@@ -1,6 +1,6 @@
 # ♾️ **Bem-vindo ao meu perfil no GitHub**
 <p>
-  <img src="./assets/1b.png" alt="alusão ao ambiente de desenvolvimento" width="404" align="right" />
+  <img src="https://github.com/wprotheus/wprotheus/raw/main/assets/1b.png" alt="alusão ao ambiente de desenvolvimento" width="404" align="right" />
 </p>
 
 ## 👨🏻‍💼Sobre mim
