@@ -45,14 +45,14 @@ Código do cabeçalho com foto[^1].
 
 Exemplos de perfis[^2].
 
-[^1]: 
+[^1]: Eli
 <h1>
     <a href="https://github.com/elidianaandrade">
      <img align="center" width="40px" src="https://avatars.githubusercontent.com/u/97471199?v=4"></a>
     <span> Eli</span>
 </h1>
 
-[^2]: 
+[^2]: DIO
 <h1>
     <a href="https://github.com/digitalinnovationone">
      <img align="center" width="40px" src="https://avatars.githubusercontent.com/u/26231823?s=200&v=4"></a>
