@@ -1,5 +1,5 @@
 Olá, eu sou Marcillo (marcillofinotti)
-✨ Aluno na DIO e graduado em Engenharia da Computação.
+✨ Aluno na DIO e graduado em Engenharia de Computação.
 
 🏢 Atuação Profissional
 
