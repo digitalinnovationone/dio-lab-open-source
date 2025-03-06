@@ -51,6 +51,7 @@ Exemplos de perfis[^2].
      <img align="center" width="40px" src="https://avatars.githubusercontent.com/u/97471199?v=4"></a>
     <span> Eli</span>
 </h1>
+
 [^2]: 
 <h1>
     <a href="https://github.com/digitalinnovationone">
