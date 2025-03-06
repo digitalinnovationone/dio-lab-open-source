@@ -5,8 +5,10 @@
     <span> Hunter Crawford</span>
 </h1>
 
-<p style="font-family:courier;">Novato em versionamento de código com Git e GitHub. Estudante do Bootcamp: Criando jogos com Godot do Santander 2024. Procuro aprender mais sobre desenvolvimento de games para começar a criar meus jogos independentes.
-</p>
+
+```
+Novato em versionamento de código com Git e GitHub. Estudante do Bootcamp: Criando jogos com Godot do Santander 2024. Procuro aprender mais sobre desenvolvimento de games para começar a criar meus jogos independentes.
+```
 
 
 ### Redes Sociais
