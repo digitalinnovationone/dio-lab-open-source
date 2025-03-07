@@ -1,6 +1,7 @@
 # Alessandro Santos
+Olá, meu nome é Alessandro e estou contribuindo em um Projeto Open Source da DIO!
 
-## GitHub Stats 
+## Status GitHub 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aleussandro&layout=compact&bg_color=000&border_color=3333ff&title_color=ffff00&text_color=FFF)
 
 ## Habilidades
