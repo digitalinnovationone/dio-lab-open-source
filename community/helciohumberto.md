@@ -1,7 +1,3 @@
-Ótimo! Com base nas tecnologias e ferramentas que você mencionou, aqui está um exemplo de README para o seu perfil no GitHub:
-
----
-
 # Olá, eu sou o Helcio Humberto 👋
 
 Sou um desenvolvedor apaixonado por tecnologia e inovação, com experiência em várias linguagens e frameworks. Ao longo da minha carreira, trabalhei com diversas tecnologias, criando soluções eficientes e escaláveis para resolver problemas reais. Estou sempre aprendendo e me adaptando às novas tendências do mercado!
@@ -29,7 +25,3 @@ Aqui estão alguns projetos em que trabalhei ou estou trabalhando:
 
 - [LinkedIn](link do seu LinkedIn)
 - [E-mail](mailto:seuemail@example.com)
-
----
-
-Você pode adaptar esse modelo de acordo com seus projetos, interesses ou qualquer outra coisa que queira destacar! Se precisar de mais ajustes ou se quiser adicionar informações específicas, é só avisar!
