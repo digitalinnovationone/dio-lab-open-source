@@ -1,5 +1,5 @@
 
-# Sergio-Dev  😎
+# Sergio-Dev 😎
 
 ## Seja bem-vindo ao meu mundo🫡
 O Recrutador decidiu parender a programar e agora está se aventurando pelo mundo da programação, conhecendo um pouco de tudo, mas, o coração já bateu mais forte pelo back e pelo Mobile, mas, estou só no começo, vamos ver o que o futuro me trás!
