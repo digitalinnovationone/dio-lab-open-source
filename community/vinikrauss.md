@@ -1,5 +1,6 @@
-
 # Vinícius Krauss
+
+Readme para treinamento DIO de Vinícius Krauss
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-krauss-8416b4173/) 
 
