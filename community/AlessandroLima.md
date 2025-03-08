@@ -1,6 +1,6 @@
 # 👋🏻 Alessandro Teixeira Lima
 
-Desenvolvedor mobile em constante evolução, apaixonado por pintura de miiaturas nas horas vagas.
+Desenvolvedor mobile em constante evolução, apaixonado por pintura de miniaturas nas horas vagas.
 
 ### Conecte-se comigo
 
@@ -9,18 +9,19 @@ Desenvolvedor mobile em constante evolução, apaixonado por pintura de miiatura
 
 ### Habilidades
 
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
-![Sass](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=sass&logoColor=CD6799)
-![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=553C7B)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)  
+[![Swift](https://img.shields.io/badge/Swift-000?style=for-the-badge&logo=swift&logoColor=FA7343)](https://developer.apple.com/swift/)  
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-000?style=for-the-badge&logo=swift&logoColor=FA7343)](https://developer.apple.com/xcode/swiftui/)  
+[![Combine](https://img.shields.io/badge/Combine-000?style=for-the-badge&logo=swift&logoColor=FA7343)](https://developer.apple.com/documentation/combine)  
+[![UIKit](https://img.shields.io/badge/UIKit-000?style=for-the-badge&logo=swift&logoColor=FA7343)](https://developer.apple.com/documentation/uikit)  
+[![Android](https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android&logoColor=3DDC84)](https://developer.android.com/)  
+[![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=02569B)](https://flutter.dev/)  
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1Maatheus&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=1Maatheus&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlessandroLima&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlessandroLima&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Meus Principais Desafios de Projeto DIO
 
