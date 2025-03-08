@@ -1,5 +1,3 @@
-
-
 # 👩💻 Ana Paula Rabelo
 
 > [!NOTE]  
