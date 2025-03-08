@@ -7,15 +7,15 @@ Desenvolvedor mobile em constante evolução, apaixonado por pintura de miniatur
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:aletlima@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/alessandro-teixeira-lima-11ba2421/)
 
-### Habilidades
+### Habilidades  
 
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)  
-[![Swift](https://img.shields.io/badge/Swift-000?style=for-the-badge&logo=swift&logoColor=FA7343)](https://developer.apple.com/swift/)  
-[![SwiftUI](https://img.shields.io/badge/SwiftUI-000?style=for-the-badge&logo=swift&logoColor=FA7343)](https://developer.apple.com/xcode/swiftui/)  
-[![Combine](https://img.shields.io/badge/Combine-000?style=for-the-badge&logo=swift&logoColor=FA7343)](https://developer.apple.com/documentation/combine)  
-[![UIKit](https://img.shields.io/badge/UIKit-000?style=for-the-badge&logo=swift&logoColor=FA7343)](https://developer.apple.com/documentation/uikit)  
-[![Android](https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android&logoColor=3DDC84)](https://developer.android.com/)  
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/) 
+[![Swift](https://img.shields.io/badge/Swift-000?style=for-the-badge&logo=swift&logoColor=FA7343)](https://developer.apple.com/swift/) 
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-000?style=for-the-badge&logo=swift&logoColor=FA7343)](https://developer.apple.com/xcode/swiftui/) 
+[![Combine](https://img.shields.io/badge/Combine-000?style=for-the-badge&logo=swift&logoColor=FA7343)](https://developer.apple.com/documentation/combine) 
+[![UIKit](https://img.shields.io/badge/UIKit-000?style=for-the-badge&logo=swift&logoColor=FA7343)](https://developer.apple.com/documentation/uikit) 
+[![Android](https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android&logoColor=3DDC84)](https://developer.android.com/) 
 [![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=02569B)](https://flutter.dev/)  
 
 ### GitHub Stats
