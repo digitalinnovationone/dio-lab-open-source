@@ -3,7 +3,7 @@
 ## Apresentação
 Olá, seja bem vindo (a)
 
-📚Sou estudante de Engenharia Florestal.
+📚Sou estudante de Engenharia Florestal e bombeiro civil.
 
 Estou buscando construir conhecimento em programação com a DIO, para o enriquecimento do meu curso.
 
