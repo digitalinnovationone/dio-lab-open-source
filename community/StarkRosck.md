@@ -1,4 +1,3 @@
-# 🚀 Octoarthur
 
 Olá! Eu sou o **Arthur** 👋  
 
