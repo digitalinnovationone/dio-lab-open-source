@@ -1,1 +1,0 @@
-bom dia, tarde e noite. me chamo Paulo Igor, mas só Igor tá bom. estou cursando jogos digitais na faculdade Senac e estou estudando DIO para melhorar e adquirir hard skills para meu futuro profissional, pretendendo seguir como Game Designer.
