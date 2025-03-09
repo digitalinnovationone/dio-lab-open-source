@@ -1,6 +1,6 @@
 # Filipe Monteiro
 
-Olá, me chamo Filipe, sou de São Paulo, formado em Análise e Desenvolvimento de Sistemas. Atualmente estou interessado na área de desenvolvimento, o que me motivou a me inscrever no progmama da DIO.
+Olá, me chamo Filipe, sou de São Paulo, formado em Análise e Desenvolvimento de Sistemas. Atualmente estou interessado na área de desenvolvimento, o que me motivou a me inscrever no programa da DIO.
 
 ## Conecte-se comigo
 
