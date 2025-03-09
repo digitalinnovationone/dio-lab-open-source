@@ -2,6 +2,7 @@
 
 Olá, me chamo Filipe, sou de São Paulo, formado em Análise e Desenvolvimento de Sistemas. Atualmente estou interessado na área de desenvolvimento, o que me motivou a me inscrever no programa da DIO.
 
+
 ## Conecte-se comigo
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/feh-fenty)[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fih.monteiro/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-monteiro-102a5749/)
