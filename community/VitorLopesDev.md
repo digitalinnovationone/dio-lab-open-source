@@ -1,5 +1,4 @@
-Olá,  meu nome é Vitor, seja bem vindo ao meu perfil! 👋
-
+Olá,  meu nome é Vitor, seja bem vindo ao meu perfil! 
 - 🎓 **Formação:** Técnico em Análise e Desenvolvimento de Sistemas (ADS)
 - 🎓 **Graduação:** Cursando **Ciência da Computação**
 - 🖥 **Primeira Linguagem:** Comecei programando em **Python**, mas hoje foco em **Java**
