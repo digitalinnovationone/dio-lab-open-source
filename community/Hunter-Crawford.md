@@ -36,13 +36,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hunter-Crawford&theme=transparent&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF3C00&title_color=B50000&text_color=FFF)
 
 ## Referências
-<h1>
-    <a href="https://github.com/elidianaandrade">
-     <img align="center" width="40px" src="https://avatars.githubusercontent.com/u/97471199?v=4"></a>
-    <span> Eli</span>
-    [^1].
-</h1>
-
+[Eli](https://github.com/elidianaandrade)[^1].
 [DIO](https://github.com/digitalinnovationone)[^2].
 
 [^1]: Código do cabeçalho com foto.
