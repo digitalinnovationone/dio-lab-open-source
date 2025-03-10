@@ -1,6 +1,5 @@
-<h1 align="center">Olá 👋, eu sou Marcos Vinicius</h1>
+<h1 align="center">Olá 👋, eu sou Marcos Vinicius de Kyceba</h1>
 <p><strong>- Meu nome é Marcos Vinicius e eu nasci em Natal, Rio Grande do Norte, Brasil;</strong></p>
-<p><strong>- Minha língua nativa é o português;</strong></p>
 <p><strong>- Comecei a programar quando tinha 15 anos, tenho formação de técnico em informática pelo IFRN e estou cursando Ciência da Computação na Universidade Potiguar(UNP);</strong></p>
 
 <h3 align="left"><font size="3">💻 Linguagens de Programação:</font></h3>
