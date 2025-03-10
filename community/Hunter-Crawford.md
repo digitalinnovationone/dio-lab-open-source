@@ -39,10 +39,11 @@
 <h1>
     <a href="https://github.com/elidianaandrade">
      <img align="center" width="40px" src="https://avatars.githubusercontent.com/u/97471199?v=4"></a>
-    <span> Eli[^1].</span>
+    <span> Eli</span>
+    [^1].
 </h1>
 
-Exemplos de perfis[^2].
+[DIO](https://github.com/digitalinnovationone)[^2].
 
 [^1]: Código do cabeçalho com foto.
 [^2]: Exemplos de perfis.
@@ -50,4 +51,4 @@ Exemplos de perfis[^2].
 > [!NOTE]
 > O código deste arquivo pode estar confuso e com equívocos ou erros devido à inexperiência do usuário.
 
-[![DIO](https://github.com/digitalinnovationone)]
+
