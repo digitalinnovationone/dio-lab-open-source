@@ -14,6 +14,7 @@
    Bom, é isso. Se quiserem conversar ou manter contato, aqui estão as principais plataformas nas quais estou online.
 
 
+
    Meu LinkedIn:
    https://www.linkedin.com/in/eraldo-oliveira-58b004243
 
