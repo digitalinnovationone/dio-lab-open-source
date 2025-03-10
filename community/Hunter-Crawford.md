@@ -1,16 +1,11 @@
-
 <h1>
     <a href="https://github.com/Hunter-Crawford">
      <img align="center" width="40px" src="https://i.pinimg.com/736x/91/7e/07/917e07ae5b1420ae71c5f466f509dc87.jpg"></a>
     <span> Hunter Crawford</span>
 </h1>
 
-
-```
  Novato em versionamento de código com Git e GitHub. Estudante do Bootcamp: Criando jogos com Godot do Santander 2024.
  Procuro aprender mais sobre desenvolvimento de games para começar a criar meus jogos independentes.
-```
-
 
 ### Redes Sociais
 
@@ -45,14 +40,14 @@ Código do cabeçalho com foto[^1].
 
 Exemplos de perfis[^2].
 
-[^1]: Eli ()
+[^1]: h. 
+[^2]: k.
+
+> [!NOTE]
+> O código deste arquivo pode estar confuso e com equívocos ou erros devido à inexperiência do usuário.
 <h1>
     <a href="https://github.com/elidianaandrade">
      <img align="center" width="40px" src="https://avatars.githubusercontent.com/u/97471199?v=4"></a>
     <span> Eli</span>
 </h1>
-
-[^2]: [![DIO](https://github.com/digitalinnovationone)]
-
-> [!NOTE]
-> O código deste arquivo pode estar confuso e com equívocos ou erros devido à inexperiência do usuário.
+[![DIO](https://github.com/digitalinnovationone)]
