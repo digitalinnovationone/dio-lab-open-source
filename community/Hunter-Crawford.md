@@ -36,18 +36,18 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hunter-Crawford&theme=transparent&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF3C00&title_color=B50000&text_color=FFF)
 
 ## Referências
-Código do cabeçalho com foto[^1].
-
-Exemplos de perfis[^2].
-
-[^1]: h. 
-[^2]: k.
-
-> [!NOTE]
-> O código deste arquivo pode estar confuso e com equívocos ou erros devido à inexperiência do usuário.
 <h1>
     <a href="https://github.com/elidianaandrade">
      <img align="center" width="40px" src="https://avatars.githubusercontent.com/u/97471199?v=4"></a>
-    <span> Eli</span>
+    <span> Eli[^1].</span>
 </h1>
+
+Exemplos de perfis[^2].
+
+[^1]: Código do cabeçalho com foto.
+[^2]: Exemplos de perfis.
+
+> [!NOTE]
+> O código deste arquivo pode estar confuso e com equívocos ou erros devido à inexperiência do usuário.
+
 [![DIO](https://github.com/digitalinnovationone)]
