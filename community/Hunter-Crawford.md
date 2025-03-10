@@ -37,6 +37,7 @@
 
 ## Referências
 [Eli](https://github.com/elidianaandrade)[^1].
+
 [DIO](https://github.com/digitalinnovationone)[^2].
 
 [^1]: Código do cabeçalho com foto.
