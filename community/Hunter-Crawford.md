@@ -10,17 +10,14 @@
 ### Redes Sociais
 
 [![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5663ec)](https://discord.com/channels/@me/)
-<button type="button" onclick="navigator.clipboard.writeText('Hunter_Crawford#9658')">Copiar para a Área de Transferência</button>
-
 [![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=0865fd)](https://www.facebook.com/profile.php?id=100080001433762/)
 [![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x)](https://x.com/SEUUSERNAME)
 [![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hunter.tjdss/)
 [![Reddit](https://img.shields.io/badge/Reddit-0d1117?style=for-the-badge&logo=reddit&logoColor=ff4500)](https://www.reddit.com/user/Hunter_Crawford-TJSS)
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ce3c30)](https://mail.google.com/mail/u/2/?fs=1&to=hunter.tjdss@gmail.com&tf=cm)
 
-
-
-
+> [!IMPORTANT]
+> Discord username: Hunter_Crawford#9658
 
 ### Habilidades em desenvolvimento
 ![HTML5](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=F1672B)
@@ -29,7 +26,6 @@
 [![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f64d27)](https://git-scm.com/doc)
 ![Vscode](https://img.shields.io/badge/Vscode-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=571aba)](https://docs.github.com/)
-
 
 ### GitHub Stats
 
@@ -45,5 +41,3 @@
 
 > [!NOTE]
 > O código deste arquivo pode estar confuso e com equívocos ou erros devido à inexperiência do usuário.
-
-
