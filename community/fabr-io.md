@@ -4,7 +4,7 @@ Olá! Meu nome é Fabio e estou iniciando uma jornada de conhecimento pelo mundo
 
 Curso doutorado em Artes pela Escola de Comunicações e Artes da USP, com mestrado pela mesma istituição. 
 
-Como pai, músico chefe de naipe na Orquestra do Theatro São Pedro, em São Paulo, e pesquisador na área da Criação Colaboativa, busco focar no trabalho coletivo e possuo enorme entusiasmo pela transformação social.
+Como pai, músico chefe de naipe na Orquestra do Theatro São Pedro, em São Paulo, e pesquisador na área da Criação Colaborativa, busco focar no trabalho coletivo e possuo enorme entusiasmo pela transformação social.
 
 ## 🛠 Habilidades
 ### Soft skills   
