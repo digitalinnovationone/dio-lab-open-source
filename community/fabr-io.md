@@ -7,7 +7,7 @@ Curso doutorado em Artes pela Escola de Comunicações e Artes da USP, com mestr
 Como pai, músico chefe de naipe na Orquestra do Theatro São Pedro, em São Paulo, e pesquisador na área da Criação Colaboativa, busco focar no trabalho coletivo e possuo enorme entusiasmo pela transformação social.
 
 ## 🛠 Habilidades
-### Soft skills 
+### Soft skills   
 Comunicação - Gestão do tempo - Lidar com pressão - Flexibilidade/Adaptabilidade - Autoconfiança - 
 Resiliência - Atitude positiva - Solução de conflitos
 ### Hard skills
