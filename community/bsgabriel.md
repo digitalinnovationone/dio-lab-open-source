@@ -2,9 +2,26 @@
 
 ## Saudações!
 
-Meu nome é Gabriel Bourscheid da Silveira e sou um desenvolvedor fullstack. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCS - Universidade de Caxias do Sul. Trabalho como desenvolvedor de software e meu objetivo é alcançar a posição de Tech Lead, passando por engenheiro e arquiteto de software.
+Meu nome é Gabriel Bourscheid da Silveira e sou um desenvolvedor fullstack. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCS - Universidade de Caxias do Sul. Trabalho como desenvolvedor de software e meu objetivo é alcançar a posição de Tech Lead, passando por engenheiro e arquiteto de software. A linguagem que mais utilizo ~~e amo~~ é Java.
 
-A linguagem que mais utilizo ~~e amo~~ é Java. Estou envolvido em projetos dentro de um ecossistema de eCommerce. No backend, trabalho com Spring Boot e Quarkus, enquanto no frontend utilizo Vue.js e React. Para gerenciamento de dados, utilizo os bancos de dados PostgreSQL e Oracle.
+### Experiências educacionais:
+
+#### Análise e Desenvolvimento de Sistemas - Tecnólogo - UCS - 2021/presente
+
+Em 2021 ingressei no curso de ADS na Universidade de Caxias do Sul. Aqui, adentrei em diversos conteúdos, mas os que mais me interessei foram: 
+- Passar pela etapa de desenvolvimento de um software, desde a fase de levantamento de requisitos, até a fase de produção e entrega, passando pelas fases de arquitetura e engenharia.
+- Desenvolvimento de aplicações mobile com Android nativo.
+- Desenvolvimento de aplicações web com: html, js, php e bootstrap css.
+- Desenvolvimento de aplicações desktop com Java, usando tanto Swing quanto JavaFX.
+
+#### Curso Técnico em Informática - Técnico - CETEC UCS- 2018/2021
+
+Em 2018 dei inicio ao meu ensino médio no Centro Tecnológico Universidade de Caxias do Sul. Em 2019 foi dado início ao curso técnico, passando pelos seguintes conteúdos:
+- Lógica da Programação, com Portugol.
+- Modelagem e criação de banco de dados.
+- Programação de aplicação desktop com Delphi.
+
+Em 2021 ocorreu a última etapa do curso: um estágio remunerado. No meu caso, foi na empresa NL Informática.
 
 ## Um pouco do meu github:
 
