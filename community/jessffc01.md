@@ -1,15 +1,13 @@
-# Jessica Carvalho
+ # Jessica Carvalho
 
 ## Sobre Mim
-Olá! Meu nome é Jessica Carvalho e eu sou estudante de ciências da computação na UFF, estou no quinto período e estou curtindo demais aprender novas tecnologias e fazer novos cursos enquanto estou de férias. Migrei de carreira, saindo do petróleo e indo para tecnologia. Atualmente, estou aprendendo sobre Git, GitHub e desenvolvimento de software.
+Olá! Meu nome é **Jessica Carvalho** sou aluna de Ciências da Computação na UFF, estou no quinto período e migrando da área do petróleo onde trabalhei em grandes multinacionais, inclusive como head de muitas operações submarinas offshore pela grande General Eletric, para tecnologia. Acredito que apesar da diferença entre essas áreas todo meu background pode contribuir positivamente na minha nova jornada.
+Nesse mundo vasto do tech, anda estou descobrindo quais habilidades mais gosto de trabalhar e aproveitando também meu tempo livre para aprender novas linguagens de programação e novas tecnologias. 
 
 ## Habilidades
-- **Linguagens de Programação**: Python (bem basico), C;
-- **Ferramentas**: Git, VS Code, Markdown;
+- **Linguagens de Programação**: Python - básico e C intermediário.
+- **Ferramentas**: Git, VS Code, Markdown
 
 ## Projetos
 - [Repositório no GitHub](https://github.com/jessffc01)
 - [LinkedIn](https://www.linkedin.com/in/csjessicacarvalho55/)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
