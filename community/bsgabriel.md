@@ -14,7 +14,7 @@ Em 2021 ingressei no curso de ADS na Universidade de Caxias do Sul. Aqui, adentr
 - Desenvolvimento de aplicações web com: html, js, php e bootstrap css.
 - Desenvolvimento de aplicações desktop com Java, usando tanto Swing quanto JavaFX.
 
-#### Curso Técnico em Informática - Técnico - CETEC UCS- 2018/2021
+#### Curso Técnico em Informática - Técnico - CETEC UCS- 2019/2021
 
 Em 2018 dei inicio ao meu ensino médio no Centro Tecnológico Universidade de Caxias do Sul. Em 2019 foi dado início ao curso técnico, passando pelos seguintes conteúdos:
 - Lógica da Programação, com Portugol.
@@ -22,6 +22,18 @@ Em 2018 dei inicio ao meu ensino médio no Centro Tecnológico Universidade de C
 - Programação de aplicação desktop com Delphi.
 
 Em 2021 ocorreu a última etapa do curso: um estágio remunerado. No meu caso, foi na empresa NL Informática.
+
+### Experiências profissionais:
+
+#### NL Informática - 2021/2024
+Em 2021 entrei na NL Informática, uma empresa que fornece soluções para gestão de empresas, seja varejo, restaurante ou qualquer outro segmento. Começando como estagiário em 2021 e efetivado ainda nesse mesmo ano, atuei como desenvolvedor Java nos seguintes sistemas:
+- PDV Desktop: Um software para frente de caixa, feito em Java. As telas eram feitas usando o framework Java Swing e posteriormente foi convertido para JavaFX.
+- PDV Mobile: Software feito para dispositivos Android, atuando como ponto de vendas móvel. O desenvolvimento era em Android nativo.
+- PDV Totem: Usando o mesmo software do mobile, porém com algumas adaptações para rodar em quisques de auto atendimento.
+
+Outras experiências dentro da empresa:
+- Liderança de projeto: Na época de conversão do PDV Desktop para JavaFX, fui responsável por aprender o framework e puxar a frente do projeto, liderando e ensinando os demais colegas.
+- Treinamento e acompanhamento de funcionários: Realizei o treinamento de novos funcionários e acompanhamento de suas atividades. Era como o padrinho deles: sempre ensinando e auxiliando no andamento das tarefas.
 
 ## Um pouco do meu github:
 
