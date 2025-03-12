@@ -2,7 +2,7 @@
 
 👋 Olá, sou André Victor, 24 anos.
 💻 Desenvolvedor Full Stack.
-🚀 Sempre em busca de novos desafios, me adapto rapidamente a qualquer ambiente e estou em constante evolução !
+🚀 Sempre em busca de novos desafios, me adapto rapidamente a qualquer ambiente e estou em constante evolução!
 
 # 💻 Tech Stack:
 
