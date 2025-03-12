@@ -25,15 +25,37 @@ Em 2021 ocorreu a última etapa do curso: um estágio remunerado. No meu caso, f
 
 ### Experiências profissionais:
 
-#### NL Informática - 2021/2024
-Em 2021 entrei na NL Informática, uma empresa que fornece soluções para gestão de empresas, seja varejo, restaurante ou qualquer outro segmento. Começando como estagiário em 2021 e efetivado ainda nesse mesmo ano, atuei como desenvolvedor Java nos seguintes sistemas:
-- PDV Desktop: Um software para frente de caixa, feito em Java. As telas eram feitas usando o framework Java Swing e posteriormente foi convertido para JavaFX.
-- PDV Mobile: Software feito para dispositivos Android, atuando como ponto de vendas móvel. O desenvolvimento era em Android nativo.
-- PDV Totem: Usando o mesmo software do mobile, porém com algumas adaptações para rodar em quisques de auto atendimento.
+#### Lojas Colombo - 2024/presente
+Atuo no desenvolvimento de aplicações web, abrangendo tanto o frontend quanto o backend. Minhas principais contribuições incluem:
 
-Outras experiências dentro da empresa:
-- Liderança de projeto: Na época de conversão do PDV Desktop para JavaFX, fui responsável por aprender o framework e puxar a frente do projeto, liderando e ensinando os demais colegas.
-- Treinamento e acompanhamento de funcionários: Realizei o treinamento de novos funcionários e acompanhamento de suas atividades. Era como o padrinho deles: sempre ensinando e auxiliando no andamento das tarefas.
+##### Marketplace
+Atuei no desenvolvimento plataforma que permite a parceiros cadastrarem e venderem produtos no Ecommerce da Colombo. Utilizei Vue no frontend e Java com Spring Boot em uma arquitetura de microsserviços no backend.
+
+##### Ecommerce
+Participei do desenvolvimento do site de vendas da Colombo, utilizando NextJS, React e Typescript no frontend. O backend foi implementado em Java com Quarkus, integrando microsserviços com Spring Boot.
+
+##### Projetos Consideráveis
+ - **Reputação de Parceiros**: Com base em critérios internos, a nota do parceiro é calculada e exibida na página de produto.
+ - **Logo com dinâmica**: Permite que uma equipe interna faça upload de um arquivo para a logo, que é exibida no Ecommerce.
+ - **Integração com dados da Receita Federal**: Validação e atualização de cadastro com base nos dados disponíveis na RF.
+ - **Perguntas e respostas**: Permite ao usuário postar uma dúvida sobre algum produto.
+
+#### NL Informática - 2021/2024
+Iniciei minha trajetória profissional como estagiário e fui efetivado ainda em 2021, atuando como desenvolvedor Java em soluções de gestão para diversos segmentos, como varejo e restaurantes.
+
+##### PDV Desktop
+Atuei na manutenção e desenvolvimento de um software de ponto de venda para desktop utilizando Java. As interfaces foram inicialmente criadas com Java Swing e, posteriormente, migradas para JavaFX, melhorando a experiência do usuário.
+
+##### PDV Mobile
+Posteriomente, passei a atuar junto com o time mobile. Desenvolvemos um aplicativo nativo para Android, permitindo que os usuários realizassem vendas de forma móvel, aumentando a flexibilidade e eficiência nas operações.
+
+##### PDV Totem
+Adaptei o software do PDV Mobile para quiosques de autoatendimento, garantindo uma experiência de uso otimizada para os clientes.
+
+##### Outras Experiências
+- **Liderança de Projeto**: Durante a conversão do PDV Desktop para JavaFX, fui responsável por aprender o framework e liderar o projeto, ensinando e orientando os colegas.
+
+- **Treinamento e Acompanhamento de Funcionários**: Realizei o treinamento de novos funcionários e acompanhei suas atividades, atuando como mentor e auxiliando no andamento das tarefas.
 
 ## Um pouco do meu github:
 
