@@ -26,19 +26,4 @@ docs/
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
 
-# Felipe Clink Batista 
 
-💻 Desenvolvedor Backend | Frontend | Full Stack  
-😊 Em busca de melhorar!
-
-## 🚀 Tecnologias:
-- 🖥️ Backend: Java, Node.js, .NET, Spring Boot  
-- 🎨 Frontend: React.js, Angular, HTML, CSS, Tailwind  
-- 🛢️ Banco de Dados: MySQL, MongoDB, NoSQL  
-
-## Contato:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](www.linkedin.com/in/felipe-clink-batista)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Clinkoff)
-
-## Linguagens
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clinkoff&layout=compact&bg_color=000&border_color=30A3DC&title_color=94D5FF&text_color=FFF)
