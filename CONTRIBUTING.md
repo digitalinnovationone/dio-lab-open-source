@@ -37,10 +37,10 @@ Pressione enter, e uma cópia do seu fork no GitHub será criada localmente.
 Utilize o comando `git checkout -b` para criar e alternar para a nova branch e nomeie-a como `feat/community/SEU_USERNAME`
 > Exemplo: `git checkout -b feat/community/falvojr`
 
-### 4) Crie o seu Profile README
+### 4) Crie o seu Profile README "git checkout -> community/falvojr.md"
  Dentro da pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub:
 
-> Exemplo: `community/falvojr.md`
+> Exemplo: git checkout -> `community/falvojr.md`
 
 #### 4.1) Desenvolva o seu Profile README
 Para isso, você pode se inspirar nos exemplos no diretório [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils)
