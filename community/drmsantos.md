@@ -27,4 +27,4 @@ Sou um profissional apaixonado por **infraestrutura de TI, automação e gerenci
 | **Dell PowerEdge 1950** | **Dual Core** | **16GB** | **2x146GB** |  
 
 ## **Contato**  
-📧 **[diegoregis423@gmail.com]** | 🔗 **[[Seu LinkedIn](https://www.linkedin.com/in/diego-regis-361a0a20/)]** | 🖥️ **[[GitHub](https://github.com/drmsantos)]**  
+📧 **[diegoregis423@gmail.com]** | 🔗 **[[LinkedIn](https://www.linkedin.com/in/diego-regis-361a0a20/)]** | 🖥️ **[[GitHub](https://github.com/drmsantos)]**  
