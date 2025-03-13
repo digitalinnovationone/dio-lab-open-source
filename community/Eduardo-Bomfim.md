@@ -60,7 +60,7 @@
 ## 📫 Contato
 
 🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-de-andrade-do-bomfim-j%C3%BAnior-47986528b/)
-🔗 [GitHub]([https://github.com/seuperfil](https://github.com/Eduardo-Bomfim))
+🔗 [GitHub](https://github.com/Eduardo-Bomfim)
 ✉️ eduardo.a.junior.dev@gmail.com
 
 ---
