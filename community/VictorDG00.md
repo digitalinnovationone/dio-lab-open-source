@@ -19,7 +19,6 @@ Sou um entusiasta de tecnologia com formação em **Defesa Cibernética** e **An
 ---
 
 ## 🌐 Idiomas
-
 - **Português:** Nativo.
 - **Inglês:** Avançado.
 
