@@ -23,4 +23,4 @@ Olá, sou Róger. Atualmente, atuo no desenvolvimento de Machine Learning na Com
 |
 ## Até logo
 
-Em breve, muito mais coisas por aqui!
+Mais coisas por aqui muito em breve!
