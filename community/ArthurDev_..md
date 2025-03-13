@@ -41,6 +41,6 @@
 <i>
 <br/>
 
-> Olá! Eu sou Arthur Araújo Sousa, um desenvolvedor de software apaixonado por tecnologia e inovação. Aos 20 anos, mergulhei no universo da programação, focando em Java para desenvolvimento backend e criando soluções robustas e escaláveis.
+> Olá! Eu sou Arthur Araújo Sousa, um desenvolvedor de software apaixonado por tecnologia e inovação. Aos 20 anos, mergulhei no universo da programação, focando em Java para desenvolvimento backend e criando soluções robustas e escalaveis.
 
 > Atualmente, estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas e trabalhando em projetos desafiadores na faculdade.
