@@ -8,10 +8,10 @@
 [![Dio](https://img.shields.io/badge/-Dio-8000FF?style=for-the-badge&logo=Dio&logoColor=FFFFFF)](https://www.dio.me/users/heloisasilvap2003)
 [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=8000FF&color:FFF)](https://github.com/heloohp)
 
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heloohp&theme=transparent&bg_color=000&border_color=6A1B9A&show_icons=true&icon_color=6A1B9A&title_color=6A1B9A&text_color=FFF)
 
 ## Habilidades que estou desenvolvendo
+
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
