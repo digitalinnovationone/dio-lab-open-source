@@ -2,6 +2,7 @@
 # Eduarda dos Santos Matos
 
 Tenho 20 anos, estou cursando atualmente o 3º Semestre do curso de Analide e Desenvolvimento de Sistemas.
+
 Gosto muito de front-end, mas estou sempre me desafiando a aprender novas linguagens, no momento estou buscando aprender um pouco mais sobre Java, que é uma linguagem que tenho um pouco mais de dificuldade.
 
 
