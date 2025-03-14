@@ -1,4 +1,5 @@
 # RenanSiqueira-117
+Com uma sólida trajetória profissional iniciada aos 14 anos, atuei nas áreas administrativas, com ênfase na análise de dados extraídos de sistemas como SAP e outros, utilizando ferramentas como Excel para cruzamento de informações, elaboração de gráficos, dashboards e apresentações em PowerPoint para o nível gerencial das organizações nas quais atuei. Através dessas análises, busquei fornecer subsídios à liderança para a tomada de decisões estratégicas e para a melhor alocação de esforços da equipe. Atualmente sou capacitado como Analista de Dados pela Escola DNC. Continuo estudando para expandir meu conhecimento em Python, SQL, Power BI e Excel, com o objetivo de seguir minha carreira até a Ciência de Dados, buscando sempre aperfeiçoamento e evolução na área.
 
 ## Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renansiqueira7/)
