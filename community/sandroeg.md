@@ -1,7 +1,3 @@
-Claro! Fiz uma revisão completa do seu texto, com foco em melhorar o português, deixar a linguagem mais formal e fluída, e também padronizar os links e formatação. Veja a versão aprimorada abaixo:
-
----
-
 # Sandro E. Graziosi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/) 
