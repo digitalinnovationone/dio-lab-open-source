@@ -24,3 +24,7 @@ UNOPAR - Processos Gerenciais
 ## Contato
 
 - **Cartão de Visitas** [https://monocard.me/wesleyanschau](https://monocard.me/wesleyanschau)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleyanschau/)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?wanschau=wanschau&theme=hacker-inverted&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
