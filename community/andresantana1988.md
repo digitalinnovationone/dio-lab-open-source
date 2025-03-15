@@ -2,7 +2,7 @@
 Muito prazer, eu sou o André. Sou alguém apaixonado por tecnologia e pelo mercado financeiro. Estou me dedicando à Ciência de Dados por acreditar em seu potencial e planejo me especializar em automação  de processos, principalmente a na criação de bots para operações na bolsa de valores.
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/andresantana1988/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/andresantana/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=Github)](https://github.com/andresantana1988)
 

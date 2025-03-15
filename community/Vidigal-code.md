@@ -9,7 +9,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=Rect&color=0d1117&height=70&section=header&text=Vidigal-code&animation=scaleIn&fontSize=30&fontColor=2aa889"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2aa889&size=40&center=true&vCenter=true&width=1000&lines=Hello,+I+am+Kauan+Vidigal;Have+20+years%20old;I+live+in+São%20Paulo/Brazil;I+am+Developer+Full-Stack;Welcome+To+My+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2aa889&size=40&center=true&vCenter=true&width=1000&lines=Hello,+I+am+Kauan+Vidigal;I+am+Developer+Full-Stack;Welcome+To+My+Profile!)](https://git.io/typing-svg)
 
 
 <p align="center">
@@ -54,7 +54,7 @@
 <br/>
 <details>
 
-  <summary><b>:computer:Information</b></summary>
+  <summary><b>💻Information</b></summary>
   </br>
 
 - >``📲Link to my portfolio`` : { [Portfolio](https://vidigal-code.github.io/React-portfolio/) }
@@ -90,12 +90,17 @@
 <img src="https://raw.githubusercontent.com/Vidigal-code/github-stats/master/generated/overview.svg" alt="Vidigal-code">  
 <img src="https://raw.githubusercontent.com/Vidigal-code/github-stats/master/generated/languages.svg" alt="Vidigal-code">
 </div>
-
  <br/>
 
 <p align="center">
  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Vidigal-code&theme=android-dark&hide_border=true" width = 400>
 </p>
+ <br/>
+
+ <br/>
+
+<p align="center">
+<a href="https://gitroll.io/profile/uY6OqgUA63rNk53a0rqTp1fqDuMH2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uY6OqgUA63rNk53a0rqTp1fqDuMH2?theme=dark" alt="GitRoll Profile Badge" style="width: 400px; height: auto;"/></a>
 </div>
 
  <br/>
@@ -103,6 +108,10 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vidigal-code&theme=matrix&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+
+ <br/>
+
+
 
  <br/>
 <br/>
@@ -201,6 +210,7 @@
 
   <a href="https://www.virtualbox.org/" target="_blank"><img align="center" alt="Vidigal-Virtualbox" height="50" width="50" src="https://www.virtualbox.org/favicon.ico"></a>
   <a href="https://www.navicat.com/en" target="_blank"><img align="center" alt="Vidigal-Navicat" height="50" width="50" src="https://www.navicat.com/images/Navicat_16_Premium_win_256x256.ico"></a>
+  <a href="https://www.heidisql.com/" target="_blank"><img align="center" alt="Vidigal-Heidisql" height="50" width="50" src="https://th.bing.com/th?id=OSAAS.0CD582020C5740D7C7784E3D5403053C&w=72&h=72&c=17&rs=1&o=6&pid=5.1"></a>
   </div>
 
 

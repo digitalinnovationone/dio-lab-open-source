@@ -5,13 +5,12 @@ Fernanda Bincoletto
 
 ## 🌐 Sobre mim:
 
-Meu nome Fernanda.
+Meu nome Fernanda, tenho 43 anos.
 
-Iniciei neste mundo incrível e desafiador de tecnologia e codificação graças a valiosa oportunidades do Santander Bootcamp.
-Tenho aprendido muito a cada dia graças a plataforma DIO.
-
+Iniciei neste incrivel e desafiador mundo da tecnoligia e codificação graças ao Bootcamp da DIO.
+tenho aprendido muito, e adiquirido conhecimento e crescimento a cada dia graças a plataforma da DIO, e procurado desenvolver cada vez mais em minha jornada de aprendizado.
  
-Procuro desenvolver na minha jornada de aprendizado, adiquirindo conhecimento e crescimento, nessa transição de carreira . 
+ Espero aprender e contribuir cada vez mais.
 
 
 Fico feliz em ser parte  desta comunidade!
