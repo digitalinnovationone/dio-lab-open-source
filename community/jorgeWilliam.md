@@ -28,4 +28,4 @@ No Git e GitHub, sou um verdadeiro aprendiz, determinado a explorar as possibili
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgemunizf&theme=tokyonight&hide_border=true&custom_title=Principais%20Linguagens)
+![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgewilliamss92&theme=tokyonight&hide_border=true&custom_title=Principais%20Linguagens)
