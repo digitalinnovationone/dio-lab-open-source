@@ -1,0 +1,1 @@
+Me chamo nickolas, tenho 26 anos, estou cursando bacharel em estatistica e muito focado na area de dados e machine learning.
