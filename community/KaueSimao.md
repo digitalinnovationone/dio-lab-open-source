@@ -3,7 +3,7 @@ Olá! Meu nome é Kauê Simão da Silva e estou aprendendo a contribuir em proje
 
 ## Tecnologias
 - SQL, Python, PowerBi
-- Excel 
+- Excel, Lógica, Estátistica
 - Git e GitHub
 
 ## Contato
