@@ -2,8 +2,8 @@
 Olá! Meu nome é Kauê Simão da Silva e estou aprendendo a contribuir em projetos Open Source. 🚀
 
 ## Tecnologias
-- SQL, Python, PowerBi
-- Excel, Lógica, Estátistica
+- HTML, CSS e JavaScript
+- React e Node.js
 - Git e GitHub
 
 ## Contato
