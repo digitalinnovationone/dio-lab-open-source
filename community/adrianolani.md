@@ -2,7 +2,9 @@
 
 ## Adriano Ramon Lani
 
-Sou graduado em Letras Português / Inglês. Cursei Administração de Empresas até o 7º semestre. Possuo duas especializações (MBA em Gestão de Negócios e Especialização em Finanças, Investimento em Banking). 
+Sou graduado em Letras Português / Inglês UNNEMAT. Cursei Administração de Empresas até o 7º semestre. Possuo duas especializações: 
+MBA em Gestão Excecutiva de Negócios - UNIC - MT
+Especialização em Finanças, Investimento em Banking - PUC - RS. 
 
 Atualmente estou cursando o 3º semestre da gradução Tecnóloga em Sistemas para a Interneto pelo Instituto Federal de Mato Grosso.
 
