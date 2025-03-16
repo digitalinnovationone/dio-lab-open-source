@@ -1,5 +1,7 @@
 # juliarlaine
 
+Estudante de Sistemas de Informação
+
 ## Conecte-se comigo
 [![Instagram](https://img.shields.io/badge/Instagram-%23445F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/juliairlines/)
 
