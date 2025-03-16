@@ -1,5 +1,5 @@
 # 👋 Olá, meu nome é Guilherme Junior!
-### Atualmente estou estudando git github e me profissionalizandocomo desenvolvedor backend.
+### Atualmente estou estudando git github e me profissionalizando como desenvolvedor backend.
 
 
 
