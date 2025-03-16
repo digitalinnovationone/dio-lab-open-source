@@ -8,8 +8,7 @@ Sou um estudante de **programação** e um entusiasta de **tecnologias emergente
   - Python
   - Java
   - JavaScript
-  - SQL
-  - 
+  - SQL 
 
 - **Frameworks e Ferramentas**:
   - **Web**: HTML, CSS, JavaScript
