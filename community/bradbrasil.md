@@ -12,7 +12,7 @@ I'm a Software Engineering student at Estácio de Sá University, started back i
 
 ## Connect with  me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bradbrasil/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brad-brasil-ab1544230/)
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/bradbrasil13) 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:brasilbrad13@gmail.com)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/bradbrasil)
