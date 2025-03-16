@@ -1,11 +1,24 @@
-# Trampo.jpg
-Olá eu sou o Guilherme Junior e atualamente esse é meu prmeiro projeto.
-## Conecte-se comigo
-[![](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com//Trampo-jpg/) 
-## habilidades
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white) ](https://docs.github.com/)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+# 👋 Olá, meu nome é Guilherme Junior!
+### Atualmente estou estudando git github e me profissionalizandocomo desenvolvedor backend.
 
-## GitHub Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trampo-jpg&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-## Minhas Contribuições
+
+
+
+
+
+
+# Estatísticas do GitHub 📊
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trampo-jpg&show_icons=true&theme=radical)
+
+## Linguagens Mais Usadas 💻
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trampo-jpg&layout=compact&theme=radical)
+
+## Contribuições no GitHub 📈
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Trampo-jpg&theme=radical)
+
+## Badges 🏅
+
+[![GitHub followers](https://img.shields.io/github/followers/Trampo-jpg?style=social)](https://github.com/Trampo-jpg)
