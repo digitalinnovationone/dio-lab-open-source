@@ -38,6 +38,8 @@
   <img align="center" alt="Rocky Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rockylinux/rockylinux-original.svg" />
   <img align="center" alt="CentOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/centos/centos-original.svg" />
   <img align="center" alt="Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
+ <img align="center" alt="Arch" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/ubuntu-icon.svg" />
+ <img align="center" alt="Debian" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/1200px-Linux_Mint_logo_without_wordmark.svg.png" />
   <img align="center" alt="Arch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
   <img align="center" alt="Gentoo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gentoo/gentoo-original.svg" />
   <img align="center" alt="LINUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
