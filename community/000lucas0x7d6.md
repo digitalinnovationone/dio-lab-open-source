@@ -16,5 +16,5 @@ Atualmente, estou me aprofundando nas áreas de desenvolvimento de sistemas e pr
 
 ## Contato
 
-- **LinkedIn:** [https://www.linkedin.com/in/lucas-alexandre-47a6672a0/](#Lucas Alexandre)
-- **Email:** seuemail@dominio.com
+- **LinkedIn:** https://www.linkedin.com/in/lucas-alexandre-47a6672a0/
+- **Email:** lucas.a.melo2006@gmail.com
