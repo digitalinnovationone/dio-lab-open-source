@@ -31,4 +31,4 @@ Sou um profissional multifacetado com sólida experiência em Análise e Desenvo
 📱 **Telefone:** (13) 99700-4280  
 🔗 **LinkedIn:** [Meu Perfil](https://www.linkedin.com/in/rodrigocorghi/)  
 
-📢 Sempre aberto a novas oportunidades e desafios inovadores! Vamos conversar? 😃
+📢 Sempre aberto a novas oportunidades e desafios inovadores!
