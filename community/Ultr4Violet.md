@@ -13,7 +13,7 @@ Olá! Sou uma profissional apaixonadoa por tecnologia e inovação. Convido voc�
 - **Análise e Desenvolvimento de Sistemas** | 
   Universidade Paulista – UNIP (Concluído em 2024)
 
-- **Administração com Ênfase em Tecnologia da Informação**  
+- **Administração com Ênfase em Tecnologia da Informação** | 
   Faculdade FIAP (Concluído em 2014)
 
 ---
