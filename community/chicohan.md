@@ -1,4 +1,6 @@
 # Francisco Han
+Olá! Meu nome é Francisco e tenho 26 anos.
+Estou há 3 anos na área de TI trabalhando como suporte. Estou estudando para conseguir trocar de área dentro da tecnologia.
 
 ## Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chico-han)
