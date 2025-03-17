@@ -19,10 +19,4 @@
 ---
 ## Contato 📪
 
-[![gmail-badge][gmail-img]][gmail]
-[![linkedin-badge][linkedin-img]][linkedin]
-
-[gmail-img]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[gmail]: hackeryt102030@gmail.com
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luís-otávio-9a55932bb/)
