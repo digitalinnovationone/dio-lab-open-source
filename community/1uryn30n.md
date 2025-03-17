@@ -10,11 +10,12 @@
 <br>
 🔭 Atualmente, estou focado em aprimorar minhas habilidades em React e meus conhecimentos sobre o universo UI/UX.</p>
 
-Habilidades Técnicas:
+### Habilidades Técnicas:
  - Linguagens: JavaScript, Python, Java, PHP
  - Front-end: HTML, CSS, React, Angular
  - Ferramentas: Git, Docker, AWS
- - Outros: Suporte, Manutenção, Testes de Software</p> 
+ - Outros: Suporte, Manutenção, Testes de Software
+   
 ### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/alysson-iury-castro/)
