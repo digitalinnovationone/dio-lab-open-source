@@ -1,0 +1,8 @@
+# Pedro Almeida e Camacho
+Meu nome é Pedro Almeida e Camacho e atualmente sou estudante de Engenharia de Software na FIAP. Embora ainda não tenha experiência profissional formal na área, estou profundamente envolvido no desenvolvimento de minhas habilidades e conhecimentos. Sou uma pessoa organizada e autodidata, sempre em busca de aprender e crescer em minha área de interesse.
+
+No âmbito extracurricular, atuei como mesário nas eleições de 2022, uma experiência que não só ampliou minha visão sobre o funcionamento dos processos eleitorais, mas também fortaleceu minhas habilidades de organização e trabalho em equipe.
+
+Além dos meus estudos e atividades extracurriculares, gosto de manter uma vida ativa e equilibrada. Frequento a academia regularmente, jogo basquete e pratico corrida, atividades que me ajudam a manter o foco e a disciplina.
+
+Estou entusiasmado com as oportunidades futuras e ansioso para aplicar meu conhecimento e habilidades adquiridos até agora em um ambiente profissional.
