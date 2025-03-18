@@ -1,7 +1,7 @@
 
 # **Augusto Cardoso Xavier**
 
-Olá, tudo bem? Me chamo Augusto mas pode me chamar de Guto. Sou apaixonado por sci-fi e tecnologia desde que desenvolvi a faísca da cosnciência. Sou formado em história e realizando minha segunda formação em TI para que eu possa migrar de área para trabalhar onde está o meu sonho: a área de Desenvolvimento.
+Olá, tudo bem? Me chamo Augusto mas pode me chamar de Guto. Sou apaixonado por sci-fi e tecnologia desde que desenvolvi uma fagulha de consciência. Sou formado em história e realizando minha segunda formação em TI para que eu possa migrar de área para trabalhar onde está o meu sonho: a área de Desenvolvimento.
 
 
 
