@@ -27,4 +27,4 @@
 > CSS <br />
 > Javascript <br />
 > Docker <br />
-> GIT  <br />
+> Git  <br />
