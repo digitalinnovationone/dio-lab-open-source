@@ -4,7 +4,7 @@
 
 - Pretendo também ver um pouco da área de jogo com a plataformado **Roblox**
 
-- Todos os meus projetos estão disponiveis aqui [https://github.com/Dantesys?tab=repositories](https://github.com/Dantesys?tab=repositories)
+- Todos os meus projetos estão disponiveis aqui [Projetos](https://github.com/Dantesys?tab=repositories)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dantesys&label=Profile%20views&color=0e75b6&style=flat" alt="dantesys" /> </p>
