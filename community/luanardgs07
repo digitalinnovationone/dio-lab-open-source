@@ -1,0 +1,8 @@
+git clone https://github.com/luanardgs07/dio-lab-open-source.git
+git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git
+git pull upstream main
+git branch feat/community/luanardgs07
+luanardgs07.md
+git add community/luanardgs07.md
+git commit -m"feat: add luanardgs07 profile"
+git push origin feat/community/luanardgs07
