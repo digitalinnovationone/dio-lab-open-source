@@ -1,7 +1,7 @@
 
 ## 🚀 Sobre mim
 
-Olá! Meu nome é Gustavo Coelho, tenho 18 anos, sou técnico em redes de computadores e atualmente estou cursando Sistemas de Informação no IFES, gosto muito de Back-end e estou estudando para ser um profissional qualificado na área
+Olá! Meu nome é Gustavo Coelho, tenho 18 anos, sou técnico em redes de computadores e atualmente estou cursando Sistemas de Informação no IFES, gosto muito de Back-end e estou estudando para ser um profissional qualificado na área.
 
 # Linguagens de programação
 
