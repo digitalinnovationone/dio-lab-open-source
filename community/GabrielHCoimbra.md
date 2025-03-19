@@ -1,5 +1,4 @@
-[![README](https://img.shields.io/static/v1?label=readme&message=en-US&color=blue&style=plastic)](https://github.com/0liveiraVictor)
-
+[![README](https://img.shields.io/static/v1?label=readme&message=en-US&color=blue&style=plastic)]
 <h1 align="center">GABRIEL VIANA</h1>
 <h3 align="center">Futuro Engenheiro de Software</h3>
 
