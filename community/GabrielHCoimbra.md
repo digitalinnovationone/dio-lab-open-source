@@ -102,10 +102,10 @@ Sou um eterno aluno da vida, fascinado por aprender, além de tecnologia me inte
 
 <div>
   <a href="https://github.com/GabrielHCoimbra">
-    <img height="180cm" align="left" src="https://github-readme-stats.vercel.app/api?username=0liveiraVictor&line_height=25&card_width=380&border_radius=4&show_icons=true&count_private=true&theme=gotham&include_all_commits=true" />
+    <img height="180cm" align="left" src="https://github-readme-stats.vercel.app/api?username=GabrielHCoimbra&line_height=25&card_width=380&border_radius=4&show_icons=true&count_private=true&theme=gotham&include_all_commits=true" />
   </a>
 
   <a href="https://github.com/GabrielHCoimbra">
-    <img height="180cm" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0liveiraVictor&layout=compact&card_width=280&border_radius=3&langs_count=20&theme=gotham" />
+    <img height="180cm" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHCoimbra&layout=compact&card_width=280&border_radius=3&langs_count=20&theme=gotham" />
   </a>
 </div>
