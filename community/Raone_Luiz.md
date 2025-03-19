@@ -1,4 +1,4 @@
-    # Olá! 👋
+    # Olá! 
     
     Sou Raone Luiz , estudante de Segurança da Informação na Faculdade das Americas , tenho  como objetivo entrar na carreira de cibersegurança , porém tenho conhecimento e curiosidades e estou aberto a uma possivel oportunidade como desenvolvedor!
 
