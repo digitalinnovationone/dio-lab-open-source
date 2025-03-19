@@ -13,5 +13,4 @@
     https://github.com/DevRaone
 
     ## Linkedin
-    https://www.linkedin.com/in/raone-luiz-rodrigues-miranda-271a1128b/
-    
+    (https://www.linkedin.com/in/raone-luiz-rodrigues-miranda-271a1128b/)
