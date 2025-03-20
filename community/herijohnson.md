@@ -5,7 +5,7 @@
 🏢 **Atuação Profissional**
 - 🚀 
   
-- [Linkedin (https://www.linkedin.com/in/herijohnson/)]
+- [Linkedin](https://www.linkedin.com/in/herijohnson/)
 - Instagram (https://www.instagram.com/herijohnson7/)
 
 ### 📊 Estatísticas no GitHub
