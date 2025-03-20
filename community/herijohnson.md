@@ -7,7 +7,7 @@
   
 - [Linkedin](https://www.linkedin.com/in/herijohnson/)
 - [Instagram](https://www.instagram.com/herijohnson7/)
-- [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)]([https://docs.github.com](https://github.com/herijohnson/)
+- [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/herijohnson/)
 
 ### 📊 Estatísticas no GitHub
 
