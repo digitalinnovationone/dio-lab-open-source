@@ -1,12 +1,12 @@
-### Olá, eu sou Herijohnson (herijohnson) 👋
+### Olá, eu sou Herijohnson 👋
 
 ✨ **Eterno esudante** na [DIO](https://dio.me) e amante de todo o conhecimento.
 
 🏢 **Atuação Profissional**
 - 🚀 
   
-- [Linkedin (https://www.linkedin.com/in/herijohnson/)]
-- Instagram (https://www.instagram.com/herijohnson7/)
+- [Linkedin](https://www.linkedin.com/in/herijohnson/)
+- [Instagram](https://www.instagram.com/herijohnson7/)
 
 ### 📊 Estatísticas no GitHub
 
