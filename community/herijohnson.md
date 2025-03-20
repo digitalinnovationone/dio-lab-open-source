@@ -6,7 +6,7 @@
 - 🚀 
   
 - [Linkedin](https://www.linkedin.com/in/herijohnson/)
-- Instagram (https://www.instagram.com/herijohnson7/)
+- [Instagram](https://www.instagram.com/herijohnson7/)
 
 ### 📊 Estatísticas no GitHub
 
