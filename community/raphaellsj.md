@@ -9,10 +9,10 @@ Tenho 36 anos e estou estudando na DIO para melhorar minhas skills 💻
 
 ![QLIK](https://img.shields.io/badge/Qlik-green?style=for-the-badge&logo=qlik)
 ![TASY](https://img.shields.io/badge/TASY-blue?style=for-the-badge&logo=phillips)
-![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi)
+![SQL](https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=oracle&logoColor=black)
 ![API REST](https://img.shields.io/badge/API_REST-lightblue?style=for-the-badge&logo=apirest&logoColor=yellow)
 ![Json](https://img.shields.io/badge/Json-orange?style=for-the-badge&logo=json&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=oracle&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi)
 
 ## GitHub Stats ✅
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raphaelljs&show_icons=true&theme=dark&title_color=ff6600&text_color=ffffff&icon_color=ff6600&bg_color=000000)
