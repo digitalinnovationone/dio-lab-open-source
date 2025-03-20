@@ -1,7 +1,11 @@
 
 # Hey there, I'm Matheus Siqueira 💻🤵🏻
 
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
+Meu nome é Matheus, sou estudante de Análise e Desenvolvimento de Sistemas e tenho experiência com automação de processos utilizando Python e VBA.  
+
+Atualmente, trabalho prestando suporte técnico para tecnologias de hospedagem, domínios, e produtos de e-mail e marketing digital.  
+
+Tenho interesse em programação, tecnologia e análise de dados. No meu tempo livre, estudo inglês e busco aprimorar minhas habilidades para desenvolver soluções inovadoras.  
 
 ## About me:
 > * 🏠 São Paulo, SP - Brasil.
