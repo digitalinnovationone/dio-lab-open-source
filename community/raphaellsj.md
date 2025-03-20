@@ -15,9 +15,8 @@ Tenho 36 anos e estou estudando na DIO para melhorar minhas skills 💻
 ![SQL](https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=oracle&logoColor=black)
 
 ## GitHub Stats ✅
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raphaellsj&theme=transparent&bg_color=FFF&border_color=black&show_icons=true&icon_color=black&title_color=black&text_color=black)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raphaelljs&show_icons=true&theme=dark&title_color=ff6600&text_color=ffffff&icon_color=ff6600&bg_color=000000)
 
 ## Minhas Contribuições 🤙🏻
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AleCosta00&repo=dio-lab-open-source&bg_color=FFF&border_color=black&show_icons=true&icon_color=black&title_color=black&text_color=black)](https://github.com//dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Raphaelljs&repo=dio-lab-open-source&bg_color=000000&border_color=black&show_icons=true&icon_color=ff6600&title_color=ff6600&text_color=black)](https://github.com//dio-lab-open-source)
