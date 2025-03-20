@@ -1,4 +1,4 @@
-### Olá, eu sou Herijohnson (herijohnson) 👋
+### Olá, eu sou Herijohnson 👋
 
 ✨ **Eterno esudante** na [DIO](https://dio.me) e amante de todo o conhecimento.
 
