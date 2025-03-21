@@ -30,7 +30,7 @@ Trabalho com tecnologia a mais de 20 anos atuando principalmente como analista d
 ## 🧰 Ferramentas de Desenvolvimento
 - Visual Studio Code
 - Intellij
-- Eclipse
+
 
 ## 🛠️ Ferramenta de Versionamento
 - Git
