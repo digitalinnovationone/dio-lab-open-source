@@ -1,17 +1,17 @@
 ---
 name: Community Challenge
-about: Crie uma issue sobre o Desafio proposto à comunidade
+about: Crie uma issue sobre o Desafio proposto a comunidade
 title: "[DESAFIO]"
 labels: community challenge
 assignees: ''
 
 ---
 
-*Tem alguma sugestão para quem for fazer o Desafio? Por favor descreva.*
-Uma descrição do que pode ser feito. 
+*Tem alguma sugestao para quem for fazer o Desafio? Por favor descreva.* 
+Uma descricao do que pode ser feito.
 
-*Descreva como você realizou o seu*
-Uma descrição sobre como você fez o seu.
+*Descreva como voce realizou o seu.*
+Uma descricao sobre como voce fez o seu.
 
-*Links úteis*
-- [Nome do Link](URL)
+*Links uteis*
+-[Nome do Link](URL)
