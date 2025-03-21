@@ -16,7 +16,7 @@ Este projeto foi criado para fins educacionais dentro do programa da Digital Inn
 
 ## Autor
 
-Criado por Rodolfopassos35 [Meu GitHub](https://github.com/rodolfopassos35)
+Criado por rodolfopassos35 [Meu GitHub](https://github.com/rodolfopassos35)
 
 ## Licença
 
