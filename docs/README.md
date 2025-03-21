@@ -20,7 +20,7 @@ docs/
 ├── index.html
 └── README.md
 ```
-##Desafio: Profile README
+## Desafio: Profile README
 
 Contribua no diretório "Community", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da Digital Innovation One.
 Inspire-se consultando os exemplos na pasta "community", confira alguns utilitários na pasta "utils" e use sua criatividade para criar o seu 😊💙.
@@ -46,9 +46,9 @@ Envie as alterações para o seu repositório remoto git push origin feat/commun
 
 Crie um Pull Request.
 
-```
+
 [PASSO-A-PASSO](https://digitalinnovationone.github.io/dio-lab-open-source/)
-```
+
 
 ## Tecnologias
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
