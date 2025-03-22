@@ -1,7 +1,7 @@
 
 # Carlos Alberto Júnior
 
-Olá, sou Carlos Alberto – estudante de Ciência da Computação com formação em Tecnologia em Automação Industrial. Estou em constante evolução, focado no aprimoramento das minhas habilidades em linguagens como Python, JavaScript, C e SQL, além de adquirir experiência prática em infraestrutura de TI e computação em nuvem. Motivado pela complexidade dos problemas e pela oportunidade de transformar ideias em soluções reais, meu objetivo é contribuir para o desenvolvimento de sistemas eficientes enquanto continuo a aprender e aprimorar meu conhecimento.
+Olá, sou Carlos Alberto – estudante de Ciência da Computação com formação em Tecnologia em Automação Industrial. Estou em constante evolução, focado no aprimoramento das minhas habilidades em linguagens como Python, JavaScript, C e SQL, além de adquirir experiência prática em infraestrutura de TI e computação em nuvem. Motivado pela complexidade dos problemas e pela oportunidade de transformar ideias em soluções reais, meu objetivo é contribuir para o desenvolvimento de sistemas eficientes enquanto continuo a aprender e aprimorar meu conhecimento. 😁
 
 # Minhas redes 
 
