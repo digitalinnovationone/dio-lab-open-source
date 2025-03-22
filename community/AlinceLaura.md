@@ -1,4 +1,4 @@
-# Olá, eu Alince Laura! 😊👋
+# Olá, eu sou Alince Laura! 😊👋
 
 Bem-vindo ao meu perfil no GitHub! Sempre tive muito interesse em desenvolvimento de software, então decidi começar a estudar sobre isso, gostaria de dominar essa área do conhecimento, estou sempre em busca de novos desafios, aprendizados e explorando novas tecnologias.
 
