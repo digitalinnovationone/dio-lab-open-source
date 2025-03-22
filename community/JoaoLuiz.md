@@ -1,5 +1,7 @@
 # Sobre João Luiz Ricardo Esteves
 
+---
+
 👋 Olá! Meu nome é **João Luiz Ricardo Esteves**, e sou um programador Backend especializado em **Java**. Atualmente, estou me aprofundando no framework **Spring**, buscando aprimorar minhas habilidades e conhecimentos para desenvolver soluções robustas e escaláveis.
 
 ## 🛠️ Habilidades e Especializações
