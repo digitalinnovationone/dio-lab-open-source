@@ -2,7 +2,7 @@
 
 **Estudante**
 
-Me chamo lucas de souza viegas, tenho 21 anos e sou estudante de engeharia de redes da UnB.                               
+Me chamo lucas de souza viegas, tenho 21 anos e sou estudante de engeharia de redes de comunicação da UnB.                               
 no meu tempo livre gosto de ler e também ver assuntos relacionados a super-herois.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas._viegas/)
