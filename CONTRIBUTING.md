@@ -94,4 +94,4 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 - [CONVENTIONAL COMMITS. Summary](https://www.conventionalcommits.org/en/v1.0.0/)
 - [GITHUB. Configurar diretrizes para os contribuidores do repositório](https://docs.github.com/pt/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
 
-ISTO É UMA ALTERAÇÃO NO ARQUIVO CONTRIBUTING.md
+ISTO É UMA ALTERAÇÃO NO ARQUIVO CONTRIBUTING.mdISTO É UMA ALTERAÇÃO NO ARQUIVO CONTRIBUTING.md
