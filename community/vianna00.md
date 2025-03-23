@@ -3,4 +3,4 @@
 
 ## Sobre mim
 
-Me chamo Francine, tenho 38 anos, estou entrando agora no mundo no curso de programação do zero da DIO, e espero aprender pelo menos o básico, o suficiente para conseguir um bom emprego e trabalhar.
+Me chamo Francine, tenho 38 anos, estou entrando agora nesse mundo de programação do cursos da DIO do zero, e espero aprender pelo menos o básico, o suficiente para conseguir um bom emprego e trabalhar
