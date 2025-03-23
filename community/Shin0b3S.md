@@ -4,6 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Concluído-success)  
 ![DIO](https://img.shields.io/badge/DIO-Official-%23F08700)  
 
+## Aluno entusiasta de tecnologia que busca o conhecimento básico das ferramentas essenciais para aperfeiçoamento na área de investigação criminal. ##
 Este repositório contém anotações, comandos e exercícios do curso **"Linux para Iniciantes"** oferecido pela plataforma [DIO](https://www.dio.me). O objetivo do curso é fornecer uma introdução sólida ao sistema operacional Linux, abordando desde os comandos básicos até a manipulação de arquivos, diretórios e permissões no terminal.
 
 ---
