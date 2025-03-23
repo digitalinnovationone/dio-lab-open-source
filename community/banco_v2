@@ -1,0 +1,164 @@
+#Banco V2:
+
+lista_usuarios = []
+contas_usuarios = []
+
+def menu(): 
+    print("""
+    [1] Adicionar dados do usuário
+    [2] Criar conta usuário
+    [3] Depositar
+    [4] Sacar
+    [S] Extrato  
+    [Q] Sair
+              
+    => """)
+    opcao = input('Digite uma opção: ').lower().strip()
+    return opcao 
+
+def criar_usuario():
+    global lista_usuarios
+
+    nome = input('Digite seu nome: ')
+    data_nasc = input('Digite sua data de nascimento: ')
+    cpf = input('Digite seu CPF:')
+    logradouro = input('Digite seu logradouro: ')
+    num_casa = input('Digite o numero da sua casa: ')
+    bairro = input('Digite o seu bairro: ')
+    cidade = input('Digite sua cidade e a sigla da cidade Ex: "São Paulo/SP: ')
+    
+    endereco = [logradouro, num_casa, bairro, cidade]
+    dados_usuarios = {
+        'nome': nome,
+        'data_nasc': data_nasc,
+        'cpf': cpf,
+        'endereco': endereco,
+    }
+    if verificar_cpf_existente(cpf):
+        print('Erro: CPF já cadastrado.')
+    else:
+        print('Usuario adicionado')
+        lista_usuarios.append(dados_usuarios)
+
+def verificar_cpf_existente(cpf):
+    for usuario in lista_usuarios:
+        for chave, dados_usuario in usuario.items():
+            if dados_usuario == cpf:
+                return True
+    return False
+
+def solicitar_cpf():
+    cpf = input('Digite seu CPF: ')
+    
+    if cpf not in '0123456789.,':
+        print('Por favor digite um CPF válido')
+    else:
+        return cpf
+    
+def criar_conta(cpf):
+    global contas_usuarios
+    
+    if verificar_cpf_existente(cpf):
+        num_conta = len(contas_usuarios) + 1
+        conta = {
+            'cpf_conta': cpf,
+            'num_conta': num_conta,
+            'saldo_conta': 0.0,
+            'saques_diarios': 0,
+            'limite_transacao': 500,
+            'extrato': '',
+        }
+        contas_usuarios.append(conta)
+        print('Conta criada')
+    else:
+        print('Erro: CPF não cadastrado')
+
+def saque(cpf):
+    for conta in contas_usuarios:
+        if conta['cpf_conta'] == cpf:
+            try:
+                valor = float(input('Digite o valor do saque: '))
+                if valor < 0:
+                    print('Valores negativos não são permitidos.')
+                elif valor > conta['saldo_conta']:
+                    print('Saldo insuficiente')
+                elif valor > conta['limite_transacao']:
+                    print(f'Valor maior que o permitido para saque. \n Valor permitido: {conta['limite_transacao']}')
+                elif conta['saques_diarios'] == 3:
+                    print('Limite de saques atingido, tente novamente mais tarde.')
+                else:
+                    conta['saldo_conta'] -= valor
+                    conta['saques_diarios'] += 1
+                    conta['extrato'] += (f'Saque de R${valor:.2f} \n')
+                    print(f'Saque de R${valor:.2f} realizado com sucesso.')
+            except ValueError:
+                print('Digite apenas numeros!')
+      
+def deposito(cpf):
+    for conta in contas_usuarios:
+        if conta['cpf_conta'] == cpf:
+            try:
+                valor = float(input('Digite o valor do deposito: '))
+                if valor < 0:
+                    print('Valores negativos não são permitidos.')  
+                else:
+                    conta['saldo_conta'] += valor
+                    conta['extrato'] += (f'Depósito de R${valor:.2f} \n')
+                    print(f'Depósito de R${valor:.2f} realizado com sucesso.')
+            except ValueError:
+                print('Digite apenas numeros!')
+
+def extrato(cpf):
+    for conta in contas_usuarios:
+        if len(contas_usuarios) >= 1:
+            if conta['cpf_conta'] == cpf:
+                saldo = conta['saldo_conta']
+                extrato = conta['extrato']
+                num_conta = conta['num_conta']
+                
+                print('Extrato bancário')
+                print('Movimentações: ')
+                if len(extrato) == 0:
+                    print('Sem movimentações bancarias')
+                else:    
+                    print(extrato)
+                print(f'Saldo total:{saldo}R$ \n Número da conta: {num_conta}')
+        
+def banco_v2():
+    while True:
+        print('Bem-vindo(a) ao Banco DIO')
+
+        opcoes = menu()
+
+        match opcoes:
+            case '1':
+                criar_usuario()
+            case '2':
+                cpf = solicitar_cpf()
+                criar_conta(cpf)
+            case '3':
+                cpf = solicitar_cpf()
+                if verificar_cpf_existente(cpf):
+                    deposito(cpf)
+                else:
+                    print('Erro: CPF não cadastrado')
+            case '4':
+                cpf = solicitar_cpf()
+                if verificar_cpf_existente(cpf):
+                    saque(cpf)
+                else:
+                    print('Erro: CPF não cadastrado')
+            case '5':
+                cpf = solicitar_cpf()
+                if verificar_cpf_existente(cpf):
+                    extrato(cpf)
+                else:
+                    print('Erro: CPF não cadastrado')
+            case 'q':
+                print('Saindo...')
+                break
+            case _:
+                print('Escolha uma opção válida')
+
+banco_v2()
+
