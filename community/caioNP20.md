@@ -36,12 +36,6 @@ Estudante de Engenharia de Computação. Gosto muito da área de Ciência de Dad
 
 
 </div>
-
-<div  align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioNP20&layout=compact&langs_count=7&theme=react)
-
-</div>
  
 <h2>Sistema operacional</h2>
 <br>
