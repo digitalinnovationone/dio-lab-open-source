@@ -20,6 +20,10 @@ Página desenvolvida com fins didáticos para o curso **Contribuindo em um Proje
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Plotegher&theme=transparent&bg_color=4d6f39&border_color=daa520&show_icons=true&icon_color=30A3DC&title_color=ffd700&text_color=FFF)
 
+## Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Plotegher&bg_color=4d6f39&border_color=daa520&title_color=ffd700&text_color=FFF)
+
 ## Contribuições
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Plotegher&repo=dio-lab-open-source&bg_color=4d6f39&border_color=dda520&show_icons=true&icon_color=30A3DC&title_color=ffd700&text_color=FFF)](https://github.com/Plotegher/dio-lab-open-source)
