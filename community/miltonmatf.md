@@ -16,9 +16,8 @@
 <div align="center">  
  &nbsp;&nbsp;
 
-![miltonmateus's Streak](https://github-readme-streak-stats.herokuapp.com/?user=miltonmateus&theme=monokai&hide_border=false) 
-
-![miltonmateus's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miltonmateus&theme=monokai&show_icons=true&hide_border=false&layout=compact)
+![miltonmateus's Stats](https://github-readme-stats.vercel.app/api?username=miltonmateus&theme=monokai&show_icons=true&hide_border=true&count_private=true)
+![miltonmateus's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miltonmateus&theme=monokai&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 
@@ -29,7 +28,7 @@
 <br>
 
 <div align="center" >
-  <img width="30%" height="170px" src="https://images.steamusercontent.com/ugc/1323445951579681379/29990AC3AFD4C1FCC4944E6FE691F445FC74DD8B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="400">
+  <img width="25%" height="170px" src="https://images.steamusercontent.com/ugc/1323445951579681379/29990AC3AFD4C1FCC4944E6FE691F445FC74DD8B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="400">
 </div>
 
 
