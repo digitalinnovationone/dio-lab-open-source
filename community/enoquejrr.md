@@ -1,6 +1,6 @@
 # Enoque R. de Almeida Jr
 
-Estou em busca de me desenvolver na área de tecnologia e programação. Atualmente estou empreendendo com uma pequena startap em parceria com dois amigos desenvolvedores.
+Desenvolvedor Python e Java há 1 ano, atuando na automação de processos para otimizar operações. Atualmente, aplico minhas habilidade para aumentar a eficiência da equipe operacional e atuo como freelancer em projetos diversos, visando a transição de carreira.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/enoquealmeidajr)
