@@ -1,6 +1,6 @@
 # Tayara Cruz
 
-Olá a todos!
+Olá a todos!!
 Neste momento encontro-me em transição de carreira, minha primeira formação (concluída - tenho um percurso escolar um pouco atrapalhado) 
  foi em Administração de empresas e agora dedico-me a este fantástico mundo da tecnologia.
 
