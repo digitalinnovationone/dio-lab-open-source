@@ -1,4 +1,4 @@
-## Tayara Cruz
+# Tayara Cruz
 
 Olá a todos!
 Neste momento encontro-me em transição de carreira, minha primeira formação (concluída - tenho um percurso escolar um pouco atrapalhado) 
