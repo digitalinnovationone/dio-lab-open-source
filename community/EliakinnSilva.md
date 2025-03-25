@@ -9,10 +9,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
-- 👨‍🎓Estudante do Curso Superior de Sistemas Para Internet 👨‍🎓
-
-- ❤ Fã de FrontEnd e BackEnd   
-- 👩‍💻 Buscando mais conhecimento. 
+- Graduado no Curso Superior Tecnólogo em  Sistemas Para Internet , pela <a href = "https://ficr.catolica.edu.br/portal/">
+- Pos Graduando em Segurança Da informação
+- Dev fullStak    
+- Analista Operacional - TI( Suporte Help Desck) 
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
