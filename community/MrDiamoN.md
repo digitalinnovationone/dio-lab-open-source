@@ -7,7 +7,7 @@
 
 ## 🚀 Junte-se a mim  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E3050?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/Arthu-sn/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E3050?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/Arthur-sn/) 
 [![Instagram](https://img.shields.io/badge/Instagram-1E3050?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://www.instagram.com/sn_arth/)  
 
 ## 🛠️ Habilidades  
