@@ -2,7 +2,7 @@
 
 Estudante de Sistemas de informação e estou buscando me desenvolver cada vez mais.
 
-### Contati-me
+### Contate-me
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/gustavo_braz)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](gbraz6789@gmail.com)
