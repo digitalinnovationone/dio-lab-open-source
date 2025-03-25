@@ -204,7 +204,16 @@ main, section {
 }
 
 #searchForm {
+    position: relative;
     display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+#searchForm label {
+    position: absolute;
+    top: -25px; 
+    left: 0;
 }
 
 #searchButton {
@@ -215,7 +224,7 @@ main, section {
     color: var(--black);
     text-transform: uppercase;
     background: var(--secondary-color);
-    border: .125rem solid var(--secondary-color);
+    border: .12rem solid var(--secondary-color);
     border-radius: 0 50rem 50rem 0;
     box-shadow: 0 1.125rem 5rem 0 rgba(153, 153, 153, 0.3);
     padding: .25rem .35rem;
@@ -253,7 +262,6 @@ main, section {
     box-shadow: inset 0 1.125rem 5rem 0 rgba(153, 153, 153, 0.3);
     outline: 0;
 }
-
 footer {
     display: flex;
     justify-content: center;
