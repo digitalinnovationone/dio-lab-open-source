@@ -41,7 +41,7 @@ Currently pursuing a postgraduate degree in **Software Engineering**, after comp
 
 ## 📊 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ThiagoMarconato&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiagoMarconato&show_icons=true&theme=radical)
 
 ---
 
