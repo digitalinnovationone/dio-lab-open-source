@@ -93,3 +93,17 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
 - [CONVENTIONAL COMMITS. Summary](https://www.conventionalcommits.org/en/v1.0.0/)
 - [GITHUB. Configurar diretrizes para os contribuidores do repositório](https://docs.github.com/pt/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
+
+
+Sobre David Henrique:
+
+Graduando em SI pela Universidade Católica de Pernambuco e Ciência da computação pela
+Uniamerica. Como desenvolvedor Web Junior, possuo habilidades sólidas em linguagens
+como JavaScript, assim como conhecimentos em frameworks front-end, como React e
+Angular. Minha expertise inclui lógica de programação avançada e competências em
+tecnologias back-end, como Node.js & Django. Além disso, tenho experiência em Quality
+Assurance (QA), utilizando testes e selenium para automações. Tenho experiência com a
+metodologia SCRUM. Demonstro eficiência no controle de versão, especialmente com Git, e
+mantenho uma abordagem focada na segurança web. Com minha rápida capacidade de
+aprendizado, trabalho em equipe e compromisso com a garantia de qualidade, contribuo
+positivamente para projetos web e Mobile.
