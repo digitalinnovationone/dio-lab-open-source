@@ -3,7 +3,7 @@
 <h2 align="center"><a href="https://git.io/typing-svg" target=_blank rel="nofollow noopener noreferrer"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&height=100&duration=1600&pause=1000&color=DD0031&width=750&lines=Fala+Devs!+Sejam+bem-vindos!+:);Web+Developers...;Mobile+Developers...;FullStack...;Systems+Analysts...;...and students!" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&duration=1600&pause=1000&color=DD0031&width=435&lines=Fala+Devs!+Sejam+bem-vindos!;Web+Developers...;Mobile+Developers...;FullStack..https://emresitesweb.com.br/wp-content/uploads/2023/11/gitironman01.png.;Systems+Analysts...;...and students!" style="max-width: 100%;"></a></h2>
 
 
-<img align="left" src="https://github.com/emersonpessoa01/emersonpessoa01/blob/main/image/images/amylee-programmer03.1.gif" width="350" height="auto" style="margin:10px"/>
+<img align="left" src="../image/images/amylee-programmer03.1.gif" width="380" height="auto" style="margin:10px"/>
 
 <p>⚗️ Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Pará.</p>
 <p>💻 Redes de Computadores pela FAP-Faculdade do Estado do Pará.</p>
@@ -46,7 +46,7 @@
 
  <h3> Contribuidores fake: </h3>
  
-[<img src="https://github.com/emersonpessoa01/dio-lab-open-source/blob/main/image/images/gitironman01.png" width=115  heigth=120 ><br><sub> Git Ironman </sub>](https://github.com/emersonpessoa01) | [<img src="https://github.com/emersonpessoa01/dio-lab-open-source/blob/main/image/images/gitcode02.png" width=115  heigth=120 ><br><sub> Git Code </sub>](https://github.com/emersonpessoa01) | [<img src="https://github.com/emersonpessoa01/dio-lab-open-source/blob/main/image/images/ahsoka-tano01.png" width=115  heigth=120><br><sub> Ahsoka Tano</sub>](https://github.com/emersonpessoa01) | [<img src="https://github.com/emersonpessoa01/dio-lab-open-source/blob/main/image/images/ezra-bridges.png" width=115  heigth=120><br><sub> Ezra Bridges</sub>](https://github.com/emersonpessoa01) | [<img src="https://github.com/emersonpessoa01/dio-lab-open-source/blob/main/image/images/sabine-wren.png" width=115  heigth=120><br><sub> Sabine Wren</sub>](https://github.com/emersonpessoa01)
+[<img src="../image/images/gitironman01.png" width=115  heigth=120 ><br><sub> Git Ironman </sub>](https://github.com/emersonpessoa01) | [<img src="../image/images/gitcode02.png" width=115  heigth=120 ><br><sub> Git Code </sub>](https://github.com/emersonpessoa01) | [<img src="../image/images/ahsoka-tano01.png" width=115  heigth=120><br><sub> Ahsoka Tano</sub>](https://github.com/emersonpessoa01) | [<img src="../image/images/ezra-bridges.png" width=115  heigth=120><br><sub> Ezra Bridges</sub>](https://github.com/emersonpessoa01) | [<img src="../image/images/sabine-wren.png" width=115  heigth=120><br><sub> Sabine Wren</sub>](https://github.com/emersonpessoa01)
 | :---: | :---: | :---: | :--: | :--: |
 
 <!--<details>
