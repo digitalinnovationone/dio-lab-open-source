@@ -1,5 +1,4 @@
 <h1>
-    <h2> TESTE</h2>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
     <span> Profiles README DIO</span>
