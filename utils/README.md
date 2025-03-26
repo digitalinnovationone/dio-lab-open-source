@@ -52,6 +52,18 @@
         <a href="https://github.com/denvercoder1/github-readme-streak-stats">GitHub Streak Stats by @DenverCoder1</a>
       </td>
     </tr>
+    <tr>
+      <td>04</td>
+      <td>Snake Game From Github's User Contributions Graph</td>
+      <td align="center">
+        <a href="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Exemplos-E94D5F?style=for-the-badge">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Platane/snk">"snk" by @Platane</a>
+      </td>
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
@@ -61,4 +73,5 @@
 - [Guia sobre Markdown do GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 - [Onde encontrar Badges legais para o seu Perfil](https://github.com/Ileriayo/markdown-badges#markdown-badges) 
 - [Gerador automático de Readme para GitHub](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+- [Emojis para utilizar no corpo de seu readme](https://emojipedia.org/search?q=bag)
 
