@@ -1,17 +1,14 @@
 ---
 name: Community Challenge
-about: Crie uma issue sobre o Desafio proposto à comunidade
-title: "[DESAFIO]"
-labels: community challenge
-assignees: ''
+about: Criação de uma ISSUE sobre um Desafio proposto à comunidade DIO
+title: Resposta desafio
+labels: enhancement
+assignees: JavaliHub
 
 ---
 
-*Tem alguma sugestão para quem for fazer o Desafio? Por favor descreva.*
-Uma descrição do que pode ser feito. 
-
-*Descreva como você realizou o seu*
-Uma descrição sobre como você fez o seu.
-
-*Links úteis*
-- [Nome do Link](URL)
+Uma descrição do que poderia ser feito.
+Apos criação da issue , receber um retorno do que foi realizado.
+Links Uteis
+Dicas de comandos do GIT
+https://training.github.com/downloads/pt_BR/github-git-cheat-sheet.pdf
