@@ -17,6 +17,7 @@ docs/
 │   └── js/
 │       └── scripts.js
 ├── favicon.ico
+├── imagens/
 ├── index.html
 └── README.md
 ```
