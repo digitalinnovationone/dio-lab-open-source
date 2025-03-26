@@ -5,7 +5,7 @@
 
 ## 🚀 Sobre mim
 Atualmente estou cursando Bacharelado em Ciências da Computação na Universidade Cruzeiro do Sul e cursando o Suzano Python Developer pela DIO!
-Sou fluente em Inglês e Espanhol.
+Sou fluente em Inglês e Espanhol!
 
 
 ## Particularidades
