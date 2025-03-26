@@ -1,0 +1,232 @@
+[33mcommit 0e2d07accd9014d65886e70d7861cf1cf71d8dbc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeat/community/murioliver[m[33m)[m
+Author: Muriel <mununes4@gmail.com>
+Date:   Fri Jul 5 16:16:52 2024 -0300
+
+    feat: add murioliver profile
+
+[33mcommit f8332b554ea9d5dbe61f1b66e94137c94183f8ca[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: f310f9923 ff51747a0
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 4 18:15:51 2024 +0000
+
+    Merge pull request #40807 from leocardosoo/feat/community/leocardosoo
+
+[33mcommit ff51747a0608868960cb7836758bc3f5a536b2e3[m
+Author: Leonardo <cardosoleo588@gmail.com>
+Date:   Thu Jul 4 15:11:19 2024 -0300
+
+    feat: leocardosoo
+
+[33mcommit f310f9923cfea014882480275e740271997b7446[m
+Merge: 8ce24077c 309996f00
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 4 18:10:32 2024 +0000
+
+    Merge pull request #40806 from jowgaze/feat/community/jowgaze
+
+[33mcommit 8ce24077c3b0e8c39795c50b6874482b0b42dcf6[m
+Merge: bad2c9936 ac2d9181f
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 4 18:08:11 2024 +0000
+
+    Merge pull request #40805 from sudo-srv/main
+
+[33mcommit ac2d9181f124c89db9351f590b5fff8b247eb5db[m
+Author: sudo-srv <julio.raveli@xmartsolutions.com.br>
+Date:   Thu Jul 4 15:07:40 2024 -0300
+
+    ADD MD
+
+[33mcommit 2787fab18a20d0db03ac2f985051c9de39832d2d[m
+Merge: dd2fb9bfe bad2c9936
+Author: Raveli <64496557+sudo-srv@users.noreply.github.com>
+Date:   Thu Jul 4 15:03:15 2024 -0300
+
+    Merge branch 'digitalinnovationone:main' into main
+
+[33mcommit dd2fb9bfe6cb9c46058ea572d9b22cfbcc7eb9e8[m
+Author: sudo-srv <julio.raveli@xmartsolutions.com.br>
+Date:   Thu Jul 4 15:02:54 2024 -0300
+
+    Adicionando MD
+
+[33mcommit 309996f00aff85b7ebc717728c5d8f27d29ef1aa[m
+Author: jowgaze <jonatha.biomon.hp@gmail.com>
+Date:   Thu Jul 4 15:02:13 2024 -0300
+
+    feat: add jowgaze profile
+
+[33mcommit bad2c9936daaae5eeecc73edea094dde683605ef[m
+Merge: 93853e83f 9edbd2a3d
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 4 17:56:40 2024 +0000
+
+    Merge pull request #40803 from maya-franca/feat/community/maya-franca
+
+[33mcommit 93853e83f0e3777ecbb1cc308556a99d51fc2c6b[m
+Merge: dab9501c2 e6a1c2da4
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 4 17:48:23 2024 +0000
+
+    Merge pull request #40802 from JaquePaula/feat/community/JaquePaula
+
+[33mcommit 9edbd2a3dde5211e9fd4cc207d3544cca1078534[m
+Author: maya <mayfrancarosa@gmail.com>
+Date:   Thu Jul 4 14:45:08 2024 -0300
+
+    feat: add maya-franca profile
+
+[33mcommit e6a1c2da48a9e4e145acf891648f410cd2a9465d[m
+Author: JaquePaula <jaquemarques.santos@gmail.com>
+Date:   Thu Jul 4 14:40:22 2024 -0300
+
+    feat: add JaquePaula profile
+
+[33mcommit dab9501c26d1c210a4e707fc7886f8f4a97c09f8[m
+Merge: e3f242e77 2268b9e48
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 4 17:25:17 2024 +0000
+
+    Merge pull request #40799 from ArlindoSilva/feat/community/ArlindoSilva
+
+[33mcommit e3f242e77580733c0a485b3dc9f58d07fdb707d3[m
+Merge: 2b59a70a2 8ef497ec3
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 4 17:21:16 2024 +0000
+
+    Merge pull request #40798 from henricohirata/main
+
+[33mcommit 8ef497ec317a7e31355dd1670f8dac3e1ce35930[m
+Merge: ba338e209 2b59a70a2
+Author: Henrico Bueno Hirata <henricobhirata@gmail.com>
+Date:   Thu Jul 4 14:18:41 2024 -0300
+
+    Merge branch 'digitalinnovationone:main' into main
+
+[33mcommit 2268b9e4806fb2d08dd9040d24a21ed781b12451[m
+Merge: 59108011e 2b59a70a2
+Author: ArlindoSilva <arlindoas2@gmail.com>
+Date:   Thu Jul 4 14:17:35 2024 -0300
+
+    Merge branch 'main' of https://github.com/digitalinnovationone/dio-lab-open-source into feat/community/ArlindoSilva
+
+[33mcommit 2b59a70a263e14a93b3156572c991e9be5375e79[m
+Merge: 2a4a61e8f fbad1f833
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 4 17:16:29 2024 +0000
+
+    Merge pull request #40797 from edu-not/feat/community/edu-not
+
+[33mcommit ba338e2097d6f9480d320935076507734b3869f2[m
+Merge: 2a4a61e8f fde0fac19
+Author: Henrico Bueno Hirata <henricobhirata@gmail.com>
+Date:   Thu Jul 4 14:15:35 2024 -0300
+
+    Merge pull request #1 from henricohirata/feat/community/henricohirata
+    
+    feat: add henricohirata profile
+
+[33mcommit 59108011e0f92a0a58e34310bd7a9944f035bde3[m
+Author: ArlindoSilva <arlindoas2@gmail.com>
+Date:   Thu Jul 4 14:15:25 2024 -0300
+
+    feat: add ArlindoSilva profile
+
+[33mcommit fde0fac19dc838df3d181cb776499558affa1cca[m
+Author: Henrico Bueno Hirata <henricobhirata@gmail.com>
+Date:   Thu Jul 4 14:14:31 2024 -0300
+
+    feat: add henricohirata profile
+
+[33mcommit fbad1f833a12ab890e6c0fed938c1d2545a48f0d[m
+Merge: a5ce5afdb 2a4a61e8f
+Author: edu-not <66758060+edu-not@users.noreply.github.com>
+Date:   Thu Jul 4 14:12:21 2024 -0300
+
+    Merge branch 'digitalinnovationone:main' into feat/community/edu-not
+
+[33mcommit a5ce5afdbf4cd6eeac90a116c34492da03fb75cf[m
+Author: Eduardo Teobaldo <enteobaldo@redegazeta.com.br>
+Date:   Thu Jul 4 14:10:10 2024 -0300
+
+    feat: add edu-not profile
+
+[33mcommit 2a4a61e8f76886547af15e87c679709a07b71d98[m
+Merge: c4e5d3722 f9b1ddedb
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 4 16:55:13 2024 +0000
+
+    Merge pull request #40796 from Nayara91/feat/community/Nayara91
+
+[33mcommit f9b1ddedb70039ee3ddd4b5f239c252f7b960bb8[m
+Merge: e0b6421e0 c4e5d3722
+Author: Nayara <38020188+Nayara91@users.noreply.github.com>
+Date:   Thu Jul 4 13:50:50 2024 -0300
+
+    Merge branch 'digitalinnovationone:main' into feat/community/Nayara91
+
+[33mcommit c4e5d3722a9c3581de0297e42ec7e2164312ff55[m
+Merge: 42309fbf5 e3ef03851
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 4 16:50:11 2024 +0000
+
+    Merge pull request #40795 from edu-not/feat/community/edu-not
+
+[33mcommit e0b6421e0d8cb00e464c25249b48b27ad0076da9[m
+Author: Nayara <38020188+Nayara91@users.noreply.github.com>
+Date:   Thu Jul 4 13:47:43 2024 -0300
+
+    Create Nayara91.md
+
+[33mcommit e3ef0385125bb84cdf1ef612919653d899425056[m
+Author: Eduardo Teobaldo <enteobaldo@redegazeta.com.br>
+Date:   Thu Jul 4 13:44:38 2024 -0300
+
+    feat: add edu-not profile
+
+[33mcommit 42309fbf5befa7e8151de10b1315c9ade52bd6a1[m
+Merge: 1aa9a6e1d ca347b976
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 4 16:44:06 2024 +0000
+
+    Merge pull request #40794 from Osmar-Araujo/feat/community/Osmar-Araujo
+
+[33mcommit ca347b976ad70a8009ea280afd94f42152a5da7f[m
+Author: Osmar-Araujo <araujooa@gmail.com>
+Date:   Thu Jul 4 13:11:49 2024 -0300
+
+    feat: add Osmar-Araujo profile
+
+[33mcommit 1aa9a6e1de7a77620261113d5769bc4cf8416cb4[m
+Merge: 591002ddc dedb75f67
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 4 15:51:21 2024 +0000
+
+    Merge pull request #40790 from AmaralPedro1981/AmaralPedro1981
+
+[33mcommit dedb75f6769df6a8b259adc26e3cd1002a2ebfc3[m
+Author: Pedro Amaral <99417091+AmaralPedro1981@users.noreply.github.com>
+Date:   Thu Jul 4 12:50:55 2024 -0300
+
+    Rename AmaralPedro1981 to AmaralPedro1981.md
+
+[33mcommit 591002ddc8bd0b8719f087409bceb6b4efab6db7[m
+Merge: 8cedd0b79 ca8ef505e
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 4 15:14:50 2024 +0000
+
+    Merge pull request #40791 from rodlima30/feat/community/rodlima30
+
+[33mcommit ca8ef505e37cdf6febb760690afade6356fa973a[m
+Author: Rodrigo Lima <97321503+rodlima30@users.noreply.github.com>
+Date:   Thu Jul 4 12:06:50 2024 -0300
+
+    Update rodlima30.md
+
+[33mcommit d4efd2a0b55733c7e5453ab95acaaf86a302d82e[m
+Author: Pedro Amaral <99417091+AmaralPedro1981@users.noreply.github.com>
+Date:   Thu Jul 4 12:04:07 2024 -0300
+
+    Create AmaralPedro1981
+
+[33mcommit 8cedd0b795f1d
