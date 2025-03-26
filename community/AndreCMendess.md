@@ -24,6 +24,6 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AndreCMendess&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## Sobre-min
+## Sobre-mim
 
 Sou desenvolvedor de software com 2 anos de experiência em aprendizado e prática na área. Durante minha jornada, adquiri habilidades em Java, JavaScript, MySQL, jQuery e Bootstrap, além de aplicar conceitos de desenvolvimento web, integração de sistemas, controle de versão com Git e GitHub e testes automatizados. Continuo me aperfeiçoando e estou em busca de oportunidades para contribuir com projetos e evoluir profissionalmente.
