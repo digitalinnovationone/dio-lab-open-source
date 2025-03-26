@@ -1,0 +1,3 @@
+# Projeto DIO: Git e GitHub
+
+Desde jovem sempre gostei bastante do mundo da tecnologia, sonhava em um dia trabalhar na área, e hoje, aos meus 19 anos, estou cada vez mais perto de realizar meu sonho! Atualmente estou cursando Análise e Desenvolvimento de Sistemas, mas não me prendo a estudar apenas na faculdade, estou constantemente em busca de novos cursos e conteúdos para saciar a minha sede de conhecimento.
