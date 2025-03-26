@@ -236,7 +236,7 @@ main, section {
 #searchButton:hover {
     color: var(--white);
     background-color: #0F0F0F;
-    border: #0F0F0F;
+    border: .125rem solid #0F0F0F;
 }
 
 #searchInput {
