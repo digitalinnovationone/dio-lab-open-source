@@ -34,8 +34,37 @@ git clone https://github.com/SEU_USERNAME/dio-lab-open-source.git
 Pressione enter, e uma cópia do seu fork no GitHub será criada localmente.
 
 ### 3) Crie uma nova **branch** 
-Utilize o comando `git checkout -b` para criar e alternar para a nova branch e nomeie-a como `feat/community/SEU_USERNAME`
-> Exemplo: `git checkout -b feat/community/falvojr`
+
+# Convenção de Commits
+
+# Tipo de Commit  | Tag       | Descrição
+# ----------------|-----------|---------------------------------------------------------------------------------------------
+# Feat            | feat      | Adiciona uma nova funcionalidade ao projeto.
+# Fix             | fix       | Corrige um bug no projeto.
+# Docs            | docs      | Adiciona ou atualiza a documentação.
+# Style           | style     | Altera apenas formatação do código, como espaços em branco, ponto e vírgula ausente, etc.
+# Refactor        | refactor  | Refatora o código, sem adicionar funcionalidades ou corrigir bugs.
+# Perf            | perf      | Melhora a performance do código, sem alterar a funcionalidade.
+# Test            | test      | Adiciona ou corrige testes.
+# Build           | build     | Altera arquivos de build e configurações externas como npm, webpack, etc.
+# CI              | ci        | Altera configurações e scripts de CI (Integração Contínua).
+# Chore           | chore     | Tarefas de manutenção que não afetam o código fonte ou testes.
+# Revert          | revert    | Reverte um commit anterior.
+#
+# Exemplos de Mensagens de Commit
+#
+# feat: adicionar funcionalidade de login
+# fix: corrigir erro de validação no formulário
+# docs: atualizar README com instruções de instalação
+# style: formatar código segundo o padrão ESLint
+# refactor: reorganizar estrutura de pastas
+# perf: otimizar consulta ao banco de dados
+# test: adicionar testes unitários para o módulo X
+# build: atualizar configuração do webpack
+# ci: corrigir script do Travis CI
+# chore: atualizar dependências do projeto
+# revert: reverter commit 123456
+
 
 ### 4) Crie o seu Profile README
  Dentro da pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub:
