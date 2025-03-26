@@ -1,0 +1,28 @@
+### Opa, meu nome é Rafael 👋
+
+✨ Sou graduando em Sistemas de Informação pela UNIPLAC – Universidade do Planalto Catarinense e especialista em Back-End Java em formação pela EBAC – Escola Britânica de Artes Criativas e Tecnologia.
+
+🏢 *Atuação Profissional*
+- 🖥️ Estagiário de TI na Justiça Federal de Santa Catarina onde auxílio com questões principalmente ligadas a infraestrutura de TI, como redes e hardwares.
+
+### 📊 Estatísticas no GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafael-blomer&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+### 📌 Projeto em Destaque
+
+Um projeto de microserviços de API REST, com o objetivo de realizar CRUD de usuários, agendar tarefas e enviar um e-mail para o usuário que criou a tarefa, uma hora antes do horário marcado, como lembrete.
+
+O projeto foi feito utilizando Java, Spring Boot, Postman, MongoDB, PostgreSQL, JUnit, Swagger, Docker
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rafael-blomer&repo=notificacao&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafael-blomer/notificacao)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rafael-blomer&repo=Usuario-Security&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafael-blomer/Usuario-Security)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rafael-blomer&repo=agendador-tarefas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafael-blomer/agendador-tarefas)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rafael-blomer&repo=bff-agendador-tarefas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafael-blomer/bff-agendador-tarefas)
+
+### 🚀 Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-blomer&layout=compact)
