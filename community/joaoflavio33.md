@@ -10,3 +10,40 @@ Hello, my name is John, I'm 20 years old, I'm starting my journey as a front-end
 <a href="https://wa.me/5571996101697
 " target="_blank" style="text-decoration: none;">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" style="width: 30px; height: 30px;">
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ícone de Email para Contato</title>
+  <style>
+    .email-icon {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 40px;
+      height: 40px;
+      text-decoration: none;
+      background-color: #0078D7;
+      border-radius: 50%;
+      color: white;
+      font-size: 20px;
+      transition: transform 0.2s, box-shadow 0.3s;
+    }
+
+    .email-icon:hover {
+      transform: scale(1.1);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+
+    .email-icon svg {
+      width: 24px;
+      height: 24px;
+      fill: white;
+    }
+  </style>
+</head>
+<body>
+  <a href="mailto:seuemail@exemplo.com" class="email-icon" title="Enviar email">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+      <path d="M20 4H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2zm-1.4 2-6.6 4.7L5.4 6h13.2zM4 8.25l
