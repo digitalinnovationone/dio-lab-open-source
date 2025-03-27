@@ -10,7 +10,7 @@
 </div>
 
 <div>
-<p style="color: #fff; font-size: 30px; font-weight: 500">Tecnologias e Ferramentas </p>
+<p style="color: #fff; font-size: 30px; font-weight: 500">Tecnologias</p>
 </div>
 
 ![HTML](https://img.shields.io/badge/html5-192436?style=for-the-badge&logo=html5&logoColor=orange)
