@@ -1,6 +1,6 @@
 ## Sobre mim
 - 🙋🏻‍♀️ Me chamo Anna Paula 
-- 👩🏻‍💻 Trabalho como Suporte Técnico
+- 👩🏻‍💻 Trabalho como Suporte Técnico em uma empresa de sistema ERP
 - 🎓 Cursando o 3º semestre de ADS
 - 📚 Estudando Programação, Redes e Cibersegurança
 
