@@ -27,12 +27,13 @@ Já desenvolvi dois projetos acadêmicos – ambos jogos voltados para a **educa
 Esse é um pouco sobre mim e minha trajetória! Vamos juntos nessa jornada de aprendizado e crescimento! 🚀
 
 ## 🤝 Conecta aqui 🤝  
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-maia-7259542aa/)
 ---
 
 ### English Version 🇺🇸
 
-# Presentation for DIO 👋
+## Presentation for DIO 👋
 
 Nice to meet you! I'm **Diego Maia**, and I'm thrilled to welcome you to my first Markdown file, created and published here on GitHub!
 
@@ -61,6 +62,7 @@ I have also developed two academic projects – both **educational games**. Howe
 This is a little about me and my journey! Let’s grow and learn together! 🚀
 
 ## 🤝 Let's Connect! 🔗
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-maia-7259542aa/)
 
 ---
