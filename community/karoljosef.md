@@ -1,7 +1,7 @@
 # Karol Jozef
 
 # Sobre
-Formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo e trabalho como desenvolvedor há mais de 5 anos. Já atuei como programador em pequenas, médias e grandes empresas, desenvolvendo soluções web e mobile para diversos segmentos do conhecimento nas linguagens de programação Node, PHP , Javascript e nos frameworks NestJs, Express, Laravel e React Native sou comprometido, criativo e proativo.
+Sou formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo e trabalho como desenvolvedor há mais de 5 anos. Já atuei como programador em pequenas, médias e grandes empresas, desenvolvendo soluções web e mobile para diversos segmentos do conhecimento nas linguagens de programação Node, PHP , Javascript e nos frameworks NestJs, Express, Laravel e React Native sou comprometido, criativo e proativo.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karol-jozef-94727992/)&nbsp;&nbsp;&nbsp;
