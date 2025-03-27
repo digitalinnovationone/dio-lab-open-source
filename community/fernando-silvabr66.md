@@ -27,8 +27,3 @@ Sou Engenheiro de Computação, experiente (58 anos). Atuei em várias funções
 <a href="https://www.linkedin.com/in/fernando-silvabr66/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.dio.me/users/fernando_silvabr66" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-DIO-%230077B5?style=for-the-badge&logo=DIO&logoColor=white" target="_blank"></a>
 </div>
-<div>
-<a href="https://github.com/fernando-silvabr66">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=44mgl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-silvabr66&layout=compact&langs_count=7&theme=dracula"/>
-</div>
