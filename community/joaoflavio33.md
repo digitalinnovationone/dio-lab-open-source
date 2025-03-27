@@ -7,15 +7,23 @@ Hello, my name is John, I'm 20 years old, I'm starting my journey as a front-end
 <a href="https://www.linkedin.com/in/jo%C3%A3o-fl%C3%A1vio-patriarcha-nascimento-43b072289/" target="_blank" style="text-decoration: none;">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width: 30px; height: 30px;">
 </a>
+
 <a href="https://wa.me/5571996101697
 " target="_blank" style="text-decoration: none;">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" style="width: 30px; height: 30px;">
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ícone de E-mail Pequeno-Médio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0 
+  
+  
+  
+  
+  
+
+<title>Ícone de E-mail Pequeno-Médio</title>
   <style>
     .email-icon {
       display: inline-flex;
@@ -55,6 +63,7 @@ Hello, my name is John, I'm 20 years old, I'm starting my journey as a front-end
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
   <title>Ícone GitHub Pequeno-Médio</title>
   <style>
     .github-icon {
