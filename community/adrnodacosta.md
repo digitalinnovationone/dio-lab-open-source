@@ -5,7 +5,7 @@ Moro em Fortaleza-CE.
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adrnodacosta)
 
 ## Resumo
-Sou analista de dados geoespaciais com formação em Arquitetura e Urbanismo e  Geotecnologias e Desenvolvimento de SIG - Sistemas de Informação Geográfica. Possuo experiência com análise de legislação urbanística; estudos socioeconômicos e demográficos e de atividades econômicas e imobiliárias; mapeamento e produção de mapas; além de gerenciamento de banco de dados geoespaciais.
+Sou analista de dados geoespaciais com formação em Geotecnologias e Desenvolvimento de SIG - Sistemas de Informação Geográfica; Arquitetura e Urbanismo; e Informática. Possuo experiência com análise de legislação urbanística; estudos socioeconômicos e demográficos e de atividades econômicas e imobiliárias; mapeamento e produção de mapas; além de gerenciamento de banco de dados geoespaciais.
 
 ## Ferramentas
 ![QGIS](https://img.shields.io/badge/qgis-000?style=for-the-badge&logo=qgis)
