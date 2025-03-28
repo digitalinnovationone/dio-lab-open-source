@@ -23,7 +23,7 @@
 
 <br>- I’m taking the [CS50x 🦆](https://pll.harvard.edu/course/cs50-introduction-computer-science) course and participating in a Java & Cloud bootcamp by DIO and Bradesco and also i have courses of [Git & GitHub](https://www.cursoemvideo.com/curso/curso-de-git-e-github/), [Java](https://www.cursoemvideo.com/curso/java-basico/) and [JavaScript](https://www.cursoemvideo.com/curso/javascript/) from [Curso em Vídeo](https://www.cursoemvideo.com/).<br>
 
-<br>- 🚀 I’ve got a few ideas in the works check out my [projects](https://github.com/NicolasOmena/NicolasOmena/projects), maybe one of them can be useful to you, or check out my [repositories](https://github.com/NicolasOmena?tab=repositories to see what i'm studiyng! <br>
+<br>- 🚀 I’ve got a few ideas in the works check out my [projects](https://github.com/NicolasOmena/NicolasOmena/projects), maybe one of them can be useful to you, or check out my [repositories](https://github.com/NicolasOmena?tab=repositories) to see what i'm studiyng! <br>
 
 <br>- 😉 💼 Open to work and collaboration on projects that need a proactive and committed team member.
 
