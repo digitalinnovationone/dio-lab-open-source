@@ -32,6 +32,8 @@ Estou animado em seguir minha carreira na área de tecnologia e continuar aprend
   <hr>
 
   ###
+
+  ![Status](../utils/profile-3d-contrib/profile-night-view.svg)
   
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hercules1997&theme=radical&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hercules1997&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
