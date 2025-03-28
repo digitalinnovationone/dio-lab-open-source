@@ -1,5 +1,5 @@
 **Sobre mim**
-- Me chamo Fernando, estou no nono período de Engenharia Cvil, atualmente trabalho como supervisor de obra em uma construtora, no meu ultimo emprego como gerente operacional em um laboratório de materiais de construção tive contato com a programação e de lá para cá não consegui deixar de estudar. Estou em busca da transição de carreira e acredito que estou no caminho certo.
+- Me chamo Fernando Dias, estou no nono período de Engenharia Cvil, atualmente trabalho como supervisor de obra em uma construtora, no meu ultimo emprego como gerente operacional em um laboratório de materiais de construção tive contato com a programação e de lá para cá não consegui deixar de estudar. Estou em busca da transição de carreira e acredito que estou no caminho certo.
 
 **Conecte-se comigo**
 
