@@ -1,9 +1,9 @@
 # Perfil DIO
 
-## Quem sou eu?!
+## Quem sou eu ?
 Olá, me chamo Rodrigo. Tenho 28 anos e sou de Salvador/Ba. Atuo a 4 anos na área de **Ciência de Dados**, desenvolvendo modelos de Machine learning fazendo uso de tecnologias e conceitos de ponta.  Tenho experiência principalmente com a linguagem Python e nos segmentos de Visão Computacional, Processamento de Linguagem Natural e Series Temporais. Minhas principais atividades envolvem Revisões Sistematicas da Literatura (RSL's), Análise e Tratamento de dados, Modelagem computacional e Apresentação de resultados.
 
-## Conecte-se Comigo
+## Conecte-se Comigo !
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Digu62)
