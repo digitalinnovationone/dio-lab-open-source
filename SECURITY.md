@@ -33,11 +33,11 @@ O prazo de resposta dependerá da complexidade das vulnerabilidades e do volume 
 * add your name in: "Mantenedores do Documento de Segurança".
 * * Follow this Template: [Your Name |()<-your github profile link] - "Mantenedor(a) do Documento de Segurança." Update (day, month, and year): **28/03/2025** *
 * ## Additional Security Practices
-                               Do not enter sensitive personal data in your "username.md". * Do not insert potentially dangerous codes in your contributions
-                                 ## Contact
-                                  * If the email call did not work, try this solution
-                                  * 1. **Open this Link:** https://digitalinnovationone.atlassian.net/servicedesk/customer/portals]
-                                     * 2. **Log in to the page** 3. when moving the scroll to the bottom of the page, there is an option called: "**Recommended Forms**",
-                                       3. and underneath, there is a button: "**Request Help in DIO**", click on it, and open a ticket, wait, because they will answer you.
-                                        ## Mantenedores do Documento de Segurança
-                                          - [Daniel Mitsuo](https://www.github.com/DanMit-Dev) - Criador/Autor original do Documento de Segurança
+   Do not enter sensitive personal data in your "username.md". * Do not insert potentially dangerous codes in your contributions
+## Contact
+* If the email call did not work, try this solution
+* 1. **Open this Link:** https://digitalinnovationone.atlassian.net/servicedesk/customer/portals]
+* 2. **Log in to the page** 3. when moving the scroll to the bottom of the page, there is an option called: "**Recommended Forms**",
+3. and underneath, there is a button: "**Request Help in DIO**", click on it, and open a ticket, wait, because they will answer you.
+## Mantenedores do Documento de Segurança
+- [Daniel Mitsuo](https://www.github.com/DanMit-Dev) - Criador/Autor original do Documento de Segurança
