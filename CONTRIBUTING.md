@@ -26,7 +26,7 @@ Acesse a página principal do repositório e clique no botão "Fork" no canto su
 > Um "fork" no GitHub é uma cópia de um repositório que pode ser criada por qualquer usuário. <br>
 > Para mais detalhes, reveja a aula ou acesse a documentação do GitHub: [Criar fork de um repositório](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo).
 
-### 2) Clone localmente
+### 2) Clone localmente *check update*
 Abra o seu Git Bash e digite o comando `git clone` seguido da URL do seu fork para clonar o seu repositório localmente. Por exemplo:
 ```bash
 git clone https://github.com/SEU_USERNAME/dio-lab-open-source.git
