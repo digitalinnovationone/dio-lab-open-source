@@ -2,7 +2,7 @@ Olá eu sou o Kaique Winicios🖖
 
 -Graduado em sistemas para internet📘 <br>
 -Desenvolvedor Web 🌍 <br>
--Pergunte-me sobre: HTML5, CSS3, JAVASCRIPT, TYPESCRIPT, C, BOOTSTRAP E NODEJS
+
 
  <div>
   <a href="hhttps://github.com/Kaiquew854">
