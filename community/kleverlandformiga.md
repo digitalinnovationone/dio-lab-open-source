@@ -3,7 +3,7 @@
 🎯 **Desenvolvedor e Analista de Sistemas | Especialista em Infraestrutura | Consultor de Tecnologia**
 
 📌 Fortaleza, Brasil  
-📧 [kleverland.sousa@email.com](mailto:kleverland@gmail.com)  
+📧 [kleverland.sousa@gmail.com](mailto:kleverland@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/kleverland-sousa-formiga/) | [GitHub](https://github.com/kleverlandformiga)
 
 ---
