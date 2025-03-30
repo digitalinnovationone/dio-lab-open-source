@@ -1,4 +1,4 @@
-# Olá! Eu sou [Felipe Ferreira De Souza] 👋
+# Olá! Eu sou Felipe Ferreira De Souza 👋
 
 Bem-vindo a minha contribuição do GitHub! Aqui você encontrará um pouco sobre mim.
 
