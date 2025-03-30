@@ -1,0 +1,1 @@
+Me chamo luis, faço Analise e desenvolvimento de sistemas, hoje trabalho com flutter e angular
