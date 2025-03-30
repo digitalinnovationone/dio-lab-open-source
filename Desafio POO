@@ -1,0 +1,496 @@
+from abc import ABC, abstractmethod
+from datetime import datetime
+import textwrap
+import json
+import os
+import sys
+
+
+class Cliente:
+    def __init__(self, endereco):
+        self.endereco = endereco
+        self.contas = []
+
+    def adicionar_conta(self, conta):
+        self.contas.append(conta)
+
+
+class PessoaFisica(Cliente):
+    def __init__(self, nome, data_nascimento, cpf, endereco):
+        super().__init__(endereco)
+        self.nome = nome
+        self.data_nascimento = data_nascimento
+        self.cpf = self.sanitizar_cpf(cpf)
+
+    @staticmethod
+    def sanitizar_cpf(cpf):
+        """Remove todos os caracteres não numéricos do CPF."""
+        return ''.join(filter(str.isdigit, cpf))
+
+    def to_dict(self):
+        """Converte o objeto para um dicionário."""
+        return {
+            "nome": self.nome,
+            "data_nascimento": self.data_nascimento,
+            "cpf": self.cpf,
+            "endereco": self.endereco
+        }
+
+    @classmethod
+    def from_dict(cls, data):
+        """Cria um objeto PessoaFisica a partir de um dicionário."""
+        return cls(
+            nome=data["nome"],
+            data_nascimento=data["data_nascimento"],
+            cpf=data["cpf"],
+            endereco=data["endereco"]
+        )
+
+
+class Historico:
+    def __init__(self):
+        self.transacoes = []
+
+    def registrar(self, transacao):
+        """Adiciona uma transação ao histórico."""
+        self.transacoes.append(transacao)
+
+    def contar_saques(self):
+        """Conta o número de saques realizados."""
+        return sum(1 for t in self.transacoes if t["tipo"] == "Saque")
+
+    def to_list(self):
+        """Converte as transações para uma lista serializável."""
+        transacoes_serializaveis = []
+        for t in self.transacoes:
+            t_serial = t.copy()
+            t_serial["data"] = t_serial["data"].strftime("%d/%m/%Y %H:%M:%S")
+            transacoes_serializaveis.append(t_serial)
+        return transacoes_serializaveis
+
+    @classmethod
+    def from_list(cls, transacoes):
+        """Cria um objeto Historico a partir de uma lista de transações."""
+        historico = cls()
+        for t in transacoes:
+            t["data"] = datetime.strptime(t["data"], "%d/%m/%Y %H:%M:%S")
+            historico.transacoes.append(t)
+        return historico
+
+    def __str__(self):
+        """Retorna uma representação string do histórico."""
+        if not self.transacoes:
+            return "Não foram realizadas movimentações."
+        historico_str = ""
+        for transacao in self.transacoes:
+            data_str = transacao['data'].strftime("%d/%m/%Y %H:%M:%S")
+            historico_str += f"{transacao['tipo']}: R$ {transacao['valor']:.2f} em {data_str}\n"
+        return historico_str
+
+
+class Transacao(ABC):
+    @property
+    @abstractmethod
+    def valor(self):
+        """Valor da transação."""
+        pass
+
+    @abstractmethod
+    def registrar(self, conta):
+        """Registra a transação em uma conta."""
+        pass
+
+
+class Saque(Transacao):
+    def __init__(self, valor):
+        self._valor = valor
+
+    @property
+    def valor(self):
+        return self._valor
+
+    def registrar(self, conta):
+        sucesso_transacao = conta.sacar(self.valor)
+        if sucesso_transacao:
+            conta.historico.registrar({
+                "tipo": "Saque",
+                "valor": self.valor,
+                "data": datetime.now()
+            })
+
+
+class Deposito(Transacao):
+    def __init__(self, valor):
+        self._valor = valor
+
+    @property
+    def valor(self):
+        return self._valor
+
+    def registrar(self, conta):
+        sucesso_transacao = conta.depositar(self.valor)
+        if sucesso_transacao:
+            conta.historico.registrar({
+                "tipo": "Depósito",
+                "valor": self.valor,
+                "data": datetime.now()
+            })
+
+
+class Conta:
+    AGENCIA_PADRAO = "0001"
+
+    def __init__(self, numero, cliente):
+        self._saldo = 0
+        self._agencia = Conta.AGENCIA_PADRAO
+        self._numero = numero
+        self._cliente = cliente
+        self._historico = Historico()
+
+    @classmethod
+    def nova_conta(cls, cliente, numero):
+        return cls(numero, cliente)
+
+    @property
+    def saldo(self):
+        return self._saldo
+
+    @property
+    def numero(self):
+        return self._numero
+
+    @property
+    def agencia(self):
+        return self._agencia
+
+    @property
+    def cliente(self):
+        return self._cliente
+
+    @property
+    def historico(self):
+        return self._historico
+
+    def sacar(self, valor):
+        excedeu_saldo = valor > self._saldo
+
+        if excedeu_saldo:
+            print("\n@@@ Operação falhou! Você não tem saldo suficiente. @@@")
+            return False
+
+        elif valor > 0:
+            self._saldo -= valor
+            print("\n=== Saque realizado com sucesso! ===")
+            return True
+
+        else:
+            print("\n@@@ Operação falhou! O valor informado é inválido. @@@")
+            return False
+
+    def depositar(self, valor):
+        if valor > 0:
+            self._saldo += valor
+            print("\n=== Depósito realizado com sucesso! ===")
+            return True
+        else:
+            print("\n@@@ Operação falhou! O valor informado é inválido. @@@")
+            return False
+
+    def exibir_extrato(self):
+        print("\n---------- EXTRATO ----------")
+        print(self._historico)
+        print(f"Saldo: R$ {self._saldo:.2f}")
+        print("---------------------------------")
+
+    def to_dict(self):
+        """Converte o objeto para um dicionário."""
+        return {
+            "numero": self._numero,
+            "agencia": self._agencia,
+            "saldo": self._saldo,
+            "cliente_cpf": self._cliente.cpf,
+            "historico": self._historico.to_list()
+        }
+
+    @classmethod
+    def from_dict(cls, data, usuarios):
+        """Cria um objeto Conta a partir de um dicionário."""
+        cliente = filtrar_usuario(data["cliente_cpf"], usuarios)
+        if not cliente:
+            print(f"Cliente com CPF {data['cliente_cpf']} não encontrado. Conta ignorada.")
+            return None
+        conta = cls(data["numero"], cliente)
+        conta._saldo = data["saldo"]
+        conta._agencia = data["agencia"]
+        conta._historico = Historico.from_list(data["historico"])
+        return conta
+
+
+class ContaCorrente(Conta):
+    def __init__(self, numero, cliente, limite=500, limite_saques=3):
+        super().__init__(numero, cliente)
+        self.limite = limite
+        self.limite_saques = limite_saques
+
+    def sacar(self, valor):
+        numero_saques = len(
+            [transacao for transacao in self.historico.transacoes if transacao["tipo"] == "Saque"]
+        )
+
+        excedeu_limite = valor > self.limite
+        excedeu_saques = numero_saques >= self.limite_saques
+
+        if excedeu_limite:
+            print("\n@@@ Operação falhou! O valor do saque excede o limite. @@@")
+            return False
+
+        elif excedeu_saques:
+            print("\n@@@ Operação falhou! Número máximo de saques excedido. @@@")
+            return False
+
+        else:
+            return super().sacar(valor)
+
+    def __str__(self):
+        return f"""\
+Agência:\t{self.agencia}
+C/C:\t\t{self.numero}
+Titular:\t{self.cliente.nome}
+Saldo:\t\tR$ {self.saldo:.2f}
+"""
+
+
+def carregar_dados():
+    """Carrega dados de usuários e contas a partir de arquivos JSON."""
+    usuarios = []
+    contas = []
+    if os.path.exists("usuarios.json"):
+        try:
+            with open("usuarios.json", "r", encoding="utf-8") as f:
+                usuarios_data = json.load(f)
+                for u in usuarios_data:
+                    usuario = PessoaFisica.from_dict(u)
+                    usuarios.append(usuario)
+        except json.JSONDecodeError:
+            print("Erro ao ler o arquivo usuarios.json. Verifique a integridade do arquivo.")
+            sys.exit(1)
+    if os.path.exists("contas.json"):
+        try:
+            with open("contas.json", "r", encoding="utf-8") as f:
+                contas_data = json.load(f)
+                for c in contas_data:
+                    conta = Conta.from_dict(c, usuarios)
+                    if conta:
+                        contas.append(conta)
+        except json.JSONDecodeError:
+            print("Erro ao ler o arquivo contas.json. Verifique a integridade do arquivo.")
+            sys.exit(1)
+    # Debug: Imprimir usuários carregados
+    print(f"Usuários carregados: {[usuario.cpf for usuario in usuarios]}")
+    return usuarios, contas
+
+
+def salvar_dados(usuarios, contas):
+    """Salva dados de usuários e contas em arquivos JSON."""
+    usuarios_data = [u.to_dict() for u in usuarios]
+    contas_data = [c.to_dict() for c in contas]
+    try:
+        with open("usuarios.json", "w", encoding="utf-8") as f:
+            json.dump(usuarios_data, f, ensure_ascii=False, indent=4)
+        with open("contas.json", "w", encoding="utf-8") as f:
+            json.dump(contas_data, f, ensure_ascii=False, indent=4)
+    except Exception as e:
+        print(f"Erro ao salvar dados: {e}")
+        sys.exit(1)
+
+
+def menu():
+    """Exibe o menu e retorna a opção selecionada."""
+    menu_text = """\n 
+    ---------- MENU ----------
+    [d]\tDepositar
+    [s]\tSacar
+    [e]\tExtrato
+    [nc]\tNova Conta
+    [lc]\tListar Contas
+    [nu]\tNovo Usuário
+    [q]\tSair
+
+    > """
+    return input(textwrap.dedent(menu_text)).strip().lower()
+
+
+def criar_usuario(usuarios):
+    """Cria um novo usuário."""
+    print("\n--- Criação de Novo Usuário ---")
+    cpf = input("Informe o CPF (somente números ou com pontos e traços): ").strip()
+    cpf_sanitizado = PessoaFisica.sanitizar_cpf(cpf)
+    if not cpf_sanitizado.isdigit() or len(cpf_sanitizado) != 11:
+        print("CPF inválido. Deve conter 11 dígitos numéricos.")
+        return None
+    if filtrar_usuario(cpf_sanitizado, usuarios):
+        print("Já existe um usuário com este CPF!")
+        return None
+
+    nome = input("Informe o nome completo: ").strip()
+    data_nascimento = input("Informe a data de nascimento (DD-MM-AAAA): ").strip()
+    # Validação simples da data
+    try:
+        datetime.strptime(data_nascimento, "%d-%m-%Y")
+    except ValueError:
+        print("Data de nascimento inválida. Utilize o formato DD-MM-AAAA.")
+        return None
+    endereco = input("Informe o endereço (logradouro, n° - bairro - cidade/sigla do estado): ").strip()
+
+    usuario = PessoaFisica(nome, data_nascimento, cpf_sanitizado, endereco)
+    usuarios.append(usuario)
+    print("Usuário criado com sucesso.")
+    return usuario
+
+
+def filtrar_usuario(cpf, usuarios):
+    """Filtra e retorna um usuário pelo CPF."""
+    cpf_sanitizado = ''.join(filter(str.isdigit, cpf))
+    return next((usuario for usuario in usuarios if usuario.cpf == cpf_sanitizado), None)
+
+
+def criar_conta(agencia, numero_conta, usuarios):
+    """Cria uma nova conta para um usuário existente."""
+    print("\n--- Criação de Nova Conta ---")
+    cpf = input("Digite o CPF do usuário: ").strip()
+    cpf_sanitizado = ''.join(filter(str.isdigit, cpf))
+    usuario = filtrar_usuario(cpf_sanitizado, usuarios)
+
+    if usuario:
+        conta = Conta.nova_conta(usuario, numero_conta)
+        usuario.adicionar_conta(conta)
+        print("Conta criada com sucesso.")
+        return conta
+
+    print("Usuário não encontrado. Criação de conta cancelada!")
+    return None
+
+
+def listar_contas(contas):
+    """Lista todas as contas cadastradas."""
+    if not contas:
+        print("Não há contas cadastradas.")
+        return
+
+    print("\n--- Listagem de Contas ---")
+    for conta in contas:
+        print("= " * 30)
+        print(conta)  # Utiliza o método __str__ de ContaCorrente ou Conta
+    print("= " * 30)
+
+
+def gerar_numero_conta(contas):
+    """Gera um número de conta único."""
+    if not contas:
+        return 1
+    else:
+        return max(conta.numero for conta in contas) + 1
+
+
+def limpar_tela():
+    """Limpa a tela de acordo com o sistema operacional."""
+    os.system('cls' if os.name == 'nt' else 'clear')
+
+
+def main():
+    """Função principal que gerencia o fluxo do programa."""
+    LIMITE_SAQUES = 3
+    LIMITE_VALOR_SAQUE = 500
+    usuarios, contas = carregar_dados()
+    numero_conta = gerar_numero_conta(contas)
+
+    while True:
+        opcao = menu()
+
+        if opcao == "d":
+            if not contas:
+                print("Não há contas disponíveis. Crie uma conta primeiro.")
+                continue
+            try:
+                numero = int(input("Digite o número da conta: ").strip())
+            except ValueError:
+                print("Número de conta inválido. Deve ser um número inteiro.")
+                continue
+            conta = next((c for c in contas if c.numero == numero), None)
+            if not conta:
+                print("Conta não encontrada.")
+                continue
+            try:
+                valor = float(input("Informe o valor do depósito: ").strip())
+            except ValueError:
+                print("Valor inválido. Deve ser um número.")
+                continue
+            transacao = Deposito(valor)
+            transacao.registrar(conta)
+
+        elif opcao == "s":
+            if not contas:
+                print("Não há contas disponíveis. Crie uma conta primeiro.")
+                continue
+            try:
+                numero = int(input("Digite o número da conta: ").strip())
+            except ValueError:
+                print("Número de conta inválido. Deve ser um número inteiro.")
+                continue
+            conta = next((c for c in contas if c.numero == numero), None)
+            if not conta:
+                print("Conta não encontrada.")
+                continue
+            try:
+                valor = float(input("Informe o valor do saque: ").strip())
+            except ValueError:
+                print("Valor inválido. Deve ser um número.")
+                continue
+            transacao = Saque(valor)
+            transacao.registrar(conta)
+
+        elif opcao == "e":
+            if not contas:
+                print("Não há contas disponíveis. Crie uma conta primeiro.")
+                continue
+            try:
+                numero = int(input("Digite o número da conta: ").strip())
+            except ValueError:
+                print("Número de conta inválido. Deve ser um número inteiro.")
+                continue
+            conta = next((c for c in contas if c.numero == numero), None)
+            if not conta:
+                print("Conta não encontrada.")
+                continue
+            conta.exibir_extrato()
+
+        elif opcao == "nu":
+            criar_usuario(usuarios)
+
+        elif opcao == "nc":
+            if not usuarios:
+                print("Não há usuários disponíveis. Crie um usuário primeiro.")
+                continue
+            agencia = Conta.AGENCIA_PADRAO
+            conta = criar_conta(agencia, numero_conta, usuarios)
+            if conta:
+                contas.append(conta)
+                numero_conta += 1  # Incrementa o número da conta para a próxima criação
+
+        elif opcao == "lc":
+            listar_contas(contas)
+
+        elif opcao == "q":
+            salvar_dados(usuarios, contas)
+            print("Saindo...")
+            break
+
+        else:
+            print("Operação inválida, por favor selecione novamente a operação desejada.")
+
+        input("\nPressione Enter para continuar...")
+        limpar_tela()
+
+
+if __name__ == "__main__":
+    main()
