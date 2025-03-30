@@ -4,8 +4,12 @@
 
 ## Outras seções comuns em perfis do GitHub
 🧠 Estou aprimorando meus conhecimentos em servidores linux e desenvolvimento web
+
 🤔 Quero colaborar em projetos de software livre
-📫 O e-mail é a melhor forma de me contatar## 🛠 Habilidades
+
+📫 O e-mail é a melhor forma de me contatar## 
+
+🛠 Habilidades
 C#, PHP, Linux.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=leonardodtbr&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
