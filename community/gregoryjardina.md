@@ -1,8 +1,5 @@
 <<<<<<< HEAD
 # Projeto de perfil - Gregory Jardina
-=======
-# Projeto de perfil - Lord Grégory
->>>>>>> d0e778b892ed614a674430d0f40a9084de8a3a47
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregoryporto/)
 
@@ -80,7 +77,7 @@ Repositórios no GitHub: Desenvolvimento de projetos em Python, IoT, redes, DevO
 
 🎓 Formação Acadêmica
 
-Graduação em Análise e Desenvolvimento de Sistemas (cursando éltimo semestre)
+Graduação em Análise e Desenvolvimento de Sistemas (cursando último semestre)
 
 🎯 Objetivos
 
