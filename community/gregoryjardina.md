@@ -1,4 +1,4 @@
-#Projeto do Lord Gregor
+#Projeto do Lord Gregory
 
 ##Conect-se comigo
 
