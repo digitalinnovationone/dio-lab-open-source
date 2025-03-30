@@ -1,0 +1,1 @@
+## 🚀 About Me ### Vinicius Luis Bin Desenvolvedor iOS no Banco Itaú ## 🛠 Skills ![Swift](https://img.shields.io/badge/swift-F05138?&style=flat&logo=swift&logoColor=white) ## 🔗 Links [![linkedin](https://img.shields.io/badge/Linkedin-2480E6?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-bin/)
