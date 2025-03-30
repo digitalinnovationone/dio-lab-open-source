@@ -1,4 +1,4 @@
-# Olá, eu sou a Leonardo! 👋
+# Olá, eu sou Leonardo Bitencourt! 👋
 
 ## 🚀 Sobre mimSou graduado em Tecnologias da Informação e Comunicação. Meu foco foi por muito tempo C# e estou regressando os estudos na área.
 
