@@ -1,7 +1,7 @@
 
 # Pablo Carmo
 
-Olá! Me chamo Pablo Henrique, tenho 26 anos e atualmente sou estudante do 5º semestre de Ciência da Computação pelo Centro Universitário das Américas. No momento estou me aprofundando em Java e Spring Boot.
+Olá! Me chamo Pablo Carmo, tenho 26 anos e atualmente sou estudante do 5º semestre de Ciência da Computação pelo Centro Universitário das Américas. No momento estou me aprofundando em Java e Spring Boot.
 
 Sou um amante do automobilismo (em especial o Endurance), esports e música eletrônica. 
 
