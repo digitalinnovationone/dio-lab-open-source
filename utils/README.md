@@ -30,10 +30,22 @@
     </tr>
     <tr>
       <td>02</td>
+      <td>Custom Icon Badges</td>
+      <td align="center">
+        <a href="https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/badges/custom-badges.md">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Exemplos-E94D5F?style=for-the-badge">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">Custom Icon Badges</a>
+      </td>
+    </tr>
+    <tr>
+      <td>03</td>
       <td>Cards GitHub Stats</td>
       <td align="center">
         <a href="https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-stats.md">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Exemplos-E94D5F?style=for-the-badge">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Exemplos-30A3DC?style=for-the-badge">
         </a>
       </td>
       <td>
@@ -41,11 +53,11 @@
       </td>
     </tr>
     <tr>
-      <td>03</td>
+      <td>04</td>
       <td>Cards GitHub Streak Stats</td>
       <td align="center">
         <a href="https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-streak-stats.md">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Exemplos-30A3DC?style=for-the-badge">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Exemplos-E94D5F?style=for-the-badge">
         </a>
       </td>
       <td>
@@ -59,6 +71,7 @@
 
 ## Links Úteis
 - [Guia sobre Markdown do GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
-- [Onde encontrar Badges legais para o seu Perfil](https://github.com/Ileriayo/markdown-badges#markdown-badges) 
+- [Onde encontrar Badges legais para o seu Perfil](https://github.com/Ileriayo/markdown-badges#markdown-badges)
+- [Custom Icon Badges by @DenverCoder1](https://github.com/DenverCoder1/custom-icon-badges?tab=readme-ov-file)
+- [More Badges](https://github.com/Envoy-VC/awesome-badges)
 - [Gerador automático de Readme para GitHub](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-
