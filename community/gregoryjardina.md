@@ -82,4 +82,3 @@ Graduação em Análise e Desenvolvimento de Sistemas (cursando éltimo semestre
 
 Continuar minha trajetória de aprendizado, com certificações em DevOps e cibersegurança
 Tornar-me especialista nas áreas de cloud computing e IoT para aplicar inteligência artificial em diferentes contextos
-
