@@ -23,9 +23,9 @@
 
 <p align="center">
   <a href="https://github.com/gabrielbschutz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-gabrielbschutz-black?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-gabrielbschutz-black?style=for-the-badge&logo=github" alt="GitHub" style="border: none;" />
   </a>
   <a href="https://www.linkedin.com/in/gabrielbschutz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-gabrielbschutz-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-gabrielbschutz-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="border: none;" />
   </a>
 </p>
