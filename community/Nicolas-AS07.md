@@ -3,6 +3,12 @@
 
 Olá, me chamo Nicolas Alves, tenho 18 anos e concluí o terceiro ano do ensino médio no ano passado. Fui integrante do Instituto da Oportunidade Social (IOS), onde participei de um curso profissionalizante em Desenvolvimento Web. Meu primeiro contato com a programação foi através da plataforma Curso em Vídeo, do professor Gustavo Guanabara, e desde então venho aprimorando meus conhecimentos na área. Atualmente, estou focado em pesquisa e desenvolvimento nas áreas de back-end, automações e criação de IAs, buscando aprimorar minhas habilidades e expandir meu domínio sobre essas tecnologias.
 
+# Contato
+
+
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-alves-da-silva/) | [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:nicolasalvessilva06@gmail.com) | 	[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolas__a.silva/) |
+|---|---|---|
+
 # Habilidades
 #### **Linguagens de Marcação e Programação**
 
