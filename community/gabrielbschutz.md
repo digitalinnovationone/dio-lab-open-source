@@ -22,10 +22,10 @@
 <h2>Me encontre nas redes sociais</h2>
 
 <p align="center">
-  <a href="https://github.com/gabrielbschutz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-gabrielbschutz-black?style=for-the-badge&logo=github" alt="GitHub" style="border: none;" />
+  <a href="https://github.com/gabrielbschutz" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/GitHub-gabrielbschutz-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/gabrielbschutz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-gabrielbschutz-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="border: none;" />
+    <img src="https://img.shields.io/badge/LinkedIn-gabrielbschutz-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
