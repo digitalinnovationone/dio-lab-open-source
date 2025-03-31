@@ -88,6 +88,9 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
 | `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
 
+## Contribuição ✨
+
+Ajude a comunidade tornando este projeto ainda mais incrível. Leia como contribuir clicando **[aqui](https://github.com/iuricode/recursos-gratuitos/blob/main/CONTRIBUTING.md)** e a **[licença](https://github.com/iuricode/recursos-gratuitos/blob/main/LICENSE.md)**. Estou convencido de que juntos alcançaremos coisas incríveis!
 
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
