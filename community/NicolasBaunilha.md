@@ -2,6 +2,9 @@
   <a href="https://www.linkedin.com/in/nicolas-barboza-880aba34a/" style="color: #8A9A5B !important; text-decoration: none;"> Nicolas Barboza Baunilha Dias </a>
 </h1>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-barboza-880aba34a/)
+[![Gmail](https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasbaunilha2@gmail.com)
+
 ## Who am I?
 Hello there! My name is **Nicolas Baunilha**, I am 19 years old, and I recently decided to migrate my professional career to technology. I was studying Physical Education; however, I didn’t like the field. So, while looking for a new path, I discovered the technology sector, especially software development.
 
