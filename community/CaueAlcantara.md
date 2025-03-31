@@ -1,4 +1,4 @@
-# Olá, seja bem-vindo(a)! 😃
+# Olá, seja bem-vindo(a)!! 😃
 
 Meu nome é Cauê Alcântara, tenho 22 anos e sou estudante de engenharia de software. Meu contato inicial no mundo da programação começou aos 15, quando comecei o curso tecnico de informática, desde então sigo estudando e me desenvolvendo cada dia mais!
 
