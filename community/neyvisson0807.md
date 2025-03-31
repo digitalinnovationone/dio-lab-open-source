@@ -10,7 +10,7 @@ então acabei começando agora, em pleno 2025. Por isso,
 ainda não tenho muita coisa no meu repositório, mas 
 estou trabalhando para mudar isso. Quero expandir meus 
 conhecimentos em programação, desenvolvimento e boas 
-práticas, me preparando cada vez mais para os desafios 
+práticas, me preparando cada vez mais para os desafios
 do mercado. 🚀
 
 ## Connect-se comigo 
