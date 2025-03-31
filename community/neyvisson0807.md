@@ -2,7 +2,7 @@
 Meu nome é Neyvisson Oliveira dos Santos, tenho 22 
 anos e sou estudante de Bacharelado em Ciência da
 Computação (BCC). Sempre busco aprender mais e me
-aprimorar na área de tecnologia, por isso estou 
+aprimorar na área de tecnologia, por isso estou
 participando do projeto da DIO.
 
 Na faculdade, o uso do GitHub não é tão enfatizado, 
