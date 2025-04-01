@@ -1,22 +1,23 @@
-Bassiro-pro
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=50&center=true&vCenter=true&width=1000&lines=Bassiro+Nanque;Estudante+de+Ciência+da+Computação;Bem-vindo+ao+Meu+Perfil+no+GitHub)
 
-Conecte-se comigo  
+Atualmente, sou estudante de Ciência da Computação no Centro Universitário FAM, cursando o 3º semestre. Desde cedo, tenho paixão por aprender e enfrentar desafios, pois acredito que essas experiências são fundamentais para meu crescimento e desenvolvimento profissional na aréa da tecnologia.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bassiro-nanque-b4070a330?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLb5PeA16Rk63Tv%2Bdrq7C7Q%3D%3D) 
+## 📬 Conecte-se comigo
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511990000919)
-Habilidades
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bassiro-nanque-b4070a330)  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/Bassiro-prog)
 
+### GitHub Stats
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bassiro-prog&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+## 📊 Habilidades
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)  [![Oracle](https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bassiro-prog&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
-GitHub Stat
+## 📈 Estatística do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bassiro-prog&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
-Minhas Contribuições
+## 📌 Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Bassiro-prog&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Bassiro-prog/dio-lab-open-source)
