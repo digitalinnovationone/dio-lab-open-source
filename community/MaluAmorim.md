@@ -40,6 +40,8 @@ Front-end / back-end developer<img width="40" height="40" src="https://img.icons
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
+![Cobol](https://img.shields.io/badge/Cobol-000?style=for-the-badge&logo=3B8EA5)
+
 </div>
 <br>
 
@@ -60,7 +62,7 @@ Front-end / back-end developer<img width="40" height="40" src="https://img.icons
 <div style="display: flex; justify-content: center align-items:center; justify-content: space-around">
 <br>
 
-![HTML5](https://img.shields.io/badge/Pixel_Art-000?style=for-the-badge&logo=3B8EA5)
+![PixelArt](https://img.shields.io/badge/Pixel_Art-000?style=for-the-badge&logo=3B8EA5)
 
 </div>
 <br>
