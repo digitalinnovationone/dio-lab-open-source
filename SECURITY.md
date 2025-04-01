@@ -40,4 +40,4 @@ O prazo de resposta dependerá da complexidade das vulnerabilidades e do volume 
 * 2. **Log in to the page** 3. when moving the scroll to the bottom of the page, there is an option called: "**Recommended Forms**",
 3. and underneath, there is a button: "**Request Help in DIO**", click on it, and open a ticket, wait, because they will answer you.
 ## Mantenedores do Documento de Segurança
-- [Daniel Mitsuo](https://www.github.com/DanMit-Dev) - Criador/Autor original do Documento de Segurança
+- [Daniel Mitsuo](https://www.github.com/DanielMitsuo-Official) - Criador/Autor original do Documento de Segurança
