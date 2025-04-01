@@ -1,6 +1,6 @@
 ### Olá, eu sou Menrry Santana (Menrry) 👋
 
-✨ **Engenheiro Eletrônico em Computação.** Com ampla experiência em eletromedicina e equipamentos de imagem médica de alta tecnologia. Entrando com muita paixão no mundo da Programação na [DIO](https://www.dio.me/users/msantanalacruz). Com conhecimento e alguns projetos em desenvolvimento backend Java orientado a objetos, Spring Boot, integração de aplicações Java com bancos de dados, ciência de dados e análise de dados. Possui conhecimento em processamento e análise de dados utilizando Python Pandas, além de experiência em análise de dados na nuvem Oracle ADS, adquirido através mídia autodidata e do programa Oracle+Alura.
+✨ **Engenheiro Eletrônico em Computação.** Com ampla experiência em eletromedicina, equipamentos de imagem médica de alta tecnologia e programação de baixo nível "Assembler" Pics e Atmel. Entrando com muita paixão no mundo da Programação na [DIO](https://www.dio.me/users/msantanalacruz). Com conhecimento e alguns projetos em desenvolvimento backend Java orientado a objetos, Spring Boot, integração de aplicações Java com bancos de dados, ciência de dados e análise de dados. Possui conhecimento em processamento e análise de dados utilizando Python Pandas, além de experiência em análise de dados na nuvem Oracle ADS, adquirido através mídia autodidata e do programa Oracle+Alura.
 
 🏢 **Atuação Profissional**
 - 🚀 Engenheiro Eletrônico em Computação no [UNY](https://www.uny.edu.ve/)
