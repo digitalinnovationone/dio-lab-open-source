@@ -11,7 +11,7 @@ Front-end / back-end developer<img width="40" height="40" src="https://img.icons
 
 <h2>Social media<h2>
 
-<div style="display: flex justify-content: center; e align-items:center;">
+<div style="display: flex; justify-content: center align-items:center; justify-content: space-around">
 <br>
 
 [![Perfil DIO](https://img.shields.io/badge/-My%20Profile%20on%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/maluar1/)
@@ -27,7 +27,7 @@ Front-end / back-end developer<img width="40" height="40" src="https://img.icons
 
 <h2>Programming Languages and Frameworks/libraries<h2>
 
-<div style="display: flex justify-content: center; e align-items:center;">
+<div style="display: flex; justify-content: center align-items:center; justify-content: space-around">
 <br>
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -45,7 +45,7 @@ Front-end / back-end developer<img width="40" height="40" src="https://img.icons
 
 <h2>Markup and Style Languages<h2>
 
-<div style="display: flex justify-content: center; e align-items:center;">
+<div style="display: flex; justify-content: center align-items:center; justify-content: space-around">
 <br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
@@ -57,7 +57,7 @@ Front-end / back-end developer<img width="40" height="40" src="https://img.icons
 
 <h2>Digital Art<h2>
 
-<div style="display: flex justify-content: center; e align-items:center;">
+<div style="display: flex; justify-content: center align-items:center; justify-content: space-around">
 <br>
 
 ![HTML5](https://img.shields.io/badge/Pixel_Art-000?style=for-the-badge&logo=3B8EA5)
@@ -67,7 +67,7 @@ Front-end / back-end developer<img width="40" height="40" src="https://img.icons
 
 <h2>Tools<h2>
 
-<div style="display: flex justify-content: center; e align-items:center;">
+<div style="display: flex; justify-content: center align-items:center; justify-content: space-around">
 <br>
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -86,7 +86,7 @@ Front-end / back-end developer<img width="40" height="40" src="https://img.icons
 <div>
 <br>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MaluAmorim&bg_color=000&border_color=&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MaluAmorim&bg_color=000&border_color=&title_color=3B8EA5&text_color=FFF)
 
 </div>
 <br>
@@ -96,6 +96,6 @@ Front-end / back-end developer<img width="40" height="40" src="https://img.icons
 <div>
 <br>
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=3B8EA5&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
 
 </div>
