@@ -9,6 +9,8 @@ Página desenvolvida para fins didáticos para o curso **Contribuindo em um Proj
 
 [![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
 
+git chechout -b feat/community/seunomedousuario
+
 ```
 docs/
 ├── assets/
@@ -20,15 +22,6 @@ docs/
 ├── index.html
 └── README.md
 
-docs/
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   └── js/
-│       └── scripts.js
-├── favicon.ico
-├── index.html
-└── README.md
 
 ```
 
