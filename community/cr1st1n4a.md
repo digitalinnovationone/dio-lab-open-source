@@ -3,7 +3,7 @@
 
 💻 Desenvolvedora Full-Stack em formação.
 
-🎓 Formada em Desenvolvimento de Software pelo Senac, com foco em PHP.
+🎓 Formada em Desenvolvimento Web pelo Senac, com foco em PHP.
 
 📚 Atualmente cursando Análise e Desenvolvimento de Sistemas pela Unopar.
 
