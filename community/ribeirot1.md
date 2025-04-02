@@ -36,8 +36,22 @@ Atualmente, estou fazendo cursos para programação back end voltado para WEB **
   
 
 ## 🛠️ Tecnologias e Ferramentas
+<<<<<<< HEAD
 
 ![PL](https://img.shields.io/badge/PL%2FSQL-000?style=for-the-badge&logo=node.js&logoColor=white) ![Delphi](https://img.shields.io/badge/Delphi-000?style=for-the-badge&logo=delphi&logoColor=white) ![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git) ![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-000?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+=======
+![PL](https://img.shields.io/badge/PL%2FSQL-000?style=for-the-badge&logo=node.js&logoColor=white) 
+![Delphi](https://img.shields.io/badge/Delphi-000?style=for-the-badge&logo=delphi&logoColor=white) 
+![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) 
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) 
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js) 
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) 
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git) 
+![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=white) 
+![Vscode](https://img.shields.io/badge/Vscode-000?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+>>>>>>> 775cf6f4557c1f810dcf021bbf141fb083dbcfa7
 ### Entre outros estudos.... ###
 
 ## 📊 Estatísticas do GitHub
@@ -51,7 +65,7 @@ Atualmente, estou fazendo cursos para programação back end voltado para WEB **
 ## 🌐 Vamos Conectar?
 
 <h1> 
-  <a href="https://www.linkedin.com/in/thiago-ribeirot-silva/" style="color: #f00 !important; text-decoration: none; color: inherit;">
+  <a href="https://www.linkedin.com/in/thiago-ribeirot-silva/" style="color: #008000 !important; text-decoration: none; color: inherit;">
     <span>LinkedIn - Thiago Ribeiro da Silva</span>
   </a>
 </h1>
