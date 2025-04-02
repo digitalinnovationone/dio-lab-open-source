@@ -1,4 +1,4 @@
-# Olá, meu nome é Thiago ribeiro da Silva.
+# Olá, meu nome é Thiago Ribeiro da Silva.
 
   
 
