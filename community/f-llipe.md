@@ -6,7 +6,7 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 
 Sou formado em Ciências da Computação e trabalho como Auxiliar de Suporte de TI a 4 anos. Atualmente estou estudando e buscando migrar para a área de Análise de Dados.
 
-## Sociais
+## Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fellipej/)
 
