@@ -17,6 +17,7 @@ Experiência Adicional:
  -Aplicação de metodologias ágeis para entregas mais eficientes e colaborativas.
  -Foco em usabilidade e performance no desenvolvimento de soluções web.
  -Criação de containers e pipelines de CI/CD para agilizar o processo de entrega contínua.
+ 
 Conclusão:
 
 Sou movido pela vontade de inovar e pela curiosidade em aprender novas tecnologias e tendências de mercado. Estou sempre em busca de desafios que me permitam aplicar minhas habilidades técnicas em projetos que gerem impacto real, tanto para as empresas quanto para a sociedade como um todo.
