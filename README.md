@@ -21,7 +21,7 @@ Aprender o básico sobre contribuição no GitHub.
   <thead>
     <tr align="left">
       <th>Nº</th>
-      <th>Etapas</th>
+      <th>Etapas</th> 
     </tr>
   </thead>
   <tbody align="left">
@@ -84,7 +84,7 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
  
 ⚠️ Resolvendo, respondendo ou indicando **issues**
 
-⭐ Adicionando aos favoritos (**star**) 
+⭐ Adicionando aos favoritos (**star**)  
 
 ### Membros da comunidade que já contribuiram:
 <a href="https://github.com/digitalinnovationone/dio-lab-open-source/graphs/contributors">
