@@ -1,7 +1,10 @@
 
 ## PEDRO AUGUSTO BORGES DE SÁ👩‍💻
 
-Olá! meu nome é Pedro augusto,amo tecnologia e atualmente estou cursando Análise e Desenvolvimento de Sistemas 👨‍🎓,Pretendendo atuar na área Backend🥇.Adoro jogar basquete🏀 e escutar música 🎶.
+***Olá! Meu nome é Pedro Augusto. Amo tecnologia e, atualmente, estou cursando Análise e Desenvolvimento de Sistemas 👨‍🎓, pretendendo atuar na área de Backend🥇.***
+
+
+*Curiosidade sobre mim: Adoro jogar basquete🏀 e escutar música 🎶.*
 
 ## ESTUDANDO||👨‍💻:
 
