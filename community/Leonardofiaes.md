@@ -28,7 +28,6 @@
   
 > Estou constantemente buscando novos desafios e oportunidades para expandir meu conhecimento e habilidades. Se você está em busca de um profissional apaixonado, dedicado e experiente para impulsionar seus projetos de tecnologia, estou aqui para ajudar. Vamos construir algo incrível juntos!
 </i>
-
 <br />
 
 
