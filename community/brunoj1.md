@@ -1,3 +1,0 @@
-# Bruno Yamasaki
-
-## Dev
