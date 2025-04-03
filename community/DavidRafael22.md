@@ -1,5 +1,5 @@
 # DavidRafael22
-  Sou uma pessoa alegre, dedicada, e tenho muita vontade de aprender, me formei em redes de computadores nunca trabalhei em nenhuma aréa realcionada a T.I, atualmente estou embusca de uma oportunidade, estudando programação.
+  Sou uma pessoa alegre, dedicada, e tenho muita vontade de aprender, me formei em redes de computadores nunca trabalhei em nenhuma aréa realcionada a T.I, atualmente estou embusca de uma oportunidade, estudando programação e dando sempre meu melhor.
 
 ## conecte-se Comigo
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:davidrafael22@mail.com   )
