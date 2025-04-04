@@ -5,7 +5,7 @@
 
 *Hey there! Before I dive into sharing a bit about myself, I want to make sure you know how to reach out to me. Don't hesitate to connect through any of the channels listed below:* 
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+555194729621) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+nooo) 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:mnolascomojica@gmail.com)
 
 *Before I spill the beans about myself, let me introduce... drumroll ... me!* 🥁
