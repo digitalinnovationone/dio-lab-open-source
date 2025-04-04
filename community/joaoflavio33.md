@@ -16,3 +16,8 @@ Hello, my name is John, I'm 20 years old, I'm starting my journey as a front-end
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width: 24px; height: 24px; margin-right: 8px;">
   Meu LinkedIn
 </a>
+
+<a href="mailto:joaoflavio4002@gmail.com" style="text-decoration: none; display: inline-flex; align-items: center;">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" style="width: 24px; height: 24px; margin-right: 8px;">
+  Enviar e-mail
+</a>
