@@ -11,3 +11,8 @@ Hello, my name is John, I'm 20 years old, I'm starting my journey as a front-end
 # Conecte-se Comigo
 
 <a href="https://wa.me/5571996101697" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center;"> <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" style="width: 24px; height: 24px; margin-right: 8px;"> Fale comigo no WhatsApp </a>
+
+<a href="https://www.linkedin.com/in/jo%C3%A3o-fl%C3%A1vio-patriarcha-nascimento-43b072289/" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center;">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width: 24px; height: 24px; margin-right: 8px;">
+  Meu LinkedIn
+</a>
