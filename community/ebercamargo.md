@@ -6,8 +6,9 @@
 <p align="center">💻 Desenvolvedor FullSatck!</p>
 
 <p align="center">
-Desenvolvedor Full Stack | ReactJS | Java | C# .NET | JSF | Flutter | Quarkus | Node.js | Vue
----
+  <p>
+  Desenvolvedor Full Stack | ReactJS | Java | C# .NET | JSF | Flutter | Quarkus | Node.js | Vue
+  </p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" alt=".NET" />
