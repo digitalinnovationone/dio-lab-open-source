@@ -1,7 +1,11 @@
 # Maria Vitória Conegundes de Sá
 
 ## Sobre mim:
-    Tenho 19 anos, e estou em busca de transição de carreira para a área de programação. Estou sempre em busca de novos conhecimentos, sejam eles de qualquer área, pois para mim, saber nunca é demais. Atualmente estou cursando Engenharia na Universidade Federal Fluminense, buscando troca de curso para Ciências da Computação, onde acredito me integrar melhor. Tenho como primeiras experiências na área o estudo de robótica e de HTML, onde me dediquei a criação de projetos divertidos e funcionais. Possuo como hobbies a dança, música e scrapbook, onde tenho a oportunidade de exercitar minha criatividade.
+    Tenho 19 anos, e estou em busca de transição de carreira para a área de programação. 
+    Estou sempre em busca de novos conhecimentos, sejam eles de qualquer área, pois para mim, saber nunca é demais. 
+    Atualmente estou cursando Engenharia na Universidade Federal Fluminense, buscando troca de curso para Ciências da Computação, onde acredito me integrar melhor. 
+    Tenho como primeiras experiências na área o estudo de robótica e de HTML, onde me dediquei a criação de projetos divertidos e funcionais. 
+    Possuo como hobbies a dança, música e scrapbook, onde tenho a oportunidade de exercitar minha criatividade.
 
 ## Habilidades: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
