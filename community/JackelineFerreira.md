@@ -16,6 +16,7 @@ Estudante de Tecnologia | Apaixonada por Motos e Inovação | Em transição de 
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:conecta.online9891@gmail.com)
 
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/@jaacky_Ferreira/)
 ---
 
 ## 📌 Sobre mim
