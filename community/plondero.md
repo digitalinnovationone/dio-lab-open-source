@@ -3,9 +3,9 @@
 ## Conect with me
 
 [![Meu Perfil DIO](https://img.shields.io/badge/Meu_Perfil_DIO-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.dio.me/users/pedroslondero6)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-scaramussa-londero-b73132247/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_londero/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:pscaramussalondero@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-scaramussa-londero-b73132247/)
+[![Instagram](https://img.shields.io/badge/-Instagram-0077B3?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_londero/)
+[![Gmail](https://img.shields.io/badge/Gmail-0077B3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pscaramussalondero@gmail.com)
 
 ## Abilitys
 
@@ -13,7 +13,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Programation softwares
