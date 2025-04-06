@@ -2,7 +2,7 @@
 
 ### Sobre mim
 Sou formado em Sistemas de Informação, passei por diversas áreas em TI, desde Instrutor, Diagramador, Desenvolvedor, e atualmente Analista de Testes.
-<br>Gosto de música, bateria, rock, boa comida, e treinar.
+<br>Gosto de música, bateria, rock, boa comida, e treinar..
 
 ### Conecte-se comigo
 
