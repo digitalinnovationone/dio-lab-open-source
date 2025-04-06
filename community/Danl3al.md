@@ -9,6 +9,7 @@
 
 - Java
 - Javascript/HTML/CSS
+- Python
 
 
 
