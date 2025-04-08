@@ -1,6 +1,6 @@
 # Stenio  Neves
 
-Olá sou formatado em análise e desevolvimento de sistemas pela  ![Unigranrio](https://uniganrio.edu.br)
+Olá sou formado em análise e desenvolvimento de sistemas pela  ![Unigranrio](https://uniganrio.edu.br)
 
 ## Contatos e redes sociais
 
