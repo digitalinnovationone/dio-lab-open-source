@@ -1,6 +1,6 @@
 # Andre Martins de Carvalho
 
-Sou formado em Análise e Desenvolvimetno de Sistemas, mas até o momento não atuei na área de forma mais concreta. Venho em busca de atualização profissional nesta apaixonante área de Ciência de Dados, procurando me aprofundar em Python. Vamnos juntos atingir nossos objetivos.
+Sou formado em Análise e Desenvolvimetno de Sistemas, mas até o momento não atuei na área de forma mais concreta. Venho em busca de atualização profissional nesta apaixonante área de Ciência de Dados, procurando me aprofundar em Python. Vamos juntos atingir nossos objetivos!
 
 ### 🛠 Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
