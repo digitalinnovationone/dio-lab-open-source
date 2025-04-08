@@ -8,7 +8,7 @@
   
 - 💬 Ask me about ReactJS, React Native, NodeJs or Java. I'm pleased to help you with
   
-- 📫 You can reach me accessing my [Linkedin](https://www.linkedin.com/in/joao-moreira-dev/)
+- 📫 You can reach me accessing my [Linkedin](https://www.linkedin.com/in/joaomoreiradev/)
 or if you prefer get in touch with me by email: jgmoreira1809@gmail.com
 
 - :notebook_with_decorative_cover: Check [my portfolio](https://www.joaomoreira.net/) to see some of my latest projects
