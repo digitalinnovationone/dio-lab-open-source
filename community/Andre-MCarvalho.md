@@ -15,5 +15,5 @@ Sou formado em Analise e Desenvolvimetno de Sistemas, mas até o momento não at
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andre-MCarvalho&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Network
-Vamos interagir
+Vamos interagir /n
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/andre-martins-de-carvalho-649375356)
