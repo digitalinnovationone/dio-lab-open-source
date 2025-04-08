@@ -1,4 +1,3 @@
-
 # mhelenalencar
 Sou graduada em Engenharia de Controle e Automação pela Universidade Federal de Pernambuco. Com mais de 2 anos de experiência profissional em automação industrial, colaborei com melhorias em diversos setores em parceria com empresas líderes, como Siemens e Rockwell. Tenho expertise em pesquisa envolvendo Node-RED e SQL, e fui ativa em liderança acadêmica e projetos de extensão. Estou comprometida com a inovação e a excelência em automação.
 ## Conecte-se comigo
