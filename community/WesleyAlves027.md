@@ -5,7 +5,7 @@
 Olá! meu nome é Wesley Alves Santana, tenho 23 anos e estou fazendo Faculdade de Análise e Desenvolvimento de Sistemas pela Uninter.
 E também estudo na Alura e na DIO.
 
-# Formação Acadêmica
+# Formação Acadêmica.
 
 Ensino Médio Completo
 Técnico em Mecânica
