@@ -1,14 +1,3 @@
-
-
-
-Seu armazenamento está quase cheio (95%)
-Você usa armazenamento quando envia e recebe e-mails, faz backup no Google Fotos e salva arquivos no Drive.
-Gerenciar armazenamentoDispensar
-Conversas
-95,65 GB de 100 GB (95%) usado(s)
-Termos · Privacidade · Regulamentos do programa
-Última atividade da conta: há 3 minutos
-Detalhes
 # Sobre Eduardo Chalupe
 
 Meu nome é Eduardo Chalupe, tenho 37 anos. Casado e possuo 2 filhos.
