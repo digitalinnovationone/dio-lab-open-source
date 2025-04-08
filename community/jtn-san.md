@@ -37,7 +37,31 @@ Estou sempre disposto a compartilhar conhecimento e colaborar com a comunidade d
 
 ##
 
+## 🔍 Buscar seu Arquivo na Comunidade(Community)
 
+Você pode acessar diretamente o seu arquivo no repositório da DIO!  
+Basta digitar o nome do arquivo (ex: `jtn-san.md`) na página abaixo:
+
+### 💡 Exemplo da página:
+
+![preview](https://github.com/user-attachments/assets/faf3e0bc-0dc7-402e-b09d-669ca8806715)
+
+
+## 💡 Como usar
+
+1. Acesse a página.
+2. Digite o nome do arquivo `.md` correspondente ao usuário (exemplo: `jtn-san.md`).
+3. Clique em **"Buscar"**.
+4. O link abrirá diretamente no GitHub no arquivo correspondente.
+
+> 🔁 Substitua pelo nome do seu arquivo e clique em **Buscar**!
+
+[![Ir para Buscador](https://img.shields.io/badge/Acessar%20Buscador-blue?style=for-the-badge)](https://jtn-san.github.io/buscarRepositorioCommunity/)
+## 📚 Mais detalhes
+
+Para mais informações, acesse o repositório completo:
+
+👉 [Repositório detalhado no GitHub](https://github.com/jtn-san/buscarRepositorioCommunity)
 
 
 ---
