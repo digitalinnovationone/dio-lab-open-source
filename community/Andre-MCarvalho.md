@@ -12,7 +12,7 @@ Sou formado em Análise e Desenvolvimetno de Sistemas, mas até o momento não a
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
-## GitHub Statísticas
+### GitHub Statísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andre-MCarvalho&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Network - Vamos Interagir
