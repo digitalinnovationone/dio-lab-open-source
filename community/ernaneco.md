@@ -6,4 +6,6 @@ Tenho conhecimento básico em Python adquirido por meio de cursos em outras plat
 
 Minha última atividade profissional foi na Petrobras, onde trabalhei 12 anos na área Tributária.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernani-mandarino-a2117b1b9/)
+
 Abraço a todos!
