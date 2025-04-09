@@ -3,7 +3,7 @@
 ## Estudante de Data Science e Profissional de TI
 
 ### Sobre Mim
-Profissional de TI com mais de 7 anos de experiência em suporte e tecnologia da informação, formado em Técnico de Informática pela **ETEC** e em **Redes de Computadores pela UNINOVE**, além de possuir a certificação **AWS Certified Cloud Practitioner**.
+Olá, meu nome é Jean, tenho 26 anos e sou profissional de TI com mais de 7 anos de experiência em suporte e tecnologia da informação, formado em Técnico de Informática pela **ETEC** e em **Redes de Computadores pela UNINOVE**, além de possuir a certificação **AWS Certified Cloud Practitioner**.
 
 ##### 🛠️ Habilidades Técnicas
 - Manutenção, configuração e instalação de hardware e equipamentos de TI  
