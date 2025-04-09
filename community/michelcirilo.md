@@ -5,11 +5,11 @@
 
 ### Sobre mim:
 
-Sou um tecnologo em Gestão da Tecnologia da Informação, MBA em Gestão Empresarial e Negócios. 
+Sou tecnólogo em Gestão da Tecnologia da Informação, com MBA em Gestão Empresarial e Negócios. 
 
 ### Situação atual
 
-- 💻 estudando Ciência de Dados para Negócios.
+- 💻 Atualmente, estou me dedicando ao estudo de Ciência de Dados aplicada a Negócios, visando ampliar minha expertise em soluções baseadas em dados para tomadas de decisão estratégicas.
 
 
 ### Conecte-se comigo
@@ -20,12 +20,12 @@ Sou um tecnologo em Gestão da Tecnologia da Informação, MBA em Gestão Empres
   </a>
 
 - Perfil Github:
-  <a href="https://github.com/MichelCiriloor">
+  <a href="https://github.com/MichelCirilo">
   <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="margin-left: 25px;">
   </a>
 
 - Perfil LinkedIn:
-  <a href="https://www.linkedin.com/in/MichelCirilo/">
+  <a href="https://www.linkedin.com/in/michel-cirilo/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-left: 20px;">
   </a>
 
