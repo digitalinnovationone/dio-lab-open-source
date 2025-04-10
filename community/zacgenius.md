@@ -12,4 +12,4 @@ Sou estudante de Análise de dados e IA, sou apaixonado por dados, anime, estét
 
 ## Conecte-se Comigo
 
->>>>> https://www.linkedin.com/in/isaaccami
+>>>>>> https://www.linkedin.com/in/isaaccami
