@@ -18,7 +18,7 @@
   <tbody align="left">
     <tr>
       <td>01</td>
-      <td>Badges</td>
+      <td> Estudar programação </td>
       <td align="center">
         <a href="https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/badges/badges.md">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Exemplos-30A3DC?style=for-the-badge">
@@ -30,7 +30,7 @@
     </tr>
     <tr>
       <td>02</td>
-      <td>Cards GitHub Stats</td>
+      <td>Cards Me especializar nessa areá </td>
       <td align="center">
         <a href="https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-stats.md">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Exemplos-E94D5F?style=for-the-badge">
@@ -42,7 +42,7 @@
     </tr>
     <tr>
       <td>03</td>
-      <td>Cards GitHub Streak Stats</td>
+      <td>Cards Arrumar um emprego na areá </td>
       <td align="center">
         <a href="https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-streak-stats.md">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Exemplos-30A3DC?style=for-the-badge">
@@ -56,9 +56,4 @@
   <tfoot></tfoot>
 </table>
 
-
-## Links Úteis
-- [Guia sobre Markdown do GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
-- [Onde encontrar Badges legais para o seu Perfil](https://github.com/Ileriayo/markdown-badges#markdown-badges) 
-- [Gerador automático de Readme para GitHub](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
