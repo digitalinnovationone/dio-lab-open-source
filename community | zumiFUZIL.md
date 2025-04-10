@@ -6,7 +6,6 @@
 </h1>
 
 <p>Olá! 👋</p>
-<p>Meu nome é [Seu Nome], sou apaixonado(a) por tecnologia e estou em constante aprendizado na área de programação. Estou estudando com dedicação para alcançar meus objetivos profissionais e pessoais. 💻🚀</p>
 
 <h2>🎯 Minhas Metas</h2>
 <ul>
