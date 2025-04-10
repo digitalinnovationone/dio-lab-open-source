@@ -5,7 +5,7 @@
   <span> Sobre Mim </span>
 </h1>
 
-<p>Olá! 👋</p>
+<p> Olá! 👋</p>
 
 <h2>🎯 Minhas Metas</h2>
 <ul>
