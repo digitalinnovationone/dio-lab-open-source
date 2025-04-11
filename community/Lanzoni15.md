@@ -5,10 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://twitter.com/qgom3s" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Me%20siga!&logo=twitter&label=&color=8c7ae6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/qgom3s/" target="_blank">
+  <a href="https://www.linkedin.com/in/arthur-lanzoni-a838b721a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Me%20Adicione&logo=linkedin&label=&color=8c7ae6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
