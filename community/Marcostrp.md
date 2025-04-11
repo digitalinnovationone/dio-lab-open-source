@@ -24,4 +24,4 @@
 </h2>
 <p>Começando o bootcamp fullstack!</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marcostrp&theme=transparent&bg_color=282a36&border_color=ff79c6&show_icons=true&icon_color=50fa7b&title_color=00aeff&text_color=e03c8a)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marcostrp&theme=transparent&bg_color=282a36&border_color=ff79c6&show_icons=true&icon_color=50fa7b&title_color=00aeff&text_color=e03c8a&hide_title=true)
