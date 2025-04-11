@@ -1,4 +1,4 @@
-# 👋 Greetings, [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=General+Sans&size=25&pause=1000&color=A21CAF&background=18001A&vCenter=true&width=250&height=25&lines=Organic+beings!;Time+travelers!;+Artificial+Intelligences!)](https://git.io/typing-svg)
+# 👋 Greetings, [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=General+Sans&size=25&pause=1000&color=A21CAF&background=18001A&vCenter=true&width=380&height=25&lines=Organic+beings!;Time+travelers!;+Artificial+Intelligences!)](https://git.io/typing-svg)
 
 I'm Yury Landau, a passionate Front-End Software Developer dedicated to crafting captivating digital experiences.
 
