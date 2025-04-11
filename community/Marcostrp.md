@@ -13,6 +13,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-f8f8f2?style=for-the-badge&logo=instagram)](https://www.instagram.com/marcostrp/)
 [![E-mail](https://img.shields.io/badge/-Email-f8f8f2?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:SEUEMAIL@outlook.com)
 
+### Sistema
+
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+
 <h2>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
