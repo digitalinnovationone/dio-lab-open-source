@@ -8,8 +8,9 @@ I'm deeply passionate about technology — ever since I got my first video game,
 Some of my hobbies include listening to music, playing games, watching movies and series, playing soccer, and working out.
 
 ## 🔗 Find me online
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaocase/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_joaocase/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=3399FF)](https://www.linkedin.com/in/joaocase/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=3399FF)](https://www.instagram.com/_joaocase/)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=3399FF)](mailto:victorcasej@gmail.com)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaocase&theme=transparent&bg_color=000000&border_color=003366&show_icons=true&icon_color=3399FF&title_color=0066CC&text_color=FFFFFF&hide_title=true&hide=issues)
