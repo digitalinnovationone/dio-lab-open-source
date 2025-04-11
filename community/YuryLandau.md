@@ -2,7 +2,7 @@
 
 I'm Yury Landau, a passionate Front-End Software Developer dedicated to crafting captivating digital experiences.
 
-## 🚀 About Med
+## 🚀 About Me
 
 - 👨‍💻 Front-End Developer with experience in ReactJS, NextJS, Rust, and Python.
 - 🌐 I strive to transcend ideas, turning sketches into interactive masterpieces.
