@@ -13,11 +13,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-f8f8f2?style=for-the-badge&logo=instagram)](https://www.instagram.com/marcostrp/)
 [![E-mail](https://img.shields.io/badge/-Email-f8f8f2?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:SEUEMAIL@outlook.com)
 
-<h1>
+<h2>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
     <span> Github status</span>
-</h1>
+</h2>
 <p>Começando o bootcamp fullstack!</p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marcostrp&theme=transparent&bg_color=282a36&border_color=ff79c6&show_icons=true&icon_color=50fa7b&title_color=00aeff&text_color=e03c8a)
