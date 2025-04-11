@@ -1,4 +1,4 @@
-# 👋 Greetings, [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=General+Sans&pause=1000&color=A21CAF&background=18001A&width=320&lines=Organic+beings!;Time+travelers!;+Artificial+Intelligences!)](https://git.io/typing-svg)
+# 👋 Greetings, [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=General+Sans&size=25&pause=1000&color=A21CAF&background=18001A&vCenter=true&width=250&height=25&lines=Organic+beings!;Time+travelers!;+Artificial+Intelligences!)](https://git.io/typing-svg)
 
 I'm Yury Landau, a passionate Front-End Software Developer dedicated to crafting captivating digital experiences.
 
@@ -21,7 +21,7 @@ I'm Yury Landau, a passionate Front-End Software Developer dedicated to crafting
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/yury-landau-van-putten/)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://landauwebvisuals.tech)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yursx)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YuryLandau)
 
 ---
 
