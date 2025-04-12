@@ -1,5 +1,5 @@
 # Olá sou Thiago Santos Vilas Boas
-essa é a 1° vez que faço uma contribuição para um projeto no GitHub, esse é um territorio novo ainda para mim, a primera vez sempre é meio confuso,
+essa é a 1 vez que faço uma contribuição para um projeto no GitHub, esse é um territorio novo ainda para mim, a primera vez sempre é meio confuso.
 espero que os proximos sejam bem melhores. 
 https://github.com/tvilasboas1
 
