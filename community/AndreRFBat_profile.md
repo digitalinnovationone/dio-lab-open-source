@@ -7,6 +7,7 @@ Meu nome é **André R. F. Batista** e sou estudante de **Engenharia de Computa�
 <br></br>
 
 
+
 Fiz parte do ***programa de Bolsas da Compass UOL - AWS & Performance for Software Quality Engineering | QA IA.***
 Faço iniciação científica na USP - IFSC - São Carlos-SP no projeto ***CIERMag (Centro de Imagens e Espectroscopia por Ressonância Magnética)***
 
