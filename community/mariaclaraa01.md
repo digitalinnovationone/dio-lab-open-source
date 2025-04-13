@@ -4,7 +4,7 @@
 
 
 ###### 👩‍💻 Tenhos 23 anos e curso Engenharia de Software na [Uninter](https://univirtus.uninter.com/).
-##### 💼 Atualmente não atuo na área, sou Assistente Administrativo.
+###### 💼 Atualmente não atuo na área, sou Assistente Administrativo.
 ###### 📌 Buscando migrar para o tech, estou focando bastante em projetos e novos conhecimentos.
 
 ###### 📖 Aprofundando conhecimentos em Python, HTML e CSS.
