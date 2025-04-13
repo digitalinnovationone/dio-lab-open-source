@@ -24,6 +24,7 @@
 </table>
 
 ## Social
+
 <table>
   <thead>
     <tr align="left">
@@ -163,6 +164,7 @@
 </table>
 
 ## Linguagens de Marcação e Estilo
+
 <table>
   <thead>
     <tr align="left">
@@ -209,6 +211,7 @@
 </table>
 
 ## Linguagens de Programação
+
 <table>
   <thead>
     <tr align="left">
@@ -421,6 +424,7 @@
 </table>
 
 ## Bibliotecas e Frameworks
+
 <table>
   <thead>
     <tr align="left">
@@ -621,6 +625,7 @@
 </table>
 
 ## Banco de Dados
+
 <table>
   <thead>
     <tr align="left">
@@ -941,6 +946,14 @@
       </td>
       <td>
         <code>![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)</code>
+      </td>
+    </tr>
+ <tr>
+      <td>
+        <img align="center" alt="Postman" src="https://img.shields.io/badge/Neovim-%2357A143?style=for-the-badge&logo=neovim&logoColor=white">
+      </td>
+      <td>
+        <code>![Neovim](https://img.shields.io/badge/Neovim-%2357A143?style=for-the-badge&logo=neovim&logoColor=white)</code>
       </td>
     </tr>
   </tbody>
