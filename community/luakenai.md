@@ -58,7 +58,7 @@ The last thing related to coding I did before I took it more seriously was attem
 ### Taking the next step
 Around 2020 I started a course to become a fullstack developer, it took me a bit to get the hang of coding again , but once I did I started developing my first simple websites, not looking too proffessional, but I was proud of my progress. 
 Nowadays I have done another discord bot in honor of the old times, am working on professional websites for my portfolio, and taking classes for C# and racket as well.
-
+...
 </details>
           
 
