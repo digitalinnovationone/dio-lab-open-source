@@ -6,7 +6,8 @@ Bem-vindo(a) ao meu repositório da Trilha **[DIO]** da [DIO (Digital Innovation
 
 ## 📚 Sobre a Trilha
 
-A trilha tem como objetivo capacitar desenvolvedores em [tema/stack da trilha, ex: "Java com Spring Boot", "Desenvolvimento Front-end com React", etc.]. Ao longo da trilha, são abordados os seguintes tópicos:
+A trilha tem como objetivo capacitar desenvolvedores 
+ Ao longo da trilha, são abordados os seguintes tópicos:
 
 - Fundamentos de [tecnologia base]
 - Práticas de mercado
