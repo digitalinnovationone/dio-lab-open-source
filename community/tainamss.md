@@ -1,6 +1,6 @@
 # Olá, sou a Tainá Mesquita!
 ## Sobre mim
-🎓 Técnica em eletrotécnica - Instituto federal do  Espírito Santo (IFES)
+🎓 Técnica em eletrotécnica - Instituto federal do  Espírito Santo (IFES)<br>
 📕Estudante de Engenharia da Computação na Universidade Federal do Espírito Santo (UFES).<br>
 📌 Tenho 19 anos e descobri a paixão pela programação no Ensino médio<br>
 💡 Iniciando minha jornada no mundo da tecnologia <br>
