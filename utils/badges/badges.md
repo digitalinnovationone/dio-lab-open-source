@@ -865,6 +865,21 @@
       </td>
     </tr>
     <tr>
+     <td>
+        <img align="center" alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff">
+      </td>
+      <td>
+        <code>[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff)</code>
+      </td>
+    </tr>
+  </tr>
+    <td>
+        <img align="center" alt="Pop! Os" src="https://img.shields.io/badge/Pop!_OS-48B9C7?logo=Pop%21_OS&logoColor=white&style=for-the-badge">
+      </td>
+      <td>
+        <code>[![Pop! Os](https://img.shields.io/badge/Pop!_OS-48B9C7?logo=Pop%21_OS&logoColor=white&style=for-the-badge)</code>
+      </td>
+    </tr>
       <td>
         <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0">
       </td>
@@ -982,6 +997,22 @@
         <code>![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)</code>
       </td>
     </tr>
-  </tbody>
+ </tr>
+    <td>
+        <img align="center" alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+      </td>
+      <td>
+        <code>[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)</code>
+      </td>
+    </tr>
+ </tr>
+    <td>
+        <img align="center" alt="Gimp Gnu Image Manipulation Program" src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)">
+      </td>
+      <td>
+        <code>[![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)</code>
+      </td>
+    </tr> 
+ </tbody>
   <tfoot></tfoot>
 </table>
