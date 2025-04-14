@@ -1,4 +1,4 @@
-# 🚀 Trilha [Nome da Trilha] - DIO
+# 🚀 Trilha - DIO
 
 Bem-vindo(a) ao meu repositório da Trilha **[DIO]** da [DIO (Digital Innovation One)]Aqui você encontrará anotações, desafios, projetos e tudo o que foi aprendido ao longo da jornada de estudos.
 
