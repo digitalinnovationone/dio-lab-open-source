@@ -163,7 +163,38 @@
         <img align="center" alt="Goodreads" src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213">
       </td>
       <td>
-        <code>[![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/seuusuario) </code>
+        <code>[![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/@seuusuario) </code>
+      </td>
+    </tr>
+<td>
+        <img align="center" alt="EA" src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white">
+      </td>
+      <td>
+        <code>[![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)</code>
+      </td>
+    </tr>
+</tr>
+<td>
+        <img align="center" alt="Battle.net" src="https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white">
+      </td>
+      <td>
+        <code>[![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)</code>
+      </td>
+    </tr>
+</tr>
+<td>
+        <img align="center" alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
+      </td>
+      <td>
+        <code>[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/@seuusuario)</code>
+      </td>
+    </tr>
+    </tr>
+<td>
+        <img align="center" alt="Epic Games" src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white">
+      </td>
+      <td>
+        <code>[![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)</code>
       </td>
     </tr>
   </tbody>
