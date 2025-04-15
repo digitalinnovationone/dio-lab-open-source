@@ -68,5 +68,5 @@
 
 | [Badges Legais](https://github.com/Ileriayo/markdown-badges#markdown-badges)|
 |------|
-|[Guia de Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)|
-|[GitHug Stats](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md)|
+| [Guia de Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)|
+| [GitHug Stats](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md)|
