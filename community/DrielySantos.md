@@ -1,4 +1,4 @@
-# <h1 align="center">Olá! Eu sou a Driely Santos 👋</h1>
+# Olá! Eu sou a Driely Santos 👋
 
 <p align="center">
   Estudante independente em transição de carreira, focada em entrar para a faculdade de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong> e conseguir meu primeiro emprego como <strong>desenvolvedora frontend</strong>.
