@@ -8,17 +8,21 @@
 [![Forks](https://img.shields.io/github/forks/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/forks)
 [![GitHub Issues](https://img.shields.io/github/issues/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/issues/)
 
- Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição além do seu exemplo de Profile README, é inserir outros utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils), ou melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/docs). <br>
- Além disso, você também pode contribuir:
- 
-⚠️ Resolvendo, respondendo ou indicando **issues**
+Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição são:
+- Criar o seu Profile README e contribuir no diretório "Community" (instruções [abaixo](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md#contribuindo-no-diret%C3%B3rio-community))
+- Inserir outros utilitários, como _badges_ ou _cards_, na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) (ex.: issue [#5070](https://github.com/digitalinnovationone/dio-lab-open-source/issues/5070))
+- Melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/docs) (ex.: [#3191](https://github.com/digitalinnovationone/dio-lab-open-source/pull/3191))
+- Resolver, responder ou indicar **issues** ⚠️ (ex.: [#34449](https://github.com/digitalinnovationone/dio-lab-open-source/issues/34449))
 
-⭐ Adicionando aos favoritos (**star**) 
+Você também pode contribuir adicionando este repositório aos seus favoritos ⭐ (**Star**).
 
-##  Contribuindo no diretório "Community" 
- A contribuição no diretório "Community" é uma das formas de completar o Desafio do lab "**Contribuindo em um Projeto Open Source no GitHub**" da [Digital Innovation One](https://www.dio.me/). Você pode colaborar criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. <br>
- Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
- Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
+## Contribuindo no diretório "Community" 
+
+A contribuição no diretório "Community" é uma das formas de completar o Desafio do [lab](https://github.com/digitalinnovationone/dio-lab-open-source?tab=readme-ov-file#--------------contribuindo-em-um-projeto-open-source-no-github) "**Contribuindo em um Projeto Open Source no GitHub**" da [Digital Innovation One](https://www.dio.me/).
+
+Você pode colaborar criando um [Profile README](https://docs.github.com/pt/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) personalizado contendo informações sobre você que deseje compartilhar com a comunidade. Para isso, você pode inserir [badges](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md) indicando suas habilidades, [cards](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md) com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem, e links para seus desafios de projeto e artigos na plataforma da [DIO](https://www.dio.me/). <br>
+
+Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
 
 ### 1) Faça um **Fork** deste Repositório
 Acesse a página principal do repositório e clique no botão "Fork" no canto superior direito da página.
@@ -79,7 +83,7 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
     
 ## Convenção de Commits 
 
-| Tipo de Commit |Descrição                                                            | Exemplo
+| Tipo de Commit |Descrição                                                             | Exemplo
 | ---------------|----------------------------------------------------------------------|-----------
 | `feat`         | Adiciona uma nova funcionalidade ao projeto.                         | `feat: add USENAME.md profile`
 | `fix`          | Corrige um bug ou problema no projeto.                               | `fix: fixed issue fix#IssueNumber`
