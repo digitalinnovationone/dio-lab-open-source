@@ -1,5 +1,4 @@
 #!/bin/bash
 
-# Exemplo de script para demonstração
-
-echo "Executando teste..."
+# Script de exemplo para demonstração
+echo "Executando teste de IoT... Tudo funcionando!"
