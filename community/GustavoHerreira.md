@@ -28,5 +28,5 @@
 
 
 ### 📖Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEUUSERNAME/](https://www.linkedin.com/in/gustavogdev/))
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)]([https://x.com/SEUUSERNAME](https://x.com/TicoSharp))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavogdev/)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/TicoSharp)
