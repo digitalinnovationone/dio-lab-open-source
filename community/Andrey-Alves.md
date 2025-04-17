@@ -15,4 +15,4 @@ Fique ligado(a)! 🚀
 
 ---
 
-✨ Obrigado por visitar!
+✨ Obrigado por visitar!!
