@@ -190,10 +190,22 @@ main, section {
     flex-direction: column;
     align-items: center;
     gap: 1rem;   
+    padding-bottom: 15px;
+
 }
 
+
+
 #desafio p {
-    text-align: justify; 
+    text-align: justify;
+    padding: 10px;
+
+    
+}
+
+.colorParagraph code{
+    color: rgb(12, 114, 231);
+
 }
 
 #comunidade {
@@ -204,7 +216,10 @@ main, section {
 
 #searchForm {
     display: flex;
+    justify-content: center;
+
 }
+
 
 #searchButton {
     display: flex;
@@ -237,15 +252,33 @@ main, section {
     color: var(--white);
     background-color: #0F0F0F;
     border: #0F0F0F;
+    box-shadow: #30A3DC 0px 0px 35px 2px;
+    transition: 0.5s;
 }
 
 #searchInput {
     max-width: 100%;
     font-size: 1rem;
     border: .125rem solid var(--secondary-color);
-    border-radius: .35rem 0 0 .35rem;
+    border-radius: 40px 0 0 40px;
     padding: .5rem 1.5rem;
     cursor: pointer; 
+    
+}
+
+#tituloInput {
+    display: flex;
+    justify-content: center;
+    word-spacing: 2px;
+}
+
+#tituloInput a {
+    padding-left: 0.5rem;
+}
+
+#searchInput:hover {
+    box-shadow: #30A3DC 0px 0px 35px 2px;
+    transition: 0.5s;
 }
 
 #searchInput:focus {
@@ -268,3 +301,4 @@ footer p {
     font-size: .9rem;
     color: var(--black);
 }
+
