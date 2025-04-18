@@ -37,11 +37,14 @@
 ---
 
 ## 🛠️ Ferramentas
-<div style="font-size: 1.1em;">
+
 | Ferramenta | Para que serve? |
 |------------|-----------------|
-| <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40"> [GitHub](https://github.com) | Plataforma para hospedar projetos |
-| <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40"> [Git](https://git-scm.com) | Sistema de controle de versão |
+| <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40"> [GitHub](https://github.com) | Plataforma para hospedar projetos e colaboração em código |
+| <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40"> [Git](https://git-scm.com) | Sistema de controle de versão distribuído |
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300px">
 </div>
 
 ---
