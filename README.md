@@ -76,20 +76,27 @@
 ---
 
 ## 🤝 Como Contribuir
+
+### 📌 Fluxo Básico de Contribuição
+
+1. **Encontre um projeto** → Explore repositórios no GitHub
+2. **Faça um fork** → Crie sua cópia do projeto
+3. **Clone o repositório** → Baixe para seu computador
+4. **Faça suas alterações** → Adicione suas melhorias
+5. **Envie um Pull Request** → Proponha suas mudanças
+
 <div align="center">
-  <img src="https://mermaid.ink/svg/pako:eNpVj8EKwjAQRH-l7FkP2t6KvXnxJ_hiNmmbpkKShiQK_bsbFfE0sMPMvGFhVkXQ1j2i2z3W0Kz5q5Tz9XQ8nA9d2zX1tq6qDTQwQwYJjJBAhB5a6KCBGmooIYcMUkgghhhCiCB8v_9e5QNn4hxZ" width="400">
+  <img src="https://media.giphy.com/media/3og0IPizf4zPR6VMt2/giphy.gif" width="400px" alt="Fluxo de contribuição">
 </div>
 
-<h3>3 formas simples de ajudar:</h3>
-<ol style="font-size: 1.1em;">
-  <li>✨ Adicione seu perfil</li>
-  <li>🐛 Corrija problemas (issues)</li>
-  <li>📚 Melhore a documentação</li>
-</ol>
+**3 formas simples de ajudar:**
+1. ✨ Adicione seu perfil na pasta `community`
+2. 🐛 Corrija problemas reportados (issues)
+3. 📚 Melhore a documentação do projeto
 
 <div align="center" style="margin: 30px 0;">
   <a href="https://github.com/digitalinnovationone/dio-lab-open-source/fork">
-    <img src="https://img.shields.io/badge/COMEÇAR%20AGORA-000?style=for-the-badge&logo=github&logoColor=white&fontSize=16px">
+    <img src="https://img.shields.io/badge/COMEÇAR%20AGORA-000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
 
