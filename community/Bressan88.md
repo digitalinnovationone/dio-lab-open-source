@@ -6,9 +6,9 @@ Sou estudante, no momento, do bootcamp da **Suzano** do curso de **Desenvolvedor
 Este arquivo é parte da minha participação no repositório open-source da comunidade.
 
 Tenho algumas formações:
-- Técnico em Eletrotécnica
-- Graduação em Engenheiro Eletricista
-- Pós graduação em Big Data
+- Técnico em Eletrotécnica;
+- Graduação em Engenheiro Eletricista;
+- Pós graduação em Big Data.
 
 Ao terminar minha pós acabei por trilhar outros caminhos, mas a programação é algo que acho fascinante e agora voltei pra me desenvolver mais através dela.
 
