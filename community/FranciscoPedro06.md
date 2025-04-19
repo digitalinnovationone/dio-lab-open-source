@@ -1,4 +1,4 @@
-# 🌟 Desenvolvedor Front-end | Desenvolvimento de Sistemas  
+# 🌟 Desenvolvedor Full Stack | Desenvolvimento de Sistemas  
 
 🎓 Estudante **Técnico em Desenvolvimento de Sistemas** no **SENAI-BA, em Feira de Santana**.  
 🚀 FullStack Developer apaixonado por criar soluções web eficientes e escaláveis.
