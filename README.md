@@ -1,5 +1,4 @@
 <h1 align="center">
-  🚀
   <a href="https://www.dio.me/">
     <img src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" width="50px" />
     <br/>
