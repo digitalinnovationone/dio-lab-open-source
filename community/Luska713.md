@@ -3,6 +3,7 @@
 ## Sobre mim
 <p>Sou formado em licenciatura em Física e em Matemática pela UFRN, entusiasta de linguagens de programação e robótica. Durante a graduação, participei de diversos projetos envolvendo o uso de tecnologia no ensino de física e de matemática, e hoje tenho grande interesse em me dedicar à área da tecnologia.</p>
 <p>A capacidade de modelar problemas reais e aplicar ferramentas matemáticas para sua solução é a principal habilidade desenvolvida na física, já a matemática é completamente voltada para o uso da lógica na resolução de problemas, e estas bagagens se mostram excepcionalmente valiosas quando aplicadas ao trabalho com linguagens de programação.</p>
+<p>Atualmente me dedico principalmente ao estudo de python, mas possuo experiência com C (linguagem principal usada na disciplina de Linguagens de Programação), C++ (linguagem prncipal usada no desenvolvimento e rojetos com Arduino) e outras linguagens. Pretendo me formar também em Análise e Desenvolvimento de Sistemas, o que acredito que irá fortalecer a minha base em linguagens de programação, além de adquirir habilidades e abrir novo horizontes no mercado de trabalho.</p>
 
 ### Habilidades
 
