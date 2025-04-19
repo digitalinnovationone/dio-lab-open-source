@@ -108,7 +108,7 @@
 
 ---
 
-🌟 Comunidade
+### 🌟 Comunidade
 <p align="center"> <a href="https://github.com/digitalinnovationone/dio-lab-open-source/graphs/contributors"> <img src="https://contrib.rocks/image?repo=digitalinnovationone/dio-lab-open-source&animation=glow" width="100%" /> </a> </p> <br/> <div align="center"> <strong>Feito com 💜 pela comunidade DIO</strong> </div> <p align="center"> <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="200px" /> </p>
 
 ---
