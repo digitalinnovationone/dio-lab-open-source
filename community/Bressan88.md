@@ -7,7 +7,7 @@ Este arquivo é parte da minha participação no repositório open-source da com
 
 Tenho algumas formações:
 - Técnico em Eletrotécnica
-- Engenheiro Eletricista
+- Graduação em Engenheiro Eletricista
 - Pós graduação em Big Data
 
 Ao terminar minha pós acabei por trilhar outros caminhos, mas a programação é algo que acho fascinante e agora voltei pra me desenvolver mais através dela.
