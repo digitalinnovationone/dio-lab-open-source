@@ -74,6 +74,8 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 
 ---
 
+# Faça sua parte! 
+
 ## Contribua
 [![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/stargazers)
 [![Forks](https://img.shields.io/github/forks/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/forks)
