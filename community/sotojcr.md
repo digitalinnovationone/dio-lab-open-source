@@ -11,7 +11,7 @@ Apaixonado por inovação e tecnologia, com foco em gerar valor por meio da exce
 
 
 ## Linguagens de Programação
-<img src="https://www.sas.com/en/news/media-gallery/all-images/sas-logo-white-reversed-new/_jcr_content/par/image_360101046.img.png/1639774080219.png" alt="drawing" width="16%"/> ![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
+
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
