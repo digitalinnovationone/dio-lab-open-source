@@ -1,6 +1,6 @@
 <div style="font-family:Arial, sans-serif; padding:20px; background:#f9f9f9; border:1px solid #e1e4e8; border-radius:8px; max-width:800px; margin:auto;">
 
-  <h1 style="color:#2c3e50;">👋 Olá, eu sou <strong>Bruno Melo dos Santos</strong></h1>
+  <h1 style="color:#2c3e50;">👋 Olá, eu sou <strong>Bruno Melo</strong></h1>
   
   <p style="font-size:16px; color:#34495e; line-height:1.6;">
     Sou <strong>Analista de Sistemas</strong> com experiência em <strong>integrações, bancos de dados e automações</strong>, especialmente com o sistema <strong>Sankhya</strong> e plataformas como <strong>Salesforce</strong>. Atualmente, atuo desenvolvendo soluções internas, APIs e rotinas de integração entre sistemas.
