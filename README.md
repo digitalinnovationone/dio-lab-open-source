@@ -27,7 +27,7 @@ Aprender o básico sobre contribuição no GitHub.
   <tbody align="left">
     <tr>
       <td>01</td>
-      <td>Introdução ao Lab</td>
+      <td>Introdução ao Laboratorio</td>
     </tr>
     <tr>
       <td>02</td>
