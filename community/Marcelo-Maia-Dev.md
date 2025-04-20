@@ -3,8 +3,6 @@
 ## (PT-BR)
 Sou um desenvolvedor de software com uma base sólida em Python, Inteligência Artificial e Data Science, além de experiência prática em desenvolvimento web com HTML, CSS, JavaScript e C#. Atuo em projetos de diversas áreas, incluindo finanças, medicina e marketing, sempre focado em criar soluções inovadoras, eficientes e seguras.
 
-&nbsp;
-&nbsp;
 
 <div align="left">
   <a href="https://github.com/Marcelo-Maia-Dev">
