@@ -1,4 +1,4 @@
-# Olá! 👋 Sou [Alan Rodrigues]
+# Olá! 👋 Sou Alan Rodrigues
 
 Com uma sólida experiência de 18 anos como Administrador de Redes, desde minha formação em 2008, construí uma base robusta em infraestrutura de TI, segurança da informação e gerenciamento de sistemas.
 
@@ -8,11 +8,11 @@ Minha expertise em redes me proporciona uma visão aprofundada das necessidades 
 
 **O que eu ofereço:**
 
-* Revenda de sistemas de automação comercial [hotline, Zweb e Gdoor]
+* Revenda de sistemas de automação comercial hotline, Zweb e Gdoor
 * Suporte técnico especializado para os sistemas revendidos
 * Consultoria para implementação e otimização de sistemas
-* [Certificados digitais para Cnpj e Cpf]
+* Certificados digitais para Cnpj e Cpf
 
 **Conecte-se comigo:**
 
-* [alanrcastro.ac@gmail.com]
+* alanrcastro.ac@gmail.com
