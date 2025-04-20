@@ -1,95 +1,75 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Contribuindo em um Projeto Open Source no GitHub</span>
-</h1>
+# Olá, me chamo Marcelo Maia !  /  Hello, my name is Marcelo Maia!
+## Bem vindo ao meu perfil GitHub! 👋  /  Welcome to my GitHub profile! 👋
+## (PT-BR)
+Sou um desenvolvedor de software com uma base sólida em Python, Inteligência Artificial e Data Science, além de experiência prática em desenvolvimento web com HTML, CSS, JavaScript e C#. Atuo em projetos de diversas áreas, incluindo finanças, medicina e marketing, sempre focado em criar soluções inovadoras, eficientes e seguras.
 
-Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio e exercício prático para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
+Tenho domínio de ferramentas e bibliotecas fundamentais para ciência de dados, como Pandas, Numpy e Scikit-Learn, e também experiência com Big Data e Deep Learning, utilizando frameworks como TensorFlow e Keras para a construção de modelos preditivos de alta performance.
 
-[![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
-[![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
+No desenvolvimento web, trabalho com a criação de interfaces modernas, responsivas e funcionais, utilizando boas práticas de design e usabilidade. Em C#, desenvolvo sistemas robustos no ecossistema .NET, incluindo integração com APIs, bancos de dados e aplicações desktop/web.
 
-## Objetivo
-Aprender o básico sobre contribuição no GitHub.
+Minha formação técnica é complementada por conhecimentos em segurança da informação, o que me permite aplicar práticas de codificação segura, realizar análises de vulnerabilidades e prevenir riscos comuns com base em diretrizes como o OWASP Top 10.
 
-## Ferramentas
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+Entre minhas principais qualidades estão a precisão na análise de dados, o comprometimento com a qualidade do código e a entrega pontual dos projetos. Estou constantemente aprendendo e acompanhando as tendências do setor para melhorar continuamente minha atuação profissional.
 
-## Percurso
-<table>
-  <thead>
-    <tr align="left">
-      <th>Nº</th>
-      <th>Etapas</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>01</td>
-      <td>Introdução ao Lab</td>
-    </tr>
-    <tr>
-      <td>02</td>
-      <td>Formas de Contribuir num Projeto Open Source</td>
-    </tr>
-    <tr>
-      <td>03</td>
-      <td>Desenvolvendo e Enviando uma Contribuição</td>  
-    </tr>
-    <tr>
-      <td>04</td>
-      <td>Dicas e Materiais de Apoio</td>    
-    </tr>
-  </tbody>
-</table>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+## (EN)
+I am a software developer with a solid foundation in Python, Artificial Intelligence and Data Science, as well as practical experience in web development with HTML, CSS, JavaScript and C#. I work on projects in several areas, including finance, medicine and marketing, always focused on creating innovative, efficient and secure solutions.
 
----
-## Desafio de Projeto da DIO
-Agora que você já sabe as formas de contribuir em um projeto Open Source, está na hora de colocar em prática o seu conhecimento sobre contribuição no GitHub! <br>
-Para concluir este Desafio de Projeto, basta enviar a **URL do seu "fork" de um projeto Open Source que você contribuiu** para a entrega do desafio na plataforma [DIO](https://www.dio.me/).
+I have mastery of fundamental tools and libraries for data science, such as Pandas, Numpy and Scikit-Learn, and also experience with Big Data and Deep Learning, using frameworks such as TensorFlow and Keras to build high-performance predictive models.
 
-> [!NOTE]   
-> Por exemplo, a URL https://github.com/falvojr/dio-lab-open-source é o "**fork**" feito pelo usuário do GitHub "`falvojr`" para a contribuição no repositório `dio-lab-open-source`.
+In web development, I work on creating modern, responsive and functional interfaces, using good design and usability practices. In C#, I develop robust systems in the .NET ecosystem, including integration with APIs, databases and desktop/web applications.
 
-### Contribua com seu Profile README
-Para contribuir neste repositório, uma das formas é através da contribuição no diretório "**community**", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. <br>
-Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
- Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
+My technical background is complemented by knowledge in information security, which allows me to apply secure coding practices, perform vulnerability analyses and prevent common risks based on guidelines such as the OWASP Top 10.
 
-#### Utilitários
+Among my main qualities are accuracy in data analysis, commitment to code quality and timely delivery of projects. I am constantly learning and following industry trends to continually improve my professional performance.
 
-[![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
-[![Card Stats](https://img.shields.io/badge/Card%20Stats-E94D5F?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
-[![Badges](https://img.shields.io/badge/Card%20Streak%20States-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-streak-stats.md)
+&nbsp;
+&nbsp;
 
-> [!IMPORTANT]   
-> Confira as instruções antes de enviar a sua contribuição em [CONTRIBUTING.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md)
+<div align="left">
+  <a href="https://github.com/Marcelo-Maia-Dev">
+    <img height="180em" width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Marcelo-Maia-Dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Marcelo-Maia-Dev&layout=compact&langs_count=168&theme=dark"/>
+  </a>
+</div>
 
-### Fórum do Repositório (GitHub Discussions)
-GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. Caso tenha dúvidas, você pode abrir uma discussão, dentro de uma categoria apropriada, na aba "Discussions" do repositório do projeto.
-
-> [!WARNING]  
-> **Atenção:** Antes de criar uma nova discussão, verifique se sua dúvida já foi respondida em discussões anteriores. Use a função de pesquisa para encontrar tópicos relevantes.
-
----
-
-## Contribua
-[![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/stargazers)
-[![Forks](https://img.shields.io/github/forks/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/forks)
-[![GitHub Issues](https://img.shields.io/github/issues/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/issues/)
-
- Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição além do seu exemplo de Profile README, é inserir outros utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils), ou melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/docs). <br>
- Além disso, você também pode contribuir:
- 
-⚠️ Resolvendo, respondendo ou indicando **issues**
-
-⭐ Adicionando aos favoritos (**star**) 
-
-### Membros da comunidade que já contribuiram:
-<a href="https://github.com/digitalinnovationone/dio-lab-open-source/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=digitalinnovationone/dio-lab-open-source"/>
-</a>
-
+  
 ##
-<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+
+
+## Ferramentas e Tecnologias  /  Tools and Technologies
+![img icons8](https://user-images.githubusercontent.com/33229102/234871997-53eca4c0-2252-4b2e-80e0-2666aa6bcccd.png)
+![img icons8](https://user-images.githubusercontent.com/33229102/234869987-a94518bd-f56c-420b-af43-f7b580a197e3.png)
+![img icons8](https://user-images.githubusercontent.com/33229102/234870145-c343dee7-60e1-4336-bbc5-8f5893c6e3e6.png)
+![img icons8](https://user-images.githubusercontent.com/33229102/234872400-aee84e06-8c6e-4531-a23b-57bb2091dded.png)
+![img icons8](https://user-images.githubusercontent.com/33229102/234874639-eab345fe-ade9-4576-8292-5373cf6f6ca3.png)
+![img icons8](https://user-images.githubusercontent.com/33229102/234870548-27772265-1602-4529-b03d-155c5553babc.png)
+![img icons8](https://user-images.githubusercontent.com/33229102/234870663-629a1272-f8a9-4cb2-94ae-15a367468fa4.png)
+![img icons8](https://user-images.githubusercontent.com/33229102/234871281-7988d05f-6088-466b-942b-d0bc457161ef.png)
+![img icons8](https://github.com/Marcelo-Maia-Dev/Marcelo-Maia-Dev/assets/33229102/eb3f9dd2-14c7-49b1-9f41-b112a136083d)
+![img icons8](https://github.com/Marcelo-Maia-Dev/Marcelo-Maia-Dev/assets/33229102/39085d58-6adf-4771-af32-1d4b6cfef0b8)
+![img icons8](https://github.com/Marcelo-Maia-Dev/Marcelo-Maia-Dev/assets/33229102/a703868d-3257-46ff-8ccf-2ab8263499b0)
+![img icons8](https://github.com/Marcelo-Maia-Dev/Marcelo-Maia-Dev/assets/33229102/bc7d4477-54c5-4e89-a21d-edfb770bbb5c)
+
+
+
+
+## Estou aprendendo  /  I am learning
+
+![img icons8](https://user-images.githubusercontent.com/33229102/234875305-22bf0202-79b2-4c7c-9379-fa9b127fccdd.png)
+
+
+## Contatos:  /  Contacts:
+
+<div>
+<a href = "mailto:marcelo.maia962@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marcelo-maia-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+
+
+
+
