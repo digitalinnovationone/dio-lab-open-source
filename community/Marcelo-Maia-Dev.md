@@ -3,29 +3,6 @@
 ## (PT-BR)
 Sou um desenvolvedor de software com uma base sólida em Python, Inteligência Artificial e Data Science, além de experiência prática em desenvolvimento web com HTML, CSS, JavaScript e C#. Atuo em projetos de diversas áreas, incluindo finanças, medicina e marketing, sempre focado em criar soluções inovadoras, eficientes e seguras.
 
-Tenho domínio de ferramentas e bibliotecas fundamentais para ciência de dados, como Pandas, Numpy e Scikit-Learn, e também experiência com Big Data e Deep Learning, utilizando frameworks como TensorFlow e Keras para a construção de modelos preditivos de alta performance.
-
-No desenvolvimento web, trabalho com a criação de interfaces modernas, responsivas e funcionais, utilizando boas práticas de design e usabilidade. Em C#, desenvolvo sistemas robustos no ecossistema .NET, incluindo integração com APIs, bancos de dados e aplicações desktop/web.
-
-Minha formação técnica é complementada por conhecimentos em segurança da informação, o que me permite aplicar práticas de codificação segura, realizar análises de vulnerabilidades e prevenir riscos comuns com base em diretrizes como o OWASP Top 10.
-
-Entre minhas principais qualidades estão a precisão na análise de dados, o comprometimento com a qualidade do código e a entrega pontual dos projetos. Estou constantemente aprendendo e acompanhando as tendências do setor para melhorar continuamente minha atuação profissional.
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-## (EN)
-I am a software developer with a solid foundation in Python, Artificial Intelligence and Data Science, as well as practical experience in web development with HTML, CSS, JavaScript and C#. I work on projects in several areas, including finance, medicine and marketing, always focused on creating innovative, efficient and secure solutions.
-
-I have mastery of fundamental tools and libraries for data science, such as Pandas, Numpy and Scikit-Learn, and also experience with Big Data and Deep Learning, using frameworks such as TensorFlow and Keras to build high-performance predictive models.
-
-In web development, I work on creating modern, responsive and functional interfaces, using good design and usability practices. In C#, I develop robust systems in the .NET ecosystem, including integration with APIs, databases and desktop/web applications.
-
-My technical background is complemented by knowledge in information security, which allows me to apply secure coding practices, perform vulnerability analyses and prevent common risks based on guidelines such as the OWASP Top 10.
-
-Among my main qualities are accuracy in data analysis, commitment to code quality and timely delivery of projects. I am constantly learning and following industry trends to continually improve my professional performance.
-
 &nbsp;
 &nbsp;
 
