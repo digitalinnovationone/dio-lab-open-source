@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
 <h1 align="center">Francisco das Chagas Teófilo da Silva</h1>
-<h3 align="center">Analista de TI | Desenvolvedor de Sistemas | Administrador de Redes de Computadores</h3>
+<h3 align="center">Analista de TI | Desenvolvedor de Sistemas | Administrador de Redes</h3>
 
 <p align="center">
   <a href="mailto:teophilo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
