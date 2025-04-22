@@ -41,7 +41,7 @@ In my free time I like to play (and watch) Basketball (🏀), watch movies and s
 
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Visitors Counter</b></p>  
 <p align="center"><img align="center" width="30%" src="https://profile-counter.glitch.me/{NascimentoJhesimiel}/count.svg" /></p> 
 <br></div>
 
