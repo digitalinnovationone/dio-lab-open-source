@@ -5,7 +5,6 @@
 killall plasmashell &>/dev/null
 
 # Verifica a conectividade com a internet antes de iniciar
-# Substitua "8.8.8.8" por outro IP ou domínio, se necessário
 if ! ping -c 4 127.0.0.1; then
     echo "Sem conectividade com a internet. Continuando mesmo assim..."
 fi
