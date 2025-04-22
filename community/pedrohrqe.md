@@ -25,7 +25,9 @@ Sou um desenvolvedor com expriência em **PHP** e **JavaScript**, ultimamente te
 
 ## Stats
 Linguagens mais usadas
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedrohrqe&layout=compact&bg_color=0d2242&border_color=FFFFFF&title_color=E94D5F&text_color=FFF&hide_title=true)
 
 GitHub stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrohrqe&theme=transparent&bg_color=0d2242&border_color=FFFFFF&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
