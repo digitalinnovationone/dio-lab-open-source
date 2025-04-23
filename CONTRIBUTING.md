@@ -81,6 +81,9 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 
 > Se quiser aprender mais sobre GIT e comandos, acesso a documentação do GIT: [Documentação GIT](https://git-scm.com/doc).
 
+## SE QUISER ADICIONAR ALGUNS ICONS.
+
+> Tem um site também, muito famoso para você acessar e adicionar icons ao seu site, acesse: [Icons](https://icons8.com.br/icons).
 ## Convenção de Commits 
 
 | Tipo de Commit |Descrição                                                            | Exemplo
