@@ -46,7 +46,7 @@ Utilize o comando `git checkout -b` para criar e alternar para a nova branch e n
 Para isso, você pode se inspirar nos exemplos no diretório [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils)
 
 ### 5) Adicione suas alterações à "staging area" 
-Utilize o comando `git add community/SEU_USERNAME.md` para adicionar sua alteração (nesse caso o arquivo markdown criado)  à "staging area" no Git.
+Utilize o comando `git add community/SEU_USERNAME.md` para adicionar sua alteração (nesse caso o arquivo markdown criado)  à "staging area" no Git
 
 ### 6) Crie um Commit
 Crie um commit e adicione a mensagem indicando a adição do seu perfil:
@@ -67,8 +67,8 @@ git push origin feat/community/SEU_USERNAME
 ### 8) Crie um **Pull Request**.
 
 Atente-se para a seguir as orientações para a contribuição, principalmente:
-- Seu PR deve modificar apenas o arquivo community/SEU_USERNAME.md (dê uma olhadinha na aba "Files changed");
-- O nome desse arquivo deve ser exatamente igual ao nome de usuário no GitHub (nossa validação é case-sensitive).
+- Seu PR deve modificar apenas o arquivo community/SEU_USERNAME.md (dê uma olhadinha na aba "Files changed")
+- O nome desse arquivo deve ser exatamente igual ao nome de usuário no GitHub (nossa validação é case-sensitive)
 
 >[!NOTE]
 > Caso não saiba como criar uma solicitação de pull, reveja o lab ou acesse a documentação do GitHub: [Como criar uma solicitação de pull
