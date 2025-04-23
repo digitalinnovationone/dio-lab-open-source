@@ -1,6 +1,7 @@
 
 # vMateus1234
-
+## Vinicius Mateus 
+### 23/04/2025
 Uma rápida descrição da minha carreira como iniciante.
 
 ## Conecte-se comigo
@@ -19,4 +20,6 @@ Desenvolvendo Habilidades:
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vMateus1234&theme=transparent&bg_color=000&border_color=25A9DC&show_icons=true&icon_color=30A3DC&title_color=E50D9F&text_color=FFF)
 ## Sobre 
-Não tenho muita experiência. Estou caminhando em direção á proficionalização da minha carreira.
+### Cursando o Terceiro ano do Ensino Médio - Curso e Colégio Integral
+### Inglês Avançado -  Wise Up
+Não tenho muita experiência em computação. Estou caminhando em direção a proficionalização da minha carreira.
