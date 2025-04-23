@@ -11,5 +11,5 @@ Profissional de tecnologia, apaixonado por aprendizado contínuo. Atualmente apr
 - Suporte Técnico
 
 ## Links
-[LinkedIn](https://www.linkedin.com/in/eonardo-custodio-)
+[LinkedIn](https://www.linkedin.com/in/leonardo-custodio-/)
 [GitHub](https://github.com/Leonardo1202)
