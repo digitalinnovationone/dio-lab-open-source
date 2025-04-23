@@ -1,17 +1,18 @@
 ---
 name: Community Challenge
 about: Crie uma issue sobre o Desafio proposto à comunidade
-title: "[DESAFIO]"
-labels: community challenge
+title: "[DESAFIO] Dio - Lukas"
+labels: documentation
 assignees: ''
 
 ---
 
 *Tem alguma sugestão para quem for fazer o Desafio? Por favor descreva.*
-Uma descrição do que pode ser feito. 
+Adicionar mais imagens e icons ao projeto.
 
 *Descreva como você realizou o seu*
-Uma descrição sobre como você fez o seu.
+Adicionei um site do Git que estava faltando no projeto, já que mexemos muito com Git e afins
 
 *Links úteis*
-- [Nome do Link](URL)
+- [Icons para o projeto](https://icons8.com.br/icons)
+- [Site do Git](https://git-scm.com/)
