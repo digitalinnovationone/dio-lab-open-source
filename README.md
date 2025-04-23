@@ -69,6 +69,14 @@ Para isso, você pode inserir: badges indicando suas habilidades; cards com suas
 ### Fórum do Repositório (GitHub Discussions)
 GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. Caso tenha dúvidas, você pode abrir uma discussão, dentro de uma categoria apropriada, na aba "Discussions" do repositório do projeto.
 
+## GIT
+
+> Se quiser aprender mais sobre GIT e comandos, acesso a documentação do GIT: [Documentação GIT](https://git-scm.com/doc).
+
+## SE QUISER ADICIONAR ALGUNS ICONS.
+
+> Tem um site também, muito famoso para você acessar e adicionar icons ao seu site, acesse: [Icons](https://icons8.com.br/icons).
+
 > [!WARNING]  
 > **Atenção:** Antes de criar uma nova discussão, verifique se sua dúvida já foi respondida em discussões anteriores. Use a função de pesquisa para encontrar tópicos relevantes.
 
