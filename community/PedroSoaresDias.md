@@ -3,7 +3,7 @@
 - Meu primeiro contato com a programação foi com o C#.
 - Interesado na área de Desenvolvimento Web.
 - Gostaria de atuar como Dev Full-stack.
-- Atualmente cursando no 5º Semestre de Análise e Desenvolvimento de Sistemas.
+- Formado em Análise e Desenvolvimento de Sistemas.
 
 <hr>
 
@@ -37,10 +37,13 @@
 
 <div style="display: inline_block">
   <img align="center" alt="PedroSoaresDias-CSharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="PedroSoaresDias-DotNetCore" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="PedroSoaresDias-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="PedroSoaresDias-Spring" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="PedroSoaresDias-NodeJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="PedroSoaresDias-JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="PedroSoaresDias-TypeScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="PedroSoaresDias-ExpressJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
 </div>
 
 #### Ferramentas para o desenvolvimento
@@ -50,10 +53,20 @@
   <img align="center" alt="PedroSoaresDias-NPM" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="PedroSoaresDias-GitHub" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="PedroSoaresDias-VisualStudioCode" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="PedroSoaresDias-Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="PedroSoaresDias-Maven" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
+  <img align="center" alt="PedroSoaresDias-Nuget" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuget/nuget-original.svg">
+  <img align="center" alt="PedroSoaresDias-Postman" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
 </div>
 
 <hr>
 
 ### Meus projetos e contribuições
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroSoaresDias&repo=github-profile&bg_color=000&border_color=8A2BE2&show_icons=true&icon_color=30A3DC&title_color=6A5ACD&text_color=7CFC00)](https://github.com/PedroSoaresDias/github-profile) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroSoaresDias&repo=dio-lab-open-source&bg_color=000&border_color=8A2BE2&show_icons=true&icon_color=30A3DC&title_color=6A5ACD&text_color=7CFC00)](https://github.com/PedroSoaresDias/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroSoaresDias&repo=github-profile&bg_color=000&border_color=8A2BE2&show_icons=true&icon_color=30A3DC&title_color=6A5ACD&text_color=7CFC00)](https://github.com/PedroSoaresDias/github-profile) 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroSoaresDias&repo=SimuladorFinanceiro&bg_color=000&border_color=8A2BE2&show_icons=true&icon_color=30A3DC&title_color=6A5ACD&text_color=7CFC00)](https://github.com/PedroSoaresDias/SimuladorFinanceiro) 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroSoaresDias&repo=MinimalApi&bg_color=000&border_color=8A2BE2&show_icons=true&icon_color=30A3DC&title_color=6A5ACD&text_color=7CFC00)](https://github.com/PedroSoaresDias/MinimalApi) 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroSoaresDias&repo=BuddyBuilderBackend&bg_color=000&border_color=8A2BE2&show_icons=true&icon_color=30A3DC&title_color=6A5ACD&text_color=7CFC00)](https://github.com/PedroSoaresDias/BuddyBuilderBackend) 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroSoaresDias&repo=BuddyBuilder&bg_color=000&border_color=8A2BE2&show_icons=true&icon_color=30A3DC&title_color=6A5ACD&text_color=7CFC00)](https://github.com/PedroSoaresDias/BuddyBuilder) 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroSoaresDias&repo=api-gaming-spring&bg_color=000&border_color=8A2BE2&show_icons=true&icon_color=30A3DC&title_color=6A5ACD&text_color=7CFC00)](https://github.com/PedroSoaresDias/api-gaming-spring) 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroSoaresDias&repo=dio-lab-open-source&bg_color=000&border_color=8A2BE2&show_icons=true&icon_color=30A3DC&title_color=6A5ACD&text_color=7CFC00)](https://github.com/PedroSoaresDias/dio-lab-open-source)
