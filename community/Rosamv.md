@@ -2,10 +2,7 @@
 - 💓 programação com amor
 - 😄 Pronomes:Ela/dela
 <div align="center">
-  <a href="https://github.com/CodRosa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodRosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodRosa&layout=compact&langs_count=7&theme=dracula"/>
-</a>
+ <h2>Eu estou aqui para contribuir um trabalho de qualidadesempre aprendendo e reforçando para que me torne uma profissional de milhões. Sou formada em técnico de informática,e possuo cursos na área de programação full-stack,arduino,conhecimento em UI e UX Designer. E penso futuramente em entrar em desenvolvimento mobile, sou amante da engenharia da computação e quero me tornar uma em breve!</h2>
 </div>
 
   <div style="display: inline_block"><br>
