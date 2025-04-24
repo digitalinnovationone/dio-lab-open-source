@@ -1,4 +1,19 @@
 
+<!--
+**jamisonmmartins/jamisonmmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 <!-- [![GitHub followers](https://img.shields.io/github/followers/jamison.com.br?label=Seguir&style=social)](https://github.com/jamison.com.br) -->
 [![GitHub followers](https://img.shields.io/github/followers/jamisonmmartins?label=Seguir&style=social)](https://github.com/jamisonmmartins)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:eu@jamison.com.br)
@@ -14,10 +29,9 @@ Bem-vindo ao meu perfil! 👋 Sou um profissional de TI apaixonado por resolver 
 
 ## 💻 Tecnologias e Ferramentas
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png) 
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 
 ## 🌱 Estou Aprendendo
 
@@ -39,9 +53,8 @@ Estou sempre aberto a sugestões e recursos adicionais sobre esses tópicos. Se 
 
 
 ## 🚀 Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jamisonmmartins&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-<!-- ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jamisonmmartins&layout=compact&theme=radical) -->
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jamisonmmartins&layout=compact&theme=radical)
 
 ## 👨‍💻 Objetivos Futuros
 
@@ -59,6 +72,11 @@ Estou entusiasmado com meu progresso até agora e tenho planos ambiciosos para o
 
 Estou animado para ver como esses objetivos se desdobram e para continuar aprendendo e crescendo como desenvolvedor web. Se você tem sugestões ou conselhos sobre esses objetivos, ficarei muito feliz em ouvir!
 
+<!--
+## 📚 Recursos Recomendados
+Compartilhe recursos que você achou úteis em sua jornada de aprendizado.
+-->
+
 ## 🤝 Como Contribuir
 
 Se você é um desenvolvedor experiente, adoraria receber feedback em meus projetos. Sinta-se à vontade para abrir issues ou enviar pull requests.
@@ -69,5 +87,11 @@ Sinta-se à vontade para entrar em contato comigo para discussões, colaboraçõ
 
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eu@jamison.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamisonmmartins/)
+<!--
+[![Discord](https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/@jamisonmmartins)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/seu-numero-whatsapp/)
+-->
 
 ## 😄 Obrigado por Visitar!
+
+Agradeço por dar uma olhada no meu perfil. Vamos aprender e criar juntos!
