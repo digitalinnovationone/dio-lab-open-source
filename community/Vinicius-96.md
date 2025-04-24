@@ -1,0 +1,3 @@
+# Sobre Mim
+
+- Me chamo Vinicius, trabalho há 11 anos como sócio proprietario em um viveiro de mudas de Urucum, durante esse periodo tive o prazer em poder contribuir em colaboração com um empresa para o desenvolvimento e testes de tubetes biodegradavéis para mudas de Urucum e Eucalipto, minha participação foi em testar e identificar falhas no projeto e obter soluções para elas. Recentimente Iniciei no mundo da Programação, para ser mais preciso no desenvolvimento de websites, Estou aprendendo HTML5, CSS3, Javascrpit & Bootstrap. 
