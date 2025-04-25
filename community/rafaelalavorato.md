@@ -1,6 +1,6 @@
 ### Olá! Seja bem-vindo(a)! 👋  
 
-<img width="150" align="left" src="https://github.com/rafaelalavorato/rafaelalavorato/blob/main/img/baixados%20(2).png">  
+<img width="200" align="left" src="https://github.com/rafaelalavorato/rafaelalavorato/blob/main/img/baixados%20(2).png">  
  
 Olá! Meu nome é **Rafaela** e sou apaixonada por aviação e tecnologia! Sou formada em Engenharia Aeronáutica e Análise e Desenvolvimento de Sistemas.
 Sou Desenvolvedora Full Stack Junior nos Supermercados BH utilizando C#, .Net, TypeScript, React e MongoDB.
