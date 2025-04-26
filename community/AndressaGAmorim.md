@@ -72,13 +72,18 @@
 
 <div align="center">
   
-🏅 [Python](https://portalhashtag.com/certificado-hashtag/1736426160418x274578155017856100)
-🏅 [SQL](https://portalhashtag.com/certificado-hashtag/1736529014558x344876602798374900)
-🏅 [Power BI](https://portalhashtag.com/certificado-hashtag/1736534961784x476084900631937000)
-🏅 [Inteligência Artificial](https://portalhashtag.com/certificado-hashtag/1711375377147x784940671058313200)
-🏅 [Análise de Dados (Python)](https://portalhashtag.com/certificado-hashtag/1736529017317x122594220444745730)
-🏅 [Análise de Dados (Power BI e SQL)](https://portalhashtag.com/certificado-hashtag/1718304262012x296160674296608960)
-🏅 [Word](https://portalhashtag.com/certificado-hashtag/1736554735081x106099976523677420)
+🏅[Python](https://portalhashtag.com/certificado-hashtag/1736426160418x274578155017856100)
+🏅[SQL](https://portalhashtag.com/certificado-hashtag/1736529014558x344876602798374900)
+🏅[Power BI](https://portalhashtag.com/certificado-hashtag/1736534961784x476084900631937000)
+🏅[Inteligência Artificial](https://portalhashtag.com/certificado-hashtag/1711375377147x784940671058313200)
+🏅[Análise de Dados (Python)](https://portalhashtag.com/certificado-hashtag/1736529017317x122594220444745730)
+🏅[Análise de Dados (Power BI e SQL)](https://portalhashtag.com/certificado-hashtag/1718304262012x296160674296608960)
+🏅[Word](https://portalhashtag.com/certificado-hashtag/1736554735081x106099976523677420) </br>
+🏅[Introdução ao Microsoft Certification Challenge #3 DP-100](https://hermes.dio.me/certificates/ZBR59ONV.pdf)
+🏅[Ciclo de Vida do Processo de Ciência de Dados](https://hermes.dio.me/certificates/RQOKLCDZ.pdf) </br>
+🏅[Projetar uma Solução de Aprendizado de Máquina](https://hermes.dio.me/certificates/583R2DLD.pdf)
+🏅[Versionamento de Código com Git e GitHub](https://hermes.dio.me/certificates/U5GSQ7HS.pdf) </br>
+🏅[Desafios de Projetos: Crie Um Portfólio Vencedor](https://hermes.dio.me/certificates/VOF2BBVZ.pdf)
 
  </div>
 
