@@ -4,43 +4,93 @@
 
 <div align="center">05/08/2000</div>
 
-📱 (21) 97106-0733  </br>
-📧 andressagrazioli@outlook.com  </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andressa-grazioli-amorim-4a8a68220/)  </br>
+<div align="center">
+
+<h3>Contatos</h3>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andressa-grazioli-amorim-4a8a68220/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/AndressaGAmorim)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5521971060733)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:andressagrazioi@outlook.com)
 
-──────────────────────────────────────────────────
-<h3>Objetivo</h3>
-Busco uma oportunidade como trainee ou junior com foco em análise de dados. Pretendo cursar uma pós-graduação em Ciência de Dados.
+</div>
 
-──────────────────────────────────────────────────
+<div align="center"> ────────────────────────────────────────────────── </div>
 
-<h3>Competências Técnicas</h3>
-Python | Inteligência Artificial | SQL | Banco de Dados | Power BI | Análise de Dados | Pacote Office | SAP (CPI, ABAP) – Básico | JavaScript, WordPress, HTML5, CSS3 – Básico
+<div align="center"> <h3>Objetivo</h3> </div>
 
-Idiomas: Inglês e Espanhol – Intermediário
+<div align="center"> Busco uma oportunidade como trainee ou junior com foco em análise de dados. Pretendo cursar uma pós-graduação em Ciência de Dados. </div> </br>
 
-──────────────────────────────────────────────────
+<div align="center"> ────────────────────────────────────────────────── </div>
 
-<h3>Resumo Profissional</h3>
-Experiência em interação com o público, sou proativa, dedicada e habilidosa em relações interpessoais, seguindo normas éticas. Busco aprimoramento contínuo na área de dados e tecnologia.
+<div align="center"> <h3>Competências Técnicas</h3> </div>
 
-──────────────────────────────────────────────────
+<div align="center"> 
+  <!-- Python -->
+<img align="center" alt="Gu-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
-<h3>Educação</h3>
-🎓 Análise e Desenvolvimento de Sistemas – Universidade IBMR (2022 - 2025)
+<!-- AI -->
+<img align="center" alt="Gu-IA" height="30" width="40" src="https://img.icons8.com/ios-filled/50/artificial-intelligence.png">
 
-──────────────────────────────────────────────────
+<!-- SQL -->
+<img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
-<h3>Conquistas</h3>
-🏆 Maior nota do Enem 2018 na região de Itaguaí/Mangaratiba para Administração (ProUni).</br>
-🏆 Certificado de destaque colegial pelo Governo Estadual em 2018.
+<!-- Banco de Dados (Banco genérico - Database) -->
+<img align="center" alt="BancoDeDados" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png">
 
-──────────────────────────────────────────────────
+<!-- Power BI -->
+<img align="center" alt="PowerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
 
-<h3>Certificados</h3>
+<!-- Pacote Office -->
+<img align="center" alt="Word" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732221.png">
 
-📜 Análise De Dados - Hashtag Treinamentos </br>
+<!-- SQL Server -->
+<img align="center" alt="SQLServer" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
+
+
+<!-- SAP (Usei o logo da SAP para representar CPI e ABAP também) -->
+<img align="center" alt="SAP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg">
+
+<!-- JavaScript -->
+<img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+
+<!-- WordPress -->
+<img align="center" alt="WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
+
+<!-- HTML5 -->
+<img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+
+<!-- CSS3 -->
+<img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+
+
+</div>
+
+<div align="center"> ────────────────────────────────────────────────── </div>
+<div align="center"> <h3>Idiomas</h3> </div>
+<div align="center"> Inglês e Espanhol – Intermediário </div>
+
+<div align="center"> ────────────────────────────────────────────────── </div>
+
+<div align="center"> <h3>Resumo Profissional</h3> </div>
+<div align="center"> Experiência em interação com o público, sou proativa, dedicada e habilidosa em relações interpessoais, seguindo normas éticas. Busco aprimoramento contínuo na área de dados e tecnologia. </div>
+
+<div align="center"> ────────────────────────────────────────────────── </div>
+<div align="center"> <h3>Educação</h3> </div>
+<div align="center"> 🎓 Análise e Desenvolvimento de Sistemas – Universidade IBMR (2022 - 2025) </div>
+
+
+<div align="center"> ────────────────────────────────────────────────── </div>
+<div align="center"> <h3>Conquistas</h3> </div>
+
+<div align="center"> 🏆 Maior nota do Enem 2018 na região de Itaguaí/Mangaratiba para Administração (ProUni).</br>
+🏆 Certificado de destaque colegial pelo Governo Estadual em 2018. </div>
+
+<div align="center"> ────────────────────────────────────────────────── </div>
+
+<div align="center"> <h3>Certificados</h3> </div>
+
+<div align="center"> 📜 Análise De Dados - Hashtag Treinamentos </br>
 📜 Python - Hashtag Treinamentos </br>
 📜 SQL - Hashtag Treinamentos </br>
 📜 Power BI - Hashtag Treinamentos </br>
@@ -49,3 +99,4 @@ Experiência em interação com o público, sou proativa, dedicada e habilidosa 
 📜 Análise De Dados (PowerBI e SQL) - Hashtag Treinamentos </br>
 📜 Word / Aplicações Práticas - Hashtag Treinamentos
 
+ </div>
