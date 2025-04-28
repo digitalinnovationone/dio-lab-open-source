@@ -1,8 +1,8 @@
-<image src="image-12.png" alt= "alt text" widht="90" height="40">  Dio| Contribuindo em um projeto open source no GitHub
+<image src="image-12.png" alt= "alt text" widht="90" height="40">  **Dio| Contribuindo em um projeto open source no GitHub**
 Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio e exercício prático para o lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One. [Digital inovation on](https://web.dio.me/course/).
  
 # Amauri Rodrigues de almeida 
-Um pouco de mim:
+**Um pouco de mim:**
 
 ![alt text](image-7.png)
 
