@@ -1,0 +1,1 @@
+***Olá! Sou uma novata bebê no mundo das linguagens e meu arquivo está tristemente vazio, pois nada sei. Porém, sou entusiasta de que a DIO irá contribuir imensamente para o desenvolvimento das minhas habilidades.***
