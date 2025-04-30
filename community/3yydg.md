@@ -3,9 +3,9 @@
 
 ## Sobre mim
 
-- Explorando novas tecnologias.
-- Estudando **Engenharia de software**.
-- Aprendendo sempre!
+-Explorando novas tecnologias.
+-Estudando **Engenharia de software**.
+-Aprendendo sempre!
 
 **Aprendendo mais sobre**
  
