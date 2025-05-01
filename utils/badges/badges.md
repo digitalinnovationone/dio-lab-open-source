@@ -37,7 +37,7 @@
         <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
       </td>
       <td>
-        <code>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)</code>
+        <code>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamil/)</code>
       </td>
     </tr>
     <tr>
@@ -45,7 +45,7 @@
         <img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
       </td>
       <td>
-        <code>[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@SEUUSERNAME/)</code>
+        <code>[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@jamil/)</code>
       </td>
     </tr>
     <tr>
@@ -53,7 +53,7 @@
         <img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
       </td>
       <td>
-        <code>[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SEUUSERNAME/)</code>
+        <code>[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jamil/)</code>
       </td>
     </tr>
     <tr>
@@ -61,7 +61,7 @@
         <img align="center" alt="X" src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x">
       </td>
       <td>
-        <code>[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/SEUUSERNAME)</code>
+        <code>[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/jamil)</code>
       </td>
     </tr>
     <tr>
@@ -69,7 +69,7 @@
         <img align="center" alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
       </td>
       <td>
-        <code>[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEUUSERNAME/)</code>
+        <code>[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jamil/)</code>
       </td>
     </tr>
     <tr>
@@ -85,7 +85,7 @@
         <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
       </td>
       <td>
-        <code>[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)</code>
+        <code>[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jamil)</code>
       </td>
     </tr>
     <tr>
