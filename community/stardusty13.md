@@ -1,6 +1,7 @@
 
-# Aline Gaspar
-Essa sou eu Dj, produtora cultural e aventureira aprendendo programacão.
+# Stardusty13
+Essa sou eu Dj, produtora cultural e aventureira aprendendo programacão e claro me chamo aline 
+
 
 # Minhas redes sociais
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=993399)](mailto:lollystardusty@gmail.com)
@@ -14,6 +15,4 @@ Essa sou eu Dj, produtora cultural e aventureira aprendendo programacão.
 
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
-# MINHA CONTRIBUIÇÃO
 
-https://github.com/stardusty13/dio-lab-open-source
