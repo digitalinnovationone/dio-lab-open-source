@@ -5,15 +5,15 @@ Currently finishing my Ph.D. in Physics, I am shifting my career focus towards p
 
 ## Soft Skills
 
-- Perfil Analítico
-- Resolução de problemas
-- Apresentação e comunicação em público
-- Curiosidade
+- Analytical mindset
+- Problem-solving
+- Public speaking and communication
+- Curiosity
 
 ## Hard Skills
 
-- Graduação em Física (UFSC)
-- Mestrado em Física (UFMG)
+- Bachelor’s degree in Physics (UFSC)
+- Master’s degree in Physics (UFMG)
 
 
 ## Technical Skills
