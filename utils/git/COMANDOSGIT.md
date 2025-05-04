@@ -29,6 +29,7 @@ Este documento fornece uma visão geral dos comandos essenciais do Git.
   - [Limpeza](#limpeza)
   - [Cherry-picking](#cherry-picking)
   - [Merge Avançado](#merge-avancado)
+  - [Automações](#automacoes)
 
 <a id="configurando-o-git"></a>
 ## ⚙️ Configurando o Git
@@ -564,6 +565,19 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   $ git merge --abort
   ```
   ⚠️ **Aviso**: Abortar o merge reverterá quaisquer mudanças feitas durante a operação de merge.
+
+###
+
+<a id="automacoes"></a>
+### Automações
+
+- **Alterar diretório de hooks**:
+  ```bash
+  $ git config core.hooksPath [nome_do_diretorio]
+  ```
+
+  Altera o diretório onde as automações estão localizadas. Por padrão ficam em .git/hooks
+  Ideal para versionar hooks.
 
 ###
 
