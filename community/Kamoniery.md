@@ -7,5 +7,5 @@ junto á consequente necessidade de novos profissionais na área.
 Atualmente estou estudando Git, GitHut=b, desenvolvimento open source, Python e java,
 ao passo que também estou aqui participando do desafio da Dio, Digital Innovation One,
 apredendo tudo do zero, com calma e dedicação, a fim de construir uma base sólida de
-conhecimento construir meu portifólio e um perfil profissional que me traga as
+conhecimento construir meu portfólio e um perfil profissional que me traga as
 oportunidades que busco. Um passo de cada vez.
