@@ -1,2 +1,0 @@
-Opa! Blz? 👋
-jpfreire aqui
