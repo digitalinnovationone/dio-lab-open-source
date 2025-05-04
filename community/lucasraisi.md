@@ -8,6 +8,7 @@ CNH – AB com EAR (Exerce Atividade Remunerada)
 Maringá – Paraná – Brasil
 
 Telefone: +55 (11) 9.5002-4882 / (44) 9.9870-5211
+
 E-mail: lucasraisi@gmail.com / lucasraisi@hotmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-raisi/)
