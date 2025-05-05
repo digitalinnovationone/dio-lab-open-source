@@ -1,7 +1,7 @@
-# João Pedro Pardinho 
+# João Pedro Pardinho  
 Olá! Sou João, mas se preferir pode me chamar de Pardin, sou estudante de Ciência da Computação na UFES. Tenho interesse em desenvolvimento de software, tecnologias web e projetos que desafiem minha lógica e criatividade.
 
-## Conecte-se comigo
+## Conecte-se comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jppardinho/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jp.pardinho/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jp-pardinho)
