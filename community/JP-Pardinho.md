@@ -1,26 +1,38 @@
-# João Pedro Pardinho  
-Olá! Sou João, mas se preferir pode me chamar de Pardin, sou estudante de Ciência da Computação na UFES. Tenho interesse em desenvolvimento de software, tecnologias web e projetos que desafiem minha lógica e criatividade.
+```
+#### Olá Mundo! Pode me chamar de Pardinho <img src="https://raw.githubusercontent.com/arthurgalanti/igorpardinho/main/assets/man-technologist.gif" width="30" style="vertical-align: middle;">
 
-## Conecte-se comigo 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jppardinho/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jp.pardinho/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jp-pardinho)
+Futuro Desenvolvedor Full Stack cursando Análise e Desenvolvimento de Sistemas na WYDEN, apaixonado por resolver problemas!
 
-## Habilidades 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Figorpardinho"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Figorpardinho&label=Visitantes%20(HOJE%2FTotal)&labelColor=%235b187e&countColor=%235b187e&labelStyle=upper" /></a>
+
+<div style="width: max-content;">
+
+#### 👨‍💻 Linguagens - Frameworks - Tecnologias - Ferramentas  🛠
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23EFD81D?style=flat-square&labelColor=%23414141&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white))</div>
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jp-pardinho&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)</div>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jp-pardinho&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![SQLServer](https://img.shields.io/badge/SQLServer-%23DB2A20.svg?style=flat-square&labelColor=%23414141&logo=microsoftsqlserver&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&labelColor=%23414141&logo=postgresql&logoColor=white)</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jp-pardinho&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+</div></div>
 
-## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jp-pardinho&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JP-Pardinho/dio-lab-open-source)
+#### 🌱 Estou estudando atualmente:
+<div>
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="https://img.shields.io/badge/Inglês-%2300A86B?style=flat-square&labelColor=%23414141logoColor=white" />
+![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+</div>
+
+
+
+#### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" style="vertical-align: middle;"> Minhas estatísticas do GitHub: 
+[![Linguagens](https://github-readme-stats.vercel.app/api?username=igorpardinho&show_icons=true&locale=pt-BR&&theme=dark)](https://github.com/igorpardinho?tab=repositories)
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=igorpardinho&layout=compact&locale=pt-BR&&theme=dark)](https://github.com/igorpardinho?tab=repositories)
+
+#
+```
