@@ -22,4 +22,9 @@
 - Consolidar conhecimentos em análise e visualização de dados.  
 - Aprender continuamente e aplicar na prática.
 
+## Onde me encontrar  
+- [GitHub](https://github.com/joaofonsecan3)  
+- [LinkedIn](https://www.linkedin.com/in/fonsecajm/)  
+- [Medium](https://medium.com/@joaofonsecan3)
+
 
