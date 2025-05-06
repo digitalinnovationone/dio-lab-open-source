@@ -57,11 +57,13 @@ Para contribuir neste repositório, uma das formas é através da contribuição
 Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
  Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
 
- ---
+ 
 
-###  Primeiros passos rápidos
+---
 
-Quer contribuir, mas não tem paciência pra ler tudo? Aqui vai um guia rápido:
+### Primeiros passos rápidos
+
+Quer contribuir, mas não tem paciência pra ler tudo? Aqui vai um guia express:
 
 ```bash
 # 1. Fork o repositório (use o botão lá em cima)
@@ -81,6 +83,7 @@ git commit -m "feat: adiciona meu profile README na pasta community"
 git push origin minha-contribuicao-top
 
 # 6. Abra um Pull Request no repositório original
+```
 
 #### Utilitários
 
