@@ -1,0 +1,27 @@
+# Augusto Mathias Adams
+
+## Português
+
+Atualmente, atuo como Consultor Especialista em Eletricidade Atmosférica na FEA/UFPR. Meu principal foco de pesquisa gira em torno das atividades elétricas atmosféricas, especificamente na localização precisa de descargas elétricas dentro de uma rede de detecção de curtas distâncias.
+
+Ao longo de minhas atividades de pesquisa, desempenhei um papel fundamental no desenvolvimento de detectores remotos de raios, sistemas de localização de descargas, ferramentas de visualização de tempestades e na aplicação de Inteligência Artificial para identificação de formas de onda de raios. Dediquei especial atenção à classificação de descargas compactas intranuvem (Compact Intracloud Discharges – CID).
+
+Além do meu papel como Consultor, também atuei como Trainee Desenvolvedor Full-Stack na SESP/PR. Durante esse período, fui responsável pelo design e implementação de diversos sistemas de monitoramento, contribuindo ativamente para o aprimoramento de ideias voltadas à Segurança Pública.
+
+Paralelamente, estou cursando um mestrado em Engenharia Elétrica  na Universidade Federal do Paraná. Minha dissertação de mestrado tem como foco a criação de um detector de descargas atmosféricas. Esse sistema inovador inclui um mecanismo de aquisição projetado especificamente para capturar múltiplos tipos de descargas atmosféricas a curtas distâncias. Além disso, integra um sistema de rede que emite alertas antecipados sobre riscos de descargas elétricas.
+
+Minha expertise abrange IoT, Instrumentação Eletrônica, Automação Industrial, Telecomunicações e Propagação de Ondas Eletromagnéticas. Tenho um forte compromisso com a aprendizagem contínua e estou motivado a contribuir para avanços tecnológicos nesses campos.
+
+## Inglês
+
+I currently serve as a Specialist Consultant in Atmospheric Electricity at FEA/UFPR. My primary research focus revolves around atmospheric electrical activities, specifically the precise localization of electrical discharges within a short-range detection network.
+
+Throughout my research endeavors, I have played a pivotal role in the development of remote lightning detectors, lightning localization systems, storm visualization tools, and the application of Artificial Intelligence for the identification of lightning waveforms. I have placed particular emphasis on the classification of Compact Intracloud Discharges (CID).
+
+In addition to my role as a Consultant, I have also served as a Full-Stack Developer Trainee at SESP/PR. During this period, I was responsible for designing and implementing various monitoring systems, actively contributing to the enhancement of concepts related to Public Security.
+
+Concurrently, I am pursuing a Master’s degree in Electrical Engineering at the Federal University of Paraná. My master’s dissertation focuses on the development of an atmospheric discharge detector. This innovative system incorporates a specially designed acquisition mechanism capable of capturing multiple types of atmospheric discharges at short distances. Furthermore, it integrates a network system that issues early warnings regarding lightning hazards.
+
+My expertise encompasses IoT, Electronic Instrumentation, Industrial Automation, Telecommunications, and Electromagnetic Wave Propagation. I maintain a strong commitment to continuous learning and am highly motivated to contribute to cutting-edge advancements in these fields.
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/superflankerCTBA) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:superflankerCTBA@gmail.com)![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)![Clouflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)![Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)

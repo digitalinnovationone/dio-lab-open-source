@@ -1,0 +1,1 @@
+Olá meu nome é Thereza, tenho 25 anos, sou advogada e estou em transição de carreira para a área de programação.
