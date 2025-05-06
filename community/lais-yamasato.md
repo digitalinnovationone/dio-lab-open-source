@@ -6,7 +6,7 @@
 <br>
 
 - 📖 Cursando o 2°semestre de tecnologia em análise e desenvolvimento de sistemas
-- 🏔️ gosto de uma aventura e bons desafios
+- 🏔️ gosto de aventura e bons desafios
 - 🍀 “A jornada de mil milhas começa com um único passo.” – Lao Tzu.
 
             
