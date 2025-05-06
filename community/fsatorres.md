@@ -7,7 +7,7 @@
 
 ## Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/fernando-satorres-bernardes-19948b39) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/fsatorres.ft/)https://img.shields.io/twitter/follow/realsatorres
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/fernando-satorres-bernardes-19948b39) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/fsatorres.ft/)[!X](https://img.shields.io/twitter/follow/realsatorres)
 
 
 ## Linguagens
