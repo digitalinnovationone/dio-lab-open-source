@@ -80,7 +80,7 @@ git checkout -b sua-contribuicao
 # 5. Adicione, commit e envie
 git add .
 git commit -m "feat: adiciona meu profile README na pasta community"
-git push origin minha-contribuicao-top
+git push origin sua-contribuicao
 
 # 6. Abra um Pull Request no repositório original
 ```
