@@ -4,7 +4,6 @@
 
 
 <img align="left" src="https://github.com/emersonpessoa01/emersonpessoa01/blob/main/image/images/amylee-programmer03.3.gif?raw=true" width="380" height="auto" style="margin:10px"/>
-
 <p>⚗️ Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Pará.</p>
 <p>💻 Redes de Computadores pela FAP-Faculdade do Estado do Pará.</p>
 <p>:books: Entusiasta em <b>programação</b>.</p>

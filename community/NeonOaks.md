@@ -52,7 +52,14 @@ Open to networking and knowledge exchange. Let's create innovative solutions tog
 ## Github Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeonOaks&theme=nightowl&hide_title=true)
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NeonOaks&repo=dio-lab-open-source&theme=nightowl )](https://github.com/NeonOaks/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NeonOaks&repo=ProjectJustice&theme=nightowl )](https://github.com/NeonOaks/ProjectJustice)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NeonOaks&repo=projetoBatman&theme=nightowl )](https://github.com/NeonOaks/projetoBatman)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NeonOaks&repo=springboot4-workshop-jpa&theme=nightowl )](https://github.com/NeonOaks/springboot4-workshop-jpa)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NeonOaks&repo=workshop-javafx-jdbc&theme=nightowl )](https://github.com/NeonOaks/workshop-javafx-jdbc)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NeonOaks&repo=mongo-spring-workshop&theme=nightowl )](https://github.com/NeonOaks/mongo-spring-workshop)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NeonOaks&repo=system_chess&theme=nightowl )](https://github.com/NeonOaks/system_chesse)
 
 
 
