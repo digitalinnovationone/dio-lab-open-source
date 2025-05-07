@@ -1,4 +1,5 @@
 #
+johnGARCIA401
 
 Formado como tecnico electricista e electronico desempenho o papel na microsoldadura e recuperaçao de circuitos electromico.
 
