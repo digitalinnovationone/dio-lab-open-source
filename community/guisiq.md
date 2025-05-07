@@ -1,7 +1,7 @@
 ### Olá, eu sou o guilherme Henrique👋
 
 
-## sobre min
+## sobre mim
 * 🔭 Formando em Sistemas de Informação (8º período);
 * 💼 Desenvolvedor Júnior .NET na Corteva Agriscience;
 * 🌱 Apaixonado por Desenvolvimento Back-End;
@@ -10,12 +10,9 @@
 * 🔗 LinkedIn:[guilherme-henrique](https://www.linkedin.com/in/guilherme-henrique-2a6255224/)&#x20;
 
 
-<div align="center">
-  <a href="https://github.com/guisiq">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guisiq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisiq&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
 ## habilidades 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
