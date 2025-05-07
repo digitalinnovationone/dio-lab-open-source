@@ -1,0 +1,2 @@
+# Sobre mim
+Olá! Meu nome é Johnny. Sempre me interessei por tecnologia, mas só resolvi estudar de fato alguma linguagem há pouco tempo. Desde então venho aprendendo Python aos poquinhos, movido por um interesse crescente na área de Administração de Sistemas, Ciência de Dados e Processamento de Linguagem Natural. Meu sonho é um dia poder integrar minhas duas paixões, a linguagem e a computação, numa coisa só.
