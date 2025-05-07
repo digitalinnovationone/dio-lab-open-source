@@ -11,6 +11,21 @@ Repositório desenvolvido para fins didáticos, com a disponibilização de mate
 
 ## Objetivo
 Aprender o básico sobre contribuição no GitHub.
+O objetivo desta contribuição é melhorar a documentação do projeto através de um README mais completo e informativo. Isso inclui a adição de seções que detalham a instalação, uso, contribuição e contato.
+
+Estrutura Proposta para o README
+Título e Descrição:
+Breve descrição do projeto e seu propósito.
+Instalação:
+Passos detalhados sobre como instalar o projeto, incluindo dependências e qualquer configuração necessária.
+Uso:
+Exemplos de como usar o projeto, incluindo comandos básicos e exemplos de código.
+Contribuição:
+Guia para novos contribuidores, incluindo como clonar o repositório, criar branches, fazer commits, e abrir pull requests.
+Licença:
+Informação sobre a licença do projeto.
+Contato:
+Informações de contato para dúvidas ou suporte.
 
 ## Ferramentas
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
