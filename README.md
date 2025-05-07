@@ -9,12 +9,30 @@ Repositório desenvolvido para fins didáticos, com a disponibilização de mate
 [![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
 [![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
 
+## Sobre Mim
+Olá! Eu sou Jéssika, estudante de Ciência da Computação. Estou aprendendo HTML, CSS e JavaScript, e estou me familiarizando com Git e GitHub. Estou animada para contribuir com projetos Open Source!
+
 ## Objetivo
 Aprender o básico sobre contribuição no GitHub.
+
+## Habilidades
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
 
 ## Ferramentas
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+
+## Contato
+- Email: jessika_andrade_11@hotmail.com
+- LinkedIn: [Meu Perfil](https://www.linkedin.com/in/j%C3%A9ssika-andrade-920633231/edit/forms/intro/new/?profileFormEntryPoint=PROFILE_SECTION)
+
+## Agradecimentos
+Agradeço à Digital Innovation One e a todos os colaboradores do projeto.
+
+<hr>
 
 ## Percurso
 <table>
