@@ -111,7 +111,7 @@ local.properties
 # *.ipr
 
 # CMake
-cmake-build-*/
+#hello
 
 # Mongo Explorer plugin
 .idea/**/mongoSettings.xml
