@@ -5,11 +5,15 @@ Olá, sou Rodrigo Porto, formado em Engenharia de Produção pela Universidade F
 
 ## Hard Skills
 
+## Linguagens de Marcação e Estilo
+
+[![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)](https://www.markdownguide.org/)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
+
 ### Linguagens de Programação
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![M Code](https://img.shields.io/badge/M_Code-1D5D3B?style=for-the-badge&logoSize=auto)
 ![VBA Excel](https://img.shields.io/badge/vba_excel-1D5D3B?style=for-the-badge&logoSize=auto)
@@ -25,6 +29,7 @@ Olá, sou Rodrigo Porto, formado em Engenharia de Produção pela Universidade F
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
+SharePoint
 
 ### Bibliotecas e Frameworks
 
@@ -32,6 +37,11 @@ Olá, sou Rodrigo Porto, formado em Engenharia de Produção pela Universidade F
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pyomo](https://img.shields.io/badge/pyomo-367BB0?style=for-the-badge&logo=pyomo&logoSize=auto)](https://www.pyomo.org/)
 [![NetworkX](https://img.shields.io/badge/NetworkX-FF7F0E?style=for-the-badge&logo=networkx&logoSize=auto)](https://networkx.org/)
+
+## Plataformas Low-Code
+
+Power Apps
+Power Automate
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigo-cl-porto&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
