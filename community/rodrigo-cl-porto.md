@@ -37,6 +37,7 @@ SharePoint
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pyomo](https://img.shields.io/badge/pyomo-367BB0?style=for-the-badge&logo=pyomo&logoSize=auto)](https://www.pyomo.org/)
 [![NetworkX](https://img.shields.io/badge/NetworkX-FF7F0E?style=for-the-badge&logo=networkx&logoSize=auto)](https://networkx.org/)
+![SQLite3](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite)
 
 ## Plataformas Low-Code
 
