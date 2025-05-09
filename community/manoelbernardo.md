@@ -15,6 +15,8 @@ Sou apaixonado por tecnologia desde muito jovem, sempre motivado por desafios qu
 
 ---
 
+
+
 📫 **Vamos nos conectar!**  
 [LinkedIn](https://www.linkedin.com/) — (adicione seu link aqui)  
 📧 Email: (adicione seu email aqui, se quiser)
