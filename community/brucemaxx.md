@@ -13,7 +13,7 @@ I have become a technology enthusiast. Ever since I discovered programming, I ha
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521974663896)
 
 ## 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brucemaxx&theme=transparent&bg_color=000080&border_color=30A3DC&show_icons=true&icon_color=00FF7F&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brucemaxx&theme=transparent&bg_color=000000&border_color=30A3DC&show_icons=true&icon_color=00FF7F&title_color=E94D5F&text_color=FFF)
 
 ## Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
