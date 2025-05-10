@@ -1,4 +1,4 @@
 ### Olá, eu sou Eva Reboucas 
-** Atuação Profissiona **
+**Atuação Profissional**
 - Formada em Analise Desenvolvimento de Software
 - Cursando Pós Graduação em Teste de Software.
