@@ -1,24 +1,26 @@
-<h1 align="center">Oi 👋, me chamo Fábio</h1>
-<h3 align="center">Aprendendo a construir soluções full-stack e desktop.</h3>
+# 👋 Oi, me chamo Fábio
+### Aprendendo a construir soluções full-stack e desktop.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faber-studies&label=Profile%20views&color=0e75b6&style=flat" alt="faber-studies" /> </p>
+![Profile views](https://komarev.com/ghpvc/?username=faber-studies&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faber-studies" alt="faber-studies" /></a> </p>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=faber-studies)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 Estou atualmente estudando **Java pelo bootcamp da DIO**
+- 📫 Como me contactar: **imfaber.studies@gmail.com**
 
-- 📫 Como me contactar **imfaber.studies@gmail.com**
+### Connect with me
+[![Instagram](https://img.shields.io/badge/Instagram-%40fabio.estudos-blue?style=flat&logo=instagram&logoColor=white)](https://instagram.com/fabio.estudos)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/fabio.estudos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fabio.estudos" height="30" width="40" /></a>
-</p>
+### Languages and Tools
+![MySQL](https://img.shields.io/badge/MySQL-%23121011.svg?style=flat&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-%23282C34.svg?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=F7DF1E)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=faber-studies&show_icons=true&locale=en&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faber-studies&show_icons=true&locale=en&layout=compact" alt="faber-studies" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faber-studies&show_icons=true&locale=en)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faber-studies&show_icons=true&locale=en" alt="faber-studies" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faber-studies&" alt="faber-studies" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faber-studies)
