@@ -60,6 +60,3 @@ git push origin --delete feature/nome  # Remoto
 - `.gitignore` – Arquivos a ignorar.
 - `CODEOWNERS` – Define revisores obrigatórios.
 
----
-
-Feito para times que colaboram com qualidade e organização 🚀
