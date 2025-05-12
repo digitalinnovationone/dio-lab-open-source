@@ -41,6 +41,10 @@ Aprender o básico sobre contribuição no GitHub.
       <td>04</td>
       <td>Dicas e Materiais de Apoio</td>    
     </tr>
+    <tr>
+      <td>05</td>
+      <td>Desafio</td>    
+    </tr>  
   </tbody>
 </table>
 
