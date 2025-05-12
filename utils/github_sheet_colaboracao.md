@@ -1,4 +1,4 @@
-# 🤝 GitHub Cheat Sheet – Colaboração em Equipe
+# 🤝 GitHub Cheat Sheet
 
 ## 📂 Clonando o Repositório
 ```bash
