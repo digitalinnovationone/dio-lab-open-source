@@ -5,7 +5,7 @@
 ## Competência
 
 - Scrum Master Certificado: Professional Scrum Master I, Kanban Management Professional  
-- MBA em Digital Busines  
+- MBA em Digital Business  
 - Explorador do conhecimento em programação
 
 ## Conecte-se à minha rede profissional
