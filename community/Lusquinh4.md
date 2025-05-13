@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Lucas Evangelista </h1>
 
 ## Sobre mim
-<p>Sou estudante de Sistemas de Informação (Bacharelado) na Faculdade Impacta, com foco em desenvolvimento web e segurança da informação. Atualmente, utilizo tecnologias como PHP, MySQL, JavaScript e o framework Tailwind CSS para criar aplicações web modernas e responsivas.</p>
+<p>Sou estudante de Sistemas de Informação (Bacharelado) na Faculdade Impacta, com foco em desenvolvimento web e segurança da informação. Atualmente, utilizo tecnologias como PHP, MySQL, JavaScript e o framework Tailwind CSS para criar aplicações web modernas e responsivas. </p>
 
 <p>Estou em constante aprendizado, buscando aprimorar minhas habilidades técnicas e expandir meus conhecimentos em cybersecurity. Meu objetivo é unir desenvolvimento e segurança para construir soluções robustas e confiáveis.</p>
 
