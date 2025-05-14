@@ -1,1 +1,3 @@
-"# Luciana Branco Sonoda\n\nEstou estudando front-end!"
+Luciana Branco Sonoda
+
+Estou estudando Front End!
