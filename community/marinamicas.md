@@ -1,7 +1,7 @@
 ![Marina Micas](https://avatars.githubusercontent.com/u/29817928?v=4)
 # print("Eu sou a Marina Micas")
 
-Acesse meu <a href="https://marinamicas.github.io/marinamicas/" target="_blank">portfólio completo</a> e/ou meu <a href="files/Curriculo_Marina Micas Jardim.pdf" target="_blank">currículo</a> que também se encontra na <a href="files/Curriculo_Marina Micas Jardim-escuro.pdf" target="_blank">versão dark</a> e <a href="files/Curriculo_Marina Micas Jardim - Criativo.pdf" target="_blank">criativa</a>.
+Acesse meu [portfólio completo](https://marinamicas.github.io/marinamicas/) e/ou meu [currículo](https://github.com/marinamicas/marinamicas/blob/main/files/Curriculo_Marina%20Micas%20Jardim.pdf") que também se encontra na [versão dark](https://github.com/marinamicas/marinamicas/blob/main/files/Curriculo_Marina%20Micas%20Jardim-escuro.pdf) e na [criativa](https://github.com/marinamicas/marinamicas/blob/main/files/Curriculo_Marina%20Micas%20Jardim%20-%20Criativo.pdf).
 
 ## Eu estou
 
