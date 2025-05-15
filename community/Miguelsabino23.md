@@ -26,3 +26,9 @@
   <a href = "mailto:miguelsabino.office@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/miguel-sabinoo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+## Principais projetos
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Miguelsabino23&repo=pokemon&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Miguelsabino23/pokemon)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Miguelsabino23&repo=coffee-delivery&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Miguelsabino23/coffee-delivery)
