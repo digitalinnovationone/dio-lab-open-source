@@ -18,7 +18,3 @@ Estou participando deste bootcamp com o intuito de:
 ## 📫 Onde me encontrar
 
 - GitHub: [https://github.com/DEV-CAIOH](https://github.com/DEV-CAIOH)
-
----
-
-**Contribuição realizada como parte do desafio "Contribuindo com Projetos Open Source" da [Digital Innovation One](https://www.dio.me/), no bootcamp da Ri Happy.**
