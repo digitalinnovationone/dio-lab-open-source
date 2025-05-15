@@ -1,8 +1,8 @@
 # Pedro Guilherme Udinal Candido Da Silva
 
-👨‍🎓 Estudante em programação na DIO, com o objetivo de me tornar um Desenvolvevor e Analista de Sistemas.
+👨‍🎓 Estudante em programação na DIO, com o objetivo de me tornar um Desenvolvedor e Analista de Sistemas.
 
-⁉️ Sou curioso e sempre busco aprender novas habilidades e cada vez mais me tornar um programador melhor;.
+⁉️ Sou curioso e sempre busco aprender novas habilidades e cada vez mais me tornar um programador melhor.
 
 🦾 Gosto de aprender com a mão na massa, fazendo ao máximo mais projetos para consolidar o que estou aprendendo.
 
