@@ -1,9 +1,10 @@
 # Júlio César Soares dos Santos
-Sobre
-
-Tenho 42 anos, sempre quis trrabalhar na área nunca tive coragem ou achei que não era capaz.É hora de deixar de achar.
-espero e conto com a ajuda de todos, toda e qualquer ajuda e bem vinda principalmente com o inglês.
-desde já afgraedço
+  
+  Sobre
+✌  Tenho 42 anos, sempre quis trrabalhar na área nunca tive coragem ou achei que não era capaz. 
+    É hora de deixar de achar.
+    Espero e conto com a ajuda de todos, toda e qualquer ajuda é bem vinda principalmente com o inglês.
+    desde já afgraedço
 ## Contato
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulioSoaresSantos) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/julio-santos-52b698366//)
 ## GitHub Status
