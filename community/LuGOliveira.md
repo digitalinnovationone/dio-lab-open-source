@@ -3,12 +3,15 @@
 # Lucimar Gonçalves
 
 ## Olá!
-#### Meu nome é Lucimar, atualmente trabalho com SQL Server e C#, mas iniciei como aprendiz de programação aos 16 anos, utilizando a linguagem do mainframe Natural/ADABAS, na USIMINAS-MG. Desde então venho acompanhando as tecnologias lançadas e por este motivo já programei em várias linguagens, como VB, C#, JavaScript, ASP, PL/SQL, entre outras. Utilizo com frequência o material da DIO para me manter atualizada e por dentro das novidades.
+#### Meu nome é Lucimar, atualmente trabalho com Programação SQL e C#, mas iniciei como aprendiz de programação aos 16 anos, utilizando a linguagem do mainframe Natural/ADABAS, na USIMINAS-MG. 
+#### Desde então venho acompanhando as tecnologias lançadas e por este motivo já programei em várias linguagens, como VB, VB.Net, C#, JavaScript, ASP, PL/SQL, entre outras. 
+#### Utilizo com frequência o material da DIO para me manter atualizada e por dentro das novidades.
  
-## Habilidades
+## Principais Habilidades
 	Desenvolvimento SQL Server
 	Desenvolvimento C#
 	Certificação PSM
+ 	Inglês intermediário
 
 ## Conecte-se comigo
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511997977280)
@@ -19,4 +22,4 @@
 
 ## Minhas Contribuições
 
-[!][Desafio GIT](https://github.com/LuGoliveira/dio-lab-open-source)
+[Desafio GIT](https://github.com/LuGoliveira/dio-lab-open-source)
