@@ -21,5 +21,5 @@ Possuo experiência em ambientes de alta disponibilidade, suporte de aplicaçõe
 
 
 ## 🛠 Habilidades
-Javascript, HTML, CSS, Python, AWS, Ansible, 
+Javascript, HTML, CSS, Python, AWS, Ansible, Terraform
 
