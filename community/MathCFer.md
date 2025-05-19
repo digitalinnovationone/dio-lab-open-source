@@ -1,6 +1,6 @@
 # Matheus Carvalho Fernandes
 
-### Atuamente sou estudante em Análise e Desenvolvimento de Sistemas na Mackenzie. Realizei diversos cursos, e no momento estou focando meu aprendizado em Python. 📈🧠
+### Atualmente sou estudante em Análise e Desenvolvimento de Sistemas na Mackenzie. Realizei diversos cursos, e no momento estou focando meu aprendizado em Python. 📈🧠
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-fernandes-793a531a1/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:matheus.carvalhofernandes@gmail.com)
 
