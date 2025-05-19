@@ -13,5 +13,5 @@ Uma descrição do que pode ser feito.
 *Descreva como você realizou o seu*
 Uma descrição de como você fez o seu.
 
-*Links Úteis*
+*Links Uteis*
 -[Nome do link](URL)
