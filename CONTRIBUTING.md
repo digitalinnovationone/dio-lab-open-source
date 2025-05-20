@@ -29,7 +29,7 @@ Acesse a página principal do repositório e clique no botão "Fork" no canto su
 ### 2) Clone localmente
 Abra o seu Git Bash e digite o comando `git clone` seguido da URL do seu fork para clonar o seu repositório localmente. Por exemplo:
 ```bash
-git clone https://github.com/SEU_USERNAME/dio-lab-open-source.git
+git clone https://github.com/PedroTrimboli/dio-lab-open-source.git
 ```
 Pressione enter, e uma cópia do seu fork no GitHub será criada localmente.
 
@@ -46,20 +46,20 @@ Utilize o comando `git checkout -b` para criar e alternar para a nova branch e n
 Para isso, você pode se inspirar nos exemplos no diretório [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils)
 
 ### 5) Adicione suas alterações à "staging area" 
-Utilize o comando `git add community/SEU_USERNAME.md` para adicionar sua alteração (nesse caso o arquivo markdown criado)  à "staging area" no Git.
+Utilize o comando `git add community/PedroTrimboli.md` para adicionar sua alteração (nesse caso o arquivo markdown criado)  à "staging area" no Git.
 
 ### 6) Crie um Commit
 Crie um commit e adicione a mensagem indicando a adição do seu perfil:
 ```bash
-git commit -m"feat: add SEU_USERNAME profile"
+git commit -m"feat: add PedroTrimboli profile"
 ```
 >[!IMPORTANT]
 > Verifique a [`Convenção de Commits`](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md#conven%C3%A7%C3%A3o-de-commits) para escrever a mensagem do seu commit de forma clara e padronizada.
 
 ### 7) Envie as Alterações para o seu Repositório Remoto
-Envie as alterações realizadas no seu repositório local para a branch `feat/community/SEU_USERNAME` no seu repositório remoto com o comando:
+Envie as alterações realizadas no seu repositório local para a branch `feat/community/PedroTrimboli` no seu repositório remoto com o comando:
 ```bash
-git push origin feat/community/SEU_USERNAME
+git push origin feat/community/PedroTrimboli
 ```
 >[!WARNING]
 > Caso você tenha criado seu arquivo diretamente no repositório remoto no GitHub, esse processo não será necessário.
