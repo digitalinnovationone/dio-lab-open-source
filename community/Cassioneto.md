@@ -1,7 +1,7 @@
 
 ---
 
-# Alessandro Tregansin
+# Cássio Neto
 
 Apaixonado por tecnologia  
 
@@ -15,5 +15,5 @@ Apaixonado por tecnologia
 
 ## Meu Projeto  
 
-Apenas por enterternimento
+Apenas por enterternimento  
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Cassioneto&repo=NzoLearn&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Cassioneto/NzoLearn)
