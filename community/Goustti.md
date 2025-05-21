@@ -24,7 +24,7 @@
 
 
 <div style="text-align: right;">
-    <img src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png" width="300" alt="Banner Image 1" style="opacity: 0.5;">
+    <img src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png" width="300" alt="Banner Image 1" style="opacity: 0.5; margin-top: -400px; margin-right: -20px;">
 </div>
  
  #
