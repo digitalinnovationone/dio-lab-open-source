@@ -20,16 +20,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-6b08ab?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gutsoaris/)
 [![E-mail](https://img.shields.io/badge/Email-59078e?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fnxktc@gmail.com)
 
- [comment]: Ajeitando_A_Imagem#
-
-
-<div>
-<picture>
-<div style ="text-align: right;">
- <img src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png" width="300"; height="300" style= "opacity: 0.5; margin-top: -8888px;">
-</picture>
-</div>
- 
  #
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Goustti&theme=transparent&bg_color=6b08ab15&border_color=FFFF&show_icons=true&icon_color=FFFF&title_color=FFFF&text_color=FFFF)
