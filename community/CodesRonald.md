@@ -84,6 +84,14 @@
           </td>
         </tr>
         <tr>
+          <td><strong>DIO:</strong></td>
+          <td>
+            <a href="https://www.dio.me/users/ronald_official_contact" target="_blank">
+              <img src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge" width="110" height="25">
+            </a>
+          </td>
+        </tr>
+        <tr>
           <td><strong>GitHub:</strong></td>
           <td>
             <a href="https://github.com/CodesRonald">
