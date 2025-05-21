@@ -22,24 +22,10 @@
 
  [comment]: Ajeitando_A_Imagem#
 
-<div class="image1-container">
-    <img src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png" width="300" alt="Banner Image 1">
+
+<div style="text-align: right;">
+    <img src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png" width="300" alt="Banner Image 1" style="opacity: 0.5;">
 </div>
-
-
-<style>
-    .image1-container img {
-        position: absolute;
-        top: 0px;
-        right: 0px;
-        z-index: -1;
-        opacity: 0.5;
-    }
-    .content {
-        position: relative;
-        z-index: 1;
-    }
-</style>
  
  #
 
