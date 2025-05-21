@@ -1,7 +1,7 @@
 ### Hi there I'm Leandro Alves 👋
 
-Sou um esterno estudante de tecnologia, busco esta atualizado nas novas tech, framework e etc. Apesar que, nem tudo consegue absorver com excelencia, mas busco
-compreender e aprender para assim entregar o mais alto nivel de exelencia.
+Sou um esterno estudante de tecnologia, busco esta atualizado nas novas tech, framework e etc. Apesar que, nem tudo conseguimos absorver com excelencia, mas busco
+compreender e aprender para assim entregar o mais alto nivel de excelencia.
 
 ## Tecnologia Habilidades
 
