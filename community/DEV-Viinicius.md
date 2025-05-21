@@ -2,7 +2,7 @@
 
 # Vinicius José
 
-Olá! Meu nome é Vinicius e sou um estudante de desenvolvimento de software. Atualmente, atuo como **Auxiliar de Suporte de TI** na **Solivetti**, na área de manutenção de sistemas. Estou animado para compartilhar minha jornada como desenvolvedor com vocês!
+Olá! Meu nome é Vinicius e sou um estudante de desenvolvimento de software. Atualmente, atuo como **Auxiliar de Suporte de TI** na **Solivetti**, na área de manutenção de sistemas.
 
 ---
 
