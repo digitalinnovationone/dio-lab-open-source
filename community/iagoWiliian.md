@@ -30,4 +30,4 @@ Atualmente, curso o Bootcamp de Desenvolvimento Java Full Stack pela Generation 
 
 ## Objetivo Profissional
 
-Sou movido pelo aprendizado constante e pela vontade de construir soluções que gerem impacto real. Meu objetivo é atuar como desenvolvedor Full Stack, integrando conhecimento técnico, visão analítica e experiência em gestão...
+Sou movido pelo aprendizado constante e pela vontade de construir soluções que gerem impacto real. Meu objetivo é atuar como desenvolvedor Full Stack, integrando conhecimento técnico, visão analítica e experiência em gestão.
