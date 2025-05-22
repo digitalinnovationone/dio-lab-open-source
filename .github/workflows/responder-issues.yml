@@ -12,7 +12,8 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const { context } = require('@actions/github'); github.rest.issues.createComment({
+            const { context } = require('@actions/github'); 
+            github.rest.issues.createComment({
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
