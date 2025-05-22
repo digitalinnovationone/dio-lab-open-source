@@ -5,7 +5,7 @@
 Tenho 24 anos, sou apaixonado por tecnologia e estou em constante aprendizado no mundo da programação!  
 Atualmente estou me dedicando ao estudo de **versionamento de código com Git e GitHub**.
 
-<br><br>
+<br><br><br>
 
 <h2 align="center"> 💻 HABILIDADES</h2>
 
