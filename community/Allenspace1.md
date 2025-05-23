@@ -10,5 +10,4 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonada por desenvolvimento de softwar
 
 
 
-
 >"Como pode um cara escrever uma coisa que eu não entenda? Não tem como! Eu vou ler aquela m**** até entender!", Clóvis de Barros Filho.
