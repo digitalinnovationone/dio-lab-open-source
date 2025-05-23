@@ -4,7 +4,7 @@
 
 Sou graduado em **Sistemas para Internet (2017-2020)**. Atuo como **Consultor Tech**, ajudando pessoas a escolherem dispositivos que realmente atendam suas necessidades e caibam no seu orçamento.
 
-- Sou do espectro Autista, diagnóstico tardio, descobro aos 40 anos, hoje com 41 eu me entendo melhor, durante o bootcamp eu tive crises, mas terminei, foi uma execelente experiência.
+- Sou do espectro Autista, diagnóstico tardio, descobro aos 40 anos, hoje com 41 anos, eu me entendo melhor, durante o bootcamp eu tive crises, mas terminei, foi uma execelente experiência.
 - Comprei o acesso vitalício, vou me desenvolver muito mais ainda aqui na plataforma. Segue mais sobre meu perfil abaixo:  
 
 Tenho experiência nas seguintes áreas:
