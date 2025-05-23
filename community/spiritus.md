@@ -4,12 +4,13 @@
 
 ## 📚 Tabela de Conteúdos
 
-- [Sobre](#sobre)
-- [Tecnologias](#tecnologias)
-- [Contato](#contato)
+- [Sobre](#-sobre)
+- [Tecnologias](#-tecnologias)
+- [Contato](#-contato)
+
 
 ### 🧑‍💻 sobre
-Estudante de Desenvolvimento de Sistemas a 1 ano.
+Estudante de Desenvolvimento de Sistemas há 1 ano.
 Formado Tecnico em Desenvolvimento de Sistemas pela ETEC Lauro Gomes
 
 ### 🛠️ Tecnologias
