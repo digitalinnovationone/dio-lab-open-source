@@ -4,12 +4,12 @@
 
 ## 📚 Tabela de Conteúdos
 
-- [Sobre](#-sobre)
-- [Tecnologias](#-tecnologias)
-- [Contato](#-contato)
+- [Sobre](#-Sobre)
+- [Tecnologias](#-Tecnologias)
+- [Contato](#-**Contato**)
 
 
-### 🧑‍💻 sobre
+### 🧑‍💻 Sobre
 Estudante de Desenvolvimento de Sistemas há 1 ano.
 Formado Tecnico em Desenvolvimento de Sistemas pela ETEC Lauro Gomes
 
@@ -29,7 +29,7 @@ Formado Tecnico em Desenvolvimento de Sistemas pela ETEC Lauro Gomes
 
 ---
 
-#### 8. 📬 **Contato**
+### 📬 **Contato**
 Aqui estão minhas redes caso tenham interesse em me conhecer melhor:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vitor-rosa-363271230/)
