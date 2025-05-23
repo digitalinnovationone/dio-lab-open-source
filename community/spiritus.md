@@ -4,9 +4,9 @@
 
 ## 📚 Tabela de Conteúdos
 
-- [Sobre](#-Sobre)
-- [Tecnologias](#-Tecnologias)
-- [Contato](#-**Contato**)
+- [Sobre](#-sobre)
+- [Tecnologias](#%EF%B8%8F-tecnologias)
+- [Contato](#-contato)
 
 
 ### 🧑‍💻 Sobre
