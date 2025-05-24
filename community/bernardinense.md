@@ -8,10 +8,7 @@ Formação Técnica em Contabilidade pelo Centro Paula Souza.
 
 Com 15 anos de atuação no setor público, tenho experiência em tarefas administrativas, assessoramento à liderança, acompanhamento de políticas públicas e relacionamento com a sociedade civil, empresas e entidades do terceiro setor.  
 
-<p align="right">
-    <img src="./avatar.png" alt="avatar" width="220px">
- 
-</p>
+
 
 ## Habilidades
 
@@ -34,9 +31,7 @@ Com 15 anos de atuação no setor público, tenho experiência em tarefas admini
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
          width="50px" alt="LinkedIn" style="margin-right: 40px;">
   </a>
-  <a href="https://www.instagram.com/bfpc7/" target="_blank">
-    <img src="./instagram.png" alt="Instagram" width="50px">
-  </a>
+  
 </p>
 
 <details align="left">
@@ -48,8 +43,7 @@ Com 15 anos de atuação no setor público, tenho experiência em tarefas admini
  - [Ícone Git](https://devicon.dev)  
  - [Ícone GitHub](https://devicon.dev)  
  - [Ícone Jupyter](https://devicon.dev)    
- - [Ícone Instagram por: Freepik no Flaticon](https://www.flaticon.com/br/icones-gratis/logotipo-do-instagram)  
- - [GitHub Stats por anuraghazra](https://github.com/anuraghazra/github-readme-stats)  
+  - [GitHub Stats por anuraghazra](https://github.com/anuraghazra/github-readme-stats)  
 
 
 </details>
