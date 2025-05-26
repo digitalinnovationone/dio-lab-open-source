@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0DB1F2&height=200&section=header&text=Olá,%20eu%20sou%20Seu%20Nome!&fontSize=35&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0DB1F2&height=200&section=header&text=Olá,%20eu%20sou%20Rai%20Iannicelli%Morato!&fontSize=35&fontColor=ffffff" alt="banner" />
 </p>
 
 <p align="center">
@@ -21,26 +21,26 @@
 
 Desenvolvedor focado em **Backend Java com Spring Boot**, apaixonado por boas práticas, microsserviços e soluções escaláveis. No tempo livre, estudo arquitetura de software e automações com DevOps.
 
-- 🚀 Tecnologias favoritas: Java + Spring Boot + Docker
-- 🧠 Aprendendo: Arquitetura hexagonal, testes automatizados
-- 📦 Interesso-me por: CI/CD, Clean Code, APIs REST
+-  Tecnologias favoritas: Java + Spring Boot + Docker
+-  Aprendendo: Arquitetura hexagonal, testes automatizados
+-  Interesso-me por: CI/CD, Clean Code, APIs REST
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
-### 🔙 Backend
+###  Backend
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🎨 Frontend
+###  Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙️ DevOps
+### ⚙ DevOps
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -48,20 +48,20 @@ Desenvolvedor focado em **Backend Java com Spring Boot**, apaixonado por boas pr
 
 ---
 
-## 📈 Estatísticas GitHub
+##  Estatísticas GitHub
 
 <p align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=raiiannicelli&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?raiiannicelli=seuusuario&layout=compact&theme=tokyonight" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiiannicelli&layout=compact&theme=tokyonight" />
 </p>
 
 
 ---
 
-## 📫 Contato
+##  Contato
 
-- 💼 [LinkedIn](https://linkedin.com/in/raiiannicelli)
-- 📧 Email: `raimorato@alunos.utfpr.edu.br`
+-  [LinkedIn](https://linkedin.com/in/raiiannicelli)
+-  Email: `raimorato@alunos.utfpr.edu.br`
 
 ---
 
