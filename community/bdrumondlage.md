@@ -49,4 +49,4 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 ---
 
-🔍 Sempre buscando aprender, melhorar processos e unir times em torno de soluções de alto impacto.
+🔍 Sempre buscando aprender!
