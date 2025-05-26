@@ -42,4 +42,4 @@
 ---
 
 ✨ Feito com ![Markdown](https://img.shields.io/badge/Markdown-E94D5F?style=for-the-badge&logo=markdown)
- e carinho por [Sthefany Ricardo]() 🤍 — Última atualização: **maio de 2026**
+ e carinho por [Sthefany Ricardo](https://github.com/sthefanyricardo) 🤍 — Última atualização: **maio de 2026**
