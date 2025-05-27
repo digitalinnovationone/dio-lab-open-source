@@ -1,0 +1,42 @@
+
+# 🌐 COMO USAR O GITHUB PAGES COM PROJETOS HTML + CSS
+
+## 📌 O que é?
+GitHub Pages é um serviço gratuito que permite publicar sites estáticos (HTML, CSS, JS) diretamente de um repositório no GitHub. Ideal para portfólios, páginas simples, documentações e projetos front-end.
+
+## ✅ Por que usar?
+- Totalmente gratuito
+- Sem necessidade de servidor ou backend
+- Fácil de configurar
+- Link público para mostrar seu projeto
+- Ideal para portfólio ou apresentação em entrevistas
+
+## 🚀 Como publicar um projeto
+
+1. Crie um repositório no GitHub (ex: meu-site).
+2. Adicione seus arquivos HTML, CSS e imagens. O arquivo index.html deve estar na raiz.
+   Estrutura recomendada:
+   meu-site/
+   ├── index.html
+   ├── style.css
+   └── assets/
+3. Vá até a aba Settings > Pages do repositório.
+4. Em "Branch", selecione "main" e clique em Save.
+5. Um link será gerado, ex:
+   https://seunome.github.io/meu-site/
+
+## 💡 Dicas:
+- Use caminhos relativos corretos: <link rel="stylesheet" href="style.css">
+- Não use espaços ou letras maiúsculas em nomes de arquivos
+- Teste localmente antes de publicar
+- Deixe o index.html na raiz do projeto
+
+## 📣 Quando usar?
+- Portfólios
+- Sites pessoais ou profissionais simples
+- Testes de layout ou projetos de estudo
+- Apresentações para processos seletivos
+- Qualquer projeto front-end estático
+
+## ✅ Conclusão:
+GitHub Pages é a maneira mais rápida e gratuita de colocar um projeto HTML + CSS no ar. Basta subir seu código e ativar. Pronto, já tem um site online.
