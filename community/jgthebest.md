@@ -1,7 +1,7 @@
 
 # João Gabriel Machado Fernandes
 
-Oi, meu nome é João Gabriel Machado Fernandes!
+Oi, meu nome é João Gabriel Machado Fernandes.
 
 ## Tecnologias que utilizo em meus projetos, normalmente
 
