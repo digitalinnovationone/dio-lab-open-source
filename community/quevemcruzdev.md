@@ -41,5 +41,5 @@ Formado em Análise e Desenvolvimento de Sistemas com experiência em Manutenç�
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=quevemcruzdev&layout=compact&bg_color=000&border_color=30A3DC&title_color=&text_color=FFF)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=quevemcruzdev&repo=dio-lab-open-source-my-fok&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color)](https://github.com/QuevemCruzDev/dio-lab-open-source-my-fok)
 ## Minhas contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=quevemcruzdev&repo=dio-lab-open-source-my-fok&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color)](https://github.com/QuevemCruzDev/dio-lab-open-source-my-fok)
