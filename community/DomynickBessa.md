@@ -5,10 +5,6 @@
 
 * Assim como uma boa gamer sobrevivente em project zomboid, pretendo sobreviver nesse mundo vasto de Devs me destacando com minha habilidade única suprema que é "nunca desistir" ✨
 
-<!-- <div>
-  <a href="www.linkedin.com/in/domynick-bessa"><img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
-</div> -->
-
 <br>
 
 <div>
