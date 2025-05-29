@@ -93,3 +93,31 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
 - [CONVENTIONAL COMMITS. Summary](https://www.conventionalcommits.org/en/v1.0.0/)
 - [GITHUB. Configurar diretrizes para os contribuidores do repositório](https://docs.github.com/pt/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
+
+
+
+ ## . Desafios Práticos para Contribuição
+
+Além das contribuições tradicionais, como melhorias na documentação ou correção de erros, convidamos você a participar dos **desafios práticos** que criamos para estimular o aprendizado sobre como contribuir em projetos open source.
+
+### . Como funciona:
+
+- Escolha um dos desafios listados no arquivo [`DESAFIOS.md`](./DESAFIOS.md) (ou na seção de desafios, se estiver no README).
+- Siga as instruções para realizar a contribuição.
+- Faça um **fork** do repositório, crie uma branch, implemente sua solução e envie um **pull request**.
+- Não se preocupe: os desafios foram pensados para todos os níveis, principalmente iniciantes!
+
+### . Exemplos de desafios:
+
+- Adicione seu nome na lista de contribuidores.
+- Crie um arquivo `seu-nome.md` contando o que aprendeu sobre open source.
+- Melhore a descrição de um tópico no README.
+- Sugira uma nova funcionalidade ou melhoria para o projeto.
+
+### . Por que participar?
+
+- Aprenda na prática como funciona o fluxo de contribuição em projetos open source.
+- Colabore com outras pessoas e ganhe experiência.
+- Faça parte da nossa comunidade!
+
+Se tiver dúvidas, abra uma **issue** ou entre em contato.
