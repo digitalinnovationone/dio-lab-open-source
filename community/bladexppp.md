@@ -1,0 +1,1 @@
+Atualmente desenvolvo profissionalmente em delphi e, estou estudando para retornar ao mercado de trabalho.

@@ -1,6 +1,6 @@
 # Isbllvt
 ### Hi! I'm Isabelle! Aspiring Developer. ✨ 
-Freshman in Computer Science from the Federal University📚
+Computer Science Student 📚
 ###### just a young dreamer ^_^
 
 ## Find me  👥
