@@ -1,6 +1,6 @@
 ## Sobre Mim
 <p> Me chamo Carlos Ribeiro. 
-  Desenvolvo no Ambiente .Net há aproximadamente 6 anos, trabalhando atualmente como freelancer em um projetos .Net e NextJS.
+  Desenvolvo no Ambiente .Net há aproximadamente 6 anos, trabalhando atualmente como freelancer em projetos .Net e NextJS.
 Possuo conhecimentos  em C#, SQL Server, Delphi, PowerBI, JS, CSS e HTML5, Linguagem C e Python.</p>
 
 ## Redes Sociais:
