@@ -11,7 +11,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tiagoborges&show_icons=true&theme=dracula" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoborges&layout=compact&theme=dracula" width="350"/>
 </p>
 
 ## 🛠 Tech Stack
