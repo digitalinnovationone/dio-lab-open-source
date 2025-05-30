@@ -4,4 +4,4 @@ Estudando Engenharia de Software na UFMS - Universidade Federal de Mato Grosso d
 
 
 ### Meu Linkedin:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-conforti-44bb74220/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleyleonardo/)
