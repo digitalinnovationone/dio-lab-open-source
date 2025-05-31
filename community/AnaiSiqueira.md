@@ -5,11 +5,22 @@ Estudante de Ciência de Dados, formada no curso Educatech da Reprograma e almej
 
 
 
-
-
 ## Aprendizados
 
-Python, SQL, Clound Computing
+Python, SQL, Clound Computing, AWS 
+
+
+
+
+## Interesses
+
+Educação, Língua e cultura, esporte, filosofia.
+
+
+
+## Hobbies
+
+Ciclismo, quebra-cabeça e tricô.
 
 
 ## Conecte-se comigo
