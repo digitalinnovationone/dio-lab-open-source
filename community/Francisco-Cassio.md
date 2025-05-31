@@ -5,7 +5,7 @@ Sou Técnico em Informática e, atualmente, sou estudande no curso superior de A
 Sou fascinado pelo mundo da tecnologia e pretendo cada vez mais aprofundar-me nesta área. O futuro nos aguarda!
 ## 📚 Formação Acadêmica
 
-🎓 **Técnico em Informática** pelo **Instituo Federal do Maranhão - [IFMA](https://portal.ifma.edu.br/inicio/)**
+🎓 **Técnico em Informática** pelo **Instituto Federal do Maranhão - [IFMA](https://portal.ifma.edu.br/inicio/)**
 
 👨‍💻 Cursando **Análise e Desenvolvimento de Sistemas** no **Instituto Federal do Piauí - [IFPI](https://www.ifpi.edu.br/)** 
 
