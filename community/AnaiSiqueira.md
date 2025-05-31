@@ -1,6 +1,6 @@
 # [Anair Siqueira]()
 
-Estudante de Ciência de Dados, formada no curso Educatech da Reprograma e almejando transição de carreira.
+Estudante de Ciência de Dados, formada no curso Educatech da Reprograma e almejando transição de carreira. 
 
 
 
