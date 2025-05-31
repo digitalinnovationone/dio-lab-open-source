@@ -24,9 +24,12 @@ public class MinhasHabilidades {
   }
 }
 ```
+---
 
-📫 Conecte-se comigo
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chinotrunk)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:gerson2050@hotmail.com)
+### 📫 **Conecte-se comigo**  
+
+[![GitHub](https://img.shields.io/badge/GitHub-@Chinotrunk-181717?style=for-the-badge&logo=github)](https://github.com/Chinotrunk)  
+
+[![Email](https://img.shields.io/badge/Email-gerson2050@hotmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:gerson2050@hotmail.com)  
 
 
