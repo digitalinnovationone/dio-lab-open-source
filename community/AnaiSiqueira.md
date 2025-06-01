@@ -1,13 +1,12 @@
 # [Anair Siqueira]()
 
 Estudante de Ciência de Dados, formada no curso Educatech da Reprograma e almejando transição de carreira. 
-
-
+Estou muito empolgada em finalizar esse Bootcamp.
 
 
 ## Aprendizados
 
-Python, SQL, Clound Computing, AWS 
+Python, SQL, Clound Computing, AWS
 
 
 
