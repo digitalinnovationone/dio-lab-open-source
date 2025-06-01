@@ -1,7 +1,7 @@
 # [Anair Siqueira]()
 
 Estudante de Ciência de Dados, formada no curso Educatech da Reprograma e almejando transição de carreira. 
-Estou muito empolgada em finalizar esse Bootcamp.
+Estou muito empolgada em finalizar esse Bootcamp e espero que meu primeiro emprego na área seja em uma grande empresa.
 
 
 ## Aprendizados
