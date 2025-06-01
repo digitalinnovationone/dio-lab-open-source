@@ -1,4 +1,4 @@
-## Olá, bem vindo! Sou o Milene Menezes (_milenesz)☺
+## Olá, bem vindo! Sou o Milene Menezes (_milenesz) =D 
 
 
 ### _➡️ Aprendendo pela primeira vez a desenvolver e contribuir em um repositório OpenSource através do curso da DIO.me 🔝_ 
