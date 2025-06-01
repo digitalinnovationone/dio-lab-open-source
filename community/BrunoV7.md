@@ -45,4 +45,4 @@ Projeto em grupo na faculdade, inspirado no Google Forms:
 ---
 
 ✨ Obrigado por visitar meu perfil!  
-Se quiser conversar sobre ideias, projetos ou oportunidades, será um prazer trocar uma ideia. 🚀
+Se quiser conversar sobre ideias, projetos ou oportunidades, será um prazer trocar uma ideia! 🚀
