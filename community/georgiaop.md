@@ -1,8 +1,8 @@
 # Georgia Oliveira Paixão Duarte
 
-Ola! Sou Georgia, Biomédica Imagenologista, atuo há 12 anos no setor de diagnóstico por imagem.
+Sou Georgia, Biomédica com Pós Graduação em Imagenologia. Atuo na área da saúde no setor de Diagnostico por Imagem há 12 anos. Pensando em reinventar minha carreira encontrei no universo da TI a Ciências de Dados, aonde comecei meus estudos na área com a Linguagen Python. Para me aprofundar mais no assunto fiz Pós Graduação em Data Analytics na FIAP, adquirindo conhecimento nas bibliotecas Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, em visualizações de dados no Tableau, Power BI, modelagem preditiva, algoritmos de Machine Learn e Análise exploratória. Possuo capacidade analítica, fácil adaptação e capacidade para trabalhar em equipe podendo contribuir para resoluções de problemas e tomadas de decisões.
 
-Em transição de carreira...
+Durante minha trajetória profissional como Biomédica, minhas responsabilidades foram: Gerenciar o fluxo dos exames, certificar a qualidade das aquisições das imagens alterando protocolos se necessários. Operar equipamentos de diagnóstico para produzir imagens e gráficos funcionais, assim como realizar pós-processamento de imagens. Garantir o registro de todos os procedimentos para fins estatísticos, manter o contato direto com médicos radiologistas por meio de reporte verbal para tomadas de decisões em relação aos protocolos pré-estabelecidos. Atuar no campo de Informática Médica, exercendo atividades no produto final de exames, seja o conteúdo de dados ou armazenamento das imagens adquiridas pelo sistema RIS (Radiology Information System) e PACS (Picture Archiving in Communication System).
 
 ## Conecte-se comigo 
 
@@ -34,7 +34,7 @@ Ferramentas
  
 ## 🎓Formação Academica
 
-Pós Graduação em Data Analitics [Faculdade de Informática e Administração Paulista - FIAP](https://www.fiap.com.br/)
+Pós Graduação em Data Analytics [Faculdade de Informática e Administração Paulista - FIAP](https://www.fiap.com.br/)
 
 Pós Graduação em Imagenologia [Faculdade Método de São Paulo - FAMESP](https://famesp.com.br/)
 
