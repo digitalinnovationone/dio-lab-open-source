@@ -4,12 +4,10 @@
 My name is Gabriel Iuji, actually I'm just finishing Software Engineer course at Universidade Federal do Amazonas (UFAM) <br>
 During the college, I improve my Hard Skills and Soft Skills working in software development and search in scientific area <br>
 Now a days, I'm looking to improve my knowledge and also learn new things that the IT market demands.
-
 ## Olá
 Meu nome é Gabriel Iuji, atualmente estou me formando no curso de Engenharia de Software na Universidade Federal do Amazonas (UFAM). <br>
 Durante minha trajetória na faculdade, desenvolvi tanto minhas Hard Skills como as Soft Skills trabalhando em desenvolvimento de software e em pesquisa na área científica. <br>
 Hoje, estou buscando melhorar meus conhecimentos e também aprender coisas novas que o mercado de TI demanda.
-
 ### Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/gabriel-iuji-322729294/)
