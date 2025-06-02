@@ -27,7 +27,6 @@
 ![C#](https://img.shields.io/badge/C%23-4B0082?style=for-the-badge&logo=c-sharp&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-800080?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-4B0082?style=for-the-badge&logo=css3&logoColor=black)
-![alt text](image-4.png)
 
 
 
