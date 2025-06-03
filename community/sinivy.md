@@ -1,7 +1,8 @@
 
 # Olá, mundo!👽✨ 
+Me chamo *Anna Barreto*, seja bem-vindo ao meu perfil no *GitHub*! 
 
-Me chamo *Anna Barreto*, seja bem-vindo ao meu perfil no *GitHub*!
+<img src="https://github.com/user-attachments/assets/b839f6c8-905a-40cd-b41d-9803cc6f0915" alt="Octocat" width="450" height="450" align="right" position="absolute">
 
 ## 🚀 Sobre Mim
 🌱 Atualmente, estou aprendendo sobre C#, .NET, Docker e AWS.
