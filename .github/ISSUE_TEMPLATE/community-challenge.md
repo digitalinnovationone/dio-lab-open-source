@@ -1,17 +1,19 @@
 ---
 name: Community Challenge
-about: Crie uma issue sobre o Desafio proposto à comunidade
+about: Desafio proposto à comunidade
 title: "[DESAFIO]"
-labels: community challenge
+labels: ''
 assignees: ''
 
 ---
 
 *Tem alguma sugestão para quem for fazer o Desafio? Por favor descreva.*
-Uma descrição do que pode ser feito. 
+Melhorar a distribuição de commits em um projeto open source no GitHub significa tornar o histórico de contribuições mais organizado, significativo e fácil de entender.
 
 *Descreva como você realizou o seu*
-Uma descrição sobre como você fez o seu.
+Usar commits atômicos: Cada commit deve ter um único propósito.
+Escrever mensagens claras: Siga convenções como Conventional Commits.
+Reescrever commits antes de enviar PR
 
 *Links úteis*
 - [Nome do Link](URL)
