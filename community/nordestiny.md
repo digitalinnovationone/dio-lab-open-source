@@ -29,9 +29,13 @@
 </details>
 
 ## ⚙️ Habilidades:
+<details>
+<summary>Ferramentas usadas</summary>
+
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</details>
 
 ## 🎯 Metas:
 > Me tornar um Desenvolvedor Front-End.
