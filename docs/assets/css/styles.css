@@ -90,6 +90,12 @@ header div {
     padding: .75rem 2rem;
 }
 
+header nav ul{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
 .brand {
     display: flex;
     gap: .65rem;
@@ -103,6 +109,7 @@ header div {
     font-size: 1.5rem;
     color: var(--white);
 }
+
 
 .menu-social {
     list-style: none;
@@ -178,9 +185,10 @@ main, section {
     padding: 2rem 2rem 0;
 }
 
-#desafio {
+#desafio h1 {
     display: flex;
     flex-direction: column;
+    align-items: center;
     gap: 1rem;   
 }
 
@@ -211,6 +219,7 @@ main, section {
     box-shadow: 0 1.125rem 5rem 0 rgba(153, 153, 153, 0.3);
     padding: .25rem .35rem;
     cursor: pointer;
+    transition: all 1s ease;
 }
 
 #searchButton span {
@@ -226,6 +235,8 @@ main, section {
 
 #searchButton:hover {
     color: var(--white);
+    background-color: #0F0F0F;
+    border: #0F0F0F;
 }
 
 #searchInput {
