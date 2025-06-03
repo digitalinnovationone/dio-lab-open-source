@@ -74,6 +74,58 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 
 ---
 
+MINHA CONTRIBUIÇÃO
+
+Melhorar a distribuição de commits em um projeto open source no GitHub significa tornar o histórico de contribuições mais organizado, significativo e fácil de entender. Isso facilita a colaboração, revisão e manutenção do projeto.
+
+A seguir, um exemplo prático com antes e depois de uma distribuição de commits para um projeto open source:
+
+🧱 Antes: Commits mal distribuídos
+
+bash
+Copiar
+Editar
+
+commit 1a2b3c4 - "fixes"
+
+commit 2b3c4d5 - "update"
+
+commit 3c4d5e6 - "working on feature"
+
+commit 4d5e6f7 - "bug"
+
+commit 5e6f7g8 - "final"
+
+commit 6f7g8h9 - "added stuff"
+
+Problemas:
+
+Commits vagos e sem contexto.
+Vários commits pequenos para a mesma funcionalidade.
+Dificulta o uso de git bisect, git blame e revisão de PRs.
+
+✅ Depois: Commits organizados e descritivos
+
+bash
+Copiar
+Editar
+
+commit a1b2c3d - "feat(api): add user authentication endpoint"
+
+commit b2c3d4e - "fix(api): correct password hash comparison logic"
+
+commit c3d4e5f - "docs(readme): add setup instructions for local dev"
+
+commit d4e5f6g - "refactor(core): move auth logic to middleware"
+
+Melhorias:
+
+Uso de convenções de commits (feat, fix, docs, refactor).
+Cada commit implementa uma ideia clara e isolada.
+Mais fácil para revisar PRs e gerar changelogs automaticamente com ferramentas como semantic-release.
+
+---
+
 ## Contribua
 [![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/stargazers)
 [![Forks](https://img.shields.io/github/forks/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/forks)
