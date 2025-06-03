@@ -34,10 +34,18 @@
   <tbody align="left">
     <tr>
       <td>
-        <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+        <img align="center" alt="dio" src="https://img.shields.io/badge/DIO-%230e4059.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTU3IiBoZWlnaHQ9IjEyOCIgdmlld0JveD0iMCAwIDE1NyAxMjgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0xNTYuOTIzIDEwNi44MzlDMTU2LjkyMyAxMTguNDM2IDE0Ny41MSAxMjcuNzgxIDEzNS45ODIgMTI3Ljc4MUMxMjQuNDU0IDEyNy43ODEgMTE1LjA0IDExOC4zNjggMTE1LjA0IDEwNi44MzlDMTE1LjA0IDk1LjMxMTQgMTI0LjQ1NCA4NS44OTggMTM1Ljk4MiA4NS44OThDMTQ3LjUxIDg1Ljg5OCAxNTYuOTIzIDk1LjI0MzIgMTU2LjkyMyAxMDYuODM5WiIgZmlsbD0iI0VBNEU2MCIvPgo8cGF0aCBkPSJNMTA5LjU4MyA2OC4wOTQzVjAuNDk0OTM0Qzk0LjUwNzkgMC40OTQ5MzQgODEuMjc0NiA4LjQ3NTg5IDczLjgzOTMgMjAuNDgxNEM2OC4wNDEyIDE4LjI5ODYgNjEuNjk3MyAxNy4xMzkgNTUuMDgwNiAxNy4xMzlDMjQuOTMwNCAxNy4xMzkgMC40NDE3ODggNDEuNTU5MyAwLjQ0MTc4OCA3MS43Nzc4QzAuNDQxNzg4IDEwMS45MjggMjQuOTMwNCAxMjYuNDE3IDU1LjA4MDYgMTI2LjQxN0M2Ny43NjgzIDEyNi40MTcgNzkuNDMyOCAxMjIuMDUxIDg4LjcwOTggMTE0LjgyQzEwMS40NjYgMTA0Ljc5MyAxMDkuNzE5IDg5LjI0MDQgMTA5LjcxOSA3MS43Nzc4QzEwOS43MTkgNzAuNTUgMTA5LjY1MSA2OS4zMjIyIDEwOS41ODMgNjguMDk0M1oiIGZpbGw9InVybCgjcGFpbnQwX2xpbmVhcl8yODQ5MzozNDQpIi8+CjxkZWZzPgo8bGluZWFyR3JhZGllbnQgaWQ9InBhaW50MF9saW5lYXJfMjg0OTM6MzQ0IiB4MT0iMC40NDE3ODgiIHkxPSI2My40NTU4IiB4Mj0iMTA5LjczMSIgeTI9IjYzLjQ1NTgiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KPHN0b3Agc3RvcC1jb2xvcj0iIzMwQUJFMiIvPgo8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM0QjYzQUIiLz4KPC9saW5lYXJHcmFkaWVudD4KPC9kZWZzPgo8L3N2Zz4K">
       </td>
       <td>
-        <code>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)</code>
+        <code>[![dio](https://img.shields.io/badge/DIO-%230e4059.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTU3IiBoZWlnaHQ9IjEyOCIgdmlld0JveD0iMCAwIDE1NyAxMjgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0xNTYuOTIzIDEwNi44MzlDMTU2LjkyMyAxMTguNDM2IDE0Ny41MSAxMjcuNzgxIDEzNS45ODIgMTI3Ljc4MUMxMjQuNDU0IDEyNy43ODEgMTE1LjA0IDExOC4zNjggMTE1LjA0IDEwNi44MzlDMTE1LjA0IDk1LjMxMTQgMTI0LjQ1NCA4NS44OTggMTM1Ljk4MiA4NS44OThDMTQ3LjUxIDg1Ljg5OCAxNTYuOTIzIDk1LjI0MzIgMTU2LjkyMyAxMDYuODM5WiIgZmlsbD0iI0VBNEU2MCIvPgo8cGF0aCBkPSJNMTA5LjU4MyA2OC4wOTQzVjAuNDk0OTM0Qzk0LjUwNzkgMC40OTQ5MzQgODEuMjc0NiA4LjQ3NTg5IDczLjgzOTMgMjAuNDgxNEM2OC4wNDEyIDE4LjI5ODYgNjEuNjk3MyAxNy4xMzkgNTUuMDgwNiAxNy4xMzlDMjQuOTMwNCAxNy4xMzkgMC40NDE3ODggNDEuNTU5MyAwLjQ0MTc4OCA3MS43Nzc4QzAuNDQxNzg4IDEwMS45MjggMjQuOTMwNCAxMjYuNDE3IDU1LjA4MDYgMTI2LjQxN0M2Ny43NjgzIDEyNi40MTcgNzkuNDMyOCAxMjIuMDUxIDg4LjcwOTggMTE0LjgyQzEwMS40NjYgMTA0Ljc5MyAxMDkuNzE5IDg5LjI0MDQgMTA5LjcxOSA3MS43Nzc4QzEwOS43MTkgNzAuNTUgMTA5LjY1MSA2OS4zMjIyIDEwOS41ODMgNjguMDk0M1oiIGZpbGw9InVybCgjcGFpbnQwX2xpbmVhcl8yODQ5MzozNDQpIi8+CjxkZWZzPgo8bGluZWFyR3JhZGllbnQgaWQ9InBhaW50MF9saW5lYXJfMjg0OTM6MzQ0IiB4MT0iMC40NDE3ODgiIHkxPSI2My40NTU4IiB4Mj0iMTA5LjczMSIgeTI9IjYzLjQ1NTgiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KPHN0b3Agc3RvcC1jb2xvcj0iIzMwQUJFMiIvPgo8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM0QjYzQUIiLz4KPC9saW5lYXJHcmFkaWVudD4KPC9kZWZzPgo8L3N2Zz4K)](https://www.dio.me/users/SEUUSERNAME)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDE2IDE2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiPjxwYXRoIGZpbGw9IiMwQTY2QzIiIGQ9Ik0xMi4yMjUgMTIuMjI1aC0xLjc3OFY5LjQ0YzAtLjY2NC0uMDEyLTEuNTE5LS45MjUtMS41MTktLjkyNiAwLTEuMDY4LjcyNC0xLjA2OCAxLjQ3djIuODM0SDYuNjc2VjYuNDk4aDEuNzA3di43ODNoLjAyNGMuMzQ4LS41OTQuOTk2LS45NSAxLjY4NC0uOTI1IDEuODAyIDAgMi4xMzUgMS4xODUgMi4xMzUgMi43MjhsLS4wMDEgMy4xNHpNNC42NyA1LjcxNWExLjAzNyAxLjAzNyAwIDAxLTEuMDMyLTEuMDMxYzAtLjU2Ni40NjYtMS4wMzIgMS4wMzItMS4wMzIuNTY2IDAgMS4wMzEuNDY2IDEuMDMyIDEuMDMyIDAgLjU2Ni0uNDY2IDEuMDMyLTEuMDMyIDEuMDMyem0uODg5IDYuNTFoLTEuNzhWNi40OThoMS43OHY1LjcyN3pNMTMuMTEgMkgyLjg4NUEuODguODggMCAwMDIgMi44NjZ2MTAuMjY4YS44OC44OCAwIDAwLjg4NS44NjZoMTAuMjI2YS44ODIuODgyIDAgMDAuODg5LS44NjZWMi44NjVhLjg4Ljg4IDAgMDAtLjg4OS0uODY0eiIvPjwvc3ZnPg==">
+      </td>
+      <td>
+        <code>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23d3eefc.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDE2IDE2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiPjxwYXRoIGZpbGw9IiMwQTY2QzIiIGQ9Ik0xMi4yMjUgMTIuMjI1aC0xLjc3OFY5LjQ0YzAtLjY2NC0uMDEyLTEuNTE5LS45MjUtMS41MTktLjkyNiAwLTEuMDY4LjcyNC0xLjA2OCAxLjQ3djIuODM0SDYuNjc2VjYuNDk4aDEuNzA3di43ODNoLjAyNGMuMzQ4LS41OTQuOTk2LS45NSAxLjY4NC0uOTI1IDEuODAyIDAgMi4xMzUgMS4xODUgMi4xMzUgMi43MjhsLS4wMDEgMy4xNHpNNC42NyA1LjcxNWExLjAzNyAxLjAzNyAwIDAxLTEuMDMyLTEuMDMxYzAtLjU2Ni40NjYtMS4wMzIgMS4wMzItMS4wMzIuNTY2IDAgMS4wMzEuNDY2IDEuMDMyIDEuMDMyIDAgLjU2Ni0uNDY2IDEuMDMyLTEuMDMyIDEuMDMyem0uODg5IDYuNTFoLTEuNzhWNi40OThoMS43OHY1LjcyN3pNMTMuMTEgMkgyLjg4NUEuODguODggMCAwMDIgMi44NjZ2MTAuMjY4YS44OC44OCAwIDAwLjg4NS44NjZoMTAuMjI2YS44ODIuODgyIDAgMDAuODg5LS44NjZWMi44NjVhLjg4Ljg4IDAgMDAtLjg4OS0uODY0eiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/SEUUSERNAME/)</code>
       </td>
     </tr>
     <tr>
@@ -90,10 +98,10 @@
     </tr>
     <tr>
       <td>
-        <img align="center" alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+        <img align="center" alt="GitLab" src="https://img.shields.io/badge/GitLab-%23330F63.svg?style=for-the-badge&logo=gitlab&logoColor=FC6D26">
       </td>
       <td>
-        <code>[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/SEUUSERNAME)</code>
+        <code>[![GitLab](https://img.shields.io/badge/GitLab-%23330F63.svg?style=for-the-badge&logo=gitlab&logoColor=FC6D26)](https://gitlab.com/SEUUSERNAME)</code>
       </td>
     </tr>
       <td>
