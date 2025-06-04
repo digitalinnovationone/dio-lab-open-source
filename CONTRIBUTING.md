@@ -79,14 +79,17 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
     
 ## Convenção de Commits 
 
-| Tipo de Commit |Descrição                                                            | Exemplo
-| ---------------|----------------------------------------------------------------------|-----------
-| `feat`         | Adiciona uma nova funcionalidade ao projeto.                         | `feat: add USENAME.md profile`
-| `fix`          | Corrige um bug ou problema no projeto.                               | `fix: fixed issue fix#IssueNumber`
-| `docs`         | Altera a documentação do projeto.| `docs: update README.md`
-| `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         | `style: add EFFECTNAME to COMPONENT`
-| `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
-| `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
+| Tipos de Commits |Descrição                                                             | Exemplos
+| --------------- |----------------------------------------------------------------------|-----------
+| `feat`          | Adiciona uma nova funcionalidade ao projeto.                         | `feat: add USENAME.md profile`
+| `fix`           | Corrige um bug ou problema no projeto.                               | `fix: fixed issue fix#IssueNumber`
+| `docs`          | Altera a documentação do projeto.                                    | `docs: update README.md`
+| `refactor`      | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
+| `test`          | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
+| `perf`          | Usado para atualizar ou configurar performace.                       | `perf: change looping for parallel execution. `
+| `revert`        | Indica a versão do commit anterior.                                  | ` revert: back to 232443546 commit.`
+| `style`         | E utilizado quando mudanças de formatação e estilo do código que não alteram o sistema de nenhuma forma.    | `style: add EFFECTNAME to COMPONENT`
+
 
 
 ## Referências
