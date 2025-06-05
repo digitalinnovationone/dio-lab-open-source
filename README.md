@@ -93,3 +93,8 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+
+
+
+## minha primeira contribuição 
+Olá! Meu nome é Edu. Essa é minha primeira contribuição em um projeto Open Source! 
