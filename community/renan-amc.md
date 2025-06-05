@@ -1,6 +1,6 @@
 <h1 align="center"> 
   <a href="https://www.linkedin.com/in/renan-amc/" style="color: #f00 !important; text-decoration: none; color: inherit;">
-    <span>Renan AMC</span>
+    <span>Renan - AMC</span>
   </a>
 </h1>
 
