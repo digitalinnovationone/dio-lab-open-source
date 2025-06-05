@@ -2,7 +2,7 @@
 
 # Olá, Sou o Eder Ivan Otiquir
 
-## SOBRE MIM
+## Sobre mim
 
 Estudante de Análise e Desenvolvimento de Sistesmas na Uniasselvi, buscando me desenvolver cada vez mais e atrás de desafios e oportunidades.
 
