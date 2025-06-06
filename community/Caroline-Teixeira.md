@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caroline-teixeira&label=Profile%20views&color=0e75b6&style=flat" alt="caroline-teixeira" /> </p>
 
-- 🔭 I’m currently working on **small Java Projects and buildind my portfolio at <a href="https://www.dio.me">DIO</a>**
+- 🔭 I’m currently working on **small Java Projects and building my portfolio at <a href="https://www.dio.me">DIO</a>**
 
 - 🌱 I’m currently learning **Java, Springboot and MySQL**
 
