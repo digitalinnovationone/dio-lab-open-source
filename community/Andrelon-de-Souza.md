@@ -1,4 +1,4 @@
-<h1> Andrelon de souza Xavier</h2>
+<h1> Andrelon de Souza Xavier</h1>
 
 <h2 align="left">Sobre mim</h2>
 
@@ -46,9 +46,9 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrelon-de-Souza&repo=Exercicios-e-desafios-curso-javascript&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Andrelon-de-Souza/Exercicios-e-desafios-curso-javascript.git)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrelon-de-Souza&repo=componente-de-grade-de-preco-unico&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Andrelon-de-Souza/Exercicios-e-desafios-curso-javascript.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrelon-de-Souza&repo=componente-de-grade-de-preco-unico&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Andrelon-de-Souza/componente-de-grade-de-preco-unico)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrelon-de-Souza&repo=szpc-projeto-the-last-of-us&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Andrelon-de-Souza/Exercicios-e-desafios-curso-javascript.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrelon-de-Souza&repo=szpc-projeto-the-last-of-us&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Andrelon-de-Souza/szpc-projeto-the-last-of-us)
 
 
 <h2 align="left">Redes Sociais</h2>
