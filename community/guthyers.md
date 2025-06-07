@@ -1,7 +1,6 @@
-# Guthyers Oliveira 
+## Guthyers
 
-Atualmente estudante de Ciências da computação.
+Olá! Me chamo Guthyers e sou estudante de cinência da computação.
+Atualmente estou aprendendo Git e GitHub através do projeto open source da DIO.
 
-## Me encontre
-
-[![E-mail :guthyerss@gmai.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](guthyerss@gmail.com)
+-Repositório: [https://github.com/Guthyers] (https://github.com/Guthyers) 
