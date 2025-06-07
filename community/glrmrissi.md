@@ -1,7 +1,7 @@
 <img width=100% src="https://github.com/user-attachments/assets/1ae74bd2-fa16-46a7-9dda-7964283093cc"/>
 
 
-😊 Hello, I started studying programming 3 years ago. I saw my sister programming and was fascinated by the idea of creating something with my own hands. Since then, I haven't stopped studying.
+😊 Hello, I started studying programming 3 years ago. I saw my sister programming and was fascinated by the idea of creating something with my own hands. Since then, I haven't stopped studying. 
 
 <br>
 
