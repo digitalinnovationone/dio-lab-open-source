@@ -6,6 +6,7 @@ Atualmente sou um estudante de Engenharia da Computação com foco em IA, Back e
 
 C#
 Git e GitHub
+Python
 
 ##
 
