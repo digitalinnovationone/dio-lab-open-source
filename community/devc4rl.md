@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Fala, dev! 👋 Sou apaixonado por codar. Gosto de ver o impacto do meu trabalho e de aprender algo novo a cada linha de código.
+<p align="left">Sou apaixonado por codar. Gosto de ver o impacto do meu trabalho e de aprender algo novo a cada linha de código.
 Nos momentos de lazer, a adrenalina está garantida com jogos desafiadores – a persistência que uso para passar de fase é a mesma que aplico no meu desenvolvimento! Com um bom arsenal de soft skills, como comunicação e trabalho em equipe, busco sempre somar e construir soluções inovadoras</p>
 
 ###
