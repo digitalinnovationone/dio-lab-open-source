@@ -7,4 +7,4 @@
 * 🥰 Empatia
 * 🤗 Paciência 
 * 🤝 Colaboração
-* 🗣 ComunicaçãoS
+* 🗣 Comunicação
