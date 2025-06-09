@@ -40,12 +40,12 @@ Este projeto consiste em uma **Calculadora de Investimentos** desenvolvida em Ex
 
 ## 📷 Captura de Tela
 
-![Calculadora de Investimentos](images/IMG1.png)
+![Calculadora de Investimentos](Imagens/IMG1.png)
 
 ## 📁 Arquivos Incluídos
 
 - `Projeto.xlsx` — Planilha com todos os cálculos e simulações.
-- `images/IMG1.png` — Captura de tela da calculadora.
+- `Imagens/IMG1.png` — Captura de tela da calculadora.
 - `README.md` — Documentação do projeto.
 
 ## 🚀 Como Utilizar
