@@ -6,8 +6,11 @@
  pela AWS com o Certified Cloud Practitioner [**CLF-C02**](https://www.credly.com/badges/900bb6f2-9d89-4597-b095-8d7e91adcc64/linked_in_profile)
 
  # 🛠️ Habilidades
-
- [![My Skills](https://skillicons.dev/icons?i=git,gitlab,postman,vscode,nodejs,js,python&perline=6)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,gitlab,postman,vscode,nodejs,js,python,aws" />
+  </a>
+</p>
 
 # Cloud Computing Service
 
