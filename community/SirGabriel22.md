@@ -8,7 +8,7 @@
 [![lattes](https://img.shields.io/badge/Currículo_Lattes-0077B5?style=for-the-badge&logo=lattes&logoColor=white)](https://lattes.cnpq.br/7841520130726017)
 ## Contato 📩
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jgabriel-slemos)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SirGabriel22)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:jgabriel.slemos@gmail.com)
 ## Linguagens de programação 💻
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
