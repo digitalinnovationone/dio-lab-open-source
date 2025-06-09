@@ -1,5 +1,5 @@
 # EltonMAPereira
-I live in Toledo-PR 🇧🇷 and studying I'm QA Software Tester (5 yrs experience), I was born in 1996 and I have beautiful kids called Joaquim and Helena👶 💙!
+I live in Toledo-PR 🇧🇷 and I'm QA Software Tester with (5 yrs experience), I was born in 1996 and I have beautiful kids called Joaquim and Helena👶 💙!
 
 ## Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emap/)
