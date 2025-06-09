@@ -33,6 +33,6 @@ Projeto desenvolvido por Will – _System by Will_
 
 ---
 
-![Imagem Titular](Imagens/titular.png)
-![Imagem Informes](Imagens/informes.png)
-![Imagem Notas](Imagens/notas.png)
+![Imagem Titular](imagens/titular.png)
+![Imagem Informes](imagens/informes.png)
+![Imagem Notas](imagens/notas.png)
