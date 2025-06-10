@@ -93,3 +93,21 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
 - [CONVENTIONAL COMMITS. Summary](https://www.conventionalcommits.org/en/v1.0.0/)
 - [GITHUB. Configurar diretrizes para os contribuidores do repositório](https://docs.github.com/pt/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
+
+### Recursos Adicionais para Contribuidores
+
+Se você é novo no desenvolvimento Open Source ou no uso do Git/GitHub, os recursos abaixo podem ser muito úteis:
+
+* **Sobre Markdown:**
+
+    * [[Guia Fácil para Iniciantes: Dicas e Atalhos para Usar Markdown | Jessica Silva - DIO ](Artigo da Digital Innovation One)](https://www.dio.me/articles/guia-facil-para-iniciantes-dicas-e-atalhos-para-usar-markdown)
+
+* **Dominando Git e GitHub:**
+
+    * [Comandos Git - Aprenda Git do básico ao avançado)](https://comandosgit.github.io/) - 
+
+    * [O que é Git e Github: os primeiros passos nessas ferramentas ](https://www.alura.com.br/artigos/o-que-e-git-github) 
+
+* **Inspiração para seu Profile README:**
+
+    * [Este repositório em português oferece diversos templates de READMEs, incluindo para perfil.](https://github.com/iuricode/readme-template) 
