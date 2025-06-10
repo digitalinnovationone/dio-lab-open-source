@@ -51,8 +51,8 @@ Tenho como foco a criação de soluções escaláveis, bem estruturadas e de fá
 
 ### 📫 Contato
 
-- 💼 LinkedIn: [https://linkedin.com/in/marcelomorg](https://linkedin.com/in/seu-usuario)
-- 💻 GitHub: [https://github.com/marcelomorg](https://github.com/seu-usuario)
+- 💼 LinkedIn: [https://linkedin.com/in/marcelomorg](https://linkedin.com/in/marcelomorg)
+- 💻 GitHub: [https://github.com/marcelomorg](https://github.com/marcelomorg)
 - 📧 Email: [01101101.mgd@gmail.com](mailto:01101101.mgd@gmail.com)
 
 ---
