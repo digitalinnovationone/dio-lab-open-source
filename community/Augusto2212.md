@@ -1,7 +1,6 @@
 <h1 align="center">Eu, sou o Alexandre Augusto Souza Pontes</h1>
-<h3 align="center">Sou iniciante em Front-end</h3><
-
-p align="left"> <img src="https://komarev.com/ghpvc/?username=augusto2212&label=Profile%20views&color=0e75b6&style=flat" alt="augusto2212" /> </p>
+<h3 align="center">Sou iniciante em Front-end</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=augusto2212&label=Profile%20views&color=0e75b6&style=flat" alt="augusto2212" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=augusto2212" alt="augusto2212" /></a> </p>
 
