@@ -11,7 +11,7 @@
 ![Gráfico D3](https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/img/graph/line_basic.png)
 
 
-> Esse é apenas um exemplo ilustrativo. Você pode ver meus projetos com D3.js no meu portfólio ou repositórios!
+> ocê pode ver meus projetos com D3.js no meu portfólio ou repositórios!
 
 ---
 
