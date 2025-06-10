@@ -16,7 +16,7 @@ Cursando a graduação de **Engenharia de Software**, com previsão de conclusã
 
 ## Habilidades
 
-| Soft Skills | Nível         |
+| Hard Skills | Nível         |
 | ----------- | ------------- |
 | HTML        | Intermediário |
 | CSS         | Intermediário |
@@ -24,10 +24,10 @@ Cursando a graduação de **Engenharia de Software**, com previsão de conclusã
 | PHP         | Básico        |
 | ASP.Net     | Básico        |
 | MySQL       | Intermediário |
+| SQL Básico  | Básico        |
 
-SQL Básico
 
-| Hard Skills                                 |
+| Soft Skills                                 |
 | ------------------------------------------- |
 | Practtioner - Programador Neuro Linguistíco |
 | Liderança                                   |
