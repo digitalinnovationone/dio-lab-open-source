@@ -62,7 +62,6 @@ Iniciei minha carreira em tecnologia na **[HAVAN](https://www.havan.com.br/)** c
 
 - Projetos que impactaram milhares de usuários
 - Código limpo, testes automatizados e atenção a boas práticas
-- Espírito colaborativo
 
 ---
 
