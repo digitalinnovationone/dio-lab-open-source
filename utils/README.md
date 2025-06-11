@@ -4,6 +4,13 @@
     <span> Utilitários para o Profile README</span>
 </h1>
 
+## Sobre
+
+Este repositório reúne utilitários práticos para enriquecer o seu Profile README no GitHub, como badges, cards de estatísticas e outros recursos visuais.
+
+## Como usar
+
+Escolha um utilitário abaixo, clique em "Ver Exemplos" e copie o código desejado para o seu README.
 
 ## Índice
 <table>
@@ -61,4 +68,8 @@
 - [Guia sobre Markdown do GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 - [Onde encontrar Badges legais para o seu Perfil](https://github.com/Ileriayo/markdown-badges#markdown-badges) 
 - [Gerador automático de Readme para GitHub](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+
+## Licença
+
+Este projeto está sob a licença MIT.
 

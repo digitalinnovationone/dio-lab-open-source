@@ -23,6 +23,67 @@
   </tr>
 </table>
 
+## Badges para Projetos Open Source e Comunidade
+<table>
+  <thead>
+    <tr align="left">
+      <th>Badge</th>
+      <th>Markdown</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <td>
+        <img align="center" alt="Licença MIT" src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge">
+      </td>
+      <td>
+        <code>![Licença MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Contribuições abertas" src="https://img.shields.io/badge/Contribuições-abertas-brightgreen?style=for-the-badge">
+      </td>
+      <td>
+        <code>![Contribuições abertas](https://img.shields.io/badge/Contribuições-abertas-brightgreen?style=for-the-badge)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Documentação" src="https://img.shields.io/badge/Documentação-Completa-blue?style=for-the-badge&logo=readthedocs">
+      </td>
+      <td>
+        <code>![Documentação](https://img.shields.io/badge/Documentação-Completa-blue?style=for-the-badge&logo=readthedocs)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Discussões" src="https://img.shields.io/badge/Discussões-GitHub-blueviolet?style=for-the-badge&logo=github">
+      </td>
+      <td>
+        <code>![Discussões](https://img.shields.io/badge/Discussões-GitHub-blueviolet?style=for-the-badge&logo=github)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="PRs bem-vindos" src="https://img.shields.io/badge/PRs-bem--vindos-blue?style=for-the-badge&logo=github">
+      </td>
+      <td>
+        <code>![PRs bem-vindos](https://img.shields.io/badge/PRs-bem--vindos-blue?style=for-the-badge&logo=github)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Código de Conduta" src="https://img.shields.io/badge/Código%20de%20Conduta-ativo-important?style=for-the-badge">
+      </td>
+      <td>
+        <code>![Código de Conduta](https://img.shields.io/badge/Código%20de%20Conduta-ativo-important?style=for-the-badge)</code>
+      </td>
+    </tr>
+  </tbody>
+  <tfoot></tfoot>
+</table>
+
 ## Social
 <table>
   <thead>
