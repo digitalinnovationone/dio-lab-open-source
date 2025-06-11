@@ -10,7 +10,7 @@ Sou técnica em Administração pelo IFTM e bacharelanda em Ciência da Computa�
 
 
 ## 🛠 Skills
-Javascript | HTML | CSS | React | Python
+Javascript | HTML | CSS | Typescript | React | Python
 
 
 ## No momento estou...
