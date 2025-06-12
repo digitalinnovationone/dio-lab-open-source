@@ -25,12 +25,15 @@ Sou desenvolvedor de Software e entusiasta por tecnologia, em busca de aprender 
   ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
   ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
   
 
-
 </div>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DavisonFNX)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavisonFNX&layout=compact)
+
 
  ## 💻 Sistemas
 <br>
