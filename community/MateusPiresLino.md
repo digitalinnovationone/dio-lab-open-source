@@ -21,7 +21,7 @@ Busco minha primeira oportunidade na área, com foco em construir soluções sim
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MateusPiresLino&show_icons=true&theme=radical"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusPiresLino&layout=compact&langs_count=7&theme=radical"/>
 </div>
