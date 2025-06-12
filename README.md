@@ -1,4 +1,18 @@
-<h1>
+👋 Olá, eu sou o Allan Soares!
+
+Sou um jovem cristão, apaixonado por tecnologia e aprendizado contínuo. Estou estudando programação, inglês e me preparando para cursar Engenharia de Software. 🚀
+
+ 💻 Atualmente estudando:
+- Programação
+- HTML e CSS
+- Inglês
+
+ 🎯 Objetivos para 2025:
+- Ser desenvolvedor Full Stack
+- Passar no ENEM
+- Empreender com uma loja de roupas masculinas
+
+  <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
     <span> Contribuindo em um Projeto Open Source no GitHub</span>
