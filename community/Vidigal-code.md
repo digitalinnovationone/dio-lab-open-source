@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://vidigal-code.github.io/React-portfolio/">
-    <img width="340" height="320" src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0">
+    <img width="650" height="350" src="https://github.com/Vidigal-code/Vidigal-Code/blob/main/GIF_2.gif?raw=true">
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 
 
 <p align="right">
-  <img align="right" alt="Coding" width="340" height="320" src="https://i.gifer.com/origin/f7/f753421e72b10f0a4c47b97736781e7e.gif">
+  <img align="right" alt="Coding" width="340" height="320" src="https://github.com/Vidigal-code/Vidigal-Code/blob/main/GIF_1.gif?raw=true">
   <br/>
 </p>
 <br/>
@@ -65,9 +65,9 @@
 
 - >``📲Link to my portfolio`` : { [Portfolio](https://vidigal-code.github.io/React-portfolio/) }
 >
-- >``💾Link to my projects`` : { [Projects](https://github.com/Vidigal-code?tab=repositories&q=&type=public&language=&sort=) }
+- >``💾Link to my projects`` : { [Projects](https://vidigal-code.github.io/React-portfolio/#projects?lang=en) }
 >
-- >``💪Certificates link`` : { [Certificates](https://github.com/Vidigal-code/Certificates) }
+- >``💪Certificates link`` : { [Certificates](https://vidigal-code.github.io/React-portfolio/#courses) }
 >
 - >``👨🏻‍💻 Another account`` : { [Account](https://github.com/SoftVidigal) }
 >
@@ -106,7 +106,7 @@
  <br/>
 
 <p align="center">
-<a href="https://gitroll.io/profile/uY6OqgUA63rNk53a0rqTp1fqDuMH2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uY6OqgUA63rNk53a0rqTp1fqDuMH2?theme=dark" alt="GitRoll Profile Badge" style="width: 400px; height: auto;"/></a>
+<a href="https://gitroll.io/profile/uY6OqgUA63rNk53a0rqTp1fqDuMH2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uY6OqgUA63rNk53a0rqTp1fqDuMH2?theme=light" alt="GitRoll Profile Badge" style="width: 400px; height: auto;"/></a>
 </div>
 
  <br/>
@@ -132,6 +132,8 @@
 <a href="https://www.typescriptlang.org" target="_blank"><img align="center" alt="Vidigal-TS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
 <a href="https://www.java.com/pt-BR/" target="_blank"><img align="center" alt="Vidigal-JAVA" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
 <a href="https://www.php.net" target="_blank"><img align="center" alt="Vidigal-PHP" height="50" width="50" src="https://www.php.net/favicon.ico?v=2"></a>
+<a href="https://www.python.org/" target="_blank"><img align="center" alt="Vidigal-Python" height="50" width="50" src="https://www.python.org/static/favicon.ico"></a>
+
 #
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Frontend+Development%3A)](https://git.io/typing-svg)
 <a href="https://reactjs.org" target="_blank"><img align="center" alt="Vidigal-REACT" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
@@ -142,11 +144,15 @@
 <a href="https://styled-components.com/" target="_blank"><img align="center" alt="Vidigal-Styled" height="50" width="50" src="https://styled-components.com/favicon.png"></a>
 <a href="https://sass-lang.com" target="_blank"><img align="center" alt="Vidigal-Sass" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></a>
 <a href="https://tailwindcss.com/" target="_blank"><img align="center" alt="Vidigal-Tailwind" height="50" width="50" src="https://tailwindcss.com/favicons/apple-touch-icon.png?v=3"></a>
+<a href="https://mui.com/material-ui/" target="_blank"><img align="center" alt="Vidigal-Tailwind" height="50" width="50" src="https://mui.com/static/favicon.ico"></a>
+
 
 #
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Backend+Development%3A)](https://git.io/typing-svg)
 <a href="https://nodejs.org/en/" target="_blank"><img align="center" alt="Vidigal-NODEJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>
 <a href="https://www.nginx.com" target="_blank"><img align="center" alt="Vidigal-NGINX" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></a>
+<a href="https://www.docker.com/" target="_blank"><img align="center" alt="Vidigal-NODEJS" height="50" width="50" src="https://www.docker.com/app/uploads/2024/02/cropped-docker-logo-favicon-32x32.png"></a>
+<a href="https://kubernetes.io/" target="_blank"><img align="center" alt="Vidigal-NODEJS" height="50" width="50" src="https://kubernetes.io/icons/favicon-32.png"></a>
 <a href="https://www.iis.net" target="_blank"><img align="center" alt="Vidigal-ISS" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002–2012_%28Multicolored%29.svg/1161px-Unofficial_Windows_logo_variant_-_2002–2012_%28Multicolored%29.svg.png"></a>
 <a href="https://apache.org/" target="_blank"><img align="center" alt="Vidigal-Apache" height="50" width="50" src="https://apache.org/favicons/apple-touch-icon-57x57.png"></a>
 <a href="https://tomcat.apache.org/" target="_blank"><img align="center" alt="Vidigal-tomcat-apache" height="50" width="50" src="https://tomcat.apache.org/res/images/tomcat.png"></a>
@@ -158,6 +164,7 @@
 <a href="https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_amers-br_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624308&adgroup=115749706023&gclid=CjwKCAjwvsqZBhAlEiwAqAHElXG1-Uv6dCvpM6kMz7DSUnVWFx9awiyNN7sfHCyHYnskHHr6am2ONxoCY78QAvD_BwE" target="_blank"><img align="center" alt="Vidigal-MONGODB" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></a>
 <a href="https://www.postgresql.org" target="_blank"><img align="center" alt="Vidigal-POSTRESQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></a>
 <a href="https://mariadb.org/" target="_blank"><img align="center" alt="Vidigal-MariaSql" height="50" width="50" src="https://mariadb.org/wp-content/uploads/2019/02/cropped-mariadb_org_rgb_r_512-1-32x32.png"></a>
+<a href="https://www.oracle.com/br/database/sqldeveloper/" target="_blank"><img align="center" alt="Vidigal-Oracle" height="50" width="50" src="https://www.oracle.com/asset/web/favicons/favicon-32.png"></a>
 
 #
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Remote%20Desktop%3A)](https://git.io/typing-svg)
@@ -179,7 +186,15 @@
 <a href="https://yarnpkg.com/" target="_blank"><img align="center" alt="Vidigal-Yarn" height="50" width="50" src="https://yarnpkg.com/img/yarn-favicon.svg"></a>
 <a href="https://www.npmjs.com/" target="_blank"><img align="center" alt="Vidigal-Npm" height="50" width="50" src="https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"></a>
 <a href="https://getcomposer.org/" target="_blank"><img align="center" alt="Vidigal-Composer" height="50" width="50" src="https://getcomposer.org/img/logo-composer-transparent5.png"></a>
-<a href="https://mvnrepository.com/" target="_blank"><img align="center" alt="Vidigal-Maven" height="50" width="50" src="https://mvnrepository.com/assets/images/7080b8b0f6f48e6fbaffd5f9d85fcc7f-favicon.ico"></a>
+<a href="https://mvnrepository.com/" target="_blank"><img align="center" alt="Vidigal-Maven" height="50" width="50" src="https://mvnrepository.com/assets/images/e8a73ff26e5b1e3f20868111d80c5544-favicon.ico"></a>
+<a href="https://gradle.org/" target="_blank"><img align="center" alt="Vidigal-Gradle" height="50" width="50" src="https://gradle.org/icon/favicon-32x32.png"></a>
+
+#
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Test-Driven-Development%3A)](https://git.io/typing-svg)
+<a href="https://junit.org/junit5/" target="_blank"><img align="center" alt="Vidigal-Yarn" height="50" width="50" src="https://junit.org/junit5/assets/img/junit5-logo.png"></a>
+<a href="https://phpunit.de/index.html" target="_blank"><img align="center" alt="Vidigal-Yarn" height="50" width="50" src="https://phpunit.de/apple-touch-icon.png"></a>
+<a href="https://docs.pytest.org/en/stable/" target="_blank"><img align="center" alt="Vidigal-Yarn" height="50" width="50" src="https://docs.pytest.org/en/stable/_static/favicon.png"></a>
+<a href="https://jestjs.io/" target="_blank"><img align="center" alt="Vidigal-Yarn" height="50" width="50" src="https://jestjs.io/img/favicon/favicon.ico"></a>
 #
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Framework%3A)](https://git.io/typing-svg)
 <a href="https://www.electronjs.org" target="_blank"><img align="center" alt="Vidigal-AWS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"></a>
@@ -188,6 +203,8 @@
 <a href="https://nextjs.org" target="_blank"><img align="center" alt="Vidigal-NESTJS" height="50" width="50" src="https://nextjs.org/favicon.ico"></a>
 <a href="https://vitejs.dev/" target="_blank"><img align="center" alt="Vidigal-Vite" height="50" width="50" src="https://vitejs.dev/logo.svg"></a>
 <a href="https://www.slimframework.com/" target="_blank"><img align="center" alt="Vidigal-Slim" height="50" width="50" src="https://www.slimframework.com/assets/images/favicon.png"></a>
+<a href="https://nestjs.com/" target="_blank"><img align="center" alt="Vidigal-Slim" height="50" width="50" src="https://nestjs.com/favicon-32x32.42b683bd.png"></a>
+
 #
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Software%3A)](https://git.io/typing-svg)
 <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"><img align="center" alt="Vidigal-AWS" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png?20200616073617"></a>
@@ -211,7 +228,10 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Version+control%3A)](https://git.io/typing-svg)
 <a href="https://git-scm.com/downloads" target="_blank"><img align="center" alt="Vidigal-Git" height="50" width="50" src="https://git-scm.com/favicon.ico"></a>
 <a href="https://gitlab.com/" target="_blank"><img align="center" alt="Vidigal-GitLab" height="50" width="50" src="https://gitlab.com/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png"></a>
+<a href="https://bitbucket.org/" target="_blank"><img align="center" alt="Vidigal-GitLab" height="50" width="50" src="https://wac-cdn.atlassian.com/assets/img/favicons/bitbucket/favicon-32x32.png"></a>
 <a href="https://github.com/Vidigal-code" target="_blank"><img align="center" alt="Vidigal-Git-hub" height="50" width="50" src="https://github.com/fluidicon.png"></a>
+
+
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Other%3A)](https://git.io/typing-svg)
 
 <a href="https://www.virtualbox.org/" target="_blank"><img align="center" alt="Vidigal-Virtualbox" height="50" width="50" src="https://www.virtualbox.org/favicon.ico"></a>
@@ -243,4 +263,3 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=100:2aa889,0:2aa889&height=70&section=header"/>
-
