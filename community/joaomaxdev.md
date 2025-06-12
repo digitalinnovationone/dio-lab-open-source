@@ -1,4 +1,4 @@
-# 💻 **joaomax - João Max**
+# 💻 **joaomax - Joao Max**
 ##
 ### 👨‍💻 E aí, tudo certo?
 
