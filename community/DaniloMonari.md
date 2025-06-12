@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DaniloMonari/DIO/refs/heads/main/IMG-20250611-WA0001.jpg?token=GHSAT0AAAAAADFIL2H27QFN3JD267PJ7S642CKFF5Q" alt="Capa_Git_Hub_Danilo_Monari" width="600"/>
+  <img src="https://raw.githubusercontent.com/DaniloMonari/DIO/main/IMG-20250611-WA0001.jpg?token=GHSAT0AAAAAADFIL2H277SVAIWJMP6OFYGW2CKHBQA" alt="Capa_Git_Hub_Danilo_Monari" width="600"/>
 </p>
 
 # Danilo Monari
