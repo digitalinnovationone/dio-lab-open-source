@@ -34,7 +34,7 @@ Sou apaixonado por tecnologia e movido pela curiosidade! Aqui você vai encontra
 ## 📫 Como me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/luiz-p-hatem/)
-- 📧 Email: seuemail@example.com
+- 📧 Email: luizhatemcs@gmail.com
 - 🗂️ Projetos e repositórios: aqui mesmo no meu [GitHub](https://github.com/LuizPH0)
 
 ---
