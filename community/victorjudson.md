@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Victor
+# 👋 Eai!! aqui é o Victor
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" align="right" />
 
