@@ -21,7 +21,7 @@
  Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
 
 ### 1) Faça um **Fork** deste Repositório
-Acesse a página principal do repositório e clique no botão "Fork" no canto superior direito da página.
+Acesse a página principal do repositório e clique no botão "Fork" no canto superior direito da página onde vai criar o repositório atualizando o conteúdo.
 > [!NOTE]  
 > Um "fork" no GitHub é uma cópia de um repositório que pode ser criada por qualquer usuário. <br>
 > Para mais detalhes, reveja a aula ou acesse a documentação do GitHub: [Criar fork de um repositório](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo).
