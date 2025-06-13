@@ -6,7 +6,7 @@ Olá, me chamo João Krever e tenho 18 anos. Atualmente, estou no ultimo ano do 
 - [Instagram](https://www.instagram.com/joaokrever)
 - [LinkedIn](https://www.linkedin.com/in/joao-krever/)  
 
-## 💻 Linguagens e Ferramentas
+## 💻 Linguagens
  - Python (intermediate)
  - HTML e CSS (begginer)
  - C (begginer)
