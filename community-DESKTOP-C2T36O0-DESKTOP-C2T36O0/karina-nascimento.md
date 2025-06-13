@@ -1,71 +1,81 @@
-# 👋 Hi, I'm Karina Loria Meira Nascimento
+<h1 align="center">Hi 👋, I'm Karina Loria Meira Nascimento</h1>
+<h3 align="center">🚀 Transitioning from Audit and Internal Control to Artificial Intelligence · Passionate About Learning & Building</h3>
 
-Welcome! I'm a Data Science and Artificial Intelligence student from Brazil with 16+ years of professional experience in external audit, risk management, and internal controls.
 
-💼 I worked at renowned companies such as **Ernst & Young (EY)** and **Ford Motor Company**, where I held strategic positions in financial auditing and internal controls, leading cross-functional teams and ensuring compliance with global standards.
-
-🔎 I'm a highly analytical, detail-oriented, and dedicated professional — the kind of profile that sees beyond the numbers to uncover risks, optimize processes, and ensure sustainable results.
-
-🎓 Currently studying at SENAI CIMATEC  
-🌱 Focused on AI, Software Testing, , Data Science, Cibersecurity and building tech with purpose  
-🧠 Career transitioner — from audit to intelligent systems with ethics and insight
+</p>
 
 ---
 
-## 🚀 Technologies & Tools
+### 💫 About Me
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-**Tools & Platforms:**  
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- 🎓 I'm currently studying **Data Science and Artificial Intelligence** at *SENAI CIMATEC – Brazil*
+- 🧠 I have 16+ years of professional experience in **Audit, Risk, and Internal Controls**
+- 🌎 I lived in Australia for 2 years, and I'm fluent in **English and Portuguese**
+- 💼 I'm pivoting to tech, focusing on:
+  - **Python, Git, GitHub, Java, JavaScript, C#, .NET**
+  - **Artificial Intelligence, Software Testing, Data Analysis, Cibersecurity and Clean Code**
 
 ---
 
-## 📈 GitHub Stats
+### 🧰 Languages & Tools
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karinaNascimento100&theme=dracula&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karinaNascimento100&layout=compact&theme=dracula)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 ---
 
-## 🌍 Let's Connect
+### 📊 GitHub Stats
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/karina-meira-nascimento-3a497290)
-- 📧 [Email](mailto:kalomeira9@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karinaNascimento100&show_icons=true&theme=default" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karinaNascimento100&theme=default" alt="streak" />
+</p>
 
 ---
 
-<details>
-<summary>📘 Versão em Português (clique para expandir)</summary>
+### 💙 Tech for Good
 
-# 👋 Olá, eu sou Karina Loria
+🌍 I'm also passionate about using technology for social good.  
+I actively participate in groups that support **women in tech**, digital inclusion, and sustainable development.  
+I'm aligned with the **UN Sustainable Development Goals (SDGs)** and have joined training programs like **Desenvolver** to foster diversity and empowerment in the workplace and beyond.
 
-Bem-vindo(a)! Sou estudante de Ciência de Dados e Inteligência Artificial, com uma sólida trajetória de mais de 16 anos em auditoria externa, gestão de riscos e controles internos.
+---
 
-💼 Atuei em empresas de renome como a **Ernst & Young (EY)** e a **Ford Motor Company**, onde ocupei cargos estratégicos e conduzi avaliações de risco, testes de controles e projetos de compliance, sempre com foco em excelência e responsabilidade.
+### 🎯 Recent Activities & Learning Paths
 
-🔍 Meu perfil é analítico, ético, detalhista e dedicado. Tenho paixão por estruturar processos, resolver problemas com inteligência e garantir que cada número conte uma história verdadeira.
+- 🌐 **.NET and C#** via WEX Bootcamp @ DIO
+- 🧪 **Software Testing & QA** with Julio de Lima’s Mentorship
+- 📊 **Machine Learning & Data Analysis** with Python
+- 💡 **Creative projects** like energy-saving app ideas and AI for sustainability
 
-🎓 Atualmente, estudo no SENAI CIMATEC  
-🌱 Foco em Inteligência Artificial, Testes de Software, Data Science, Cibersegurança 
-🚀 Transição de carreira com propósito — da auditoria à tecnologia com visão crítica e humana
+---
 
-## 💻 Tecnologias e Ferramentas
+### ✍️ Let's Connect
 
-Python • Java • JavaScript • C# • SQL  
-VS Code • Git • GitHub • MySQL
+- 🌐 [LinkedIn](https://www.linkedin.com/in/karina-meira-nascimento-3a497290?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIgqGEyN8Rw%2BMa3KdX6h0gw%3D%3D)
+- 📫 Email: **kalomeira9@gmail.com** (optional – change if needed)
+- 🌟 Portfolio: *coming soon...*
 
-## ✨ Vamos nos conectar
+---
 
-- [LinkedIn](https://www.linkedin.com/in/karina-meira-nascimento-3a497290)  
-- [Email](mailto:kalomeira9@gmail.com)
+### 💙 Contribution Highlights
 
-</details>
+<a href="https://github.com/digitalinnovationone/dio-lab-open-source/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=digitalinnovationone/dio-lab-open-source"/>
+</a>
+
+---
+
+<div align="center">
+  <sub>Made with 💙 by Karina Loria — learning in public, growing with purpose.</sub>
+</div>
+
+
