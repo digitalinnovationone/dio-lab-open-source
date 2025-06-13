@@ -37,3 +37,16 @@ Possuo conhecimento no desenvolvimento de projetos de software como aplicativos 
 </div>
 
 ---
+
+---
+## 👷‍♂️ Projetos
+
+**[Página WEB para uma Academia](https://github.com/Makezuko/Academia)**
+
+📦 Principais tecnologias: 
+ - HTML 
+ - CSS
+ - Node.JS
+ - Oracle DB
+
+---
