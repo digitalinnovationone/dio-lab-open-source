@@ -1,1 +1,0 @@
-Sou iniciante na área de dados, tenho 26 anos e comecei recentemente o curso de ADS.
