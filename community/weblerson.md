@@ -1,1 +1,0 @@
-Oi sou lersinho
