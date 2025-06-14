@@ -47,7 +47,7 @@
 |--------|-------------|-----------|
 | `Em breve...` | React, Redux, TypeScript | Projeto pessoal em construção |
 
-*(Atualize com seus repositórios assim que quiser! Me avisa que eu edito pra você.)*
+
 
 ---
 
