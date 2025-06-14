@@ -4,7 +4,7 @@
     <span> Desafio Open Source - DIO</span>
 </h1>
 
-Este desafio é uma contribuição ao desafio proposto pela [DIO](https://www.dio.me/). sobre projetos Open Source no GitHub.
+Este desafio é uma contribuição ao desafio proposto pela [DIO](https://www.dio.me/) sobre projetos Open Source no GitHub.
 Aqui explorei o uso de Git e GitHub para criar, clonar, editar e publicar um projeto pessoal com base em um repositório existente.
 
 [![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
