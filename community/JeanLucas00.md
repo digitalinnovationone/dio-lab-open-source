@@ -1,6 +1,7 @@
 # Jean Lucas
 
 Sou um estudante de Engenharia de Software em transição de carreira.
+Tenho algumas experiências com liderança, gestão e treinamento de pessoas.
 
 ## Conecte-se comigo no Linkedin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jeansantos00/)
