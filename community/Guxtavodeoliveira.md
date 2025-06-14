@@ -21,6 +21,7 @@ Meu objetivo é trabalhar com tecnologia em empresas grandes e até fora do paí
 - Espanhol (básico – me viro bem)
 
 ---
+ 
 
 📊 GitHub Stats  
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guxtavodeoliveira&show_icons=true&theme=tokyonight)
