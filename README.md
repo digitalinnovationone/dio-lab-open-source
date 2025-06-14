@@ -11,7 +11,7 @@ Aqui explorei o uso de Git e GitHub para criar, clonar, editar e publicar um pro
 [![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
 
 ## Objetivo
-Aprendi a usar 'fork', 'clone', 'commit' e 'push' e personalizei o projeto para o meu portfólio.
+Aprender comandos no git e GitHub, aprendendo a usar: 'fork', 'clone', 'commit' e 'push' dentre outros e personalizar o projeto para o meu portfólio.
 
 ## Ferramentas
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
