@@ -2,6 +2,11 @@
 
 Estudo Analise e Desenvolviemento de Sitemas. Gosto de desenvolvimento web fullstack, elaborar e executar projetos que facilitem as vidas das pessoas.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=filipechgs&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=filipechgs&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
 ## Experiência
 - [Agenpsi - aplicativo web de gestão de agenda para psicólogos | Node.js | Express.js ](https://agenpsi.app.br/)
 
