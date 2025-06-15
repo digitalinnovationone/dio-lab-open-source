@@ -83,5 +83,4 @@ TOKEN = os.getenv('GITHUB_TOKEN')  # Token lido de variável de ambiente
 
 [![PR Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/pulls)
 
-<div align="center">Contribuição de segurança por <Filipe Maciel></div>
-```
+<div align="center">Contribuição de segurança por <strong>Filipe Maciel</strong></div>
