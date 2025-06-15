@@ -24,9 +24,6 @@ Sou Ricardo um apaixonado por tecnologia e jogos, e atualmete estudante de Ciên
 
 
 
-## GitHub
-
-
 ## Ferramentas
 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
