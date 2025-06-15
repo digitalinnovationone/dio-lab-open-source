@@ -12,7 +12,6 @@
 
 - 🤔 Gosto de desafios e passo horas pensando em como posso resolver certos problemas.
 
-- 🎓 Estudo programação e faço questão de elogiar a ótima didática da Profª Elidiana Andrade. Mesmo vindo de uma área totalmente diferente, estou conseguindo realizar as tarefas com facilidade, graças à professora Elidiana.
 
 **Aprendendo mais sobre**
 
