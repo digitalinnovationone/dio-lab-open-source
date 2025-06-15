@@ -42,7 +42,7 @@
 
   🧑‍💻  Editor de Mídias Audiovisuais\
   📆  out/2022 - jun/2023\
-  📍 HAVAN S.A.🗽
+  📍 Globo Produções S/A
 
   🧑‍💻  Estagiário Técnico\
   📆  abr/2022 - set/2022\
