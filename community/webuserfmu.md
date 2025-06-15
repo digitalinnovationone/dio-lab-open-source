@@ -2,7 +2,7 @@
 
 **Especialista em Infraestruturas de TI e Integração de Sistemas**  
 📍 Portugal | Disponível para trabalho: presencial, híbrido ou remoto  
-📧 luis.miguel@sapo.pt | 📱 +351 935 081 686  
+📧 luis.miguel@sapo.pt | 📱 +351 935 081 686 
 🔗 [LinkedIn](https://linkedin.com/in/luísmiguelgoncalves)
 
 ---
