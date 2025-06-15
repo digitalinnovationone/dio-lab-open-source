@@ -1,4 +1,4 @@
-# Ricardo AmisterdanAdd commentMore actions
+# Ricardo Amisterdan
 
 ## Sobre Min
 
