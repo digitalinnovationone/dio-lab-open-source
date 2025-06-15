@@ -6,6 +6,9 @@ Trabalhos com as disciplinas de S.O 1 e 2, Instalação e Manutewnção de Compu
 Toda aventura se torna um desafio para mim.  
 
 
-ME ENCONTRE  
+ME ENCONTRE    
+
+
+
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](karniello@gmaill.com)    
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/%C3%A1pio-carnielo-e-silva-43b5471b)
