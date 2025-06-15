@@ -13,7 +13,7 @@ Sou um desenvolvedor em formação, com os dois pés no mundo do back-end, autom
 - 🐍 Participante do **Santander Bootcamp 2025 – Trilha Back-End com Python**
 - 🛠️ Trabalhando atualmente com **Suporte via sistemas de Ticket(Freshdesk)**, **Conciliação Financeira de Transações**, **Configuração, homologação e troubleshooting de terminais POS e TEF** 
 - 💡 Interesses em **Python**, **SQL**, **PHP** e automações desktop
-- 🔍 Sempre explorando formas de automatizar tarefas do dia a dia
+- 🔍 Sempre explorando formas de automatizar tarefas do dia a dia!
 
 ---
 
