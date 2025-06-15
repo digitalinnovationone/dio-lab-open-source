@@ -1,4 +1,4 @@
-# 🔒 Melhoria de Segurança: Remoção de Token Hardcoded
+# 🔒 Melhoria de Segurança: Remoção de Token Hardcoded:
 
 ```markdown
 <h1>
@@ -33,7 +33,7 @@ import os
 TOKEN = os.getenv('GITHUB_TOKEN')  # Token lido de variável de ambiente
 ```
 
-## 📝 Passos para Implementação
+## 📝 Passos para Implementação:
 
 <table>
   <thead>
@@ -74,7 +74,7 @@ TOKEN = os.getenv('GITHUB_TOKEN')  # Token lido de variável de ambiente
 
 > 💡 **Dica**: Considere também implementar um sistema de rotação automática de tokens para maior segurança:
 
-## 🤝 Como Contribuir para Esta Melhoria
+## 🤝 Como Contribuir para Esta Melhoria:
 
 1. Faça um fork do repositório
 2. Crie uma branch: `git checkout -b fix/security-token`
