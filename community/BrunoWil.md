@@ -1,4 +1,4 @@
-# ????? Bruno Wilson Moura do Nascimento
+# ğŸ‘¨â€ğŸ’» Bruno Wilson Moura do Nascimento
 
 [![Email](https://img.shields.io/badge/Email-bruno.wilson.m@gmail.com-blue?style=flat-square&logo=gmail)](mailto:bruno.wilson.m@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BrunoWilson-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bruno-wilson-moura-0a1031168/)
@@ -6,14 +6,14 @@
 
 ---
 
-?? **Estudante de Engenharia de Computação** – IFCE  
-?? Fortaleza – CE  
-?? Foco em integração hardware/software, desenvolvimento mobile e sistemas distribuídos.  
-?? Participação em projetos com Python, Android, iOS e metodologias baseadas em desafios reais (CBL).
+ğŸ“ **Estudante de Engenharia de ComputaÃ§Ã£o** â€“ IFCE  
+ğŸ“ Fortaleza â€“ CE  
+ğŸ’¡ Foco em integraÃ§Ã£o hardware/software, desenvolvimento mobile e sistemas distribuÃ­dos.  
+ğŸš€ ParticipaÃ§Ã£o em projetos com Python, Android, iOS e metodologias baseadas em desafios reais (CBL).
 
 ---
 
-## ??? Habilidades Técnicas
+## ğŸ› ï¸ Habilidades TÃ©cnicas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
@@ -26,15 +26,15 @@
 
 ---
 
-## ?? Projetos Relevantes
+## ğŸ“ Projetos Relevantes
 
-- ?? **Jogo da Velha Distribuído** – Python + Sockets, RMI, MOM e Tkinter  
-- ?? **AdotsPets** – Plataforma Django para adoção de animais  
-- ?? **Organic Plus** – App iOS (Swift + UIKit) com prototipagem no Figma (CBL)
+- ğŸ® **Jogo da Velha DistribuÃ­do** â€“ Python + Sockets, RMI, MOM e Tkinter  
+- ğŸ¾ **AdotsPets** â€“ Plataforma Django para adoÃ§Ã£o de animais  
+- ğŸŒ± **Organic Plus** â€“ App iOS (Swift + UIKit) com prototipagem no Figma (CBL)
 
 ---
 
-## ?? GitHub Stats
+## ğŸ“Š GitHub Stats
 
 <div align="center">
 
@@ -47,18 +47,18 @@
 
 ---
 
-## ?? Formação Complementar
+## ğŸŒ± FormaÃ§Ã£o Complementar
 
-- **Residência em TIC 12** – Kotlin e Android Studio (120h)  
-- **MCTI do Futuro (Softex)** – Dart, Flutter, Firebase (60h)  
-- **Novos Negócios em TIC** – iOS/Android + CBL (400h)  
-- **IFCE (2016 – atual)** – Engenharia de Computação
+- **ResidÃªncia em TIC 12** â€“ Kotlin e Android Studio (120h)  
+- **MCTI do Futuro (Softex)** â€“ Dart, Flutter, Firebase (60h)  
+- **Novos NegÃ³cios em TIC** â€“ iOS/Android + CBL (400h)  
+- **IFCE (2016 â€“ atual)** â€“ Engenharia de ComputaÃ§Ã£o
 
 ---
 
-## ??? Idiomas
+## ğŸ—£ï¸ Idiomas
 
-- **Português:** Nativo  
-- **Inglês:** Intermediário
+- **PortuguÃªs:** Nativo  
+- **InglÃªs:** IntermediÃ¡rio
 
 ---
