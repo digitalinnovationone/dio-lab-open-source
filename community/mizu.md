@@ -26,6 +26,6 @@
 ## 📬 Contato
 
 - [GitHub](https://github.com/Matheusmizu)  
-- Email: matheus.seuemail@gmail.com *(exemplo)*
+
 
 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Vamos construir soluções juntos!
