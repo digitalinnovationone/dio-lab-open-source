@@ -1,5 +1,3 @@
-Olá, eu sou José Jr.! 👋
-
 
 🚀 Sobre Mim
 
@@ -58,19 +56,13 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho trabalhado:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XAKCN&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=XAKCN&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&layout=compact&langs_count=3&hide=other&custom_title=Linguagens%20Mais%20Usadas&langs=Python,React,HTML&percentages=81,19,6)
+
 
 ✨ Projetos em Destaque
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=XAKCN&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/XAKCN/dio-lab-open-source)
 
-�� Nome do Projeto 1
-
-Uma breve descrição do projeto, o problema que ele resolve e as tecnologias utilizadas.
-
-➡️ Veja todos os meus projetos
-
-## 📝 Encerramento
+## 📝 Sobre
 
 Este perfil foi desenvolvido com base nas seguintes referências:
 - [GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
@@ -80,7 +72,7 @@ Este perfil foi desenvolvido com base nas seguintes referências:
 ---
 
 <div align="center">
-  <p>© 2024 José Jr.</p>
+  <p>© 2025 XAKCN.</p>
   <p>Todos os direitos reservados</p>
 </div>
 
