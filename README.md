@@ -1,4 +1,6 @@
 Olá, eu sou José Jr.! 👋
+
+
 🚀 Sobre Mim
 
 Entusiasta dos mercados financeiros e de capitais, sou José Jr., um profissional dedicado em busca de oportunidades desafiadoras e inovadoras. Minha paixão por finanças, combinada com minha vocação por técnologia e programação, me trouxeram até lugares que jamais poderia imaginar.
