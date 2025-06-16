@@ -1,4 +1,4 @@
- 💻 Mariana Varandas Aires Barbosa  
+💻 Mariana Varandas Aires Barbosa  
 
 🚀 Estudante de **Análise e Desenvolvimento de Sistemas** | 🎯 Em transição de carreira de **Música** para **Desenvolvimento de Software**  
 
@@ -24,7 +24,7 @@ Como autista, superdotada e autodidata, aprendo rapidamente e tendo a ser muito 
 ## 📌 Primeiros Exercícios!
 
 🔹 [**Acompanhe meu desenvolvimento**](https://github.com/MarianaVarandas/Portfolio_Exercicios) 
-Todos os dias estudo e amplio meu conhecimento em programação e computaçao no geral. 
+Todos os dias estudo e amplio meu conhecimento em programação e computaçao no geral 
 Costumo atualizar o meu repositório de exercícios diariamente e te convido a acompanhar meu crescimento :)
 
 
