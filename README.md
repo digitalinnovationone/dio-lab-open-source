@@ -21,9 +21,9 @@ Com projeto de pós-graduação em Ciências de Dados e mestrado em Economia.
 - Large Language Models (LLMs) para Análise de Dados Financeiros
 
 ### 📱 Contatos
-[![Gmail](https://img.shields.io/badge/-jrmelro8@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jrmelro8@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5521997016199)
-[![LinkedIn](https://img.shields.io/badge/-jrmelro-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrmelro/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:jrmelro8@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521997016199)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrmelro/)
 
 ### ⚡ Curiosidade
 A cada dia que passa, vejo como a combinação de finanças e tecnologia está transformando o mundo. É incrível como podemos usar dados e programação para criar soluções que impactam positivamente a vida das pessoas. Isso me motiva a continuar aprendendo e crescendo profissionalmente!
@@ -34,9 +34,9 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho trabalhado:
 
 ### 🚀 Tecnologias
 
-![Python](https://img.shields.io/badge/Python-81%25-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/React-14%25-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-5%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=chatgpt&logoColor=white)
 ![Finanças](https://img.shields.io/badge/Finanças-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
