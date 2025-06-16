@@ -8,28 +8,28 @@ Sou uma **Desenvolvedora de Software** apaixonada, com mais de **3 anos de exper
 
 **Back-End**
 
-- Python (automação e scripts)
+- Python (automação e scripts)  
 - Node.js
 
 **Front-End**
 
-- React
-- HTML, JavaScript, CSS
+- React  
+- HTML, JavaScript, CSS  
 - Bootstrap & TailwindCSS
 
 **DevOps & Ferramentas**
 
-- Docker
+- Docker  
 - Linux (uso diário e shell scripting)
 
 ---
 
 ## 🚀 O que eu sei fazer
 
-- Projetar e desenvolver **APIs RESTful**
-- Construir aplicações escaláveis com **Node.js**
-- Automatizar tarefas com **scripts Python**
-- Criar ambientes leves e isolados com **Docker**
+- Projetar e desenvolver **APIs RESTful**  
+- Construir aplicações escaláveis com **Node.js**  
+- Automatizar tarefas com **scripts Python**  
+- Criar ambientes leves e isolados com **Docker**  
 - Desenvolver interfaces responsivas com **Bootstrap** e **TailwindCSS**
 
 ---
@@ -38,6 +38,6 @@ Sou uma **Desenvolvedora de Software** apaixonada, com mais de **3 anos de exper
 
 Fique à vontade para entrar em contato caso queira colaborar ou apenas conversar!
 
-- 📧 E-mail: `andressacaroline082011@gmail.com`
-- 💼 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/andressalopesa/)
+- 📧 E-mail: `andressacaroline082011@gmail.com`  
+- 💼 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/andressalopesa/)  
 - 🖥️ GitHub: [Meu GitHub](https://github.com/AndreessaLopes)
