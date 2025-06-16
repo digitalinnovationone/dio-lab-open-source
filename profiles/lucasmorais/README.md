@@ -15,4 +15,3 @@
 - 🔗 [GitHub](https://github.com/Lalalucas)
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucas-morais-504aaa1a2)
 - 📸 [Instagram](https://www.instagram.com/lucaspittoco?igsh=dXdjNTYzMW83Z3Vn)
-
