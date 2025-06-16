@@ -1,4 +1,3 @@
-
 🚀 Sobre Mim
 
 Entusiasta dos mercados financeiros e de capitais, sou José Jr., um profissional dedicado em busca de oportunidades desafiadoras e inovadoras. Minha paixão por finanças, combinada com minha vocação por técnologia e programação, me trouxeram até lugares que jamais poderia imaginar.
@@ -56,7 +55,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho trabalhado:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XAKCN&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=XAKCN&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ✨ Projetos em Destaque
 
