@@ -1,95 +1,69 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Contribuindo em um Projeto Open Source no GitHub</span>
-</h1>
+Olá, eu sou José Jr.! 👋
+🚀 Sobre Mim
 
-Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio e exercício prático para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
+Entusiasta dos mercados financeiros e de capitais, sou José Jr., um profissional dedicado em busca de oportunidades desafiadoras e inovadoras. Minha paixão por finanças, combinada com minha vocação por técnologia e programação, me trouxeram até lugares que jamais poderia imaginar.
+Faço parte do grupo de graduação do Centro de Ciências Sociais e Aplicadas (CCSA) da universidade presbiteriana Mackenzie nas áreas de Ciências Econômicas e Gestão Empresarial. 
+Com projeto de pós-graduação em Ciências de Dados e mestrado em Economia.
 
-[![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
-[![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
+🔗 Conecte-se Comigo
+    🔭 Atualmente trabalhando em... Análise Quantitativa de Mercados, Consultoria Financeira e Desenvolvimento de Soluções Tecnológicas para o Mercado Financeiro
 
-## Objetivo
-Aprender o básico sobre contribuição no GitHub.
+    🌱 Atualmente aprendendo... Ciências Econômicas, Gestão Empresarial, Inteligência Artificial e Large Language Models (LLMs) para Análise de Dados Financeiros
 
-## Ferramentas
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+    📫 Como me encontrar: <a href="mailto:jrmelro8@gmail.com"><img src="https://img.shields.io/badge/-jrmelro8@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" target="_blank"></a>
+    📱 Telefone: <a href="https://wa.me/5521997016199"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" target="_blank"></a>
+    💼 LinkedIn: <a href="https://www.linkedin.com/in/jrmelro/"><img src="https://img.shields.io/badge/-jrmelro-0077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
 
-## Percurso
-<table>
-  <thead>
-    <tr align="left">
-      <th>Nº</th>
-      <th>Etapas</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>01</td>
-      <td>Introdução ao Lab</td>
-    </tr>
-    <tr>
-      <td>02</td>
-      <td>Formas de Contribuir num Projeto Open Source</td>
-    </tr>
-    <tr>
-      <td>03</td>
-      <td>Desenvolvendo e Enviando uma Contribuição</td>  
-    </tr>
-    <tr>
-      <td>04</td>
-      <td>Dicas e Materiais de Apoio</td>    
-    </tr>
-  </tbody>
-</table>
+    ⚡ Curiosidade: A cada dia que passa, vejo como a combinação de finanças e tecnologia está transformando o mundo. É incrível como podemos usar dados e programação para criar soluções que impactam positivamente a vida das pessoas. Isso me motiva a continuar aprendendo e crescendo profissionalmente!
 
----
-## Desafio de Projeto da DIO
-Agora que você já sabe as formas de contribuir em um projeto Open Source, está na hora de colocar em prática o seu conhecimento sobre contribuição no GitHub! <br>
-Para concluir este Desafio de Projeto, basta enviar a **URL do seu "fork" de um projeto Open Source que você contribuiu** para a entrega do desafio na plataforma [DIO](https://www.dio.me/).
+🛠️ Habilidades e Tecnologias
 
-> [!NOTE]   
-> Por exemplo, a URL https://github.com/falvojr/dio-lab-open-source é o "**fork**" feito pelo usuário do GitHub "`falvojr`" para a contribuição no repositório `dio-lab-open-source`.
+Aqui estão algumas das tecnologias e ferramentas com as quais tenho trabalhado:
 
-### Contribua com seu Profile README
-Para contribuir neste repositório, uma das formas é através da contribuição no diretório "**community**", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. <br>
-Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
- Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
+### 🚀 Tecnologias
 
-#### Utilitários
+![Python](https://img.shields.io/badge/Python-81%25-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/React-14%25-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-5%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=chatgpt&logoColor=white)
+![Finanças](https://img.shields.io/badge/Finanças-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
 
-[![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
-[![Card Stats](https://img.shields.io/badge/Card%20Stats-E94D5F?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
-[![Badges](https://img.shields.io/badge/Card%20Streak%20States-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-streak-stats.md)
+### 💻 Backend
+- <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python"/> com Programação Orientada a Objetos
+- <img src="https://img.shields.io/badge/API-000000?style=flat&logo=postman&logoColor=white" alt="API"/> Desenvolvimento de APIs RESTful
+- <img src="https://img.shields.io/badge/Dados-000000?style=flat&logo=pandas&logoColor=white" alt="Dados"/> Manipulação de dados e análise
+- <img src="https://img.shields.io/badge/Finanças-000000?style=flat&logo=bitcoin&logoColor=white" alt="Finanças"/> Python para Finanças e Análise Financeira
+- <img src="https://img.shields.io/badge/AI-000000?style=flat&logo=openai&logoColor=white" alt="AI"/> Inteligência Artificial e LLM (Large Language Models)
+- <img src="https://img.shields.io/badge/NLP-000000?style=flat&logo=chatgpt&logoColor=white" alt="NLP"/> Processamento de Linguagem Natural
 
-> [!IMPORTANT]   
-> Confira as instruções antes de enviar a sua contribuição em [CONTRIBUTING.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md)
+### 🎨 Frontend
+- <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/> React.js para interfaces modernas
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/> HTML5 para estruturação de conteúdo
+- <img src="https://img.shields.io/badge/Components-000000?style=flat&logo=react&logoColor=61DAFB" alt="Components"/> Componentização e reutilização de código
 
-### Fórum do Repositório (GitHub Discussions)
-GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. Caso tenha dúvidas, você pode abrir uma discussão, dentro de uma categoria apropriada, na aba "Discussions" do repositório do projeto.
+### 📊 Estatísticas do GitHub
+✨ Projetos em Destaque
+📁 Nome do Projeto 1
 
-> [!WARNING]  
-> **Atenção:** Antes de criar uma nova discussão, verifique se sua dúvida já foi respondida em discussões anteriores. Use a função de pesquisa para encontrar tópicos relevantes.
+Uma breve descrição do projeto, o problema que ele resolve e as tecnologias utilizadas.
+
+➡️ Veja todos os meus projetos
+
+## 📝 Encerramento
+
+Este perfil foi desenvolvido com base nas seguintes referências:
+- [GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
+- [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+- [Shields.io](https://shields.io/)
 
 ---
 
-## Contribua
-[![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/stargazers)
-[![Forks](https://img.shields.io/github/forks/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/forks)
-[![GitHub Issues](https://img.shields.io/github/issues/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/issues/)
+<div align="center">
+  <p>© 2024 José Jr.</p>
+  <p>Todos os direitos reservados</p>
+</div>
 
- Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição além do seu exemplo de Profile README, é inserir outros utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils), ou melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/docs). <br>
- Além disso, você também pode contribuir:
- 
-⚠️ Resolvendo, respondendo ou indicando **issues**
-
-⭐ Adicionando aos favoritos (**star**) 
-
-### Membros da comunidade que já contribuiram:
-<a href="https://github.com/digitalinnovationone/dio-lab-open-source/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=digitalinnovationone/dio-lab-open-source"/>
-</a>
-
-##
-<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Licença-MIT-yellow.svg" alt="Licença MIT"/>
+</div>
