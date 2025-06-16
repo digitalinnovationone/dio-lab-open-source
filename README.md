@@ -8,15 +8,25 @@ Faço parte do grupo de graduação do Centro de Ciências Sociais e Aplicadas (
 Com projeto de pós-graduação em Ciências de Dados e mestrado em Economia.
 
 🔗 Conecte-se Comigo
-    🔭 Atualmente trabalhando em... Análise Quantitativa de Mercados, Consultoria Financeira e Desenvolvimento de Soluções Tecnológicas para o Mercado Financeiro
 
-    🌱 Atualmente aprendendo... Ciências Econômicas, Gestão Empresarial, Inteligência Artificial e Large Language Models (LLMs) para Análise de Dados Financeiros
+### 💼 Trabalho Atual
+- Análise Quantitativa de Mercados
+- Consultoria Financeira
+- Desenvolvimento de Soluções Tecnológicas para o Mercado Financeiro
 
-    📫 Como me encontrar: <a href="mailto:jrmelro8@gmail.com"><img src="https://img.shields.io/badge/-jrmelro8@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" target="_blank"></a>
-    📱 Telefone: <a href="https://wa.me/5521997016199"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" target="_blank"></a>
-    💼 LinkedIn: <a href="https://www.linkedin.com/in/jrmelro/"><img src="https://img.shields.io/badge/-jrmelro-0077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
+### 📚 Aprendizado
+- Ciências Econômicas
+- Gestão Empresarial
+- Inteligência Artificial
+- Large Language Models (LLMs) para Análise de Dados Financeiros
 
-    ⚡ Curiosidade: A cada dia que passa, vejo como a combinação de finanças e tecnologia está transformando o mundo. É incrível como podemos usar dados e programação para criar soluções que impactam positivamente a vida das pessoas. Isso me motiva a continuar aprendendo e crescendo profissionalmente!
+### 📱 Contatos
+[![Gmail](https://img.shields.io/badge/-jrmelro8@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jrmelro8@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5521997016199)
+[![LinkedIn](https://img.shields.io/badge/-jrmelro-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrmelro/)
+
+### ⚡ Curiosidade
+A cada dia que passa, vejo como a combinação de finanças e tecnologia está transformando o mundo. É incrível como podemos usar dados e programação para criar soluções que impactam positivamente a vida das pessoas. Isso me motiva a continuar aprendendo e crescendo profissionalmente!
 
 🛠️ Habilidades e Tecnologias
 
