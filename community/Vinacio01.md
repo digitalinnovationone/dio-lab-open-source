@@ -10,7 +10,7 @@ Aprender o básico sobre contribuição no GitHub é essencial para colaborar em
 *Aprenda a programar na [DIO](https://www.dio.me)!*  
 
 ## Habilidade
-![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pyt&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) 
+![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vinacio01&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) 
 
 
 ### Bancos de Dados
