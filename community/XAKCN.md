@@ -1,5 +1,6 @@
 🚀 Sobre Mim
 
+
 Entusiasta dos mercados financeiros e de capitais, sou José Jr., um profissional dedicado em busca de oportunidades desafiadoras e inovadoras. Minha paixão por finanças, combinada com minha vocação por técnologia e programação, me trouxeram até lugares que jamais poderia imaginar.
 Faço parte do grupo de graduação do Centro de Ciências Sociais e Aplicadas (CCSA) da universidade presbiteriana Mackenzie nas áreas de Ciências Econômicas e Gestão Empresarial. 
 Com projeto de pós-graduação em Ciências de Dados e mestrado em Economia.
