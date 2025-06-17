@@ -2,14 +2,14 @@
 <br>
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=CF0A0A&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Eryck&nbsp;Borges;I'm+18+years+old;I'm+a+Front-end+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=CF0A0A&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Eryck&nbsp;Borges;I'm+18+years+old;I'm+a+Front-end+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)<br><br><br>
 
 <div style="display:flex;">
    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EryckBorges&show_icons=true&count_private=true&hide_border=true&title_color=CF0A0A&text_color=c9d1d9&bg_color=00000000&icon_color=CF0A0A" alt="Eryck Borges"/>
 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EryckBorges&layout=compact&hide_border=true&title_color=CF0A0A&text_color=c9d1d9&bg_color=00000000">
 </div>
-<br>
+<br><br>
 
 <div align="center"> 
 <p align="center">
@@ -25,20 +25,26 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=CF0A0A&center=true&vCenter=true&random=false&width=1000&lines=Formação+Acadêmica)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=CF0A0A&center=true&vCenter=true&random=false&width=1000&lines=e+Intituições+de+Ensino)](https://git.io/typing-svg)<br><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=CF0A0A&center=true&vCenter=true&random=false&width=1000&lines=e+Intituições+de+Ensino)](https://git.io/typing-svg)<br><br><br>
 
 
-<div style="display:flex; justify-content:center; align-items:baseline; gap:20px;">
-   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; gap:10px;">
-        <img width="49%" height="50px" src="https://upload.wikimedia.org/wikipedia/en/0/0c/Harvard_University_shield.svg" alt="Harvard Online"/>Harvard Online
-   </div>
-   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; gap:10px;">
-        <img width="50px" height="50px" src="https://logodownload.org/wp-content/uploads/2015/02/unesp-logo-11.png" alt="Eryck Borges"/>Unesp
-   </div>
-   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; gap:10px;">
-        <img width="120px" height="50px" src="https://hermes.digitalinnovation.one/assets/diome/logo.png" alt="Eryck Borges"/>Dio | Bootcamp Santander
-   </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/en/0/0c/Harvard_University_shield.svg" height="50"/><br/>
+      <strong>Harvard Online</strong>
+    </td>
+    <td align="center">
+      <img src="https://logodownload.org/wp-content/uploads/2015/02/unesp-logo-11.png" height="50"/><br/>
+      <strong>Unesp</strong>
+    </td>
+    <td align="center">
+      <img src="https://hermes.digitalinnovation.one/assets/diome/logo.png" height="50"/><br/>
+      <strong>Dio | Bootcamp Santander</strong>
+    </td>
+  </tr>
+</table>
+
 <br>
 <br> 
 
@@ -99,11 +105,3 @@
 
 
 <img width=100% bottom=50px src="https://capsule-render.vercel.app/api?type=waving&color=ff91a48height=120&section=footer"/>
-
-
-
-
-
-
-
-
