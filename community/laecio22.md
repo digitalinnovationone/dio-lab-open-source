@@ -26,7 +26,7 @@ Em 2012 finalizei o curso técnico em informática  pelo IFPI📚 , estagiei com
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=laecio22&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&theme=merko)
 
 ## Minhas  Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=laecio22&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/laecio22/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=laecio22&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/laecio22/dio-lab-open-source)
 
 
 ### Meus Contatos
