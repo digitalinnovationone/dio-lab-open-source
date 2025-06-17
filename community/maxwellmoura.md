@@ -26,7 +26,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maxwellmoura&theme=dark&hide_border=false&hide_title=true)<br/>
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maxwellmoura&bg_color=000&border_color=ffftitle_color=E94D5F&text_color=FFF&hide_title=true)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=maxwellmoura&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
