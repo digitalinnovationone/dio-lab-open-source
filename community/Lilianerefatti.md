@@ -2,18 +2,10 @@
 <p align="center"><strong>CIENTISTA DE DADOS | PYTHON | SQL | POWER BI | ESTATÍSTICA | MESTRE EM MATEMÁTICA</strong></p>
 
 <p align="center">
-Sou apaixonada por transformar dados em decisões. Com formação em Matemática e experiência em ensino e pesquisa, hoje atuo como Cientista de Dados com foco em Python, SQL, visualização e aprendizado de máquina. Busco sempre unir pensamento analítico com soluções tecnológicas criativas.
+Sou apaixonada por transformar dados em decisões. Com formação em Matemática e experiência em ensino e pesquisa, hoje atuo como Cientista de Dados com foco em Python, SQL, visualização e aprendizado de máquina. Busco sempre unir pensamento analítico com soluções tecnológicas criativas. </p>
 
-</p>
-
-## 🧠 Habilidades Técnicas
-- **Linguagens**: Python, SQL, R
-- **Análise de Dados**: Pandas, NumPy, Scikit-learn, Jupyter
-- **Visualização**: Power BI, Matplotlib, Seaborn, Plotly
-- **Machine Learning**: Regressão, Modelagem Preditiva, Classificação, NLP
-- **Banco de Dados**: MySQL, SQL Serve, PostgreSQL
-- **Outros**: Flask, Git, GitHub, Excel, Tableau
 ---
+
 📊 **GitHub Stats**
 
 <div align="center">
@@ -24,7 +16,6 @@ Sou apaixonada por transformar dados em decisões. Com formação em Matemática
 </div>
 
 ---
-
 ## 🌐 Contato
 Sinta-se à vontade para entrar em contato ou colaborar em projetos de Ciência de Dados. Estou sempre que possível aprendendo e compartilhando!
 <div align="center">
