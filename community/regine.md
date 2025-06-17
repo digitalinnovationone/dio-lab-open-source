@@ -8,4 +8,4 @@ Repositórios em destaque
 
 * Python - [https://github.com/regine-barbosa/Python] 
 
-* Javascript - [https://github.com/regine-barbosa/Javascript] 
+* Javascript - [https://github.com/regine-barbosa/Javascript]
