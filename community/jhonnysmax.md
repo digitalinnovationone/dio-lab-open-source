@@ -1,8 +1,7 @@
 # 👋 Olá! Eu sou Jhonnys Max
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Técnico em Informática | Apaixonado por tecnologia  
-🙏 Católico e Missionário da Rosa Mística  
+💻 Técnico em Informática | Apaixonado por tecnologia   
 🎤 Gosto de cantar, cozinhar e aprender novas linguagens
 
 ## 🚀 Habilidades
