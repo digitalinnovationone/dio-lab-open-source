@@ -2,7 +2,6 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Técnico em Informática | Apaixonado por tecnologia  
-🙏 Católico e Missionário da Rosa Mística  
 🎤 Gosto de cantar, cozinhar e aprender novas linguagens
 
 ## 🚀 Habilidades
@@ -12,7 +11,7 @@
 
 ## 📊 GitHub Stats
 
-![Jhonnys GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark)
+![Jhonnys GitHub stats](https://github-readme-stats.vercel.app/api?username=JHONNYSMAX&show_icons=true&theme=dark)
 
 ## 🌟 Projetos e Desafios
 
