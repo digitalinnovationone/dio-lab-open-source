@@ -20,8 +20,8 @@ Sou Marcelo, um desenvolvedor de produtos industriais buscando me conectar novam
 * Versionamento Git/Github
 
 ## 💬 Soft Skills
-* Resulução de Problemas
-* Mente Analítica e Critiva
+* Resolução de problemas
+* Mente analítica e criativa
 * Boa comunicação
 * Aprendizado contínuo
 * Bem organizado
