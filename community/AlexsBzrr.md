@@ -7,7 +7,6 @@ Sou desenvolvedor **Frontend** e atualmente estudando **Backend**, com formaçã
 ## 🎓 Formação Acadêmica:
 
 - **Análise e Desenvolvimento de Sistemas (ADS)**
-  feat/community/AlexsBzrr
 
 ---
 
