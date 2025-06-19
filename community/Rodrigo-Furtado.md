@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#7289DA ">Rodrigo Santos Furtado</h1>
+<h1 align="center" style="color:#7289DA ">Rodrigo Furtado</h1>
 
 <h2 align="center">Contact me</h2>
 
