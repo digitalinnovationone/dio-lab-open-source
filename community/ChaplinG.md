@@ -17,8 +17,6 @@ Atualmente estou passando por uma transição de carreira, da área de Jogos (qu
 #
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ChaplinG&layout=compact&bg_color=0c1014&border_color=99d1ce&title_color=2aa889&text_color=99d1ce)
 
-<<<<<<< HEAD
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaplinG&theme=gotham&show_icons=true&hide_title=true)
 =======
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaplinG&theme=gotham&show_icons=true&hide_title=true)
->>>>>>> 490326058c5f6de99ccee5013d9bf39d9cd8f2ab
