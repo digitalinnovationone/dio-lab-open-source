@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/arthurspk/guiadobackend/raw/main/images/guia.png" width="140" alt="Banner João Alencar">
+  <img src="https://github.com/arthurspk/guiadobackend/raw/main/images/guia.png" width="140" alt="Banner João Alencar" />
 </p>
 
 <h1 align="center">Olá! Eu sou o João Alencar 👋</h1>
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/JoaoAlencar00">
-    <img src="https://komarev.com/ghpvc/?username=JoaoAlencar00&label=Visualizações&color=blue&style=flat" alt="Visualizações do perfil"/>
+    <img src="https://komarev.com/ghpvc/?username=JoaoAlencar00&label=Visualizações&color=blue&style=flat" alt="Visualizações do perfil" />
   </a>
 </p>
 
@@ -15,27 +15,27 @@
 
 ## 💼 Sobre Mim
 
-- 🔭 Atualmente estudando **Java, Spring Boot, Hibernate e MySQL**
-- 🌱 Também explorando **JavaScript, HTML, CSS e Node.js**
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 👨‍💻 Buscando uma vaga como **desenvolvedor backend júnior**
-- 📫 Contato: Joaopalencar2000@gmail.com
+- 🔭 Atualmente estudando **Java, Spring Boot, Hibernate e MySQL**  
+- 🌱 Também explorando **JavaScript, HTML, CSS e Node.js**  
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**  
+- 👨‍💻 Buscando uma vaga como **desenvolvedor backend júnior**  
+- 📫 Contato: [Joaopalencar2000@gmail.com](mailto:Joaopalencar2000@gmail.com)  
 
 ---
 
 ## 🧠 Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="NodeJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="NodeJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ" />
 </div>
 
 ---
@@ -51,7 +51,7 @@
 ## 🚀 Projetos em Destaque
 
 - 🔗 [Portal de Doações](https://github.com/JoaoAlencar00/portal-doacoes) — Sistema web para facilitar doações a ONGs  
-- 🎬 [Catálogo de Filmes em Java](https://github.com/JoaoAlencar00/catalogo-filmes) — Projeto usando Spring Boot + JPA
+- 🎬 [Catálogo de Filmes em Java](https://github.com/JoaoAlencar00/catalogo-filmes) — Projeto usando Spring Boot + JPA  
 
 ---
 
@@ -94,11 +94,5 @@
 ## 🐍 Snake - Contribuição Interativa
 
 <p align="center">
-  <img src="https://github.com/JoaoAlencar00/JoaoAlencar00/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/JoaoAlencar00/JoaoAlencar00/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-"""
-
-# Salvar como arquivo README.md
-with open("/mnt/data/README-JoaoAlencar00.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
