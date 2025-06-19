@@ -1,0 +1,30 @@
+name: Atualizar cobrinha do perfil
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # roda todo dia à meia-noite
+  push:
+    branches:
+      - main
+
+jobs:
+  update-snake:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - uses: platane/snk@v1
+      with:
+        repo: JoaoAlencar00/JoaoAlencar00
+        filename: ./output/github-contribution-grid-snake.svg
+        theme: dracula
+
+    - name: Commit and push
+      run: |
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git config user.name "github-actions[bot]"
+        git add ./output/github-contribution-grid-snake.svg
+        git commit -m "chore: atualiza cobrinha"
+        git push
+      continue-on-error: true
