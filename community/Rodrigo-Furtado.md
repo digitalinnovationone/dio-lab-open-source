@@ -42,7 +42,7 @@
 <h2 align="center">Bootcamps and courses</h2>
 
 <div align="center">
-• Santander Bootcamp 2024
+• Santander Bootcamp 2025
 </div>
 
 
