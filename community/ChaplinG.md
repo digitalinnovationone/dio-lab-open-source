@@ -14,9 +14,8 @@ Atualmente estou passando por uma transição de carreira, da área de Jogos (qu
 <p><strong style="color:#2aa889;">Ferramentas: </strong>GitHub, VS Code, PostgreSQL <br>
 <p><strong style="color:#2aa889;">Conceitos: </strong> Lógica de programação, POO, estruturação de dados, análise de dados (nível inicial)
 
-#
+# 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ChaplinG&layout=compact&bg_color=0c1014&border_color=99d1ce&title_color=2aa889&text_color=99d1ce)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaplinG&theme=gotham&show_icons=true&hide_title=true)
-=======
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaplinG&theme=gotham&show_icons=true&hide_title=true)
+
