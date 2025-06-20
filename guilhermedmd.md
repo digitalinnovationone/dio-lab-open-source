@@ -5,7 +5,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas do IFSP que busca apr
 <br>
 <br>
 <div align = "center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeDmD&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=guilhermedmd&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
 </div>
 
 
@@ -29,7 +29,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas do IFSP que busca apr
   <a href="https://www.linkedin.com/in/guilherme-domingues-4a8589332/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
   </a>
-    <a href="https://github.com/GuilhermeDmD">
+    <a href="https://github.com/guilhermedmd">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
   </a>
 </div>
