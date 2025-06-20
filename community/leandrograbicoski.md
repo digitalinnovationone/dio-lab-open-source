@@ -12,7 +12,7 @@ Tenho interesse tanto no mercado nacional quanto em oportunidades no exterior. M
 
 * Java (com foco em orientação a objetos)
 * Git e GitHub (versionamento e colaboração)
-* Conceitos de algoritmos e lógica de programação
+* Conceitos de algoritmos e lógica.
 
 ---
 
