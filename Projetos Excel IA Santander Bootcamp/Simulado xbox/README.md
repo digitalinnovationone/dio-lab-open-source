@@ -34,13 +34,13 @@ Este projeto foi desenvolvido durante o **Curso de Excel com IA promovido pelo S
 ## 📷 Capturas de Tela
 
 ### 🔁 Assinatura Anual
-![Assinatura Anual](./Anual.png)
+![Assinatura Anual](./imagens/Anual.png)
 
 ### 🔁 Assinatura Mensal
-![Assinatura Mensal](./Mensal.png)
+![Assinatura Mensal](./imagens/Mensal.png)
 
 ### 🔁 Assinatura Trimestral
-![Assinatura Trimestral](./Trimestral.png)
+![Assinatura Trimestral](./imagens/Trimestral.png)
 
 ---
 
