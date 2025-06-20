@@ -29,7 +29,7 @@ O bootcamp "Excel com Inteligência Artificial" oferecido pelo Santander aborda:
 
 ## 🏆 Certificado Oficial
 
-![Certificado](.certificado.png)
+![Certificado](/certificado.png)
 
 ---
 
