@@ -1,4 +1,4 @@
-# Ricardo Gallardo Araya
+# Ricardo Andres Gallardo Araya
 ## Sobre Mi/Sobre mim
 Feliz de poder aumentar mis conocimientos en relación con la programación. Actualmente vivo en Brasil, específicamente en Caraguatatuba, SP. Felizmente casado y con muchas ganas de aprender en este mundo que se aleja de mi título, que es Técnico en Enfermería. Siempre me ha gustado esta área y espero seguir ampliando mis conocimientos. Gracias por leer.
 
