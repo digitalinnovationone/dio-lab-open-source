@@ -22,11 +22,8 @@ I’m a passionate developer with over a decade of experience in technology, cur
 
 - 🛒 **E-commerce Solutions**  
   - [Man Baruch](https://manbaruch.shop)  
-  - [Real Rei Store](https://realreistore.shop)  
   - [Yaphah Style](https://yaphahstyle.shop)
-
-- ✍️ **Content Platforms**  
-  - [Análise Sincera Blog](https://analisecerta.blog)  
+  - [Análise Sincera Blog](https://siteoficial-hy.shop)  
   - [New Best Offers](https://bestoffers-hy.shop)
 
 - 📊 **Dashboards & BI**  
@@ -58,6 +55,11 @@ Clean Architecture, SEO (technical), Git workflows, Responsive Design, API RESTf
   <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=Hermessonyurii&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"/>
   <img alt="Top Langs" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermessonyurii&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9"/>
 </div>
+
+---
+
+
+
 
 ---
 
