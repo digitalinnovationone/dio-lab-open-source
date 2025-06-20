@@ -77,7 +77,7 @@ Portfólio online com acesso fácil aos meus contatos e projetos.
 - Flexbox – Udemy  
 - HTML & CSS – Udemy  
 - JavaScript com Node.js – Udemy  
-- Desenvolvimento de Software (Back-End) – DIO  
+- Desenvolvimento de Software (Front-end) – DIO  
 
 ---
 
