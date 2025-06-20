@@ -1,4 +1,4 @@
-# Gustavo Casa Nova
+# Gustavo Casa Nova Barreto
 ## Estudante e entusiasta da programação,sempre em busca de novos aprendizados e desafios no universo da tecnologia.
 
 ## Contato
