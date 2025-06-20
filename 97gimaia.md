@@ -12,3 +12,4 @@ Tenho 27 anos e sou diretora de arte com 8 anos de experiência no universo do d
 
 [![Instagram](https://img.shields.io/badge/Instagram-f400a1?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giovanamaia/)
 
+beijos
