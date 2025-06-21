@@ -1,0 +1,458 @@
+[33mcommit ca8792b4b17e0febb4ec36dbec350e3d1300965c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeat/community/hg413[m[33m)[m
+Author: BrunoLima <Bruno413890@gmail.com>
+Date:   Sat Jun 21 16:11:47 2025 -0300
+
+    feat: add hg413 profile
+
+[33mcommit 13ea42f8ff4156562009fe6c9c096f461cdab80c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 1c1504de1f f4400fcba6
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 21 17:57:42 2025 +0000
+
+    Merge pull request #63708 from jacksondgmedeiros/feat/community/jacksondgmedeiros
+
+[33mcommit f4400fcba6f3816f6ecce27c8067dba4158dd169[m
+Author: Jackson Medeiros <101956691+jacksondgmedeiros@users.noreply.github.com>
+Date:   Sat Jun 21 14:54:12 2025 -0300
+
+    feat: add jacksondgmedeiros profile
+
+[33mcommit 1c1504de1f0700962b420a9990473980162b9f61[m
+Merge: 0e8bda04b9 88dd97fde9
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 21 16:41:46 2025 +0000
+
+    Merge pull request #63707 from MonicaCastr0/feat/community/MonicaCastr0
+
+[33mcommit 0e8bda04b96a3ba9fcfbd0d3e55158efd83bf7bd[m
+Merge: bfa4ac40a8 6b0aeec574
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 21 16:31:17 2025 +0000
+
+    Merge pull request #63706 from fabiobilac/feat/community/fabiobilac
+
+[33mcommit 88dd97fde95760f0ab989c42b6949638d96f3ce6[m
+Author: Monica <castropereiram7@gmail.com>
+Date:   Sat Jun 21 13:31:17 2025 -0300
+
+    feat: add MonicaCastr0 Profile
+
+[33mcommit 6b0aeec574573fdd024b8d27ed1c34c518be259f[m
+Merge: ac87d3b879 bfa4ac40a8
+Author: fabiobilac <78272277+fabiobilac@users.noreply.github.com>
+Date:   Sat Jun 21 13:23:52 2025 -0300
+
+    Merge branch 'digitalinnovationone:main' into feat/community/fabiobilac
+
+[33mcommit bfa4ac40a81d33acd44755aef84c1e08da01f189[m
+Merge: e6b584198b d35634f9e7
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 21 16:17:01 2025 +0000
+
+    Merge pull request #63704 from guilhermedmd/feat/community/guilhermedmd
+
+[33mcommit d35634f9e7a76ed6f08aed5bbf4965a5625e0485[m
+Author: Guilherme Domingues <guilhermegdmd@gmail.com>
+Date:   Sat Jun 21 13:13:03 2025 -0300
+
+    feat: add guilhermedmd profile
+
+[33mcommit e6b584198b45713bed1096bb04e546a0cdc70e12[m
+Merge: 580f049db3 4da9647b82
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 21 16:08:22 2025 +0000
+
+    Merge pull request #63703 from leoschaeffner/main
+
+[33mcommit 580f049db3b65fcee45dc270e00fd782fb8c49b9[m
+Merge: 75ecddfb1b 0566c90a11
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 21 15:37:32 2025 +0000
+
+    Merge pull request #63701 from CleytonPeters/feat/community/CleytonPeters
+
+[33mcommit 75ecddfb1ba6d3b86fc5234569a27276f770c1ef[m
+Merge: a2ebf188df 9335f84c08
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 21 15:34:32 2025 +0000
+
+    Merge pull request #63700 from HenriqueLins26/main
+
+[33mcommit 0566c90a11529cf63a9d176776b9b398c5cf9864[m
+Author: Cleyton Peters <cleytonpeters@gmail.com>
+Date:   Sat Jun 21 12:32:10 2025 -0300
+
+    feat: add cleytonpeters profile
+
+[33mcommit 9335f84c08e321da97f6b67ef1ce2e082b75115d[m
+Author: Henrique Lins <113059590+HenriqueLins26@users.noreply.github.com>
+Date:   Sat Jun 21 12:21:11 2025 -0300
+
+    Create HenriqueLins26.md
+
+[33mcommit 4da9647b823e7fc664cb87fbc27143ca30968dee[m
+Author: leoschaeffner <leonardoschaeffner@gmail.com>
+Date:   Sat Jun 21 12:19:52 2025 -0300
+
+    Add files via upload
+
+[33mcommit a2ebf188dfe7b3e70a31b51682e930c90cbf493f[m
+Merge: 23691895e2 53794e2d4f
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 21 15:09:00 2025 +0000
+
+    Merge pull request #63698 from sjsdouglas/feat/community/sjsdouglas
+
+[33mcommit 53794e2d4f629f3a0845897011550d04da4dd782[m
+Merge: 45c0ddac8f 23691895e2
+Author: Douglas <104078248+sjsdouglas@users.noreply.github.com>
+Date:   Sat Jun 21 12:05:51 2025 -0300
+
+    Merge branch 'digitalinnovationone:main' into feat/community/sjsdouglas
+
+[33mcommit 45c0ddac8f93718c8b11511f23ed2bad3ca9eb5c[m
+Author: Douglas <104078248+sjsdouglas@users.noreply.github.com>
+Date:   Sat Jun 21 12:04:33 2025 -0300
+
+    feat:  add sjsdouglas profile
+
+[33mcommit 23691895e29faff87d67623f2ff3be8d9218959c[m
+Merge: dd92fb11ff b9649c5fea
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 21 15:01:17 2025 +0000
+
+    Merge pull request #63697 from gugaz3007/feat/community/gugaz3007
+
+[33mcommit dd92fb11ffe344a2bb9dd79cf1b57ced860b1c5b[m
+Merge: 8d7da888b8 c6c868a38a
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 21 14:59:02 2025 +0000
+
+    Merge pull request #63696 from FelipeSouza6k/main
+
+[33mcommit c6c868a38a1824e1bff2b2919bd202f440170010[m
+Author: Felipe Souza <125583116+FelipeSouza6k@users.noreply.github.com>
+Date:   Sat Jun 21 11:58:41 2025 -0300
+
+    Rename felipeSouza.md to FelipeSouza6k.md
+
+[33mcommit 5cd845d45cf6b85662fb178526e9a29e849cb42b[m
+Author: Felipe Souza <125583116+FelipeSouza6k@users.noreply.github.com>
+Date:   Sat Jun 21 11:55:03 2025 -0300
+
+    Create felipeSouza.md
+
+[33mcommit b9649c5feacd67731c981834ad46c96577a7e7a6[m
+Author: gustavo messias <gustavomessiassantos01@gmail.com>
+Date:   Sat Jun 21 11:46:05 2025 -0300
+
+    feat: add gugaz3007 profile
+
+[33mcommit 8d7da888b81d4c521c5f6f782e066d8f7b167d17[m
+Merge: 1df4478eaf aaf5778f9d
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 21 14:35:59 2025 +0000
+
+    Merge pull request #63694 from DAJINHOO/feat/community/DAJINHOO
+
+[33mcommit aaf5778f9d783d1ebf0c58a00c0c45ec00805ebb[m
+Author: DAJINHOO <Dagilvan.m.s@gmail.com>
+Date:   Sat Jun 21 11:31:18 2025 -0300
+
+    feat: add SEU_DAJINHOO profile
+
+[33mcommit 1df4478eaf6a3a3f24c9b35aec7f47d5931bfca9[m
+Merge: 9eae958a16 0429dd155d
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 21 14:30:49 2025 +0000
+
+    Merge pull request #63693 from fabianalessadev/feat/community/fabianalessadev
+
+[33mcommit 9eae958a1671fc3dd39a341ef4c9976c7ee44561[m
+Merge: 1ae85e5e56 2ae929a095
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 21 14:24:07 2025 +0000
+
+    Merge pull request #63692 from raesbyt/feat
+
+[33mcommit 0429dd155dff59abe00b64ccf7dde2fed0051e35[m
+Author: Fabiana Lessa <fabianalessadev@gmail.com>
+Date:   Sat Jun 21 11:23:42 2025 -0300
+
+    feat: add fabianalessadev profile
+
+[33mcommit 2ae929a09572684bfb26b950a7d25d73bc738186[m
+Author: raesbyt <105214511+raesbyt@users.noreply.github.com>
+Date:   Sat Jun 21 11:21:57 2025 -0300
+
+    Create raesbyt.md
+
+[33mcommit 1ae85e5e5637960154ea2218cf7c79c6688930a8[m
+Merge: 9d323a6a81 f0684bc6d7
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 21 13:22:23 2025 +0000
+
+    Merge pull request #63687 from Joao-Victor17/feat/community/Joao-Victor17
+
+[33mcommit f0684bc6d737dfd2415035dc86023b23f34f75b5[m
+Author: João Victor Dórea <dorea.cupolo@gmail.com>
+Date:   Sat Jun 21 10:19:20 2025 -0300
+
+    Create Joao-Victor17.md
+
+[33mcommit 9d323a6a81f633d6039624af744c82e97738b7f2[m
+Merge: 506cc85423 f99415ab45
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 21 12:50:23 2025 +0000
+
+    Merge pull request #63686 from joaocvteixeira/main
+
+[33mcommit f99415ab45982942e271e7b2adad79219958b987[m
+Author: João Carlos Viana Teixeira <joaocvteixeira@outlook.com>
+Date:   Sat Jun 21 09:49:08 2025 -0300
+
+    joaocvteixeira.md in community
+    
+    adicionando minha colaboração a comunidade
+
+[33mcommit 506cc854234c000e2cdaefe59887045fc77b6ead[m
+Merge: e85b4e6183 f8b3a89b9f
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 21 06:42:31 2025 +0000
+
+    Merge pull request #63684 from DuanaAquino/main
+
+[33mcommit f8b3a89b9f49899c9815bd6fa8fedb610c52783e[m
+Author: Duana <duanaquino@gmail.com>
+Date:   Fri Jun 20 23:42:07 2025 -0700
+
+    Rename ~DuanaAquino.md to DuanaAquino.md
+
+[33mcommit 20db6b31907a44331f669f9302583e3c5a305c51[m
+Author: Duana <duanaquino@gmail.com>
+Date:   Fri Jun 20 23:34:14 2025 -0700
+
+    feat: add DuanaAquino profile
+
+[33mcommit e85b4e61831949eb48b289b70c11ee7002abaf8f[m
+Merge: 30b8e47584 b05889e688
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 21 05:21:43 2025 +0000
+
+    Merge pull request #63682 from Adriannenunes/feat/community/Adriannenunes
+
+[33mcommit b05889e6880df7cf084e906b180511e4f070c81c[m
+Author: Adriannenunes <adriannekb@icloud.com>
+Date:   Sat Jun 21 02:15:00 2025 -0300
+
+    feat: add Adriannenunes profile
+
+[33mcommit 30b8e475840f6f491ba6f0b6565ea15a42d07031[m
+Merge: f8dd96cb3d 7eef9e1d3e
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 21 04:21:24 2025 +0000
+
+    Merge pull request #63681 from Gustavoo-coder/feat/community/Gustavoo-coder
+
+[33mcommit f8dd96cb3d0921e7572eb7c4a5af8e57c18a9785[m
+Merge: fd7cd9723a 5111f3f43c
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 21 04:10:47 2025 +0000
+
+    Merge pull request #63680 from AntonioOliveria/AntonioOliveria
+
+[33mcommit 5111f3f43c1957b69897e21efad1c476fa7d2a43[m
+Author: AntonioOliveria <antonioelenildo@hotmail.com>
+Date:   Sat Jun 21 01:10:26 2025 -0300
+
+    Add files via upload
+
+[33mcommit 21846cd4d000caa96597f246ba8be204435edf7a[m
+Author: AntonioOliveria <antonioelenildo@hotmail.com>
+Date:   Sat Jun 21 01:09:43 2025 -0300
+
+    Delete AntonioOliveria.md
+
+[33mcommit 6b3ad35b674b2594d3ffeb73b032b49cd774edb9[m
+Author: AntonioOliveria <antonioelenildo@hotmail.com>
+Date:   Sat Jun 21 01:02:27 2025 -0300
+
+    Add files via upload
+
+[33mcommit fd7cd9723aa2897b6cc6a78e345bd093b2531c51[m
+Merge: 667e511508 406f17091e
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 21 04:00:50 2025 +0000
+
+    Merge pull request #63679 from RenanNevesPereira/feat/community/RenanNevesPereira
+
+[33mcommit 7eef9e1d3ecc5b50edac4f01d910679dd1d97e3a[m
+Author: Gustavo Rodrigues <gustavoaft78@outlook.com>
+Date:   Sat Jun 21 00:56:07 2025 -0300
+
+    feat: add Gustavoo-coder profile
+
+[33mcommit 406f17091e356a11a044841c59663dde4044477d[m
+Author: RenanNevesPereira <renan.nevespereira@yahoo.com>
+Date:   Sat Jun 21 00:51:30 2025 -0300
+
+    feat: add RenanNevesPereira profile
+
+[33mcommit 667e51150807881cf5d5ffab4591e38edc638c2a[m
+Merge: db160535bc 0e6962147b
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 21 03:38:50 2025 +0000
+
+    Merge pull request #63677 from Patrick0846/feat/community/Patrick0846
+
+[33mcommit 0e6962147b740173d99b68b877db64e46a950647[m
+Author: Patrick0846 <123patricksilva@gmail.com>
+Date:   Sat Jun 21 00:30:43 2025 -0300
+
+    feat: add Patrick0846 profile
+
+[33mcommit db160535bc5ed910f6a0203793617e4cd70f239a[m
+Merge: 3b1c540493 1350ea119d
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 21 02:37:20 2025 +0000
+
+    Merge pull request #63674 from eslbcdev/feat/community/eslbcdev
+
+[33mcommit 1350ea119d31715581c901413dabe7123167c805[m
+Merge: 3c004851dc 72b195b3eb
+Author: eslbcdev <esterslbc.tech@gmail.com>
+Date:   Fri Jun 20 23:31:50 2025 -0300
+
+    Merge branch 'feat/community/eslbcdev' of https://github.com/eslbcdev/dio-lab-open-source into feat/community/eslbcdev
+
+[33mcommit 3b1c540493215f1060c11b4e2ecdd70867e70a37[m
+Merge: ab10505099 7c0f6aaf05
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 21 02:20:50 2025 +0000
+
+    Merge pull request #63671 from vitor-felipee/feat/community/vitor-felipee
+
+[33mcommit 7c0f6aaf05611084af5c54f247cf5f42d4506605[m
+Author: vitor_felipee <vitor07.felipe@gmail.com>
+Date:   Fri Jun 20 23:14:31 2025 -0300
+
+    feat: add vitor-felipee profile
+
+[33mcommit ab1050509969d65cc2ce890f96bc352e266619be[m
+Merge: 3106878d00 daf38c2ea0
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 21 02:07:57 2025 +0000
+
+    Merge pull request #63669 from EduardoRei/feat/community/EduardoRei
+
+[33mcommit daf38c2ea08049834cc8e550525f0a1e4c9f4952[m
+Author: Eduardo Vinicius Reimer <84744978+EduardoRei@users.noreply.github.com>
+Date:   Fri Jun 20 23:07:35 2025 -0300
+
+    Rename EduardoRei to EduardoRei.md
+
+[33mcommit f56baa73eb827e81b7cfb1f62d75efb7d834fab4[m
+Author: Eduardo Vinicius Reimer <84744978+EduardoRei@users.noreply.github.com>
+Date:   Fri Jun 20 23:04:10 2025 -0300
+
+    Create EduardoRei.md
+
+[33mcommit 3106878d0025eece634131e74e6ea45c80dee1bd[m
+Merge: f9904d5d57 1363b26c24
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 21 02:01:40 2025 +0000
+
+    Merge pull request #63668 from edneylucas/feat/community/edneylucas
+
+[33mcommit 1363b26c24f01c5d2963049fd119666f5aebad36[m
+Author: Edney Lucas <62349275+edneylucas@users.noreply.github.com>
+Date:   Fri Jun 20 22:55:21 2025 -0300
+
+    git add .
+
+[33mcommit f9904d5d57e45992a7c465d823e1a0ce2e2772da[m
+Merge: 5bae099dbc a59c88996f
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 21 01:54:32 2025 +0000
+
+    Merge pull request #63667 from denysparron/feat/community/denysparron
+
+[33mcommit a59c88996f3e3ad9d680a659b35a568ea5c450c9[m
+Author: denysparron <denys-parron@hotmail.com>
+Date:   Fri Jun 20 22:47:57 2025 -0300
+
+    feat: add denysparron profile
+
+[33mcommit a1dd65ee8761700548e0adcae28aad9fe60b0f02[m
+Author: Edney Lucas <62349275+edneylucas@users.noreply.github.com>
+Date:   Fri Jun 20 22:30:53 2025 -0300
+
+    Create edneylucas.md
+
+[33mcommit 3c004851dcd0d01299815c2748ab4c8abc60a1b5[m
+Author: eslbcdev <esterslbc.tech@gmail.com>
+Date:   Fri Jun 20 22:30:19 2025 -0300
+
+    feat: add eslbcdev profile
+
+[33mcommit 2d9c77530a61fb2d574b728e72302abee0574a88[m
+Author: Edney Lucas <62349275+edneylucas@users.noreply.github.com>
+Date:   Fri Jun 20 22:27:37 2025 -0300
+
+    Create edneylucas
+    
+    Adicionando o profile edneylucas
+
+[33mcommit 5bae099dbc7d165f4cb3c3e2e171765efb03c117[m
+Merge: dfcabcf332 8b914651c4
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 21 01:13:01 2025 +0000
+
+    Merge pull request #62700 from AndreT3413/feat/community/AndreT3413
+
+[33mcommit dfcabcf3320eb05b93ab99ddb3bd6fe8cee869bf[m
+Merge: 6a332f3adb 5cd53fd11a
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 21 01:06:27 2025 +0000
+
+    Merge pull request #63664 from Spocklan/main
+
+[33mcommit 6a332f3adba305f71624d0bf5784c58428b80d4c[m
+Merge: 7bb77d94ef 8ca6622f7d
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 21 01:04:41 2025 +0000
+
+    Merge pull request #63663 from alexsf2000/feat/community/alexsf2000
+
+[33mcommit 5cd53fd11ab247633239a50b9764e1de0687c0c0[m
+Author: Andre Furlan <87656380+Spocklan@users.noreply.github.com>
+Date:   Fri Jun 20 22:03:52 2025 -0300
+
+    Add Spocklan.md Profile
+
+[33mcommit 8b914651c4e12e56c116a30d75db9d0e7d1dfb62[m
+Author: AndreT3413 <andre_luis_str@hotmail.com>
+Date:   Fri Jun 20 22:03:30 2025 -0300
+
+    feat: add AndreT3413 profile
+
+[33mcommit 8ca6622f7d71b24c5f47ff95b8ee456633e0cd95[m
+Merge: 4c5dbf1b4e 7bb77d94ef
+Author: alexsf2000 <96344400+alexsf2000@users.noreply.github.com>
+Date:   Fri Jun 20 21:57:48 2025 -0300
+
+    Merge branch 'digitalinnovationone:main' into feat/community/alexsf2000
+
+[33mcommit 4c5dbf1b4eaf3e800de6d3ebb9fac97faaf9e0da[m
+Author: alexsf2000 <96344400+alexsf2000@users.noreply.github.com>
+Date:   Fri Jun 20 21:33:18 2025 -0300
+
+    Create alexsf2000.md
+
+[33mcommit 27c9ec4aa3911d188a9fd0182d71922017ae9ea7[m
+Author: alexsf2000 <96344400+alexsf2000@users.noreply.github.com>
+Date:   Fri Jun 20 21:29:38 2025 -0300
+
+    Delete community/alexsf2000.md
+
+[33mcommit 7bb77d94ef329e17f69
