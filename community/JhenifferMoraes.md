@@ -4,8 +4,8 @@
 <h2></h2>
 
 
-<img src="https://cdn3d.iconscout.com/3d/premium/thumb/computer-3d-icon-download-in-png-blend-fbx-gltf-file-formats--monitor-mouse-keyboard-online-tech-technology-pack-future-icons-8779449.png?f=webp" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador Roxo">
-<p align="left"><br><br>Prazer meu nome é Jheniffer de Moraes, tenho 24 anos e no momento estou passando por uma transição de carreira onde me encontro nesse mundo de TI que tanto gosto. Iniciar esse projeto na Dio possui um grande significado tanto no meu crescimento profissional, como em mim emocionalmente falando.<br>Embora as Hard skills sejam de grande importância (e você pode estar verificando as minhas a baixo), gosto de estar sempre destacando minhas Soft skills como saber trabalhar em equipe, ética de trabalho, criatividade, comunicação  entre outras. </p>&nbsp;
+<img src="https://png.pngtree.com/png-vector/20241109/ourmid/pngtree-computer-icon-3d-png-image_14328511.png" min-width="600px" max-width="300px" width="350px" align="right" alt="Computador Roxo">
+<p align="left"><br><br>Olá, meu nome é Jheniffer de Moraes, tenho 24 anos e atualmente estou passando por uma transição de carreira para o universo de TI, área pela qual sou apaixonada. Iniciar este projeto na Dio tem um grande significado para mim, tanto no meu crescimento profissional quanto no meu desenvolvimento pessoal e emocional. Embora as hard skills sejam essenciais (e você pode conferir as minhas abaixo), acredito que as soft skills também desempenham um papel fundamental. Entre elas, destaco minha habilidade em trabalhar em equipe, minha ética de trabalho, criatividade e comunicação, entre outras competências.</p>
 <br>
 <br>
 <h2></h2>
