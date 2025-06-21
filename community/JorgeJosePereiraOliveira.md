@@ -1,6 +1,6 @@
-# Resumo de aulas Bootcamp Santander_2025 
+# Resumo sobre versionamentos de código com Git e GitHub 
 
-Trata-se de uma coletânea de resumos, correspondentes a cada aula e mentorias, do Bootcamp Santander_2025.
+Trata-se de uma coletânea de resumos, correspondentes a conteúdos sobre versionamento de código com Git e GitHub
 
 ## 📄 Documentação
 - [Documentação Git](https://git-scm.com/doc)
