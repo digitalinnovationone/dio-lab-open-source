@@ -93,3 +93,8 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+
+##
+
+Hello World!!!
+Me chamo Carlos Costa e estou aprendendo sobre a Contribuição com Projetos Open Source usando o GitHub na platafora da DIO. 😎😎😎
