@@ -1,4 +1,4 @@
-Olá! Eu sou Antonio Oliveira, um empresário apaixonado por tecnologia na área de reparo e manutenção de notebooks, com formação em Tecnologia de Redes de Computadores.
+Olá! Eu sou Antonio Oliveira, um empresário apaixonado por tecnologia Trabaçjp na área de reparo e manutenção de notebooks, com formação em Tecnologia de Redes de Computadores.
 
 Redes Sociais:
 
