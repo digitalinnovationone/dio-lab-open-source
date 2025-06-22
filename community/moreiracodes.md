@@ -1,2 +1,0 @@
-## Olá, sou o moreiracodes!
-
