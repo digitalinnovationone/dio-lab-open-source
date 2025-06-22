@@ -35,6 +35,6 @@ Curto praticar exercícios físicos 🏋️‍♂️, assistir séries 🎥 e ou
 
 ## 
 ```
-É um prazer poder contribuir nesse mundo chamado Tecnologia!
+É um prazer enorme poder contribuir nesse mundo chamado Tecnologia!
 ```
 
