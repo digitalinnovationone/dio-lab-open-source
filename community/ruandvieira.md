@@ -1,1 +1,0 @@
-slk nun compensa
