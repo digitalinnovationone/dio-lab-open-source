@@ -44,4 +44,6 @@ Pretendo também agregar conhecimentos em:
 ## Meus Projetos Desenvolvidos
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosGall615&repo=Calculos-com-JavaScript&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://carlosgall615.github.io/Calculos-com-JavaScript/)
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosGall615&repo=Delivery-Marmitas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://carlosgall615.github.io/Delivery-Marmitas/)
+
