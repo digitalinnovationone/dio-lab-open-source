@@ -1,5 +1,16 @@
 # Kassio J. Mendes de Andrade
 
+Olá! Eu sou o Kassio J. Mendes de Andrade
+Sou apaixonado por tecnologia e programação. Atualmente moro em Portugal e recentemente concluí o curso de Programador de Informática EFA-PRA nível 4, com foco principal em backend. No entanto, durante o meu estágio tive a oportunidade de trabalhar na área de frontend, o que despertou ainda mais meu interesse em me tornar um desenvolvedor fullstack.
+
+Atualmente continuo meus estudos de forma autodidata, aprimorando meus conhecimentos e habilidades para atuar em todas as camadas do desenvolvimento web.
+
+Minhas principais competências incluem:
+
+Linguagens e Tecnologias: HTML5, CSS3, PHP, JavaScript, C#
+
+Ferramentas e Plataformas: MySQL, Git, GitHub, VSCode
+
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kassio-mendes-b2063a274/)
