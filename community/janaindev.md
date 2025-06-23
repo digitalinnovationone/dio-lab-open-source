@@ -1,5 +1,4 @@
 # 👩‍💻 JanaInDev
-<img src="https://raw.githubusercontent.com/JanaInDev/DIO-Santanderbootcamp-hello-world/refs/heads/main/Computer%20Course%20Congratulations%20for%20Finished%20Card.png?token=GHSAT0AAAAAADFUCWQUZNU7ZT7FJUTYN2CK2CYXEGA" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 > _“O único limite entre você e a vitória é a sua determinação.”_
 
