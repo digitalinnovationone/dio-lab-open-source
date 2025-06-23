@@ -1,3 +1,0 @@
-Atualmente estudante de Análise e desenvolvimento de sistemas.
-
-Deixei meu Oi e sai correndo...
