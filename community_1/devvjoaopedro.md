@@ -1,4 +1,6 @@
 # devvjoaopedro
+Estudando atualmente lógica com linguagem C#, espero logo estar craque econseguir minha primeira oportunidade ![download](https://github.com/user-attachments/assets/ea7b1cf6-9a12-4c28-95c0-f6c6067af9bc)
+
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-cerqueira-de-oliveira-860504217/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:joaopedrocerqueira707@gmail.com)
