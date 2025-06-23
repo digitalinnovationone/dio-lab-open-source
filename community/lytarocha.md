@@ -17,12 +17,5 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por desenvolvimento de softwar
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 
-## 📊 Estatísticas do GitHub
-![Suas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
-
-
-
 
 Obrigado por visitar o meu perfil! 😊
