@@ -79,5 +79,4 @@ Projeto realizado no bootcamp Oracle ONE:
 
 ## 📫 Contato
 Se quiser trocar ideias ou acompanhar meus projetos:
-- ✉️ Email: *(adicione aqui se quiser)*
-- 💼 LinkedIn: *(adicione aqui se quiser)*
+- ✉️ Email: *(jc200507@gmail.com)*
