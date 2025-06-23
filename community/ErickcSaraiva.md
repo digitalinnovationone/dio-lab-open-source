@@ -1,5 +1,5 @@
-# Erick da Costa Saraiva &#128512
-  Hoje como estudante de Ciência da Computação com foco em desenvolvimento de software e análise de dados. Estou cada dia crescendo em conhecimento e proficiencia em IA, Possuo forte aptidão para a resolução de problemas e estou sempre disposto a explorar novas tecnologias e inovações.
+# Erick da Costa Saraiva
+  Hoje como estudante de Ciência da Computação com foco em desenvolvimento de software e análise de dados. Estou a cada dia crescendo em conhecimento e proficiência em IA, Possuo forte aptidão para a resolução de problemas e estou sempre disposto a explorar novas tecnologias e inovações.
 
 
 ## Hard Skills
