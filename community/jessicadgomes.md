@@ -31,7 +31,7 @@ Atualmente me dedico a aprofundar meus conhecimentos em **Java**, **Spring Boot*
 
 ## 📦 Projetos em Destaque
 
-### ✅ [GitHub]([[https://github.com/jessicadgomes/desafio-advantage](https://github.com/jessicadgomes/advantage-automation](https://github.com/jessicadgomes))
+### ✅ [GitHub](https://github.com/jessicadgomes/desafio-advantage](https://github.com/jessicadgomes/advantage-automation](https://github.com/jessicadgomes)
 
 ---
 
