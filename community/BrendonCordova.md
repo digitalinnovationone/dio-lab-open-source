@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-Me chamo Brendon, tenho 21 anos, atuo como Assistente Administrativo, em transição para a área de Desenvolvimento Full-Stack. Eu Sempre amei a tecnologia, e com a programação não foi diferente, nesta área incrível eu almejo aprender e desenvolver minhas habilidades, aproveitar oportunidades e no fim de tudo fazer o que gosto.
+Me chamo Brendon, tenho 21 anos, atuo como Assistente Administrativo, em transição para a área de Desenvolvimento Full-Stack a mais de 2 anos. Eu Sempre amei a tecnologia, e com a programação não foi diferente, nesta área incrível eu almejo aprender e desenvolver minhas habilidades, aproveitar oportunidades e no fim de tudo fazer o que gosto.
 Acredito que o estudo, dedicação e um pouco de organização sejam as chaves para o "sucesso", além de uma pitada de diversão.
 
 ## Hard Skills
