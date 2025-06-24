@@ -31,11 +31,7 @@ Atualmente me dedico a aprofundar meus conhecimentos em **Java**, **Spring Boot*
 
 ## 📦 Projetos em Destaque
 
-### ✅ [Automação de Testes com Robot Framework](https://github.com/jessicadgomes/desafio-advantage)
-> Testes Web e API com validações completas usando Robot Framework + Python
-
-### 🔁 [Desafio de API Testing](https://github.com/jessicadgomes/desafio-api-advantage)
-> Testes manuais e automatizados em endpoints REST com autenticação
+### ✅ [GitHub]([[https://github.com/jessicadgomes/desafio-advantage](https://github.com/jessicadgomes/advantage-automation](https://github.com/jessicadgomes))
 
 ---
 
