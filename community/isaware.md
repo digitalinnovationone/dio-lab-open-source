@@ -14,3 +14,5 @@
 
 ### 💻 Sistema Operacional
 ![Windows](https://img.shields.io/badge/Windows-8B008B?style=for-the-badge&logo=windows&logoColor=2CA5e0)
+^0
+
