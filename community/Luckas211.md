@@ -7,7 +7,11 @@
 
 ## 🚀 Resumo Profissional
 
-Desenvolvedor com foco em **Python avançado**, conhecimentos em **JavaScript** e **Java básico**. Experiência com versionamento de código utilizando **Git** e colaboração ativa em projetos no **GitHub**. Prática com **branching**, **merge**, **pull requests** e automações com **GitHub Actions**. Organizado, com histórico limpo de commits e foco em boas práticas de desenvolvimento.
+🎓 Estudante de Ciência da Computação em busca de oportunidades de estágio na área de desenvolvimento. Tenho experiência com projetos envolvendo banco de dados e operações CRUD, além de estar atualmente me aprofundando no framework Django, enfrentando e superando desafios em partes mais específicas do desenvolvimento web com Python.
+
+📁 Estudo e aplico Git e GitHub para versionamento e colaboração em projetos. Possuo conhecimento básico e prévio em Programação Orientada a Objetos com Python, além de ter noções sólidas de HTML, CSS e JavaScript (nível básico a intermediário), o que me permite construir aplicações web com foco em funcionalidade e estrutura.
+
+🚀 Estou focado em desenvolver minhas habilidades técnicas, especialmente com banco de dados relacionais e integrações back-end, e estou comprometido com o aprendizado contínuo para me tornar um desenvolvedor cada vez mais completo.
 
 ---
 
