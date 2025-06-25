@@ -1,1 +1,0 @@
-# Contribuição de Luckas Silva
