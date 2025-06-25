@@ -2,7 +2,7 @@
 
 Hello everyone, I'm Beatriz, I'm 26 years old and I have a degree in dentistry. I'm starting my career in technology.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BeatrizPaim26)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BeatrizPaim26&theme=dracula&hide_total_contributions=true)](https://git.io/streak-stats)
 
 
 ### 👩‍🎓 FORMAÇÃO
