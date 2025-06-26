@@ -2,7 +2,7 @@
 
 Estudante dedicada com formação quase completa em T.I, gosto de usar a linguagem Python e construir soluções com ela que vão desde a scripts de automação de tarefas, desenvolvimento de aplicativos web e desenvolvimento e integração de API's. Atualmente meus conhecimentos estão mais direcionados a backend porém também possuo conhecimentos em frontend. 
 
-Conecte-se comigo
+Conecte-se comigo:
 [![perfil na DIO](https://img.shields.io/badge/meu_perfil_na_dio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://web.dio.me/users/thl_oliver_1999?tab=achievements)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thayladeoliveira/)
 ![email](https://img.shields.io/badge/thl.oliver.199@gmail.com-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
