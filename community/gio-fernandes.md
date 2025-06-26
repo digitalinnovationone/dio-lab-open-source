@@ -8,6 +8,13 @@ Sou apaixonada por tecnologia e estou focada em me tornar uma desenvolvedora fro
 ## 💡 Tecnologias que estou aprendendo
 
 - 🔧 Git & GitHub
+- 🔧 CSS
+- 🔧 JavaScript
+
+## 💡 Tecnologias que já aprendi
+
+- 🐍 Python
+- 🔧 HTML
 
 
 ## 📎 Links úteis
