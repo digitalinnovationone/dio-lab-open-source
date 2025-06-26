@@ -72,7 +72,7 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 > [!WARNING]  
 > **Atenção:** Antes de criar uma nova discussão, verifique se sua dúvida já foi respondida em discussões anteriores. Use a função de pesquisa para encontrar tópicos relevantes.
 
----
+-----
 
 ## Contribua
 [![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/stargazers)
