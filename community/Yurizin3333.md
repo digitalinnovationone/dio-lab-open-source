@@ -14,6 +14,6 @@ Atualmente tenho meu inglês no nível intermediário, mas estou em busca de apr
 
 Também sou um amante de música, Hiphop/Rap principalmente, e edito vídeos para minhas redes socias como hobbie diariamente.
 
-Ah é, também tenho um canal no youtube no qual falo, de uma forma mais humorística, sobre assuntos da tecnologia no geral.
+Ah é, também tenho um canal no youtube no qual falo, de uma forma mais humorística, sobre assuntos da tecnologia no geral!
 
 [![Youtube](https://img.shields.io/badge/-Youtube-8B0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.instagram.com/Sv_yurizin021/)
