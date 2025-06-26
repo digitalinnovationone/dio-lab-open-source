@@ -1,34 +1,37 @@
+# 👋 Olá, eu sou Bruno Henrique Marinho Marques
 
-# Bruno Henrique Marinho Marques 
-Olá seja bem-vindo! Me chamo Bruno H. M. Marques e atualmente estou cursando Análise e Desenvolvimento de Sistemas e em 2016 finalizei um Curso Técnico de Processamento de Dados. Adoro estudar e compartilhar conhecimento com os demais que estão ao meu redor.
-## Conecte-se comigo 💬
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=004490)](https://www.linkedin.com/in/bruno-marinho-4a2276269/)
+🎯 Desenvolvedor em formação, com interesse em **Desenvolvimento de Software** e **Cibersegurança**.  
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=004490)](https://github.com/BrunoMarinhoMarques)
+[![GitHub](https://img.shields.io/badge/GitHub-BrunoMarinhoMarques-000?style=for-the-badge&logo=github)](https://github.com/BrunoMarinhoMarques)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BrunoMarinho-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bruno-marinho-4a2276269/)
 
+---
 
-## Habilidades 📚
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=298daa)
+## 💻 Sobre mim
 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=298daa)
+Atualmente sou estudante de **Ciência da Computação**, sou apaixonado por tecnologia, jogos e estudar. Busco oportunidades para aplicar meus conhecimentos na prática e continuar evoluindo como profissional de TI.
 
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=298daa)
+---
 
-![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=298daa)
+## 🛠️ Habilidades
 
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=298daa)
+- **Linguagens:** C, Python, C#, HTML, CSS, SQL  
+- **Ferramentas:** Git, Unity, Photoshop, Blender  
 
+---
 
+## 🚀 Projeto em destaque
 
+### 🎮 [Game Marvin](https://github.com/BrunoMarinhoMarques/ProjetoGameMarvin)
 
+Jogo 3D criado do zero com personagem próprio, programado em **C# com Unity**.  
+**Envolvimento:** programação da jogabilidade, modelagem no Blender e design visual.
 
-## Git Stats 📃
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoMarinhoMarques&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_blue&hide_title=true)
+## 📘 Formação
 
-## Projetos 🖥️
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoMarinhoMarques&repo=ProjetoEducaplay&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=298daa&title_color=FFF&text_color=FFF)](https://github.com/BrunoMarinhoMarques/ProjetoEducaplay)
+- 🎓 **Ciência da Computação** – UNIP *(cursando)*  
+- 💻 **Análise e Desenvolvimento de Sistemas** – UNIP *(concluído)*  
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoMarinhoMarques&repo=FlappyBirdPygame&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=298daa&title_color=FFF&text_color=FFF)](https://github.com/BrunoMarinhoMarques/FlappyBirdPygame)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoMarinhoMarques&repo=BeeHoney&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=298daa&title_color=FFF&text_color=FFF)](https://github.com/BrunoMarinhoMarques/BeeHoney)
+---
