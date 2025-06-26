@@ -11,7 +11,7 @@ Sou um Engenheiro de Produção em transição para uma carreira em Tecnologia. 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=freitasthiiago&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-Minhas principais contribuições no GitHub foram de um curso realizado no Cesar School, enquanto aluno do curso NExT.
+Minhas principais contribuições no GitHub foram de um curso realizado no <b>Cesar School</b>, enquanto aluno do curso <b>NExT</b>.
 
 ## Principais linguagens e bibliotecas
 
