@@ -53,7 +53,7 @@ Venho desenvolvendo projetos Front-End e Back-End aplicados à websites, mas est
 
 ![Git](https://img.shields.io/badge/GIT-1877F2?style=for-the-badge&logo=git&logoColor=white)
 
-[![GitHub](https://img.shields.io/badge/GitHub-1877F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-1877F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eric-L-Araujo)
 
 ![Vscode](https://img.shields.io/badge/Vscode-1877F2?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </div>
@@ -65,13 +65,13 @@ Venho desenvolvendo projetos Front-End e Back-End aplicados à websites, mas est
 
 <div style="display: inline-flex; gap: 5px;">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1877F2?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/SEUUSERNAME/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1877F2?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/eric-araujox/)
     
-[![Discord](https://img.shields.io/badge/Discord-1877F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@SEUUSERNAME/)
+[![Discord](https://img.shields.io/badge/Discord-1877F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@eri.lui/)
     
- [![Instagram](https://img.shields.io/badge/-Instagram-%231877F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEUUSERNAME/)
+ [![Instagram](https://img.shields.io/badge/-Instagram-%231877F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eric.araujo03/?igsh=N2Z6NGgzcXlnemxi#)
     
-[![GitHub](https://img.shields.io/badge/GitHub-1877F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-1877F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eric-L-Araujo)
 </div>
 
 
