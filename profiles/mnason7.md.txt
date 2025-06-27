@@ -1,0 +1,9 @@
+# 👋 Olá, eu sou o Mnason Erikls!
+
+💻 Desenvolvedor em formação pela DIO  
+🚀 Apaixonado por tecnologia, open source e aprendizado contínuo  
+📚 Atualmente estudando: JavaScript, React e Git
+
+> Essa é minha primeira contribuição open source! 😄
+
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/mnason-erikls-285194255/)
