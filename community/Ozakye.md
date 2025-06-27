@@ -9,6 +9,7 @@
 
 - [Curso em Vídeo](https://www.cursoemvideo.com)
 - [WoMakersCode](https://womakerscode.org)
+- [Microsoft Learn](https://learn.microsoft.com/en-us/)
 - [Santander Tech+](https://www.santanderopenacademy.com)
 - [Ada Tech](https://ada.tech)
 - [DIO](https://dio.me)
