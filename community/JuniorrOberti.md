@@ -15,4 +15,4 @@ Trabalho auxiliando no gerenciamento de software de aplicativo à quase um ano. 
 
 ### 📚 Objetivos
 
-Quero me especializar em back-end para ganhar experiência como desenvolvedor de software, dou preferência para aplicativos mobile mas gosto de tudo que envolve lógica de programação. Mas para um futuro distante, quero fazer parte da gestão e tomada de decisões, atuando como PO, PM ou DevOps.
+Quero me especializar em back-end para ganhar experiência como desenvolvedor de software, dou preferência para aplicativos mobile, mas gosto de tudo que envolve lógica de programação. Mas para um futuro distante, quero fazer parte da gestão e tomada de decisões, atuando como PO, PM ou DevOps.
