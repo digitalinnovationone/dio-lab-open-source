@@ -32,7 +32,6 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=oluiscruz&repo=movies-app&bg_color=000&border_color=white&show_icons=true&icon_color=&title_color=blue&text_color=FFF)](https://github.com/oluiscruz/movies-app)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=oluiscruz&repo=BobMarley&bg_color=000&border_color=white&show_icons=true&icon_color=&title_color=blue&text_color=FFF)](https://github.com/oluiscruz/BobMarley)
 
-
 # Minhas Contribuições
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=oluiscruz&repo=dio-lab-open-source&bg_color=000&border_color=white&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/oluiscruz/dio-lab-open-source)
