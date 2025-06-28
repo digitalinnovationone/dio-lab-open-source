@@ -1,5 +1,5 @@
 # 🖖 Oi, eu sou a **Karollyne**!
-
+<img src="https://img1.picmix.com/output/stamp/normal/7/1/2/2/872217_a3f9d.gif" alt="estrela" width="400"/>
 • Psicóloga de formação e atualmente em transição de carreira para a área de tecnologia, cursando Análise e Desenvolvimento de Sistemas.
 
 • Tenho interesse especial por back-end, onde posso unir lógica, estrutura e organização dos dados.
