@@ -42,4 +42,4 @@ Faça seu PR com o título desabafo: [emoji opcional] título criativo;
 
 Respire fundo — sua voz importa e esse espaço é todo seu.
 
-🌱 Lembre-se: por trás de cada linha de código há uma mente criativa que também precisa descansar e se expressar. Estamos juntos nesse commit emocional...
+🌱 Lembre-se: por trás de cada linha de código há uma mente criativa que também precisa descansar e se expressar. Estamos juntos nesse commit emocional.
