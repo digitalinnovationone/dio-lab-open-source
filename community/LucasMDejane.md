@@ -1,82 +1,28 @@
-<!-- Cabeçalho animado -->
+@@ -1,5 +1,23 @@
+# Meu Profile README
+# EduMagalhaess
 
-!\[Waving hands](https://capsule-render.vercel.app/api?type=waving\&color=auto\&height=180\&section=header\&text=Lucas%20Dejane\&fontSize=90)
+Olá! Meu nome é Eduardo Magalhães (edumagalhaess).  
+Estou participando do desafio de contribuição open source da DIO.  
+Este é meu Profile README.
+## Conecte-se comigo 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duhmagalhaess/)
 
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duhmagalhaess/)
 
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/_MagEduardo)
 
-\# Olá! Eu sou o Lucas Masseran Espindola Dejane 👋
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EduMagalhaess)
 
+## Habilidades 
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 
-\*\*Desenvolvedor Back‑End em constante aprendizado, fissurado por resolver problemas e criar soluções de software robustas.\*\*
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduMagalhaess&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-
----
-
-
-
-\## 👨‍💻 Sobre mim
-
-
-
-Estudante de \*\*Análise e Desenvolvimento de Sistemas\*\* com experiência em implantação de softwares, testes e análise de código.  
-
-Domínio em Java, Python, C#, oracle e SQL, além de conhecimento em \*\*Spring Boot\*\*. 
-
-Participei do Bootcamp Santander 2025, o que me fez aprender grande parte do que sei hoje!
-
-Gosto de desafios que envolvam lógica, performance e escalabilidade.
-
-
-
----
-
-
-
-\## 🌐 Conecte‑se Comigo
-
-
-
-\[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lucas-dejane-75727b224/)  
-
-\[!\[GitHub](https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/LucasMDejane)
-
-
-
----
-
-
-
-\## 💻 Habilidades
-
-
-
-\*\*Linguagens \& BD\*\*  
-
-
-
-!\[C#](https://img.shields.io/badge/C%23-239120.svg?style=flat\&logo=c-sharp\&logoColor=white)  
-
-!\[Java](https://img.shields.io/badge/Java-ED8B00.svg?style=flat\&logo=openjdk\&logoColor=white)  
-
-!\[Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat\&logo=python\&logoColor=white)  
-
-!\[SQL Server](https://img.shields.io/badge/SQL%20Server-025E8C.svg?style=flat\&logo=microsoft-sql-server\&logoColor=white)
-
-
-
-\*\*Frameworks \& Ferramentas\*\*  
-
-
-
-!\[.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=flat\&logo=dotnet\&logoColor=white)  
-
-!\[Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=flat\&logo=spring\&logoColor=white)  
-
-!\[Git](https://img.shields.io/badge/Git-E34F26.svg?style=flat\&logo=git\&logoColor=white)
-
-
-
-
-
+## Minhas Contribuições 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=EduMagalhaess&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/EduMagalhaess/dio-lab-open-source)
