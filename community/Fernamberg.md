@@ -1,4 +1,4 @@
-# Fernamberg Sousa #
+# Fernamberg de Sousa #
 
 ## Sobre mim ##
 Sou Fernamberg, atuo no setor administrativo de uma funerária, onde desenvolvi uma forte base em organização, processos e gestão. Apaixonado por tecnologia, estou em transição de carreira e me especializando na área de dados. Já possuo bom conhecimento em banco de dados e atualmente estou ampliando minhas habilidades com Python, por meio do curso da DIO em parceria com o Santander.
