@@ -1,4 +1,4 @@
-Oi, eu sou a **Karollyne**!
+# 🖖 Oi, eu sou a **Karollyne**!
 
 • Psicóloga de formação e atualmente em transição de carreira para a área de tecnologia, cursando Análise e Desenvolvimento de Sistemas.
 
