@@ -52,11 +52,10 @@ Busco oportunidades para aplicar e expandir minhas habilidades, colaborando em p
 
 ## 🌐 Contato & Redes Sociais
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU-INSTAGRAM)
-[![DIO](https://img.shields.io/badge/DIO.io-4C00B0?style=for-the-badge&logo=data:image/svg+xml;base64,...)](https://web.dio.me/users/SEU-USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yanmach)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-machado-de-souza-826931186/)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yanmach2/)
+[![DIO](https://img.shields.io/badge/DIO.io-4C00B0?style=for-the-badge&logo=data:image/svg+xml;base64,...)](https://web.dio.me/users/yanmachado459?tab=achievements)
 
 ---
 
-📌 _Personalize os links acima com seus usuários reais!_
