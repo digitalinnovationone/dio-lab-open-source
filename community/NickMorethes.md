@@ -77,11 +77,11 @@ Atualmente estou aprofundando meus conhecimentos em:
 ## 🎯 Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/NickMorethes/Podcast-IA-Microsoft-50-anos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=NickMorethes&repo=Podcast-IA-Microsoft-50-anos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  <a href="https://github.com/NickMorethes/Desafio-Final-Felipao-Logica-de-Programacao">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=NickMorethes&repo=Desafio-Final-Felipao-Logica-de-Programacao&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
   </a>
-  <a href="https://github.com/NickMorethes/Desafios-Felipao-DIO">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=NickMorethes&repo=Desafios-Felipao-DIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  <a href="https://github.com/NickMorethes/Desafio-DIO-Validador-De-Cartao">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=NickMorethes&repo=Desafio-DIO-Validador-De-Cartao&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
   </a>
 </div>
 
