@@ -14,5 +14,3 @@ Se você compartilha desses interesses, ou apenas quiser trocar uma ideia sobre 
 
 * **LinkedIn:** [www.linkedin.com/in/arlen-filho-5980b9257](http://www.linkedin.com/in/arlen-filho-5980b9257)
 * **Instagram:** [https://www.instagram.com/4rl3nn/?__pwa=1](https://www.instagram.com/4rl3nn/?__pwa=1)
-
-Vamos trocar uma idéia! 😊
