@@ -1,11 +1,11 @@
-< h1 >
+<h1>
    Roney Erdemann Siqueira de Sousa   
 </a>
 
 
 <h2>Breve descrição sobre min:
-</ h2 >
-< h1 > Sou o Roney</h1><p>  
+</h2>
+<h1> Sou o Roney</h1><p>  
 Com um percurso profissional que se estende por mais de 20 anos, acumulei uma vasta experiência em desenvolvimento de sistemas desktop. Minha jornada incluiu papéis como Desenvolvedor, Analista de Sistemas. Tenho um histórico criação de soluções sob medida para uma variedade de empresas, abrangendo setores diversos, como Automação Comercial e Sistema Financeiro.
 
 #### 👨 Linguagens
