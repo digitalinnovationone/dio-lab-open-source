@@ -20,12 +20,12 @@ Sou apaixonado por tecnologia e desenvolvimento web. Durante o curso técnico, d
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Cecte-se comigo 
+## Cenecte-se comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-c%C3%A9sar-santos-pereira/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:juliocsantos2504@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jcsant_019/)
 
-## Github stats
+## Github Stats
 
 ![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliocsantos2504&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocsantos2504&layout=compact&theme=tokyonight)
