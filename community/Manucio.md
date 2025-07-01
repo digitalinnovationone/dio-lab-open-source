@@ -9,9 +9,13 @@ Tenho certificações em Azure, AWS e Inteligência Artificial, o que reforça m
 💡 Principais habilidades:
 
 ✔️ Cloud Computing (AWS, Azure)
+
 ✔️ DevOps (CI/CD, Kubernetes, Terraform, Docker)
+
 ✔️ Automação e Infraestrutura como Código
+
 ✔️ Desenvolvimento Web Full Stack
+
 ✔️ Monitoramento e Segurança em Ambientes Cloud
 
 ### Estatísticas do GitHub 
