@@ -8,6 +8,7 @@ Sou um jovem afeiçoado pela tecnologia e estou muito animado para fazer minha p
 
 ### 🌐 Onde me Encontrar
 -[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][https://github.com/JaoVile]
+
 -[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][https://www.linkedin.com/in/joao-marcos-vilela-1106002b3/]
 
 > "No começo tudo parece complicado porém a cada não recebido, um sim se aproxima!"
