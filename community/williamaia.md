@@ -20,7 +20,6 @@ Sou apaixonado por tecnologia, aprendizado contínuo.
   - [dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source)
 - 🚀 Estou sempre buscando aprender e contribuir com projetos que ajudem a comunidade.
 
-
 ## 🚀 Minhas Skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
