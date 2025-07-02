@@ -1,0 +1,1 @@
+Sou graduada em Análise e Desenvolvimento de Sistemas, com vivência diversificada nas áreas de tecnologia, finanças. Atualmente, curso uma pós-graduação MBA em Gestão de Projetos, ampliando minha atuação para funções estratégicas e de liderança. 
