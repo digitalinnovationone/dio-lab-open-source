@@ -1,0 +1,24 @@
+name: Verificar perfis da comunidade
+
+on:
+  pull_request:
+    paths:
+      - 'community/**.md'
+
+jobs:
+  checar-perfis:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar o repositório
+        uses: actions/checkout@v3
+
+      - name: Instalar verificador de links
+        run: npm install -g markdown-link-check
+
+      - name: Verificar links dos perfis
+        run: |
+          for file in community/*.md; do
+            echo "Verificando $file"
+            markdown-link-check "$file" --quiet
+          done
