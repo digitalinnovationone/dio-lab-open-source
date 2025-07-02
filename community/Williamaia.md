@@ -1,6 +1,6 @@
 # 👋 Olá, meu nome é William Maia
 
-Sou apaixonado por tecnologia e aprendizado contínuo.
+Sou apaixonado por tecnologia e aprendizado contínuo!
 
 ---
 
