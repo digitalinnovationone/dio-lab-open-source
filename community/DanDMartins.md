@@ -7,6 +7,10 @@
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanDMartins&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+---
+
 ## 🇧🇷 Sobre mim
 
 Olá! Meu nome é **Dan Martins**, tenho 39 anos e estou concluindo o segundo ano de Ciência da Computação. Sou motivado por inovação e soluções inteligentes para problemas complexos do dia a dia. Tenho grande interesse em backend e nas estruturas que fazem os sistemas funcionarem.
