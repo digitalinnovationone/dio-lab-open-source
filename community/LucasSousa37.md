@@ -6,7 +6,6 @@ Além do desenvolvimento Front-End, integro ferramentas de IA em meu processo de
 Estou em busca de uma oportunidade de estágio que me permita aplicar meus conhecimentos em um ambiente profissional, contribuir com equipes de desenvolvimento e acelerar meu crescimento na área. Trago energia, dedicação e uma perspectiva única oriunda de minha experiência de transição de carreira. 💻🚀
 
 ### 🧑🏻 Mais sobre mim.
-
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CasalLunique)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/lucasdonizetidsoficial)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-sousals/)
@@ -14,6 +13,7 @@ Estou em busca de uma oportunidade de estágio que me permita aplicar meus conhe
 ![LucasSousa37 GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassousa37&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassousa37)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🚀 Tecnologias que eu utilizo.
 <div style="display: inline_block">
