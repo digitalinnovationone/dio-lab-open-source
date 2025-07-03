@@ -12,7 +12,7 @@ Sou apaixonado por tecnologia e venho me aprofundando cada vez mais no universo 
 
 Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas, o que tem me proporcionado uma base sólida em lógica de programação, estruturas de dados e desenvolvimento de software.
 
-Nos últimos tempos, venho direcionando meus estudos e projetos com foco na plataforma ServiceNow, buscando aprofundar meus conhecimentos em desenvolvimento de aplicações e automação de processos com essa ferramenta amplamente usada no mercado corporativo.
+
 
  🚀
 </div>
