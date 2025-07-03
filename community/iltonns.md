@@ -18,11 +18,16 @@
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
 </div>
 
+  
 </p>
 
 ## 🏆 Projetos Destacado
+▶️ [Análise de Turnover](https://github.com/Iltonns/Analise-de-dados-com-p-python]) - Modelagem de dados + Dashboard
+
 ▶️ [Análise de Dados com Python](https://github.com/Iltonns/Analise-de-dados-com-p-python) - Pipeline ETL em Python + Dashboard  
-▶️ [Dashboard de visão geral de vendas](https://github.com/Iltonns/Dashboard-de-vis-o-geral-de-vendas-Olist) - Modelagem de dados + Painel  
+
+▶️ [Dashboard de visão geral de vendas](https://github.com/Iltonns/Dashboard-de-vis-o-geral-de-vendas-Olist) - Modelagem de dados + Dashboard
+
 ▶️ [Modelagem de dados](https://github.com/Iltonns/Modelagem-de-dados-com-Power-BI/tree/main) - Modelagem de dados com Power BI
 
 ## 📚 Estudando Atualmente  
@@ -34,7 +39,11 @@
 
 
 ## 📫 Vamos Conectar!  
-📧 [ilton.sa@outlook.com](mailto:ilton.sa@outlook.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/iltonsantos/)  
-💻 [Portifólio Completo](https://iltonns.github.io/)  
+📧 <a href="mailto:ilton.sa@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"></a>  
+
+🔗 <a href="https://www.linkedin.com/in/iltonsantos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+💻 <a href="https://iltonns.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-24292F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio"></a>  
+
+
 
