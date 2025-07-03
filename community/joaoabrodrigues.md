@@ -1,6 +1,6 @@
-# Opa, tudo bem? Sou O João 🚀
+# Opa, tudo bem? 🚀
 
-😎 Me chamo **Guilherme Souza de Oliveira**.
+😎 Me chamo **João Rodrigues**.
 
 **Graduado Sistemas de Informação** na UNIPAR
 
@@ -8,9 +8,8 @@
 
 👩‍💻 Trabalho atualmente no [Itaú](https://itau.com.br) sendo Engenheiro de Software Sênior
 
-🧠 Estou aprendendo **Game develpment** e **Flutter**
+🧠 Estou aprendendo **Game development** e **Flutter**
 
-Meu foco é extremo em aprimorar e aperfeiçoar meu conhecimento ao máximo na área tecnológica, estou preparado para elevar minhas habilidades durante os próximos 5 anos.
 ## 🛠 Habilidades
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
