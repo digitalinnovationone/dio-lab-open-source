@@ -21,10 +21,6 @@ Oi! me chamo *Caroline* 😄
 | Versionamento de Código  | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  |
 | Editor de Código | ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  Execução JavaScript |![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-|
-
-### Estatísticas
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=REEBECACAROLINE&bg_color=9370DB&border_color=970DB&title_color=87CEFA&text_color=87CEFA)
 
 ---
  ### Projetos
