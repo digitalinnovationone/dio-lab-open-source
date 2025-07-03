@@ -1,5 +1,5 @@
 # Felipe Boaventura
-Oi,eu sou o Felipe! Eu sempre fui alguém que queria participar do mundo tecnológico e desde 2023 estou estudando programação com foco no back-end na linguagem de Java. Em 2025 consegui passar na selção da bootcamp na Santander e me vejo empolgado duante todo o percurso.
+Oi,eu sou o Felipe! Eu sempre fui alguém que queria participar do mundo tecnológico e desde 2023 estou estudando programação com foco no back-end na linguagem de Java. Em 2025 consegui passar na selção da bootcamp na Santander e me vejo empolgado durante todo o percurso.
 ## Skill
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
