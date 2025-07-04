@@ -1,4 +1,4 @@
-# 🧠 Meu Aprendizado em Git e GitHub
+# 🧠 Meu Aprendizado em Git e GitHub na DIO
 
 Este repositório foi criado como parte do meu aprendizado de **Git e GitHub na DIO**. Aqui estou reunindo comandos, anotações, exemplos práticos e desafios propostos ao longo do curso. Além disso, estou usando este espaço para praticar como contribuir em repositórios públicos e criar boas práticas de versionamento.
 
