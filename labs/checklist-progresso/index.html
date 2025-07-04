@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Checklist com Progresso</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>🚀 Checklist DIO</h1>
+  <ul id="checklist">
+    <li><input type="checkbox" onchange="updateProgress()"> Instalar Git</li>
+    <li><input type="checkbox" onchange="updateProgress()"> Criar conta no GitHub</li>
+    <li><input type="checkbox" onchange="updateProgress()"> Fazer fork do repositório</li>
+  </ul>
+  <div class="progress-container">
+    <div class="progress-bar" id="progressBar"></div>
+  </div>
+
+  <script>
+    function updateProgress() {
+      const checkboxes = document.querySelectorAll('input[type="checkbox"]');
+      const total = checkboxes.length;
+      const checked = [...checkboxes].filter(c => c.checked).length;
+      const percentage = (checked / total) * 100;
+      document.getElementById('progressBar').style.width = percentage + '%';
+    }
+  </script>
+</body>
+</html>

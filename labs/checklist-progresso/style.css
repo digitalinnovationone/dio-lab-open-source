@@ -1,0 +1,21 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+  }
+  
+  .progress-container {
+    width: 100%;
+    background: #ddd;
+    height: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+  }
+  
+  .progress-bar {
+    height: 100%;
+    background: #30a3dc;
+    width: 0%;
+    border-radius: 10px;
+    transition: width 0.3s ease;
+  }
+  
