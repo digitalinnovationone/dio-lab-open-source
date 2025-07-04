@@ -1,68 +1,20 @@
-\# Hello!
+# Raphael Costa
 
+Web Analytics Data Analytics E-commerce
 
+### Add me!
 
-This file is a contribution to the OpenSource course on GitHub.
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/raphaelcrebello)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:raphaelcrebello@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/rapha-costa)
 
+### Habilidades || Skills
 
+[![My Skills](https://skillicons.dev/icons?i=css,figma,git,github,html,js,mysql,pycharm,py,vscode,wordpress&perline=5)](https://skillicons.dev)
 
-I'm a web analyst, I love data and I'm in this world to delve even deeper into data and AI.
+### GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raphael-rebello&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raphael-rebello&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-
-Let's get to the knowledge!!
-
-
-
-\### Tools
-
-
-
-| Tool | Level of Knowledge | Time of Experience |
-
-:------------|:---------------------|:-------------------
-
-| JavaScript | Senior | 5 years |
-
-| SQL | Junior | 2 years |
-
-| HTML | Senior | 5 years |
-
-| CSS | Senior | 5 years |
-
-| UX/UI | Junior | 1 year |
-
-| Power BI | Junior | 2 years |
-
-| Excel | Senior | 8 years |
-
-| Google Tools | Senior | 5 years |
-
-| Meta | Junior | 2 years |
-
-| Bing | Junior | 2 years |
-
-| E-commerce | Senior | 5 years |
-
-
-
-\## Experience
-
-
-
-\### Quartile / NY - USA- 
-
-Nov-23 / Jun-25
-
-\### Cognizant / Google - SP/ BRA
-
-Feb - 22/ NOV 23
-
-
-
-\### Follow me!
-
-
-
-Access my profile \[here](https://web.dio.me/users/raphaelcrebello?tab=achievements)
-
+---
