@@ -1,5 +1,5 @@
 
-📄 ** Alexandre Christoffer Rosa Taciano **
+📄 ** Alexandre Christoffer Rosa Taciano .**
 
 🧑‍🎓 Atualmente cursando **Licenciatura em Matemática**, com o objetivo de **desenvolver raciocínio lógico, pensamento analítico e habilidades fundamentais 
 para atuar nas áreas de programação e dados** — especialmente em lógica de algoritmos, estatística e resolução de problemas computacionais. 🧠💡📈
