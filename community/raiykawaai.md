@@ -12,7 +12,7 @@
 
 ## Minhas Contribuições :computer:
 
-:video_game:  [**Jogo Caça-Palavras Dinâmico js**](https://github.com/raiykawaai/caca-palavras) 
+:video_game:  [**Jogo Caça-Palavras Dinâmico javascript**](https://github.com/raiykawaai/caca-palavras) 
 
 :princess:  [**Crud Jogador java**](https://github.com/raiykawaai/crudGameJava) 
 
