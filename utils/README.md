@@ -57,6 +57,20 @@
 </table>
 
 
+## Convenção de Commits:
+| Tipo de Commit | Descrição                                                | Exemplo de Mensagem                          |
+|----------------|----------------------------------------------------------|----------------------------------------------|
+| Feature        | Introdução de novas funcionalidades no projeto.          | "Feature: Adicionar busca de usuários"       |
+| Bugfix         | Correção de bugs, problemas ou erros no código.          | "Bugfix: Corrigir erro de validação"         |
+| Refactor       | Reestruturação do código para melhorar sua qualidade.    | "Refactor: Simplificar lógica de cálculo"    |
+| Docs           | Atualização ou criação de documentação.                  | "Docs: Atualizar README com instruções"      |
+| Style          | Mudanças de formatação, estilos de código.               | "Style: Padronizar indentação"               |
+| Test           | Adição ou modificação de testes.                         | "Test: Adicionar teste para autenticação"    |
+| Chore          | Tarefas de manutenção, como configurações ou scripts.    | "Chore: Atualizar dependências"              |
+| Perf           | Melhorias de desempenho.                                 | "Perf: Otimizar consulta de banco de dados"  |
+| Revert         | Reverter uma ou mais mudanças anteriores.                | "Revert: Reverter alterações instáveis"      |
+| WIP            | Trabalho em andamento, não pronto para implantação.      | "WIP: Implementar nova funcionalidade"       |
+
 ## Links Úteis
 - [Guia sobre Markdown do GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 - [Onde encontrar Badges legais para o seu Perfil](https://github.com/Ileriayo/markdown-badges#markdown-badges) 
