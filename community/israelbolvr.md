@@ -6,7 +6,6 @@
   </a>
 </div>
 
-
 <div>
 <p style="color: #fff; font-size: 25px; font-weight: 500">Desenvolvedor de Software 💻</p>
 </div>
