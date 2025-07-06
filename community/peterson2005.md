@@ -27,5 +27,5 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por Tecnologia e sempre em bus
 
 ## 📚 Projetos em Destaque
 
-
+!
 Obrigado por visitar o meu perfil! 😊
