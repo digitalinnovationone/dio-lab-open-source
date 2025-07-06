@@ -8,4 +8,4 @@
 
 ### 🚀 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGaviota&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGaviota&layout=compact&theme=dark)
