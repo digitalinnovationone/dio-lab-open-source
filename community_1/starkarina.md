@@ -11,7 +11,7 @@ Tenho 20 anos e estou iniciando minha caminhada no Desenvolvimento Web Front-End
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-Com meu estudo autônomo, conheci alguns sites que me ajudaram muito a esclarecer algumas questões básicas de HTML e CSS. Abaixo deixo o link deles:
+Com meu estudo autônomo, conheci alguns sites que me ajudaram muito a esclarecer algumas questões básicas de HTML e CSS. Abaixo deixo o link deles para quem tiver interesse:
 
 | Assunto | Site |
 |---------|----------|
