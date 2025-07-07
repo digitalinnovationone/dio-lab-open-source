@@ -1,18 +1,18 @@
 <!-- Imagem de capa -->
 <p align="center">
-  <img alt="Imagem de capa com lago congelado e montanhas ao fundo" src="https://media.licdn.com/dms/image/D4D16AQHleJwD7SZAYg/profile-displaybackgroundimage-shrink_350_1400/0/1708634547699?e=1714608000&v=beta&t=UA9hWN_DX404qGZGPHM-UK7sf5sHymVXysBj3SvvR1I" />
+  <img alt="Imagem de capa" src="https://source.unsplash.com/1400x300/?technology,code" />
 </p>
 
-<!-- Foto de perfil -->
+<!-- Foto de perfil (substitua pela sua se quiser) -->
 <p align="center">
-  <img alt="Foto de perfil de Tauan Gabriel" src="https://media.licdn.com/dms/image/D4D03AQF2tlN2eDoIDA/profile-displayphoto-shrink_200_200/0/1708634943428?e=1714608000&v=beta&t=S6z91VYRSQO3rAXIyFyaToBX42cBf9mW8Ge9aEExL5g" width="150" style="border-radius:50%" />
+  <img alt="Foto de perfil de Adams Castillo" src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius:50%" />
 </p>
 
 <h1 align="center">Adams dos Santos Castillo</h1>
 
 <p align="center">
-  <b>Software Engineer</b> | Node | Angular | Nest | React | React Native | SQL <br />
-  <i>Paranavaí, PR - Brasil</i>
+  <b>Desenvolvedor Web Full Stack</b> | HTML | JavaScript | PHP | React.js | Node.js | SQL <br />
+  <i>Macapá, AP - Brasil</i>
 </p>
 
 ---
@@ -20,20 +20,14 @@
 ## 📱 Contato
 
 <p align="center">
-  <a href="https://www.dio.me/users/tokou_cavalcanti">
-    <img src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/tauangabriel/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tokou_cavalcanti@hotmail.com">
+  <a href="mailto:adams.santos.ap@gmail.com">
     <img src="https://img.shields.io/badge/-Email-0077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
-  <a href="https://wa.me/5544997685582">
-    <img src="https://img.shields.io/badge/WhatsApp-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://www.linkedin.com/in/develop-adamscastillo">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/tauan">
-    <img src="https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://wa.me/5596984181879">
+    <img src="https://img.shields.io/badge/WhatsApp-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
@@ -41,39 +35,60 @@
 
 ## 📖 Sobre Mim
 
-Olá! Eu sou Tauan Gabriel, desenvolvedor de software com mais de **10 anos de experiência**. 
+Olá! Eu sou Adams dos Santos Castillo, desenvolvedor web apaixonado por tecnologia e soluções digitais.  
+Atualmente trabalho como **Desenvolvedor Web Júnior na KAITS Gestão Educacional**, desenvolvendo sistemas web responsivos e APIs back-end.
 
-Atualmente com **27 anos**, sou especialista em desenvolvimento web e mobile, atuando com:
+Sou formado em **Análise e Desenvolvimento de Sistemas** pela Faculdade Anhanguera e tenho especializações complementares em **React.js**, **Python & Cloud Computing**, além de formação Full Stack pela Tera.
 
-- **Node.js**, **React**, **Angular**, **NestJS**, **React Native**, **NextJS**
-- **TypeORM**, **PostgreSQL**, **MySQL** e **SQL**
-- Metodologias **ágil (Scrum/Kanban)** e integração contínua
-
-Participei de projetos de grande porte, desde **sistemas de gestão de informações com grandes volumes de dados** até **plataformas fiscais**.
-
-Sou apaixonado por tecnologia, aprendizado contínuo e desafios que impulsionem inovação e melhorias reais.
+Busco sempre me aprimorar em desenvolvimento ágil, segurança, performance e boas práticas de código.
 
 ---
 
-## 🚀 Minhas Especialidades
+## 🚀 Tecnologias
 
-- Desenvolvimento Back-End: **Node.js | NestJS**
-- Front-End: **React | Angular | React Native**
-- Banco de Dados: **PostgreSQL | MySQL | SQL**
-- Integração de APIs REST
-- Projetos Ágeis (Scrum)
+**Front-end:**  
+`HTML` `CSS` `JavaScript` `jQuery` `React.js`
+
+**Back-end:**  
+`PHP` `Node.js`
+
+**Banco de Dados:**  
+`SQL Server` `MySQL` `SQL`
+
+**Ferramentas:**  
+`Git` `GitHub` `APIs RESTful`
+
+**Metodologias:**  
+`Scrum` `Kanban`
 
 ---
 
-## 🎯 Objetivo
+## 📌 Projetos em Destaque
 
-Estou em busca de novos desafios e oportunidades para contribuir com soluções eficientes, escaláveis e inovadoras.
-
-Se quiser bater um papo ou trocar ideias, chama nos contatos acima! 👆
+- **E-commerce Full Stack:** Plataforma desenvolvida com React.js e integração de API back-end.
+- **Design Responsivo & Acessibilidade:** Criação de interfaces adaptáveis e inclusivas.
+- **Consultoria de Performance:** Otimização de consultas SQL e APIs em projetos de grande volume.
 
 ---
 
-<!-- Footer com imagem -->
+## 🎯 Soft Skills
+
+- Proatividade
+- Trabalho em equipe
+- Disciplina
+- Foco em aprendizado contínuo
+
+---
+
+## 📚 Interesses
+
+- Desenvolvimento de Inteligência Artificial  
+- Aplicações Mobile  
+- Frameworks como **Django (Python)**  
+
+---
+
+<!-- Imagem de rodapé -->
 <p align="center">
-  <img alt="Imagem do footer com trilho de trem ao pôr do sol" src="https://media.licdn.com/dms/image/C5616AQEy_2s0SSuEUA/profile-displaybackgroundimage-shrink_350_1400/0/1658235864274?e=1714608000&v=beta&t=jYrHUWyaoJJ--afHNEZQvgMZ2w9tMoNetRLLjFJ_Oho" />
+  <img alt="Imagem rodapé" src="https://source.unsplash.com/1400x300/?coding,developer" />
 </p>
