@@ -25,4 +25,4 @@
 ## 🌐 Links úteis
 
 - Meu GitHub: [gabrielarabello](https://github.com/gabrielarabello)
-- Perfil na DIO: [Acessar](https://www.dio.me)
+- Perfil na DIO: [Acessar](https://www.dio.me/users/gabrielarabello25)
