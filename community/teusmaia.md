@@ -1,7 +1,7 @@
 # Teus Maia
 - Sou Mateus Martins. 
 
-- Atualmente com 20 anos 
+- Atualmente com 20 anos de idade
 - Iniciando na programação, apredendo git e github na Dio junto com backend em Java e MySql como banco de dados
 - Possuo já um pouco de conhecimento em Python e C, tendo alguns projetos simples em Python
 - Essa apresentação é uma atividade do curso da dio
