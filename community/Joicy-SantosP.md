@@ -12,8 +12,6 @@ Eu sou estudante de análise e desenvolvimento de sistemas e estou no quarto sem
 
 👯‍♀️ Procuro colaborar com todo tipo de pessoa; a diversidade que traz um produto real
 
-🤔 Procuro ajuda com
-
 💬 Me pergunte sobre qualquer coisa! Adoro conversar, principalemnte sobre as novas tecnologias
 
 
@@ -22,4 +20,4 @@ Eu sou estudante de análise e desenvolvimento de sistemas e estou no quarto sem
 Javascript, HTML, CSS, Python, Git, API, Kotlin, SQL
 
 ## 🎯Cartão de estatísticas
-[![GitHub estatísticas](https://github-readme-stats.vercel.app/api?username=Joicy-SantosP&theme=onedark&show_icons=true)](https://github.com/Joicy-SantosP) 
+[![GitHub estatísticas](https://github-readme-stats.vercel.app/api?username=Joicy-SantosP&theme=onedark&show_icons=true)](https://github.com/Joicy-SantosP)
