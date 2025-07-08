@@ -1,7 +1,27 @@
 ## Olá! Eu sou Aksa Carvalho ✋
 
-## 🚀 Sobre mim
-Eu sou uma pessoa em transição de carreira, tenho 31 anos, casada e tenho filha 04 anos, estudante na instuição DevClub cursando full-stack...
+## 🙋‍♀️ Sobre mim
+
+Olá! Me chamo **Aksa Carvalho** e estou contribuindo para o projeto DIO Lab Open Source com muita empolgação 🚀  
+Sou apaixonada por tecnologia, aprendizado contínuo e colaboração em projetos que geram impacto.
+
+## 💡 O que me motiva
+
+Acredito que compartilhar conhecimento e fazer parte de comunidades tech é uma das formas mais poderosas de crescer junto — profissionalmente e pessoalmente.
+
+## 📚 Curiosidades
+
+- Adoro explorar novos frameworks e linguagens.
+- Quando não estou programando, estou provavelmente com um café na mão ☕ e estudando alguma coisa nova!
+
+## 🌐 Vamos nos conectar?
+
+Você pode me encontrar no GitHub: [@aksacarvalho](https://github.com/aksacarvalho)  
+Sinta-se à vontade para trocar uma ideia!
+
+---
+
+
 
 
 
