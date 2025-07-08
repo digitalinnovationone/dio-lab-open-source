@@ -1,4 +1,4 @@
-#  Sallatiel 'Gabriel costa Santos'
+#   Gabriel costa Santos ' Sallatiel"
 
 ### sobre mim
 Estudante tentando recomeçar em uma nova area, porem curioso com tudo que envolve tecnologia, softwares e etc
