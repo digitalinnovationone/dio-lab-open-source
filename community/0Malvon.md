@@ -8,7 +8,8 @@
 
 ## Github Stats
 ![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malvon&show_icons=true&bg_color=282424&title_color=5FC4DE&icon_color=5FC4DE&text_color=C3C3C3&cache_seconds=33333&hide=prs&hide_title=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Malvon&border_radius=4&mode=weekly&card_width=467&background=282424&stroke=C3C3C3&ring=C3C3C3&fire=5FC4DE&currStreakNum=C3C3C3&sideNums=C3C3C3&currStreakLabel=5FC4DE&sideLabels=5FC4DE&dates=C3C3C3)](https://git.io/streak-stats)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Malvon&border_radius=4&mode=weekly&card_width=467&background=282424&stroke=C3C3C3&ring=C3C3C3&fire=5FC4DE&currStreakNum=C3C3C3&sideNums=C3C3C3&currStreakLabel=5FC4DE&sideLabels=5FC4DE&dates=C3C3C3)
 
 
 ### Conecte-se comigo
