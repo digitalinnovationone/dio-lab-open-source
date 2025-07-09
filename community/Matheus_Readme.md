@@ -1,6 +1,5 @@
 # 🚀 Salve!!, eu sou Matheus! 👋
 
-
 ## 👨‍💻 Sobre Mim
 
 Atualmente estou fazendo O curso de IA na faculdade FATEC em Rio Claro, sou um desenvolvedor iniciante e entusiasmado por tecnologia e inovação. Estou sempre em busca de novos conhecimentos e desafios. 😎
@@ -64,7 +63,6 @@ Este repositório contém exercícios, atividades e anotações realizados duran
 
 Sinta-se à vontade para abrir issues ou pull requests! Sua contribuição é muito bem-vinda.
 
-
 ## 🌟 Agradecimentos
 
 Agradeço à [Digital Innovation One](https://www.dio.me/) por disponibilizar conteúdo de qualidade e à comunidade open source por compartilhar conhecimento.
@@ -74,4 +72,4 @@ Agradeço à [Digital Innovation One](https://www.dio.me/) por disponibilizar co
 <div align="center">
   <p>Feito com ❤️ por Matheus</p>
   <p>⭐ Se este README te ajudou, considere dar uma estrela!</p>
-</div>
+</div> 
