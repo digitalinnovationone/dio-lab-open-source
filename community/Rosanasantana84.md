@@ -2,7 +2,7 @@
 
 Olá! Sou a Rosana, uma entusiasta da tecnologia e estou muito feliz em participar da comunidade da DIO!
 
-Estou aprendendo sobre desenvolvimento web e tenho focado nas seguintes tecnologias:
+Estou aprendendo sobre Análise de Dados e tenho focado nas seguintes tecnologias:
 - HTML5 e CSS3
 - JavaScript
 - R
