@@ -13,7 +13,7 @@ Estou na área da tecnologia apenas como estudante desde 2023, estou no 3ª seme
 
 Desde muito nova tenho afinidade com as tecnologias, mas nunca tinha cogitado a hipótese de trabalhar nela. Atualmente, estou migrando de área e desejo muito encontrar meu espaço.
 
-Tenho muito interesse no campo das tecnologias de **back-end** e **cibersegurança**, para mim são setores que sempre tive muita curiosidade de conhecer, e agora pretendo me esforçar para conseguir me aperfeiçoar cada vez mais e me encontrar. 
+Tenho muito interesse no campo das tecnologias de **back-end** e **cibersegurança**, para mim são setores que sempre tive muita curiosidade de conhecer, e agora pretendo me esforçar para conseguir me aperfeiçoar cada vez mais e me encontrar
 
 ## 🧠 Habilidades
 
