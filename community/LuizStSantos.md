@@ -4,7 +4,7 @@ Back-End Developer passionate about transforming ideas into real-world solutions
 Focused on **Java**, **Spring Boot** and **microservices architecture**, with hands-on experience in **cloud**, **DevOps** and **ERP** systems.  
 I currently work as a freelancer and TV engineer, building APIs, backend services, and deploying scalable, reliable software.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizstsantos@gmail.com) •  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luizstsantos)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizstsantos@gmail.com)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luizstsantos)  
 
 ---
 
