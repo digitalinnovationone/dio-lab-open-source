@@ -4,7 +4,7 @@
   Tive contato com a tecnologia desde a infância, porém após me frustar com a área administrativa resolvi mergulhar de cabeça 
   na área de tecnologia.
 
-## 📚 Fornmação Acadêmica
+## 📚 Formação Acadêmica
 
 - Cursando Ciência da Computação (Uninter)
 - MBA em Gestão de Negócio (USP/ESALQ)
