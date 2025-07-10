@@ -5,7 +5,7 @@ Sou Wesley Henrique, desenvolvedor front-end em treinamento, e estou criando alg
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <br>
-<h3>:soon:Tecnologias que estou aprendendo:</h3>
+<h3>:soon: Tecnologias que estou aprendendo:</h3>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <br>
 <h3>:link: Conecte-se comigo</h3>
