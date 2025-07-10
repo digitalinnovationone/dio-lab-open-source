@@ -1,21 +1,30 @@
 ## Jefferson Melo
 
-### Apaixonado por dados, curioso por natureza e motivado por transformar informação em soluções. Meu caminho na tecnologia não é apenas um aprendizado acadêmico — é uma jornada de criação, compartilhamento e construção coletiva.
+#### Apaixonado por dados, curioso por natureza e motivado por transformar informação em soluções. Meu caminho na tecnologia não é apenas um aprendizado acadêmico — é uma jornada de criação, compartilhamento e construção coletiva.
 
-### Me especializo em Ciência de Dados, automação com Python e visualização inteligente com Jupyter. Mas mais importante que as ferramentas é a vontade de resolver problemas reais, ajudar outras pessoas a avançarem e crescer junto com a comunidade.
+#### Me especializo em Ciência de Dados, automação com Python e visualização inteligente com Jupyter. Mas mais importante que as ferramentas é a vontade de resolver problemas reais, ajudar outras pessoas a avançarem e crescer junto com a comunidade.
 
-#### No meu GitHub você encontra projetos pensados para provocar insights e facilitar a rotina de quem trabalha com dados. 💡
+##### No meu GitHub você encontra projetos pensados para provocar insights e facilitar a rotina de quem trabalha com dados. 💡
 
 ## Habilidades:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-5B8FA8?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) 
 
 ### Ferramentas:
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=fffff)](https://github.com/0arKes)
 
 ### IDE (Ambiente de Desenvolvimento Integrado):
 
@@ -23,22 +32,16 @@
 
 ## Estatísticas Github:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1Faeell&theme=transparent&bg_color=000&border_color=ffffff&show_icons=true&icon_color=AAFF00&title_color=ff00ff&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeffAirData&show_icons=true&theme=radical)
 
 ### Linguagens mais utilizadas:
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=1Faeell&bg_color=000&border_color=ffffff&title_color=ff00ff&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffAirData&layout=compact&theme=radical)
 
 ## Contato:
 
-### Bora se conectar!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-s-fe/)
-
-### Gostaria de mandar uma mensagem?
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/71988327708)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-melo-8599b010/)
 
 ### Quer enviar um email?
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:faelsoaresm@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:jef.datascience@gmail.com)
