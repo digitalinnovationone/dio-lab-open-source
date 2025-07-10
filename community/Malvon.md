@@ -1,4 +1,4 @@
-# Hello World, Mauro Vieira
+# Hello World, I'm Mauro Vieira
 
 ## Sobre Mim
 - Com experiência na área de suporte técnico, estou direcionando minhas habilidades para a análise de dados. Meu objetivo é usar minha experiência em resolver problemas para analisar informações e gerar insights, por isso estou me aprofundando em Git, Github, Python e SQL
@@ -12,8 +12,8 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Malvon&border_radius=4&mode=weekly&card_width=467&background=282424&stroke=C3C3C3&ring=C3C3C3&fire=5FC4DE&currStreakNum=C3C3C3&sideNums=C3C3C3&currStreakLabel=5FC4DE&sideLabels=5FC4DE&dates=C3C3C3)
 
 
-### Conecte-se comigo
-- Você pode me encontrar no LinkedIn e Instagram
+### Conecte-se comigo!
+- Você pode me encontrar no Instagram e Linkedin:
 
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/malvon_s/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCA0OCA0OCI+DQo8cGF0aCBmaWxsPSIjMDI4OEQxIiBkPSJNNDIsMzdjMCwyLjc2Mi0yLjIzOCw1LTUsNUgxMWMtMi43NjEsMC01LTIuMjM4LTUtNVYxMWMwLTIuNzYyLDIuMjM5LTUsNS01aDI2YzIuNzYyLDAsNSwyLjIzOCw1LDVWMzd6Ij48L3BhdGg+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEyIDE5SDE3VjM2SDEyek0xNC40ODUgMTdoLS4wMjhDMTIuOTY1IDE3IDEyIDE1Ljg4OCAxMiAxNC40OTkgMTIgMTMuMDggMTIuOTk1IDEyIDE0LjUxNCAxMmMxLjUyMSAwIDIuNDU4IDEuMDggMi40ODYgMi40OTlDMTcgMTUuODg3IDE2LjAzNSAxNyAxNC40ODUgMTd6TTM2IDM2aC01di05LjA5OWMwLTIuMTk4LTEuMjI1LTMuNjk4LTMuMTkyLTMuNjk4LTEuNTAxIDAtMi4zMTMgMS4wMTItMi43MDcgMS45OUMyNC45NTcgMjUuNTQzIDI1IDI2LjUxMSAyNSAyN3Y5aC01VjE5aDV2Mi42MTZDMjUuNzIxIDIwLjUgMjYuODUgMTkgMjkuNzM4IDE5YzMuNTc4IDAgNi4yNjEgMi4yNSA2LjI2MSA3LjI3NEwzNiAzNiAzNiAzNnoiPjwvcGF0aD4NCjwvc3ZnPg==)](https://www.linkedin.com/in/mauro21vieira/)
