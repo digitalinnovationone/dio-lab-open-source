@@ -1,7 +1,7 @@
 # Iuri Carriel
 Olá pessoal sou estudante de Gestão da tecnoligia da Informação na Fatec, estou no 3° Semestre.
 Estou estudando para buscar uma oportunidade de trabalho na area de TI.
-Atualmente resido em Capele do Alto - SP, estou estudando python em um Bootcamp Santander na DIO.
+Atualmente resido em Capela do Alto - SP, estou estudando python em um Bootcamp Santander na DIO.
 
 ## Conecte-se comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iuri-alves-carriel-a94928159)
@@ -27,5 +27,6 @@ Atualmente resido em Capele do Alto - SP, estou estudando python em um Bootcamp 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000000&border_color=30A3DC&title_color=E94D5F&text_color=FFFFFF)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/IuriCarriel2025/SEUREPOSITORIO)
 ## Minhas Contribuições
+
 
 
