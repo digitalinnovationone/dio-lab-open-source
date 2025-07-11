@@ -11,7 +11,7 @@
 </div>
 
 ## 🚀 Sobre mim
-Conheci o mundo da programação por volta dos vinte anos, inicialmente achei muito distante pois parecia incrivelmente difícil, porém agora me vejo novamente encantado por este mundo. Passei um tempo distante mas voltei, iniciei o Boot Camp DIO e agora estou aqui novamente.
+Conheci o mundo da programação por volta dos vinte anos, inicialmente achei muito distante pois parecia incrivelmente difícil, porém agora me vejo novamente encantado por este mundo. Passei um tempo distante mas voltei. Conheci e iniciei o Boot Camp DIO e agora estou aqui novamente.
 
 
 ## 🔗 Links
