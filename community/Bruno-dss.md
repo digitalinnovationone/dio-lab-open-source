@@ -23,4 +23,5 @@ Estudante de Ciência da Computação, movido por uma grande paixão por tecnolo
 ### 📂 **Projetos**
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bruno-dss&repo=SQL---EstacionamentoInteligente&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/bruno-dss/SQL---EstacionamentoInteligente)
-*Projeto de estacionamento inteligente usando SQL Server e SQLite para gerenciamento eficiente.*
+
+Projeto de estacionamento inteligente usando SQL Server e SQLite para gerenciamento eficiente.
