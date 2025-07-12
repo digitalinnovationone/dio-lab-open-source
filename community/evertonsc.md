@@ -8,9 +8,9 @@ Computer Science     mar 2022 - present
 Universidade La Salle - Rio Grande do Sul, Canoas 
 ```
  ## 🗣 Languages 
- - Portuguese          Native
- - English             Advanced
- - Spanish             Basic
+ - Portuguese - Native
+ - English - Advanced
+ - Spanish - Basic
  
 
  ## 🔥 GitHub Readme streak
