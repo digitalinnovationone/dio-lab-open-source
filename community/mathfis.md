@@ -12,7 +12,9 @@ Arquivo de descrição do perfil do desenvolvedor Matheus Alves de Medeiros Lara
 
 ## Biografia 
 <details><summary>(clique para expandir ou retrair)</summary>
-<p>Em termos de formação, sou graduado em Física pela Universidade Federal Fluminense (UFF) em bacharelado (2009) e licenciatura (2017), com mestrado em ciências pela Universidade Federal do Rio de Janeiro (UFRJ), concluído em 2012. Hoje sou graduando do curso de Tecnologia em Sistemas da Computação pela UFF, com previsão de formatura no segundo semestre de 2026.</p>
+<p><p></p>
+Em termos de formação, sou graduado em Física pela Universidade Federal Fluminense (UFF) em bacharelado (2009) e licenciatura (2017), com mestrado em ciências pela Universidade Federal do Rio de Janeiro (UFRJ), concluído em 2012. Hoje sou graduando do curso de Tecnologia em Sistemas da Computação pela UFF, com previsão de formatura no segundo semestre de 2026.</p>
+
 
 <p>Profissionalmente, atuei por 3 anos em projetos de pesquisa dentro da UFRJ, com desenvolvimento em Fortran e uso de programação de alto desempenho com MPI, no entanto foi na área de educação onde tive minha grande experiência profissional. Desde o início da graduação (ainda em 2004) comecei a dar aulas particulares, algo que fui aprimorando em termos técnicos e profissionais. Enquanto professor de Física, atuei em instituições de ensino diversas ao longo do ano, com destaque para o Instituto Federal de Educação Ciência e Tecnologia do Rio de Janeiro (IFRJ) e a rede estadual do Ceará.</p>
 
@@ -27,8 +29,8 @@ Arquivo de descrição do perfil do desenvolvedor Matheus Alves de Medeiros Lara
     <details>
     <summary>
     <b>Proprietário, Matheus Lara - Aulas Particulares (Agosto de 2022 - atual)</b>
-    </summary>
-        Administro minha empresa pessoal de educação. Sou responsável por divulgar o meu trabalho, prospectar clientes, lidar com pais de alunos, fazer a gestão de tributos e fluxo de caixa, assim como a prestação do serviço. Atendo individualmente alunos para aprimorarem seus conhecimentos, visando objetivos relacionados à Física e Matemática, em níveis médio, superior e de pós-graduação.
+    </summary> 
+        <p></p>Administro minha empresa pessoal de educação. Sou responsável por divulgar o meu trabalho, prospectar clientes, lidar com pais de alunos, fazer a gestão de tributos e fluxo de caixa, assim como a prestação do serviço. Atendo individualmente alunos para aprimorarem seus conhecimentos, visando objetivos relacionados à Física e Matemática, em níveis médio, superior e de pós-graduação.
     </details>
     </p>
     <p>
@@ -36,6 +38,7 @@ Arquivo de descrição do perfil do desenvolvedor Matheus Alves de Medeiros Lara
     <summary>
     <b>Professor Estatutário de Física, Seduc-Ce (Abril de 2021 a Maio de 2022)</b>
     </summary>
+    <p></p>
         Fui responsável por lecionar disciplinas de Física para o Ensino Médio Regular, em turmas de horário integral e de parcial. Tinha responsabilidade pelo conteúdo de sala de aula, o lançamento de notas, as aulas de laboratório, elaboração de propostas de seminários e outras funções de professor. Nesta experiência dou destaque para a necessidade de adaptação ao contexto variado de 3 escolas onde atuei, assim como às transições que ocorreram devido à pandemia no período. Minha vaga era de professor substituto com previsão contratual de apenas 6 meses. Devido ao meu destaque nas minhas atividades, a instituição decidiu renovar o meu contrato seguidamente até o máximo que a legislação permitia, que era de 2 anos.
     </details>
     </p>
@@ -45,6 +48,7 @@ Arquivo de descrição do perfil do desenvolvedor Matheus Alves de Medeiros Lara
     <b>Professor Substituto de Física, Ifrj - Instituto Federal Do Rio De Janeiro (Abril de 2019 a Abril de 2021)
     </b>
     </summary>
+    <p></p>
         Fui responsável por lecionar disciplinas de Física para o Ensino Médio Técnico e para a Graduação em Matemática, sendo responsável pelo conteúdo de sala de aula, o lançamento de notas, as aulas de laboratório, elaboração de propostas de seminários e outras funções de professor. Minha vaga era de professor substituto com previsão contratual de apenas 6 meses. Devido ao meu destaque nas minhas atividades, a instituição decidiu renovar o meu contrato seguidamente até o máximo que a legislação permitia, que era de 2 anos.
     </details>
     </p>
@@ -53,6 +57,7 @@ Arquivo de descrição do perfil do desenvolvedor Matheus Alves de Medeiros Lara
     <summary>
     <b>Bolsista de Pesquisa, Lamce/Coppe/Ufrj (Outubro de 2010 a outubro de 2013)</b>
     </summary>
+    <p></p>
         Atuava com projetos de pesquisa junto à empresas da área de óleo e gás, principalmente à Petrobrás, o foco do meu trabalho era adaptar códigos prórprios para que eles pudessem rodar em clustêres computacionais através do MPI-Fortran.
     </details>
     </p>
