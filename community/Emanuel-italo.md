@@ -30,7 +30,7 @@ Cultura DevOps
 Porque a tecnologia transformou a minha história, e agora quero usá-la para transformar outras.
 Esse bootcamp é mais uma etapa de um sonho em construção — com disciplina, humildade e muito código.
 
-“O conhecimento é a única bagagem que não pesa na subida.”
+“O conhecimento é a única bagagem que não pesa na subida.
 
 💬 Vamos juntos?
 Se você também está nessa trilha ou quer trocar uma ideia, me chama!
