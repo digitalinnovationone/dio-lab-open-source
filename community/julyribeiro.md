@@ -1,4 +1,4 @@
-<h2 align="center">🌸✨ Olá, eu sou a July Ribeiro! ✨🌸</h2>
+<h2 align="center">🌸✨ Olá, eu sou a July Ribeiro! ✨🌸</h2> <br>
 
 <p>
 💻 Apaixonada por tecnologia<br>
