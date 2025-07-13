@@ -1,4 +1,4 @@
-# 🙋‍♂️ Contribuidor: VictorHugoDFerreir
+# 🙋‍♂️ Contribuidor: VictorHugoDferreir
 
 > "A inovação distingue um líder de um seguidor." – Steve Jobs ✨
 
@@ -11,7 +11,7 @@ Estou muito animado para contribuir com o curso através dos projetos open sourc
 ### 🌟 Sobre Mim
 
 * **Nome:** Victor Hugo Dutra Ferreira
-* **Username GitHub:** VictorHugoDFerreir
+* **Username GitHub:** VictorHugoDferreir
 * **Breve Introdução:** Atualmente sou Analista de Suporte a Software e estou em transição de carreira para o desenvolvimento web, com foco em `Java` e `Spring Boot`.
 
 ---
