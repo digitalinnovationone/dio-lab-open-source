@@ -1,95 +1,161 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Contribuindo em um Projeto Open Source no GitHub</span>
-</h1>
+<div align="center" style="background: linear-gradient(135deg, #1a1b27 0%, #0d1117 100%); padding: 40px; border-radius: 20px; box-shadow: 0 0 40px #00ff00, inset 0 0 20px rgba(0, 255, 0, 0.1); border: 2px solid #00ff00;">
+  <h1 style="font-family: 'Fira Code', 'Courier New', monospace; text-shadow: 0 0 20px #00ff00, 0 0 40px #00ffff, 0 0 60px #00ff00; letter-spacing: 4px; font-size: 3.5em; margin-bottom: 10px; color: #00ff00;">
+    Pablo Farina
+  </h1>
+  <p style="font-family: 'Fira Code', monospace; font-size: 24px; text-shadow: 0 0 10px #00ffff; font-weight: bold; margin: 0 0 20px 0; color: #00ffff;">
+    Full Stack Developer | Java & TypeScript Expert | Spring Boot Architect
+  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Backend+Developer+with+Java+%26+Spring+Boot;Frontend+Developer+with+TypeScript+%26+React;Next.js+%26+Modern+Web+Technologies;Exploring+Cloud+Architecture+%26+DevOps;Building+Scalable+Microservices" alt="Typing SVG" style="margin: 20px 0;" />
+</div>
 
-Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio e exercício prático para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
+## 💻 Sobre Mim
 
-[![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
-[![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
+<div style="background: linear-gradient(135deg, #1a1b27 0%, #0d1117 100%); padding: 30px; border-radius: 15px; border-left: 4px solid #00ff00; margin: 20px 0;">
 
-## Objetivo
-Aprender o básico sobre contribuição no GitHub.
+🚀 **Desenvolvedor Full Stack** apaixonado por criar soluções tecnológicas inovadoras. Especializado em **Java** e **Spring Boot** no backend, com sólidas habilidades em **TypeScript**, **React** e **Next.js** no frontend.
 
-## Ferramentas
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+🎯 **Missão:** Construir aplicações escaláveis e performáticas que transformem ideias em realidade, sempre aplicando as melhores práticas de desenvolvimento e arquitetura de software.
 
-## Percurso
-<table>
-  <thead>
-    <tr align="left">
-      <th>Nº</th>
-      <th>Etapas</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>01</td>
-      <td>Introdução ao Lab</td>
-    </tr>
-    <tr>
-      <td>02</td>
-      <td>Formas de Contribuir num Projeto Open Source</td>
-    </tr>
-    <tr>
-      <td>03</td>
-      <td>Desenvolvendo e Enviando uma Contribuição</td>  
-    </tr>
-    <tr>
-      <td>04</td>
-      <td>Dicas e Materiais de Apoio</td>    
-    </tr>
-  </tbody>
-</table>
+🔍 **Explorando atualmente:** 
+- 🐳 DevOps com Docker
+- 🎨 Design e Arquitetura de Software
 
----
-## Desafio de Projeto da DIO
-Agora que você já sabe as formas de contribuir em um projeto Open Source, está na hora de colocar em prática o seu conhecimento sobre contribuição no GitHub! <br>
-Para concluir este Desafio de Projeto, basta enviar a **URL do seu "fork" de um projeto Open Source que você contribuiu** para a entrega do desafio na plataforma [DIO](https://www.dio.me/).
-
-> [!NOTE]   
-> Por exemplo, a URL https://github.com/falvojr/dio-lab-open-source é o "**fork**" feito pelo usuário do GitHub "`falvojr`" para a contribuição no repositório `dio-lab-open-source`.
-
-### Contribua com seu Profile README
-Para contribuir neste repositório, uma das formas é através da contribuição no diretório "**community**", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. <br>
-Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
- Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
-
-#### Utilitários
-
-[![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
-[![Card Stats](https://img.shields.io/badge/Card%20Stats-E94D5F?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
-[![Badges](https://img.shields.io/badge/Card%20Streak%20States-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-streak-stats.md)
-
-> [!IMPORTANT]   
-> Confira as instruções antes de enviar a sua contribuição em [CONTRIBUTING.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md)
-
-### Fórum do Repositório (GitHub Discussions)
-GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. Caso tenha dúvidas, você pode abrir uma discussão, dentro de uma categoria apropriada, na aba "Discussions" do repositório do projeto.
-
-> [!WARNING]  
-> **Atenção:** Antes de criar uma nova discussão, verifique se sua dúvida já foi respondida em discussões anteriores. Use a função de pesquisa para encontrar tópicos relevantes.
+</div>
 
 ---
 
-## Contribua
-[![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/stargazers)
-[![Forks](https://img.shields.io/github/forks/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/forks)
-[![GitHub Issues](https://img.shields.io/github/issues/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/issues/)
+## 🚀 Tech Stack
 
- Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição além do seu exemplo de Profile README, é inserir outros utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils), ou melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/docs). <br>
- Além disso, você também pode contribuir:
- 
-⚠️ Resolvendo, respondendo ou indicando **issues**
+### ⚡ Core Technologies
+<div align="center" style="margin: 30px 0;">
+  <img src="https://skillicons.dev/icons?i=java,spring,typescript,nextjs&theme=dark" height="60" />
+</div>
 
-⭐ Adicionando aos favoritos (**star**) 
+### 🛠️ Ferramentas & Frameworks
+<div align="center" style="margin: 30px 0;">
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/Backend-00ff00?style=for-the-badge" /><br/>
+        <img src="https://skillicons.dev/icons?i=java,typescript,spring,nextjs&theme=dark" height="40" />
+      </td>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/Database-ff00ff?style=for-the-badge" /><br/>
+        <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" height="40" />
+      </td>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/DevOps-ffff00?style=for-the-badge" /><br/>
+        <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="40" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-### Membros da comunidade que já contribuiram:
-<a href="https://github.com/digitalinnovationone/dio-lab-open-source/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=digitalinnovationone/dio-lab-open-source"/>
-</a>
+---
 
-##
-<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pablozr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ffff&icon_color=00ff00"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pablozr&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ffff"/>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablozr&theme=radical&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ffff&currStreakLabel=00ffff" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=pablozr&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+</div>
+
+---
+
+## 💼 Projetos em Destaque
+
+<div align="center">
+  <table style="width: 100%; max-width: 1000px; border-collapse: separate; border-spacing: 15px;">
+    <tr>
+      <td style="background: linear-gradient(135deg, #1a1b27 0%, #0d1117 100%); padding: 25px; border-radius: 15px; border: 2px solid #00ff00; box-shadow: 0 0 20px rgba(0, 255, 0, 0.3);">
+        <h3 style="color: #00ff00; margin-top: 0;">🏦 Sistema de Transações</h3>
+        <p style="color: #00ffff;">API REST robusta com Spring Boot, JWT, validações avançadas e arquitetura limpa</p>
+        <div>
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+          <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        </div>
+        <br/>
+        <a href="https://github.com/pablozr/banksystem"><img src="https://img.shields.io/badge/Ver_Projeto-00ff00?style=for-the-badge&logo=github&logoColor=black" /></a>
+      </td>
+      <td style="background: linear-gradient(135deg, #1a1b27 0%, #0d1117 100%); padding: 25px; border-radius: 15px; border: 2px solid #00ffff; box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);">
+        <h3 style="color: #00ffff; margin-top: 0;">💹 UniFinanceV2</h3>
+        <p style="color: #00ff00;">Dashboard financeiro para controle e análise de gastos pessoais com gráficos interativos</p>
+        <div>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        </div>
+        <br/>
+        <a href="https://github.com/pablozr/unifinancev2"><img src="https://img.shields.io/badge/Ver_Projeto-00ffff?style=for-the-badge&logo=github&logoColor=black" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td style="background: linear-gradient(135deg, #1a1b27 0%, #0d1117 100%); padding: 25px; border-radius: 15px; border: 2px solid #ff00ff; box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);">
+        <h3 style="color: #ff00ff; margin-top: 0;">🎮 Plugin Minecraft</h3>
+        <p style="color: #00ffff;">Sistema modular avançado para criação de armas customizadas com Spigot API</p>
+        <div>
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+          <img src="https://img.shields.io/badge/Spigot-FF8800?style=flat-square&logo=minecraft&logoColor=white" />
+          <img src="https://img.shields.io/badge/YML-000000?style=flat-square&logo=yaml&logoColor=white" />
+        </div>
+        <br/>
+        <a href="https://github.com/pablozr/esgotoserver"><img src="https://img.shields.io/badge/Ver_Projeto-ff00ff?style=for-the-badge&logo=github&logoColor=black" /></a>
+      </td>
+      <td style="background: linear-gradient(135deg, #1a1b27 0%, #0d1117 100%); padding: 25px; border-radius: 15px; border: 2px solid #ffff00; box-shadow: 0 0 20px rgba(255, 255, 0, 0.3);">
+        <h3 style="color: #ffff00; margin-top: 0;">⚔️ Elden Ring Builds API</h3>
+        <p style="color: #00ff00;">API REST que recomenda builds otimizadas baseado no boss que você está enfrentando</p>
+        <div>
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+          <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=rest&logoColor=white" />
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        </div>
+        <br/>
+        <a href="https://github.com/pablozr/elden-ring-builds"><img src="https://img.shields.io/badge/Ver_Projeto-ffff00?style=for-the-badge&logo=github&logoColor=black" /></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📡 Vamos Conectar!
+
+<div align="center" style="margin: 30px 0;">
+  <a href="https://www.linkedin.com/in/pablo-de-araújo-farina-893a8126b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" />
+  </a>
+  <a href="mailto:pablo.farina28@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=0078D4&color=0078D4" />
+  </a>
+  <a href="https://pablozr.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00ff00?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=00ff00&color=00ff00" />
+  </a>
+  <a href="https://github.com/pablozr" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717" />
+  </a>
+</div>
+
+---
+
+<div align="center" style="background: linear-gradient(135deg, #00ff00 0%, #00ffff 50%, #ff00ff 100%); padding: 2px; border-radius: 15px; margin: 20px 0;">
+  <div style="background: #0d1117; padding: 20px; border-radius: 13px;">
+    <h3 style="color: #00ff00; margin: 0;">💡 "Clean code always looks like it was written by someone who cares."</h3>
+    <p style="color: #00ffff; margin: 5px 0 0 0;">- Robert C. Martin</p>
+  </div>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pablozr&label=Profile%20views&color=00ff00&style=for-the-badge" alt="Profile views" />
+</div>
