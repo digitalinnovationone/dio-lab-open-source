@@ -1,6 +1,6 @@
 # Apresentação
 
-Olá, me chame Yuri Henrique, sou graduado em engenharia da computação. Procurei me especializar em ser desenvolvedor fullstack, uma area que me chamou muito a atenção por poder desenvolver aplicações uteis e interfaces intuitivas para os usuários.
+Olá, me chamo Yuri Henrique, sou graduado em engenharia da computação. Procurei me especializar em ser desenvolvedor fullstack, uma área que me chamou muito a atenção por poder desenvolver aplicações úteis e interfaces intuitivas para os usuários.
 
 # Habilidades
 
