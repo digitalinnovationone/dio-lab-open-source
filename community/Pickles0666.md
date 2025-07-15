@@ -1,4 +1,4 @@
-## pickles0666
+## Pickles0666
 
 ## Conecte-se comigo
 LinkedIn	[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/pablo-barbosa-086a1615b/)
