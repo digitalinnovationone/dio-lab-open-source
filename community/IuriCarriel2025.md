@@ -1,6 +1,6 @@
 # Iuri Carriel
-Olá pessoal sou estudante de Gestão da tecnoligia da Informação na Fatec, estou no 3° Semestre.
-Estou estudando para buscar uma oportunidade de trabalho na area de TI.
+Olá pessoal sou estudante de Gestão da tecnologia da Informação na Fatec, estou no 3° Semestre.
+Estou estudando para buscar uma oportunidade de trabalho na área de TI.
 Atualmente resido em Capela do Alto - SP, estou estudando python em um Bootcamp Santander na DIO.
 
 ## Conecte-se comigo 
