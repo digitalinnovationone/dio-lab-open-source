@@ -1,4 +1,4 @@
-### Olá, eu sou Richard Silva (richsilva) 👋
+### Olá, eu sou Richard Silva (RichSilva) 👋
 
 ✨ **Técnico em Desenvolvimento de Sistemas**.
 
