@@ -1,8 +1,8 @@
 # BootCamp DIO Santander 2025 - Front-End
-Virgílio L. L.
+VirgÃ­lio L. L.
 
 Analista de Sistemas formado pela USCS.
-Mais de 15 anos de experiência com Suporte na área de TI, e agora procurando transição de carreira para Desenvolvimento.
+Mais de 15 anos de experiÃªncia com Suporte na Ã¡rea de TI, e agora procurando transiÃ§Ã£o de carreira para Desenvolvimento.
 
 Interesses: Desenvolvimento de Software Back-End e Front-End, Desenvolvimento de Jogos.
 
@@ -15,7 +15,7 @@ Conhecimentos:
 - Redes.
 - Hardware (PC).
 
-Conhecimentos Acadêmicos:
+Conhecimentos AcadÃªmicos:
 - Linguagem C.
 - HTML.
 - CSS.
