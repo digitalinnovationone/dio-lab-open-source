@@ -8,7 +8,7 @@
 
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiane-machado-7a11a1190/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiane-machado-7a11a1190/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/cristiannemachado)
 
 
@@ -39,9 +39,7 @@
 ![Kali](https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 
-<div width="100%" align="center" justify="center">  
-  <a href="https://github.com/cristiannemachado">
-    <img width="40%" height="150px" src="https://github-readme-stats.vercel.app/api?username=cristiannemachado&theme=dracula" /> 
-    <img width="40%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiannemachado&layout=compact&theme=dracula" />
-  </a>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cristiannemachado&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiannemachado&layout=compact&langs_count=7&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
