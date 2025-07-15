@@ -14,7 +14,7 @@ Data Enginner at BRP and Post Graduate in Business Inteligence. Have a a passion
 
 
 ### Connect with me in:
-[![LinkedIn](https://img.shields.io/badge/in/estevaoguevara-fff?style=flat&logo=linkedin&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.linkedin.com/in/elidiana/)
+[![LinkedIn](https://img.shields.io/badge/in/estevaoguevara-fff?style=flat&logo=linkedin&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.linkedin.com/in/estevaoguevara/)
 
 
 ##
