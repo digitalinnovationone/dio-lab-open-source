@@ -1,1 +1,0 @@
-#Oi, meu nome é Douglas Thames de Araujo
