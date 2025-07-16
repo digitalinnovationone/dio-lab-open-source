@@ -1,1 +1,0 @@
-# Participação na comunidade
