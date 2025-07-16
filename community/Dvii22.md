@@ -2,11 +2,11 @@
 ---
 # Contato
 
-📧 davy_sm@hotmail.com
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=plasticplastic&logo=microsoft-outlook&logoColor=white)](davy_sm@hotmail.com)
 
-🔗 [linkedin](https://www.linkedin.com/in/dvii22/)  
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plasticplastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dvii22/)  
 
-🐙 [GitHub](https://github.com/Dvii22)
+ [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plasticplastic&logo=github&logoColor=white)](https://github.com/Dvii22)
 
 ## ✨ Sobre mim
 
@@ -44,5 +44,5 @@ Atualmente, aprimoro SQL, R, python e ferramentas de BI para me posicionar como 
 ## 🛠 Habilidades Técnicas
 
      
-| ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+| ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plasticplasticfor-the-badge&logo=mysql&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=plasticfor-the-badge&logo=python&logoColor=ffdd54) | ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plasticfor-the-badge&logo=r&logoColor=white) | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plasticfor-the-badge&logo=powerbi&logoColor=black) | ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plasticfor-the-badge&logo=microsoft-excel&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plasticfor-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plasticfor-the-badge&logo=github&logoColor=white) |
 |:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|
