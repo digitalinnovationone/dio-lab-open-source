@@ -3,6 +3,6 @@ Sou estudante de análise e desenvolvimento de sistemas e entusiasta do aprendiz
 
 ## 📫 Conecte-se comigo
 <!-- Links -->
-[![LinkedIn](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](https://www.linkedin.com/in/alyciamaia/)
-[![GitHub](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](https://github.com/AlyciaMaia)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/alyciamaia/)
+[![GitHub](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=0E76A8)](https://github.com/AlyciaMaia)
 
