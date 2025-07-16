@@ -1,4 +1,4 @@
-# Pedro Willian de Souza
+# Pedro Willian
 ## Um pouco sobre mim e tragetória:
 Tenho 26 anos, sou de São Paulo e estou em transição de carreira.
 Atuei como tatuador durante 10 anos mas é uma profissão que não que me complementa mais e agora estou ingressando na area de tecnologia, pois vejo boas oportunidades nessa area!
