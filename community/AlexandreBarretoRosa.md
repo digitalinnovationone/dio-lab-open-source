@@ -33,7 +33,6 @@ Tenho interesse em todo o ecossistema de dados, incluindo **engenharia de dados*
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreBarretoRosa&layout=compact&theme=default)
 
 ---
-
 ## 🖥️ Sistema Operacional
 
 - Windows  
