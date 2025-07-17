@@ -23,7 +23,6 @@ Tenho interesse em todo o ecossistema de dados, incluindo **engenharia de dados*
 - NumPy  
 - Apache Spark  
 - Airflow  
-- Git  
 - Linux  
 
 ---
