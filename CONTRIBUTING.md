@@ -87,6 +87,13 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 | `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         | `style: add EFFECTNAME to COMPONENT`
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
 | `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
+| `build`        | Commits do tipo build são utilizados quando são realizadas modificações em arquivos de build e dependências| `build: Dependency injection.`
+| `perf`         | Commits do tipo perf servem para identificar quaisquer alterações de código que estejam relacionadas a performance| `perf: Implementation of lazy loading.`
+| `chore`        | Commits do tipo chore indicam atualizações de tarefas de build, configurações de administrador, pacotes... como por exemplo adicionar um pacote no gitignore. (Não inclui alterações em código)| `chore: Inclusion of node_modules gitignore.`
+| `ci`           | Commits do tipo ci indicam mudanças relacionadas a integração contínua (_continuous integration_).| `ci: CI Platform Change.`
+| `raw`          | Commits do tipo raw indicam mudanças relacionadas a arquivos de configurações, dados, features, parâmetros. | `raw: Script increment in package.json.`
+| `cleanup`      | Commits do tipo cleanup são utilizados para remover código comentado, trechos desnecessários ou qualquer outra forma de limpeza do código-fonte, visando aprimorar sua legibilidade e manutenibilidade.| `cleanup: Comments removed from post.`
+| `remove`       | Commits do tipo remove indicam a exclusão de arquivos, diretórios ou funcionalidades obsoletas ou não utilizadas, reduzindo o tamanho e a complexidade do projeto e mantendo-o mais organizado.| `remove: Removing Obsolete Client Method.`
 
 
 ## Referências
