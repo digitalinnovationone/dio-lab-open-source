@@ -1,4 +1,4 @@
-# Olá! Eu sou André Luiz estou contribuindo para o projeto open source.
+<<<<<<< HEAD
 
 ## Meus Contatos
 
@@ -15,3 +15,6 @@
 
 
 
+=======
+# Olá! Eu sou o Andre Luiz Donato e estou participando do desafio de projeto da DIO 🚀
+>>>>>>> 3e4ca53282 (feat: add aluizdonato profile)
