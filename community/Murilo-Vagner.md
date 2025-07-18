@@ -44,5 +44,3 @@
 ## 📊 Estatísticas do GitHub
 
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Vagner&layout=compact&theme=dracula)
-
-
