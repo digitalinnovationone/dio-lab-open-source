@@ -21,7 +21,7 @@ Check out my current project:
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Weather App](https://github.com/evezpk/weather-app) | A simple weather forecast app that fetches data from APIs | `HTML`, `CSS`, `JavaScript` |
+| [Weather App](https://github.com/evezpk/clima) | A simple weather forecast app that fetches data from APIs | `HTML`, `CSS`, `JavaScript` |
 
 ---
 
