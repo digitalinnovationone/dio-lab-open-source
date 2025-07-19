@@ -21,13 +21,7 @@ Estou sempre buscando melhorar a cada dia.
 
 ## 📊 Estatísticas do GitHub:
 
-<div>
-    <a href="https://github.com/kouxz">
-      <img height="350em" width="400em" src="https://github-readme-stats.vercel.app/api?username=kouxz&show_icons=true&count_private=true&hide_border=true&title_color=5DBB53&icon_color=5DBB53&text_color=EEF1F7&bg_color=0d1117"/>
-    </a>
-    <a href="https://github.com/kouxz">
-     <img height="350em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouxz&langs_count=8&hide_border=true&title_color=5DBB53&text_color=EEF1F7&bg_color=0d1117"/>
-    </a>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kouxz&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
  
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kouxz&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
