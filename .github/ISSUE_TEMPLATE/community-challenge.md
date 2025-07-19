@@ -1,17 +1,17 @@
 ---
 name: Community Challenge
-about: Create a template about challenge purpose to community
-title: "[Challenge]"
-labels: Community Challenge
-assignees: dontzinn
+about: Crie uma issue sobre o Desafio proposto à comunidade
+title: "[DESAFIO]"
+labels: community challenge
+assignees: ''
 
 ---
 
-*Do you have any sugestion to do challenge?*
-[Describe your answer]
+*Tem alguma sugestão para quem for fazer o Desafio? Por favor descreva.*
+Uma descrição do que pode ser feito. 
 
-*Describe how you to do your challenge*
-[A description about how you do]
+*Descreva como você realizou o seu*
+Uma descrição sobre como você fez o seu.
 
-*Links*
-- [Link Name](URL)
+*Links úteis*
+- [Nome do Link](URL)
