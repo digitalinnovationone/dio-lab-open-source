@@ -11,6 +11,10 @@ Estou sempre explorando e praticando com foco especial em desenvolvimento web e 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -33,7 +37,13 @@ Se você quiser trocar uma ideia, revisar um PR comigo, ou até me dar alguma di
 
 ---
 
-💬 Me encontra por aqui mesmo no GitHub, ou me chama pra conversar.  
-Valeu demais por ler até aqui, a jornada só está começando! 🚀
+💬 Me encontra por aqui mesmo no GitHub, ou me chama pra conversar no Linkedin.  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrolourega/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroLourega)
+
+
+Valeu demais por ter lido até aqui, a jornada só está começando! 🚀
+
+---
 > Até a próxima pessoal, vejo vocês em outra contribuição.
