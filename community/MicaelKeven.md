@@ -1,7 +1,7 @@
 
 ## ✅ Sobre mim
 
-- 🚀 Etudo tecnologia e quero muito trabalhar na área.
+- 🚀 Estudo tecnologia e quero muito trabalhar na área.
 - 👦🏽 Esse gosto por tecnologia vem desde a infância, quando criança gostava muito de vídeo games, meu primeiro vídeo game foi um super nintendo, eu amava (e ainda tenho muito amor por esses jogos ) por jogar Super Mario World e Super Mario Yoshi's Island.
 - 🖥 Meu primeiro computador eu tive aos 11 anos, e com ele eu fazia várias coisas, desde jogar e ajudar meus familiares e algumas pessoas com algo relacionado a tecnologia.
 - 🎼 Gosto muito de ouvir rock, desenhar e também pratico violão.
