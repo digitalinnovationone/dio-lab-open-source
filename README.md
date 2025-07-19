@@ -63,17 +63,17 @@ Para isso, você pode inserir: badges indicando suas habilidades; cards com suas
 
 2. Clone localmente: `git clone https://github.com/SEUUSERNAME/dio-lab-open-source.git`;
 
-3. Adicione o remote upstream para manter seu repositório local atualizado: `git remote add upstream https://github.com/elidiananandrade/dio-lab-open-source.git`;
+3. Adicione o remote upstream para manter seu repositório local atualizado: `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source`;
    > Utilize o comando `git pull upstream main` para baixar e mesclar as alterações no seu repositório local com base na branch `main` deste repositório original de onde você fez o fork, ou `git fetch upstream main` para baixar sem mesclar.  
    > Veja mais em: [Primeiros Passos com Git e GitHub](https://github.com/elidiananandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
 
-4. Crie uma nova **branch** e nomeie como `feat/community/seunomedeusuario`;
-   > Exemplo: `feat/community/elidiananandrade`
+4. Crie uma nova **branch** e nomeie como `feat/community/seunomedeusuario`; `git checkout -b feat/community/elidiananandrade`
+   > Exemplo: `git checkout -b feat/community/elidiananandrade`
 
-5. Dentro da pasta [`community`](https://github.com/elidiananandrade/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
+5. Dentro da pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
    > Exemplo: `elidiananandrade.md`
 
-6. Desenvolva o seu perfil. Para isso, você pode ver exemplos na pasta [`community`](https://github.com/elidiananandrade/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/elidiananandrade/dio-lab-open-source/tree/main/utils);
+6. Desenvolva o seu perfil. Para isso, você pode ver exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils);
    > **Observação:** Use os outros exemplos como inspiração e não cópia.
 
 7. Adicione suas alterações à "staging area" com o comando `git add community/seunomedeusuario.md`;
