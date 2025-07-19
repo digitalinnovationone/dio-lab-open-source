@@ -48,15 +48,15 @@ Sou um entusiasta da tecnologia que ama aprender, compartilhar conhecimento e co
 ## ✍️ Artigos e Desafios
 
 - [🚀 Desafio - Contribuindo com Open Source (DIO)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github)
-- [📓 Artigos Técnicos na DIO](https://web.dio.me/users/LOUVENSDAD/articles)
+- [📓 Artigos Técnicos na DIO](community/louvensdad.md)
 
 ---
 
 ## 🌐 Links Úteis
 
-- [💼 Meu LinkedIn](https://www.linkedin.com/in/LOUVENSDAD)
-- [👨‍🎓 Perfil na DIO](https://web.dio.me/users/LOUVENSDAD)
-- [🐙 Perfil GitHub](https://github.com/LOUVENSDAD)
+- [💼 Meu LinkedIn](https://www.linkedin.com/in/louvensdad-constantin/)
+- [👨‍🎓 Perfil na DIO](https://www.dio.me/users/louv2015)
+- [🐙 Perfil GitHub](https://github.com/louvensdad)
 
 ---
 
