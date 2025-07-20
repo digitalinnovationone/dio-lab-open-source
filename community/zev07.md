@@ -1,6 +1,6 @@
 # José Silva
 
-Estudante de ciências da computação
+Estudante de ciências da computação.
 
 ### Conecte-se comigo
 
