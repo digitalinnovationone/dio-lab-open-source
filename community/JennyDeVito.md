@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **.NET, Python and C**
 
-- 📫 How to reach me: **jdevito@live.com**
+- 📫 How to reach me: **jdevito@live.com - I don't use social media**
 
 - 📄 Know about my experiences  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jennydevito/)
 
