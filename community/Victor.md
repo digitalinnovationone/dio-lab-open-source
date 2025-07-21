@@ -14,7 +14,7 @@ Profissional recém-formado em Análise e Desenvolvimento de Sistemas, com forte
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDePaula06&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Conecte-se Comigo
+### Conecte-se Comigo!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictor0611/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:J.17jvictor@gmail.com)
