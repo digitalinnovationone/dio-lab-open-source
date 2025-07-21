@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Saulo Ribeiro!
+## 👋 Olá, me chamo Saulo Ribeiro!
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** e entusiasta de **Python**.  
 🚀 Aprendendo sobre Git, GitHub, programação e desenvolvimento de projetos open source.
