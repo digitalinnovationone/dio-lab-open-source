@@ -1,1 +1,0 @@
-Isto é um teste.
