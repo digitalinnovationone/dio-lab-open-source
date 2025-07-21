@@ -4,7 +4,7 @@ Apaixonado por tecnologia e pessoas, em transição de carreira para área de TI
 
 Agora muito animado com essa oportunidade de aprender a tecnologia dotnet / C#. Estou determinado a conseguir minha primeira oportunidade de trabalho na área de tecnologia.
 
-# Habilidades
+# Habilidades 🧠
 
 - Inglês fluente - Morei 3 anos na Nova Zelândia e trabalhei em navios de cruzeiro viajando pelo mundo por 3 anos
 - Comunidação, liderança e trabalho em equipe
