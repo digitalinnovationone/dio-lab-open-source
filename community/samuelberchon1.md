@@ -5,7 +5,7 @@
 ## 🙋‍♂️Sobre  mim :
 ### <samp>Olá, sou  <b><a target="_blank" href="https://www.linkedin.com/in/1alvaropaiva/"> Samuel </a>futuro desenvolvedor apaixonado por tecnologia. Tenho 28 anos e atualmente curso Engenharia de Software (início: julho/2024 — conclusão prevista: novembro/2028). Estou em busca de uma oportunidade de estágio onde eu possa aplicar e desenvolver minhas habilidades técnicas.
 
-### Tenho conhecimentos em <samp>Olá, sou  <b><a target="_blank" href="https://www.linkedin.com/in/1alvaropaiva/"> Python, JavaScript e HTML,</a> além de experiência prática com hardware. Gosto de aprender constantemente e acredito que o conhecimento é uma jornada sem fim. Estou animado para crescer profissionalmente e contribuir com soluções inovadoras!
+### Tenho conhecimentos em <samp> <b><a target="_blank" href="https://www.linkedin.com/in/1alvaropaiva/"> Python, JavaScript e HTML,</a> além de experiência prática com hardware. Gosto de aprender constantemente e acredito que o conhecimento é uma jornada sem fim. Estou animado para crescer profissionalmente e contribuir com soluções inovadoras!
 ## Habilidades
 ### Linguagen
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
