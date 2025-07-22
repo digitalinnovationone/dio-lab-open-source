@@ -1,6 +1,7 @@
 # GdGohan
 
 Meu nome é Antonio, tenho 18 anos e atualmente estou cursando Análise e desenvolvimento de Sistemas na Fatec de Bragança Paulita, desenvolvendo habilidades em linguagens de programação como Java
+
 Gosto de modificar jogos de Android
 
 ## Habilidades - ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
