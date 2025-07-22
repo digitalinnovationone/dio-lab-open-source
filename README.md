@@ -9,14 +9,29 @@ Repositório desenvolvido para fins didáticos, com a disponibilização de mate
 [![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
 [![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
 
-## Objetivo
+
+## 📑 Sumário
+
+- [🎯 Objetivo](#objetivo)
+- [📘 Percurso](#percurso)
+- [🚀 Desafio de Projeto da DIO](#desafio-de-projeto-da-dio)
+- [🙋‍♂️ Contribua com seu Profile README](#contribua-com-seu-profile-readme)
+  - [🧰 Utilitários](#utilitários)
+  - [💬 Fórum do Repositório (GitHub Discussions)](#fórum-do-repositório-github-discussions)
+- [🗺️ Fluxograma de Contribuição](#fluxograma-de-contribuição)
+- [❓ FAQ - Perguntas Frequentes](#-faq---perguntas-frequentes)
+- [🛠️ Ferramentas](#ferramentas)
+- [🤝 Contribua](#contribua)
+  - [👥Membros da comunidade que já contribuíram](#membros-da-comunidade-que-já-contribuiram)
+
+
+
+
+## 🎯 Objetivo
 Aprender o básico sobre contribuição no GitHub.
 
-## Ferramentas
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 
-## Percurso
+## 📘 Percurso
 <table>
   <thead>
     <tr align="left">
@@ -45,46 +60,20 @@ Aprender o básico sobre contribuição no GitHub.
 </table>
 
 ---
-## Desafio de Projeto da DIO
+## 🚀 Desafio de Projeto da DIO
 Agora que você já sabe as formas de contribuir em um projeto Open Source, está na hora de colocar em prática o seu conhecimento sobre contribuição no GitHub! <br>
 Para concluir este Desafio de Projeto, basta enviar a **URL do seu "fork" de um projeto Open Source que você contribuiu** para a entrega do desafio na plataforma [DIO](https://www.dio.me/).
 
 > [!NOTE]   
 > Por exemplo, a URL https://github.com/falvojr/dio-lab-open-source é o "**fork**" feito pelo usuário do GitHub "`falvojr`" para a contribuição no repositório `dio-lab-open-source`.
 
-### Contribua com seu Profile README
+### 🙋‍♂️ Contribua com seu Profile README
 Para contribuir neste repositório, uma das formas é através da contribuição no diretório "**community**", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. <br>
 Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
  Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
 
- ### Instruções
 
-1. Faça um **Fork** deste repositório;
-
-2. Clone localmente: `git clone https://github.com/SEUUSERNAME/dio-lab-open-source.git`;
-
-3. Adicione o remote upstream para manter seu repositório local atualizado: `git remote add upstream https://github.com/elidiananandrade`;
-   > Utilize o comando `git pull upstream main` para baixar e mesclar as alterações no seu repositório local com base na branch `main` deste repositório original de onde você fez o fork, ou `git fetch upstream main` para baixar sem mesclar.  
-   > Veja mais em: [Primeiros Passos com Git e GitHub](https://github.com/elidiananandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
-
-4. Crie uma nova **branch** e nomeie como `feat/community/seunomedeusuario`;
-   > Exemplo: `feat/community/elidiananandrade`
-
-5. Dentro da pasta [`community`](https://github.com/elidiananandrade/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
-   > Exemplo: `elidiananandrade.md`
-
-6. Desenvolva o seu perfil. Para isso, você pode ver exemplos na pasta [`community`](https://github.com/elidiananandrade/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/elidiananandrade/dio-lab-open-source/tree/main/utils);
-   > **Observação:** Use os outros exemplos como inspiração e não cópia.
-
-7. Adicione suas alterações à "staging area" com o comando `git add community/seunomedeusuario.md`;
-
-8. Faça um commit adicionando a mensagem indicando a adição do seu perfil `git commit -m "feat: add seunomedeusuario profile"`;
-
-9. Envie as alterações para o seu repositório remoto `git push origin feat/community/seunomedeusuario`;
-
-10. Crie um **Pull Request**.
-
-#### Utilitários
+#### 🧰 Utilitários
 
 [![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
 [![Card Stats](https://img.shields.io/badge/Card%20Stats-E94D5F?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
@@ -93,15 +82,76 @@ Para isso, você pode inserir: badges indicando suas habilidades; cards com suas
 > [!IMPORTANT]   
 > Confira as instruções antes de enviar a sua contribuição em [CONTRIBUTING.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md)
 
-### Fórum do Repositório (GitHub Discussions)
+### 💬 Fórum do Repositório (GitHub Discussions)
 GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. Caso tenha dúvidas, você pode abrir uma discussão, dentro de uma categoria apropriada, na aba "Discussions" do repositório do projeto.
 
 > [!WARNING]  
 > **Atenção:** Antes de criar uma nova discussão, verifique se sua dúvida já foi respondida em discussões anteriores. Use a função de pesquisa para encontrar tópicos relevantes.
 
+
+## 🗺️ Fluxograma de Contribuição
+
+Para recapitar, veja abaixo, o roteiro de contribuição resumidamente dos processos a se seguir para uma contribuição:
+
+1.  Fork o projeto
+
+2.  Clone o repositório
+
+3.  Crie uma branch
+
+4.  Crie seu arquivo README
+
+5.  Suba suas alterações
+
+6.  Crie um Pull Request
+
+7.  Participe das discussões!
+
+
+
+## ❓ FAQ - Perguntas Frequentes
+
+**1. Fiz um Fork, mas o repositório original foi atualizado. E agora?**  
+Use o comando `git pull upstream main` para sincronizar seu repositório local com as atualizações do repositório original.
+
 ---
 
-## Contribua
+**2. Errei alguma coisa no meu Pull Request. Posso corrigir?**  
+Sim! Basta fazer novos commits na mesma branch. O Pull Request será atualizado automaticamente com suas mudanças.
+
+---
+
+**3. Meu Pull Request será aceito automaticamente?**  
+Não. Ele será revisado pelos mantenedores, que podem aprovar, comentar, pedir ajustes ou até rejeitar com base na contribuição.
+
+---
+
+**4. Como personalizar meu README com badges e estatísticas?**  
+Você pode se inspirar nos exemplos da pasta `community` e usar recursos da pasta `utils`, como geradores de badges, cards e widgets do GitHub.
+
+---
+
+**5. Qual o formato correto do nome do arquivo de perfil?**  
+Crie um arquivo `.md` com o **mesmo nome do seu usuário no GitHub**, dentro da pasta `community`. Exemplo: `seuusuario.md`.
+
+---
+
+**6. Como saber se minha contribuição foi aceita?**  
+Você receberá uma notificação do GitHub assim que seu Pull Request for aprovado, comentado ou mesclado no repositório principal.
+
+---
+
+**7. Por que meu commit precisa de uma mensagem específica?**  
+Usamos o padrão de mensagens **Conventional Commits** para manter o histórico limpo e padronizado. Por exemplo: `feat: add seuusuario profile`.
+
+
+## 🛠️ Ferramentas
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+
+---
+
+## 🤝 Contribua
 [![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/stargazers)
 [![Forks](https://img.shields.io/github/forks/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/forks)
 [![GitHub Issues](https://img.shields.io/github/issues/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/issues/)
@@ -113,7 +163,7 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 
 ⭐ Adicionando aos favoritos (**star**) 
 
-### Membros da comunidade que já contribuiram:
+### 👥 Membros da comunidade que já contribuíram:
 <a href="https://github.com/digitalinnovationone/dio-lab-open-source/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=digitalinnovationone/dio-lab-open-source"/>
 </a>
