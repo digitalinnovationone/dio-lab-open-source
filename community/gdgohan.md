@@ -14,7 +14,7 @@ Meu nome é Antonio, tenho 18 anos e atualmente estou cursando Análise e desenv
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antonioxross/)
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/GdGohan)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GdGohan)
-[![Youtube Channel](https://raw.githubusercontent.com/GdGohan/dio-lab-open-source/refs/heads/main/utils/badges/youtube.svg)]((https://www.youtube.com/@gdgohan460)
+[![Youtube Channel](https://raw.githubusercontent.com/GdGohan/dio-lab-open-source/refs/heads/main/utils/badges/youtube.svg)](https://www.youtube.com/@gdgohan460)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCBSzqMgBtXbNvdKElN5nvug?style=for-the-badge)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCBSzqMgBtXbNvdKElN5nvug?style=for-the-badge)
 
