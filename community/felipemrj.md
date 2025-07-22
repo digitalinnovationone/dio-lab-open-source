@@ -1,4 +1,4 @@
-# Oi!
+# Olá
 
 Minha trajetória é tudo menos comum, e é justamente aí que está meu maior diferencial.  
 Do universo do desenvolvimento web à precisão do design digital odontológico, aprendi que a tecnologia é mais poderosa quando transforma vidas.
