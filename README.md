@@ -63,6 +63,18 @@ Para isso, você pode inserir: badges indicando suas habilidades; cards com suas
 [![Card Stats](https://img.shields.io/badge/Card%20Stats-E94D5F?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
 [![Badges](https://img.shields.io/badge/Card%20Streak%20States-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-streak-stats.md)
 
+### Exemplo de Badge
+
+Veja como adicionar uma badge ao seu README:
+
+```md
+![Badge Exemplo](https://img.shields.io/badge/Exemplo-Badge-blue)
+```
+
+Resultado:
+
+![Badge Exemplo](https://img.shields.io/badge/Exemplo-Badge-blue)
+
 > [!IMPORTANT]   
 > Confira as instruções antes de enviar a sua contribuição em [CONTRIBUTING.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md)
 
