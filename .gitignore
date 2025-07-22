@@ -274,9 +274,3 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,windows,macos,intellij,visualstudiocode,eclipse
-
-# Ignora todos os arquivos da pasta community
-/community/*
-
-# Exceto marcelinoJr.md
-!community/marcelinoJr.md
