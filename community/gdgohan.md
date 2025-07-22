@@ -6,7 +6,7 @@ Meu nome é Antonio, tenho 18 anos e atualmente estou cursando Análise e desenv
 - Edição de códigos Java e Smali
 - Decompilação de código Java com FernFlower e JADX
 - Uso do aplicativo MT Manager para edição de código AndroidManifest.xml, resource.arsc e classes.dex para modificação de APKs
-- Compilação de códigos Java completos e parciais para implementação em APKs
+- Compilação de códigos Java completos e parciais utilizando o aplicativo Skethware Pro para implementação em APKs
 - Uso de IA para aprendizado e soluções de problemas, como procura de bibliotecas Android
 
 ### *Redes*
