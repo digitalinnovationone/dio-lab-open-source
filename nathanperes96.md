@@ -18,7 +18,7 @@ Fazer parte de uma comunidade que valoriza a troca de conhecimento e o apoio mú
 Minhas habilidades (em desenvolvimento!)
 Ainda estou no começo, mas já tenho interesse e estou estudando:
 
-[Linguagem de programação 1] JavaScript e Python
+[Linguagem de programação 1] JavaScript e Python 
 
 [Tecnologia/Framework 1] HTML e CSS
 
