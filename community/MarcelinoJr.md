@@ -44,4 +44,4 @@
 
 ---
 
-🧡 _"Usar a tecnologia com propósito é meu compromisso com o futuro.."_
+🧡 _"Usar a tecnologia com propósito é meu compromisso com o futuro."_
