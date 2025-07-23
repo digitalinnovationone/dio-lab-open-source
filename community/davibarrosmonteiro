@@ -1,95 +1,41 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>FocusBrain - Jogo de Concentração</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-      padding-top: 50px;
-      background-color: #f0f0f0;
-      transition: background-color 0.5s ease;
-    }
+// HTML exemplo
+/*
+<div id="question">Clique no botão verde</div>
+<button id="btnGreen" style="background-color: green;">Verde</button>
+<button id="btnRed" style="background-color: red;">Vermelho</button>
+<audio id="soundCorrect" src="correct.mp3"></audio>
+<audio id="soundWrong" src="wrong.mp3"></audio>
+*/
 
-    #container {
-      background: #fff;
-      border-radius: 12px;
-      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
-      max-width: 400px;
-      margin: auto;
-      padding: 30px;
-    }
+// JS para feedback
+const btnGreen = document.getElementById('btnGreen');
+const btnRed = document.getElementById('btnRed');
+const soundCorrect = document.getElementById('soundCorrect');
+const soundWrong = document.getElementById('soundWrong');
 
-    #question {
-      font-size: 24px;
-      margin-bottom: 30px;
-    }
+btnGreen.addEventListener('click', () => {
+  showFeedback(true);
+});
 
-    button {
-      width: 120px;
-      height: 60px;
-      font-size: 18px;
-      border: none;
-      border-radius: 8px;
-      margin: 10px;
-      color: #fff;
-      cursor: pointer;
-    }
+btnRed.addEventListener('click', () => {
+  showFeedback(false);
+});
 
-    #btnGreen {
-      background-color: green;
-    }
-
-    #btnRed {
-      background-color: red;
-    }
-  </style>
-</head>
-<body>
-
-  <div id="container">
-    <div id="question">Clique no botão verde</div>
-    <button id="btnGreen">Verde</button>
-    <button id="btnRed">Vermelho</button>
-  </div>
-
-  <!-- Sons -->
-  <audio id="soundCorrect" src="correct.mp3" preload="auto"></audio>
-  <audio id="soundWrong" src="wrong.mp3" preload="auto"></audio>
-
-  <script>
-    const btnGreen = document.getElementById('btnGreen');
-    const btnRed = document.getElementById('btnRed');
-    const soundCorrect = document.getElementById('soundCorrect');
-    const soundWrong = document.getElementById('soundWrong');
-    const question = document.getElementById('question');
-
-    btnGreen.addEventListener('click', () => {
-      showFeedback(true);
-    });
-
-    btnRed.addEventListener('click', () => {
-      showFeedback(false);
-    });
-
-    function showFeedback(isCorrect) {
-      if (isCorrect) {
-        soundCorrect.play();
-        document.body.style.backgroundColor = '#a6f3a6'; // verde claro
-        question.textContent = 'Muito bem!';
-      } else {
-        soundWrong.play();
-        document.body.style.backgroundColor = '#f3a6a6'; // vermelho claro
-        question.textContent = 'Tente novamente!';
-      }
-
-      setTimeout(() => {
-        document.body.style.backgroundColor = '#f0f0f0';
-        question.textContent = 'Clique no botão verde';
-      }, 1500);
-    }
+function showFeedback(isCorrect) {
+  if (isCorrect) {
+    soundCorrect.play();
+    document.body.style.backgroundColor = '#a6f3a6'; // verde claro
+    setTimeout(() => {
+      document.body.style.backgroundColor = '';
+    }, 1000);
+  } else {
+    soundWrong.play();
+    document.body.style.backgroundColor = '#f3a6a6'; // vermelho claro
+    setTimeout(() => {
+      document.body.style.backgroundColor = '';
+    }, 1000);
+  }
+}
   </script>
 </body>
 </html>
