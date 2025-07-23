@@ -1,34 +1,42 @@
-# 👋 Olá, eu sou o Davi Monteiro
+// HTML exemplo
+/*
+<div id="question">Clique no botão verde</div>
+<button id="btnGreen" style="background-color: green;">Verde</button>
+<button id="btnRed" style="background-color: red;">Vermelho</button>
+<audio id="soundCorrect" src="correct.mp3"></audio>
+<audio id="soundWrong" src="wrong.mp3"></audio>
+*/
 
-🔬 **Estudante em Análise e Desenvolvimento de Sistemas** na [UniCarioca]([https://unicarioca.edu.br/])), Centro Universitário UniCarioca, Rio de Janeiro - Brasil. 
-Estou em busca da minha primeira oportunidade no mercado de trabalho na área de tecnologia.  
+// JS para feedback
+const btnGreen = document.getElementById('btnGreen');
+const btnRed = document.getElementById('btnRed');
+const soundCorrect = document.getElementById('soundCorrect');
+const soundWrong = document.getElementById('soundWrong');
 
-## 🎓 Formação
-- **Bacharelado** em Administração – Unicarioca 
-- **MBA** em Inteligência de Negócios – Estácio
-- **Graduando** em Análise e Desenvolvimento de Sistemas – Unicarioca (4/6)
+btnGreen.addEventListener('click', () => {
+  showFeedback(true);
+});
 
-## 💡 Pesquisa & Experiência
-- Projeto Extensão de Banco de Dados (Sistema de Gerenciamento de Biblioteca Virtual)
-- RoadMap: Aplicativo de Lista de Tarefas Universitárias (MVP de um aplicativo onde o estudante pode: cadastrar tarefas, receber notificações de prazos e integrar as atividades com o calendário acadêmico)
-- RoadMap: Relatório Individual – Sistema de Diagnóstico Médico com Inteligência Artificial
+btnRed.addEventListener('click', () => {
+  showFeedback(false);
+});
 
-## 🧠 Áreas de Interesse
-- Programação com Python
-- Modelagem e administração de banco de dados
-- Linguagem SQL e consultas avançadas
-- Análise de dados e visualização com ferramentas como Pandas e Power BI
-- Desenvolvimento backend e automação de tarefas
-- Integração de sistemas e APIs
-- Boas práticas de versionamento com Git e GitHub
-
-## 📫 Como entrar em contato
-- LinkedIn: [linkedin.com/in/davi-monteiro](https://www.linkedin.com/in/davi-monteiro/)
-- Email: admdavibarros@gmail.com
-
-## 🔗 Contribuições são bem-vindas!
-Sinta-se à vontade para abrir uma issue, propor melhorias ou colaborar diretamente com os projetos.
-
----
-
-⭐ Obrigado por visitar meu perfil e acompanhar meu trabalho!
+function showFeedback(isCorrect) {
+  if (isCorrect) {
+    soundCorrect.play();
+    document.body.style.backgroundColor = '#a6f3a6'; // verde claro
+    setTimeout(() => {
+      document.body.style.backgroundColor = '';
+    }, 1000);
+  } else {
+    soundWrong.play();
+    document.body.style.backgroundColor = '#f3a6a6'; // vermelho claro
+    setTimeout(() => {
+      document.body.style.backgroundColor = '';
+    }, 1000);
+  }
+}
+  </script>
+</body>
+</html>
+}
