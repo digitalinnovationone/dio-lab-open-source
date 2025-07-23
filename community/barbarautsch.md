@@ -7,7 +7,7 @@
 
 🎮 Apaixonada por tecnologia e videogames, iniciei minha transição de carreira para a área da programação.  
 💡 Tenho experiência com atendimento ao cliente e rotinas administrativas, e atualmente estou me especializando em **C# e .NET**.  
-
+🚀 Busco oportunidades para atuar como desenvolvedora back-end e contribuir com projetos open source.
 
 ## 📚 Em aprendizado:
 
@@ -20,8 +20,9 @@
 ## 📈 GitHub Stats
 
 ![Bárbara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=barbarautsch&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbarautsch&layout=compact&theme=radical)
 
-
+![GitHub Streak](https://streak-stats.demolab.com?user=barbarautsch&theme=radical&hide_border=false)
 
 ---
 
