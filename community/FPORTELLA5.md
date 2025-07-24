@@ -1,6 +1,6 @@
 # Fernanda Portella
 
-Cursando em Análise de Sistesmas. 
+Cursando Análise e Desenvolvimento de Sistesmas. 
 
 ### Conecte-se comigo
 
