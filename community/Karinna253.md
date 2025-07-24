@@ -4,7 +4,7 @@
 - Trabalho a 15 anos na área de telecomunicações em uma multinacional.
 
 Gosto de trabalhar e gerar insights com Dados.
-- 🌱 Atualmente estou aprendendo:
+- 🌱 Atualmente estou focada em aprender:
 
    - SQL
 
