@@ -1,4 +1,4 @@
-## Prazer, meu nome é Karina 👋
+## Prazer, meu nome é Karina Silva 👋
 
 - 🔭 Atualmente estou trabalhando como analista de planejamento.
 - Trabalho a 15 anos na área de telecomunicações em uma multinacional.
