@@ -1,7 +1,7 @@
 ## Prazer, meu nome é Karina 👋
 
 - 🔭 Atualmente estou trabalhando como analista de planejamento em uma Multinacional.
-- Meu foco é na criação de relatórios e apresentações gerenciais.
+      Minha função é na criação de relatórios e apresentações gerenciais.
 - 🌱 Atualmente estou aprendendo:
   
 <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/f4bfb833-af5c-4be5-baa7-aec578256ee7" /> 
