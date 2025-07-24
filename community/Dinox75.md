@@ -15,3 +15,21 @@ No momento, estou aprendendo:
 Meu objetivo é me formar e seguir para uma pós-graduação em Inteligência Artificial, área pela qual sou apaixonado.
 
 Se você chegou até aqui, obrigado! Espero poder contar com a comunidade nessa jornada de aprendizado e crescimento. 
+
+Hello! 👋
+My name is Vinicius, I’m 25 years old, and I’m just starting my journey in the tech world. I’m a beginner trying to understand this vast universe of code, bugs, solutions, and learning. I don’t know exactly how far I can go — anxiety and fear sometimes get in the way — but I do know that I want to go far.
+
+Even through challenges, I believe it’s possible to turn difficulties into opportunities and create something meaningful. I've already worked on some academic projects during my Associate Degree in Systems Analysis and Development, and although I’m still at the beginning, I’m eager to grow and improve.
+
+Currently learning:
+🐍 Python
+
+🌐 HTML & CSS
+
+📊 Power BI
+
+💡 And other technologies that help me bring ideas to life.
+
+My goal is to graduate and pursue a postgraduate degree in Artificial Intelligence, a field I’m truly passionate about.
+
+Thanks for stopping by! I hope to count on the support of the community as I grow and learn in this exciting journey. 💻🚀
