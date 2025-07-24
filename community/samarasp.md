@@ -70,7 +70,7 @@
 
 \- 🌍 GitHub: \[github.com/samarasp](https://github.com/samarasp)
 
-\- 📚 Digital Innovation One: \[Meu perfil na DIO](https://web.digitalinnovation.one/users/samarasp) \*(se tiver)\*
+\- 📚 Digital Innovation One: \[Meu perfil na DIO](https://web.digitalinnovation.one/users/Samara Slva) 
 
 
 
