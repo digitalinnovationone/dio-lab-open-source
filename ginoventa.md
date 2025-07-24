@@ -1,4 +1,3 @@
-
 Hello, i'm Giovanna Noventa!!
 
 # 💫 About Me: 
