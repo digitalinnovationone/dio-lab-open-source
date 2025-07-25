@@ -1,5 +1,4 @@
 # **Formação**
-
 - **Advogada**
 - **Bacharel em Direito** – UNIVEM (Marília)
 - **Tecnólogo em Comércio Exterior** – Universidade Anhembi Morumbi
