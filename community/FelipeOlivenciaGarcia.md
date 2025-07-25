@@ -15,7 +15,7 @@
 ☁️ Especialista em **Microsoft Azure** e infraestrutura cloud  
 🚀 Em transição estratégica para **Inteligência Artificial e Machine Learning**  
 ♿ **Pessoa com Deficiência Visual** (CID H54.0) - Transformando barreiras em soluções inclusivas  
-📍 Santos/SP, Brasil | 33 anos
+🇧🇷 **Brasil** | 33 anos
 
 ---
 
@@ -147,7 +147,6 @@ Liderar a revolução da **acessibilidade digital** através de:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipe-garcia-026681328/)
 [![Email](https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail)](mailto:olivencia09@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-(13)99123--0542-green?style=for-the-badge&logo=whatsapp)](https://wa.me/5513991230542)
 
 ---
 
