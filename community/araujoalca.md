@@ -4,7 +4,7 @@ Esse conteúdo faz parte do desafio de um bootcamp da DIO!
 ## Sou o André Araújo
 
 ## 🚀 Sobre mim
-Psicólogo formado, e em transição de carreira. Atualmente estudando o curso de Tecnologia em Sistemas de Computação pela Universidade Federal Fluminense.
+Psicólogo formado, e em transição de carreira. Atualmente estudando o curso de Tecnologia em Sistemas de Computação pela Universidade Federal Fluminense, e o curso Formação Web Fullstack.
 
 
 ## Contato:
