@@ -52,3 +52,4 @@ Você pode inserir: badges indicando suas habilidades; cards com suas estatísti
 
 > Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙
 
+
