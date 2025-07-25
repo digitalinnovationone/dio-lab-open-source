@@ -9,6 +9,18 @@ Repositório desenvolvido para fins didáticos, com a disponibilização de mate
 [![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
 [![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
 
+## 📚 Índice
+
+- [Objetivo](#objetivo)
+- [Ferramentas](#ferramentas)
+- [Percurso](#percurso)
+- [Desafio de Projeto da DIO](#desafio-de-projeto-da-dio)
+- [Contribua com seu Profile README](#contribua-com-seu-profile-readme)
+- [Utilitários](#utilitários)
+- [Fórum do Repositório (GitHub Discussions)](#fórum-do-repositório-github-discussions)
+- [Contribua](#contribua)
+- [Membros da comunidade que já contribuíram](#membros-da-comunidade-que-já-contribuíram)
+
 ## Objetivo
 Aprender o básico sobre contribuição no GitHub.
 
@@ -79,17 +91,18 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 [![Forks](https://img.shields.io/github/forks/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/forks)
 [![GitHub Issues](https://img.shields.io/github/issues/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/issues/)
 
- Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição além do seu exemplo de Profile README, é inserir outros utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils), ou melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/docs). <br>
- Além disso, você também pode contribuir:
- 
+Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição além do seu exemplo de Profile README, é inserir outros utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils), ou melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/docs). <br>
+Além disso, você também pode contribuir:
+
 ⚠️ Resolvendo, respondendo ou indicando **issues**
 
 ⭐ Adicionando aos favoritos (**star**) 
 
-### Membros da comunidade que já contribuiram:
+### Membros da comunidade que já contribuíram:
 <a href="https://github.com/digitalinnovationone/dio-lab-open-source/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=digitalinnovationone/dio-lab-open-source"/>
 </a>
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+"""
