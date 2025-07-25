@@ -242,8 +242,6 @@
 
 <div align="center">
 
-### 💻 "O código é poesia em movimento" 💻
-
 ⭐️ **Obrigado por visitar meu perfil!** ⭐️
 
 </div>
