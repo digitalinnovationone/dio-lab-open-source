@@ -2,7 +2,7 @@
 # Guia de Contribuição
 
 Obrigado por querer contribuir com este projeto! 🎉  
-Siga os passos abaixo para configurar seu ambiente e enviar contribuições com sucesso.
+Siga os passos abaixo para configurar seu ambiente e enviar contribuições com sucesso. 
 
 ---
 

@@ -98,7 +98,7 @@ Além disso, você também pode contribuir:
 
 ⭐ Adicionando aos favoritos (**star**) 
 
-### Membros da comunidade que já contribuíram:
+### Membros da comunidade que já contribuíram: 
 <a href="https://github.com/digitalinnovationone/dio-lab-open-source/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=digitalinnovationone/dio-lab-open-source"/>
 </a>
