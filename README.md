@@ -1,3 +1,5 @@
+<details> <summary>Clique para revelar o conteúdo oficial do README.md</summary>
+
 <h1>
   <a href="https://www.dio.me/">
     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png">
@@ -51,5 +53,4 @@ Para contribuir neste repositório, uma das formas é através da contribuição
 Você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, pode adicionar links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/).
 
 > Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙
-
-
+</details>
