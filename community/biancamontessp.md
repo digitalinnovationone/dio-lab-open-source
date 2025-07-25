@@ -1,4 +1,4 @@
-# Uma futura letrologa completamente perdida 🙃
+# Uma futura letróloga completamente perdida 🙃
 
 Olá! Me chamo **Bianca**, tenho 20 anos e estou cursando **Letras – Licenciatura em Português e Inglês**.
 
