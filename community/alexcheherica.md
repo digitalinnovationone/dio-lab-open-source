@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Olá!+%F0%9F%91%8B;Sou+a+Tchê!+%F0%9F%98%81;Sou+Desenvolvedora+FullStack+Java)](https://git.io/typing-svg)
+# Olá me chamo Alexchê Hérica, mas pode me chamar de Tchê!👩‍💻
 
-<h1>👩‍💻 Sobre mim: </h1>
+## 👩‍💻 Sobre mim:
 
-- 🎓 <strong>Graduanda</strong> em Ciências da Computação - FAM
-- ☕ <strong>Desenvolvedora FullStack Java em Formação</strong>
+- Graduanda em Ciências da Computação - FAM🎓
+- Desenvolvedora FullStack Java em Formação ☕
 
-<h2>☕ Minhas Habilidades: </h2>
+## ☕ Minhas Habilidades:
 
 <div align="left">
   
@@ -22,7 +22,7 @@
 
 <div>
   
-  <h2>📱 Redes sociais: </h2>
+  ## 📱 Redes sociais:
   <a href="https://www.linkedin.com/in/alexcheherica" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=devbox&logoColor=white" target="_blank"></a>
   <a href = "mailto:alexcheherica@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
@@ -34,5 +34,8 @@
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/alexcheherica/alexcheherica/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-    
-    
+
+### Meus Principais Desafios de Projeto DIO
+
+
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=alexcheherica&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/alexcheherica/dio-lab-open-source)
