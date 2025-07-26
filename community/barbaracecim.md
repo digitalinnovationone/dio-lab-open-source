@@ -1,5 +1,5 @@
 
-# Hey, aqui é a Bárbara! Sinta-se em casa ;)
+# Hey, aqui é a Bárbara! Sinta-se em casa. 
 
 ## Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b%C3%A1rbara-cecim-982590285/)
