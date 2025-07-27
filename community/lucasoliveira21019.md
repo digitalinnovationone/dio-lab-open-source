@@ -25,7 +25,7 @@ Minha língua nativa é o Português-BR, mas falo fluentemente Inglês e Espanho
 
 
 
-♦ Sobre a minha carreira na Tecnologia da Informcálculo
+♦ Sobre a minha carreira na Tecnologia da Informação:
 
  Iniciei minha primeira graduação na UFPE em 2022, o curso de Engenharia Química e meu primeiro contato foi programar em C no segundo período e isso gerou em mim a curiosidade para automatizar ainda mais as minhas necessidades tal qual o cálculo das minhas médias nas cadeiras da faculdade na época, por exemplo.
  Com isso, tranquei o curso e decidi iniciar uma carreira em TI cursando engenharia de software em 2024. A partir disso, conectei-me com outras linguagens de programação e sigo cada vez mais ávido para aumentar ainda mais meu conhecimento. Atualmente também estou licenciando em Química na UFPE, de forma que procura cada vez mais assimilar os conhecimentos das duas faculdades para unir o ensio da Química com a Tecnologia da Informação.
