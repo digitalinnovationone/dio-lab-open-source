@@ -1,4 +1,4 @@
-Typing SVG
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD27F7&width=435&lines=Hello+World+%3D))](https://git.io/typing-svg)
 
 Me chamo Brenda,
 Sou Engenheira de Dados com sólida experiência em modelagem, integração e tratamento de grandes volumes de informações estruturadas e não estruturadas. Atua na construção e otimização de pipelines de dados, assegurando qualidade, escalabilidade e performance. Domina ferramentas como Python, SQL, Spark e plataformas em nuvem como Azure, com foco em arquitetura orientada a dados e governança da informação.
