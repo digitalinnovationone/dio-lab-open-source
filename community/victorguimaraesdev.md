@@ -115,7 +115,7 @@
  Gosto de trabalhar tanto no front quanto no back-end.
  Curioso por natureza, estou sempre aprendendo algo novo e
  acredito que a melhor forma de evoluir é colocando a mão
- na massa. 
+ na massa. xd
  </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/victor-guimaraes-05b608275/?trk=opento_sprofile_goalscard)  
 [![E-mail](https://img.shields.io/badge/E--mail-red?logo=gmail)](mailto:victorguimaraesmax@gmail.com)
