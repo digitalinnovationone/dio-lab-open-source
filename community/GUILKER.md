@@ -1,4 +1,5 @@
 
+<img width="1080" height="653" alt="Formado em ADS" src="https://github.com/user-attachments/assets/2d46dc57-af10-406e-9dee-1529bd58cb68" />
 
 
 ## 🔗 Conecte-se comigo
