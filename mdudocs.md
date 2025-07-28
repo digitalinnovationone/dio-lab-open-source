@@ -1,4 +1,4 @@
-# ⋆˚✿˖° Oii, me chamo Maria Eduarda (mdudocs) ⋆˚✿˖°
+# ⋆˚✿˖° Oii, me chamo Maria Eduarda ⋆˚✿˖°
 
 ## ⟡ Sobre mim
 
