@@ -1,7 +1,7 @@
-# CodeWllc
+# Wallace Salvador Ferreira da Silva
 
 ## Sobre mim
-Desenvolvedor apaixonado por tecnologia e sempre em busca de novos conhecimentos! 
+Sou estudante de Engenharia da Computação, com previsão de conclusão no final de 2026. Desenvolvedor apaixonado por tecnologia e sempre em busca de novos conhecimentos! 
 Focado em desenvolvimento web e sempre explorando novas ferramentas e frameworks para criar soluções inovadoras.
 
 ### Conecte-se comigo
