@@ -12,7 +12,7 @@
 
 - Estudante dedicada, apaixonada por tecnologia  
 - Participante ativa de bootcamps, hackathons e projetos open source  
-- Interesse especial em **Java, Back, Dados e boas práticas de código**
+- Interesse especial em **Java, Back-end, Dados e boas práticas de código**
 - Adoro transformar problemas em soluções com código ❤️
 
 ---
