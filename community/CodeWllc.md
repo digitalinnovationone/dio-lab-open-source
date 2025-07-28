@@ -31,6 +31,11 @@ Tenho facilidade para aprender rápido, trabalhar em equipe e me adaptar a novas
 - Participação ativa na comunidade de desenvolvedores da DIO
 - Sempre aberto a colaborar em projetos open source
 
+### Projetos em Destaque
+- [Portfólio Pessoal](https://github.com/CodeWllc/portfolio)
+- [Sistema de Controle Acadêmico](https://github.com/CodeWllc/controle-academico)
+- [Desafios DIO](https://github.com/CodeWllc/desafios-dio)
+
 ### 🎯 Objetivos
 - Evoluir como desenvolvedor e como pessoa
 - Contribuir para projetos reais e inovadores
