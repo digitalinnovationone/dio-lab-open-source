@@ -6,10 +6,10 @@ Sou estudante de Engenharia da Computação (conclusão em 2026), apaixonado por
 Tenho facilidade para aprender rápido, trabalhar em equipe e me adaptar a novas ferramentas. Acredito que colaboração, curiosidade e ética são essenciais para o sucesso em tecnologia.
 
 ### Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewllc/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallace-salvador-ferreira-da-silva)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWllc)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:codewllc@email.com)
-[![DIO](https://img.shields.io/badge/DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/codewllc)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:contawallace@gmail.com)
+[![DIO](https://img.shields.io/badge/DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/contawallace)
 
 ### Habilidades
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
