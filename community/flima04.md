@@ -1,4 +1,4 @@
-# Olá! Sou o Fabrício Lima!
+# Olá! Sou Fabrício Lima!
 Sou designer de formação, atuo como motion designer e filmmaker e estou trilhando um caminho para ser um desenvolvedor front-end.
 
 
@@ -18,4 +18,4 @@ Sou designer de formação, atuo como motion designer e filmmaker e estou trilha
 [![GitHub Streak](https://streak-stats.demolab.com/?user=flima04&theme=tokyonight&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 ## Activity Graph
-[![Fabrício's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=flima04&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Fabrício's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=flima04&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph) 
