@@ -1,8 +1,9 @@
 # Wallace Salvador Ferreira da Silva
 
 ## Sobre mim
-Sou estudante de Engenharia da Computação, com previsão de conclusão no final de 2026. Desenvolvedor apaixonado por tecnologia e sempre em busca de novos conhecimentos! 
-Focado em desenvolvimento web e sempre explorando novas ferramentas e frameworks para criar soluções inovadoras.
+Sou estudante de Engenharia da Computação (conclusão em 2026), apaixonado por tecnologia, inovação e aprendizado contínuo. Busco desafios que me permitam crescer como desenvolvedor e contribuir para projetos que impactem positivamente a vida das pessoas.
+
+Tenho facilidade para aprender rápido, trabalhar em equipe e me adaptar a novas ferramentas. Acredito que colaboração, curiosidade e ética são essenciais para o sucesso em tecnologia.
 
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewllc/)
@@ -30,7 +31,9 @@ Focado em desenvolvimento web e sempre explorando novas ferramentas e frameworks
 - Participação ativa na comunidade de desenvolvedores da DIO
 - Sempre aberto a colaborar em projetos open source
 
-### 🎯 Objetivos 2025
-- Contribuir mais para projetos open source
-- Aprofundar conhecimentos em desenvolvimento web
-- Compartilhar conhecimento com a comunidade
+### 🎯 Objetivos
+- Evoluir como desenvolvedor e como pessoa
+- Contribuir para projetos reais e inovadores
+- Compartilhar conhecimento e aprender com a comunidade
+
+> "A tecnologia move o mundo." – Steve Jobs
