@@ -5,10 +5,10 @@ Desenvolvedor apaixonado por tecnologia e sempre em busca de novos conhecimentos
 Focado em desenvolvimento web e sempre explorando novas ferramentas e frameworks para criar soluções inovadoras.
 
 ### Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewllc/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWllc)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:SEU_EMAIL@exemplo.com)
-[![DIO](https://img.shields.io/badge/DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/SEU_USUARIO_DIO)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:codewllc@email.com)
+[![DIO](https://img.shields.io/badge/DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/codewllc)
 
 ### Habilidades
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -20,6 +20,7 @@ Focado em desenvolvimento web e sempre explorando novas ferramentas e frameworks
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWllc&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CodeWllc&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
