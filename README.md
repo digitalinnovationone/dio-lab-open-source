@@ -95,4 +95,4 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
 
 ### Alteração feita pro LinoxYoung
-- Entendendo como contribuir com projetos Open Source!
+- Entendendo como contribuir com projetos open source
