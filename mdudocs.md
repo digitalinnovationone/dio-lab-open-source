@@ -15,7 +15,6 @@
 ## ⟡ Contato
 
 - 📫 [meduarda.souza.mendes@gmail.com]
-- 💼 [www.linkedin.com/in/eduarda-mendes-aa56402a3](www.linkedin.com/in/eduarda-mendes-aa56402a3)
 - 💻 [GitHub: github.com/mdudocs](https://github.com/mdudocs)
 
 ## ⟡ Motivação
