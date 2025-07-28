@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Meu nome é Amanda Montarroios. Sou uma estudante de Ciência da Computação.<br><br>- 🔭 Já trabalhei com ciência de dados e automação.<br>- 📚 Estudo na CESAR School.<br>- ⚡ No meu tempo livre me dedico a aprimorar e aprender novas linguagens e tecnologias.
+Meu nome é Amanda. Sou uma estudante de Ciência da Computação.<br><br>- 🔭 Já trabalhei com ciência de dados e automação.<br>- 📚 Estudo na CESAR School.<br>- ⚡ No meu tempo livre me dedico a aprimorar e aprender novas linguagens e tecnologias.
 
 
 ## 🌐 Socials:
