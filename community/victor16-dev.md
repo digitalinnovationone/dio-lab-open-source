@@ -46,6 +46,7 @@ Estou aberto a colaborações em projetos Angular e oportunidades de contribuiç
 - Colaboração de códigos em Angular
 - Sugestões de melhoria em projetos open-source
 - Troca de conhecimentos sobre front-end
+- Criação de projetos open-source
 
 Me chame em:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-de-oliveira-dev/)
