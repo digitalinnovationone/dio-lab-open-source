@@ -10,12 +10,12 @@ Eu tenho 18 anos , estou cursando Gestão de Tecnologia da Informação na FATEC
 - Email pessoal:[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:duarte.maira.marques@gmail.com)
 - GitHub:[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MairaDuarte) 
 - Linkedin :[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maira-duarte-312156355/)
-- Email intitucional: maira.marques@fatec.sp.gov.br
+- Email institucional: maira.marques@fatec.sp.gov.br
 
-### Intereses:
+### Interesses:
 
 - 📘 Leitura
 - 🧵 Bordado
-- 🧶 Croche
+- 🧶 Crochê
 - 🎲 Jogos
 - 💪 Treinar
