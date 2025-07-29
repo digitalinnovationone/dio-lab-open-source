@@ -1,2 +1,0 @@
-- 👀 Estou interessado em Física Teórica
-- 🌱 Atualmente estou aprendendo Computação Quântica
