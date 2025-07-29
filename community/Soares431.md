@@ -34,7 +34,6 @@ Atualmente estou desenvolvendo meu jogo *Black Light*. Em breve, irei divulgá-l
     
 </div>
 
-
 ### Estatísticas do GitHub
 
 <div align="left">
