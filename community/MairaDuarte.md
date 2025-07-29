@@ -12,7 +12,7 @@ Eu tenho 18 anos , estou cursando Gestão de Tecnologia da Informação na FATEC
 - Linkedin :[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maira-duarte-312156355/)
 - Email intitucional: maira.marques@fatec.sp.gov.br
 
-### Intereses:
+### Interesses:
 
 - 📘 Leitura
 - 🧵 Bordado
