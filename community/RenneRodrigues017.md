@@ -11,4 +11,4 @@ Atualmente estudo **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em 
 - 🔗 **GitHub**
 - 🗄️ **SQL Server**
 
-Estou me dedicando cada vez mais para aprender 📚 e, com isso, espero conquistar uma **oportunidade de trabalho** 💼 e iniciar minha **trajetória profissional** 🚀.
+Estou me dedicando cada vez mais para aprender 📚 e,com isso, espero conquistar uma **oportunidade de trabalho** 💼 e iniciar minha **trajetória profissional** 🚀.
