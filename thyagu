@@ -1,11 +1,21 @@
-## Sua sugestão está relacionada a um problema? Por favor descreva.
-Não encontrei problemas.
+# Descrição
 
-## Descreva a solução que você gostaria
-Adicionar informações referentes a padronização dos commits no [Guia de contribuição](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md)
+Descrição da alteração que está sendo proposta.
 
-## Descreva as alternativas que você considerou
-inserir uma tabela demonstrando os tipos de commit e uma informação a respeito do seu uso.
+## Tipo de alteração
 
-Contexto adicional
-N/A
+- [x] Resolução do Desafio Profile README (envie APENAS o arquivo `community/SEU_USERNAME.md`)
+- [ ] Correção de bug
+- [ ] Nova funcionalidade
+- [ ] Alteração na documentação
+- [ ] Outro (especifique)
+
+## Checklist
+
+- [x] Minhas alterações não deletam partes do projeto
+- [x] Minhas alterações não introduzem novos problemas
+- [x] Minha contribuição está de acordo com o [Guia de Contribuição](https://github.com/elidianaandrade/dio-lab-open-source/blob/main/CONTRIBUTING.md)
+
+### Comentários adicionais
+
+Adicione aqui quaisquer comentários ou informações adicionais relevantes para o revisor.
