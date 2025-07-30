@@ -1,20 +1,16 @@
-### Olá, eu sou Venilton FalvoJr (falvojr) 👋
+# Falvojr
 
-✨ **Tech Lead** na [DIO](https://dio.me) e mestre em Engenharia de Software aplicada à Educação.
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
 
-🏢 **Atuação Profissional**
-- 🚀 Tech Lead no time de Educação da DIO
-- 🎓 Doutorando em Engenharia de Software no [ICMC-USP](https://www.icmc.usp.br/)
+## Habilidades
 
-### 📊 Estatísticas no GitHub
+<p alignitens="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWQrXmAhWQsepeh50ODdF9-IQLGQHidMcWNg&s" alt="spring" width="60" height="40"/> </a> </p>
 
-![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=falvojr&show_icons=true&theme=dracula)
 
-### 📌 Projetos em Destaque
+## GitHub Status
 
-[![Speech2Learning](https://github-readme-stats.vercel.app/api/pin/?username=falvojr&repo=speech2learning)](https://github.com/falvojr/speech2learning)
+![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelProfissional&show_icons=true&theme=tokyonight)
 
-[![Santander Dev Week 2023](https://github-readme-stats.vercel.app/api/pin/?username=falvojr&repo=santander-dev-week-2023)](https://github.com/falvojr/santander-dev-week-2023)
-### 🚀 Linguagens Mais Usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falvojr&layout=compact)
+## Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SamuelProfissional&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
