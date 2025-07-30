@@ -53,7 +53,7 @@ Crie um commit e adicione a mensagem indicando a adição do seu perfil:
 ```bash
 git commit -m"feat: add SEU_USERNAME profile"
 ```
->[!IMPORTANT]
+>[!IMPORTANTE]
 > Verifique a [`Convenção de Commits`](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md#conven%C3%A7%C3%A3o-de-commits) para escrever a mensagem do seu commit de forma clara e padronizada.
 
 ### 7) Envie as Alterações para o seu Repositório Remoto
