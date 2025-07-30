@@ -22,7 +22,7 @@ Estudante de Ciência da Computação na UFRJ, 25 anos, torcedor fanático do Fl
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wiUl&theme=transparent&bg_color=9aff9a&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=436eee&text_color=000)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wiUl&layout=compact&bg_color=000&border_color=000&title_color=436eee&text_color=000)
+
 
 ### Meus Principais Desafios de Projeto DIO
 
