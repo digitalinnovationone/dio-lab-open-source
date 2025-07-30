@@ -19,7 +19,7 @@ Adoro desafios, quebra-cabeças e resolver problemas. Sou formada em Psicologia 
 
 
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=30A3DC)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](httpsfear://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/lilianwuo)
 
 
