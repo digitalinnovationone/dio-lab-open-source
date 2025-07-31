@@ -27,9 +27,10 @@
    ![Vscode](https://img.shields.io/badge/Vscode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
 
+# GitHub Stats
 <div style="text-align: center;">
   <a href="https://github.com/williancarvalho28"/>
-  <img height="123em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williancarvalho28&layout=compact&langs_count=7&theme=black"/>
-  <img height="123em" src="https://github-readme-stats.vercel.app/api?username=williancarvalho28&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
+  <img height="123em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williancarvalho28&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="123em" src="https://github-readme-stats.vercel.app/api?username=williancarvalho28&theme=transparent&logoColor=fff&include_all_commits=true&count_private=true"/>
 </div>
-                
+
