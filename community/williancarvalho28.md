@@ -33,4 +33,3 @@
   <img height="123em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williancarvalho28&layout=compact&langs_count=7&theme=transparent"/>
   <img height="123em" src="https://github-readme-stats.vercel.app/api?username=williancarvalho28&theme=transparent&logoColor=fff&include_all_commits=true&count_private=true"/>
 </div>
-
