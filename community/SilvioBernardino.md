@@ -60,6 +60,6 @@
 ---
 
 ## 🌐 Conecte-se
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/silviobdeoliveira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/silviobernardino)
 [![Lattes](https://img.shields.io/badge/Lattes-006DAC?style=for-the-badge)](http://lattes.cnpq.br/[seu-ID])
 [![YouTube](https://img.shields.io/badge/YouTube_Musical-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/[seu-canal])
