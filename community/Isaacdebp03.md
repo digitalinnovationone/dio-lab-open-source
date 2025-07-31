@@ -66,11 +66,11 @@ Sinta-se à vontade para abrir \*issues\*, sugerir melhorias ou enviar \*pull re
 
 
 
-\- \[LinkedIn](https://www.linkedin.com/in/seu-usuario)
+\- \[LinkedIn](https://www.linkedin.com/in/isaac-de-brito-pereira-74b0bb27b)
 
-\- \[GitHub](https://github.com/seu-usuario)
+\- \[GitHub](https://github.com/Isaacdebp03)
 
-\- Email: seuemail@example.com
+\- Email: isaacdebp03@gmail.com
 
 
 
