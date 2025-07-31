@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Marilenesant-hub
 
 ##Conecte-se comigo
@@ -12,3 +13,7 @@
 ##Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Marilenesant-hub&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Marilenesant-hub/dio-lab-open-source)
 
+=======
+Olá eu sou Marilene!
+Formada em serviços jurídicos pela Unopar; estudante na DIO participando dessa comunidade maravilhosa.
+>>>>>>> 8da2658f2ef3decca5786e062feea70c220b2a9d
