@@ -1,4 +1,4 @@
-## [Olá] Eu sou Clayton Ramalho Silva
+## [Olá] Sou Clayton Ramalho Silva
 
 ### 👩‍💻 Sou Análista de Sistemas e atualmente trabalho com Desenvolvimento Web.
 
