@@ -93,3 +93,11 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+
+
+----
+-👋 Olá, me chamo Ricardo Marinho dos Santos
+
+- 🔍 Área de interesse: Tecnologia da Informação e Análise de Dados
+
+- 🚀 Meu objetivo com esta contribuição é praticar Git/GitHub e colaborar com projetos Open Source, conforme o desafio da DIO!
