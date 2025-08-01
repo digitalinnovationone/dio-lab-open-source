@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 <a href="https://app.daily.dev/andersonrodrigo"><img src="https://api.daily.dev/devcards/v2/W1HEG9lIlmUYurSmYcpqO.png?r=ii1&type=default" width="356" alt="Anderson Rodrigo Barreira's Dev Card"/></a>
 
 
-- 🔭 I’m currently working as Front End Developer in a Truck tracking company
+- 🔭 I’m currently working as Front End Developer in a Truck tracking company.
 - 🌱 I’m currently learning programming languages for front-end development.
 - 👯 I’m looking to collaborate on development with Javascript, ReactJS, NodeJS, HTML, CSS...
 - 📫 How to reach me: 
