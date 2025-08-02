@@ -1,4 +1,6 @@
-# [![Logo da DIO](https://hermes.digitalinnovation.one/assets/diome/logo-minimized.pngido para fins didáticos, com a disponibilização de materiais de apoio e exercício prático para o lab **Contribuindo em um Projeto Open Source no GitHub** da Digital Innovation One.
+# !Logo da DIO Contribuindo em um Projeto Open Source no GitHub
+
+Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio e exercício prático para o lab **Contribuindo em um Projeto Open Source no GitHub** da Digital Innovation One.
 
 !Link do Lab
 !Acesse o Lab na Plataforma
@@ -33,15 +35,29 @@ Para concluir este Desafio de Projeto, basta enviar a **URL do seu "fork" de um 
 ### Contribua com seu Profile README
 
 Para contribuir neste repositório, uma das formas é através da contribuição no diretório "**community**", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade.  
-Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem.
+Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem.  
+Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da Digital Innovation One.
+
+Inspire-se consultando os exemplos na pasta `community`, confira alguns utilitários na pasta `utils` e use sua criatividade para criar o seu 😄💙.
 
 ---
 
-### ✅ O que fazer agora
+## Utilitários Importantes
 
-1. Vá até o arquivo `README.md` no seu repositório.
-2. Clique em **"Edit this file"**.
-3. Apague tudo que você modificou e **cole o conteúdo acima**.
-4. Role até o final e clique em **"Commit changes"**.
+- Confira as instruções antes de enviar a sua contribuição em `CONTRIBUTING.md`.
 
-Depois disso, sua Pull Request será atualizada automaticamente. Me avisa quando terminar que eu olho com você se ficou certinho!
+---
+
+## Fórum do Repositório (GitHub Discussions)
+
+GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub.  
+Caso tenha dúvidas, você pode abrir uma discussão, dentro de uma categoria apropriada, na aba **"Discussions"** do repositório do projeto.
+
+⚠️ Atenção: Antes de criar uma nova discussão, verifique se sua dúvida já foi respondida em discussões anteriores. Use a função de pesquisa para encontrar tópicos relevantes.
+
+---
+
+## Contribua
+
+Este é um projeto feito para a comunidade, então sinta-se livre para contribuir.  
+Algumas formas de contribuição além do
