@@ -2,7 +2,7 @@
 
 - 🔭 Estudando Desenvolvimento de Software Multiplataforma FATEC-SJC
 - 🌱 Estudando: ReactJS, React Native, Typescript, HTML, CSS , JAVASCRIPT e alguns frameworks CSS  :D
-- 😄 Buscando sempre melhorar e aperfeiçoar meus conhecimentos
+- 😄 Buscando sempre melhorar e aperfeiçoar meus conhecimentos.
 
 <div align="center">
   <a href="https://github.com/vbuarque">
