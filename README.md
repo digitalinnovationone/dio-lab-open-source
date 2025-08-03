@@ -4,6 +4,13 @@
     <span> Contribuindo em um Projeto Open Source no GitHub</span>
 </h1>
 
+// info : 
+NOME : PEDRO HENRIQUE CORRÊA MELLO
+CURSO : ADS 
+INSTITUIÇÃO : IFSC CÂMPUS GASPAR
+ANO : 2021.1 -- 
+CONHECIMENTO : LÓGICA DE PROGRAMAÇÃO E SQL
+
 Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio e exercício prático para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
 
 [![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
@@ -47,6 +54,7 @@ Aprender o básico sobre contribuição no GitHub.
 ---
 ## Desafio de Projeto da DIO
 Agora que você já sabe as formas de contribuir em um projeto Open Source, está na hora de colocar em prática o seu conhecimento sobre contribuição no GitHub! <br>
+<p>CONTEÚDO DE TREINO PARA PRÁTICA DO BOOTCAMP WEX WEB DIO</p>
 Para concluir este Desafio de Projeto, basta enviar a **URL do seu "fork" de um projeto Open Source que você contribuiu** para a entrega do desafio na plataforma [DIO](https://www.dio.me/).
 
 > [!NOTE]   
