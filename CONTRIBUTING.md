@@ -80,7 +80,7 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 ## Convenção de Commits 
 
 | Tipo de Commit |Descrição                                                            | 
-| ---------------|----------------------------------------------------------------------|
+| ---------------|----------------------------------------------------------------------| 
 | `feat`         | Adiciona uma nova funcionalidade ao projeto.                         |
 | `fix`          | Corrige um bug ou problema no projeto.                               | 
 | `docs`         | Altera a documentação do projeto.| `docs: update README.md`
