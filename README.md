@@ -50,7 +50,7 @@ Agora que você já sabe as formas de contribuir em um projeto Open Source, est�
 Para concluir este Desafio de Projeto, basta enviar a **URL do seu "fork" de um projeto Open Source que você contribuiu** para a entrega do desafio na plataforma [DIO](https://www.dio.me/).
 
 > [!NOTE]   
-> Por exemplo, a URL https://github.com/falvojr/dio-lab-open-source é o "**fork**" feito pelo usuário do GitHub "`falvojr`" para a contribuição no repositório `dio-lab-open-source`.
+> Por exemplo, a URL https://github.com/community/OliveiraMonica2710/dio-lab-open-source é o "**fork**" feito pelo usuário do GitHub "`community/OliveiraMonica2710`" para a contribuição no repositório `dio-lab-open-source`.
 
 ### Contribua com seu Profile README
 Para contribuir neste repositório, uma das formas é através da contribuição no diretório "**community**", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. <br>
@@ -82,7 +82,7 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
  Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição além do seu exemplo de Profile README, é inserir outros utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils), ou melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/docs). <br>
  Além disso, você também pode contribuir:
  
-⚠️ Resolvendo, respondendo ou indicando **issues**
+`feat: add OliveiraMonica2710.md profile`
 
 ⭐ Adicionando aos favoritos (**star**) 
 
