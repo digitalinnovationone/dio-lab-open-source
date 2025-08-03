@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #EB9326">Daniel dos Santos Chaves</h1>
 <p align="center">Sou conhecido por <b style="color: #EB9326">Chaves</b> e estou cursando Análise e Desenvolvimento de Sistemas no IFRS - Campus Osório</p>
 
-<h2 align="center"> 🔌Conecte-se comigo / Connect with me </h2>
+<h2 align="center"> 🔌Conectee-se comigo / Connect with me </h2>
 
 <div align="center">
 
