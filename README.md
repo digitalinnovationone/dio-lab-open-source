@@ -93,3 +93,14 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+
+
+## Como Contribuir em um repositório
+
+Estamos muito felizes em receber sua contribuição! Siga os passos abaixo para contribuir com o nosso projeto:
+
+1. **Faça um fork do repositório**: Clique no botão "Fork" no canto superior direito da página.
+2. **Clone o repositório forkado**:
+   ```bash
+   git clone https://github.com/seu_usuario/dio-lab-open-source.git
+
