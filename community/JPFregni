@@ -1,0 +1,15 @@
+Criar uma categoria no Readme do projeto principal adicionando os comandos de convenção de commits:
+
+🏷️ Tipos comuns de commit
+Tipo	Descrição
+feat	Adição de nova funcionalidade
+fix	Correção de bug
+docs	Alterações na documentação
+style	Alterações de formatação (espaços, indentação, ponto e vírgula etc.) que não afetam o código
+refactor	Refatoração de código que não corrige bugs nem adiciona funcionalidades
+perf	Melhorias de performance
+test	Adição ou alteração de testes
+build	Mudanças que afetam o sistema de build ou dependências externas
+ci	Mudanças em configurações de integração contínua
+chore	Outras mudanças que não se encaixam nas categorias acima
+revert	Reverte um commit anterior
