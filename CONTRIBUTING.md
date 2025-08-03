@@ -88,8 +88,72 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
 | `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
 
+## Bônus de aprendizado: 
+Aprenda a personalizar sua Página GitHub. Essa é uma ótima maneira de apresentar suas skills, projetos, redes sociais e estatísticas do GitHub, além de mostrar profissionalismo para quem visitar seu perfil.
+
+🚀 Como fazer
+Crie um repositório com exatamente o mesmo nome do seu usuário no GitHub.
+
+No repositório, crie um arquivo chamado README.md.
+
+Edite esse arquivo com as informações que deseja exibir. Você pode usar Markdown, HTML e até ferramentas externas como badges e cards.
+
+Tudo certo! Assim que você fizer o push, esse conteúdo será exibido diretamente na sua página de perfil.
+
+💡 Exemplo
+Veja abaixo um exemplo real de personalização de perfil (baseado no usuário @kisogui):
+
+<h1 align="center">Eae! Eu sou o Guilherme Quirino 👋</h1>
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kisogui&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisogui&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+### 🔧 Minhas Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,dotnet,csharp" />
+</p>
+
+---
+
+### 🌐 Me encontre por aí
+<p align="center">
+  <a href="https://instagram.com/(coloque seu usuario)" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:(coloque seu email)@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/(coloque seu usuario)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+### 📁 Projeto em Destaque
+
+- [**Portfolio**]()  
+  🖼️ Meu portfólio pessoal com HTML + CSS (Flexbox, Grid e responsividade)
+
+---
+
+### 📫 Sobre mim
+
+🎓 Estudante na Universidade Veiga de Almeida (Rio de Janeiro)  
+🌱 Aprendendo: JavaScript & C# .NET  
+🎯 Objetivo: Me tornar um desenvolvedor full-stack
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=380&lines=Bem-vindo+ao+meu+GitHub!;Sinta-se+à+vontade+para+explorar!" />
+</div>
+
+
+Você pode usar esse exemplo como ponto de partida e adaptar com suas próprias informações. E assim montar seu profile de maneira mais profissional e destacada.
 
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
 - [CONVENTIONAL COMMITS. Summary](https://www.conventionalcommits.org/en/v1.0.0/)
 - [GITHUB. Configurar diretrizes para os contribuidores do repositório](https://docs.github.com/pt/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
+
+
