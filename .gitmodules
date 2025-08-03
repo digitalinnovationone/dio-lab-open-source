@@ -1,0 +1,3 @@
+[submodule "dio-lab-open-source"]
+	path = dio-lab-open-source
+	url = https://github.com/rcdrodrigues/dio-lab-open-source.git
