@@ -91,5 +91,8 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
   <img src="https://contrib.rocks/image?repo=digitalinnovationone/dio-lab-open-source"/>
 </a>
 
-##
-<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+## Contribuidores
+
+- Cleriston da Silva Rocha 💻 Contribuição feita com base no desafio da DIO!
+
+<div align="center">Feito com ♡ por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
