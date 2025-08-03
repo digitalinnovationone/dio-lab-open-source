@@ -1,0 +1,31 @@
+name: Git Garbage Collection
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"  # Executa todo domingo à meia-noite (UTC)
+  workflow_dispatch:  # Permite rodar manualmente pelo GitHub Actions
+
+jobs:
+  run-gc:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Clona o repositório inteiro
+
+      - name: Configurar usuário Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Rodar Garbage Collection
+        run: |
+          git gc --aggressive
+          git repack -Ad
+
+      - name: Commit e Push das otimizações
+        run: |
+          git add -A
+          git commit -m "Otimização automática: Garbage Collection e Repack"
+          git push origin HEAD || echo "Nenhuma mudança para enviar"
