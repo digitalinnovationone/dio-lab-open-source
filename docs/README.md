@@ -7,6 +7,9 @@
 ## Sobre o Projeto
 Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Lembre-se de que Markdown é mais voltado para a documentação e apresentação de texto formatado, enquanto a remoção de bugs normalmente envolve a compreensão detalhada do código e o uso de ferramentas de desenvolvimento adequadas à linguagem de programação específica.
 
+## About the Project
+Page developed for educational purposes for the course **Contributing to an Open Source Project on GitHub** [Digital Innovation One](https://www.dio.me/). Keep in mind that Markdown is more focused on documentation and presenting formatted text, while debugging typically involves understanding the code in detail and using development tools appropriate to the specific programming language.
+
 [![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
 
 ```
