@@ -57,6 +57,34 @@ Para contribuir neste repositório, uma das formas é através da contribuição
 Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
  Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
 
+ 
+
+---
+
+### Primeiros passos rápidos
+
+Quer contribuir, mas não tem paciência pra ler tudo? Aqui vai um guia express:
+
+```bash
+# 1. Fork o repositório (use o botão lá em cima)
+
+# 2. Clone o seu fork
+git clone https://github.com/seu-usuario/dio-lab-open-source.git
+cd dio-lab-open-source
+
+# 3. Crie uma nova branch para sua contribuição
+git checkout -b sua-contribuicao
+
+# 4. Faça suas alterações no diretório /community
+
+# 5. Adicione, commit e envie
+git add .
+git commit -m "feat: adiciona meu profile README na pasta community"
+git push origin sua-contribuicao
+
+# 6. Abra um Pull Request no repositório original
+```
+
 #### Utilitários
 
 [![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
