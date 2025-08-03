@@ -11,6 +11,18 @@ Repositório desenvolvido para fins didáticos, com a disponibilização de mate
 
 ## Objetivo
 Aprender o básico sobre contribuição no GitHub.
+Por que Contribuir?
+
+Ao contribuir para este projeto, você:
+
+- Ganha experiência prática em contribuição para projetos open source.
+- Aprimora suas habilidades de Git e GitHub.
+- Colabora com uma comunidade de aprendizado e crescimento.
+- Constrói um Profile README único para se destacar na comunidade.
+- Faz parte de uma rede de desenvolvedores apaixonados por compartilhar conhecimento.
+
+Sua contribuição não apenas aprimora este projeto, mas também contribui para o desenvolvimento pessoal e profissional de toda a comunidade. Venha fazer parte!
+
 
 ## Ferramentas
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
