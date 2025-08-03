@@ -93,3 +93,18 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+# Meu Perfil no GitHub
+
+Olá! Sou Pedro Henrique de Oliveira Silveira, um desenvolvedor de software.
+
+## Projetos
+Ola, sou o Pedro Henrique!
+
+## Redes Sociais
+
+- [GitHub](https://github.com/deoliveiraph)
+- [Instagram](https://www.instagram.com/p_eagaa)
+
+## Objetivo
+
+Aprender e contribuir para projetos Open Source
