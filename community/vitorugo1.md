@@ -4,6 +4,11 @@
   Buscando me aprimorar em backend.
 </p>
 
+### Conecte-se comigo:
+<p align="left">
+  <a href="https://github.com/vitorugo1" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="vitorugo1" /></a>
+</p>
+
 ---
 
 <div align="center">
