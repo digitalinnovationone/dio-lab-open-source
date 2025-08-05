@@ -1,0 +1,66 @@
+Adicionar um arquivo a um repositório no GitHub
+Os arquivos que você adiciona a um repositório por meio do navegador são limitados a 25 MiB por arquivo. É possível adicionar arquivos maiores, de até 100 MiB cada um, usando a linha de comando. Para obter mais informações, confira Como adicionar um arquivo a um repositório usando a linha de comando. Para adicionar arquivos maiores que 100 MiB, você deverá usar Git Large File Storage. Para saber mais, confira Sobre arquivos grandes no GitHub.
+
+É possível fazer upload de vários arquivos no GitHub ao mesmo tempo.
+
+Se um repositório tiver algum branch protegido, você não poderá editar ou enviar arquivos no branch protegido usando o GitHub. Você pode usar GitHub Desktop para mover suas alterações para um novo branch e fazer commit das mesmas. Para saber mais, confira Sobre branches protegidos e Fazer commit e revisar as alterações no seu projeto no GitHub Desktop.
+
+O seu repositório pode ter conjuntos de regras por push habilitados. Os conjuntos de regras por push podem bloquear a criação de um novo arquivo no repositório com base em determinadas restrições. Os conjuntos de regras por push aplicam-se a toda a rede de bifurcação do repositório. O que significa que todos os conjuntos de regras por push configurados no repositório raiz também se aplicarão a cada bifurcação do repositório. Para saber mais, confira Sobre os conjuntos de regras.
+
+O repositório pode ser protegido por proteção contra push. Com a proteção contra push, o GitHub realizará o bloqueio do upload de um arquivo para o repositório se o arquivo contiver um segredo com suporte, como um token. Você deve remover o segredo do arquivo antes de tentar fazer o upload dele novamente. Para saber mais, confira Trabalhar com proteção de push na interface do usuário do GitHub e Trabalhar com proteção de push na interface do usuário do GitHub.
+
+Observação
+
+A proteção por push para uploads de arquivos na interface do usuário da Web está atualmente em versão prévia pública e sujeita a alterações.
+
+Aviso
+
+Use o Git para enviar arquivos por push ao repositório se precisar aplicar a lógica em seu arquivo .gitattributes. Por exemplo, conversão automática de terminações de linha. O carregamento de um arquivo por meio da interface da Web do GitHub ignorará .gitattributes.
+
+Em GitHub, acesse a página principal do repositório.
+
+Acima da lista de arquivos, selecione o menu suspenso Adicionar arquivo e clique em Carregar arquivos. Como alternativa, você pode arrastar e soltar arquivos no navegador.
+
+Captura de tela da página principal de um repositório. Acima da lista de arquivos, um botão, rotulado como "Adicionar arquivo", é destacado em laranja escuro.
+Para selecionar os arquivos que você deseja carregar, arraste e solte o arquivo ou pasta ou clique em escolher seus arquivos.
+
+No campo "Mensagem do commit", digite uma mensagem curta e relevante que descreva a alteração que você fez no arquivo. Você pode atribuir o commit a mais de um autor na mensagem de commit. Para saber mais, confira Criar um commit com vários autores.
+
+Abaixo dos campos de mensagem do commit, opte por adicionar o commit ao branch atual ou a um novo branch. Se seu branch atual for o branch-padrão, você deverá optar por criar um novo branch para seu commit e, em seguida, criar um pull request. Para saber mais, confira Como criar uma solicitação de pull.
+
+Captura de tela de uma solicitação de pull do GitHub que mostra um botão de opção para fazer commit diretamente na ramificação principal ou para criar um branch. O novo branch está selecionado.
+Clique em Propor alterações.
+
+Adicionar um arquivo a um repositório usando a linha de comando
+Você pode fazer o upload e o commit de um arquivo existente em um repositório no GitHub usando a linha de comando.
+
+Dica
+
+Você também pode adicionar um arquivo existente a um repositório por meio do site do GitHub.
+
+Esse procedimento pressupõe que você já:
+
+Tenha criado um repositório no GitHub ou já tenha um repositório pertencente a outra pessoa no qual deseja contribuir
+Tenha clonado o repositório localmente no computador
+Aviso
+
+Nunca use git add, commit ou push com informações confidenciais, por exemplo senhas ou chaves de API, para um repositório remoto. Se você já tiver adicionado essas informações, confira Remover dados confidenciais de um repositório.
+
+No seu computador, mova o arquivo que deseja fazer upload no GitHub para o diretório local que foi criado quando o repositório foi clonado.
+
+Abra Git Bash.
+
+Mude o diretório de trabalho atual para o seu repositório local.
+
+Prepare a arquivo para commit em seu repositório local.
+
+$ git add .
+# Adds the file to your local repository and stages it for commit. Para cancelar o preparo de um arquivo, use 'git reset HEAD ARQUIVO'.
+Faça commit do arquivo que você preparou no repositório local.
+
+$ git commit -m "Add existing file"
+# Commits the tracked changes and prepares them to be pushed to a remote repository. Para remover esse commit e modificar o arquivo, use "git reset --soft HEAD~1", faça o commit e adicione o arquivo novamente.
+Efetue push das alterações no repositório local para o GitHub.com.
+
+$ git push origin YOUR_BRANCH
+# Pushes the changes in your local repository up to the remote repository you specified as the origin
