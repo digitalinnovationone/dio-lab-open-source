@@ -1,5 +1,5 @@
 ## Seja Bem-vindo!
-Olá me chamo Luan Henrique Saueressig, estou começando meus estudos na area da programaçao em busca de novas oportunidades de trabalho, junto com a adiçao de conhecimento extra para minha carreira profissional. 📚
+"Olá, meu nome é Luan Henrique Saueressig. Estou começando meus estudos na área da programação, em busca de novas oportunidades de trabalho, junto com a aquisição de conhecimento extra para minha carreira profissional. 📚
 
 ## Meus contatos 📞
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-saueressig-369176379/)
