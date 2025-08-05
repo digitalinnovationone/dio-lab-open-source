@@ -31,7 +31,7 @@ Embora meus projetos mais detalhados estejam em meus repositórios específicos,
 
 ---
 
-## 🤝 Conecte-se Comigo
+## 🤝 Conecte-se Comigo  
 
 Sinta-se à vontade para me contatar ou seguir para saber mais sobre meu trabalho!
 
