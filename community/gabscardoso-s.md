@@ -1,6 +1,6 @@
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="35%">
-
 ## <img width='32px' src='https://user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUxMjM1MTksIm5iZiI6MTc0NTEyMzIxOSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDIwVDA0MjY1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEzMjI3NmM1Y2Q2ZDJkNGZkNWVkYjlmN2QyODY1MGRjNGIzMjBlM2QxOWE2Y2U5OTZkOGYxOWRlNmIyYzM1NGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YkltcyQn1gZmcSIZG7l4yE053GK3cl9DFGgl4zFB-1M'/> I’m a full-stack student at the start of my carrer
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
 
 - ⚡ **Electronics** Technician at Etec CCS
 - 🧑‍💻 Graduating in **Systems Analysis and Development** at Fatec Zona Sul
@@ -15,8 +15,7 @@
 <div align='center'>
     <a href="https://www.linkedin.com/in/gabriel-carduus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
     <a href = "mailto:g.c.souza91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://github.com/gabscardoso-s"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-    "></a>
+    <a href="https://github.com/gabscardoso-s"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 ## 💻 My Skills
@@ -66,8 +65,8 @@ It allows users to register gastronomic locations on a map created with Leaflet.
 - 🧠 Nerd stuff: tech, anime, theories, games
 - ✍️ Writing reflections, poems, and life thoughts
 - 🎧 Music, streetwear, old-school vibes, and deep talks
-  <br>
 
+<br>
 <div align=center>
 
 ### ✍️ Random Dev Quote
