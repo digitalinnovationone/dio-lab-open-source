@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://Instagram.com/arthurleaoo_/)
 
 # Sobre:
-Olá, tudo bem? Meu nome é Arthur e sou estudante universitário e amo programar. Estudo programação para Web a um tempo Atualmente estou fazendo o BootCamp da Dio de Full-Stack Java.
+Olá, tudo bem? Meu nome é Arthur e sou estudante universitário. Estudo programação para Web a um tempo Atualmente estou fazendo o BootCamp da Dio de Full-Stack Java
 
 
 ### Tecnologias que eu utilizo:
