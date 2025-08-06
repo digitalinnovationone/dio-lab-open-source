@@ -8,7 +8,7 @@ Desenvolvedor .NET buscando minha primeira experiência na área. Também tenho 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:eduardoalsilva45@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/eduardo-almeida-da-silva-dev//)
 
-## 💻 Habilidades
+## 📚 Habilidades
 
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
@@ -22,6 +22,6 @@ Desenvolvedor .NET buscando minha primeira experiência na área. Também tenho 
 ![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-## 📚 GitHub stats
+## 💻 GitHub stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardoalsilva&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D&text_color=#)](https://github.com/eduardoalsilva) 
