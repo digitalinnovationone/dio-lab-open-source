@@ -8,6 +8,7 @@ de sistemas computacionais de informação.
 - Experiência com as tecnologias Java, Spring Boot, Oracle (SQL e PL/SQL), Linux e Shell Script,
 serviços web utilizando SOAP/XML e REST/JSON.
 
+
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devlyn19/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lyndev-97) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:layon.oliveira.lyn@gmail.com) [![E-mail](https://img.shields.io/badge/-Outlook-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:layon.oliveira.lyn@outlook.com.br)
 
