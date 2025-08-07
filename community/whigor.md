@@ -1,1 +1,0 @@
-Bem, sou Whigor, novo na área e apenas quero aprender a programar. Se alguém estiver vendo isso, não está curto por má vontade, mas sim pra economizar tempo. Vou aprender a programar em Python e vamos ver o que vem depois.
