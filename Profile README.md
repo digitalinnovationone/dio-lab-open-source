@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f98ffb&size=20&center=true&vCenter=true&width=1000&lines=-+Oii!;)](https://git.io/typing-svg)
 
-## Oii  sou eu, a Larissa 😁
+## Oii, eu sou a Larissa 😁
 
 <div>
   
