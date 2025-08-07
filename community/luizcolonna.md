@@ -8,7 +8,7 @@ Olá! Me chamo Luiz Colonna e estou começando minha jornada como desenvolvedor.
 - Python
 - SQL
 
-## 📚 Interesses
+## 📚 Interesses:
 - Desenvolvimento Web
 - Inteligência Artificial
 - Projetos open source
