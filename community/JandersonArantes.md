@@ -1,4 +1,4 @@
-# Janderson Alves de Arantes
+# Janderson Arantes
 
 ## Conecte-se comigo
 <!-- Caso a imagem não aparece, fica a alternativa de exibir o texto [LinkedIn] -->
