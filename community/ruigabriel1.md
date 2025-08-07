@@ -79,7 +79,6 @@ Sou reconhecido pela minha **adaptação rápida**, empatia, eficiência e atua�
 
 ---
 
-<!-- SVG animado da cobrinha, mostra atividade de contribuições no GitHub -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
-</div>
+### 🐍 Snake com minhas contribuições
+
+![snake gif](https://ruigabriel1.github.io/github-snake/dist/tech-snake.gif)
