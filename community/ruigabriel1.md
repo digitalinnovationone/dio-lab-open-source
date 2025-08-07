@@ -1,3 +1,4 @@
+<!-- Titulo do README -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=400&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Ol%C3%A1%2C+eu+sou+Rui+Gabriel!+;Estudante+mago+da+tecnologia%F0%9F%A7%99" alt="Typing SVG" />
@@ -25,11 +26,11 @@ Sou **Rui Gabriel**, atualmente Analista de TI (estágio) na Norsk Hydro, com do
 
 Tenho experiência em:
 - Registro, categorização e escalonamento de tickets (hardware, software, rede, impressoras, sistemas corporativos)
-- Administração de usuários via **Active Directory** e GPOs
-- Gerenciamento de permissões e acessos
-- Projetos de monitoramento de infraestrutura com **Zabbix** e painéis no **Grafana**
-- Implantação do sistema **S.I.M Next (Intelbras)** para câmeras IP e DVRs
-- Documentação de processos e apoio técnico à equipe
+- Administração de usuários via **Active Directory** e GPOs;
+- Gerenciamento de permissões e acessos;
+- Projetos de monitoramento de infraestrutura com **Zabbix** e painéis no **Grafana**;
+- Implantação do sistema **S.I.M Next (Intelbras)** para câmeras IP e DVRs;
+- Documentação de processos e apoio técnico à equipe.
 
 Sou reconhecido pela minha **adaptação rápida**, empatia, eficiência e atuação sob alta demanda. Prezo pela gentileza no ambiente de trabalho, sabendo ouvir e comunicar nos momentos certos, o que contribui para minha rápida aprendizagem e integração com a equipe. Também possuo **inglês intermediário**.
 
@@ -38,7 +39,6 @@ Sou reconhecido pela minha **adaptação rápida**, empatia, eficiência e atua�
 ## 📊 Hard Skills
 
 <!-- Gráfico radar gerado por quickchart.io, mostra domínio em cada hard skill -->
-<!-- COPIE O CÓDIGO ABAIXO PARA USAR O GRÁFICO DE HARD SKILLS DIRETAMENTE NO README -->
 <p align="center">
   <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Suporte%20T%C3%A9cnico%22%2C%22.NET%22%2C%22Zabbix%22%2C%22Grafana%22%2C%22Active%20Directory%22%2C%22ServiceNow%22%2C%22Redes%22%2C%22Windows%20%26%20Linux%22%2C%22Git%22%2C%22GitHub%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22N%C3%ADvel%22%2C%22data%22%3A%5B99%2C80%2C85%2C80%2C75%2C90%2C80%2C75%2C70%2C70%5D%2C%22backgroundColor%22%3A%22rgba(0%2C191%2C255%2C0.3)%22%2C%22borderColor%22%3A%22rgba(0%2C191%2C255%2C1)%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%7D%7D%7D&format=png&w=500&h=500" alt="Hard Skills Radar" width="350"/>
 </p>
@@ -58,7 +58,6 @@ Sou reconhecido pela minha **adaptação rápida**, empatia, eficiência e atua�
 ## 💡 Soft Skills
 
 <!-- Gráfico de barras via quickchart.io, mostra soft skills desenvolvidas -->
-<!-- COPIE O CÓDIGO ABAIXO PARA USAR O GRÁFICO DE SOFT SKILLS DIRETAMENTE NO README -->
 <p align="center">
   <img src="https://quickchart.io/chart?c={type:%27bar%27,data:{labels:[%27Comunica%C3%A7%C3%A3o%27,%27Respeito%27,%27Aprendizagem%20R%C3%A1pida%27,%27Empatia%27,%27Trabalho%20em%20Equipe%27,%27Gest%C3%A3o%20de%20Tempo%27],datasets:[{label:%27N%C3%ADvel%27,data:[95,98,97,95,93,90],backgroundColor:%27rgba(0,191,255,0.7)%27}]},options:{plugins:{legend:{display:false}}}}&format=png&w=450&h=300" alt="Soft Skills Bar" width="350"/>
 </p>
