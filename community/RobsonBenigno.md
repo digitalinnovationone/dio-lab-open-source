@@ -16,8 +16,8 @@ Atualmente, estou focado no aprendizado em **Front-end** e construindo projetos 
 - Versionamento de código com Git
 
 ## 📫 Onde me encontrar
-- [GitHub](https://github.com/RobsonSanthana)
-- [LinkedIn](https://www.linkedin.com/in/robson-santhana) <!-- Coloque seu link real -->
+- [GitHub](https://github.com/RobsonBenigno)
+- [LinkedIn](https://www.linkedin.com/in/robson-santana-7bba37189/)
 
 ---
 *"Sempre aprendendo, sempre evoluindo."*
