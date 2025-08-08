@@ -1,3 +1,0 @@
-MagoCMD é um entusiasta da tecnologia que sempre teve curiosidade por programação e desenvolvimento de software. Sua jornada começou com a paixão por entender como os sistemas funcionam, explorando comandos e scripts para automatizar tarefas. Aos poucos, ele mergulhou no mundo do desenvolvimento, estudando linguagens de programação e frameworks modernos.
-
-Agora, MagoCMD está focado em se tornar um desenvolvedor, aprendendo constantemente e criando projetos para aprimorar suas habilidades. Seu objetivo é dominar as principais tecnologias do mercado e construir soluções inovadoras que facilitem a vida das pessoas. 💻✨
