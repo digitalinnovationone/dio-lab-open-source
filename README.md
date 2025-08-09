@@ -94,4 +94,4 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
 
-📚 Interessado também em Java, Spring Boot, SQL e AWS
+📚 Interessado também em Java, GO, SQL e AWS 
