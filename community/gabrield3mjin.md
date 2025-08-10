@@ -1,6 +1,6 @@
 # Gabriel Carvalho de Sousa
 
-Estudante de Sistemas de Informa??o pela UNIRIO
+Estudante de Sistemas de Informação pela UNIRIO
 
 ## Conecte-se comigo
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge\&logo=gmail\&logoColor=red)](mailto:carvalhods)
