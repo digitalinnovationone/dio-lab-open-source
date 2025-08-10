@@ -1,4 +1,4 @@
-👋 Oi! Eu sou a Thayna (aka Thay-dev)
+👋 Oi! Eu sou a Thayna (user Thayna-dev)
 
 🚀 Atualmente em aprendizado na DIO, focando em Python — sempre evoluindo!
 
