@@ -1,7 +1,7 @@
 <h1 align="center">Diego Câmara Moura</h1>
 
 <p align="center">
-  <b>Desenvolvedor Full Stack</b> | C# • .NET • Angular • Node.js
+  <b>Desenvolvedor Full Stack</b> | C# • .NET • Angular • Node.js • Typescript • React
 </p>
 
 <p>
