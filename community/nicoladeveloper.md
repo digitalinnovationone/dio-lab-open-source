@@ -1,4 +1,3 @@
-# Repositório Local Depois do Clone
 
 Descrição inserida depois do clone
 #nicoladeveloper
