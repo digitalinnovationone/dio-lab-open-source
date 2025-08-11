@@ -4,7 +4,7 @@
     <img src="https://i.imgur.com/lLgFHgF.png" alt="Foto Perfil" style="border-radius: 15px;">
 </div>
 
-## 💻Olá mundo!!!
+## 💻Olá mundo!
 <p style="text-align: justify; font-family: monospace; font-weith; background-color:#000;border: 3px solid #30A3DC; padding: 7px">
 Sou apaixonado por tecnologia e pela forma como ela pode transformar ideias em soluções práticas. Atualmente, venho me aprofundando no desenvolvimento web, com foco em HTML5 e CSS3, além de programação em Python.<br><br>
 Também possuo ampla experiência em análise e visualização de dados, utilizando Excel avançado e Power BI para transformar informações complexas em insights claros e acionáveis.
