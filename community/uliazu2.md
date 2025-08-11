@@ -3,8 +3,8 @@
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulisses915/)
-![DIO](https://img.shields.io/badge/DIO.ME-0077B5?style=for-the-badge&logo=dio&logoColor=white)
- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uliazu2) 
+[![DIO](https://img.shields.io/badge/DIO.ME-0077B5?style=for-the-badge&logo=dio&logoColor=white)](https://www.dio.me/users/uli_felix8484)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uliazu2) 
 ## Habilidades
 
 |Linguagens de Programação|
@@ -34,4 +34,4 @@
 
 ## Minhas contribuições
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uliazu2&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
