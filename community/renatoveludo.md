@@ -57,7 +57,6 @@
 ## 📚 Desafios e Artigos na DIO
 
 📌 [Meu perfil na DIO](https://www.dio.me/users/matiasveludo)  
-*(Adicione aqui os links para desafios e artigos quando publicados)*
 
 ---
 
