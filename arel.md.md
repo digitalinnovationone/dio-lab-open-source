@@ -57,3 +57,4 @@ Atuo com **suporte a sistemas, análise de dados, BI, automação** e **SQL**, a
 ---
 
 ⭐ _"Sempre aprendendo, sempre evoluindo."_
+
