@@ -1,7 +1,7 @@
 <h1 align="center">Tony Gabriel</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI/">
+  <a href="https://www.linkedin.com/in/antonio-gabriel-samalombo-9123a7353/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/tonygabriel60">
