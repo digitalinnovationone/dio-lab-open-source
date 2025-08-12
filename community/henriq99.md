@@ -16,5 +16,5 @@
    
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/henrique-brizola-guimarães-45b44b23a)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/henrique-brizola-guimar%C3%A3es-45b44b23a/)
 
