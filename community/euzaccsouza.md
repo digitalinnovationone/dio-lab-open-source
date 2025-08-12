@@ -5,21 +5,15 @@
     <div align="center">
       <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a6a6a6&height=120&section=header"/> 
     </div>
-    <div align="center">
-      <a href="https://git.io/typing-svg"><img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=434c5e &text=Sejam+Bem+Vindos!&animation=fadeIn&gradientColors=B993D6,8CA6DB&animation=fadeIn&fontColor=a6a6a6" alt="Typing SVG" /></a>
-    </div>
   </div>
-  
-  <hr>
   
   <div align="center"> <!--EuSouZaqueuSouzaJr-->
     <div align="center">
-      <h3 style="font-size: 26px; color: #FFFFFF;" >💻 Sobre 💻</h3>
       <br>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=9000&color=a6a6a6&center=true&size=40&Center=True&width=1000&height=80&lines=Olá!+Eu+sou+Zaqueu+Souza+Jr.+💻!" alt="Typing SVG" /></a>
       <br>
     </div>
-    <div align="center"> <!--Sobre Min-->
+    <div align="center"> <!--Sobre Mim-->
         <p align="right"><img style="max-width: 100%; height: auto; width: 280px; border-radius: 8%" src="https://i.imgur.com/h6wNYDy.png"/></p>
         <p align="left">
           🌍 <em>Sou de Recife, Pernambuco<br>
