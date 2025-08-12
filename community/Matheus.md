@@ -1,4 +1,4 @@
-# Olá! Eu sou o Matheus 👋
+# Olá! Eu sou o Matheus, Desenvolvedor Front End
 
 # Sobre mim
 Estudante de análise e desenvolvimento de sistemas e Desenvolvedor Front End.
