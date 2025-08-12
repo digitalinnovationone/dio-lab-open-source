@@ -1,34 +1,59 @@
-# Julio Santana
+# 👋 Olá, eu sou Julio Santana
 
-## Conecte -se comigo 
+💻 **Analista de Sistemas | Analista de Dados | Suporte Técnico**  
+🚀 Apaixonado por tecnologia, dados e soluções inovadoras.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/julio-santana-0b735236)
+---
 
-## Habilitades 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arel18)
+## 📌 Sobre mim
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arel18&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+Tenho experiência desde 2012 na área de tecnologia, com formação em **Redes de Computadores** e constante atualização em novas ferramentas e linguagens.  
+Atuo com **suporte a sistemas, análise de dados, BI, automação** e **SQL**, além de ter mais de **3 anos de experiência em trabalho remoto**, com forte autogestão e proatividade.
 
-## Card - Linguagens mais usadas 
+---
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arel18&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+## 🛠 Habilidades Técnicas
 
-## Minha contribuições
+- **Bancos de Dados:** SQL Server, MySQL  
+- **Análise e Visualização de Dados:** Power BI, Tableau, Excel Avançado  
+- **Linguagens de Programação:** Python, VBA, SQL  
+- **Ferramentas e Plataformas:** Databricks, Git, GitHub, Google Sheets, Microsoft Office 365  
+- **Soft Skills:** Comunicação, Trabalho em Equipe, Resolução de Problemas, Autogestão  
 
-## Cartão - Compacto de Linguagens mais utilizadas
+---
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arel18&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+## 📚 Formação Acadêmica
 
-## Linguagens 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
+- 🎓 Tecnólogo em Redes de Computadores – Universidade Nove de Julho (2014)  
 
-## Banco de Dados 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+---
 
-## Ferramentas 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 🎯 Cursos e Certificações
+
+- Cyber Security – FIAP  
+- Formação DBA SQL Server + Always On (HADR) – Udemy  
+- Formação Engenharia de Dados – DIO  
+- Python para Análise de Dados – Data Science Academy  
+- Power BI para Business Intelligence e Data Science – Data Science Academy  
+- Fundamentos de Data Science e Inteligência Artificial – Data Science Academy  
+
+---
+
+## 📈 Estatísticas do GitHub
+
+![Julio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arel18&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arel18&layout=compact&theme=radical)
+
+---
+
+## 📫 Contato
+
+- 📍 São Paulo – SP  
+- 📱 (11) 96648-8910  
+- ✉️ **jc_kaka@hotmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/julio-santana-0b735236)  
+- 🐙 [GitHub](https://github.com/arel18)  
+
+---
+
+⭐ _"Sempre aprendendo, sempre evoluindo."_
