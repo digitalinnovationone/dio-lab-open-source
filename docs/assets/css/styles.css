@@ -202,11 +202,11 @@ main, section {
     gap: 1rem;
 }
 
-#searchForm {
+#searchForm, #searchLinkedinForm {
     display: flex;
 }
 
-#searchButton {
+#searchButton, #searchLinkedinButton {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -222,24 +222,28 @@ main, section {
     transition: all 1s ease;
 }
 
-#searchButton span {
+#searchLinkedinButton {
+    padding-right: .50rem;
+}
+
+#searchButton span, #searchLinkedinButton span {
     font-size: .85rem;
     font-weight: 600;
     letter-spacing: .1rem;
     padding-left: .5rem;
 }
 
-#searchButton i {
+#searchButton i, #searchLinkedinButton i {
     font-size: 1.5rem;
 }
 
-#searchButton:hover {
+#searchButton:hover, #searchLinkedinButton:hover {
     color: var(--white);
     background-color: #0F0F0F;
     border: #0F0F0F;
 }
 
-#searchInput {
+#searchInput, #searchLinkedinInput {
     max-width: 100%;
     font-size: 1rem;
     border: .125rem solid var(--secondary-color);
@@ -248,7 +252,7 @@ main, section {
     cursor: pointer; 
 }
 
-#searchInput:focus {
+#searchInput:focus, #searchLinkedinInput:focus {
     box-shadow: inset 0 1.125rem 5rem 0 rgba(153, 153, 153, 0.3);
     outline: 0;
 }
