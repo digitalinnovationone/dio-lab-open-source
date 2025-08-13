@@ -83,7 +83,7 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
  Além disso, você também pode contribuir:
  
 ⚠️ Resolvendo, respondendo ou indicando **issues**
-💻 Teste para atualizar o README.md
+💻 Teste para atualizar para o repositorio local README.md
 ⭐ Adicionando aos favoritos (**star**) 
 
 ### Membros da comunidade que já contribuiram:
