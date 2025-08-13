@@ -14,6 +14,4 @@ C# e .NET – conhecimentos básicos, mas com interesse em aprofundar e expandir
 
 🔍 Sempre em busca de novos desafios, estou constantemente aprendendo e me adaptando às evoluções do mundo da tecnologia, com foco em entregar soluções que façam a diferença.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-jose-b445341aa/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/claudiojbf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-jose-b445341aa/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/claudiojbf)
