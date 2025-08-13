@@ -22,7 +22,7 @@ console.log('Hello World! 👋');
         <a href="mailto:dev.wmauriciu@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
         </a>
-        <a href="https://www.linkedin.com/in/DEVmauriciu/">
+        <a href="https://www.linkedin.com/in/DEVwmauriciu/">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
         </a>
     </p>
