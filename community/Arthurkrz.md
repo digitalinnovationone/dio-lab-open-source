@@ -1,6 +1,6 @@
 # Arthurkrz
 
-> Desenvolvedor iniciante em C# e .NET
+## Desenvolvedor iniciante em C# e .NET
 
 ## Sobre mim
 Desenvolvedor iniciante em C# e .NET, com sólidos fundamentos em orientação a objetos, ASP.NET MVC e banco de dados relacionais (Microsoft SQL Server e MySQL).
