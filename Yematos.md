@@ -15,5 +15,11 @@
 
 ---
 
-## 📚 Linguagens Mais Utilizada
+## 🚀 Projetos em Destaque
+[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=yematos&repo=simulacao-tanque-industrial&theme=tokyonight)](https://github.com/yematos/simulacao-tanque-industrial)  
+[![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=yematos&repo=controle-ph-newton-raphson&theme=tokyonight)](https://github.com/yematos/controle-ph-newton-raphson)
+
+---
+
+## 📚 Linguagens Mais Usadas
 ![Python](https://img.shields.io/badge/Python-100%25-blue?style=for-the-badge&logo=python)
