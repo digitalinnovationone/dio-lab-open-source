@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-Vindo!+:%29;Hello,+Be-Welcome!+:%29;)](https://git.io/typing-svg)
 
-# Abner Lemos   
+# Resumo  
 
 🖥 Estou estudando Desenvolvimento de Software em Multiplataforma, e buscando me especializar no back-end, no momento to estudando C# no momento
 
