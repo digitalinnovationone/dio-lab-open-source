@@ -93,3 +93,16 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+
+---
+
+## 👩‍💻 Sobre mim
+
+Olá! Eu sou a **Natalia Moreira**, estudante de tecnologia apaixonada por inovação e aprendizado contínuo.
+
+- 💡 Explorando o mundo do desenvolvimento web
+- 📚 Aprendendo Git, GitHub e projetos Open Source
+- 🚀 Participando do desafio da DIO para minha primeira contribuição
+- 📫 Contato: nataliadinizf2003@gmail.com
+
+
