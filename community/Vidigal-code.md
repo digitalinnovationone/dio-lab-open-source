@@ -281,9 +281,9 @@
 
 ##   
 
-<div align="center">
+<!-- <div align="center">
 <img width=100% src="https://readme-typing-svg.herokuapp.com/?color=2aa889&size=25&center=true&vCenter=true&width=1000&lines=Number+of+visitors"/>
-</div>
+</div> -->
 
 
 
@@ -291,7 +291,7 @@
 
 
   <div align="center">
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Vidigal-code}/count.svg" /></p> 
+<!-- <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Vidigal-code}/count.svg" /></p> -->
 <br></div>
 
 
