@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfólio | DIO</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <header>
+    <div class="container nav">
+      <a class="logo" href="#top">
+        <span class="logo-badge"></span>
+        <span>DIO • Portfólio</span>
+      </a>
+      <nav class="menu">
+        <a href="#sobre">Sobre</a>
+        <a href="#projetos">Projetos</a>
+        <a href="#contato">Contato</a>
+        <a class="cta" href="#participar">Participe</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero" id="top">
+      <div class="container hero-grid">
+        <div>
+          <div class="kicker">Bem-vindo(a)</div>
+          <h1>Construa seu <span class="gradient-text">portfólio DIO</span> e mostre seu talento</h1>
+          <p class="subtitle">Apresente seus desafios, bootcamps e projetos da <strong>Digital Innovation One</strong> com um visual moderno e responsivo.</p>
+          <div class="hero-cta">
+            <a class="btn primary" href="#participar">Participe agora</a>
+            <a class="btn ghost" href="#projetos">Ver projetos</a>
+          </div>
+        </div>
+
+        <aside class="hero-card">
+          <h3>Seu progresso</h3>
+          <div class="stats">
+            <div class="stat"><div class="n">08</div><div class="l">Projetos</div></div>
+            <div class="stat"><div class="n">03</div><div class="l">Bootcamps</div></div>
+            <div class="stat"><div class="n">+120</div><div class="l">Commits</div></div>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section id="sobre">
+      <div class="container">
+        <h2>Sobre mim</h2>
+        <p class="subtitle">Desenvolvedor(a) em formação pela comunidade DIO. Apaixonado(a) por resolver problemas com código limpo e acessível.</p>
+        <div class="skills">
+          <span class="tag">HTML</span>
+          <span class="tag">CSS</span>
+          <span class="tag">JavaScript</span>
+          <span class="tag">Git & GitHub</span>
+          <span class="tag">API REST</span>
+        </div>
+      </div>
+    </section>
+
+    <section id="projetos">
+      <div class="container">
+        <h2>Projetos em destaque</h2>
+        <div class="grid cards">
+          <article class="card">
+            <h3>Clone de Landing Page</h3>
+            <p>Recriação de layout moderno com boas práticas.</p>
+          </article>
+          <article class="card">
+            <h3>Dashboard Responsivo</h3>
+            <p>Layout com estatísticas e dark theme.</p>
+          </article>
+          <article class="card">
+            <h3>Consumindo API Pública</h3>
+            <p>Projeto simples que consome API de repositórios.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="participar">
+      <div class="container">
+        <h2>Participe</h2>
+        <form class="grid" style="grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 14px;">
+          <input type="text" placeholder="Seu nome" required>
+          <input type="email" placeholder="Seu e-mail" required>
+          <textarea placeholder="Mensagem" rows="4"></textarea>
+          <button class="btn primary" type="submit">Enviar</button>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Meu Portfólio DIO - Todos os direitos reservados: https://github.com/marciocapendeli.</p>
+    </div>
+  </footer>
+</body>
+</html>

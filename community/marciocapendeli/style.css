@@ -1,0 +1,242 @@
+/* Importando a fonte */
+body {
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f9f9f9;
+  color: #333;
+}
+
+/* Container padrão */
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Header */
+header {
+  background: #121214;
+  color: #fff;
+  padding: 16px 0;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #fff;
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+.logo-badge {
+  width: 14px;
+  height: 14px;
+  background: #7f56d9;
+  border-radius: 50%;
+  margin-right: 8px;
+}
+
+.menu a {
+  color: #fff;
+  text-decoration: none;
+  margin-left: 16px;
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+.menu a:hover {
+  color: #7f56d9;
+}
+
+.menu .cta {
+  background: #7f56d9;
+  padding: 8px 16px;
+  border-radius: 8px;
+  color: #fff;
+  font-weight: 600;
+}
+
+.menu .cta:hover {
+  background: #9f73ff;
+}
+
+/* Hero Section */
+.hero {
+  background: linear-gradient(135deg, #f3f0ff, #fafafa);
+  padding: 60px 0;
+}
+
+.hero-grid {
+  display: grid;
+  grid-template-columns: 1fr 300px;
+  gap: 40px;
+  align-items: center;
+}
+
+.kicker {
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #7f56d9;
+  margin-bottom: 8px;
+}
+
+.hero h1 {
+  font-size: 2.5rem;
+  line-height: 1.2;
+  margin-bottom: 16px;
+}
+
+.gradient-text {
+  background: linear-gradient(90deg, #7f56d9, #9f73ff);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.subtitle {
+  color: #555;
+  font-size: 1rem;
+  margin-bottom: 24px;
+}
+
+.hero-cta .btn {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.hero-card {
+  background: #fff;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.stats {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 16px;
+}
+
+.stat .n {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #7f56d9;
+}
+
+.stat .l {
+  font-size: 0.9rem;
+  color: #555;
+}
+
+/* Botões */
+.btn {
+  text-decoration: none;
+  padding: 10px 18px;
+  border-radius: 8px;
+  font-weight: 600;
+  transition: background 0.3s, color 0.3s;
+}
+
+.btn.primary {
+  background: #7f56d9;
+  color: #fff;
+}
+
+.btn.primary:hover {
+  background: #9f73ff;
+}
+
+.btn.ghost {
+  border: 2px solid #7f56d9;
+  color: #7f56d9;
+  background: transparent;
+}
+
+.btn.ghost:hover {
+  background: #f3e8ff;
+}
+
+/* Seções */
+section {
+  padding: 60px 0;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-bottom: 16px;
+}
+
+.skills .tag {
+  display: inline-block;
+  background: #f3f0ff;
+  color: #7f56d9;
+  padding: 6px 12px;
+  margin: 4px;
+  border-radius: 6px;
+  font-size: 0.9rem;
+}
+
+/* Projetos */
+.grid.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 16px;
+}
+
+.card {
+  background: #fff;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  transition: transform 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+}
+
+/* Formulário */
+form input,
+form textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  font-size: 1rem;
+}
+
+form button {
+  margin-top: 10px;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 16px 0;
+  background: #121214;
+  color: #fff;
+  font-size: 0.9rem;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .hero-grid {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+  .hero-card {
+    margin-top: 20px;
+  }
+  .menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
