@@ -1,5 +1,4 @@
 ## Olá, eu sou a Luana Arruda
-
 - 💻 Cursando Engenharia de Software
 - 🐍 Estudando Python
 -  Contato: luanaarrudasabara06@gmail.com
@@ -12,7 +11,6 @@
 </div>
 
 
-
 ## 💬 Conecte-se comigo
 <div>
   <a href="https://www.instagram.com/luana_arrudinha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=663399" target="_blank"></a>
@@ -22,3 +20,6 @@
 
 ## 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luarrudinha&theme=midnight-purple&bg_color=000&border_color=#929292&show_icons=true&icon_color=#0D1117title_color=0D1117&text_color=0D1117)
+
+
+
