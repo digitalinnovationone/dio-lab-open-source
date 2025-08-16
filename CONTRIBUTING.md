@@ -12,7 +12,7 @@
  Além disso, você também pode contribuir:
  
 ⚠️ Resolvendo, respondendo ou indicando **issues**
-
+💻Teste de configuração
 ⭐ Adicionando aos favoritos (**star**) 
 
 ##  Contribuindo no diretório "Community" 
