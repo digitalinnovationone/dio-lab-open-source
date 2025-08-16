@@ -1,6 +1,6 @@
 <h1>
     <a href="https://andre-kmp.github.io/">
-     <img align="center" width="25px" src="https://raw.githubusercontent.com/andre-kmp/andre-kmp.github.io/refs/heads/main/images/favicon.png"></a>
+     <img align="top" width="40px" src="https://raw.githubusercontent.com/andre-kmp/andre-kmp.github.io/refs/heads/main/images/favicon.png"></a>
     <span>André Klaic</span>
 </h1>
 
