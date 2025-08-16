@@ -22,4 +22,3 @@
 > - 🌐 [Simulação de Comunicação Entre Dois Dispositivos](https://github.com/Romulo-Sousaa/comunicacao-entre-dispositivos) - Python
 > - 📼[Linha do Tempo da evolução da ARPANet](https://github.com/Romulo-Sousaa/rede-de-computadores) - React, NPM 
 > - 📃[Site de receitas](https://github.com/Romulo-Sousaa/Site-de-receitas) - HTML, CSS
-
