@@ -57,7 +57,7 @@ Profissional com grande interesse em **Inteligência Artificial** com experiênc
 
 ---
 
-#### 🧪 [LabPrep](https://github.com/AlexRene/labprep)  
+#### 🧪 [LabPrep](https://github.com/AlexRene/projects_showcase)  
 > Sistema web para **controle de vidrarias e solicitações de uso em laboratórios**, ajudando professores e pesquisadores a gerenciar recursos de forma prática e organizada.  
 
 ![Status](https://img.shields.io/badge/Status-Em%20Produção(Com%20Melhorias%20em%20Andamento)-blue?style=for-the-badge) 
