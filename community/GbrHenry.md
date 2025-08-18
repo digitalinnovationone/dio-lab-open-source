@@ -15,12 +15,6 @@ Na jornada pra aprimorar meu conhecimento em **[Back-end]** (Python, Java, C#)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-### Minhas Estátisticas
-
-(https://github-readme-stats.vercel.app/api?username=gbrhenry&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-(https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gbrhenry&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 ### Redes Sociais e Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-henrique-5940a337b)
