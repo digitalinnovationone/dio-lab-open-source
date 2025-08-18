@@ -17,9 +17,9 @@ Na jornada pra aprimorar meu conhecimento em **[Back-end]** (Python, Java, C#)
 
 ### Minhas Estátisticas
 
-(https://github-readme-stats.vercel.app/api?username=GbrHenry&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+(https://github-readme-stats.vercel.app/api?username=gbrhenry&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-(https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GbrHenry&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+(https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gbrhenry&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Redes Sociais e Contatos
 
