@@ -72,7 +72,7 @@
 ## ⚖ **Quando Usar Cada Versão**
 
 | **Cenário**               | **Versão Recomendada** | **Motivo**                                   |
-|---------------------------|------------------------|----------------------------------------------|
+|---------------------|-------------------|---------------------------------|
 | Prototipagem rápida       | Original               | Simplicidade e velocidade de desenvolvimento |
 | Ambientes de produção     | Robusta                | Segurança e resiliência                      |
 | Processamento massivo     | Robusta                | Paralelismo e performance                    |
