@@ -1,6 +1,9 @@
 # Oi! eu sou o Pedro 👋🏻
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/typing-svg)
 
+## Biografia
+  Me chamo pedro, tenho 18 anos, curso engenharia da computaçao e tenho um grande interesse por modelagem 3 e progamação, principalmente com criação de jogos
+
 ## Conecte-se comigo
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.nijolas@gmail.com)
 ## Meus projetos
