@@ -1,6 +1,6 @@
-# Raoni Soares
+# Pedro Nicolas
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0raoni/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/0raoni/](https://www.linkedin.com/in/pedro-nicolas-046546296/))
 ## Habilidades
 ![Blender]([https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=823085](https://www.blogblahs.com/Blender/Logo/Blender%20Logo.png))
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
