@@ -2,3 +2,4 @@
 
 #Programo em C++, engenharia reversa em assembly, typescript, Javascript.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelNobre21)](https://github.com/RafaelNobre21/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelNobre21&show_icons=true)
