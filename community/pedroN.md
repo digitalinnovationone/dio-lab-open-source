@@ -20,5 +20,7 @@
 
 ## Linguagens mais usadas
 
-![Top Langs](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white
+![Top Langs](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white
+)
+![Top Langs](https://img.shields.io/badge/GML-000000?style=for-the-badge&logo=gamemaker&logoColor=white
 )
