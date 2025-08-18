@@ -226,7 +226,7 @@ Aqui estão algumas das tecnologias e linguagens que estou aprendendo ou já dom
 
 <p>
     👉 Para explorar a árvore de competências interativa (com links clicáveis),
-    <a href="https://github.com/fabiuniz/fabiuniz/tree.html" target="_blank">clique aqui para abrir</a>.
+    <a href="https://fabiuniz.github.io/fabiuniz/tree.html" target="_blank">clique aqui para abrir</a>.
 </p>
 
 ---
