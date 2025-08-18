@@ -1,0 +1,34 @@
+class Pessoa:
+    def __init__(self, nome, cidade, idade, curso, faculdade, estagio, empresa, linguagem, objetivo):
+        self.nome = nome
+        self.cidade = cidade
+        self.idade = idade
+        self.curso = curso
+        self.faculdade = faculdade
+        self.estagio = estagio
+        self.empresa = empresa
+        self.linguagem = linguagem
+        self.objetivo = objetivo
+
+    def apresentar(self):
+        print(f"Olá! Meu nome é {self.nome}, sou de {self.cidade}.")
+        print(f"Tenho {self.idade} anos e atualmente estou cursando {self.curso} na {self.faculdade}.")
+        print(f"Atualmente faço estágio em {self.estagio} na empresa {self.empresa},")
+        print(f"e a linguagem de programação que eu uso é {self.linguagem}.")
+        print(f"Decidi fazer o curso para {self.objetivo}.")
+
+# Criando uma instância da classe com seus dados
+luidi = Pessoa(
+    nome="Luidi Carvalho Silva",
+    cidade="Americana-SP",
+    idade=19,
+    curso="Ciência da Computação",
+    faculdade="Faculdade de Americana (FAM)",
+    estagio="engenharia de dados",
+    empresa="Desktop",
+    linguagem="Python",
+    objetivo="aprimorar os meus conhecimentos em Python"
+)
+
+# Chamando o método para se apresentar
+luidi.apresentar()
