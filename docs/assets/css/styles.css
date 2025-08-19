@@ -89,6 +89,9 @@ header div {
     background: var(--black);
     padding: .75rem 2rem;
 }
+.menu-icon {
+    width: 50%;
+}
 
 header nav ul{
     display: flex;
@@ -169,7 +172,11 @@ header nav {
 }
 
 .menu__item {
+    padding: 1px 10px;
     margin: 0.5rem;
+    background-color: var(--gray-300);
+    box-shadow: #0F0F0F 1px;
+    border-radius: 10px;
     
 }
 
@@ -179,7 +186,7 @@ header nav {
 }
 
 .menu__link:hover {
-    color: var(--primary-color);
+    color: var(--secondary-color);
 }
 
 main, section {
