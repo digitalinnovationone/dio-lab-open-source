@@ -1,6 +1,6 @@
 
 
-\# !\[Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&color=2F4F4F\&width=300\&lines=Olá!+Me+chamo+Fernanda+🔨)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=300&lines=Olá!+Me+chamo+Fernanda+🔨)
 
 
 
@@ -10,17 +10,18 @@
 
 
 
-\### 💫 Sobre mim:
+### 💫 Sobre mim:
 
 
 
 
 
-\- 📚 Formada em administração 
+- 📚 Formada em administração 
 
-\- 👩🏻‍💻 Entusiasta por tecnologia
+- 👩🏻‍💻 Entusiasta por tecnologia
 
-\- ☕Apreciadora de um bom café
+- ☕Apreciadora de um bom café
+
 
 
 
@@ -34,33 +35,15 @@ Mas acredito que hoje criei maior discernimento, e em conjunto, um sentido mais 
 
 
 
-Creio que \*"agora vai dar bom!"\* 🚀
+Creio que *"agora vai dar bom!"* 🚀
 
 
 
 
 
-Atualmente estudando \*\*Python Developer\*\* com a DIO e explorando o mundo do \*\*Open Source\*\*. 
+Atualmente estudando **Python Developer** com a DIO e explorando o mundo do **Open Source**. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-\### 🛠️ Tecnologias \& Ferramentas em aprendizagem:
-
-\[!\[Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git\&logoColor=E94D5F)](https://git-scm.com/doc)
-
-\[!\[GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=30A3DC)](https://docs.github.com/)
-
-!\[Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python)
+--- 
 
 
 
@@ -72,16 +55,13 @@ Atualmente estudando \*\*Python Developer\*\* com a DIO e explorando o mundo do 
 
 
 
+### 🛠️ Tecnologias \& Ferramentas em aprendizagem:
 
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git\&logoColor=E94D5F)
 
-\### 🌐 Onde me encontrar
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=30A3DC)
 
-
-
-
-
-\[!\[Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge\&logo=instagram\&logoColor=E4405F)](https://www.instagram.com/fernanda.martelo) \[!\[Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge\&logo=discord)](https://discord.com/users/1405170841301286942/)\[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=0E76A8)](https://www.linkedin.com/in/fernandamartelo) 
-
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python)
 
 
 
@@ -90,9 +70,28 @@ Atualmente estudando \*\*Python Developer\*\* com a DIO e explorando o mundo do 
 
 
 
-\### 🤝 Contribuições
 
-&nbsp;
+
+---
+
+
+### 🌐 Onde me encontrar
+
+
+
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge\&logo=instagram\&logoColor=E4405F)](https://www.instagram.com/fernanda.martelo) [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge\&logo=discord)](https://discord.com/users/1405170841301286942/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=0E76A8)](https://www.linkedin.com/in/fernandamartelo) 
+
+
+
+
+
+
+
+
+
+### 🤝 Contribuições
 
 Estou sempre aberta a aprender e compartilhar conhecimento 💡
 
