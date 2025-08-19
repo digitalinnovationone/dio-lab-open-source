@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Marco Felipi
 
 💻 Sou estudante de **Ciência da Computação** e apaixonado por tecnologia.  
-Atualmente, estou aprendendo e desenvolvendo projetos com foco em
+Atualmente, estou aprendendo e desenvolvendo projetos com foco em:
 
 - ⚡ **Backend** com **Laravel** e **PHP**  
 - 🌐 **Frontend** com **React** e **Blade Templates**  
