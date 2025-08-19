@@ -21,3 +21,8 @@ Como estou começando ainda, tenho o conhecimento básico nessas 4 linguagens at
 ![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KelsonGarcia&theme=shadow_red_icons=true)
+
+## Meios de contato | Links 🔗
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelsongarcia/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KelsonGarcia)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@kriyp/)
