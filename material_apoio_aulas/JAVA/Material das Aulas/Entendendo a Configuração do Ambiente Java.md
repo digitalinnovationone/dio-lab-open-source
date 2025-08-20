@@ -32,23 +32,29 @@ Escolha e baixe uma distribuição adequada para seu sistema (Oracle JDK ou algu
 1. Acessar o site [Oracle](https://www.oracle.com/java/technologies/downloads);
 2. Baixar a versão que mais te atenderá [no video foi instalado a v21, mas você pode instalar a versão atual ou uma versão a menos];
 3. Após a finalização do download basta clicar 2x no programa ele solicitará uma permissão e após a confirmação começara sendo efetuado a instalação;
-4. Para verificar se está tudo certo, basta acessar o terminal do computador [seu prompt de comando ou o power shell e utilizar o comando abaixo]
+> Se atentar ao caminho da pasta onde será guardado, pois em *configurações de PATH*, você irá precisar usar ele.
+4. Para verificar se está tudo certo, basta acessar o terminal do computador [seu prompt de comando ou o power shell e utilizar o comando abaixo em *verificar instação*]
+
 
 * Para mais informações basta acessar sua [Documentação](https://docs.oracle.com/en/java/javase/21/index.html).
 
 
 <br>
 
-**Configurar a variável de ambiente PATH**
+***Configurar a variável de ambiente PATH***
 
 Permite usar os comandos java e javac no terminal de qualquer pasta.
 
 Fundamental para rodar, compilar e testar seus programas Java sem complicação.
 
-1. 
+1. Na janela de Windows ou na barra de pequisa, digite "variáveis de ambiente", clicar em " do sistema";
+2. Na aba "avançado", em "Váriaveis de Ambiente ...";
+> Essa configuração garante que consiga rodar os comandos do Java via Prompt de comando, consiga ser feito e qualquer diretório, sem precisar ter que passar o caminho completo do java.
+3. Em "Váriaveis de usuário" >> clique em "Novo..." >> em *nome da variável* escreva JAVA_HOME (exatamente dessa forma), logo abaixo em *Valor da Variável* digite cole o caminho de onde foi instalado o JAVA e "OK".
+4. Em variáveis do sistema", selecione "Path" dando 2 cliques, em "Novo...", digitar "%JAVA_HOME%\bin" e "OK";
 
-**Verificar a instalação**<br>
-Teste com os comandos no terminal:
+***Verificar a instalação***<br> 
+ Teste com os comandos no terminal:
 
 `java -version` <br>
 `javac -version`
