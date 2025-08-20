@@ -114,6 +114,29 @@ Para adicionar imagens ao README.md podemos usar Markdown e HTML5. Vou deixar os
 
 Para obter uma lista completa de emojis e códigos disponíveis em Markdown e HTML5, confira [Emoji-Cheat-Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) / [HTML5 Emojis](https://www.w3schools.com/html/html_emojis.asp).
 
+## Usar Símbolos HTML
+
+É possível adicionar símbolos HTML à escrita digitando `&symbolcode;`. Um código numérico ou hexadecimal também pode ser utilizado.  
+
+    Vou exibir &euro;
+    Vou exibir &#8364;
+    Vou exibir &#x20AC;
+
+Vou exibir &euro;
+
+Vários símbolos matemáticos, técnicos e de moedas podem ser incluídos assim.
+
+Listas de símbolos HTML podem ser encontradas nos links a seguir:
+
+* [Matemáticos](`https://www.w3schools.com/charsets/ref_utf_math.asp`)
+* [Monetários](`https://www.w3schools.com/charsets/ref_utf_currency.asp`)
+* [Setas](`https://www.w3schools.com/charsets/ref_utf_arrows.asp`)
+* [Diversos](`https://www.w3schools.com/charsets/ref_utf_symbols.asp`)
+
+[Este link](`https://www.w3schools.com/html/html_symbols.asp`) possui mais referências sobre símbolos HTML.
+
+---
+
 #### Como mencionado no início deste fork, o objetivo é tornar um pouco mais fácil as futuras modificações com linguagens de marcação, Markdown e HTML5. Espero que de alguma forma consegui atingir esse objetivo.
 
 >Para maiores informações e uma pesquisa mais aprofundada sobre ambas as linguagens, acesse [Markdown GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings) / [HTML W3Schools](https://www.w3schools.com/html/default.asp)
