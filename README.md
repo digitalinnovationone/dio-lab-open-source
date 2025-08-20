@@ -82,7 +82,7 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
  Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição além do seu exemplo de Profile README, é inserir outros utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils), ou melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/docs). <br>
  Além disso, você também pode contribuir:
  
-⚠️ Resolvendo, respondendo ou indicando **issues**
+⚠️ Avaliando, respondendo ou indicando **issues**
 
 ⭐ Adicionando aos favoritos (**star**) 
 
@@ -93,3 +93,4 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+<div align="center">Agradecido pela oportunidade!</div>
