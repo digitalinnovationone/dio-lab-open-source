@@ -2,7 +2,7 @@
 <h1 align="center">Olá, sou o Marcus Vinicius Jorge</h1>
 <h3 align="center">Pós Graduado em Inteligência Artificial | Tecnólogo em Analise e Desenvolvimento e Sistemas</h3>
 <h4 align="center">Expertise em Field Center, administração de redes, Active Diretory, Sharepoint, Cloud Computing (AWS e Azure), telefonia em nuvem Nexus, administração e configuração de roteador Mikrotik, rede wi-fi Ubiquit e monitoria LGPD</h4>
-<br></br>
+<br>
 
 - 💱 Estudando **Especialização em Criptomoedas**
 - 📚 Estudando **Automação de BOT**
