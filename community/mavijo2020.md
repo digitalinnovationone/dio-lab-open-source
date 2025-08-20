@@ -2,13 +2,14 @@
 <h3 align="center">Pós Graduado em Inteligência Artificial | Tecnólogo em Analise e Desenvolvimento e Sistemas</h3>
 <h3 align="center">Expertise em Field Center, administração de redes, Active Diretory, Sharepoint, Cloud Computing (AWS e Azure), telefonia em nuvem Nexus, administração e configuração de roteador Mikrotik, rede wi-fi Ubiquit e monitoria LGPD</h3>
 
+
 - 💱 Estudando Especialização em Criptomoedas
 - 📚 Estudando Automação de BOT
 - 📗 Sempre mantenho os estudos através de Bootcamp's e plataformas de ensino
 - ♻️ Buscando migração de carreira, de infra estrutura para área de Desenvolvimento
 
 <h3 align="left">Entre em contato comigo:</h3>
-<p align="left"> <a href="mailto:marcusvj2012@gmail.com" target="_blank" rel="noreferrer"> <img src="https://png.pngtree.com/template/20190725/ourmid/pngtree-gmail-logo-png-image_282635.jpg" alt="gmail" width="40" height="40"/> </a>
+<p align="left"> <a href="mailto:marcusvj2012@gmail.com" target="_blank" rel="noreferrer"> <img src="https://png.pngtree.com/template/20190725/ourmid/pngtree-gmail-logo-png-image_282635.jpg" alt="gmail" width="40" height="40"/> </a> <a href="https://www.linkedin.com/in/mavijo74/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" alt="gmail" width="40" height="40"/> </a>  https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png
 </p>
 
 <h3 align="left">Linguagens e Frameworks:</h3>
