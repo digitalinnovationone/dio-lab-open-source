@@ -1,3 +1,4 @@
+<a href="https://avatars.githubusercontent.com/u/74795904?u=b9492614345c095d1f2d7c0a2f5a27f9a3c5debc&v=4" target="_blank" rel="noreferrer"></a>
 <h1 align="center">Olá, sou o Marcus Vinicius Jorge</h1>
 <h3 align="center">Pós Graduado em Inteligência Artificial | Tecnólogo em Analise e Desenvolvimento e Sistemas</h3>
 <h4 align="center">Expertise em Field Center, administração de redes, Active Diretory, Sharepoint, Cloud Computing (AWS e Azure), telefonia em nuvem Nexus, administração e configuração de roteador Mikrotik, rede wi-fi Ubiquit e monitoria LGPD</h4>
