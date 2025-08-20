@@ -1,0 +1,12 @@
+GIT AND GIT HUB 
+
+
+REPOSITORIO : Local onde o histórico do projeto e armazenado;
+COMMIT: Registro de uma alteração no código;
+BRANCH: Linha de desenvolvimento separado;
+MERGE: União de BRANCH diferentes;
+
+GIT INT: inicialixação de um repositorio ;
+GIT CLONE: url-do-repositorio
+GIT STATUS: Mostra o status dos arquivos no repositorio;
+GIT PUSH: Envia as alterações para um repositorioremoto;
