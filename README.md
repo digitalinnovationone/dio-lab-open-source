@@ -21,7 +21,7 @@ Aprender o básico sobre contribuição no GitHub.
   <thead>
     <tr align="left">
       <th>Nº</th>
-      <th>Etapas</th>
+      <th>eeeeeeeeeeeee</th>
     </tr>
   </thead>
   <tbody align="left">
