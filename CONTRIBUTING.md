@@ -88,6 +88,22 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
 | `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
 
+## Glossário de termos do Github
+
+| Termo         | Definição                                                                 |
+|---------------|---------------------------------------------------------------------------|
+| Repositório   | Lugar onde o código de um projeto é armazenado (como uma pasta online).   |
+| Branch        | Uma “linha paralela” do código para desenvolver algo sem mexer na principal|
+| Commit        | Registro de uma alteração feita no código, com uma mensagem de descrição. |
+| Merge         | Ação de juntar uma branch com outra (geralmente com a principal).         |
+| Pull Request  | Pedido para mesclar uma branch com a principal, mostrando o que foi mudado|
+| Fork          | Cópia independente de um repositório para sua conta, para você modificar. |
+| Clone         | Baixar o repositório para sua máquina local para trabalhar no código.     |
+| Issue         | Registro de problema, tarefa ou sugestão dentro de um repositório.        |
+| Pull          | Baixar (atualizar) as alterações do repositório remoto para o local.      |
+| Push          | Enviar as alterações da sua máquina local para o repositório no GitHub.   |
+
+
 
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
