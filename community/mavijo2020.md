@@ -4,8 +4,8 @@
 <h4 align="center">Expertise em Field Center, administração de redes, Active Diretory, Sharepoint, Cloud Computing (AWS e Azure), telefonia em nuvem Nexus, administração e configuração de roteador Mikrotik, rede wi-fi Ubiquit e monitoria LGPD</h4>
 <br></br>
 
-- 💱 Estudando Especialização em Criptomoedas
-- 📚 Estudando Automação de BOT
+- 💱 Estudando **Especialização em Criptomoedas**
+- 📚 Estudando **Automação de BOT**
 - 📗 Sempre mantenho os estudos através de Bootcamp's e plataformas de ensino
 - ♻️ Buscando migração de carreira, de infra estrutura para área de Desenvolvimento
 
