@@ -91,5 +91,16 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
   <img src="https://contrib.rocks/image?repo=digitalinnovationone/dio-lab-open-source"/>
 </a>
 
-##
-<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+## 🏆 Top 10 Sugestões da ComunidadeAdd commentMore actions
+
+1. ****Adicionar sugestões mais relevantes no README do GitHub**** – [@FelipeQ-CODE](https://github.com/FelipeQ-CODE)
+2. **Temas Dark e Light** – [@usuario2](https://github.com/usuario2)
+3. **Adicionar uma sessão de como organizar o GitHub** – [@usuario3](https://github.com/usuario3)
+4. ...
+10. **....** – [@usuario10](https://github.com/usuario10)Add commentMore actions
+
+<a href="https://github.com/digitalinnovationone/dio-lab-open-source/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=digitalinnovationone/dio-lab-open-source"/>
+</a>
+
+
