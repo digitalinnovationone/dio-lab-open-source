@@ -1,6 +1,6 @@
 # Danillo Silva
 
-Breve descrição sobre você.
+Breve descrição sobre você
 
 ### Conecte-se comigo
 
