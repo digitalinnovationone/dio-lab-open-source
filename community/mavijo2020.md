@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou o Marcus Jorge</h1>
 <h3 align="center">Pós Graduado em Inteligência Artificial | Tecnólogo em Analise e Desenvolvimento e Sistemas</h3>
 <h3 align="center">Expertise em Field Center, administração de redes, Active Diretory, Sharepoint, Cloud Computing (AWS e Azure), telefonia em nuvem Nexus, administração e configuração de roteador Mikrotik, rede wi-fi Ubiquit e monitoria LGPD</h3>
-
+<br></br>
 
 - 💱 Estudando Especialização em Criptomoedas
 - 📚 Estudando Automação de BOT
