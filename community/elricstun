@@ -1,0 +1,69 @@
+# Paramore
+
+![Paramore](https://i0.wp.com/www.paramore.com.br/wp-content/uploads/2023/02/paramore.webp?fit=1800%2C1200&ssl=1)
+
+## Sobre a Banda
+
+**Paramore** é uma banda de rock alternativo formada em 2004 em Franklin, Tennessee, Estados Unidos. A banda é conhecida por seu som enérgico e emocional, bem como pela voz potente da vocalista Hayley Williams. O grupo passou por várias mudanças de formação ao longo dos anos, mas manteve uma base de fãs dedicada e lançou uma série de álbuns bem recebidos pela crítica e pelo público.
+
+### Integrantes Atuais
+- **Hayley Williams** - Vocalista principal
+- **Taylor York** - Guitarrista
+- **Zac Farro** - Baterista
+
+### Ex-integrantes Notáveis
+- **Josh Farro** - Guitarrista
+- **Jeremy Davis** - Baixista
+- **Hunter Lamb** - Guitarrista
+
+## Discografia
+
+### Álbuns de Estúdio
+1. **All We Know Is Falling** (2005)
+2. **Riot!** (2007)
+3. **Brand New Eyes** (2009)
+4. **Paramore** (2013)
+5. **After Laughter** (2017)
+6. **This Is Why** (2023)
+
+### Principais Singles
+- "Misery Business"
+- "That's What You Get"
+- "Decode"
+- "The Only Exception"
+- "Ain't It Fun"
+- "Hard Times"
+- "Rose-Colored Boy"
+
+## Estilo Musical e Influências
+
+Paramore é frequentemente categorizado como uma banda de rock alternativo, mas seu estilo incorpora elementos de pop punk, emo, pop rock e new wave. A banda é conhecida por suas letras introspectivas e emocionais, muitas vezes abordando temas de crescimento pessoal, relacionamentos e desafios emocionais.
+
+### Influências
+- **No Doubt**
+- **Jimmy Eat World**
+- **Death Cab for Cutie**
+- **New Found Glory**
+
+## Prêmios e Reconhecimentos
+
+Paramore recebeu vários prêmios ao longo de sua carreira, incluindo o Grammy de Melhor Canção de Rock em 2015 por "Ain't It Fun". A banda também ganhou múltiplos MTV Awards, Teen Choice Awards e outros reconhecimentos da indústria musical.
+
+## Tours e Performances
+
+A banda é conhecida por suas performances energéticas ao vivo. Eles já fizeram várias turnês mundiais, incluindo:
+- **The Final RIOT! Tour** (2008)
+- **Brand New Eyes World Tour** (2009-2010)
+- **Paramore: Self-Titled Tour** (2013-2015)
+- **After Laughter Tour** (2017-2018)
+
+## Conecte-se com Paramore
+
+- **Site Oficial:** [paramore.net](http://www.paramore.net)
+- **Instagram:** [@paramore](https://www.instagram.com/paramore)
+- **Twitter:** [@paramore](https://twitter.com/paramore)
+- **YouTube:** [Paramore](https://www.youtube.com/paramore)
+
+## Contato
+
+Para mais informações, entre em contato através do [site oficial](http://www.paramore.net/contact).
