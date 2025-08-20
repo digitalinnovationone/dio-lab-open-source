@@ -11,6 +11,7 @@ Repositório desenvolvido para fins didáticos, com a disponibilização de mate
 
 ## Objetivo
 Aprender o básico sobre contribuição no GitHub.
+Testa Git
 
 ## Ferramentas
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
@@ -27,7 +28,7 @@ Aprender o básico sobre contribuição no GitHub.
   <tbody align="left">
     <tr>
       <td>01</td>
-      <td>Introdução ao Lab</td>
+      <td>Introdução ao Lab Sobre contribuição</td>
     </tr>
     <tr>
       <td>02</td>
