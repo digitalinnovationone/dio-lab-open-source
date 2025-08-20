@@ -8,6 +8,7 @@
         <meta name="theme-color" content="#EAEAEA">
         <link rel="icon" type="image/x-icon" href="favicon.ico">
         <link rel="stylesheet" href="assets/css/styles.css">
+      
     </head>
     <body>
         <header>
@@ -36,6 +37,9 @@
                     </li>
                     <li class="menu__item">
                         <a href="#materiais" class="menu__link">Materiais de Apoio</a>
+                    </li>
+                    <li class="menu__item">
+                        <a href="#editor" class="menu__link">Editor Markdown</a>
                     </li>
                 </ul>
             </nav>
@@ -162,6 +166,23 @@
             </ol>
         </section>
 
+        <section id="editor">
+            <h2>Editor Markdown</h2>
+
+            <div class="editor-container">
+            <div class="editor">
+                <textarea id="markdown" placeholder="Digite seu Markdown aqui">
+                    
+                </textarea>
+              </div>
+          
+                
+            <div class="preview markdown-body" id="output">
+            </div>
+            </div>
+        </section>
+
+
         <footer>
             <p>
                 Projeto desenvolvido para fins didáticos para o lab Contribuindo em um Projeto Open Source no GitHub da 
@@ -169,6 +190,9 @@
                 <a href="https://github.com/digitalinnovationone/dio-lab-open-source">GitHub</a>.
             </p>
         </footer>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
         <script src="assets/js/scripts.js"></script>
+        
+        </script>
     </body>
 </html>
