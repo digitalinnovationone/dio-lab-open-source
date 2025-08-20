@@ -8,7 +8,7 @@
 - ♻️ Buscando migração de carreira, de infra estrutura para área de Desenvolvimento
 
 <h3 align="left">Entre em contato comigo:</h3>
-<p align="left"> <a href="https://gmail.com" target="mailto:marcusvj2012@gmail.com" rel="noreferrer"> <img src="https://png.pngtree.com/template/20190725/ourmid/pngtree-gmail-logo-png-image_282635.jpg" alt="gmail" width="40" height="40"/> </a>
+<p align="left"> <a href="mailto:marcusvj2012@gmail.com" target="_blank" rel="noreferrer"> <img src="https://png.pngtree.com/template/20190725/ourmid/pngtree-gmail-logo-png-image_282635.jpg" alt="gmail" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Linguagens e Frameworks:</h3>
