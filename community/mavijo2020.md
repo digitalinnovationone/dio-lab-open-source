@@ -1,5 +1,5 @@
 <h1 align="center">Olá, sou o Marcus Jorge</h1>
-<h2 align="center">Pós Graduado em Inteligência Artificial | Tecnólogo em Analise e Desenvolvimento e Sistemas</h2>
+<h3 align="center">Pós Graduado em Inteligência Artificial | Tecnólogo em Analise e Desenvolvimento e Sistemas</h3>
 <h3 align="center">Expertise em Field Center, administração de redes, Active Diretory, Sharepoint, Cloud Computing (AWS e Azure), telefonia em nuvem Nexus, administração e configuração de roteador Mikrotik, rede wi-fi Ubiquit e monitoria LGPD</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mavijo2020&label=Profile%20views&color=0e75b6&style=flat" alt="mavijo2020" /> </p>
