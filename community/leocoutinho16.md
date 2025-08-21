@@ -8,7 +8,7 @@ Atualmente, estou em uma jornada de aprofundamento em **Python**, com o objetivo
 
 ---
 
-### 🚀 Habilidades e Interesses
+## 🚀 Habilidades e Interesses
 
 * **Gerenciamento de Produtos e CX:** Gestão de backlog e roadmap, análise de indicadores de negócio (NPS, etc.), pesquisa com usuários, estratégias de canais digitais.
 * **Gestão de Projetos:** Metodologias ágeis, liderança de equipe, gestão de projetos.
@@ -20,7 +20,7 @@ Atualmente, estou em uma jornada de aprofundamento em **Python**, com o objetivo
 
 ---
 
-###📚 Formação e Certificações
+## 📚 Formação e Certificações
 
 * **Pós-graduação Lato Sensu, Digital Product Management** - FIAP (em curso)
 * **Engenharia Química** - Universidade de São Paulo (USP)
@@ -30,7 +30,7 @@ Atualmente, estou em uma jornada de aprofundamento em **Python**, com o objetivo
 
 ---
 
-###💻 Projetos de Estudo
+## 💻 Projetos de Estudo
 
 Aqui você encontrará projetos focados em:
 
