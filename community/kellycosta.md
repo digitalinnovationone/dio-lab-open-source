@@ -6,6 +6,7 @@
 - ☁️ Studying **AWS Cloud** (pursuing certification)  
 - 🛍️ Entrepreneur (stores for **haircare products** and **shoes**)  
 
+
 ---
 
 ## 🛠️ Technologies & Tools
