@@ -1,4 +1,4 @@
-#   **Oi! Me chamo Jonathan Anselmo de Souza**
+#   **Oi! Me chamo Jonathan Anselmo de Souza.**
 
 
 ## Tenho 35 anos e sou um estudante fascinado pelo mundo da tecnologia, e pretendo ser um **Analista de Dados**.
