@@ -9,23 +9,15 @@
 ## 🔧 Tecnologias e Habilidades
 - Redes de Computadores  
 - Cibersegurança  
-- Programação (Python, C#, Front-end)  
+- Programação (Python, css, html, javascript)  
 - Git & GitHub  
-- Trabalho em equipe, proatividade e boa comunicação  
+- Trabalho em equipe, proatividade e boa comunicação, organização
 
 ---
 
 ## 📈 Objetivos
-- Conseguir um estágio **home office** em tecnologia  
+- Conseguir um estágio em tecnologia  
 - Aprofundar conhecimentos em **Segurança da Informação** e **Desenvolvimento**  
-- Construir projetos para meu portfólio e contribuir em **Open Source**  
+- Construir projetos para meu portfólio
 
----
 
-## 📫 Onde me encontrar
-- GitHub: [igormorais](https://github.com/igormorais)  
-- LinkedIn: *(adicione aqui seu link do LinkedIn, se já tiver)*  
-
----
-
-✨ Obrigado por visitar meu perfil!
