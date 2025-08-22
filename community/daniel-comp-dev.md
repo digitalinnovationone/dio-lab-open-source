@@ -1,4 +1,6 @@
-# Olá! Seja bem-vindo(a) ao meu GitHub!
+
+# Olá, sou o Daniel. Seja bem-vindo(a) ao meu GitHub!
+>>>>>>> db705618df (Rename daniel-comp-dev to daniel-comp-dev.md)
 
 ## Sobre Mim
 
