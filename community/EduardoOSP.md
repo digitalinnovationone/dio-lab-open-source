@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Sorocaba  
 💻 Focado em iniciar minha carreira como **Desenvolvedor Web / Software Engineer**  
-🚀 Apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluções criativas
+🚀 Apaixonado por tecnologia e aprendizado contínuo
 
 ---
 
