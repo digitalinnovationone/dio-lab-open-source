@@ -15,7 +15,7 @@
 
 >Atualmente curso Ciência da Computação e tenho grande interesse por Inteligência Artificial.  
 Encaro desafios de programação como oportunidades de aprendizado e procuro utilizar IA no meu dia a dia para desenvolver soluções mais inteligentes.  
-Meu objetivo é dominar essa tecnologia, explorando seu potencial máximo para criar produtos e serviços inovadores — quem sabe até me tornar o próximo bilionário da IA (sonhar grande custa o mesmo que sonhar pequeno!).
+Meu objetivo é dominar essa tecnologia, explorando seu potencial máximo para criar produtos e serviços inovadores — quem sabe até me tornar o próximo bilionário da IA (Sonhar Grande custa o mesmo que sonhar pequeno!).
 
 ---
 
