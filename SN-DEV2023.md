@@ -47,3 +47,4 @@ Desenvolvo aplicações utilizando:
 ## 📫  **Vamos Conectar!**
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samucakauanascimento@gmail.com)
+
