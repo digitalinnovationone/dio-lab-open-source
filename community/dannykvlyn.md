@@ -1,4 +1,4 @@
-### Oii, eu sou a Danny Santos! 👋🏽
+### Oie, eu sou a Danny Santos! 👋🏽
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dannykevelyn)
 
@@ -13,7 +13,7 @@
 </div> <br/>
 
 <p>
-Oiee, meu nome é Danny Santos! <br/>
+👋🏽 Oiee, meu nome é Danny Santos! <br/>
 Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente trabalho como jovem aprendiz em Suporte de TI. Tenho interesse em desenvolvimento de software, com foco em back-end com Java.
 
 Atualmente, estou explorando Java em projetos pessoais e Python em projetos da faculdade, sempre buscando aprender mais e aplicar no dia a dia.
