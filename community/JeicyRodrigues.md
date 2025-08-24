@@ -55,7 +55,7 @@ Busco sempre aprender novas linguagens, desenvolver projetos e compartilhar conh
 
 
 <h2 align="center" style="color:#FF69B4;"> 🌸📈 Estatísticas 📈🌸</h2>
-## 
+
 
 <div align="center" style="background-color:#000000; padding: 15px; border-radius: 10px;">
   <!-- GitHub Stats -->
