@@ -12,8 +12,9 @@
 
 ## Minhas Contribuições
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=julio-r-ai&repo=dio-lab-open-source&layout=compact&langs_count=7&theme=dracula)](https://github.com/julio-r-ai/[SEUREPOSITORIO](dio-lab-open-source))
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=julio-r-ai&repo=dio-lab-open-source&layout=compact&langs_count=7&theme=dracula)](https://github.com/julio-r-ai/dio-lab-open-source)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=julio-r-ai&repo=PROJETO-PI-DIGITAL-HOUSE&layout=compact&langs_count=7&theme=dracula)](https://github.com/julio-r-ai/PROJETO-PI-DIGITAL-HOUSE)
 
 ## 🚀Tecnologias que utilizo no meu dia a dia
 
