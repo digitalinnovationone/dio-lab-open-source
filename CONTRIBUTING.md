@@ -68,20 +68,23 @@ Exemplo: community/falvojr.md
 
 
 bash
-git add community/SEU_USERNAME.md
+git checkout feat/community/WarleyJulio17
 Crie o commit padronizado:
 
 bash
 
-git commit -m "feat: add SEU_USERNAME profile"
+git restore CONTRIBUINDO.md
 Envie para o repositório remoto:
 
 bash
-git push origin feat/community/SEU_USERNAME
+community/WarleyJulio17.md
 Por fim, abra um Pull Request e aguarde a validação automática.
 📌 Atenção:
 
-Seu PR deve modificar apenas o arquivo community/SEU_USERNAME.md
+git add community/WarleyJulio17.md
+git commit -m "feat: add WarleyJulio17 profile"
+git push origin feat/community/WarleyJulio17
+
 
 O nome do arquivo deve ser idêntico ao seu usuário GitHub (case-sensitive)
 
@@ -101,11 +104,6 @@ Conventional Commits
 
 GitHub Docs - Contributing Guidelines
 
-yaml
-Copiar
-Editar
-
----
 
 
 
