@@ -59,32 +59,24 @@ git clone https://github.com/SEU_USERNAME/dio-lab-open-source.git
 3️⃣ Crie sua branch, adicione seu Profile README, faça commit, push e PR
 Após clonar, crie uma nova branch com:
 
-bash
-
-git checkout -b feat/community/SEU_USERNAME
-Dentro da pasta community/, crie um arquivo .md com o nome igual ao seu usuário GitHub.
-Exemplo: community/falvojr.md
-
-
-
-bash
+Bash
 git checkout feat/community/WarleyJulio17
-Crie o commit padronizado:
 
 bash
-
-git restore CONTRIBUINDO.md
-Envie para o repositório remoto:
+git restore CONTRIBUTING.md
 
 bash
-community/WarleyJulio17.md
-Por fim, abra um Pull Request e aguarde a validação automática.
-📌 Atenção:
+git status
 
+Cpp
+new file: community/WarleyJulio17.md
+
+bash
 git add community/WarleyJulio17.md
 git commit -m "feat: add WarleyJulio17 profile"
-git push origin feat/community/WarleyJulio17
 
+bash
+git push origin feat/community/WarleyJulio17
 
 O nome do arquivo deve ser idêntico ao seu usuário GitHub (case-sensitive)
 
