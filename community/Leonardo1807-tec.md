@@ -1,4 +1,5 @@
 # Leonardo1807-tec
+Olá, meu nome é Leonardo Antunes F., atualmente sou um programador junior e estou a procura de me desenvolver tanto meus hard skills, como também meus soft skills, espero que gostem dessa minha contribuição para o curso da DIO, aqui apresento formas de contato, minhas habilidades, sistema operacional que utilizo, minhas contribuições e ferramentos que utilizo também.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-a-ferreira-933615341)
