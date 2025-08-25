@@ -1,4 +1,4 @@
-## <3
+## :heart:
 
 Olá, sou uma QA desbravando o universo da tecnologia, seja bem-vindo(a)!
 
