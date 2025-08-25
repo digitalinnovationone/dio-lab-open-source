@@ -1,10 +1,12 @@
-## Alice Souza
+## <3
+
+Olá, sou uma QA desbravando o universo da tecnologia, seja bem-vindo(a)!
 
 
-## Conecte-se comigo:
+## Minhas redes:
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alice-gomes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9C3E73?style=for-the-badge&logo=linkedin&logoColor=9C3E73)](https://www.linkedin.com/in/alice-gomes/)
 
 
 
@@ -23,8 +25,11 @@
 
 ## GitHub 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alicegsouza&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alicegsouza&theme=transparent&bg_color=C474A1&border_color=9C3E73&show_icons=true&icon_color=9C3E73&title_color=7A104A&text_color=FFF&hide_title=true)
 
+## Repositório
 
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alicegsouza&repo=dio-lab-open-source&bg_color=C474A1&border_color=9C3E73&show_icons=true&icon_color=9C3E73&title_color=7A104A&text_color=FFF) 
 
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alicegsouza&repo=cypress-do-zero-a-nuvem&bg_color=C474A1&border_color=9C3E73&show_icons=true&icon_color=9C3E73&title_color=7A104A&text_color=FFF)
 
