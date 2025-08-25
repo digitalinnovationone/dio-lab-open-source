@@ -10,9 +10,9 @@ Fiz recentemente uma imersão na Alura de Python e, no momento estou cursando um
 ##
 ## Conecte-se comigo
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:robertovianahot@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:Robertovianahot@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roberto3108?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Roberto3108?tab=repositories)
 
 
 ## Ferramentas
@@ -25,7 +25,7 @@ Fiz recentemente uma imersão na Alura de Python e, no momento estou cursando um
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roberto3108&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DCtext_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roberto3108&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DCtext_color=FFF)
 
 #
 
