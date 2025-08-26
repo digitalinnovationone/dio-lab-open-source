@@ -1,0 +1,15 @@
+C:\Users\drmig\dio-lab-open-source\EstacionamentoApp\obj\Debug\net8.0\EstacionamentoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drmig\dio-lab-open-source\EstacionamentoApp\obj\Debug\net8.0\EstacionamentoApp.AssemblyInfoInputs.cache
+C:\Users\drmig\dio-lab-open-source\EstacionamentoApp\obj\Debug\net8.0\EstacionamentoApp.AssemblyInfo.cs
+C:\Users\drmig\dio-lab-open-source\EstacionamentoApp\obj\Debug\net8.0\EstacionamentoApp.csproj.CoreCompileInputs.cache
+C:\Users\drmig\dio-lab-open-source\EstacionamentoApp\obj\Debug\net8.0\EstacionamentoApp.sourcelink.json
+C:\Users\drmig\dio-lab-open-source\EstacionamentoApp\bin\Debug\net8.0\EstacionamentoApp.exe
+C:\Users\drmig\dio-lab-open-source\EstacionamentoApp\bin\Debug\net8.0\EstacionamentoApp.deps.json
+C:\Users\drmig\dio-lab-open-source\EstacionamentoApp\bin\Debug\net8.0\EstacionamentoApp.runtimeconfig.json
+C:\Users\drmig\dio-lab-open-source\EstacionamentoApp\bin\Debug\net8.0\EstacionamentoApp.dll
+C:\Users\drmig\dio-lab-open-source\EstacionamentoApp\bin\Debug\net8.0\EstacionamentoApp.pdb
+C:\Users\drmig\dio-lab-open-source\EstacionamentoApp\obj\Debug\net8.0\EstacionamentoApp.dll
+C:\Users\drmig\dio-lab-open-source\EstacionamentoApp\obj\Debug\net8.0\refint\EstacionamentoApp.dll
+C:\Users\drmig\dio-lab-open-source\EstacionamentoApp\obj\Debug\net8.0\EstacionamentoApp.pdb
+C:\Users\drmig\dio-lab-open-source\EstacionamentoApp\obj\Debug\net8.0\EstacionamentoApp.genruntimeconfig.cache
+C:\Users\drmig\dio-lab-open-source\EstacionamentoApp\obj\Debug\net8.0\ref\EstacionamentoApp.dll
