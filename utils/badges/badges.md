@@ -45,7 +45,7 @@
         <img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
       </td>
       <td>
-        <code>[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@SEUUSERNAME/)</code>
+        <code>[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](@SEUUSERNAME)</code>
       </td>
     </tr>
     <tr>
@@ -712,7 +712,7 @@
         <img align="center" alt="Firebase" src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase">
       </td>
       <td>
-        <code>![Firebase](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=firebase&logoColor=ffca28)</code>
+        <code>![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=FFCA28)</code>
       </td>
     </tr>
      <tr>
