@@ -114,6 +114,32 @@ Para adicionar imagens ao README.md podemos usar Markdown e HTML5. Vou deixar os
 
 Para obter uma lista completa de emojis e códigos disponíveis em Markdown e HTML5, confira [Emoji-Cheat-Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) / [HTML5 Emojis](https://www.w3schools.com/html/html_emojis.asp).
 
+
+## Usar tabelas
+
+Também é possível criar tabelas de formas simples usando Markdown. Nessa linguagem, as tabelas são criadas através de demarcações de linha e colunas. 
+
+A primeira linha da tabela é utilizada para representar os títulos, conforme a representação a seguir:
+
+`| Linha | Título da 1ª coluna | Título da 2ª coluna | Título da 3ª coluna |`
+
+A segunda linha, separa a primeira das demais e é formada apenas por traços `-` e pipes `|`, conforme a representação a seguir: 
+
+`|-------|-------|-------|-------|`
+
+As linhas seguintes, correspondem as representações do conteúdo de cada observação no conjunto de dados. Seguindo a mesma lógica da primeira linha.
+
+` |Linha 1 | Valor 1 | Valor 2 | Valor 3 |`
+` |Linha 2 | Valor 1 | Valor 2 | Valor 3 |`
+
+Dessa forma, seguindo o exemplo acima pode-se obter o seguinte resultado:
+
+| Linha | Título da 1ª coluna | Título da 2ª coluna | Título da 3ª coluna |
+|-------|-------|-------|-------|
+| Linha 1| Valor 1 | Valor 2 | Valor 3 |
+| Linha 2| Valor 1 | Valor 2 | Valor 3 |
+
+
 #### Como mencionado no início deste fork, o objetivo é tornar um pouco mais fácil as futuras modificações com linguagens de marcação, Markdown e HTML5. Espero que de alguma forma consegui atingir esse objetivo.
 
 >Para maiores informações e uma pesquisa mais aprofundada sobre ambas as linguagens, acesse [Markdown GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings) / [HTML W3Schools](https://www.w3schools.com/html/default.asp)
