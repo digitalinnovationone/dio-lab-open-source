@@ -4,18 +4,12 @@ _______________________________________________________________________
 Desenvolvedora Front-end em constante evolução.**
 ______________________________________________________________________
 ##  conecte-se comigo
-[![GitHub](https://img.shields.io/badge/GitHub-123?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/amandauchoa031-maker)
-
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/amandauchoa031)
+[![GitHub](https://img.shields.io/badge/GitHub-123?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/amandauchoa031-maker) [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/amandauchoa031)
 
 ## Habilidades/Skills
-![HTML](https://img.shields.io/badge/HTML-purple?style=for-the-badge+logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-purple?style=for-the-badge+logo=html5&logoColor=white)        ![JavaScript](https://img.shields.io/badge/JavaScript-purple?style=for-the-badge&logo=javascript&logoColor=yellow)![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=purple)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-purple?style=for-the-badge&logo=javascript&logoColor=yellow)
-
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=purple)
-
-## GitHub Stats
+##  GitHub Stats
 ![amandauchoa031-maker's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amandauchoa031-maker&theme=radical&hide_border=true)
 
 ## Meu principal Desafio de Projeto DIO
