@@ -1,0 +1,26 @@
+# Como Editar este README
+
+Bem-vindo ao repositório! Este arquivo de README fornece informações sobre como editar e personalizar o README deste projeto. Siga as instruções abaixo para fazer alterações e atualizar o conteúdo conforme necessário.
+
+## Passos para Editar o README
+
+### 1. Acesse o Repositório no GitHub
+
+- Abra o [repositório no GitHub](https://github.com/seu-usuario/seu-repositorio) (substitua pelo URL do seu repositório).
+  
+### 2. Editar o README.md
+
+- Navegue até o arquivo `README.md`, que está localizado na raiz do repositório.
+- Clique no ícone de lápis no canto superior direito da visualização do arquivo para começar a edição.
+
+### 3. Modificar o Conteúdo
+
+- O arquivo `README.md` usa Markdown, uma linguagem de formatação simples que permite adicionar títulos, listas, links, imagens e muito mais.
+  
+#### Exemplo de Sintaxe Básica de Markdown:
+
+- **Título**: Use `#` para criar títulos. Por exemplo:
+  ```markdown
+  # Título Principal
+  ## Título Secundário
+  ### Título de Nível 3
