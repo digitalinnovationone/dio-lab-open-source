@@ -8,10 +8,10 @@ assignees: ''
 ---
 
 *Tem alguma sugestão para quem for fazer o Desafio? Por favor descreva.*
-Uma descrição do que pode ser feito. 
+mesmo que não sabia como contribuir, vai seguindo a video aula que aos poucos vai se familarizando com git 
 
 *Descreva como você realizou o seu*
-Uma descrição sobre como você fez o seu.
+Seguindo a video aula e aprendendo mais sobre o git, mesmo sem conseguir pensar em algo para contribuir
 
 *Links úteis*
-- [Nome do Link](URL)
+- [DIO](https://web.dio.me/home)
