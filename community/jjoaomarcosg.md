@@ -5,6 +5,10 @@
 
 - Iniciado em Python aqui pelo Bootcamp
 
+## Contato
+- LinkedIn: [www.linkedin.com/in/joão-marcos-gomes-63654516b]
+- GitHub: [https://github.com/jjoaomarcosg]
+
 ## Mini Script de Boas-vindas em Python
 
 ```python
