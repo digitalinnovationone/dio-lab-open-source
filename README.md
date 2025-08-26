@@ -93,3 +93,18 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+
+# Olá, eu sou Bruno 
+
+Sou estudante de Ciências da Computação na UNIP e apaixonado por tecnologia.
+
+## Tecnologias
+- HTML, CSS, JavaScript
+- Git e GitHub
+
+ 🌱 Estou aprendendo
+- Banco de Dados
+- Contribuições Open Source
+- React.js
+- C
+
