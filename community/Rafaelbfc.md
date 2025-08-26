@@ -7,7 +7,7 @@ Aqui você encontrará projetos, estudos e experimentos relacionados às áreas 
 
 👋 Olá, meu nome é Rafael Bueno Fontoura da Costa.
 
-🎓 Estudante de Licenciatura em Filosofia e entusiasta em Tecnologia da Informação.
+🎓 Estudante de Tecnologia da Informação.
 
 💻 Tenho experiência com C#, Java, .NET, HTML, CSS, JavaScript.
 
