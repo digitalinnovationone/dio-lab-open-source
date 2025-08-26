@@ -14,8 +14,6 @@
 ![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=FFFFFF&labelColor=000000&color=000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)
 
-## Libraries and Frameworks
-
 ## Libraries & Frameworks
 
 ![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=FFFFFF&labelColor=000000&color=000000)
@@ -53,4 +51,4 @@
 
 ## - Projects
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Deyvidy-Alves&repo=teste-backend-jr-dEYVIDY&bg_color=000000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF)](https://github.com/Deyvidy-Alves/teste-backend-jr-dEYVIDY)# 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Deyvidy-Alves&repo=teste-backend-jr-dEYVIDY&bg_color=000000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF)](https://github.com/Deyvidy-Alves/teste-backend-jr-dEYVIDY) 
