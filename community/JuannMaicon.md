@@ -22,15 +22,15 @@ Atualmente cursando \*\*Análise e Desenvolvimento de Sistemas – Senac (EAD)\*
 
 \## 🚀 Badges
 
-!\[Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk\&logoColor=white)
+!\[Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 
-!\[Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring\&logoColor=white)
+!\[Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
 
-!\[Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven\&logoColor=white)
+!\[Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
 
-!\[JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5\&logoColor=white)
+!\[JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white)
 
-!\[Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
+!\[Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 
 
