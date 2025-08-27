@@ -44,7 +44,7 @@ html {
 
 body {
     font-family: 'Open Sans', Tahoma, Geneva, Verdana, sans-serif;
-    color: var(--black);
+    color: var(--white);
     background: var(--gray-100);
     width: 100vw;
     overflow-x: hidden;
@@ -256,4 +256,5 @@ footer p {
     text-align: center;
     font-size: .9rem;
     color: var(--black);
+
 }
