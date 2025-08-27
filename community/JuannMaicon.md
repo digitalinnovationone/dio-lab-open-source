@@ -1,7 +1,7 @@
 # Juan Maicon
 
 Olá! 👋 Sou desenvolvedor focado em **Java + Spring Boot**.  
-Atualmente cursando **Análise e Desenvolvimento de Sistemas – Senac (EAD)**, buscando uma oportunidade como **Dev Jr/Trainee**.
+Atualmente cursando **Análise e Desenvolvimento de Sistemas – Senac **, buscando uma oportunidade como **Dev Estagio/Jr/Trainee**.
 
 - 🧰 **Stack:** Java, Spring Boot, Maven, JPA/Hibernate, SQL, HTML/CSS/JS, Git, Testes (JUnit/Selenium)  
 - 🎯 **Interesses:** APIs REST, boas práticas, Design Patterns, automação de testes  
