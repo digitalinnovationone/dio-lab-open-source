@@ -1,4 +1,9 @@
 # Josivaldo Barbosa
+Sou utilizador de tecnologias desde 1991. Tive o prazer de conhecer as linguagens que fizeram parte do início da popularização de uso de sistemas pelas pequenas empresas. Falo do Clipper, onde desenvolvi algumas ferramentas como : Folha de Pagamento, Contabilidade Geral e Emissor de Notas Fiscais.
+
+Na minha vida profissional já exerci até posição de Gestão de Projetos, mas o que mais mim deixa motivado é o desenvolvimento de ferramentas/sistemas.
+
+Hoje, 2025, já utilizo linguagens para desenvolvimento Web. O PHP é a que mais utilizo. No momento estou investindo no aprendizado de outras linguages mais utilizadas pelas empresas aqui em Recife/PE. Estou participando do Bootcamp da DIO e este é o projeto "Contribuindo em um Projeto Open Source no GitHub".
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josivaldo-santiago-barbosa-ab1bb7323/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josivaldobarbosa)
@@ -11,7 +16,6 @@
 
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=josivaldobarbosa&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/josivaldobarbosa/dio-lab-open-source)
-
 
 
 
