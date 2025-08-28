@@ -35,10 +35,8 @@ Ferramentas
  
 ## 🎓Formação Academica
 
+Tecnologo em Ciências de Dados [Universidade Nove de Julho - UNINOVE] (www.uninove.br)
 Pós Graduação em Data Analytics [Faculdade de Informática e Administração Paulista - FIAP](https://www.fiap.com.br/)
-
 Pós Graduação em Imagenologia [Faculdade Método de São Paulo - FAMESP](https://famesp.com.br/)
-
 Graduação em Biomedicina [Universidade Paulista - UNIP](https://www.unip.br/)
-
 Técnica em Radiologia Médica [Centro de Ensino Método - FAMESP](https://famesp.com.br/)
