@@ -107,16 +107,6 @@ const thiago = {
 
 <div align="center">
 
-## 🏆 **Conquistas**
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=thiagonati&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=6" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-<div align="center">
-
 ## 💼 **Experiência Profissional**
 
 </div>
