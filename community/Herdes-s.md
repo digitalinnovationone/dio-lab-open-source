@@ -44,7 +44,7 @@ Utilizo **Windows** como meu sistema principal, mas sempre aberto a explorar out
 
 ## 💻 Projetos
 
-**Projetos futuros**: Embora eu ainda não tenha projetos próprios públicos, estou planejando alguns projetos de código aberto, principalmente relacionados a **web development** e **automação**. Assim que esses projetos estiverem prontos, estarei compartilhando no meu [GitLab](https://gitlab.com/Herdes-s).
+**Projetos futuros**: Embora eu ainda não tenha projetos próprios públicos, estou planejando alguns projetos de código aberto, principalmente relacionados a **web development** e **automação**.
 
 ---
 
