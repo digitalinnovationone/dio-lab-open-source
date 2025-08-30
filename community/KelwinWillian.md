@@ -13,5 +13,4 @@ Liste as ferramentas, linguagens e bibliotecas usadas:
 - Python
 - MATLAB / Simulink
 - Bibliotecas específicas (Ex: Wire.h, PID.h)
-
-Modifiquei de novo
+Atende aos requisitos
