@@ -1,4 +1,4 @@
-# Hey There / Olá 👋
+# Hey There, I'm Ian / Olá, me chamo Ian
 
 ## About Me / Sobre Mim
 **EN:** I’m an Information Systems student with a strong interest in **Project Management, Data Science, and IT Strategy**.  
