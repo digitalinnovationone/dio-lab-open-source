@@ -19,7 +19,7 @@ Gosto de aprender novas tecnologias, colocar a mão na massa e compartilhar conh
 - 📍 Moro em Belo Horizonte - MG  
 - 💡 Tenho interesse em tecnologia, automação, sistemas embarcados e mercado financeiro  
 
-## 📫 Como me encontrar
+## 📫 Como me encontrar:
 
 - Email: henriquehlx@gmail.com
 
