@@ -22,7 +22,7 @@
 ---
 
 ## 🎯 Objetivo
-Conquistar minha primeira oportunidade como **desenvolvedor front-end** e evoluir profissionalmente com projetos que impactem positivamente a vida das pessoas.  
+Conquistar minha primeira oportunidade como **desenvolvedor front-end** e evoluir profissionalmente com projetos que impactem positivamente a vida das pessoas.
 
 ---
 
