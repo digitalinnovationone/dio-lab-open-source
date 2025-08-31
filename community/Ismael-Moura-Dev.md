@@ -10,7 +10,7 @@
 - HTML5 | CSS3 | JavaScript  
 - React (em estudo)  
 - Git & GitHub  
-- Noções de APIs REST  
+- Noções de APIs REST
 
 ---
 
