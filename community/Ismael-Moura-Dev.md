@@ -17,7 +17,7 @@
 ## 🌱 Atualmente estou aprendendo
 - React + Vite  
 - JSON & JSON Server  
-- C# com .NET  
+- C# com .NET 
 
 ---
 
