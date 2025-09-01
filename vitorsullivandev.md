@@ -5,7 +5,7 @@ Bem-vindo ao meu espaço no GitHub! Sou apaixonado por tecnologia, desenvolvimen
 ## 🚀 Sobre mim
 
 - 💼 Desenvolvedor Full Stack com foco em aplicações web modernas
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas
+- 🎓 Formado em Sistemas de informação
 - 🧠 Entusiasta de Open Source e aprendizado contínuo
 - 🌐 Experiência com JavaScript, TypeScript, Node.js, React, Next.js, e muito mais
 
