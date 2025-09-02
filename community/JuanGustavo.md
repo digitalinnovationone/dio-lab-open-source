@@ -28,4 +28,4 @@ Abaixo um breve resumo da minha inicialização na área do desenvolvimento de s
 
 ## 💾 Projetos 
 
-- ⚠ Área em construção
+- ⚠ Área em construção!!
