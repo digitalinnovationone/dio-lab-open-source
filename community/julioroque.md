@@ -1,3 +1,12 @@
+## Link do meu LinkedIn abaixo !
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliocesarroque/)
+
+## Link do meu Git abaixo !
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/julioroque)
+
+
+
+
 ## 🔄 Sistema de Desafios Mensais
 
 Para tornar o projeto mais dinâmico e engajar a comunidade de forma contínua, implementamos o **Sistema de Desafios Mensais**. A cada mês, um novo desafio será proposto com foco em aprendizado, criatividade e colaboração.
