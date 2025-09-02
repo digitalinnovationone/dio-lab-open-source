@@ -13,6 +13,7 @@ Estudante de Desenvolvimento de Software Multiplataforma(DSM)<br> na Fatec de Vo
 &nbsp;&nbsp;&nbsp;&nbsp; ***About me*** 😎 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Iniciei minha carreira profissional na area comercial há 13 anos, onde adquiri experiência em comunicação, atendimento ao público e resolução de problema.
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Hoje estou buscando uma nova oportunidade na area da tecnologia, com propósito de obter um aprendizado contínuo e experiência profissional, assim podendo fornecer a melhor forma de colaboração e qualidade do meu trabalho.
 
 <br>
