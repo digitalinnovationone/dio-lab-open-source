@@ -10,4 +10,4 @@
 
 ---
 
-**Contribuindo com minha primeira participação em um projeto Open Source! nesse meu primeiro bootcamp
+**Contribuindo com minha primeira participação em um projeto Open Source! nesse meu primeiro bootcamp.
