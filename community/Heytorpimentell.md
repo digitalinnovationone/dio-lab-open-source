@@ -1,4 +1,4 @@
-# Heytor
+# Heytor Pimentel
 
 ## Conecte-se comigo
 
