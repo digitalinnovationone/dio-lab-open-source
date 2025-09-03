@@ -7,7 +7,7 @@
 
 
 
-## 🔄 Sistema de Desafios Mensais
+## 🔄 Sistema de Desafios Mensais para usuarios
 
 Para tornar o projeto mais dinâmico e engajar a comunidade de forma contínua, implementamos o **Sistema de Desafios Mensais**. A cada mês, um novo desafio será proposto com foco em aprendizado, criatividade e colaboração.
 
