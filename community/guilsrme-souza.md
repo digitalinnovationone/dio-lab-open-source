@@ -4,7 +4,7 @@ Sou estudante de Ciência da Computação (2º semestre) com foco no desenvolvim
 
 Meu objetivo é construir uma carreira sólida em desenvolvimento back-end, explorando áreas como APIs, bancos de dados e segurança da informação. No futuro, pretendo expandir para o front-end e me tornar um profissional fullstack.
 
-Sou motivado por desafios e gosto de aprender novas tecnologias, participar de projetos colaborativos e aplicar meu conhecimento para resolver problemas reais.
+Sou motivado por desafios e gosto de aprender novas tecnologias, participar de projetos colaborativos e aplicar meu conhecimento para resolver problemas reais..
 ## <span style="color:#67cb57;">Connect with me</span>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=67cb57)](https://www.linkedin.com/in/guilsrme-souza/)
 [![Discord](https://img.shields.io/badge/Discord-FFF?style=for-the-badge&logo=discord&logoColor=67cb57&border_color=black)](https://discord.com/channels/@guilsrme/)
