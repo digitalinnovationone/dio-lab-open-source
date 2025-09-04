@@ -8,6 +8,7 @@ Gosto de transformar **ideias em soluções** que dão resultado no dia a dia da
 ## 💻 Stack & Banco de Dados
 
 **Back-end**
+
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=laravel&logoColor=white)
