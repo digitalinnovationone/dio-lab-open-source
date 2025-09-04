@@ -34,7 +34,7 @@ Atualmente estudando e aprofundando em:
 
 ## 📫 Como me encontrar  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/leandro-brum)  
+- 💼 [LinkedIn](www.linkedin.com/in/leandro-brum-a5a8ab31)  
 - 💻 [GitHub](https://github.com/Leancb)  
 - 📧 leancb@hotmail.com 
 
