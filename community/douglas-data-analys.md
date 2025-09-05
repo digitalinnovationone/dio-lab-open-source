@@ -45,4 +45,5 @@ Profissional com experiência em desenvolvimento de software e análise de dados
 - 💼 **LinkedIn**: https://www.linkedin.com/in/douglas-rodrigues-da-silva-30a018222/
 - 🐙 **GitHub**: https://github.com/douglas-data-analyst
 
+
 *"Transformando dados em decisões estratégicas"*  
