@@ -35,12 +35,12 @@ Pretendo me formar em analista e desenvolver em Back end, porém para alguns pro
   </a>
        
 - Perfil Github:
-  <a href="https://github.com/Vicentti19">
+  <a href="https://github.com/Vicentti19" target="_blank">
   <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="margin-left: 25px;">
   </a>
 
 - Perfil LinkedIn:
-  <a href="https://www.linkedin.com/in/andersonvicente19/">
+  <a href="https://www.linkedin.com/in/andersonvicente19/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-left: 20px;">
   </a>
       
