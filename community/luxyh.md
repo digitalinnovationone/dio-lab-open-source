@@ -1,4 +1,4 @@
-## **👋Olá! Eu sou o Henrique**
+## **👋Olá! Eu sou o Luiz Henrique**
 
   <a href="https://github.com/Luxyh">
   <img height = "180cm" align="center" src="https://github-readme-stats.vercel.app/api?username=Luxyh&show_icons=true&theme=dracula&hide=stars" />
