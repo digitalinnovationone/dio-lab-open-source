@@ -10,7 +10,7 @@ Estou cursando Análise e Desenvolvimento de Sistemas pelo SENAC.
 
 Inicialmente comecei estudando Python pelo curso do Guanabara (quem não conhece a lenda?), mas me interessei também pelo front-end e estou estudando JS, HTML e CSS.
 
-Quem sabe em um futuro eu não seja chegue no nível desenvolvedor full stack, não é mesmo?
+Quem sabe em um futuro eu não chegue no nível desenvolvedor full stack, não é mesmo?
 
 Python e django no back-end e JS e seus amigos HTML e CSS no front, parece uma boa, não?
 
