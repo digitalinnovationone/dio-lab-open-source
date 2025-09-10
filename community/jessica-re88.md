@@ -4,7 +4,7 @@
 Sou estudante de Programação e apaixonada por aprender coisas novas.  
 Atualmente estou me aprofundando em Programação de Sistemas de Informação, Dados e Análise de Dados.  
 Gosto de tudo o que envolve análise e transformação de informação.  
-Acredito no poder dos dados para gerar soluções inteligentes e impactar positivamente o mundo.
+Acredito no poder dos dados para gerar soluções inteligentes para inteligência de negócios.
 </p>
 
 ##
