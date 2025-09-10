@@ -22,6 +22,12 @@ docs/
 ```
 
 ## Tecnologias
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" lengh="50" /> </a> <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" lengh="50" /> </a> <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" lengh="50" /> </a>
+
+
+
+
+
+
+
+
