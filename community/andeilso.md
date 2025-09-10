@@ -7,6 +7,7 @@
 
 ## 🚀 Stacks
 
+
 🤖 Test Automation
 <p>
   <img alt="Cypress" src="https://img.shields.io/badge/-cypress-black?style=for-the-badge&logo=cypress"/>
