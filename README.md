@@ -51,6 +51,11 @@ Para concluir este Desafio de Projeto, basta enviar a **URL do seu "fork" de um 
 
 > [!NOTE]   
 > Por exemplo, a URL https://github.com/falvojr/dio-lab-open-source é o "**fork**" feito pelo usuário do GitHub "`falvojr`" para a contribuição no repositório `dio-lab-open-source`.
+> ### 1) Faça um **Fork** deste Repositório
+Acesse a página principal do repositório e clique no botão "Fork" no canto superior direito da página.
+> [!NOTE]  
+> Um "fork" no GitHub é uma cópia de um repositório que pode ser criada por qualquer usuário. <br>
+> Para mais detalhes, reveja a aula ou acesse a documentação do GitHub: [Criar fork de um repositório](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo).
 
 ### Contribua com seu Profile README
 Para contribuir neste repositório, uma das formas é através da contribuição no diretório "**community**", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. <br>
