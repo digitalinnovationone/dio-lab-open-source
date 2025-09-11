@@ -51,11 +51,7 @@ Para concluir este Desafio de Projeto, basta enviar a **URL do seu "fork" de um 
 
 > [!NOTE]   
 > Por exemplo, a URL https://github.com/falvojr/dio-lab-open-source é o "**fork**" feito pelo usuário do GitHub "`falvojr`" para a contribuição no repositório `dio-lab-open-source`.
-> ### 1) Faça um **Fork** deste Repositório
-Acesse a página principal do repositório e clique no botão "Fork" no canto superior direito da página.
-> [!NOTE]  
-> Um "fork" no GitHub é uma cópia de um repositório que pode ser criada por qualquer usuário. <br>
-> Para mais detalhes, reveja a aula ou acesse a documentação do GitHub: [Criar fork de um repositório](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo).
+
 
 ### Contribua com seu Profile README
 Para contribuir neste repositório, uma das formas é através da contribuição no diretório "**community**", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. <br>
@@ -98,3 +94,44 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+
+.gitignore
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+
+# Build/output
+dist/
+build/
+*.log
+
+# IDEs e editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.bak
+*.backup
+*.orig
+
+# Ambientes
+.env
+.env.local
+.env.*.local
+
+# Cache
+.cache/
+*.cache
+
