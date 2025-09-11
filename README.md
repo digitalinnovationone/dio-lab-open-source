@@ -1,7 +1,7 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Contribuindo em um Projeto Open Source no GitHub</span>
+    <span> Contribuindo em um Projeto Open Source no GitHub</span> você consegue 
 </h1>
 
 Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio e exercício prático para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
@@ -83,8 +83,12 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
  Além disso, você também pode contribuir:
  
 ⚠️ Resolvendo, respondendo ou indicando **issues**
-
+olá
 ⭐ Adicionando aos favoritos (**star**) 
+
+OLÁ SOU JUNIOR RODRIGUES
+
+lá de novo hahaha
 
 ### Membros da comunidade que já contribuiram:
 <a href="https://github.com/digitalinnovationone/dio-lab-open-source/graphs/contributors">
