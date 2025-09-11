@@ -52,6 +52,7 @@ Para concluir este Desafio de Projeto, basta enviar a **URL do seu "fork" de um 
 > [!NOTE]   
 > Por exemplo, a URL https://github.com/falvojr/dio-lab-open-source é o "**fork**" feito pelo usuário do GitHub "`falvojr`" para a contribuição no repositório `dio-lab-open-source`.
 
+
 ### Contribua com seu Profile README
 Para contribuir neste repositório, uma das formas é através da contribuição no diretório "**community**", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. <br>
 Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
@@ -93,3 +94,44 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+
+.gitignore
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+
+# Build/output
+dist/
+build/
+*.log
+
+# IDEs e editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.bak
+*.backup
+*.orig
+
+# Ambientes
+.env
+.env.local
+.env.*.local
+
+# Cache
+.cache/
+*.cache
+
