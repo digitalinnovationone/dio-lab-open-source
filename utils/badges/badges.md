@@ -946,3 +946,88 @@
   </tbody>
   <tfoot></tfoot>
 </table>
+
+## Navegadores
+<table>
+  <thead>
+    <tr align="left">
+      <th>Badge</th>
+      <th>Markdown</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <td>
+        <img align="center" alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white">
+      </td>
+      <td>
+        <code>![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Edge" src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white">
+      </td>
+      <td>
+        <code>![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Firefox" src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox&logoColor=white">
+      </td>
+      <td>
+        <code>![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
+      </td>
+      <td>
+        <code>![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="IE" src="https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white">
+      </td>
+      <td>
+        <code>![IE](https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Opera" src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white">
+      </td>
+      <td>
+        <code>![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Safari" src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white">
+      </td>
+      <td>
+        <code>![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Tor" src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white">
+      </td>
+      <td>
+        <code>![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Vivaldi" src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white">
+      </td>
+      <td>
+        <code>![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)</code>
+      </td>
+    </tr>
+  </tbody>
+  <tfoot></tfoot>
+</table>
