@@ -7,26 +7,26 @@
 ## <span style= "color:#98DE9F;">Sobre Mim
 
 ### <span style= "color:#98DE9F;">Soft Skills:
-* Autonomia
-* Proatividade
-* Colaboração
-* Trabalho sob pressão
-* Boa comunicação interpessoal
-* Inteligência emocional
-* Capacidade de adaptação
-* Organização e responsabilidade
+* Autonomia;
+* Proatividade;
+* Colaboração;
+* Trabalho sob pressão;
+* Boa comunicação interpessoal;
+* Inteligência emocional;
+* Capacidade de adaptação;
+* Organização e responsabilidade.
 
 ### <span style= "color:#98DE9F;">Hard Skills:
 
-* Noções de UI/UX, com olhar estético apurado
-* Lógica de programação
+* Noções de UI/UX, com olhar estético apurado;
+* Lógica de programação.
 
 Moda e Design (Faculdade em Design-Moda, na UFC)
 
-* Desenho de moda
-* Modelagem
-* Pesquisa de tendências
-* Conhecimento em estética, composição visual e construção de identidade visual
+* Desenho de moda;
+* Modelagem;
+* Pesquisa de tendências;
+* Conhecimento em estética, composição visual e construção de identidade visual.
 
 Tecnologias:
 
