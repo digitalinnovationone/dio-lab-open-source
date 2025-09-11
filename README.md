@@ -91,5 +91,38 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
   <img src="https://contrib.rocks/image?repo=digitalinnovationone/dio-lab-open-source"/>
 </a>
 
+## Para saber mais
+<a href="https://github.com/digitalinnovationone/roadmaps">
+    RoadMaps DIO
+</a>
+<br>
+<a href="https://docs.github.com/pt">
+    Documentação do GitHub
+</a>
+<br>
+<a href="https://docs.github.com/pt/get-started/writing-on-github">
+    Markdown
+</a>
+<br>
+<a href="https://github.com/conventional-commits/conventionalcommits.org">
+    Conventional Commit
+</a>
+<br>
+<a href="https://docs.github.com/pt/issues/using-labels-and-milestones-to-track-work/managing-labels">
+    GitHub Etiquetas
+</a>
+<br>
+<a href="https://docs.github.com/pt/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository">
+    Lecenças
+</a>
+<br>
+<a href="https://readme.so/pt/editor">
+    readme.so
+</a>
+<br>
+<a href="https://docs.github.com/pt/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme">
+    GitHub Profile README
+</a>
+
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
