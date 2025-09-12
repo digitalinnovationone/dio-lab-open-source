@@ -2,7 +2,7 @@
 
 ## 👩‍💻 Sobre mim
 Sou formada em **Medicina Veterinária** e, após anos de dedicação à área da saúde, descobri minha paixão por *programação e tecnologia*.  
-Comecei a estudar por conta própria, fazendo cursos online e projetos práticos.  
+Comecei a estudar por conta própria, fazendo cursos online e projetos práticos e bootcamps.  
 
 Tenho familiaridade com **lógica de programação**, **Java**, e estou sempre aprendendo.  
 Busco minha *primeira oportunidade como desenvolvedora*, trazendo comigo habilidades como **organização, empatia, resolução de problemas e persistência** — muito comuns na área da saúde e altamente valorizadas na tecnologia.  
