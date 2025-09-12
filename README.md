@@ -72,6 +72,8 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 > [!WARNING]  
 > **Atenção:** Antes de criar uma nova discussão, verifique se sua dúvida já foi respondida em discussões anteriores. Use a função de pesquisa para encontrar tópicos relevantes.
 
+Fazendo uma alteração apenas para testar meu conhecimento, em um laboratorio de estudo.
+
 ---
 
 ## Contribua
