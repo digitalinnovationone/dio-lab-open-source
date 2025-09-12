@@ -1,11 +1,13 @@
 # 👋 Olá, eu sou Isaias Oliveira
 > Desenvolvedor Full Stack | Inovação, Acessibilidade & Código Limpo 🚀
 
+---
+
 ## 📊 Estatísticas GitHub
 
-<div align="center">
+<div align="left">
 
-![SkynetSites GitHub Stats](https://github-readme-stats.vercel.app/api?username=skynetsites&show_icons=true&theme=radical)   
+![SkynetSites GitHub Stats](https://github-readme-stats.vercel.app/api?username=skynetsites&show_icons=true&theme=radical&count_private=true)   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skynetsites&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skynetsites&layout=compact&theme=radical)
 
@@ -15,6 +17,7 @@
 
 ## 🛠️ Habilidades & Ferramentas
 
+<div align="left">
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -24,35 +27,37 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+</div>
 
 ---
 
 ## 💼 Projetos em Destaque
 
-<div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center;">
+<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:left;">
 
+<!-- Snake block animation style -->
 <a href="https://github.com/skynetsites/projeto-digital-store" target="_blank">
-  ![projeto-digital-store](https://github-readme-stats.vercel.app/api/pin/?username=skynetsites&repo=projeto-digital-store&theme=radical&show_owner=true)
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=skynetsites&repo=projeto-digital-store&theme=radical&show_owner=true&animation=snake" />
 </a>
 
 <a href="https://github.com/skynetsites/projeto-backend" target="_blank">
-  ![projeto-backend](https://github-readme-stats.vercel.app/api/pin/?username=skynetsites&repo=projeto-backend&theme=radical&show_owner=true)
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=skynetsites&repo=projeto-backend&theme=radical&show_owner=true&animation=snake" />
 </a>
 
 <a href="https://github.com/skynetsites/devcheck-housejs" target="_blank">
-  ![devcheck-housejs](https://github-readme-stats.vercel.app/api/pin/?username=skynetsites&repo=devcheck-housejs&theme=radical&show_owner=true)
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=skynetsites&repo=devcheck-housejs&theme=radical&show_owner=true&animation=snake" />
 </a>
 
 <a href="https://github.com/skynetsites/desafio-react-no-ai" target="_blank">
-  ![desafio-react-no-ai](https://github-readme-stats.vercel.app/api/pin/?username=skynetsites&repo=desafio-react-no-ai&theme=radical&show_owner=true)
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=skynetsites&repo=desafio-react-no-ai&theme=radical&show_owner=true&animation=snake" />
 </a>
 
 <a href="https://github.com/skynetsites/curriculo-jaime-castro" target="_blank">
-  ![curriculo-jaime-castro](https://github-readme-stats.vercel.app/api/pin/?username=skynetsites&repo=curriculo-jaime-castro&theme=radical&show_owner=true)
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=skynetsites&repo=curriculo-jaime-castro&theme=radical&show_owner=true&animation=snake" />
 </a>
 
 <a href="https://github.com/skynetsites/rotas-componentes" target="_blank">
-  ![rotas-componentes](https://github-readme-stats.vercel.app/api/pin/?username=skynetsites&repo=rotas-componentes&theme=radical&show_owner=true)
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=skynetsites&repo=rotas-componentes&theme=radical&show_owner=true&animation=snake" />
 </a>
 
 </div>
@@ -80,10 +85,14 @@
 
 ## 📫 Contato
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skynetsites/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skynetsites)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaiasoliveira@skynetsites.com.br)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://skynetsites.com.br)
+
+</div>
 
 ---
 
