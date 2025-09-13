@@ -11,7 +11,7 @@
 </p>
 
 <p style="text-align: justify">
-    Bem, posso dizer que eu gosto muito da área de TI, mais especificamente a parte de Desenvolvimento Web Full-Stack. Até o momento não tive nenhuma experiência profissional, mas estou me dedicando bastante para conseguir adentrar na área e obter muitos conhecimentos deste âmbito.
+    Bem, pode se dizer que eu gosto muito da área de TI, mais especificamente a parte de Desenvolvimento Web Full-Stack. Até o momento não tive nenhuma experiência profissional, mas estou me dedicando bastante para conseguir adentrar na área e obter muitos conhecimentos deste âmbito.
 </p>
 
 ## Habilidades
