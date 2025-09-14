@@ -87,9 +87,13 @@ GitHub Discussions é um espaço para tirar dúvidas e colaborar.
 
 ---
 
-## 🌟 Exemplo de Profile README
-```md
-# Olá, eu sou a Juliana 👋
-- 🚀 Desenvolvedora em formação
-- 💻 Java | Spring Boot | C
-- ☕ Amante de café e tecnologia
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee&size=21&pause=1000&color=FDFDFD&width=435&lines=Contribua)](https://git.io/typing-svg)
+
+[![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/stargazers)
+[![Forks](https://img.shields.io/github/forks/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/forks)
+[![GitHub Issues](https://img.shields.io/github/issues/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/issues/)
+
+ Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição além do seu exemplo de Profile README, é inserir outros utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils), ou melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/docs). <br>
+ Além disso, você também pode contribuir:
+ 
+⚠️ Resolvendo, respondendo ou indicando **issues**
