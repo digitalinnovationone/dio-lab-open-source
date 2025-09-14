@@ -74,7 +74,8 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 
 ---
 
-## Contribua
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee&size=21&pause=1000&color=FDFDFD&width=435&lines=Contribua)](https://git.io/typing-svg)
+
 [![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/stargazers)
 [![Forks](https://img.shields.io/github/forks/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/forks)
 [![GitHub Issues](https://img.shields.io/github/issues/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/issues/)
