@@ -97,3 +97,12 @@ GitHub Discussions é um espaço para tirar dúvidas e colaborar.
  Além disso, você também pode contribuir:
  
 ⚠️ Resolvendo, respondendo ou indicando **issues**
+⭐ Adicionando aos favoritos (**star**) 
+
+### Membros da comunidade que já contribuiram:
+<a href="https://github.com/digitalinnovationone/dio-lab-open-source/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=digitalinnovationone/dio-lab-open-source"/>
+</a>
+
+##
+<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
