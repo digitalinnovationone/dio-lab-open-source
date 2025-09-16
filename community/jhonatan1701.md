@@ -25,3 +25,6 @@ Analista de Aplicações com quase 4 anos de experiência em TI, especializado e
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatan1701&theme=yeblu)  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jhonatan1701&theme=yeblu&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
+
+## Projetos
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jhonatan1701&repo=dio-lab-open-source&theme=yeblu)](https://github.com/jhonatan1701/dio-lab-open-source.git)
