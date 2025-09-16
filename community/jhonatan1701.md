@@ -29,3 +29,7 @@ Analista de Aplicações com quase 4 anos de experiência em TI, especializado e
 
 ## Projetos
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jhonatan1701&repo=dio-lab-open-source&theme=yeblu)](https://github.com/jhonatan1701/dio-lab-open-source.git)
+
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jhonatan1701&repo=trilha-html-modulo-1&theme=yeblu)](https://github.com/jhonatan1701/trilha-html-modulo-1.git)
+
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jhonatan1701&repo=trilha-html-modulo-3&theme=yeblu)](https://github.com/jhonatan1701/trilha-html-modulo-3.git)
