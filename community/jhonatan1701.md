@@ -1,3 +1,4 @@
+
 # Jhonatan Santos da Silva
 
 ## 🚀Analista de Aplicações | Especialista em Gestão de Acessos e Active Directory
@@ -23,4 +24,4 @@ Analista de Aplicações com quase 4 anos de experiência em TI, especializado e
 ## GitHub Stats 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatan1701&theme=yeblu)  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jhonatan1701&theme=yeblu)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jhonatan1701&theme=yeblu&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
