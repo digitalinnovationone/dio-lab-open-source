@@ -16,5 +16,5 @@
 
 ## 📌 Áreas de Interesse
 
-- Desenvolvimento Back-End  
-- Engenharia e Análise de Dados  
+- Desenvolvimento Back-End 
+- Engenharia e Análise de Dados
