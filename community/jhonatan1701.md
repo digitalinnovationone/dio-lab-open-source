@@ -1,3 +1,5 @@
+
+
 # Jhonatan Santos da Silva
 
 ## 🚀Analista de Aplicações | Especialista em Gestão de Acessos e Active Directory
@@ -9,7 +11,7 @@ Analista de Aplicações com quase 4 anos de experiência em TI, especializado e
 
 
 ## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/jhonatan-silva-4688b1384)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatan-silva-4688b1384)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:jhownatan10@gmail.com)
 ## 🛠️ Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,3 +26,6 @@ Analista de Aplicações com quase 4 anos de experiência em TI, especializado e
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatan1701&theme=yeblu)  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jhonatan1701&theme=yeblu&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
+
+## Projetos
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jhonatan1701&repo=dio-lab-open-source&theme=yeblu)](https://github.com/jhonatan1701/dio-lab-open-source.git)
