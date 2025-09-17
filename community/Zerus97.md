@@ -1,2 +1,0 @@
-Oi pessoal, tudo bem? Me chamo Lucas Couto, nasci em três de setembro de 1997. Atualmente, março de 2024, trabalho na Globo como estagiário dos produtos de publishing. Tenho utilizado técnologias como SQL, Databricks, IA Generativa, Google Cloud, Big Query e Power BI.
-Espero ficar entre os 700 primeiros para poder fazer a prova e conseguir minha certificação Microsoft AI-900
