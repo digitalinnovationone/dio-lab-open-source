@@ -41,10 +41,12 @@ Sou apaixonado por tecnologia e estou em constante aprendizado e me dedicando ao
   </tr>
 </table>
 
+## 🔗 Conecte-se comigo:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/charlesbrcosta/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/charlesbrcosta)
+
 ## :student: Autor
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/48035699?v=4" width=115><br><sub>Charles Bruno</sub>](https://github.com/charlesbrcosta)
 
-# 🔗 Conecte-se comigo:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/charlesbrcosta/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/charlesbrcosta)
+
 
