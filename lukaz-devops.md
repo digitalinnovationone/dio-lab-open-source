@@ -3,12 +3,11 @@
 Welcome to for my page in github! I am passionate about computer science, and I am always looking to improve my knowledge and skills.
 
 ## 🚀 About Me
-- 🌱 Atualmente, estou aprimorando minhas habilidades em **[Html, Css, JavaScript, React Native, Node.js, Python, C#, Git e Git GitHub]**.
-- 💼 Trabalho como **[Suporte Técnico]** em **[Quicker Telecom]**.
-- 💡 Tenho interesse em **[áreas de interesse, Front-end , Web Desener, Desenvolvedor de aplicativos e softwares]**.
-- 📫 Como me encontrar: [kaiopezzutti91@gmail.com]
+- 🌱 Atualmente, estou aprimorando minhas habilidades em **[Front end, Back-end, Análise e Desenvolvimento de Softwares e sistemas operacionais]**.
+- 💼 Trabalho como **[Suporte Técnico]**.
+- 💡 Cursando CST Análise e Desenvolvimentos de Sistemas pela [UNINTER.](https://www.linkedin.com/school/grupo-uninter/)
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tools and Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
@@ -23,12 +22,11 @@ Welcome to for my page in github! I am passionate about computer science, and I 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
 
 ## 🌐 Vamos Conectar?
-[![LinkedIn](https://linkedin.com/in/kaio-pezzutti)
-[![Portfolio](https://portifoliokaiopezzutti.netlify.app)
+[GitHub](https://github.com/lukaz-devops)
+[LinkedIn](https://linkedin.com/in/lukaz-devops)
 
 ## 📚 Projetos em Destaque
-- [**Projeto 1**](https://meuradar.netlify.app): Radar aereo de avioes em tempo real com suas irformaçoes reais.
-- [**Projeto 2**](https://mymuviesite.netlify.app): Aite de informaçoes de filmes.
-- [**Projeto 3**](https://tempoeprevisao.netlify.app): Aplicação web para um site de Clima com consulmo de api.
+
+Atualmente estou apenas estudando arquitetura de sistemas, linguagens de programação e toda a abrangente área correlacionado a sistemas de informação.
 
 Obrigado por visitar o meu perfil! 😊
