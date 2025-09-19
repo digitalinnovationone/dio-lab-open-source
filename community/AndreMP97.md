@@ -4,7 +4,7 @@ Sou André Pacheco, um programador de software de Portugal.
 
 Neste momento trabalho com stacks front-end, nomeadamente React e React Native.
 
-Visite o meu [Github](https://github.com/andremp97) e o meu [LinkedIn](https://www.linkedin.com/in/andrempacheco97).
+Visite o meu [Github](https://github.com/AndreMP97) e o meu [LinkedIn](https://www.linkedin.com/in/andrempacheco97).
 
 ## Competências
 
