@@ -1,0 +1,108 @@
+# ==============================
+# SISTEMA BANCÁRIO OTIMIZADO (USUÁRIOS + SAQUES LIMITADOS)
+# ==============================
+
+from datetime import datetime
+
+# ==============================
+# CLASSE USUÁRIO
+# ==============================
+class Usuario:
+    def __init__(self, nome, data_nascimento, cpf, endereco):
+        self.nome = nome
+        self.data_nascimento = data_nascimento
+        self.cpf = ''.join(filter(str.isdigit, cpf))  # somente números
+        self.endereco = endereco
+
+# ==============================
+# CLASSE CONTA
+# ==============================
+class Conta:
+    contador = 1000
+
+    def __init__(self, usuario):
+        self.numero = Conta.contador
+        Conta.contador += 1
+        self.usuario = usuario
+        self.saldo = 0.0
+        self.extrato = []
+        self.limite = 500.0
+        self.numero_saques = 0
+        self.limite_saques = 3
+
+# ==============================
+# FUNÇÃO DEPÓSITO (positional only)
+# ==============================
+def deposito(saldo, valor, extrato, /):
+    if valor <= 0:
+        print("Valor inválido para depósito.")
+    else:
+        saldo += valor
+        extrato.append(f"Depósito: R$ {valor:.2f}")
+    return saldo, extrato
+
+# ==============================
+# FUNÇÃO SAQUE (keyword only)
+# ==============================
+def saque(*, saldo, valor, extrato, limite, numero_saques, limite_saques):
+    if numero_saques >= limite_saques:
+        print("Limite de saques atingido.")
+        return saldo, extrato, numero_saques
+    if valor > saldo:
+        print("Saldo insuficiente.")
+        return saldo, extrato, numero_saques
+    if valor > limite:
+        print("Valor excede o limite por saque.")
+        return saldo, extrato, numero_saques
+    saldo -= valor
+    extrato.append(f"Saque: R$ {valor:.2f}")
+    numero_saques += 1
+    return saldo, extrato, numero_saques
+
+# ==============================
+# GERENCIAMENTO DE USUÁRIOS
+# ==============================
+usuarios = []
+
+def criar_usuario(nome, data_nascimento, cpf, endereco):
+    if any(u.cpf == ''.join(filter(str.isdigit, cpf)) for u in usuarios):
+        print("CPF já cadastrado.")
+        return None
+    usuario = Usuario(nome, data_nascimento, cpf, endereco)
+    usuarios.append(usuario)
+    return usuario
+
+def buscar_usuario_por_cpf(cpf):
+    cpf_numeros = ''.join(filter(str.isdigit, cpf))
+    for u in usuarios:
+        if u.cpf == cpf_numeros:
+            return u
+    return None
+
+# ==============================
+# EXEMPLO DE USO
+# ==============================
+# Criar usuário
+user = criar_usuario("Gabriel", "09/04/2003", "123.456.789-00", "Rua Exemplo, 123 - Bairro - Cidade/UF")
+
+# Criar conta vinculada ao usuário
+conta = Conta(user)
+
+# Depósito (positional only)
+conta.saldo, conta.extrato = deposito(conta.saldo, 1000, conta.extrato)
+
+# Saque (keyword only)
+conta.saldo, conta.extrato, conta.numero_saques = saque(
+    saldo=conta.saldo,
+    valor=200,
+    extrato=conta.extrato,
+    limite=conta.limite,
+    numero_saques=conta.numero_saques,
+    limite_saques=conta.limite_saques
+)
+
+# Mostrar extrato
+print(f"\nExtrato da conta de {conta.usuario.nome}:")
+for t in conta.extrato:
+    print(t)
+print(f"Saldo atual: R$ {conta.saldo:.2f}")
