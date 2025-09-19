@@ -1,3 +1,0 @@
-# Darlan Machado
-
-## Java Developer
