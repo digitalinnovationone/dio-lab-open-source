@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Isaac Richardy  
+# 👋 Olá, me chamo Isaac Richardy  
 
 🎓 Bacharel em **Sistemas de Informação** (Uninassau - 2025)  
 💻 Interesse em **desenvolvimento front-end** e programação web  
