@@ -22,5 +22,3 @@ Projeto teste de aplicabilidade do treinamento de Versionamento de Código com G
 🌳Bootcamp Klabin \& 💻DIO
 
 Valdery Silva, Telêmaco Borba 22 de Outubro de 2025
-
-\[RESUMO](https://github.com/Valdery7/dio-lab-open-source.git)
