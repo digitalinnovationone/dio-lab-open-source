@@ -2,7 +2,10 @@
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=luca5lima&show_icons=true&theme=blue-green)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-l-7a3368122/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://lucaslimoa2000@gmail.com)
+## Conecte-se comigo
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lima-c/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://lucaslimoa2000@gmail.com)
 
 ### IDE 👩‍💻
 
