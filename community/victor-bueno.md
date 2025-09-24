@@ -1,4 +1,4 @@
-# 👨‍💻 Victor Gomes Bueno
+# 👨‍💻 Victor Bueno
 
 🎯 **Objetivo:** Aprender programação e desenvolvimento de jogos   
 📍 Brasil | 🐙 [GitHub](https://github.com/vg-bueno)  
