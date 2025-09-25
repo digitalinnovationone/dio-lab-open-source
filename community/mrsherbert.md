@@ -1,6 +1,6 @@
 ## Olá, eu sou Herbert Tavares
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00F706&width=435&lines=Um+estudante+de+eletr%C3%B4nica;Estou+atualmente+aprendendo+tensorflow+e+pytorch)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=1000&color=00F706&width=435&lines=Um+estudante+de+eletr%C3%B4nica;Estou+atualmente+aprendendo+tensorflow+e+pytorch)](https://git.io/typing-svg)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
