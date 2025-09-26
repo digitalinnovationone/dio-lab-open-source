@@ -99,10 +99,7 @@
 
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Vidigal-code/github-stats/master/generated/overview.svg" alt="Vidigal-code">  
-<img src="https://raw.githubusercontent.com/Vidigal-code/github-stats/master/generated/languages.svg" alt="Vidigal-code">
-</div>
+
  <br/>
 
 <p align="center">
