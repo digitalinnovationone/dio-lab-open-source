@@ -1,3 +1,4 @@
+
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
@@ -50,7 +51,7 @@ Agora que você já sabe as formas de contribuir em um projeto Open Source, est�
 Para concluir este Desafio de Projeto, basta enviar a **URL do seu "fork" de um projeto Open Source que você contribuiu** para a entrega do desafio na plataforma [DIO](https://www.dio.me/).
 
 > [!NOTE]   
-> Por exemplo, a URL https://github.com/falvojr/dio-lab-open-source é o "**fork**" feito pelo usuário do GitHub "`falvojr`" para a contribuição no repositório `dio-lab-open-source`.
+> Por exemplo, a URL https://github.com/dmayconn/dio-lab-open-source/edit/main/README.md é o "**fork**" feito pelo usuário do GitHub "`dmayconn`" para a contribuição no repositório `dio-lab-open-source`.
 
 ### Contribua com seu Profile README
 Para contribuir neste repositório, uma das formas é através da contribuição no diretório "**community**", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. <br>
