@@ -20,6 +20,9 @@
 - Profissional na Área de Manutenção de Computadores, Notebooks, Sistema Operacional Windows e Redes há mais de 25 anos, concluí recentemente o Curso de Análise e Desenvolvimento de Sistemas, estou na gatinhando na Área de Programação. Atualmente me encontro em tratamento oncológico, que não me impede de querer aprender e compartilhar conhecimentos.
 
 
+[![DIO Lab Workflow](https://github.com/digitalinnovationone/dio-lab-open-source/actions/workflows/dio-lab-validate-and-merge.yml/badge.svg)](https://github.com/digitalinnovationone/dio-lab-open-source/actions/workflows/dio-lab-validate-and-merge.yml)
+
+
 
 
 
