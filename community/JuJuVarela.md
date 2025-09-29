@@ -41,3 +41,4 @@ Me encontre e vamos conversar sobre tecnologia ou finanças!
 | :--- | :--- |
 | **Email** | varela.juliana@gmail.om |
 | **LinkedIn** | [Juliana Vieira Varela](https://www.linkedin.com/in/juliana-vieira-varela-4107613a) |
+
