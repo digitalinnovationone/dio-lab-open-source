@@ -30,11 +30,6 @@
       <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>&nbsp;
   </span>
-  <span>
-    <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/Portfólio-000000.svg?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfólio" style="margin-right: 10px;"/>
-    </a>&nbsp;
-  </span>
 </p>
 
 #
