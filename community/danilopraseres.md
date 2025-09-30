@@ -12,4 +12,4 @@
 
 ---
 
-🔹 *Contribuição:* Adicionei meu perfil ao repositório como parte do desafio de contribuição Open Source 🚀
+🔹 *Contribuição:* Adicionei meu perfil ao repositório como parte do desafio de contribuição Open Source, e pretendo aprender cada vez mais 🚀
