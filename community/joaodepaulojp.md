@@ -38,11 +38,12 @@
 ### ⚙️ Back-End & Databases
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Neon](https://img.shields.io/badge/-Neon-333333?style=flat&logo=data:image/png;base64,[BASE64_ENCODED_IMAGE]&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-web-services)
 ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MySQL Workbench](https://img.shields.io/badge/-MySQL_Workbench-333333?style=flat&logo=mysql)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-web-services)
 
 ### 🧩 Others
 
@@ -52,16 +53,10 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
-## 💻 Tech Stack Highlights
-
-<p align="left">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodepaulojp&layout=compact&hide_border=true&title_color=991818&text_color=ffffff&bg_color=0d1117" />
-</p>
-
 ## 🟥 Latest Commit Energy
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=joaodepaulojp&show_icons=true&theme=github_dark&hide_border=true&title_color=fc354c&icon_color=991818&text_color=0abfbc" />
+<img src="https://github-readme-stats.vercel.app/api?username=joaodepaulojp&show_icons=true&theme=github_dark&hide_border=true&title_color=fc354c&icon_color=991818&text_color=0abfbc&rank_icon=github" />
 </p>
 
 <p align="center">
