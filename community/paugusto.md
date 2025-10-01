@@ -12,3 +12,11 @@
 * Manutenção de base de dados PostgreSQL
 * Manutenção de base de dados Azure SQL Database
 
+### Certificações 
+* Microsoft Certified: Azure AI Fundamentals
+* Microsoft Certified: Security, Compliance, and Identity Fundamentals
+* Microsoft Certified: Dynamics 365 Fundamentals (CRM)
+* Microsoft Certified: Dynamics 365 Fundamentals (ERP)
+* Microsoft Certified: Azure Data Fundamentals
+* Microsoft Certified: Azure Fundamentals
+* Microsoft Certified: Power Platform Fundamentals
