@@ -1,5 +1,5 @@
 > 🇧🇷 Ceci est la version française de mon profil.  
-> Aussi en [Portugais](community/CamilaSantino.md) • [English](community/CamilaSantino.eng.md)
+> Aussi en [Portugais](CamilaSantino.md) • [English](CamilaSantino.eng.md)
 
 # 👩🏾‍💻 À propos de moi
 
