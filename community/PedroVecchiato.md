@@ -1,5 +1,5 @@
-#  zukohe4rt
-Tranquilo?, Meu nome é Pedro e estou começando na TI.
+#  Pedro Vecchiato
+Tranquilo?, Meu nome é Pedro Vecchiato e estou começando na TI.
 
 
 ## Conecte-se comigo
