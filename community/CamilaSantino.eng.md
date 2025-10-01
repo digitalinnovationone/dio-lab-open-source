@@ -1,6 +1,5 @@
 > 🇧🇷 This is the English version of my profile.  
-> For Portuguese, see [LEIAME](./community/CamilaSantino.md)  
-> Pour le français, voir [LISEZMOI](.community/CamilaSantino.fr.md)
+> Also available in [Portuguese](.CamilaSantino.md) • [French](CamilaSantino.fr.md)
 
 # 👩🏾‍💻 About Me
 
