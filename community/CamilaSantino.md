@@ -1,4 +1,4 @@
-> 🌍 Disponível em: [English](.community/CamilaSantino.eng.md) · [Français](.community/CamilaSantino.fr.md)
+> 🌍 Disponível em: [English](community/CamilaSantino.eng.md) · [Français](community/CamilaSantino.fr.md)
 
 # 👩🏾‍💻 Sobre mim
 
