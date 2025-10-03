@@ -9,6 +9,7 @@
 <br>
 <br>
 <br>
+<br>
 <div style="background-color: black; border-radius: 10px; padding: 10px">
     <p>
         Tenho 21 anos e estou construindo minha carreira como desenvolvedor Full Stack, com foco em C#. Atualmente, estou em transição para um estágio na área de desenvolvimento Full Stack com .NET.</p>
