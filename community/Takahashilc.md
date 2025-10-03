@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Takahashilc
+- 👀 I’m interested in Web Development and Data Analytics.
+- 🌱 I’m currently learning Python, SQL.
+- 📫 How to reach me https://www.linkedin.com/in/leandrotakahashidacosta/
