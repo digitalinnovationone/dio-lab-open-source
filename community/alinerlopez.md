@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2C3E50&height=120&section=header&text=Aline%20Lopez%20🌟&fontColor=FFFFFF&fontAlignY=35"/>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2C3E50&height=120&section=header&text=Aline%20Lopez%20🌟&fontColor=FFFFFF&fontAlignY=45"/>
 
 <h2 align="center">✨ Bem-vindo(a) ao meu espaço!</h2>
 
