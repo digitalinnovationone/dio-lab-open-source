@@ -1,4 +1,5 @@
-# Olá, eu sou e 👋
+# SOBRE MI
+Olá, eu sou EVARISTO N. GILBERTO 👋
 Profissional com experiência em atendimento ao público, 
 marketing digital, reservas hoteleiras e desenvolvimento de projetos em Python.
 Apaixonado por tecnologia, com foco em soluções práticas e aprendizado contínuo.
