@@ -21,7 +21,7 @@ Sou Jackson, estudante de Ciência de Dados pela Univesp, com sólida experiênc
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub"/>
   </a>
 
- ## 📚 O que estou estudando
+ ## 📚 O que estou estudando 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60" height="60" alt="Python" />
   <img width="12" />
