@@ -14,6 +14,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?size=28&duration=2500&pause=800&color=E94D5F&width=600&lines=Olá%2C+eu+sou+o+Assis!;Dev+Full-Stack+%F0%9F%92%BB;JS+%7C+Vue+%7C+React+%7C+Angular+%7C+.NET+%7C+Rails)
 
 ## Sobre mim
+
 Sou dev **full-stack** há mais de 10 anos, atuando do front ao back com foco em qualidade, performance e entrega de valor.
 Trabalho com **JavaScript/TypeScript**, **HTML/CSS**, **Vue**, **React**, **Angular**, **.NET** e **Ruby on Rails**, além de
 bancos **PostgreSQL** e **MySQL**. Curto arquitetar soluções, escrever código limpo e automatizar o que for possível.
