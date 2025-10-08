@@ -1,36 +1,56 @@
-# Hi, I’m Heviane Bastos, Developer 👩‍🎓
+<h2>
+  <span>Olá!👋 Eu sou a Heviane Bastos</span>
+	<img align="right" alt="Stars" src="https://img.shields.io/github/stars/heviane">
+	<img align="right" alt="Followers" src="https://img.shields.io/github/followers/heviane?style=social">
+</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-heviane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heviane-bastos)](https://www.linkedin.com/in/heviane-bastos)
-[![Instagram Badge](https://img.shields.io/badge/-byheviane-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/byheviane)](https://www.instagram.com/byheviane)
-[![Medium Badge](https://img.shields.io/badge/-@heviane-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@heviane)](https://medium.com/@heviane)
-[![Gmail Badge](https://img.shields.io/badge/-heviane@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heviane@gmail.com)](mailto:heviane@gmail.com)
+### Desenvolvedora de Software
 
-## 💻 Technologies
+Sou Desenvolvedora de Software com uma base sólida em projetos Web, Desktop, e mais recentemente em Mobile (Android/iOS) utilizando a plataforma **GeneXus**.
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+Atualmente estou expandindo meus conhecimentos para a plataforma **.NET** com **C#** e explorando as melhores práticas do mercado.
 
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+Estou sempre em busca de novos desafios e oportunidades para colaborar, aprender, crescer com a equipe e construir tecnologia de impacto, seja em projetos .NET ou aproveitando minha experiência de uma década com GeneXus.
 
-## 🚀 Tools
+Sinta-se à vontade para explorar meus projetos e entrar em contato! 🚀
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95410?style=flat-square&logo=ubuntu&logoColor=white)
-[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+<div align="center">
+  <a href="https://www.linkedin.com/in/hevianebastos" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.dio.me/users/byheviane" target="_blank">
+    <img src="https://img.shields.io/badge/DIO-8A2BE2?style=flat&logo=dio&logoColor=white" alt="DIO" />
+  </a>
+  <a href="https://learn.microsoft.com/pt-br/users/heviane/transcript/dlgq1b9o4glx6n6" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Learn-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Microsoft Learn" />
+  </a>
+  <a href="mailto:heviane@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
 
-## ⚡ GitHub Stats
+---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=heviane&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heviane&layout=compact&langs_count=16&theme=algolia)
+## 🛠️ Tecnologias e Ferramentas
 
-![heviane](https://komarev.com/ghpvc/?username=heviane)
+Abaixo estão algumas das tecnologias e ferramentas com as quais possuo experiência ou estou atualmente estudando.
+
+<div align="center">
+
+| Linguagens | Frontend | Mobile | Database | DevOps | SO |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://heviane.github.io/image-gallery/tech/language/icon-dotnet.svg" width="25" height="25" alt=".NET"/> | <img src="https://heviane.github.io/image-gallery/tech/language/icon-html5.svg" width="25" height="25" alt="HTML5"/> | <img src="https://heviane.github.io/image-gallery/tech/mobile/icon-androidstudio.svg" width="25" height="25" alt="Android Studio"/> | <img src="https://heviane.github.io/image-gallery/tech/database/sql/icon-sqlserver.svg" width="25" height="25" alt="SQL Server"/> | <img src="https://heviane.github.io/image-gallery/tech/tool/icon-git.svg" width="25" height="25" alt="Git"/> | <img src="https://heviane.github.io/image-gallery/tech/so/icon-apple.svg" width="25" height="25" alt="macOS"/> |
+| <img src="https://heviane.github.io/image-gallery/tech/language/icon-csharp.svg" width="25" height="25" alt="C#"/> | <img src="https://heviane.github.io/image-gallery/tech/language/icon-css3.svg" width="25" height="25" alt="CSS3"/> | <img src="https://heviane.github.io/image-gallery/tech/mobile/icon-xcode.svg" width="25" height="25" alt="Xcode"/> | <img src="https://heviane.github.io/image-gallery/tech/database/sql/icon-mysql.svg" width="25" height="25" alt="MySQL"/> | <img src="https://heviane.github.io/image-gallery/tech/tool/icon-github.svg" width="25" height="25" alt="GitHub"/> | <img src="https://heviane.github.io/image-gallery/tech/so/icon-linux.svg" width="25" height="25" alt="Linux"/> |
+| <img src="https://heviane.github.io/image-gallery/tech/low-code/icon-genexus.svg" width="25" height="25" alt="Genexus"/> | <img src="https://heviane.github.io/image-gallery/tech/framework/frontend/icon-bootstrap.svg" width="25" height="25" alt="Bootstrap"/> | | <img src="https://heviane.github.io/image-gallery/tech/database/sql/icon-postgresSQL.svg" width="25" height="25" alt="PostgreSQL"/> | <img src="https://heviane.github.io/image-gallery/tech/infrastructure/icon-docker.svg" width="25" height="25" alt="Docker"/> | <img src="https://heviane.github.io/image-gallery/tech/so/icon-windows.svg" width="25" height="25" alt="Windows"/> |
+| <img src="https://heviane.github.io/image-gallery/tech/language/icon-javascript.svg" width="25" height="25" alt="JavaScript"/> | | | | <img src="https://heviane.github.io/image-gallery/tech/infrastructure/devops/icon-github-actions.svg" width="25" height="25" alt="GitHub Actions"/> | |
+| <img src="https://heviane.github.io/image-gallery/tech/language/icon-bash.svg" width="25" height="25" alt="Bash"/> | | | | <img src="https://heviane.github.io/image-gallery/tech/infrastructure/cloud/icon-azure.svg" width="25" height="25" alt="Azure"/> |
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=heviane&show_icons=true&theme=dracula&include_all_commits=true" alt="Estatísticas do GitHub de Heviane"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heviane&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas por Heviane"/>
+</div>
