@@ -4,7 +4,7 @@
 	<img align="right" alt="Followers" src="https://img.shields.io/github/followers/heviane?style=social">
 </h2>
 
-### Desenvolvedora de Software
+## Desenvolvedora de Software
 
 Sou Desenvolvedora de Software com uma base sólida em projetos Web, Desktop, e mais recentemente em Mobile (Android/iOS) utilizando a plataforma **GeneXus**.
 
