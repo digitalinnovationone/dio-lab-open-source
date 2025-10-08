@@ -4,14 +4,17 @@
 </p>
 
 <p align="center">
-  <a href="mailto:SEU_EMAIL_AQUI">E-mail</a> •
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI">LinkedIn</a> •
-  <a href="https://github.com/SEU_GITHUB_AQUI">GitHub</a>
+  <a href="mailto:asjusi@hotmail.com">E-mail</a> •
+  <a href="https://www.linkedin.com/in/assis-barbosa-3866b9139">LinkedIn</a> •
+  <a href="https://github.com/assis">GitHub</a>
 </p>
 
 ---
 
+![Typing SVG](https://readme-typing-svg.demolab.com?size=28&duration=2500&pause=800&color=E94D5F&width=600&lines=Olá%2C+eu+sou+o+Assis!;Dev+Full-Stack+%F0%9F%92%BB;JS+%7C+Vue+%7C+React+%7C+Angular+%7C+.NET+%7C+Rails)
+
 ## Sobre mim
+
 Sou dev **full-stack** há mais de 10 anos, atuando do front ao back com foco em qualidade, performance e entrega de valor.
 Trabalho com **JavaScript/TypeScript**, **HTML/CSS**, **Vue**, **React**, **Angular**, **.NET** e **Ruby on Rails**, além de
 bancos **PostgreSQL** e **MySQL**. Curto arquitetar soluções, escrever código limpo e automatizar o que for possível.
@@ -51,7 +54,7 @@ bancos **PostgreSQL** e **MySQL**. Curto arquitetar soluções, escrever código
 
 ### 🔹 Projeto de automação
 - **Stack:** .NET, MS SQL, HTML, ARDUINO, C++  
-- **Descrição:** O sistema que desenvolvir tem por objetivo fazer o controle de toda a casa, tem a possibilidade de realizar cadastros da casa, equipamentos, compartimentos e fazer o controle de consumo de cada dispositivo.  
+- **Descrição:** O sistema que desenvolvi tem por objetivo fazer o controle de toda a casa, tem a possibilidade de realizar cadastros da casa, equipamentos, compartimentos e fazer o controle de consumo de cada dispositivo.  
 - **Links:** [Código](https://github.com/asssis/AutomacaoResidencial)
 
 ### 🔹 Projeto Pokemon
@@ -61,7 +64,7 @@ bancos **PostgreSQL** e **MySQL**. Curto arquitetar soluções, escrever código
 
 ### 🔹 Projeto Meritmoney
 - **Stack:** Ruby on Rails, HTML, Boostrap, Ominioauth
-- **Descrição:** Destaque pontos técnicos (cache, testes, filas, etc.).  
+- **Descrição:** Sistema de reconhecimento interno baseado em pontos, com login via OAuth e gestão de métricas de desempenho.  
 - **Links:** [Código](https://github.com/asssis/meritmoney)
 
 ---
@@ -91,7 +94,7 @@ bancos **PostgreSQL** e **MySQL**. Curto arquitetar soluções, escrever código
 
 ## Contato
 - ✉️ **E-mail:** asjusi@hotmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/assis-barbosa-3866b9139/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/assis-barbosa-3866b9139
 - 🐙 **GitHub:** https://github.com/asssis
 
 ---
