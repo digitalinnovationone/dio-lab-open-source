@@ -21,6 +21,7 @@
 - 🌟 Meu objetivo é me tornar um verdadeiro hacker ofensivo, sempre aprendendo e evoluindo!  
 
 ---
+---
 
 ### Estatísticas 🚀  
 <p align="center">
