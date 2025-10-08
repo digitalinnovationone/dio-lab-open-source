@@ -53,7 +53,7 @@ bancos **PostgreSQL** e **MySQL**. Curto arquitetar soluções, escrever código
 
 ### 🔹 Projeto de automação
 - **Stack:** .NET, MS SQL, HTML, ARDUINO, C++  
-- **Descrição:** O sistema que desenvolvir tem por objetivo fazer o controle de toda a casa, tem a possibilidade de realizar cadastros da casa, equipamentos, compartimentos e fazer o controle de consumo de cada dispositivo.  
+- **Descrição:** O sistema que desenvolvi tem por objetivo fazer o controle de toda a casa, tem a possibilidade de realizar cadastros da casa, equipamentos, compartimentos e fazer o controle de consumo de cada dispositivo.  
 - **Links:** [Código](https://github.com/asssis/AutomacaoResidencial)
 
 ### 🔹 Projeto Pokemon
@@ -63,7 +63,7 @@ bancos **PostgreSQL** e **MySQL**. Curto arquitetar soluções, escrever código
 
 ### 🔹 Projeto Meritmoney
 - **Stack:** Ruby on Rails, HTML, Boostrap, Ominioauth
-- **Descrição:** Destaque pontos técnicos (cache, testes, filas, etc.).  
+- **Descrição:** Sistema de reconhecimento interno baseado em pontos, com login via OAuth e gestão de métricas de desempenho.  
 - **Links:** [Código](https://github.com/asssis/meritmoney)
 
 ---
