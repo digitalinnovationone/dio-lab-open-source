@@ -18,7 +18,7 @@ Desenvolvo aplicações utilizando:
 **Back-end**:
 </br>
 <br>
-
+ 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 </br>
