@@ -1,6 +1,4 @@
-
-
-\# Bruno Andrade 👋
+\# Bruno Andrade 👋olá
 
 
 
@@ -20,13 +18,11 @@ Busco uma primeira oportunidade como QA Júnior ou estagiário para colocar em p
 
 
 
-\- 💻 formado em Análise e Desenvolvimento de Sistemas  
+\- 💻 formado em Análise e Desenvolvimento de Sistemas
 
-\- 🎯 Participando do desafio da DIO de contribuição Open Source  
+\- 🎯 Participando do desafio da DIO de contribuição Open Source
 
-\- 🚀 Interesses: QA, tecnologia e concursos públicos  
+\- 🚀 Interesses: QA, tecnologia e concursos públicos
 
 \- 🌐 https://github.com/Andrade84
-
-
 
