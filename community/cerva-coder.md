@@ -1,6 +1,6 @@
 ## 🚀 Apresentação do Meu Perfil Tech
 
-Olá! 👋 Sou o André
+Olá! 👋 Sou o André.
 
 ---
 ## 💻  Linguagens de Programação e Banco de Dados
