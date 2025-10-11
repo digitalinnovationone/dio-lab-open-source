@@ -1,0 +1,1 @@
+Meu nome é Caio e atualmente estou fazendo Bacharelado em Ciência da Computação. Estou no momento investigando as áreas da computação em busca da que me chama mais atenção. Já programei no front-end usando HTML, CSS e Javascript e atual estou estudando C# para trabalhar no Back-end
