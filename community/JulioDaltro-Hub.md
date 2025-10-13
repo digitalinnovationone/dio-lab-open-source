@@ -15,10 +15,8 @@ Tenho experiência prática com projetos de **Business Intelligence (BI)** e an�
 
 ### Projetos Destacados
 
-* **Relatório de Ativos não operantes**: Uma breve descrição do projeto. O que você fez? Que problema resolveu? (Ex: Análise de vendas de uma loja de varejo utilizando Power BI para criar um dashboard interativo.)
-* **[Nome do Projeto 2]**: Uma breve descrição do projeto. (Ex: Predição de preços de imóveis com Python e um modelo de regressão.)
-
-* *(Dica: Lembre-se de substituir os nomes e descrições dos projetos pelos seus. Se eles estiverem em outros repositórios, adicione um link para eles!)*
+* **Relatório de Ativos não operantes**: 
+* **[Nome do Projeto 2]**: Ainda será inserido
 
 ---
 
