@@ -4,7 +4,7 @@ visitor@github:~$ cat about_me.txt
 
 <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </div>
 
-<h2>🚀 |  Sobre Mim</h2>
+<h2>🚀 |  Sobre Mim: </h2>
 
 ```bash
 visitor@github:~S whoami
@@ -45,7 +45,7 @@ visitor@github:~S ls -la skills/
   <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white">
 </div>
 
-<h2>📊 |  Estatísticas do GitHub</h2>
+<h2>📊 |  Estatísticas do GitHub:</h2>
 
 ```bash
 visitor@github:~$ github-stats --user Mr-maike
