@@ -2,6 +2,13 @@
 
 Olá! Meu nome é Caradophp e sou apaixonado por desenvolvimento, especialmente utilizando PHP e Java.
 
+## Nível de Uso das Linguagens
+
+| Linguagem | Nível de Uso |
+|-----------|--------------|
+| PHP       | 46%          |
+| Java      | 54%          |
+
 ## PHP
 
 PHP foi a minha porta de entrada no mundo do desenvolvimento web. Gosto da sua flexibilidade, da vasta comunidade e da facilidade de integração com diferentes bancos de dados e frameworks. Prefiro seguir boas práticas, como:
