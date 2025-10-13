@@ -14,7 +14,6 @@ Olá! Meu nome é Caradophp e sou apaixonado por desenvolvimento, especialmente 
 PHP foi a minha porta de entrada no mundo do desenvolvimento web. Gosto da sua flexibilidade, da vasta comunidade e da facilidade de integração com diferentes bancos de dados e frameworks. Prefiro seguir boas práticas, como:
 - Utilizar PSR para padronização do código
 - Separação de responsabilidades (MVC)
-- Testes automatizados
 - Uso de Composer para gerenciamento de dependências
 
 Gosto de desenvolver APIs REST, sites dinâmicos e automações usando PHP, sempre buscando performance e segurança.
