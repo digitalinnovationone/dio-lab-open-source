@@ -79,14 +79,15 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
     
 ## Convenção de Commits 
 
-| Tipo de Commit |Descrição                                                            | Exemplo
-| ---------------|----------------------------------------------------------------------|-----------
-| `feat`         | Adiciona uma nova funcionalidade ao projeto.                         | `feat: add USENAME.md profile`
-| `fix`          | Corrige um bug ou problema no projeto.                               | `fix: fixed issue fix#IssueNumber`
-| `docs`         | Altera a documentação do projeto.| `docs: update README.md`
-| `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         | `style: add EFFECTNAME to COMPONENT`
-| `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
-| `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
+| Tipo de Commit | Quando Utilizar                                                                       | Exemplo                                                           |
+|----------------|--------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| feat           | Para adicionar uma nova funcionalidade ou recurso ao projeto.                        | feat: adicionar login por redes sociais                           |
+| fix            | Para corrigir um bug, erro ou problema existente.                                    | fix: corrigir cálculo de desconto na tela de pagamento            |
+| docs           | Para alterações na documentação (README, comentários no código, guias etc).          | docs: atualizar instruções de instalação no README                |
+| style          | Para mudanças que não afetam o funcionamento do sistema (espaçamento, layout, etc).  | style: padronizar indentação dos arquivos JS                      |
+| refactor       | Para alterações na estrutura do código sem mudança de funcionalidade.                | refactor: extrair função de validação para componente separado    |
+| test           | Para criar, atualizar ou corrigir testes automatizados ou manuais.                   | test: adicionar teste para validar autenticação do usuário        |
+
 
 
 ## Referências
