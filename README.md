@@ -1,37 +1,61 @@
+<!-- SVG animado de boas-vindas -->
+<svg width="100%" height="60">
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="24" fill="url(#grad)">
+    Bem-vindo ao meu GitHub!
+  </text>
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF00FF; stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00FFFF; stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg>
 
-# DarleiVN
+---
+
+## 👋 Olá, eu sou Darlei!
+
+Desenvolvedor/Estudante apaixonado por tecnologia, comunidades open source e inovação. Sempre explorando novas ideias e colaborando com projetos que fazem a diferença.
+
+---
+
+### 🚀 Sobre mim
+
+- 💻 Estudante de ADS.
+- 🌱 Atualmente aprendendo: **Python**, **SQL**, **JavaScript**
+- 🧠 Curioso por IA, automações e boas práticas
+- 🎯 Objetivo: contribuir com projetos que impactam positivamente a comunidade
+
+---
+
+### 📈 Estatísticas do GitHub
 
 
-## 🔗 Links
-
-# Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEUUSERNAME/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:SEUGMAIL)
-## 🛠 Habilidades
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarleiVN&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DarleiVN&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+![Top Languages card displaying a dark-themed chart of the most used programming languages by the GitHub user DarleiVN. The chart highlights the top languages with a transparent background, black base, blue borders, and red titles. The text is white, providing a clean and professional look.](https://github-readme-stats.vercel.app/api/top-langs/?username=DarleiVN&bg_color=000000&border_color=30A3DC&title_color=E94D5F&text_color=FFFFFF)
 
 
-### Linguagens de Marcação e Estilo
 
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Linguagens de Programação
+---
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
+### 🛠️ Tecnologias e Ferramentas
+  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Banco de Dados 
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+### 📫 Conecte-se comigo
 
-### Ferramentas 🛠 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario) [![Portfólio](https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)](https://seusite.com) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEUUSERNAME/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:SEUGMAIL)
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)## Git stats
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+### ✨ Projetos em Destaque
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+- 🔧 [dio-lab-open-source](https://github.com/DarleiVN/dio-lab-open-source) — colaboração com a comunidade DIO
+
+brigado por visitar meu perfil!  
+Sinta-se à vontade para explorar, contribuir ou entrar em contato.  
+✨ _Código com propósito, comunidade com paixão._
