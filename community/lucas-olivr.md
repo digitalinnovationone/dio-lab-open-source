@@ -9,7 +9,7 @@
 
 Sou um estudante de **Sistemas de Informação**. Estou no início da minha jornada, transformando a teoria em prática e muito animado para explorar o vasto universo da programação e do desenvolvimento de software.
 
-Minha meta é me tornar um **Programador** focado em  Desenvolvimento Web, Back-end, Ciência de Dados.
+Minha meta é me tornar um **Programador Senior** focado em  Desenvolvimento Web/Mobile, Back-end/Front-end, IA e Blockchain.
 
   - 🎯 **Foco Principal:** Aprender os fundamentos de programação, algoritmos, estrutura de dados e desenvolver minha lógica.
   - 🌱 **No que estou trabalhando agora:** Projetos e exercícios da faculdade, e aprofundando meus conhecimentos em Python,JavaScript, HTML, Banco de Dados etc.
@@ -28,13 +28,13 @@ Estes são os conhecimentos e as ferramentas que estou adquirindo em meu curso e
 | **Banco de Dados** | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) |
 | **Controle de Versão** | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
 | **Em Exploração** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)|
-
-*Mantenho esta seção atualizada conforme aprendo novas tecnologias.*
-
------
-
+| **Ferramentas** | ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)|
 
 -----
+
+
+
+
 
 ### 🤝 Vamos Conectar\!
 
