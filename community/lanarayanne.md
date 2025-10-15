@@ -26,4 +26,3 @@ Olá! meu nome é Alana!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanarayanne&bg_color=000&border_color=32a852&title_color=E94D5F&text_color=FFF&hide_title=true)
 
-## Minhas Contribuições
