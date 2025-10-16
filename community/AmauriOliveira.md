@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006400&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Amauri+Oliveira;I'm+a+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Amauri+Oliveira;I'm+a+Web+Developer)](https://git.io/typing-svg)
 
 
 | Atualmente  | Empresa | Localização|
@@ -11,9 +11,9 @@ Perfil analítico paixão por desafios e aprender coisa novas, com uma boa base 
 
 #### Redes Sociais
 
-[![Dio](https://img.shields.io/static/v1?message=DIO&logo=dio&label=&color=006400&&style=for-the-badge)](https://web.dio.me/users/25905?tab=achievements)
-[![Linkedin](https://img.shields.io/static/v1?message=Me%20Adicione&logo=linkedin&label=&color=006400&style=for-the-badge)](https://www.linkedin.com/in/amauri-oliveira-058066192/)
-[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AmauriOliveira&theme=gotham)](https://visitor-badge.laobi.icu/)
+[![Dio](https://img.shields.io/static/v1?message=DIO&logo=dio&label=&color=000&&style=for-the-badge)](https://web.dio.me/users/25905?tab=achievements)
+[![Linkedin](https://img.shields.io/static/v1?message=LinkedIn&label=&color=000&style=for-the-badge)](https://www.linkedin.com/in/amauri-oliveira-058066192/)
+[![My Linktree](https://img.shields.io/static/v1?message=OtherGitHub&label=&color=000&style=for-the-badge)](https://github.com/AmauriOliveiraTokenLab)
 
 #### Estudando/Conhecimento
 
@@ -66,5 +66,6 @@ Perfil analítico paixão por desafios e aprender coisa novas, com uma boa base 
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=amaurioliveira&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
 </div>
 
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AmauriOliveira&theme=gotham)](https://visitor-badge.laobi.icu/)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=footer"/>
