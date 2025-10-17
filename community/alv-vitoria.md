@@ -2,10 +2,10 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C258D,100:4389A2&height=180&section=header&text=🧙‍♀️%20Jornada%20da%20Bruxa%20dos%20Dados%20🔮&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C258D,100:4389A2&height=180&section=header&text=🧙‍♀️%20HELLO%20WORD!%20🔮&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="banner"/>
 </p>
 
-<h3 align="center">✨ hello word! ✨</h3>
+<h3 align="center">✨ Ben vindos! ✨</h3>
 
 ---
 
