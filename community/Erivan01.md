@@ -1,4 +1,4 @@
-# Olá, sou o Erivan e essas são as minhas habilidades
+# Olá todos, meu nome é Erivan e essas são as minhas habilidades
 
 # Liguagens de programação 
 
