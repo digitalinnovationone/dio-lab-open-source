@@ -6,4 +6,4 @@
 
 ## Olá! Meu nome é Alessandra Chaves (sanchaves).  
 ## Estou participando do desafio de contribuição open source da DIO.  
-## Este é meu Profile README. :0
+## Este é meu Profile README. 
