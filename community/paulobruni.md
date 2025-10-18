@@ -17,4 +17,4 @@ Olá! Eu sou Paulo Bruni, desenvolvedor Java/Groovy e aspirante a Web3.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulobruni&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
 
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobruni&repo=https://github.com/paulobruni/dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/paulobruni/dio-lab-open-source)
+[![Repo Card](https://streak-stats.demolab.com?user=paulobruni&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)](https://github.com/paulobruni/dio-lab-open-source)
