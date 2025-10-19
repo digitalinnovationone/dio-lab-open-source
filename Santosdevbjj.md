@@ -1,13 +1,13 @@
-Ampla expertise em programação e análise de sistema, desenvolvimento de sistemas de conta corrente, compensação de cheques, e suporte aos clientes internos e externos por telefone ou presencial de acordo com a demanda.
+# Olá, Mundo! Eu sou Sergio Santos 👋
 
- Sempre fui movido a desafios, a estar sempre aprendendo e usando coisas novas, novas tecnologias, novas maneiras de trabalhar.
+### Desenvolvedor
 
-Sempre gostei e gosto do desafio em aprender algo novo, uma nova competência, uma nova habilidade.
+Estudante apaixonado(a) por tecnologia e em constante busca por novos conhecimentos. Esta é minha **primeira contribuição Open Source** no GitHub, e estou animado(a) para mergulhar no mundo da colaboração!
 
- Aprendi a trabalhar sob pressão, a manter sempre o foco, a calma, a paciência, e persistência para atingir os objetivos. Sempre com resiliência e empatia.
- 
- Um apaixonado pelo estudo do direito, do meio ambiente, da sustentabilidade, e tecnologia da informação.
+🌱 **Atualmente estudando:** Python, C#, IA Cloud Computing, etc.]
 
- A LGPD, por exemplo, é um excelente exemplo dessa interseçã entre tecnologia da informação e direito: para aplicá-la de forma eficaz, é essencial tanto o conhecimento técnico da manipulação de dados quanto o entendimento jurídico sobre a proteção da privacidade.
+🚀 **Objetivo:** Contribuir ativamente para projetos que tragam impacto e aprimorar minhas habilidades de desenvolvimento.
 
- Estou aprendendo a usar essa plataforma 
+---
+
+### Autor: Sergio Santos 
