@@ -5,7 +5,7 @@ Meu nome é Leandro da Silva Santos e atualmente, retomei ao estudo de Linguagem
 Como desafio deste curso da Dio - 
 "Contribuindo em um Projeto Open Source no GitHub" - passo a passo me vejo preparado para os próxmos desafios.
 
-Este primeiro contado, "profiossional", contribuindo num projeto real, me mostrou que é póssivel contribuir de forma prática, direta e remota em futuros projetos, e que estar preparado para as rápidas mudanças do mercado de tecnologia é importante quanto cada linha de código para estarem encadeadas e sem bugs. 
+Este primeiro contado, "profissional", contribuindo num projeto real, me mostrou que é póssivel contribuir de forma prática, direta e remota em futuros projetos, e que estar preparado para as rápidas mudanças do mercado de tecnologia é importante quanto cada linha de código para estarem encadeadas e sem bugs. 
 
 ##Conecte-se comigo
 
