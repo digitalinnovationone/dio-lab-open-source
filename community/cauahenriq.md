@@ -30,7 +30,7 @@ Welcome to my GitHub profile. I'm passionate about technology, building intellig
 
 ---
 
-## 📊 GitHub Stats — Black & Green Matrix Theme
+## 📊 GitHub Stats — 
 
 > Replace `cauahenriq` below with your actual GitHub username.
 
