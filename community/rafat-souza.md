@@ -1,6 +1,7 @@
 ## Olá, aqui é o Rafael!
-💻Sou estudante de sistemas de informação, entusiasta de dados, e estou aprendendo desenvolvimento mobile com react native. 
-🎛Gosto de produção musical, filmes e livros de economia e autodesenvolvimento.
+💻Sou estudante de sistemas de informação, entusiasta de dados, e estou aprendendo desenvolvimento mobile com react native.
+
+🎛 Gosto de produção musical, filmes e livros de economia e autodesenvolvimento.
 
 ## Projetos Atuais
 ₿ Estou com um repositório público no meu perfil de um projeto de bot que compra bitcoin diariamente, identificando quando o preço atinge um valor próximo
