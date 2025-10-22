@@ -1,1 +1,0 @@
-Olá GitHub! Meu primeiro commit usando SSH.
