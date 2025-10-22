@@ -1,5 +1,5 @@
 # Sobre mim
- Ola me chamo lucas, tenho 25 anos, sou formado em Engenharia Aeroespacial no Canada, estudando Engenharia de Software na FIAP. Trabalho muito bem em equipe, tenho capacidade de colaborar com outros desenvolvedores de forma efetiva e sempre educada. Estou sempre em busca de aprender novas linguagens e tecnicas, buscando melhorar sempre!!
+ Ola me chamo lucas, tenho 25 anos, sou formado em Engenharia Aeroespacial no Canada, estudando Engenharia de Software na FIAP. Trabalho muito bem em equipe, tenho capacidade de colaborar com outros desenvolvedores de forma efetiva e sempre educada. Estou sempre em busca de aprender novas linguagens e tecnicas, buscando melhorar sempre!
 
  ## conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-murta-vargas-1927b7321/)
