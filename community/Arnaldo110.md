@@ -1,6 +1,6 @@
 # Francisco Arnaldo 
 
-Sou um futuro **Engenheiro de Software** com foco em **Desenvolvimento Front-end**, em busca da minha primeira oportunidade profissional.
+Sou um futuro **Engenheiro de Software** com foco em **Desenvolvimento Front-end**, estou atualmente em busca da minha primeira oportunidade profissional.
 
 Minha base técnica e a área de aprimoramento contínuo incluem as seguintes tecnologias e ferramentas:
 
