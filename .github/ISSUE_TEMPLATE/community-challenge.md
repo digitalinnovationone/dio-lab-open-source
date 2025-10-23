@@ -2,7 +2,7 @@
 name: Community Challenge
 about: Crie uma issue sobre o Desafio proposto à comunidade
 title: "[DESAFIO]"
-labels: community challenge
+labels: ''
 assignees: ''
 
 ---
@@ -14,4 +14,4 @@ Uma descrição do que pode ser feito.
 Uma descrição sobre como você fez o seu.
 
 *Links úteis*
-- [Nome do Link](URL)
+- [Criando um Problema](https://docs.github.com/pt/issues/tracking-your-work-with-issues/using-issues/creating-an-issue)
