@@ -21,3 +21,5 @@
 📫 How to reach me: alaxcra@hotmail.com https://www.linkedin.com/in/alax-herbert-26062431a/
 
 ⚡ More facts: I like to study and work alone on game development projects, using Game Maker and Unity. At the same time, I create characters and Pixel Art style for these games.
+
+## Mesclagem
