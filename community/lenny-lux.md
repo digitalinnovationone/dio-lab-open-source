@@ -1,4 +1,6 @@
 # Gabriel Leandro S Pereira - Codinome Lenny Lux
+Olá, eu sou o Gabriel e estou me desenvolvendo para ser um grande Analista de Dados, para depois migrar para a Ciência de Dados.
+Utilizo esse codinome Lenny Lux para alguns usuários meus...
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsp/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gabrielleandrosp11@gmail.com)
