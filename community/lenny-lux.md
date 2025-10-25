@@ -1,4 +1,4 @@
-# Gabriel Leandro S Pereira - Codinome Lenny Lux 🕯️🐺
+# Gabriel Leandro S Pereira - Codinome Lenny Lux
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsp/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gabrielleandrosp11@gmail.com)
