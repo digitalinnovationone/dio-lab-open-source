@@ -1,5 +1,5 @@
 # Gustavo Mendes
-
+### Olá! eu sou o Gustavo Mendes e sou um desenvolvedor Full Stack.
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-mendes-6260a2194/)
 
