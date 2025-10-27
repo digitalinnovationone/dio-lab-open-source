@@ -1,5 +1,5 @@
 # Filipe Chaves
-Ola! Eu sou Filipe Augusto Chaves e estou inicando meu processo de aprendizado na DIO para me tornar um desenvolvedor de software copetente!
+Ola! Eu sou Filipe Augusto Chaves e estou inicando meu processo de aprendizado na DIO para me tornar um desenvolvedor de software competente!
 
 ## 📫 Conecte-se comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF5C00?style=for-the-badge&logo=linkedin&logoColor=000)](https://www.linkedin.com/in/filipe-augusto-chaves-5765bb387/)
