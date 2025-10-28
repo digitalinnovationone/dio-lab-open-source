@@ -75,6 +75,115 @@ Atente-se para a seguir as orientações para a contribuição, principalmente:
 ](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 Após criar o seu Pull Request, nossa automação irá validar a sua submissão. Caso esteja tudo certo, será retornada uma mensagem indicado que seu PR foi aprovado. Do contrário, leia atentamente as orientações e verifique os arquivos modificados para saber se atende as instruções para contribuição.
+
+
+## **Sugestão de Conteúdo Complementar a ser adicionado no [Guia de Contribuição](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md):**
+
+Manter uma boa higiene nas mensagens de commit é uma das práticas mais importantes para a manutenção de um projeto e colaboração em equipe.
+
+Os tipos de commit, tais como `feat:`, `docs:`, `refactor:` fazem parte de um padrão muito popular chamado **Conventional Commits**.
+
+Aqui está um detalhamento das melhores práticas:
+
+  * Boas Práticas para Mensagens de Commit (Git/GitHub)
+
+### O Padrão "Conventional Commits"
+
+Essa é uma convenção que impõe uma estrutura clara às mensagens de commit. O objetivo é criar um histórico explícito que seja fácil de ler por humanos e por máquinas (para automação, como gerar CHANGELOGs).
+
+A estrutura é:
+
+```
+<tipo>[escopo opcional]: <descrição>
+
+[corpo opcional]
+
+[rodapé opcional]
+```
+
+**Principais `<tipo>`:**
+
+  * **feat:** (Feature) Usado ao adicionar uma nova funcionalidade ao código.
+  * **fix:** Usado ao corrigir um bug na produção ou em desenvolvimento.
+  * **docs:** Usado para alterações *apenas* na documentação (ex: README, comentários de código).
+  * **refactor:** Usado para uma alteração de código que não corrige um bug nem adiciona uma funcionalidade (ex: otimização, limpeza de código, renomeação de variáveis).
+  * **style:** Alterações que não afetam o significado do código (espaços em branco, formatação, ponto e vírgula).
+  * **test:** Adicionando testes que faltam ou corrigindo testes existentes.
+  * **chore:** Alterações em processos de build, ferramentas auxiliares ou configurações que não estão relacionadas ao código-fonte (ex: atualizar o `.gitignore`).
+  * **perf:** (Performance) Uma alteração de código que melhora o desempenho.
+  * **ci:** Alterações nos arquivos e scripts de configuração de CI (Integração Contínua).
+
+-----
+
+### As 7 Regras de Ouro para Commits
+
+Independentemente de você usar o "Conventional Commits", estas 7 regras (popularizadas por Tim Pope) são a base de qualquer boa mensagem de commit:
+
+1.  **Separe o assunto do corpo com uma linha em branco:** O Git é otimizado para isso.
+2.  **Limite a linha de assunto (subject) a 50 caracteres:** Isso mantém as mensagens curtas e fáceis de ler no `git log`.
+3.  **Comece a linha de assunto com letra maiúscula:** É uma convenção de estilo, como um título.
+4.  **Não termine a linha de assunto com um ponto:** O assunto é um título, não uma frase.
+5.  **Use o modo imperativo na linha de assunto:**
+      * **Bom:** `Adiciona feature de login` (Como se estivesse dando uma ordem).
+      * **Ruim:** `Adicionada feature de login` (Passado).
+      * **Ruim:** `Adicionando feature de login` (Gerúndio).
+6.  **Quebre as linhas do corpo (body) em 72 caracteres:** Isso garante que o texto seja legível em qualquer terminal sem quebras estranhas.
+7.  **Use o corpo para explicar *o quê* e *por quê* (vs. *como*):** O código mostra *como* a mudança foi feita. O corpo do commit deve explicar *por que* essa mudança foi necessária e *qual* foi o impacto.
+
+-----
+
+### Juntando Tudo: Um Exemplo Ideal
+
+Aqui está um exemplo que combina o "Conventional Commits" com as "7 Regras de Ouro".
+
+#### 
+
+```
+feat(auth): Adiciona sistema de login com Google OAuth
+
+Implementa o fluxo de autenticação OAuth2 para permitir que novos
+usuários se cadastrem e façam login utilizando suas contas Google.
+
+Isso resolve a Issue #*123 e melhora significativamente a experiência
+de onboarding, reduzindo o atrito no cadastro.
+```
+
+#### 
+
+**Análise deste exemplo:**
+
+  * **Tipo:** `feat` (nova funcionalidade).
+  * **Escopo:** `(auth)` (módulo de autenticação).
+  * **Assunto:** `Adiciona sistema de login...` (Imperativo, maiúscula, \< 50 caracteres, sem ponto final).
+  * **Linha em Branco:** Separa o assunto do corpo.
+  * **Corpo:** Explica *o quê* (OAuth2) e *por quê* (resolve a Issue #*123, melhora onboarding). As linhas têm menos de 72 caracteres.
+
+-----
+
+### Por que se Preocupar com Isso?
+
+  * **Revisão de Código (Code Review):** Facilita para seus colegas entenderem rapidamente o que sua mudança faz.
+  * **Histórico (`git log`):** Permite navegar pelo histórico do projeto de forma eficiente.
+  * **Depuração (`git bisect`):** Ajuda a encontrar qual commit introduziu um bug.
+  * **Automação:** Permite gerar automaticamente notas de lançamento (CHANGELOGs) e controlar o versionamento (Semantic Versioning).
+ 
+-----
+### Referências:
+
+Você gostaria de ver mais exemplos de `types` do Conventional Commits (como `ci:`, `perf:`, `style:`)?
+
+**Fontes Principais:**
+
+Conventional Commits: Este é o site oficial da especificação, que detalha todos os tipos, regras e a estrutura exata. O objetivo é ter um padrão legível por máquinas para automação:** 
+[Conventional Commits (www.conventionalcommits.org)](https://www.conventionalcommits.org/en/v1.0.0/)
+
+As "7 Regras de Ouro" para Mensagens de Commit: Estas são as regras de formatação mais famosas (ex: limite de 50 caracteres no assunto, uso do modo imperativo) que foram popularizadas por Tim Pope e excelentemente documentadas por Chris Beams.:** 
+[How to Write a Git Commit Message (cbea.ms)](https://cbea.ms/git-commit/)
+
+**Fontes Adicionais (Leitura Recomendada):**
+[Atlassian Git Tutorial - git commit](https://www.atlassian.com/git/tutorials/saving-changes/git-commit)
+[Write Better Commits, Build Better Projects](https://github.blog/2022-06-30-write-better-commits-build-better-projects/)
+[How to Write Better Git Commit Messages – A Step-By-Step Guide](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
     
     
 ## Convenção de Commits 
@@ -87,7 +196,6 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 | `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         | `style: add EFFECTNAME to COMPONENT`
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
 | `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
-
 
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
