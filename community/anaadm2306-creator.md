@@ -1,12 +1,4 @@
-<style>
-body {
-  background-color: #000000;
-  color: #ffffff;
-  font-family: 'Segoe UI', Helvetica, Arial, sans-serif;
-  line-height: 1.5;
-  font-size:18px;
-}
-</style>
+
 
 >
 
