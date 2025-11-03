@@ -94,12 +94,5 @@ Sou movido por desafios que envolvem estratégia, transformação digital e impa
 
 </details>
 
-<details>
-<summary>📫 Contato</summary>
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/giuliannovaz)  
-- GitHub: [Seu GitHub](https://github.com/giuliannovaz)  
-
-</details>
-
 > 💡 Áreas de atuação: Consultoria Empresarial | Marketing e Comunicação | Planejamento Estratégico | Expansão de Negócios | Customer Success | Gestão de Franquias | Inovação e Tecnologia
 
