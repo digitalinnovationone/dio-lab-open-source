@@ -16,7 +16,7 @@
 
 Estou direcionando meus estudos para as seguintes áreas:
 
-- 📊 **Ciência de Dados:** Análise exploratória, limpeza e preparação de dados.
+- 📊 **Ciência de Dados:** Métodos de análise estatística, pré-processamento e visualização para extrair valor dos dados.
 - 🛢️ **SQL:** Modelagem de bancos de dados, consultas complexas e otimização.
 - 🧠 **Machine Learning:** Modelos preditivos, classificação e algoritmos de aprendizado.
 - 🤖 **Inteligência Artificial:** Conceitos de IA e aplicação em projetos práticos.
