@@ -83,10 +83,13 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 | ---------------|----------------------------------------------------------------------|-----------
 | `feat`         | Adiciona uma nova funcionalidade ao projeto.                         | `feat: add USENAME.md profile`
 | `fix`          | Corrige um bug ou problema no projeto.                               | `fix: fixed issue fix#IssueNumber`
-| `docs`         | Altera a documentação do projeto.| `docs: update README.md`
+| `docs`         | Altera a documentação do projeto.                                    | `docs: update README.md`
 | `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         | `style: add EFFECTNAME to COMPONENT`
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
 | `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
+| `perf`         | Alteração de código que melhora o desempenho da aplicação.           | `perf: add Pagination to findAll method`
+| `build`        | Realiza mudanças que afetam o build ou dependências externas.        | `build: update settings for docker-compose.yml`
+
 
 
 ## Referências
