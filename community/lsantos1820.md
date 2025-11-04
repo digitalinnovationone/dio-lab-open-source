@@ -1,36 +1,35 @@
-# Lsantos1820
+# Leonardo Silveira dos Santos (@lsantos1820)
 
-## Conecte-se comigo
+👋 Olá! Sou entusiasta de **Cloud & Security** e **.NET**, com foco em:
+- **Microsoft Defender XDR** | **Microsoft Sentinel** | **Entra ID (IAM & PIM)**  
+- **Blue Team / SOC / Threat Hunting**  
+- **C# / .NET**, APIs e fundamentos de microserviços
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lsilveira1/)
+🎯 Objetivos atuais
+- Preparação para **SC-200** e trilha Microsoft Security
+- Projetos práticos de **Detecção & Resposta** com KQL no Sentinel
+- Evoluir como **Analista de Operações de Segurança** e **.NET Developer**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lsantos1820)
+📚 Formação & Certificações
+- Pós em **Defensive Cyber Security (FIAP)** – Blue Team  
+- **SC-900**, **AI-900**, **MS-900** (concluídas)  
+- **SC-300 (em preparação)** | **MS-102 (estudando)**
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/leo.ss6?mibextid=LQQJ4d)
+🛠️ Tecnologias & Ferramentas
+- Microsoft 365 E5 Security, Defender for Endpoint/Cloud Apps, Purview (DLP)
+- **Azure / Sentinel / KQL**, Git & GitHub
+- **C# / .NET 8/9**, REST APIs
 
-## Habilidades
+📈 Destaques recentes
+- Laboratórios com **KQL** (função `bin()` e visualizações)  
+- Estudos e posts sobre **Microsoft Sentinel** e **XDR**
 
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+🌐 Links
+- GitHub: https://github.com/lsantos1820
+- LinkedIn: [(adicione seu link)](https://www.linkedin.com/in/lsilveira1/)
+- Artigos DIO: (adicione seus artigos)
 
-![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
-![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+#️⃣ Hashtags
+#SC200 #MicrosoftSecurity #AnalistaDeOperaçõesDeSegurança #BlueTeam #DefenderXDR #Sentinel #KQL #CSharp #DotNet
 
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
-
-## Ferramentas
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lsantos1820&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lsantos1820&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-
-
-## Minhas Contribuições
+> **Nota:** Este perfil faz parte do Lab da DIO “Contribuindo em um Projeto Open Source no GitHub”.
