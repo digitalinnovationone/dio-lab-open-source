@@ -1,7 +1,8 @@
 
 # Yara Veigaa
 
-### Hello, World ! 👋😊 ![Mulher branca com cabelo preso, feito rolinhos na lateral, ergendo a sombancelhas em um sofá no estilo britanico clássico em uma sala iluminada e paredes em verde](https://c.tenor.com/WcDFv4Sbg_YAAAAC/tenor.gif)
+### Hello, World ! 👋😊 
+![Mulher branca com cabelo preso, feito rolinhos na lateral, ergendo a sombancelhas em um sofá no estilo britanico clássico em uma sala iluminada e paredes em verde](https://c.tenor.com/WcDFv4Sbg_YAAAAC/tenor.gif)
 
 
 🏙️ Architect and Urban Planner passionate about creating fair, livable, and people-centered cities.
