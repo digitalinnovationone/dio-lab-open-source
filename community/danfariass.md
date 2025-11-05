@@ -1,4 +1,4 @@
-### Olá, meu nome é Daniel Farias (odanfariass) 👋🏼
+### Olá, meu nome é Daniel Farias (danfariass) 👋🏼
 
 ---
   👉🏼 **Estudante** na [Unisinos](https://www.unisinos.br/) cursando Sistemas para Internet em EAD.
