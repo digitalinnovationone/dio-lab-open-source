@@ -1,6 +1,6 @@
 #Davi Carvalho
 --------------
-Sou apenas um jovem mergulhando de cabeça neste mundo de programação, sedento por entender mais como funciona a tecnologia por baixo dos panos.
+Sou apenas um jovem mergulhando de cabeça no mundo da programação, sedento por entender mais como funciona a tecnologia por baixo dos panos.
 
 ##Conecte-se comigo
 --------------
