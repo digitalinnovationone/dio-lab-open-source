@@ -14,7 +14,7 @@
 ---
 
 ### 📚 **Formação e Estudos**
-- 🎓 Graduação em andamento na área de **Administração**.  
+
 - 📘 Estudando **Análise de Dados com Python, SQL, Excel e Power BI** com foco em projetos reais.  
 
 ---
