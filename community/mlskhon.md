@@ -23,7 +23,7 @@ Caso queira entrar em contato.
 
 My name is Matheus Santos. I worked for three years in IT, performing software documentation, server control (active and inactive), and creating software manuals for users.
 
-I recently became interested in the field of data and started studying SQL. I am taking the course Data Analysis - Kablin on the [Digital Innovation One](https://www.dio.me/en) learning plataform and Git/GitHub is one of the modules in this course.
+I recently became interested in the field of data and started studying SQL. I am taking the course Data Analysis - Kablin on the [Digital Innovation One](https://www.dio.me/en) learning platform and Git/GitHub is one of the modules in this course.
 
 # Skills
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
