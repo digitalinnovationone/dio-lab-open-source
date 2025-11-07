@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Paulo Anjos
+# <img src="https://avatars.githubusercontent.com/u/161911686?s=400&u=400d15281c7f137ce09cf2a8e2b9b51d834a6b0e&v=4" width="90px"> Paulo Anjos
 
 **`Desenvolvedor Back-End`**
 
@@ -185,3 +185,4 @@ Me chamo Paulo Dérick Silva dos Anjos, tenho 25 anos e sou natural do Oriximin�
 </p>
 
 ---
+
