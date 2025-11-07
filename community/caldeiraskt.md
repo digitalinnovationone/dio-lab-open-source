@@ -2,12 +2,6 @@
 Sou um estudante de Ciência da Computação apaixonado por desenvolvimento web e buscando meu primeiro emprego como desenvolvedor.
 
 ##
-### 📊 Estatísticas no GitHub:
-<a href="https://github.com/caldeiraskt">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0rfreitas&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&\&rank_icon=github" />
-</a>
-
-##
 ### 👨‍💻 Principais Tecnologias e Ferramentas 🛠
 
 <div style="display: inline_block"><br/>
