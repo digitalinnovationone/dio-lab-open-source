@@ -1,0 +1,40 @@
+## Desenvolvido por Luciano Eugênio Schiavon 
+## e-mail: luciano@redescorporativas.com.br
+## Data: 29-08-2024 Hora: 02:47:00
+## Whatsapp: (44) 99946-4300
+
+name: Translate README
+
+on:
+  push:
+    branches:
+      - feat/community/lucianoschiavon
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+## Versões utilizadas e suas dependencias
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install googletrans==4.0.0-rc1
+
+      - name: Translate README
+        run: python translate_readme.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'lucianoschiavon'
+          git config --global user.email 'luciano@redescorporativas.com.br'
+          git add README_en.md README_es.md  README_zh.md README_ja.md README_ko.md README_fr.md
+          git commit -m 'Add translated README files'
+          git push origin feat/community/lucianoschiavon
