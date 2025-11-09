@@ -13,6 +13,7 @@ Atuo como Analista de Sistemas / Gerente de Produto e estou voltando a estudar p
 
 <div style="display: flex">
 <br>
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielpeitl/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:contatodanielp@gmail.com)
