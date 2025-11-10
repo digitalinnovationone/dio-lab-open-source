@@ -46,7 +46,7 @@ Atualmente, estou aprimorando minhas habilidades através do **Bootcamp Java Dev
 
 ---
 ## EM ACTUALIZAÇÃO
-## #------------------------ #
+## #------------------------- #
 ## 📊 GitHub Stats
 
 <div align="center">
