@@ -1,8 +1,8 @@
 # Otavio Sales Pereira
 
-Olá, sou estudante do 1ºano de desenvolvimento de sistemas, estou em transição de carreira, focado em aprender e aplicar conhecimentos em programação, automações e bots.
+Olá, sou estudante do 1ºano de desenvolvimento de sistemas, estou em transição de carreira, focado em aprender e aplicar conhecimentos em programação, automações e IA.
 
-Tenho me dedicado aos estudos, aprendendo um pouco de: HTML, JS, CSS, Python, e projetos pessoais no meu [portifólio](https://github.com/Otavio-Sales-N29) embora não e tenho mais alguns projetos que não passei para o GitHub ainda.
+Tenho me dedicado aos estudos, aprendendo um pouco de: HTML, JS, CSS, Python, e projetos pessoais no meu [portifólio](https://github.com/Otavio-Sales-N29) e tenho mais alguns projetos que não passei para o GitHub ainda.
 
 Meu [linkedin](www.linkedin.com/in/otavio-sales-pereira-71638a356)
 
