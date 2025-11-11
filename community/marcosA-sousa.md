@@ -3,17 +3,26 @@
 Hello! 👋 My name is Marcos Aurélio, I'm a student of Systems Analysis and Development and a future front-end developer.
 
 ---
+### 📕 About me!
+Metallurgy Technician graduated from
+IFCE - Caucaia Campus. Undergraduate
+in Systems Analysis and Development at UNIFOR. Basic level
+in Programming Languages ​​such as JavaScript,
+Python and Java. Focused on
+web/software development and
+programming logic.
+
+---
 ## 💻  Programming Languages
 **I develop some basic systems using:**
 
-**Front-end**: 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
-## 🛠️  Tools
+## 🔧  Tools
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
