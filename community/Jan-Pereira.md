@@ -12,3 +12,5 @@ Tenho me dedicado aos estudos...
 ---
 
 Muito bacana o curso da **DIO**!
+
+#71473
