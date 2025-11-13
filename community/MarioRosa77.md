@@ -4,7 +4,7 @@
 	<img align="right" alt="Followers" src="https://img.shields.io/github/followers/MarioRosa77?style=social">
 </h2>
 
-## Conecte-se comigo
+### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-rosa-bb3910138/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/piratta2t/)
 
