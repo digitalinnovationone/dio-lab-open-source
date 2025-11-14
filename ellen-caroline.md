@@ -1,11 +1,8 @@
-# Contribuição de Ellen Caroline
+# Perfil - Ellen Caroline
 
-Olá! Meu nome é Ellen Caroline.
-Esta é minha primeira contribuição em um projeto open source para o desafio da DIO ❤️
+Olá! Meu nome é Ellen Caroline e esta é minha primeira contribuição em um projeto Open Source.
 
-## O que eu aprendi:
-- Como fazer um fork
-- Como editar arquivos no GitHub
-- Como criar um Pull Request
+- 💻 Estudando Git e GitHub
+- 🌱 Quero aprender mais sobre projetos colaborativos
+- 🚀 Esse é meu arquivo do desafio da DIO
 
-Obrigada pelo aprendizado!
