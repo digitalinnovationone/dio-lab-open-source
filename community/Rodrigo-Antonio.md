@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on Data Analysis.
 - 🌱 I’m currently learning Machine Learning with Python.
+- 🌱 I'm currently learning Azure and Fabric
 
 # Rodrigo Antônio da Silva
 
