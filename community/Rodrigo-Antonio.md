@@ -1,6 +1,5 @@
 ## Hi there 👋, Live long and prosper✋
 
-![Support Image](https://github.com/Rodrigo-Antonio-Silva/Rodrigo-Antonio-Silva/blob/main/Avatar003.png)
 
 
 - 🔭 I’m currently working on Data Analysis.
