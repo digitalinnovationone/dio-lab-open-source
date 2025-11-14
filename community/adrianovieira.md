@@ -1,21 +1,3 @@
-### Hi there 👋
-
-<!--
-**adrianovieira/adrianovieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src='badges/regulatorios.png' alt='badges/regulatorios.png' width='160px' /><img src='badges/desenvolvimento_seguro.png' alt='badges/desenvolvimento_seguro.png' width='160px' />
-
 # Adriano Vieira
 
 eaê, vocês!  
@@ -28,13 +10,23 @@ Ao longo da minha carreira, tenho atuado como ponte entre as necessidades
 estratégicas de negócio e as decisões técnicas, garantindo que cada iniciativa
 esteja alinhada aos objetivos corporativos e gere valor mensurável.
 
-[![Meu blog](https://img.shields.io/badge/Acesse_meu_Portal-30A3DC?style=for-the-badge&logo=git)](https://www.adrianovieira.eng.br)
+---
 
-### Conecte-se comigo
+Hey everyone!  
+I'm the weekend athlete type - and I enjoy cycling, hiking, and traveling.
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/adriano_svieira)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:adriano.svieira@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/adriano-svieira/)
+Senior software engineer with extensive experience in the design, development, and
+operation of large-scale distributed systems.
+
+Throughout my career, I have acted as a bridge between strategic business needs and
+technical decisions, ensuring that each initiative is aligned with corporate
+objectives and generates measurable value.
+
+[![Meu blog](https://img.shields.io/badge/Acesse_meu_Portal-30A3DC?style=for-the-badge)](https://www.adrianovieira.eng.br)
+[![My blog](https://img.shields.io/badge/Access_my_protal-30A3DC?style=for-the-badge)](https://www.adrianovieira.eng.br/en)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-30A3DC?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/adriano-svieira/)
+[![Perfil DIO](https://img.shields.io/badge/-Meu_Perfil_na_DIO-000?style=for-the-badge)](https://web.dio.me/users/adriano_svieira)
 
 ### Habilidades
 
