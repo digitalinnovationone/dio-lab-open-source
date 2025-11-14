@@ -1,9 +1,9 @@
 # Adriano Vieira
 
-eaê, vocês?  
-Do tipo atleta de fim de semana - e gosto de andar de bicicleta, caminhas e viajar.
+eaê, vocês!  
+Sou do tipo atleta de fim de semana - e gosto de andar de bicicleta, caminhas e viajar.
 
-Sou um engenheiro de software sênior com ampla experiência em concepção,
+Engenheiro de software sênior com ampla experiência em concepção,
 desenvolvimento e operação de sistemas distribuídos de alta escala.
 
 Ao longo da minha carreira, tenho atuado como ponte entre as necessidades
@@ -77,7 +77,7 @@ esteja alinhada aos objetivos corporativos e gere valor mensurável.
 
 | Gitlab stats | GitHub stats |
 | ------------ | ------------ |
-| ![Gitlab stats](https://gitlab-readme-stats-phi.vercel.app/api?username=adrianovieira) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianovieira&show_icons=true&theme=merko) |
+| ![Gitlab stats](https://gitlab-readme-stats-phi.vercel.app/api?username=adrianovieira&show_icons=true&theme=dark&title_color=FF4500) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianovieira&show_icons=true&theme=merko) |
 
 #### Projects
 
