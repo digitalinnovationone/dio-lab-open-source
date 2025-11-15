@@ -26,8 +26,9 @@ Estou fazendo este curso para me atualizar e estou gostando bastante.
 
 # Links:
 
-⭐ [https://www.amazon.com.br/stores/Nuno-Figueiredo/author/B00NK9XNSY?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true](Nuno Figueiredo)
+⭐ [https://www.amazon.com.br/stores/Nuno-Figueiredo/author/B00NK9XNSY?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true] (Nuno Figueiredo)
 
-⭐ [https://github.com/JNunoFigueiredo}(Github)
+⭐ [https://github.com/JNunoFigueiredo} (Github)
+
 
 
