@@ -3,7 +3,7 @@ Olá, prazer, meu nome é Vitor e sou um apaixonado pela tecnologia, tenho essa 
 
 ## Conecte-se comigo
 [![Discord](https://img.shields.io/badge/Discord-696969?style=for-the-badge&logo=discord)](https://discord.com/channels/@Vitor_Xp#3191/)
-[![Twitter](https://img.shields.io/badge/Twitter-696969?style=for-the-badge&logo=twitter)](https://twitter.com/VitorOliveiraTv)
+[![X]()](https://twitter.com/VitorOliveiraTv)
 [![Telegram](https://img.shields.io/badge/Telegram-696969?style=for-the-badge&logo=telegram&logoColor=)](https://t.me/VitorOliveiraTv)
 [![GitHub](https://img.shields.io/badge/GitHub-696969?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VitorOliveiraTv)
 [![Instagram](https://img.shields.io/badge/iNSTAGRAM-696969?style=for-the-badge&logo=instagram)](https://www.instagram.com/_.vitor._bsb/)

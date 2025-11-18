@@ -1,26 +1,31 @@
-# 🙋🏻 Sobre Mim 
+# 👋 Olá! Eu sou Victor Hugo
 
-Olá sou Victor Hugo, estudante de Analise e Desenvolvimento de Sistemas, apaixonado por tecnologia e games. 
+Sou formando em Análise e Desenvolvimento de Sistemas, apaixonado por criar aplicações interativas. Busco sempre aplicar as melhores práticas e soluções eficientes, com foco em tecnologias como React, Node.js e Python além de especial interesse em infraestrutura de TI e Segurança Digital
 
+## 🚀 Tecnologias que Eu Uso
 
-## Habilidades
+- **Frontend**: React, JavaScript.
+- **Backend**: Node.js, Flask, Python, Java
+- **Banco de Dados**: MongoDB, MariaDB, PostgreSQL.
+- **Ferramentas de Desenvolvimento**: Git, VSCode.
 
-![HTML5](https://img.shields.io/badge/HTML5-ec6231?style=for-the-badge&logo=html5&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=black)
-![Python](https://img.shields.io/badge/Pyhton-fbcb24?style=for-the-badge&logo=python&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-
-## Github Stats
-
-![Victor Hugo GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugossantos&layout=compact)
+## 💼 Projetos Recentes
 
 
-![Victor Hugo GitHub stats](https://github-readme-stats.vercel.app/api?username=victorhugossantos&show_icons=true&theme=gruvbox)
+## 📚 O Que Estou Estudando
 
+Atualmente, estou explorando:
 
+- **Servidores Linux**: Buscando aprendizagem de como manter e realizar manutenções de servidores Linux
 
-## 📨 Conecte-se comigo 
+- **React e Node.js**: Estou sempre buscando novas técnicas e melhores práticas para criar aplicações que sejam escaláveis e mantenham um bom desempenho.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2003fc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorhugossantos/)
+## 🌐 Como Me Encontrar
+
+Sinta-se à vontade para se conectar comigo ou conferir alguns dos meus repositórios:
+
+- [LinkedIn](https://www.linkedin.com/in/victorhugossantos)
+- [GitHub](https://github.com/victorhugossantos)
+
+---
+

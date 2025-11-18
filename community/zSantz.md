@@ -1,66 +1,43 @@
-<img width=100% bottom=50px src="https://github.com/zSantz/zSantz/assets/86986355/80126d6f-a10f-44b3-b70f-58d9bc2cf54e"/>
-<br>
-<br> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2828e6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=1000&lines=Hello%F0%9F%91%8B%F0%9F%8F%BB%2C+my+name+is+Augusto;I'm+a+%F0%9F%93%8A+Data+Analyst!+%F0%9F%93%88%F0%9F%92%BB;I'm+from+Brazil!+%F0%9F%8C%B4%F0%9F%98%8A;Welcome!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5a4fcf&size=35&center=true&vCenter=true&width=1000&lines=Hi%2C+my+name+is+Junior%21+%F0%9F%91%8B%0A;I'm+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7%2C;I'm+a+Cyber+Security+student+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%0A;Welcome+to+my+GitHub+%F0%9F%A5%B6)](https://git.io/typing-svg)
+</br>
+<div align="center"> 
+ 
+---
+### How to Expect My GitHub 🚀
+✍️ Write-ups  
+💻 Scripts  
+🔐 Hacking content
 
-<br>
+### How to Study in moment
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-333333?style=for-the-badge&logo=cisco&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00A3E0?style=for-the-badge&logo=security&logoColor=white)
+</br>
+
+### Contact me  
+
+<a href="https://www.instagram.com/elninosantz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><br>
+<a href = "https://twitter.com/elninosantz"> <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" target="_blank"></a></br>
+<a href="https://www.linkedin.com/in/augusto-cesar-9971632ab/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
+ <br>
+
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zSantz&bg_color=0d1117&color=5050ea&line=3d3de8&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=zSantz&show_icons=true&count_private=true&hide_border=true&title_color=5252eb&icon_color=6868ed&text_color=9393f2&bg_color=0d1117" alt="Augusto Cesar github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zSantz&layout=compact&hide_border=true&title_color=5252eb&text_color=9393f2&bg_color=0d1117" />
+</div>
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zSantz&theme=shadow-red&locale=en&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
+
+
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{zSantz}/count.svg" /></p> 
 </div>
 
-
-<div align="center"> 
-<a href="https://instagram.com/elninosantz" target="_blank">
-<img align="center" height="65" width="65" src="https://github.com/zSantz/zSantz/assets/86986355/50098cb2-c8d8-4d36-9052-3ba10e8e1af4">
-</a>
-
-<a href="https://twitter.com/elSanttz" target="_blank">
-<img align="center" height="70" width="70" src="https://github.com/zSantz/zSantz/assets/86986355/0d1106e3-9a93-47bf-bf28-bb7c6ca92424">
-</a>
-
-
-<a href="mailto:tiaugustocesar@gmail.com">
-<img align="center"  height="80" width="65" src="https://github.com/zSantz/zSantz/assets/86986355/debc9975-2f72-478b-8ef6-7b667f6a7cd5">
-</a>
-
-
-<a  href="https://www.linkedin.com/in/augustocesar-sf/" target=_blank>
-<img align="center"  height="63" width="63" src="https://github.com/zSantz/zSantz/assets/86986355/3bd68534-1bcb-41f1-b900-daa0508354c1">
-</a>
-
-</div>
-
-<div align="center" >
-
-<br>
-<br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zSantz&bg_color=171717&color=ff0000&line=ff0000&point=737373&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
-
-
-</div>
-
-
-<h2 align="center"> Studying in this moment: </h2>
-
-
-<div align="center"> 
-
-<img align="center"  height="65" width="65" src="https://github.com/zSantz/zSantz/assets/86986355/d5d59088-aabf-485e-b1fe-7218608cb85d">
-
-<img align="center"  height="65" width="65" src="https://github.com/zSantz/zSantz/assets/86986355/e58a6f53-bf2b-4034-a52d-be0ec0765a0b">
-
-<img align="center"  height="65" width="65" src="https://github.com/zSantz/zSantz/assets/86986355/4dde86f4-501f-4d6c-ab85-1a6229934f62">
-
-
-</div>
-
-<br>
-<br> 
-
-
-<img width=100% src="https://github.com/zSantz/zSantz/assets/86986355/1f93506b-1fed-435f-8b7e-60d989646ab1"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2828e6&height=120&section=footer"/>
