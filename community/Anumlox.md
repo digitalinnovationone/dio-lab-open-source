@@ -20,6 +20,14 @@ Olá, sou Nicolas Gomes! Estou nesse projeto Open Source conhecendo e explorando
 
 ## 👨‍💻 Conect Comigo
 
-- [Linkedin](https://www.linkedin.com/in/nicolas-gomesx/)
-- [Instagram](https://www.instagram.com/gomes_.szx?igsh=MXh0Z3JiMzJxZmd2cA==)
-- [GitHub](https://github.com/Anumlox)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-gomesx/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gomes_.szx/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anumlox)
+
+--------
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anumlox&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+--------
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Anumlox&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Anumlox/dio-lab-open-source)
