@@ -1,0 +1,15 @@
+# Olá, Eli! Eu sou o Gustavo Oliveira
+
+## 🚀 Sobre Mim
+Atualmente sou Corretor de Seguros e em 2026 quero começar o curso Computação em Nuvem e continuar com os cursos pela DIO. Sempre achei legal esse ramo da programação e tudo mais; espero que dê tudo certo! Este é meu primeiro contato com Open Source!
+
+## 🌐 Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-oliveira-29614026a/?trk=opento_sprofile_goalscard)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustaoliveira-br)
+
+## Habilidades que estou desenvolvendo:
+* Pyhton
+* Computação em Nuvem
+
+---
+*Fiz essa contribuição para o Lab Open Source da DIO!*
