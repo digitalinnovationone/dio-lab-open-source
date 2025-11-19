@@ -1,5 +1,5 @@
 # Rodolfo Pires
-Olá Eu sou o Rodolfo Pires e estou estudando programação, atualmennte estou fazendo um curso de .Net com GitHub Copilot. Estas são algumas informações sobre mim mediante ao que venho aprendendo no curso.
+Olá, sou o Rodolfo Pires e estou estudando programação, atualmennte estou fazendo um curso de .Net com GitHub Copilot. Estas são algumas informações sobre mim mediante ao que venho aprendendo no curso.
 
 ## Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodolfo-pires-7a870117b/)
