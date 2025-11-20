@@ -1,30 +1,40 @@
 # Adriano Vieira
 
-eaê, vocês?  
-Do tipo atleta de fim de semana - e gosto de andar de bicicleta, caminhas e viajar.
+eaê, vocês!  
+Sou do tipo atleta de fim de semana - e gosto de andar de bicicleta, caminhas e viajar.
 
-Sou um engenheiro de software sênior com ampla experiência em concepção,
+Engenheiro de software sênior com ampla experiência em concepção,
 desenvolvimento e operação de sistemas distribuídos de alta escala.
 
 Ao longo da minha carreira, tenho atuado como ponte entre as necessidades
 estratégicas de negócio e as decisões técnicas, garantindo que cada iniciativa
 esteja alinhada aos objetivos corporativos e gere valor mensurável.
 
-[![Meu blog](https://img.shields.io/badge/Meu_Portal-30A3DC?style=for-the-badge&logo=git)](https://www.adrianovieira.eng.br)
+---
 
-### Conecte-se comigo
+Hey everyone!  
+I'm the weekend athlete type - and I enjoy cycling, hiking, and traveling.
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/adriano_svieira)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:adriano.svieira@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/adriano-svieira/)
+Senior software engineer with extensive experience in the design, development, and
+operation of large-scale distributed systems.
+
+Throughout my career, I have acted as a bridge between strategic business needs and
+technical decisions, ensuring that each initiative is aligned with corporate
+objectives and generates measurable value.
+
+[![Meu blog](https://img.shields.io/badge/Acesse_meu_Portal-30A3DC?style=for-the-badge)](https://www.adrianovieira.eng.br)
+[![My blog](https://img.shields.io/badge/Access_my_protal-30A3DC?style=for-the-badge)](https://www.adrianovieira.eng.br/en)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-30A3DC?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/adriano-svieira/)
+[![Perfil DIO](https://img.shields.io/badge/-Meu_Perfil_na_DIO-000?style=for-the-badge)](https://web.dio.me/users/adriano_svieira)
 
 ### Habilidades
 
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![Gitlab](https://img.shields.io/badge/Gitlab-F00000?style=for-the-badge&logo=gitlab)](https://docs.gitlab.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-C0C0C0?style=for-the-badge&logo=github&logoColor=000)](https://docs.github.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-C0C0C0?style=for-the-badge&logo=github&logoColor=000)](https://docs.github.com/)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-FAFAD2?style=for-the-badge&logo=fastapi&logoColor=green)  
+![FastAPI](https://img.shields.io/badge/FastAPI-FAFAD2?style=for-the-badge&logo=fastapi&logoColor=green)
 ![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)
 ![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -36,6 +46,7 @@ esteja alinhada aos objetivos corporativos e gere valor mensurável.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-gray?style=for-the-badge&logo=redis)
+![Kafka](https://img.shields.io/badge/Kafka-BDB76B?style=for-the-badge&logo=apachekafka)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -77,7 +88,7 @@ esteja alinhada aos objetivos corporativos e gere valor mensurável.
 
 | Gitlab stats | GitHub stats |
 | ------------ | ------------ |
-| ![Gitlab stats](https://gitlab-readme-stats-phi.vercel.app/api?username=adrianovieira) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianovieira&show_icons=true&theme=merko) |
+| ![Gitlab stats](https://gitlab-readme-stats-phi.vercel.app/api?username=adrianovieira&show_icons=true&theme=dark&title_color=FF4500) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianovieira&show_icons=true&theme=merko) |
 
 #### Projects
 
@@ -85,13 +96,3 @@ esteja alinhada aos objetivos corporativos e gere valor mensurável.
   [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/yet-another-json-server)](https://gitlab.com/adrianovieira/ya-json-server)
   [![image](https://gitlab.com/adrianovieira/ya-json-server/badges/main/pipeline.svg)](https://gitlab.com/adrianovieira/ya-json-server/-/pipelines)
   [![image:](https://gitlab.com/adrianovieira/ya-json-server/badges/main/coverage.svg?job=job::tests::api&key_text=coverage)](https://gitlab.com/adrianovieira/ya-json-server/-/jobs/artifacts/main/browse?job=job::tests::api)
-
-### Meus Principais Desafios de Projeto DIO
-
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
-
-### Meus Principais Artigos na DIO
-
-| Data       | Título                                        |  Link      |
-| ---------- | --------------------------------------------- | ---------- |
-| 13/11/2025 | Plano de Carreira para Engenharia de Software | [![Static Badge](https://img.shields.io/badge/Ler%20Artigo-blue?style=for-the-badge)](https://web.dio.me/articles/plano-de-carreira-para-engenharia-de-software-5a252d017106) |
