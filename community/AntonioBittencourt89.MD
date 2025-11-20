@@ -15,9 +15,9 @@ para aproveitar seu conhecimento na área oriundo de estudos pra concursos nessa
 <br>
 <div style="display: inline_block"><br>
     <h2>Tecnologias</h2>
-  <img align="center" alt="C" height="30" width="40" src="https://www.pngwing.com/pt/search?q=logotipo+C">
+  <img align="center" alt="C" height="30" width="40" src="https://i.pinimg.com/474x/41/cd/ce/41cdceff36566cb5a70f5c999755d4bc.jpg">
   <img align="center" alt="Python" height="30" width="40" src="https://quantumzeitgeist.com/wp-content/uploads/pythoned.png">
-  <img align="center" alt="Power BI" height="30" width="30" src="https://images.seeklogo.com/logo-png/40/1/power-bi-microsoft-logo-png_seeklogo-400711.png">
+  <img align="center" alt="Power BI" height="30" width="30" src="https://img.favpng.com/17/5/20/power-bi-logo-business-intelligence-font-data-png-favpng-rMHDH9SAbEZ5sA16EZ9B9siGS.jpg">
   <img align="center" alt="KQL" height="30" width="40" src="https://img-c.udemycdn.com/course/750x422/6132475_dc04_2.jpg">
 </div>
 <br>
