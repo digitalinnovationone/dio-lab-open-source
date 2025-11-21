@@ -5,7 +5,7 @@
   <span>Connect with me!</span>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/LucasProbstCurtarelli/">
+  <a href="https://www.linkedin.com/in/lucascurtarelli/">
     <img 
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       height="28"
@@ -23,7 +23,7 @@
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:lpcurta@gmail.com.com">
+  <a href="mailto:lpcurta@gmail.com">
     <img 
       src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"
       height="28"
@@ -82,7 +82,7 @@
 <p align="center">
   <!-- Minimal stats card with status icons -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=lucascurtarelli&show_icons=true&theme=transparent&hide=issues,contribs&title_color=E94D5F&text_color=FFFFFF&icon_color=30A3DC&border_color=30A3DC" 
+    src="https://github-readme-stats.vercel.app/api?username=LucasProbstCurtarelli&show_icons=true&theme=transparent&hide=issues,contribs&title_color=E94D5F&text_color=FFFFFF&icon_color=30A3DC&border_color=30A3DC" 
     height="165"
   />
 </p>
