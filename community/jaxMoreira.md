@@ -9,7 +9,7 @@ Já tive contato 👀 com muitas tecnologias, mas experiência prática consiste
 - SAS / Salesforce
 - SQL Server
 
-## 💻 Linguagens de Programação que estudo / possuo conhecimento básico
+## 💻 Linguagens de Programação que estudo ou possuo conhecimento básico
 
 **Front-end**: 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
