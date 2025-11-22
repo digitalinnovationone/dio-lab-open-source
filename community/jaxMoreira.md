@@ -25,7 +25,7 @@ Já tive contato 👀 com muitas tecnologias, mas experiência prática consiste
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## 🕹️ Gamedev (pq ninguém é de ferro...)
+## 🕹️ Gamedev (Pq ninguém é de ferro...)
 ![Godot](https://img.shields.io/badge/godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=ffdd54&labelColor=%23478CBF)
 
 ---
