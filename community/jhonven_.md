@@ -7,7 +7,7 @@
 - Estudante de ADS – Campos Salles
 
 ## 🌐 Redes
-- GitHub: https://github.com/jhonattanVenturini
+- GitHub: https://github.com/jhonven_
 - LinkedIn: https://www.linkedin.com/in/jhonattan-venturini/
 
 ## 🏆 Sobre mim
