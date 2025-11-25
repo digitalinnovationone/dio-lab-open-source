@@ -1,1 +1,0 @@
-Este projeto prático foi especialmente desenvolvido para que estudantes de tecnologia possam, de modo aplicado, experimentar o trabalho colaborativo e de inovação contínua proporcionado pelo Source Open.
