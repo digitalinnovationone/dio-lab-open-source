@@ -99,10 +99,7 @@
 
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Vidigal-code/github-stats/master/generated/overview.svg" alt="Vidigal-code">  
-<img src="https://raw.githubusercontent.com/Vidigal-code/github-stats/master/generated/languages.svg" alt="Vidigal-code">
-</div>
+
  <br/>
 
 <p align="center">
@@ -209,7 +206,7 @@
 <a href="https://yarnpkg.com/" target="_blank"><img align="center" alt="Vidigal-Yarn" height="50" width="50" src="https://yarnpkg.com/img/yarn-favicon.svg"></a>
 <a href="https://www.npmjs.com/" target="_blank"><img align="center" alt="Vidigal-NPM" height="50" width="50" src="https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"></a>
 <a href="https://getcomposer.org/" target="_blank"><img align="center" alt="Vidigal-Composer" height="50" width="50" src="https://getcomposer.org/img/logo-composer-transparent5.png"></a>
-<a href="https://mvnrepository.com/" target="_blank"><img align="center" alt="Vidigal-Maven" height="50" width="50" src="https://mvnrepository.com/assets/images/e8a73ff26e5b1e3f20868111d80c5544-favicon.ico"></a>
+<a href="https://mvnrepository.com/" target="_blank"><img align="center" alt="Vidigal-Maven" height="50" width="50" src="https://camo.githubusercontent.com/c7008ad2ac87357001c8a841fe626bb21cc8756ffb2288af05a3188b440b7e1c/68747470733a2f2f6d766e7265706f7369746f72792e636f6d2f6173736574732f696d616765732f65386137336666323665356231653366323038363831313164383063353534342d66617669636f6e2e69636f"></a>
 <a href="https://gradle.org/" target="_blank"><img align="center" alt="Vidigal-Gradle" height="50" width="50" src="https://gradle.org/icon/favicon-32x32.png"></a>
 
 #
@@ -229,9 +226,8 @@
 <a href="https://laravel.com" target="_blank"><img align="center" alt="Vidigal-Laravel" height="50" width="50" src="https://laravel.com/img/favicon/apple-touch-icon.png"></a>
 <a href="https://spring.io" target="_blank"><img align="center" alt="Vidigal-Spring" height="50" width="50" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></a>
 <a href="https://nextjs.org" target="_blank"><img align="center" alt="Vidigal-NextJS" height="50" width="50" src="https://nextjs.org/favicon.ico"></a>
-<a href="https://vitejs.dev/" target="_blank"><img align="center" alt="Vidigal-Vite" height="50" width="50" src="https://vitejs.dev/logo.svg"></a>
 <a href="https://www.slimframework.com/" target="_blank"><img align="center" alt="Vidigal-Slim" height="50" width="50" src="https://www.slimframework.com/assets/images/favicon.png"></a>
-<a href="https://nestjs.com/" target="_blank"><img align="center" alt="Vidigal-NestJS" height="50" width="50" src="https://nestjs.com/favicon-32x32.42b683bd.png"></a>
+<a href="https://nestjs.com/" target="_blank"><img align="center" alt="Vidigal-NestJS" height="50" width="50" src="https://docs.nestjs.com/apple-touch-icon.png"></a>
 
 #
 
@@ -282,9 +278,9 @@
 
 ##   
 
-<div align="center">
+<!-- <div align="center">
 <img width=100% src="https://readme-typing-svg.herokuapp.com/?color=2aa889&size=25&center=true&vCenter=true&width=1000&lines=Number+of+visitors"/>
-</div>
+</div> -->
 
 
 
@@ -292,7 +288,7 @@
 
 
   <div align="center">
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Vidigal-code}/count.svg" /></p> 
+<!-- <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Vidigal-code}/count.svg" /></p> -->
 <br></div>
 
 
