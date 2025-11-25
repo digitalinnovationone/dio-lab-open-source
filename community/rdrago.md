@@ -1,1 +1,0 @@
-Meu nome é ricardo e estou em transição de carreira
