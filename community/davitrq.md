@@ -1,4 +1,4 @@
-### Olá! Eu me nome é Davi Torquato. 👋🏽🧑🏽‍💻  
+### Olá! Meu nome é Davi Torquato. 👋🏽🧑🏽‍💻  
 <br>
 
 <hr/>
