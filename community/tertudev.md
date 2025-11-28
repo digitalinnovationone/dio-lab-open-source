@@ -17,12 +17,12 @@ Busco sempre aplicar boas práticas de desenvolvimento, como **Clean Code**, **S
 🚀 Em constante evolução, estudando inteligência artificial, computação em nuvem e arquitetura de microsserviços.
 
 📫 **Vamos nos conectar:**
-- [GitHub](https://github.com/wendeldh7)
+- [GitHub](https://github.com/tertudev)
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wendeldh7&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tertudev&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## 🚀 Minhas Contribuições
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wendeldh7&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/wendeldh7/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tertudev&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/tertudev/dio-lab-open-source)
