@@ -1,4 +1,4 @@
-# hagilobo
+# Hagi Lobo
 Estudante de Análise e Desenvolvimento de Sistemas com experiência em suporte técnico, manutenção de computadores e atendimento a usuários. Conhecimento em instalação e configuração de hardware (PCs, notebooks, impressoras), sistemas operacionais Windows e Linux, além de redes de computadores. Experiência em atendimento presencial e remoto, registro e acompanhamento de chamados. Busco aplicar minhas habilidades em um time de TI, contribuindo para a eficiência e confiabilidade dos serviços de tecnologia.
 
 ## Conecte-se comigo
