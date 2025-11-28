@@ -5,7 +5,7 @@
   <span>Connect with me!</span>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/LucasProbstCurtarelli/">
+  <a href="https://www.linkedin.com/in/lucascurtarelli/">
     <img 
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       height="28"
@@ -14,7 +14,7 @@
   </a>
 
   <!-- WhatsApp -->
-  <a href="https://wa.me/5548912345678">
+  <a href="https://wa.me/5547999996121">
     <img 
       src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
       height="28"
@@ -23,7 +23,7 @@
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:lucas@example.com">
+  <a href="mailto:lpcurta@gmail.com">
     <img 
       src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"
       height="28"
