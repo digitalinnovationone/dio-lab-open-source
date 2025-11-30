@@ -1,1 +1,0 @@
-Atualmente iniciando na área
