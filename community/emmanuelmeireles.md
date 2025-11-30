@@ -97,4 +97,4 @@ Apaixonado por front-end, design e acessibilidade, sempre buscando boas prática
 ## Idiomas
 
 - Inglês — B1 (Intermediário)  
-- Espanhol — Intermediário
+- Espanhol — (Intermediário)
