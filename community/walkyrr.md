@@ -1,6 +1,6 @@
 # Walkyr Rosa
 
-Sou formado em Ciências da Computação (bacharelado) e Ciências Biológicas (licenciatura). Atuo principalmente na área de qualidade de software, trabalhando em uma Software House com foco em testes funcionais, testes de versão, análise de requisitos e validação de entregas. Sua rotina envolve investigação de cenários, identificação de inconsistências, documentação clara e comunicação direta com equipes de desenvolvimento.
+Sou formado em Ciências da Computação (bacharelado) e Ciências Biológicas (licenciatura). Atuo na área de qualidade de software, trabalhando em uma Software House com foco em testes funcionais, testes de versão, análise de requisitos e validação de entregas. Sua rotina envolve investigação de cenários, identificação de inconsistências, documentação clara e comunicação direta com equipes de desenvolvimento.
 
 Atualmente estou cursando Pós-Graduação em Engenharia DevOps, buscando ampliar sua atuação e entendimento sobre automação, integração contínua, pipelines, infraestrutura como código e práticas modernas de entrega de software. 
 
