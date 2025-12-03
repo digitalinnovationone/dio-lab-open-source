@@ -1,8 +1,14 @@
-## Carlos Alexandre
+### Carlos Alexandre
 
-Ola! Sou o Alexandre, estudante do Mestrado em Ciencias de Dados e em Inteligencia Artificial.
+ Ola! Sou o Alexandre 👋
 
-## Conecte-se comigo 
+📚 **Formação Acadêmica**
+
+- 🧑‍💻 Mestrando em Ciencias de Dados e em Inteligencia Artificial pela American Global Tech University (AGTU)
+- 👨‍💼 Especialista em Gestão e Auditoria de processos pela Faculdade Serra Geral
+- 🎓 Bacharel em Ciencias Contábeis pela Universidade Ateneu
+
+🛜 **Conecte-se comigo**
 
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white
 )](https://www.linkedin.com/in/carlos-santiago-ai/)
@@ -10,7 +16,7 @@ Ola! Sou o Alexandre, estudante do Mestrado em Ciencias de Dados e em Inteligenc
 
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github)](https://github.com/CarlossAlexandree)
 
-## Habilidades
+ **Habilidades**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlossAlexandree)
 
@@ -21,15 +27,26 @@ Ola! Sou o Alexandre, estudante do Mestrado em Ciencias de Dados e em Inteligenc
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 
-## GitHub Stats
+
+📊 **Estatísticas no GitHub**
+
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlossAlexandree&theme=transparent&bg_color=0A66C2&border_color=ffffff&show_icons=true&icon_color=ffffff&title_color=ffffff&text_color=ffffff&hide_title=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlossAlexandree&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## Minhas Contribuições
+
+
+📌 **Projetos em Destaque**
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlossAlexandree&repo=DIO-Lab-Open-Source&bg_color=181717&border_color=ffffff&show_icons=true&icon_color=ffffff&title_color=ffffff&text_color=ffffff)](https://github.com/CarlossAlexandree/DIO-Lab-Open-Source)
 
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlossAlexandree&repo=DIO-Lab-Open-Source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
+
+🚀 **Linguagem mais usada**
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CarlossAlexandree&layout=compact)
 
