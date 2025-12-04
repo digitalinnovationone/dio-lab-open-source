@@ -10,6 +10,6 @@
 
 ### 📫 Como me encontrar:
 - ✉️ Email: ewerlon@outlook.com  
-- 🔗 LinkedIn: linkedin.com/in/seuuser  
+- 🔗 LinkedIn: https://www.linkedin.com/in/ewerlonsilva
 
 _"Sempre evoluindo, um commit por vez."_ 🚀
