@@ -1,8 +1,8 @@
 # Arthur Ferraz Barboza 
-[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/brenoalvesdequeiroz)
-[![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=blue)](https://www.instagram.com/1brenoalv/)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1cloudz)
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/cloudtauz)
+[![linkedin]
+[![instagram]
+[![Discord]
+[![X]
 ### SOBRE
 > Tenho 33 anos e atualmente estou começando há estudar desenvolvimento WEB. Eu penso em seguir na aréa de Engenharia de Software, que é uma aréa que gosto muito e acho interesante.
 >  Falando dos meus hobbies, eu gosto bastante de jogar de FPS e MMORPG, também gosto de ir há academia.
@@ -17,3 +17,4 @@
 
 ### SISTEMAS OPERACIONAS
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+
