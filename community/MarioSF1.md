@@ -1,5 +1,5 @@
 # MarioSF1
-Olá, mundo!👋
+Olá, mundo! 👋
 
 ### Desenvolvedor Full-Stack | Entusiasta de Tecnologia | Aprendiz Contínuo 
 
