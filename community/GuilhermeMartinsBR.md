@@ -43,4 +43,4 @@ Atualmente estou participando de cursos da [Digital Innovation One (DIO)](https:
 
 ## 🎯 Objetivo
 
-Meu Objetivo é evoluir constantemente, praticando e colocando em prática os conteúdos aprendidos, sempre buscando melhorar minha habilidades e construir projetos cada vez mais completos.
+Meu Objetivo é evoluir constantemente, praticando e colocando em prática os conteúdos aprendidos, sempre buscando melhorar minhas habilidades e construir projetos cada vez mais completos.
