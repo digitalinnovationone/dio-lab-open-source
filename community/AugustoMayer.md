@@ -2,7 +2,7 @@
 
 Sou **Engenheiro de Computação** formado pela UEPG (2025), apaixonado por **Arquitetura de Software**, **Inteligência Artificial** e **Desenvolvimento Full Stack**.
 
-Atualmente, estou focado em criar soluções robustas e escaláveis, unindo a agilidade do Python/IA com a solidez do ecossistema .NET.
+Atualmente, estou focado em criar soluções robustas e escaláveis, unindo a agilidade do Python/IA, .NET e ferramentas front-end.
 
 ---
 
