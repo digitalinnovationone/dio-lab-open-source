@@ -1,4 +1,4 @@
-### Olá, eu sou a Dayane Santos (DayaneSantos22) 👋
+### Olá, eu sou a Dayane Santos (dayanesantos22) 👋
 
 Atualmente estou em transição de carreira para a área de Análise de Dados e Inteligência Artificial, unindo minha experiência anterior na área de estética facial, onde trabalhei por mais de 7 anos, ao meu novo caminho no mundo da tecnologia.
 
