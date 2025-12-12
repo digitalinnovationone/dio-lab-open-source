@@ -1,5 +1,11 @@
 const searchInput = document.getElementById('searchInput');
 const searchButton = document.getElementById('searchButton');
+const heightHeader = document.querySelector('header').offsetHeight;
+const sections = document.querySelectorAll('section');
+
+for (const section of sections) {
+  section.style.paddingTop = `${heightHeader}px`;
+}
 
 searchButton.addEventListener('click', (e) => {
   e.preventDefault();
@@ -8,10 +14,10 @@ searchButton.addEventListener('click', (e) => {
     alert('Por favor, insira um termo de pesquisa.'); // Exibir um alerta se o campo estiver vazio
     return;
   }
-  const url = `https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community/${encodeURIComponent(searchValue)}.md`; 
+  const url = `https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community/${encodeURIComponent(searchValue)}.md`;
   const defaultUrl = 'https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community'
-  if(searchValue===''){
+  if (searchValue === '') {
     window.open(defaultUrl, '_blank')
   }
   window.open(url, '_blank');
-})
+});
