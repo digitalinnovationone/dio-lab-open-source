@@ -37,7 +37,7 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Stats by @anuraghazra</a>
+        <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Stats</a>
       </td>
     </tr>
     <tr>
@@ -49,7 +49,7 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/denvercoder1/github-readme-streak-stats">GitHub Streak Stats by @DenverCoder1</a>
+        <a href="https://github.com/denvercoder1/github-readme-streak-stats">GitHub Streak Stats</a>
       </td>
     </tr>
   </tbody>
@@ -61,4 +61,6 @@
 - [Guia sobre Markdown do GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 - [Onde encontrar Badges legais para o seu Perfil](https://github.com/Ileriayo/markdown-badges#markdown-badges) 
 - [Gerador automático de Readme para GitHub](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+
+
 
