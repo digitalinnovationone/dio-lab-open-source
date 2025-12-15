@@ -1,9 +1,9 @@
-<h1 align="center">Olá 👋, Eu sou Guilherme</h1>
+<h1 align="center">Olá 👋, Eu sou o Guilherme</h1>
 <h3 align="center">Busco desenvolver projetos para base sólida em desenvolvimento full-stack.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guinvs&label=Profile%20views&color=0e75b6&style=flat" alt="guinvs" /> </p>
 
-- Contato **guilherme.alvescorp@outlook.com**
+- E-mail **guilherme.alvescorp@outlook.com**
 
 <h3 align="left">Contato:</h3>
 <p align="left">
@@ -16,6 +16,4 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guinvs&show_icons=true&locale=en" alt="guinvs" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guinvs&" alt="guinvs" /></p>
 
