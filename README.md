@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Guilherme</h1>
-<h3 align="center">Busco desenvolver projetos para base sólida em desenvolvimento full-stack.</h3>
+<h3 align="center">Busco desenvolver projetos para base sólida em desenvolvimento Full-Stack.</h3>
 
 - E-mail **guilherme.alvescorp@outlook.com**
 
