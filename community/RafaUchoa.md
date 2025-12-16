@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Rafael Uchôa de Souza
 
-🎯 **Engenheiro de Dados Sênior no Itaú Unibanco, buscando aprender mais sobre Java, para conciliar os conhecimentos de dados com esssa poderosa linguagem: O JAVA!**
+🎯 **Engenheiro de Dados Sênior no Itaú Unibanco, buscando aprender mais sobre Java, para conciliar os conhecimentos de dados com essa poderosa linguagem: O JAVA!**
 
 📍 São Paulo, Brasil  
 🔗 [LinkedIn](https://www.linkedin.com/in/rafaeluchoadesouza/)
