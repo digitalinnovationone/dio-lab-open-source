@@ -13,7 +13,7 @@ Desde 2005 atuo nas áreas **Bancária, Seguros, Mercado Imobiliário e Financei
 Minha trajetória começou no clássico **BI (SSIS, SSAS)**, passando por desenvolvimento em **C#**, coordenação de equipes e hoje atuo como **Engenheiro de Dados** com foco em **SQL, Python, PySpark** e principais nuvens (**GCP, Azure, AWS**).
 
 Sou apaixonado por **engenharia de dados, ETL/ELT, Data Mesh e automação de pipelines**.  
-Também compartilho artigos e insights sobre tecnologia e dados.
+Também compartilho artigos sobre tecnologia e dados.
 
 ---
 
