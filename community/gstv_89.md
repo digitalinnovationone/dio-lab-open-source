@@ -29,32 +29,6 @@ Meu foco não é apenas aprender linguagens, mas **entender como sistemas se con
 
 ---
 
-## 💡 Ideias e Visão de Projetos
-
-Tenho interesse em desenvolver projetos que unam **tecnologia, impacto social e viabilidade prática**, como:
-
-### 📘 Plataforma Educacional Digital
-- Ensino de informática básica e avançada
-- Conteúdos adaptados por faixa etária
-- Do uso do celular até sistemas operacionais e ferramentas de escritório
-- Foco em inclusão digital e autonomia tecnológica
-
-### 🤖 Automação para Pequenos Negócios
-- Chatbots para atendimento inicial
-- Organização de demandas e processos
-- Redução de tarefas manuais repetitivas
-- Acesso simplificado à tecnologia para negócios locais
-
-### ⚖️ Sistema de Gestão para Escritórios
-- Site institucional como porta de entrada
-- Evolução para software de gestão:
-  - Financeiro
-  - Processos
-  - Atendimento
-- Arquitetura pensada para crescimento gradual
-
----
-
 ## 🧠 Como Eu Encaro Tecnologia
 
 - Tecnologia deve **facilitar a vida das pessoas**
@@ -77,13 +51,3 @@ Acredito que **bons profissionais não são definidos apenas por linguagens**, m
 - Expandir minha atuação para além do mercado local, com visão global
 
 ---
-
-## 🤝 Colaboração
-
-Este perfil e os projetos aqui publicados estão em constante evolução.  
-Sugestões, feedbacks e colaborações são sempre bem-vindos.
-
----
-
-📫 **Contato**  
-*(adicione aqui LinkedIn, e-mail ou portfólio quando desejar)*
