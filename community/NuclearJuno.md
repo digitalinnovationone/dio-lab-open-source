@@ -2,7 +2,6 @@
 <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/smile.gif" align="right" height="45" width="45" />
 </div>  
   
-
 <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/fan-1.gif" align="left" height="60" width="60" />  
   
 
