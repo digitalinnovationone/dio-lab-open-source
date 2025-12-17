@@ -89,14 +89,14 @@ Busco uma posição como **QA Júnior/Pleno** para evoluir em automação e cont
 
 ---
 
-## 🌎 Idiomas
+## Idiomas
 
 - **Inglês:** Intermediário (B1–B2)  
 - **Mandarim:** Intermediário  
 
 ---
 
-## 🚀 Em Desenvolvimento
+##  Em Desenvolvimento
 
 Atualmente estudando **Java**, com foco em evolução técnica e futura aplicação em automação de testes.
 
