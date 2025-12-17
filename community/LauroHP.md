@@ -76,9 +76,18 @@ Atualmente, estou me dedicando aos estudos na graduação em Ciência da Computa
         </a>
       </td>    
     </tr>
+    <td>17/12/2025</td>
+      <td>Contribuindo em um Projeto Open Source no GitHub</td>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1F-jmrfRdL86q1XEjCo6C03f47GMc3hHN/view?usp=sharing">
+           <img align="center" alt="acessar" src="https://img.shields.io/badge/acessar-30A3DC?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
     
   </tbody>
   <tfoot></tfoot>
 </table>
 
 ---
+
