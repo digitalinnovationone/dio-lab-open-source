@@ -1,1 +1,5 @@
-Olá, sou Wiliam Cherubim estudante desse Bootcamp da DIO, e estou enviando esse arquivo como parte do desafio de Git 
+Olá sou Wiliam Cherubim esse é meu teste de Git da Dio.
+
+Sou estudante de programação.
+
+Entre em contato comigo [LinkedIn](https://www.linkedin.com/in/wiliamcherubim/)
