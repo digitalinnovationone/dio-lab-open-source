@@ -2,26 +2,19 @@
 
 Olá! Meu nome é **Fabiola Vieira**.
 
-- 💼 **Engenheira de Software**, atualmente atuando como **Staffing Lead** em uma consultoria global de tecnologia  
+- 💼 Engenheira de Software, atualmente atuando como **Staffing Lead** em uma consultoria global de TI  
 - 🎓 Bacharelanda em **Matemática**  
 - 🤖 Interesse em ciência e análise de dados
-- 🚀 Curiosa para aplicar meus conhecimentos de Engenharia de Software e Matemática no bootcamp de Ciência de Dados com Python, construindo soluções de staffing no meu trabalho.  
+- 🚀 Curiosa para aplicar meus conhecimentos de Engenharia de Software e Matemática no bootcamp de Ciência de Dados com Python, construindo soluções de staffing no meu trabalho  
 
 ---
 
-## 📚 Tecnologias e conhecimentos
+## 📚 Tecnologias
 
 - Python  
 - Java  
-- SQL 
+- SQL  
 
----
-
-## 🛠️ Ferramentas
-
-- VS Code  
-- GitHub  
-- Google Sheets  
 
 ---
 
