@@ -38,4 +38,4 @@ Estou em constante evolução, buscando aprimorar minhas habilidades técnicas e
 
 
 🔗 **LinkedIn:**  
-https://www.linkedin.com/in/SEU-LINK-AQUI
+https://www.linkedin.com/in/fernanda-fschmidt
