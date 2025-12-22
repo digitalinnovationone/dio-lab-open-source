@@ -17,4 +17,4 @@ Estou em constante aprendizado e participando de projetos open source para evolu
 ## 📫 Contato
 
 - Email: mthsmaximiano@gmail.com
-- LinkedIn: https://www.linkedin.com/in/matheus-maximiano/
+- LinkedIn: https://www.linkedin.com/in/matheusmaximiano/
