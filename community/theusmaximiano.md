@@ -10,6 +10,7 @@ Estou em constante aprendizado e participando de projetos open source para evolu
 
 - Java / Spring Boot
 - C#
+- C/C++
 - Git e GitHub
 - SQL
 - Lógica de Programação
@@ -17,4 +18,4 @@ Estou em constante aprendizado e participando de projetos open source para evolu
 ## 📫 Contato
 
 - Email: mthsmaximiano@gmail.com
-- LinkedIn: https://www.linkedin.com/in/matheus-maximiano/
+- LinkedIn: https://www.linkedin.com/in/matheusmaximiano/
