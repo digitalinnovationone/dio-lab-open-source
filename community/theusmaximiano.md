@@ -10,6 +10,7 @@ Estou em constante aprendizado e participando de projetos open source para evolu
 
 - Java / Spring Boot
 - C#
+- C/C++
 - Git e GitHub
 - SQL
 - Lógica de Programação
