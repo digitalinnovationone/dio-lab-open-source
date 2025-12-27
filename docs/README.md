@@ -4,6 +4,9 @@
     <span> Olá, eu sou o Victor França</span>
 </h1>
 
+ Me chamo Victor França, tenho 20 anos e sou natural de São Paulo- SP. Comecei a programar no Ensino Fundamental, pois na minha escola, tinhamos aulas de programação basica (Html, CSS, jS (básico)). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICSUL. Sou apaixonado por tecnologia, para saber mais acesse meu "[linkedin](https://www.linkedin.com/in/victor-fran%C3%A7a-78938a22b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)"
+
+    
 <h2>
     Desenvolvedor .NET | C# | Automação Web | APIs REST
 </h2>
@@ -134,6 +137,7 @@
 
 [![GitHub](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/Victoreli71)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-fran%C3%A7a-78938a22b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
 
 
 
