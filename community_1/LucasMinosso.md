@@ -1,0 +1,1 @@
+Olá, sou o Lucas Minosso. Estudando de Desenvolvimento de Software
