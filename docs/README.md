@@ -1,11 +1,11 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Profiles README DIO</span>
+    <span> Arthur Henrique</span>
 </h1>
 
 
-# Arthur Henrique
+
 
 ## Apresentação.
 Olá! Meu nome é Arthur, e sou um estudante de Ciência de Dados com experiência em programação, focado na área de transformação de dados.
@@ -39,5 +39,6 @@ Com habilidades em:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+
 
 
