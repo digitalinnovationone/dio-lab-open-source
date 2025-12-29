@@ -8,9 +8,13 @@
 # Arthur Henrique
 
 ## Apresentacao.
-Sou um estudante de ciencia de dados com certa experiencia em programacao focado na area de transformacao de dados. Minhas principais experiencias:
-análise de dados com Python (Pandas e Matplotlib), MySQL, ETLs),
-criação de dashboards em Excel, BI e SQL Workbench.
+Olá! Meu nome é Arthur, e sou um estudante de Ciência de Dados com experiência em programação, focado na área de transformação de dados.
+
+Com habilidades em:
+
+- Análise de dados com Python (Pandas e Matplotlib)
+- MySQL e criação de ETLs
+- Criação de dashboards em Excel, BI e SQL Workbench
 
 ## contato
 
@@ -35,3 +39,4 @@ criação de dashboards em Excel, BI e SQL Workbench.
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+
