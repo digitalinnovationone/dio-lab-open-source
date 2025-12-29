@@ -28,8 +28,8 @@ Me chamo Cauã Machado, tenho 18 anos e sou de Mogi Guaçu, São Paulo. Concluí
 
 ### Conecte-se comigo
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/caua_machado/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:SEUEMAIL@outlook.com)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/caua_machado01/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:cauad.omachado@gmail.com)
 
 ---
 
@@ -102,3 +102,4 @@ Me chamo Cauã Machado, tenho 18 anos e sou de Mogi Guaçu, São Paulo. Concluí
   />
 
 </p>
+
