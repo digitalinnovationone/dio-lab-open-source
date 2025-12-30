@@ -25,3 +25,7 @@ Evoluir como desenvolvedor, aplicando a teoria na prática e participando de pro
 
 ---
 📫 Sempre aberto a aprender e trocar conhecimento!
+
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logo=gitbook&logoColor=white)]([https://www.dio.me/users/alan_douglasra](https://web.dio.me/users/aciolialexsandro12?tab=achievements))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alexsandro-acioli)
+[![GitHub](https://img.shields.io/badge/GitHub-E44C30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ac1oli)
