@@ -1,3 +1,0 @@
-# gomeees
-
-## Gabriel Gomes

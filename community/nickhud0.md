@@ -1,1 +1,0 @@
-Ola me chamo nickolas hudson, estou cursando bacharel em estatistica e sonho em trabalhar com dados e machine learning

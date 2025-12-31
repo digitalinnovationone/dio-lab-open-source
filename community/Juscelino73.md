@@ -1,3 +1,0 @@
-
-# Juscelino 
-# Sinta-se Conectado
