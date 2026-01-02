@@ -1,5 +1,5 @@
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Lucas 👋
 
 My name is Lucas and I'm a Musician, Philosopher, and now, a Aspiring Software Developer, from Brazil.
 
