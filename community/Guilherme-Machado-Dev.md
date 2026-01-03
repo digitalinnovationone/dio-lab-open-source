@@ -1,5 +1,7 @@
 # 👋 Olá, eu sou o Guilherme
 
+## Eu moro em duque de caxias, (RJ), tenho 19 anos e busco me desenvolver na área da tecnologia
+
 ## 🌐 Conecte-se comigo
 - 📧 Email: [guilhermebomfimmachadog@gmail.com](mailto:guilhermebomfimmachadog@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/guilherme-barbosa1712](https://www.linkedin.com/in/guilherme-barbosa1712)
