@@ -1,0 +1,4 @@
+# Robson Ribeiro de Queroz
+
+Sou estudante de tecnologia, trabalho com infraestrura e agora aprendendo e me desenvolvendo com o dio na área de programação, Esse perfil foi criado apenas para o cumprir o desafio e dar prosseguimento na aprendizagem, mostrando que entendi os procedimentos básicos demonstrados pela Eli nossa tutora nesse caminho, desde já quero deixar meu obrigado a ela e a todos que visualizarem esse arquivo .md.
+Esse arquivo foi criado utilizando o https://readme.so/pt/editor, que achei mais fácil no momento mas com certeza vou aprender um pouco mais e utilizar de outras formas para o meu perfil principal no GIT.

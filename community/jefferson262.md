@@ -1,0 +1,3 @@
+Olá! Meu nome é Jefferson Santana dos Santos, estou iniciando minha carreira na tecnologia. Estou fazendo transição de carreira, sou formado em Biomedicina, pós-graduado em hematologia.  Comecei na área da tecnologia com a pós-graduação na alta plataforma mainframe IBM. Atualmente cursando análises e desenvolvimento de sistemas na universidade cruzeiro do Sul.  Busco uma oportunidade para ingressar na área da tecnologia da informação. Tenho conhecimento do sistema z/OS, submissão de JCL, REXX, RACF. 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( www.linkedin.com/in/jefferson-santana-dos-santos-bb343a304/)
