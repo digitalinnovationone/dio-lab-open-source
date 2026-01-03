@@ -1,3 +1,0 @@
-# Sobre
-
-Um programador
