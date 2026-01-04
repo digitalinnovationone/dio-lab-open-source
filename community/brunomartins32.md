@@ -19,14 +19,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="flex-start">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomartins32&layout=compact&theme=dark&hide_border=true"/>
-</div>
-
----
-
 ### 📫 Como me encontrar
 
 <a href="mailto:brunomartinns@hotmail.com">
