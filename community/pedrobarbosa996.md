@@ -1,4 +1,4 @@
-<h1>👋 Olá, meu nome é Pedro Claudino Barbosa!</h1>
+<h1>👋 Olá, meu nome é Pedro Claudino Barbosa</h1>
 
 <h2>🧑🏾‍💼 Quem sou</h2>
 <p style="text-align:justify">
