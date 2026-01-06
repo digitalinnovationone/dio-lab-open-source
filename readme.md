@@ -1,0 +1,1 @@
+> ⚠️ **Atenção:** Este arquivo existe **apenas** para facilitar a criação de um Pull Request (PR). Remova-o após o merge.
