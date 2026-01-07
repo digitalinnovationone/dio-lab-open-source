@@ -36,7 +36,7 @@ Fui selecionado entre **+2.000 candidatos** para o bootcamp intensivo da *Genera
 
 ---
 
-### 🛠️ Stack Tecnológica (Arsenal)
+### 🛠️ Stack Tecnológica
 
 Minha caixa de ferramentas para construir aplicações de alto nível.
 
