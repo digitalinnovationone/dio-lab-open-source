@@ -1,1 +1,0 @@
-Olá, sou a Vanessa!
