@@ -64,3 +64,4 @@ Atuar na área de **Desenvolvimento de Sistemas** como Desenvolvedora Trainee ou
 
 📌 **Vamos conectar?**  
 🔗 [LinkedIn](https://www.linkedin.com/in/ana-carolina-salles-b31a3421a) | 💻 [GitHub](https://github.com/AnaC380) | ✉️ anasalles380@gmail.com
+ 
