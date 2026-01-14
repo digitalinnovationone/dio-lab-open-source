@@ -1,7 +1,7 @@
 # Felipe Queiroz Vieira
 
 ## Sobre mim
-Olá! Meu nome é Felipe Queiroz Vieira, estudante de Análise e Desenvolvimento de Sistemas (ADS). Meu objetivo é ingressar na área de tecnologia o quanto antes, com foco principal em desenvolvimento back-end. Busco constantemente aprimorar minhas habilidades técnicas e minha capacidade de resolver problemas, sempre visando evolução profissional contínua.
+Olá!! Meu nome é Felipe Queiroz Vieira, estudante de Análise e Desenvolvimento de Sistemas (ADS). Meu objetivo é ingressar na área de tecnologia o quanto antes, com foco principal em desenvolvimento back-end. Busco constantemente aprimorar minhas habilidades técnicas e minha capacidade de resolver problemas, sempre visando evolução profissional contínua.
 
 ### Habilidades
 
