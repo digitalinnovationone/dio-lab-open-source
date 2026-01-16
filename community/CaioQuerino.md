@@ -112,7 +112,7 @@ Busco oportunidades para aplicar e expandir minhas habilidades em **POO** e **ar
 ---
 
 ## 🌐 Contato  
-📧 **Email:** [caio.querino.react@email.com](mailto:caio.querino.react@email.com)  
+📧 **Email:** [caioquerino@souunisuam.com.br](mailto:caioquerino@souunisuam.com.br)  
 🔗 **LinkedIn:** [Caio Querino](https://www.linkedin.com/in/caio-querino-1257622a5/)  
 💻 **GitHub:** [@CaioQuerino](https://github.com/CaioQuerino)  
 🌍 **Portfólio:** [Portfolio Backend](https://caioquerino.github.io/portfolio-backend/)  
