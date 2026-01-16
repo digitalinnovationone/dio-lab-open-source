@@ -1,4 +1,4 @@
-#Fagner da Silva Amorim
+#Fagner Amorim
 
 Com uma longa e linda carreira de 17 anos voltada a área da Aviação, hoje sigo uma nova jornada cujo objetivo é migrar para a área da progamação. Onde hoje já tenho bom domínio nas linguagens de HTML5 e CSS3 que, agora já desenvolvendo bem essas linguagens, sigo para os próximos passos que é programar em JavaScript e focar em outra tradicional linguagem de programação para atuar em breve profissionalmente no mercado de trabalho.
 
