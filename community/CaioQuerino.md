@@ -123,7 +123,3 @@ Busco oportunidades para aplicar e expandir minhas habilidades em **POO** e **ar
 Você também pode me encontrar em plataformas freelancer:  
 
 - [99Freelas](https://www.99freelas.com.br/user/caioquerino) – Desenvolvedor Backend/Fullstack  
-
----
-
-© 2025 **Caio Querino**. Todos os direitos reservados.  
