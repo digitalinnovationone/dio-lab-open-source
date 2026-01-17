@@ -2,53 +2,53 @@
 
 
 
-[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/seu-perfil)
 
-[!\[GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/seu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/seu-usuario)
 
-[!\[Portfólio](https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://seu-portfolio.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://seu-portfolio.com)
 
-[!\[Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:seu.email@provedor.com)
-
-
-
-\## 📊 Sobre Mim
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:seu.email@provedor.com)
 
 
 
-Profissional em transição para \*\*Análise de Dados\*\*, com sólida experiência em \*\*gestão da informação\*\* em instituições públicas de alto nível (STF, STJ, Senado Federal). Combino conhecimentos técnicos em Python, SQL e Power BI com experiência prática em organização, processamento e análise de informações complexas.
+## 📊 Sobre Mim
 
 
 
-\*\*Formação:\*\* Graduando em Biblioteconomia e Arquivologia - Universidade de Brasília  
-
-\*\*Foco atual:\*\* Especialização em Análise de Dados, Business Intelligence e Data Storytelling
+Profissional em transição para \*\*Análise de Dados\*\*, com sólida experiência em **gestão da informação\*\* em instituições públicas de alto nível (STF, STJ, Senado Federal). Combino conhecimentos técnicos em Python, SQL e Power BI com experiência prática em organização, processamento e análise de informações complexas.
 
 
 
-\## 🛠 Habilidades Técnicas
+**Formação:** Graduando em Biblioteconomia e Arquivologia - Universidade de Brasília  
+
+**Foco atual:** Especialização em Análise de Dados, Business Intelligence e Data Storytelling
 
 
 
-\### \*\*Linguagens \& Ferramentas\*\*
-
-!\[Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-
-!\[SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=postgresql\&logoColor=white)
-
-!\[Power BI](https://img.shields.io/badge/Power\_BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
-
-!\[Excel](https://img.shields.io/badge/Excel-217346?style=flat-square\&logo=microsoftexcel\&logoColor=white)
-
-!\[Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-
-!\[NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+## 🛠 Habilidades Técnicas
 
 
 
-\### \*\*Áreas de Conhecimento\*\*
+### **Linguagens \& Ferramentas\*\*
 
-\- \*\*Análise Exploratória de Dados (EDA)\*\*
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=postgresql\&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power\_BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square\&logo=microsoftexcel\&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+
+
+
+### **Áreas de Conhecimento**
+
+- **Análise Exploratória de Dados (EDA)**
 
 \- \*\*Visualização de Dados \& Dashboarding\*\*
 
