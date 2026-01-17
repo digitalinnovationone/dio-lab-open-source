@@ -1,43 +1,53 @@
-# Arthur Santos | Analista de Dados em Formação
+# Arthur Santos
+### Analista de Dados em Formação | Python • SQL • Power BI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthurfs)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurfs0)
-[![Portfólio](https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seu-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurofscg@gmail.com)
+📍 Brasília, Brasil  
+🎯 Foco em Análise de Dados, Business Intelligence e Data Storytelling
 
-## 📊 Sobre Mim
+## Sobre
+Profissional em transição para a área de **Análise de Dados**, com experiência consolidada em **gestão, organização e tratamento da informação**
+em instituições públicas de alta complexidade, como **STF, STJ e Senado Federal**.
 
-Profissional em transição para **Análise de Dados**, com sólida experiência em **gestão da informação**
-em instituições públicas de alto nível (STF, STJ, Senado Federal).
-Atuo com Python, SQL e Power BI na análise, organização e visualização de dados.
+Atuo na **coleta, limpeza, organização e análise de dados**, utilizando **Python, SQL e Power BI** para transformar dados brutos em
+informações estruturadas que apoiam a tomada de decisão.
+Tenho forte atenção à qualidade, consistência e rastreabilidade dos dados, além de facilidade para comunicação com áreas não técnicas.
 
-**Formação:** Graduando em Biblioteconomia e Arquivologia – Universidade de Brasília  
-**Foco atual:** Análise de Dados, Business Intelligence e Data Storytelling
+## Stack Técnica
+- **Linguagens:** Python, SQL  
+- **Bibliotecas:** Pandas, NumPy  
+- **Visualização & BI:** Power BI, Excel  
+- **Análise:** Análise Exploratória de Dados (EDA), KPIs, indicadores  
+- **Conceitos:** Data Cleaning, Data Preparation, Storytelling com Dados
 
-## 🛠 Habilidades Técnicas
+## Experiência Relevante
+**Gestão da Informação – Instituições Públicas (STF, STJ e Senado Federal)**  
+- Organização, padronização e controle de grandes volumes de informações
+- Apoio à análise de dados institucionais e indicadores internos
+- Garantia da integridade, confiabilidade e rastreabilidade dos dados
+- Interface com diferentes áreas para levantamento e estruturação de informações
 
-### Linguagens & Ferramentas
-- Python
-- SQL
-- Power BI
-- Excel
-- Pandas
-- NumPy
+## Projetos em Dados
+### Análise de Dados Abertos do Judiciário
+- Tratamento e análise de datasets públicos
+- Processamento de mais de **50 mil registros**
+- Identificação de padrões e tendências temporais
+- Construção de **dashboard interativo em Power BI**
 
-### Áreas de Conhecimento
-- Análise Exploratória de Dados (EDA)
-- Visualização de Dados & Dashboards
-- Data Cleaning & Preprocessing
-- Business Intelligence
-- Storytelling com Dados
+### Dashboard de Monitoramento Institucional (Projeto Acadêmico)
+- Modelagem de dados e criação de KPIs
+- Conexão com múltiplas fontes
+- Visualizações interativas para apoio à decisão
 
-## 📈 Projetos em Destaque
+### Data Cleaning com Python – Dataset Governamental
+- Limpeza e padronização de dados
+- Tratamento de valores nulos e duplicados
+- Validação de consistência e qualidade dos dados
 
-### 1. Análise de Dados Abertos do Judiciário
-Análise de dados públicos do sistema judiciário para identificação de padrões e indicadores.
+## Formação
+**Graduando em Biblioteconomia e Arquivologia**  
+Universidade de Brasília (UnB)
 
-**Tecnologias:** Python, Power BI, Jupyter  
-**Destaques:**
-- Processamento de 50k+ registros
-- Análise temporal
-- Dashboard interativo
+## Contato
+- LinkedIn: https://linkedin.com/in/arthurfs  
+- GitHub: https://github.com/arthurfs0  
+- Email: arthurofscg@gmail.com
