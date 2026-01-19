@@ -66,8 +66,8 @@ Sou um profissional com experiência em **tecnologia, dados e infraestrutura**, 
 
 ## 📫 Contato
 
-- GitHub: [https://github.com/seu-usuario](https://github.com/jorgelcd315)
-- LinkedIn: [https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/jorgelcd315/)
+- GitHub: [https://github.com/jorgelcd315](https://github.com/jorgelcd315)
+- LinkedIn: [https://linkedin.com/in/jorgelcd315](https://www.linkedin.com/in/jorgelcd315/)
 
 ---
 
