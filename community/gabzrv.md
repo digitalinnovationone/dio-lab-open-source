@@ -1,6 +1,6 @@
 # Gabriel Bianchi de Melo
 
-    Olá, estou iniciando minha carreira como desenvolvedor Full Stack e busco minha primeira oportunidade no mercado de trabalho. Tenho grande interesse em aprendizado contínuo, desenvolvimento de projetos práticos e crescimento profissional na área de tecnologia.
+    Olá, estou iniciando minha carreira como desenvolvedor Full Stack e busco minha primeira oportunidade no mercado de trabalho. Tenho grande interesse em um aprendizado contínuo, desenvolvimento de projetos práticos e crescimento profissional na área de tecnologia.
 
 ## Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabzrv/)
