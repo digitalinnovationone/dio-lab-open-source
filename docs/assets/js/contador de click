@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contador de Cliques Simples</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 1.2em;
+            cursor: pointer;
+            margin-bottom: 20px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        #contadorDisplay {
+            font-size: 2em;
+            font-weight: bold;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+    <button id="meuBotao">Clique em Mim!</button>
+    <p>Número de cliques: <span id="contadorDisplay">0</span></p>
+
+    <script>
+        // 1. Pega os elementos do HTML
+        const meuBotao = document.getElementById('meuBotao');
+        const contadorDisplay = document.getElementById('contadorDisplay');
+
+        // 2. Inicializa uma variável para contar os cliques
+        let contador = 0;
+
+        // 3. Adiciona um "ouvinte de evento" ao botão
+        //    Quando o botão é clicado, a função dentro dele é executada
+        meuBotao.addEventListener('click', () => {
+            contador++; // Incrementa o contador em 1
+            contadorDisplay.textContent = contador; // Atualiza o texto exibido na tela
+        });
+    </script>
+
+</body>
+</html>
