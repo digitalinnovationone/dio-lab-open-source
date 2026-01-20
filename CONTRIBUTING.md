@@ -33,7 +33,7 @@ git clone https://github.com/SEU_USERNAME/dio-lab-open-source.git
 ```
 Pressione enter, e uma cópia do seu fork no GitHub será criada localmente.
 
-### 3) Crie uma nova **branch** 
+### 3) Crie uma nova **branch** `feat/community/Amandajferreira´: git checkout -b `feat/community/Amandajferreira´ ;
 Utilize o comando `git checkout -b` para criar e alternar para a nova branch e nomeie-a como `feat/community/SEU_USERNAME`
 > Exemplo: `git checkout -b feat/community/falvojr`
 
