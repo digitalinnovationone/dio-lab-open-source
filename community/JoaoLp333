@@ -1,0 +1,15 @@
+# DIO |Erros de compatibilidade de branches 
+
+trabalhar com brnaches no controle de versão, como Git, é essencial para o desenvolvimento colaborativo.no entanto é comum encontrar erros de compatibilidade que podem causar dores de cabeça.Abaixo, uma tabela com os erros mais frequentes e suas respectivas soluções
+
+
+
+## 💻 Tabela De assistencia
+| Erros comum | Descrição do problema |soluções|
+|-------------|-----------------------|---------|
+|Conflitos de merge|Mudanças diferentes nas mesmas linhas/arquivos|Resolver manualmente ou com ferramentas visuais|
+|Histórico Emaranhado|Histórico de commits confuso por merges inconsistentes|Usar git rebase (com cautela) ou definir estratégia de merge|
+|Perda de Commits/Mudanças|Commits ou modificações perdidas por merges/rebases ruins|Usar git reflog para recuperar; manter backups|
+|Branch Desatualizada|Branch muito atrás da principal, gerando muitos conflitos|Fazer git pull regular; rebase ou merges incrementais|
+|Nomenclatura Inconsistente|Nomes de branches sem padrão, dificultando organização|Definir e documentar um padrão de nomenclatura|
+|Trabalho em Branches Erradas|Commitar na branch errada (ex: main) ou sem propósito|Verificar branch (git status); criar branches específicas; usar git stash|
