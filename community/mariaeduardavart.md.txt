@@ -1,0 +1,35 @@
+# Olá, seja bem vindo (a) !
+
+
+
+### :sparkles: Quem sou eu
+
+Meu nome é Maria Eduarda, tenho 24 anos e sou formada em Análise e Desenvolvimento de Sistemas pela Fatec Ourinhos. Comecei minha carreira na programação tem aproximadamente 2 anos. Estou sempre em busca de adquirir conhecimento e aprimorar minha habilidades.
+
+### :chains: Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)]([(1) Maria Eduarda dos Santos Vart | LinkedIn](https://www.linkedin.com/in/maria-eduarda-dos-santos-vart-1a67a8174/)) ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
+
+
+
+### :desktop_computer:  Habilidades 
+
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  ![JAVSCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![RABBITMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+ ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)![ECLIPSE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+
+
+
+### :cat: GitHub Status
+
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mariaeduardavart&show_icons=true&count_private=true&hide_border=true&title_color=2471A3&icon_color=00bfbf&text_color=A3A214&bg_color=0d1117" alt="Maria Eduarda Vart github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduardavart&layout=compact&hide_border=true&title_color=A3A214&text_color=A3A214&bg_color=0d1117" />
+</div>
+
+
+### Meu repositório
+
+[mariaeduardavart (Maria Eduarda Vart) (github.com)](https://github.com/mariaeduardavart)
