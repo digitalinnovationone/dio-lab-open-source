@@ -1,4 +1,3 @@
-
 # Matheus Oliveira
 
 ## Sobre mim
@@ -21,13 +20,13 @@ Comprometido com a aprendizagem contínua, busco constantemente me atualizar sob
 [![GitHub](https://img.shields.io/badge/GitHub-E44C30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sr-Matheus-Oliveira)
 
 
-### Social
+### Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sr-matheus-oliveira/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:tmmo@outlook.com.br)
 
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AlessandroGZaros&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Sr-Matheus-Oliveira/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Sr-Matheus-Oliveira&repo=https://github.com/Sr-Matheus-Oliveira?tab=repositories&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Sr-Matheus-Oliveira)
 
 
 
