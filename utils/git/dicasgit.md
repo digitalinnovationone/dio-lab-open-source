@@ -60,3 +60,4 @@ envia arquivos de um repositório local para um repositório remoto
 https://learn.microsoft.com/pt-br/devops/develop/git/what-is-git
 https://www.codigofonte.com.br/artigos/top-25-comandos-do-git
 https://kenzie.com.br/blog/o-que-e-git/
+https://docs.github.com/pt/get-started
