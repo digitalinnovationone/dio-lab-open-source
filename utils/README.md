@@ -9,7 +9,7 @@
 <table>
   <thead>
     <tr align="left">
-      <th>Nº</th>
+      <th>Nº</th >
       <th>Utilitário</th>
       <th>Exemplos</th>
       <th>Fonte</th>
