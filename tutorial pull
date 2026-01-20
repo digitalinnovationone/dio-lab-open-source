@@ -1,0 +1,12 @@
+# 🛠 Tutorial: Como Contribuir com um Pull Request no GitHub
+
+Se você está começando no mundo Open Source e quer contribuir neste repositório, siga este passo a passo:
+
+## 1. Faça um Fork
+Clique no botão `Fork` no canto superior direito do repositório. Isso irá criar uma cópia do projeto no seu GitHub.
+
+## 2. Clone o repositório
+Abra seu terminal e rode:
+
+```bash
+git clone https://github.com/seu-usuario/dio-lab-open-source.git
