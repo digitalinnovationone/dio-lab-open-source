@@ -615,7 +615,46 @@
         <code>![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)</code>
       </td>
    </tr>
-    
+    <tr>
+      <td>
+        <img align="center" alt=".Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+      </td>
+      <td>
+        <code>![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)</code>
+      </td>
+   </tr>
+     <tr>
+      <td>
+        <img align="center" alt=".NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+      </td>
+      <td>
+        <code>![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)</code>
+      </td>
+   </tr>
+    <tr>
+      <td>
+        <img align="center" alt=".Seaborn" src="https://img.shields.io/badge/Seaborn-77ACF1?style=for-the-badge&logo=seaborn&logoColor=white">
+      </td>
+      <td>
+        <code>![Seaborn](https://img.shields.io/badge/Seaborn-77ACF1?style=for-the-badge&logo=seaborn&logoColor=white)</code>
+      </td>
+   </tr>
+    <tr>
+      <td>
+        <img align="center" alt=".Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
+      </td>
+      <td>
+        <code>![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)</code>
+      </td>
+   </tr>
+    <tr>
+      <td>
+        <img align="center" alt=".Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white">
+      </td>
+      <td>
+        <code>![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)</code>
+      </td>
+   </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
