@@ -2,11 +2,15 @@
 
 
 
-<h1 align="center">Olá! Eu sou o Vitor Hugo 👋</h1>
+<h1 align="center">Olá! Fernando Lima 👋</h1>
 
 
  <h2>Sobre mim</h2> 
-Estudante de Análise e Desenvolvimento de Sistemas e apaixonado pro tecnologia. Gosto muito do Full-Stack, porém estou focando mais no Front-End.
+Sou Analista de TI lotado na Diretoria de Tecnologia do Banco do Brasil. Trabalho em gerência de Service Desk fazendo a gestão de atendimento de produtos de automação bancária e de escritórios e produzindo Artigos de Conhecimentos.
+
+O meu lema é aprender sempre, colaborar e inovar.
+
+Meus interesses atuais são IA (Machine Learning e LLMs), Python e Plataforma Service Now. 
 
 <h2>Redes Sociais</h2>
 
@@ -15,7 +19,6 @@ Estudante de Análise e Desenvolvimento de Sistemas e apaixonado pro tecnologia.
 
 [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
-[![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=blue)](https://twitter.com/)
 </div>
 
 <h2>Habilidades</h2>
@@ -25,21 +28,7 @@ Estudante de Análise e Desenvolvimento de Sistemas e apaixonado pro tecnologia.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
 
-![ReactJs](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=blue)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=blue)
-
-![Php](https://img.shields.io/badge/Php-000?style=for-the-badge&logo=php&logoColor=blue)
-
-![FireBase](https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase&logoColor=yellow)
-
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
-
-![SASS](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=sass)
-
-![Styled-Component](https://img.shields.io/badge/StyledComponent-000?style=for-the-badge&logo=styledComponents)
+![Python](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=blue)
 
 </div>
 
