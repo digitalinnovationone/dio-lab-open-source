@@ -1,0 +1,24 @@
+# Nilton Silva
+
+## Sobre Mim
+
+Sou um desenvolvedor de software com uma paixão por tecnologia e automação. Tenho experiência em desenvolvimento back-end, especialmente com a linguagem C#. Sempre estou em busca de novos desafios e oportunidades para aprender e crescer na área de desenvolvimento de software.
+
+## Competências
+
+- **C#**: Desenvolvimento de aplicações back-end robustas e escaláveis.
+- **Desenvolvimento Back-End**: Experiência com APIs, microserviços e arquitetura de software.
+- **Automação**: Habilidade em criar scripts e ferramentas para automatizar processos e aumentar a eficiência.
+
+## Conquistas
+
+Tenho orgulho de minhas conquistas na [DIO](https://web.dio.me/users/niltonsilva_code?tab=achievements), onde participei de diversos cursos e desafios que aprimoraram minhas habilidades técnicas e profissionais.
+
+## Contato
+
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/nilton-silva1/) ou enviar um e-mail para [seu-email@example.com](mailto:seu-email@example.com).
+
+---
+
+[![Perfil na DIO](https://img.shields.io/badge/DIO-Perfil%20na%20DIO-blue)](https://web.dio.me/users/niltonsilva_code?tab=achievements)
+
