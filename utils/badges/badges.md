@@ -943,6 +943,14 @@
         <code>![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)</code>
       </td>
     </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white">
+      </td>
+      <td>
+        <code>![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white)</code>
+      </td>
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
