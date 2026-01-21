@@ -1,0 +1,2 @@
+Olá, me chamo Diogo França, irei me formar nesse ano de 2024 em Engenharia da Computação pelo Cin/UFPE, fã de ficção científica como Duna, The expanse e filmes como Prometheus, cultivo a responsabilidade, liberdade e respeito a todos.
+Busco contribuir na criação de projetos e serviços, desde a fase inicial de concepção até a entrega final. Meu foco está em garantir o cumprimento meticuloso dos requisitos, seja em termos de segurança, funcionalidade ou qualidade. Estou particularmente interessado em oportunidades nas áreas de Desenvolvimento Web e Análise de Sistemas.
