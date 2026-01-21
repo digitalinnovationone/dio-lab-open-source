@@ -38,4 +38,4 @@ Atualmente estou em um processo contínuo de desenvolvimento técnico e pessoal,
 ## 🌐 Conecte-se comigo
 
 - [LinkedIn](https://www.linkedin.com/in/pedro-henrique-araujo)  
-- [GitHub](https://github.com/PdrAraujo)
+- [GitHub](https://github.com/PdrArj)
