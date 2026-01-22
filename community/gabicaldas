@@ -1,0 +1,17 @@
+/* Bordas para todas as seções */
+.et_pb_section {
+    border: 2px solid #ff0000; /* Define a cor e a espessura da borda */
+    border-radius: 10px; /* Adiciona bordas arredondadas */
+}
+
+/* Bordas para módulos específicos */
+.et_pb_module {
+    border: 1px dashed #00ff00; /* Bordas tracejadas em verde */
+    padding: 20px; /* Espaçamento interno */
+}
+
+/* Bordas para imagens */
+.et_pb_image {
+    border: 3px solid #0000ff; /* Borda sólida azul */
+    border-radius: 5px; /* Bordas arredondadas */
+}
