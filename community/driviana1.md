@@ -48,9 +48,8 @@ Segunda língua: Inglês
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DriViana1&hide=javascript,css,scss,html&theme=tokyonight)
 
-
 ----------
-## 📲 Contato
+## 📲 Contato e colabs
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriana-viana-5b548ab1/)
 
