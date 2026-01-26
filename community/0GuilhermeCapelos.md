@@ -1,0 +1,1 @@
+Me chamo Guilherme Capelos tenho 21 anos, atualmente estudando programação com foco no front-end. Pretendo entrar no mercado de trabalho.
