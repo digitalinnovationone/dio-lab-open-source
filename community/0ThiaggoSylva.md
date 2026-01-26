@@ -1,0 +1,1 @@
+Estudante de Analise e Desenvolvimento de Sistemas Sempre Buscado Conhecimento. Atua hà mais de 10 Anos na Area de Produçõ Agora em Transição de Carreira para a área de tecnologia
