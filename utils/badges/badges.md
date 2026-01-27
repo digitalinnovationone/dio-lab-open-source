@@ -946,3 +946,90 @@
   </tbody>
   <tfoot></tfoot>
 </table>
+
+## Plataformas de exercícios e desafios
+
+<table>
+  <thead>
+    <tr align="left">
+      <th>Badge</th>
+      <th>Markdown</th>
+    </tr>
+  </thead>
+
+  <tbody align="left">
+    <!-- Beecrowd -->
+    <tr>
+      <td>
+        <img align="center" alt="Beecrowd" src="https://img.shields.io/badge/Beecrowd-FFD700?style=for-the-badge">
+      </td>
+      <td>
+        <code>[![Beecrowd](https://img.shields.io/badge/Beecrowd-FFD700?style=for-the-badge)](https://judge.beecrowd.com/pt/profile/SEUUSERID)</code>
+      </td>
+    </tr>
+    <!-- CodeForces -->
+    <tr>
+      <td>
+        <img align="center" alt="CodeForces" src="https://img.shields.io/badge/CodeForces-1aa4e0?style=for-the-badge&logo=codeforces&logoColor=FFFFFF">
+      </td>
+      <td>
+        <code>[![CodeForces](https://img.shields.io/badge/CodeForces-1aa4e0?style=for-the-badge&logo=codeforces&logoColor=FFFFFF)](https://codeforces.com/profile/SEUUSERNAME)</code>
+      </td>
+    </tr>
+    <!-- LeetCode -->
+    <tr>
+      <td>
+        <img align="center" alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFFFFF">
+      </td>
+      <td>
+        <code>[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFFFFF)](https://leetcode.com/u/SEUUSERNAME/)</code>
+      </td>
+    </tr>
+    <!-- Codewars -->
+    <tr>
+      <td>
+        <img align="center" alt="Codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=FFFFFF">
+      </td>
+      <td>
+        <code>[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=FFFFFF)](https://www.codewars.com/users/SEUUSERNAME)</code>
+      </td>
+    </tr>
+    <!-- SPOJ -->
+    <tr>
+      <td>
+        <img align="center" alt="SPOJ" src="https://img.shields.io/badge/SPOJ-2e8bdd?style=for-the-badge&logo=spoj&logoColor=FFFFFF">
+      </td>
+      <td>
+        <code>[![SPOJ](https://img.shields.io/badge/SPOJ-2e8bdd?style=for-the-badge&logo=spoj&logoColor=FFFFFF)](https://br.spoj.com/users/SEUUSERNAME/)</code>
+      </td>
+    </tr>
+    <!-- AtCoder -->
+    <tr>
+      <td>
+        <img align="center" alt="AtCoder" src="https://img.shields.io/badge/AtCoder-0eb552?style=for-the-badge">
+      </td>
+      <td>
+        <code>[![AtCoder](https://img.shields.io/badge/AtCoder-0eb552?style=for-the-badge)](https://atcoder.jp/users/SEUUSERNAME)</code>
+      </td>
+    </tr>
+    <!-- Kattis -->
+    <tr>
+      <td>
+        <img align="center" alt="Kattis" src="https://img.shields.io/badge/Kattis-e7770d?style=for-the-badge">
+      </td>
+      <td>
+        <code>[![Kattis](https://img.shields.io/badge/Kattis-e7770d?style=for-the-badge)](https://open.kattis.com/users/SEUUSERNAME)</code>
+      </td>
+    </tr>
+    <!-- CodeChef -->
+    <tr>
+      <td>
+        <img align="center" alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=FFFFFF">
+      </td>
+      <td>
+        <code>[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=FFFFFF)](https://www.codechef.com/users/SEUUSERNAME)</code>
+      </td>
+    </tr>
+  </tbody>
+  <tfoot></tfoot>
+</table>
