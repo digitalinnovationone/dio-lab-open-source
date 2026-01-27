@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Gabriela Alves
+# 👋 Olá! Eu sou a Gabriela Alves!
 
 > 📊 Analista de Dados em Formação | 🎓 Ciência da Computação | 💜 DIO Bootcamp
 
