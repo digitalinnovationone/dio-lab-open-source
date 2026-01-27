@@ -10,4 +10,4 @@
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcelosonny-del&theme=transparent&bg_color=483D8B&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=000000&text_color=FFF)
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marcelosonny-del&repo=dio-lab-open-source&bg_color=483d8b&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=000000&text_color=FFF)](https://github.com/marcelosonny-del/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marcelosonny-del&repo=dio-lab-open-source&bg_color=483d8b&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=000000&text_color=FFFFF0)](https://github.com/marcelosonny-del/dio-lab-open-source)
