@@ -725,10 +725,18 @@
     </tr>
     <tr>
       <td>
-       <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+       <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white">
       </td>
       <td>
-        <code>![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)</code>
+        <code>![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+       <img align="center" alt="OCI" src="https://img.shields.io/badge/OCI-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000">
+      </td>
+      <td>
+        <code>![OCI](https://img.shields.io/badge/OCI-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)</code>
       </td>
     </tr>
     <tr>
