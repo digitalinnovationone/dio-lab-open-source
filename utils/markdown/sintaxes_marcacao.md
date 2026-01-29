@@ -49,6 +49,13 @@ Welcome my GitHub
 I hope to contribute my knowledge.
 ```
 
+É possível definir o nome da linguagem de programação na qual o bloco de código foi escrito da seguinte forma: **```javascript** ou  **~~~php**  . O resultado será este:
+```javascript
+    console.log("Código em Javascript")
+```
+A lista de linguagens suportadas pode ser consultada [clicando AQUI](https://pygments.org/languages/)
+
+
 ## Links
 
 Você pode utilizar links para facilitar a navegação e a exploração de novos conteúdos. Você pode criar um link embutido colocando o texto do link entre colchetes   `[ ]` e colocando a URL entre parênteses `( )`. Também é possível usar o atalho de teclado `Command` + `K` para criar um link.
@@ -74,6 +81,50 @@ Um link relativo é um link que é relativo ao arquivo atual. Por exemplo, se vo
 GitHub transformará automaticamente o seu link relativo ou caminho da imagem baseado em qualquer branch em que você estiver no momento para que o link ou caminho sempre funcione. O caminho do link será relativo ao arquivo atual. Links que começam com / serão relativos à raiz do repositório. Você pode usar todos os operandos de link relativos, como `./` e `../`.
 
 Os links relativos são mais fáceis para usuários que clonam o seu repositório. Os links absolutos podem não funcionar em clones do seu repositório - recomendamos usar links relativos para referir-se a outros arquivos no seu repositório.
+
+
+## Listas
+Listas são conjuntos de itens agrupados. Em Markdown é possível criar  listas  não ordenadas e ordenadas.
+
+### Listas não ordenadas
+Os itens da lista *não ordenada* podem começar com os símbolos de  hífen ` - `, mais ` + ` ou asterisco ` * `, seguido de um espaço antes do item:
+
+``` 
+    - item 1 
+    + item 2
+    * item 3
+```
+O resultado será parecido com este:
+- item 1
+* item 2
++ item 3
+
+### Listas ordenadas
+Use números seguidos de um ponto para criar uma lista *ordenada*:
+``` 
+    1. item A
+    2. item B
+    3. item C
+```
+O resultado será parecido com este:
+1. item A
+2. item B
+3. item C
+
+## Citações
+Para criar uma citação *(quote)* é possível utilizar o sinal ` > ` no início da linha que deseja formatar como citação.
+``` 
+> Este é um *blockquote*. Adicione uma linha à citação: nova linha 
+> e o sinal '>'. 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
+> eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut 
+``` 
+O resultado será parecido com este:
+> Este é um *blockquote*. Adicione uma linha à citação: nova linha 
+> e o sinal '>'. 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
+> eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut 
+
 
 ## Imagens
 
