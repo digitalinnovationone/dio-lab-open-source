@@ -19,4 +19,4 @@ Minha meta atual é conseguir ingressar na áre de back-end.
 
 #CONTATOS
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:SEUGMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:brerreira8@gmail.com)
