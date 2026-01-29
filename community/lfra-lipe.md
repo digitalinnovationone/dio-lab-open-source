@@ -7,4 +7,4 @@ Um entusiasta na área da tecnologia que está sempre procurando obter conhecime
 
 ## Habilidades
 
-HTML / CSS / JAVASCRIPT / PYTHON
+HTML / CSS / JAVASCRIPT / PYTHON / C
