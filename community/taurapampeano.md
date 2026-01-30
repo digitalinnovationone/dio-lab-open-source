@@ -1,0 +1,1 @@
+Olá, meu nome é Ezequiel Pereira. Sou discente do curso de Engenharia de Software pela UNIPAMPA (Universidade Federal do Pampa), Campus Alegrete – RS. Participo deste bootcamp com o objetivo de ingressar no mercado de trabalho ainda durante a minha graduação.
