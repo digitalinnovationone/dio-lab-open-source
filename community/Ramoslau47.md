@@ -1,5 +1,0 @@
-- 👋 Hi, I’m Laudelino Ramos
-- 👀 I’m interested in learning and developing my Programming and developement skills. I am attending the University to graduate as a Softwear Development Engineer
-- 🌱 I’m currently learning Softwear Development on BYU IDAHO UNiversity and also attending other courses in FRONT and BACK END
-- 💞️ I’m looking for an entry-level opportunity to collaborate, learn and develop my skils 
-- 📫 prof.ramoslau@gmail.com 
