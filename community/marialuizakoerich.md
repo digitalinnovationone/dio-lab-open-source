@@ -5,6 +5,7 @@ Gosto de unir **análise quantitativa**, **contexto macro** e **disciplina opera
 
 Além do trading, estou em transição e aprofundamento na área de **tecnologia**, estudando **programação**, **dados** e **interfaces**, com foco em criar sistemas e ferramentas que resolvam problemas reais.
 
+
 ---
 
 ## 🧠 O que me move
@@ -12,6 +13,7 @@ Além do trading, estou em transição e aprofundamento na área de **tecnologia
 - Entender **por que** algo funciona (e quando deixa de funcionar)  
 - Construir sistemas claros em ambientes caóticos  
 - Aprendizado contínuo e pensamento crítico  
+
 
 ---
 
