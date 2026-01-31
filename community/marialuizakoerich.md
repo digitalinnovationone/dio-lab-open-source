@@ -13,7 +13,6 @@ Além do trading, estou em transição e aprofundamento na área de **tecnologia
 - Construir sistemas claros em ambientes caóticos  
 - Aprendizado contínuo e pensamento crítico  
 
-
 ---
 
 ## 📊 Mercado Financeiro
