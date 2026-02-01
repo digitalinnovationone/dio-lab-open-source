@@ -3,7 +3,7 @@
 
 
 ## 🚀 Sobre mim
-Tenho 26 anos, sou formada desde 2019 em Biomedicina🔬 pela Universidade Paulista de Jundiaí, possuo pós-graduação em Biotecnologia e Docência em Saúde. Atualmente estou finalizando o Mestrado em Clínica Médica pela Universidade Estadual de Campinas, onde desenvolvi um projeto sobre diagnóstico de fungos do gênero Aspergillus 🧫. Estou no último semestre de Análise e Desenvolvimento de Sistemas 👩‍💻 pela Estácio.
+Tenho 26 anos, sou formada desde 2019 em Biomedicina🔬 pela Universidade Paulista de Jundiaí, possuo pós-graduação em Biotecnologia e Docência em Saúde. Atualmente estou finalizando o Mestrado em Clínica Médica pela Universidade Estadual de Campinas, onde desenvolvo um projeto sobre diagnóstico de fungos do gênero Aspergillus 🧫. Estou no último semestre de Análise e Desenvolvimento de Sistemas 👩‍💻 pela Estácio.
 
 
 ## 💡 Interesses
