@@ -1,0 +1,34 @@
+# 🚀 Guia de Preparação: Microsoft DP-100 (Data Science on Azure)
+
+> Guia **didático, visual e prático** para quem quer conquistar a certificação **DP-100**, com foco em **MLOps, processos e aplicação real no Azure Machine Learning**.
+
+![DP-100](https://img.shields.io/badge/Microsoft-Certified-blue?style=for-the-badge&logo=microsoft)
+![Status](https://img.shields.io/badge/Contribution-Community_Driven-brightgreen?style=for-the-badge)
+
+---
+## 🧭 Como usar este guia
+Você pode usar este repositório como:
+
+- 📘 Mini-curso introdutório de Azure ML  
+- ✅ Checklist de revisão para a prova  
+- 🧠 Cheat sheet para o dia da certificação  
+
+💡 **Dica:** Se você vem de BI ou Processos, foque nos capítulos de **Pipelines e MLOps**.
+---
+## 🏅 Sobre a Certificação DP-100
+
+A certificação **DP-100 – Data Science on Azure** valida sua capacidade de:
+
+- Criar e gerenciar **Workspaces no Azure ML**
+- Preparar dados para Machine Learning
+- Treinar, avaliar e registrar modelos
+- Implementar **MLOps (deploy e monitoramento)**
+
+---
+
+## 🧠 Visão Geral — Ciclo de Vida de ML no Azure
+
+📌 **A prova inteira gira em torno deste fluxo:**
+
+```text
+Dados → Preparação → Treinamento → Registro → Deploy → Monitoramento
