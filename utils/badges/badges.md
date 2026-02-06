@@ -82,6 +82,14 @@
     </tr>
     <tr>
       <td>
+        <img align="center" alt="YouTube-badge" src="https://img.shields.io/badge/YouTube-001?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=FFFFFF&color=282828">
+      </td>
+      <td>
+        <code>[![YouTube](https://img.shields.io/badge/YouTube-001?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=FFFFFF&color=282828)](https://www.youtube.com/@SEUCANAL)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
       </td>
       <td>
