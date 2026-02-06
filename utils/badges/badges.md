@@ -163,262 +163,44 @@
 </table>
 
 ## Linguagens de Marcação e Estilo
-<table>
-  <thead>
-    <tr align="left">
-      <th>Badge</th>
-      <th>Markdown</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>
-        <img align="center" alt="Markdown" src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown">
-      </td>
-      <td>
-        <code>![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-      </td>
-      <td>
-        <code>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      </td>
-      <td>
-        <code>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="Sass" src="https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass">
-      </td>
-      <td>
-        <code>![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)</code>
-      </td>
-    </tr>
-    
-  </tbody>
-  <tfoot></tfoot>
-</table>
+| Badge | Markdown |
+| --- | --- |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | `![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)` |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | `![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)` |
+| ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) | `![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)` |
+| ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass) | `![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)` |
+
 
 ## Linguagens de Programação
-<table>
-  <thead>
-    <tr align="left">
-      <th>Badge</th>
-      <th>Markdown</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-  <tr>
-      <td>
-        <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-      </td>
-      <td>
-        <code>![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-      </td>
-      <td>
-        <code>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-      </td>
-      <td>
-        <code>![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-      </td>
-      <td>
-        <code>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-      </td>
-      <td>
-        <code>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-      </td>
-      <td>
-        <code>![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-      </td>
-      <td>
-        <code>![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-      </td>
-      <td>
-        <code>![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-      </td>
-      <td>
-        <code>![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-      </td>
-      <td>
-        <code>![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)</code>
-      </td>
-    </tr>
-      <td>
-        <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-      </td>
-      <td>
-        <code>![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)</code>
-      </td>
-    <tr>
-      <td>
-        <img align="center" alt="PL" <img alt="Static Badge" src="https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000">
-      </td>
-      <td>
-        <code>![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)></code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="Ruby" <img alt="Static Badge" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
-      </td>
-      <td>
-        <code>![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)></code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="Lua" <img alt="Static Badge" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
-      </td>
-      <td>
-        <code>![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)></code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="Golang" <img alt="Static Badge" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-      </td>
-      <td>
-        <code>![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)></code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="Elixir" <img alt="Static Badge" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white">
-      </td>
-      <td>
-        <code>![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)></code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="Delphi" <img alt="Static Badge" src="https://img.shields.io/badge/Delphi-DD0031?style=for-the-badge&logo=Delphi&logoColor=white">
-      </td>
-      <td>
-        <code>![Delphi](https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white)></code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="Rust" <img alt="Static Badge" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
-      </td>
-      <td>
-        <code>![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)></code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="Swift" <img alt="Static Badge" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
-      </td>
-      <td>
-        <code>![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)></code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="Perl" <img alt="Static Badge" src="https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white">
-      </td>
-      <td>
-        <code>![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)></code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="Haskell" <img alt="Static Badge" src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white">
-      </td>
-      <td>
-        <code>![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)></code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="Fortran" <img alt="Static Badge" src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white">
-      </td>
-      <td>
-        <code>![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)></code>
-      </td>
-    </tr>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="Objective-C" <img alt="Static Badge" src="https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white">
-      </td>
-      <td>
-        <code>![Objective-C]((https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)></code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="YAML" <img alt="Static Badge" src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515">
-      </td>
-      <td>
-        <code>![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)></code>
-      </td>
-    </tr>
-   <tr>
-    <td>
-      <img align="center" alt="BashScript" <img alt="Static Badge" src="https://img.shields.io/badge/bash%20script-0101?style=flat&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000">
-    </td>
-      <td>
-        <code>![BashScript](https://img.shields.io/badge/bash%20script-0101?style=flat&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000)></code>
-      </td>
-    </tr>
-  </tbody>
-  <tfoot></tfoot>
-</table>
+| Badge | Markdown |
+| --- | --- |
+| ![BashScript](https://img.shields.io/badge/bash%20script-0101?style=flat&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000) | `![BashScript](https://img.shields.io/badge/bash%20script-0101?style=flat&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000)>` |
+| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | `![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)` |
+| ![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white) | `![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)` |
+| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | `![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)` |
+| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | `![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)` |
+| ![Delphi](https://img.shields.io/badge/Delphi-DD0031?style=for-the-badge&logo=Delphi&logoColor=white) | `![Delphi](https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white)>` |
+| ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white) | `![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)>` |
+| ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) | `![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)>` |
+| ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | `![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)>` |
+| ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) | `![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)>` |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | `![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)` |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | `![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)` |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) | `![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)` |
+| ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) | `![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)>` |
+| ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) | `![Objective-C]((https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)>` |
+| ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) | `![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)>` |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | `![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)` |
+| ![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000) | `![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)>` |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | `![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)` |
+| ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) | `![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)` |
+| ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) | `![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)>` |
+| ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) | `![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)>` |
+| ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) | `![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)>` |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | `![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)` |
+| ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) | `![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)>` |
+
+
 
 ## Bibliotecas e Frameworks
 <table>
