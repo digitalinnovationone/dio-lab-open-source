@@ -19,7 +19,7 @@ Minha missão é unir a sensibilidade do RH com o poder analítico da tecnologia
 
 
 ## Github stats
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=JessicaSMoraes&theme=transparent&currStreakNum=ffffff&sideLabels=ffffff&stroke=ffffff&dates=ffffff&level=9b5de5&ring=9b5de5&fire=9b5de5&locale=pt_BR)
+![Github Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=JessicaSMoraes&show_icons=true&theme=transparent&bg_color=9b5de5&title_color=fff&text_color=fff&icon_color=fff&border_color=fff&locale=pt-br)
 
 
 ## Minhas Contribuições
