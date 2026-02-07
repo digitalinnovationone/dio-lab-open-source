@@ -43,53 +43,7 @@ ONA nível 3.
         <br><span style="font-size: 1.2em;">4º<br></span>
       </a>
     </td>
-    <!--td align="center" style="border: none;">
-      <a href="./platforms/">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Platforms" width="120px">
-        <br><span style="font-size: 1.2em;">Plataformas<br>de Estudos</span>
-      </a>
-    </td>
-  </tr>
-</table>
-<table align="center" width="100%" style="border: 0px solid transparent; background-color: transparent;">
-  <tr style="border: none; width: 100%; background-color: transparent;">
-    <td align="center" style="border: none;">
-      <a href="./github/">
-        <img src="https://img.icons8.com/?size=100&id=igYV9I849M8k&format=png&color=000000" alt="GitHub" width="120px">
-        <br><span style="font-size: 1.2em;">GitHub<br></span>
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://github.com/PedroHeeger/my_tech_journey/tree/main/my_journey">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="My Journey" width="120px">
-        <br><span style="font-size: 1.2em;">Minha Jornada<br></span>
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="./all_badges/">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel and places/Star.png" alt="All Badges" width="120px">
-        <br><span style="font-size: 1.2em;">Badges Completas<br></span>
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="./online_cv/">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Online CV" width="120px">
-        <br><span style="font-size: 1.2em;">CV Online<br></span>
-      </a>
-    </td>
-    <!-- <td align="center" style="border: none;">
-      <a href="./books/">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="120px">
-        <br><span style="font-size: 1.2em;">Livros Lidos<br></span>
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="./platforms/">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Platforms" width="120px">
-        <br><span style="font-size: 1.2em;">Plataformas de Estudos<br></span>
-      </a>
-    </td> -->
-  </tr>
+     </tr>
 </table>
 
 ## Obrigado pela Visita! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Partying%20Face.png" width="20">
