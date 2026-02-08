@@ -43,18 +43,21 @@ Atualmente, estou finalizando minha graduação em **Gestão de Tecnologia da In
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cezarscarvalho&repo=DIO-Projeto-Azure-Microsoft-Machine-Learning&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cezarscarvalho/DIO-Projeto-Azure-Microsoft-Machine-Learning)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cezarscarvalho&repo=DIO-Projeto-Microsoft-IA-Generativa&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-IA-Generativa)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cezarscarvalho&repo=DIO-Projeto-Microsoft-Cognitive&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cezarscarvalho&repo=DIO-Projeto-Azure-Microsoft-Vision&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cezarscarvalho/DIO-Projeto-Azure-Microsoft-Vision)
+| Projeto | Link para o Repositório |
+| :--- | :--- |
+| **Azure Machine Learning** | [![Machine Learning](https://img.shields.io/badge/Status-Concluído-30A3DC?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/cezarscarvalho/DIO-Projeto-Azure-Microsoft-Machine-Learning) |
+| **IA Generativa Microsoft** | [![IA Generativa](https://img.shields.io/badge/Status-Concluído-E94D5F?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-IA-Generativa) |
+| **Microsoft Cognitive Services** | [![Cognitive](https://img.shields.io/badge/Status-Concluído-30A3DC?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive) |
+| **Azure Computer Vision** | [![Computer Vision](https://img.shields.io/badge/Status-Concluído-E94D5F?style=for-the-badge&logo=azurefunctions&logoColor=white)](https://github.com/cezarscarvalho/DIO-Projeto-Azure-Microsoft-Vision) |
 
 </div>
 
 ---
+## 📊 Estatísticas de Contribuição
 
-### 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cezarscarvalho&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cezarscarvalho&theme=tokyonight" />
+</div>
 
 
 
