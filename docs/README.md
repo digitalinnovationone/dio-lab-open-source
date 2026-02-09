@@ -1,8 +1,7 @@
 ### Apresentação 
 
-<p style="color: white" align=justify> Meu nome é André Brasil tenho 40 anos, tenho 3 lindos filhos e estou voltando para o mundo do T.I depois de um longo período fora da área. Comecei no ramo da programação com 18 anos nos tempos do ensino médio agregado ao curso técnico em programção de computadores o qual a instituição Federal do Amazonas (IFAM) proporcionava, em seguida consegui curar na mesma instituição de ensino o curso superior em desenvolvimento de software em paralelo consegui, também, passar concursado na empresa PRODAM, centro de processamento de dados que tem boa parte o Estado como controlador. Nessa empresa consegui me destacar nas linguagens: java, javascript, struts, hibernate, spring, mobiles e entre outros.</p>
+<p style="color: white" align=justify> Meu nome é Flavio, tenho 48 anos e estou há pouco tempo mergulhando no universo do desenvolvimento. Iniciei minha carreira na área de suporte, com foco em redes e segurança, atuando como analista de sustentação, monitoramento e em projetos de expansão. Após consolidar minha trajetória nesse campo, decidi direcionar minha carreira para a área de sistemas, onde atualmente trabalho como analista de sistemas voltado para soluções em saúde hospitalar..</p>
 
-<p style="color: white" align=justify> Após longos anos nessa área conheci o Direito o qual me formei e sou bacharel. Resumindo voltei para desenvolvimento de software, pois me contrataram no TJAM para participar do projeto interno de automação dos processos judiciarios do Estado do Amazonas e quando tive a oporunidade de participar da equipe de desenvolvimento do sistema principal o PROJUDI, não tive escolha a não ser voltar para area de T.I-Dev. Hoje estou numa seria de recilagem das linguagens e frameworks e estou feliz hoje que temos instituições online como a DIO que proporicona um ensino de qualidade e uma forma de interação sem igual!</p>
 ### Guia de Contribuição
 
 ## Convenção de Commits 
@@ -39,6 +38,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FLAVIO39)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585991954590)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flaviocesilva)
+
 
 
 
