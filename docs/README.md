@@ -39,12 +39,12 @@
 
 
 
-# Autognose <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-line.svg" alt="html5" width="40" height="40"/> </a>
+# Apresentação 
 
 
 <p style="color:yellow" align=justify> Meu nome é André Brasil tenho 40 anos, tenho 3 lindos filhos e estou voltando para o mundo do T.I depois de um longo período fora da área. Comecei no ramo da programação com 18 anos nos tempos do ensino médio agregado ao curso técnico em programção de computadores o qual a instituição Federal do Amazonas (IFAM) proporcionava, em seguida consegui curar na mesma instituição de ensino o curso superior em desenvolvimento de software em paralelo consegui, também, passar concursado na empresa PRODAM, centro de processamento de dados que tem boa parte o Estado como controlador. Nessa empresa consegui me destacar nas linguagens: java, javascript, struts, hibernate, spring, mobiles e entre outros.</p>
 
-<p style="color:purple" align=justify> Após longos anos nessa área conheci o Direito o qual me formei e sou bacharel. Resumindo voltei para desenvolvimento de software, pois me contrataram no TJAM para participar do projeto interno de automação dos processos judiciarios do Estado do Amazonas e quando tive a oporunidade de participar da equipe de desenvolvimento do sistema principal o PROJUDI, não tive escolha a não ser voltar para area de T.I-Dev. Hoje estou numa seria de recilagem das linguagens e frameworks e estou feliz hoje que temos instituições online como a DIO que proporicona um ensino de qualidade e uma forma de interação sem igual!</p>
+<p style="color: white" align=justify> Após longos anos nessa área conheci o Direito o qual me formei e sou bacharel. Resumindo voltei para desenvolvimento de software, pois me contrataram no TJAM para participar do projeto interno de automação dos processos judiciarios do Estado do Amazonas e quando tive a oporunidade de participar da equipe de desenvolvimento do sistema principal o PROJUDI, não tive escolha a não ser voltar para area de T.I-Dev. Hoje estou numa seria de recilagem das linguagens e frameworks e estou feliz hoje que temos instituições online como a DIO que proporicona um ensino de qualidade e uma forma de interação sem igual!</p>
 
 ## Connect for me
 
@@ -102,6 +102,7 @@
 
 
 https://github.com/FLAVIO39/dio-lab-open-source
+
 
 
 
