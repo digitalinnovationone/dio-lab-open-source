@@ -6,3 +6,4 @@
 - Técnico de Suporte
 - Analista de Suporte
 - Desenvolvedor Web
+- CCNA
