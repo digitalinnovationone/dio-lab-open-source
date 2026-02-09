@@ -2,9 +2,9 @@
 
 <p style="color: white" align=justify> Meu nome é Flavio, tenho 48 anos e estou há pouco tempo mergulhando no universo do desenvolvimento. Iniciei minha carreira na área de suporte, com foco em redes e segurança, atuando como analista de sustentação, monitoramento e em projetos de expansão. Após consolidar minha trajetória nesse campo, decidi direcionar minha carreira para a área de sistemas, onde atualmente trabalho como analista de sistemas voltado para soluções em saúde hospitalar..</p>
 
-### Guia de Contribuição
+## Guia de Contribuição
 
-## Convenção de Commits 
+### Convenção de Commits 
 
 | Tipo de Commit |Descrição                                                            | Exemplo
 | ---------------|----------------------------------------------------------------------|-----------
@@ -38,6 +38,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FLAVIO39)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585991954590)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flaviocesilva)
+
 
 
 
