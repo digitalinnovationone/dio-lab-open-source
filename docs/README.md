@@ -1,3 +1,64 @@
+
+### Guia de Contribuição
+
+## Convenção de Commits 
+
+| Tipo de Commit |Descrição                                                            | Exemplo
+| ---------------|----------------------------------------------------------------------|-----------
+| `feat`         | Adiciona uma nova funcionalidade ao projeto.                         | `feat: add USENAME.md profile`
+| `fix`          | Corrige um bug ou problema no projeto.                               | `fix: fixed issue fix#IssueNumber`
+| `docs`         | Altera a documentação do projeto.| `docs: update README.md`
+| `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         | `style: add EFFECTNAME to COMPONENT`
+| `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
+| `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
+
+### Linguagens de Marcação e Estilo
+ 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
+
+
+### Linguagens de Programação
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white)
+
+### Bibliotecas e Frameworks
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+
+
+------------------------------------------------------------------------
+
+
+
+# Autognose <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-line.svg" alt="html5" width="40" height="40"/> </a>
+
+
+<p style="color:yellow" align=justify> Meu nome é André Brasil tenho 40 anos, tenho 3 lindos filhos e estou voltando para o mundo do T.I depois de um longo período fora da área. Comecei no ramo da programação com 18 anos nos tempos do ensino médio agregado ao curso técnico em programção de computadores o qual a instituição Federal do Amazonas (IFAM) proporcionava, em seguida consegui curar na mesma instituição de ensino o curso superior em desenvolvimento de software em paralelo consegui, também, passar concursado na empresa PRODAM, centro de processamento de dados que tem boa parte o Estado como controlador. Nessa empresa consegui me destacar nas linguagens: java, javascript, struts, hibernate, spring, mobiles e entre outros.</p>
+
+<p style="color:purple" align=justify> Após longos anos nessa área conheci o Direito o qual me formei e sou bacharel. Resumindo voltei para desenvolvimento de software, pois me contrataram no TJAM para participar do projeto interno de automação dos processos judiciarios do Estado do Amazonas e quando tive a oporunidade de participar da equipe de desenvolvimento do sistema principal o PROJUDI, não tive escolha a não ser voltar para area de T.I-Dev. Hoje estou numa seria de recilagem das linguagens e frameworks e estou feliz hoje que temos instituições online como a DIO que proporicona um ensino de qualidade e uma forma de interação sem igual!</p>
+
+## Connect for me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ANDREBRASILDEV)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5592992724472)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:andre.teles.brasil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andré-brasil-b48333118/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/andre.brazil.am/)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/SEUUSERNAME)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andre.teles.brasil/)
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/AndreBrazil)
+
+
+
 ## Hard-Skill - Linguagens
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -41,5 +102,6 @@
 
 
 https://github.com/FLAVIO39/dio-lab-open-source
+
 
 
