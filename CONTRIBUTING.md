@@ -93,3 +93,18 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
 - [CONVENTIONAL COMMITS. Summary](https://www.conventionalcommits.org/en/v1.0.0/)
 - [GITHUB. Configurar diretrizes para os contribuidores do repositório](https://docs.github.com/pt/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
+
+##
+
+| Componente/Ação        |Descrição                                                                                  | Configuração / Exemplo
+| -----------------------|-------------------------------------------------------------------------------------------|-----------
+| `Prettier`             | Ferramenta principal para padronização de código (JS, HTML, CSS).                         | `Arquivo .prettierrc na raiz.`
+| `Workflow CI`          | Automação do GitHub Actions que roda a cada Push ou Pull Request.                         | `Arquivo .github/workflows/lint.yml`
+| `Lint Check`           | O comando que o "robô" executa para verificar se há erros.                                |`npx prettier --check .`
+| `Auto Fix`             | Comando para o desenvolvedor corrigir o código localmente antes de enviar.                | `npx prettier --write .`
+
+## Referências
+
+- [PRETTIER. Why Prettier?](https://prettier.io/docs/en/why-prettier.html)
+- [GITHUB. Understanding GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
+- [DEV.TO. How to setup Prettier with Github Actions](https://www.google.com/search?q=https://dev.to/dyarleniber/setting-up-prettier-with-github-actions-54i1)
