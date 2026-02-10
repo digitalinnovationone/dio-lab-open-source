@@ -15,7 +15,7 @@
 ## IA's
 ![AI Studio](https://img.shields.io/badge/AI_Studio-4285F4?logo=google&logoColor=fff)
 ![Google Stitch](https://img.shields.io/badge/Google_Stitch-34A853?logo=google&logoColor=fff)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-886FBF?logo=googlegemini&logoColor=fff)
+
 
 
 ## Ferramentas
