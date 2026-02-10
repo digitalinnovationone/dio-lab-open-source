@@ -52,6 +52,18 @@
         <a href="https://github.com/denvercoder1/github-readme-streak-stats">GitHub Streak Stats by @DenverCoder1</a>
       </td>
     </tr>
+    <tr>
+      <td>04</td>
+      <td>GitHub Profile 3D Contrib</td>
+      <td align="center">
+        <a href="https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/profile-3d-contrib/profile-night-rainbow.svg">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Exemplos-30A3DC?style=for-the-badge">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/marketplace/actions/github-profile-3d-contrib#github-profile-3d-contrib">GitHub Profile 3D Contrib</a>
+      </td>
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
