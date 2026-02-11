@@ -1,9 +1,10 @@
-# <h1 align="center"> Vitoria Costa </h1>
+# <h1 align="center"> 🚀 Apresentação do Meu Perfil Tech </h1>
 <br><br>
 - Quality Analyst ➜ Backend em construção 🛠❤️
 ---
-Tenho 6 anos de experiência como **Analista de Qualidade** e hoje estou em transição para o **desenvolvimento backend**.  
-Gosto de entender o fluxo completo das aplicações, questionar, testar, quebrar e reconstruir melhor.
+Olá, seja bem vindo ao meu perfil! <br>
+Me chamo Vitoria, tenho 6 anos de experiência como **Analista de Qualidade** e hoje estou em transição para o **desenvolvimento backend**.
+<br> [Linkedin](https://www.linkedin.com/in/vitoria-cardoso-0869b6187/)
 ---
 ### Hard skills
 <table >
