@@ -25,3 +25,24 @@ docs/
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+
+
+
+
+# 👋 Olá, eu sou a Wellington silva!
+
+Sou uma desenvolvedor em formação apaixonada por tecnologia e aprendizado contínuo. 🚀  
+Atualmente participando dos cursos e desafios da **DIO (Digital Innovation One)**.
+
+## 💡 Sobre mim
+- 🌱 Aprendendo sobre Git, GitHub e projetos Open Source.  
+- 💻 Interesses: desenvolvimento web, front-end e design.  
+- 🎯 Objetivo: contribuir cada vez mais em projetos reais e evoluir como profissional.
+
+## 📫 Onde me encontrar
+- GitHub: [@wellington.bad](https://github.com/DwSiteBr/)
+- LinkedIn: [wellington silva]
+
+✨ Obrigada por visitar meu perfil!
+
+
