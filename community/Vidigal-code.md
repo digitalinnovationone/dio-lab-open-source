@@ -102,9 +102,7 @@
 
  <br/>
 
-<p align="center">
- <img src = "https://github-readme-streak-stats.herokuapp.com?user=Vidigal-code&theme=android-dark&hide_border=true" width = 400>
-</p>
+
  <br/>
 
  <br/>
@@ -115,9 +113,7 @@
 
  <br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vidigal-code&theme=matrix&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+
 
  <br/>
 
@@ -206,8 +202,8 @@
 <a href="https://yarnpkg.com/" target="_blank"><img align="center" alt="Vidigal-Yarn" height="50" width="50" src="https://yarnpkg.com/img/yarn-favicon.svg"></a>
 <a href="https://www.npmjs.com/" target="_blank"><img align="center" alt="Vidigal-NPM" height="50" width="50" src="https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"></a>
 <a href="https://getcomposer.org/" target="_blank"><img align="center" alt="Vidigal-Composer" height="50" width="50" src="https://getcomposer.org/img/logo-composer-transparent5.png"></a>
-<a href="https://mvnrepository.com/" target="_blank"><img align="center" alt="Vidigal-Maven" height="50" width="50" src="https://camo.githubusercontent.com/c7008ad2ac87357001c8a841fe626bb21cc8756ffb2288af05a3188b440b7e1c/68747470733a2f2f6d766e7265706f7369746f72792e636f6d2f6173736574732f696d616765732f65386137336666323665356231653366323038363831313164383063353534342d66617669636f6e2e69636f"></a>
-<a href="https://gradle.org/" target="_blank"><img align="center" alt="Vidigal-Gradle" height="50" width="50" src="https://gradle.org/icon/favicon-32x32.png"></a>
+<a href="https://mvnrepository.com/" target="_blank"><img align="center" alt="Vidigal-Maven" height="50" width="50" src="https://mvnrepository.com/assets/images/e8a73ff26e5b1e3f20868111d80c5544-favicon.ico"></a>
+<a href="https://gradle.org/" target="_blank"><img align="center" alt="Vidigal-Gradle" height="50" width="50" src="https://gradle.org/assets/icon/favicon.ico"></a>
 
 #
 
