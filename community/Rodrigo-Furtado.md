@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#7289DA ">Rodrigo Santos Furtado</h1>
+<h1 align="center" style="color:#7289DA ">Rodrigo Furtado</h1>
 
 <h2 align="center">Contact me</h2>
 
@@ -42,7 +42,7 @@
 <h2 align="center">Bootcamps and courses</h2>
 
 <div align="center">
-• Santander Bootcamp 2024
+• Santander Bootcamp 2025
 </div>
 
 
