@@ -1,7 +1,6 @@
-# Wendell Dorta
-
+# Olá Mundo!
 ## Sobre mim
-Olá, me chamo Wendell, nasci em São Paulo - SP no dia 17/06/2006, e sou um estudante do 3º ano do ensino médio e curso o Técnico em Informática na instituição Senac Itaquera. Desde pequeno tenho interesses em coisas relacionadas a tecnologia, e atualmente estou estudando banco de dados, usando o MariaDB, e o bootcamp .NET Developer da DIO. Amo jogos, tendo como preferidos a triologia de Pokémon, a triologia Batman Arkham, FIFA(EAFC), Minecraft entre outros. Também amo animes, desenhos e filmes de heróis. Algumas das minhas principais características são a tímides de inicio a conhecer pessoas novas, e a curiosidade que acabo tendo em relação a coisas relacionadas a informática (o que me ajuda na maioria das vezes ao desenvolver projetos relacionados a informática).
+Olá, me chamo Wendell, nasci em São Paulo, SP no dia 17/06/2006, e sou um estudante do 3º ano do ensino médio e curso o Técnico em Informática na instituição Senac Itaquera. , desde pequeno tenho interesses em coisas relacionadas a tecnologia, e atualmente estou estudando banco de dados, usando o MariaDB, e o bootcamp .NET Developer da DIO. Amo jogos, tendo como preferidos a triologia de Pokémon, a triologia Batman Arkham, FIFA(EAFC), Minecraft entre outros. Também amo animes, desenhos e filmes de heróis. Algumas das minhas principais características são a tímides de inicio a conhecer pessoas novas, e a curiosidade que acabo tendo em relação a coisas relacionadas a informática (o que me ajuda na maioria das vezes ao desenvolver projetos relacionados a informática).
 
 ## Habilidades que estou desenvolvendo
 
@@ -11,10 +10,10 @@ Olá, me chamo Wendell, nasci em São Paulo - SP no dia 17/06/2006, e sou um est
 
 ### Frameworks
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ### Linguagens
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Banco de dados
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -42,5 +41,12 @@ Olá, me chamo Wendell, nasci em São Paulo - SP no dia 17/06/2006, e sou um est
 [![portfolio](https://img.shields.io/badge/meu_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 ##
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://web.dio.me/users/dortaestudos?tab=achievements)
+[![Perfil Alura SEDUC](https://img.shields.io/badge/-Meu%20Perfil%20Alura%20Seduc-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://cursos.alura.com.br/user/00001102887791SP)
+
 ## Conecte-se comigo:
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40" /><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="30" width="40" />
+<a href="www.linkedin.com/in/wendell-dorta-302310273" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/ws.dorta/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
