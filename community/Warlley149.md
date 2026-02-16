@@ -81,7 +81,7 @@ Olá! Sou **Warlley**, um desenvolvedor apaixonado por tecnologia e programaçã
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas 
 
 ```
 ╔═══════════════════════════════════════╗
@@ -97,7 +97,7 @@ Olá! Sou **Warlley**, um desenvolvedor apaixonado por tecnologia e programaçã
 ## 🏆 Destaque & Certificações
 
 - 🥇 **Certificações da DIO**
-- 🥈 **Estudante de ADS e Téc. Mecatrônica**
+- 🥈 **Estudante de ADS e Téc. em Mecatrônica**
 - 🥉 **Cursos em diversas áreas**
 
 ---
