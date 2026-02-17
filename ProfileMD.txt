@@ -1,0 +1,63 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <h1>Olá, eu sou [Pedro Amaral]!</h1>
+</div>
+
+<div align="center">
+
+  ### 🚀 Sobre Mim
+
+  Sou um desenvolvedor apaixonado por tecnologia e em constante aprendizado. Atualmente, estou focado em aprimorar minhas habilidades através dos bootcamps da **Digital Innovation One (DIO)**.
+
+  - 🎓 Estou estudando **[Desenvolvimento Web e também me preparando para a certificação DP-100 através da DIO]**
+  - 💼 Atualmente estou **[Buscando minha primeira oportunidade na área de tecnologia para realizar de fato minha transição de carreira]**
+  - 🌱 No momento estou aprendendo **[Machine Learning com Azure]**
+  - ⚡ Curiosidade: **[Sou apaixonado por games, principalmente cardgames]**
+
+</div>
+
+---
+
+<div align="center">
+
+  ### 🛠️ Tech Stack
+
+  <img src="https://skillicons.dev/icons?i=js,html,css,java,python,react,spring,mysql,git,github,vscode&theme=dark" alt="My Skills" />
+
+</div>
+
+---
+
+<div align="center">
+
+  ### 📊 Estatísticas do GitHub
+
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas" />
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas" />
+  </p>
+
+</div>
+
+---
+
+<div align="center">
+
+  ### 📫 Contato
+
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  &nbsp;
+  <a href="mailto:phenriquemath@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+
+</div>
+
+<div align="center">
+  <br>
+  <p><i>Este perfil é parte do meu portfólio desenvolvido durante a jornada na DIO.</i></p>
+</div>
