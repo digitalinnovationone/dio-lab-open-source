@@ -1,0 +1,1 @@
+Olá sou felipe melo gomes, estudante de programação web, com foco no front-end atualmente estou focado no estudo do React como biblioteca principal de desenvolvimento front end web. adoro estudar e jogar futebol.
