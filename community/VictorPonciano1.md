@@ -2,7 +2,7 @@
 
 ## 📌 Sobre mim
 
-Sou um profissional em início de carreira na área de tecnologia, atualmente atuando como **trainee**, conciliando experiência prática no mercado com formação acadêmica e estudos contínuos em desenvolvimento de software e arquitetura de soluções.
+Sou um profissional em início de carreira na área de tecnologia, atualmente atuando como Desenvolvedor Júnior, conciliando experiência prática no mercado com formação acadêmica e estudos contínuos em desenvolvimento de software e arquitetura de soluções.
 
 Tenho grande interesse em compreender não apenas *como* desenvolver sistemas, mas também *como projetá-los corretamente*, buscando boas práticas, organização de código e visão arquitetural. Valorizo aprendizado constante, disciplina e evolução técnica gradual.
 
