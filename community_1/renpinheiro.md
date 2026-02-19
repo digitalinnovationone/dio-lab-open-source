@@ -1,0 +1,14 @@
+# Renpinheiro
+
+## Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/renatapinheiroal/)
+[![Behance](https://img.shields.io/badge/Behance-000?style=for-the-badge&logo=behance&logoColor=0E76A8)](https://www.behance.net/renatapinheiro)
+
+##Habilidades
+
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=0E76A8)![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=r&logoColor=0E76A8)
+
+## Github stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Renpinheiro&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)

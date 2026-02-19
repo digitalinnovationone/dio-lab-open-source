@@ -1,0 +1,1 @@
+Seria interessante colocar as palavras chaves mais utilizadas no curso ou em todo o git para lembrar na hora sem precisar entrar em outras guias, ou até mesmo pesquisar
