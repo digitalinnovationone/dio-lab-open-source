@@ -21,6 +21,36 @@ docs/
 └── README.md
 ```
 
+### 📁 `docs/`
+Diretório principal do projeto. Contém todos os arquivos da interface web ou documentação que pode ser publicada (por exemplo, no GitHub Pages).
+
+---
+
+### 📁 `assets/`
+Contém os arquivos estáticos utilizados pela aplicação, como estilos e scripts.
+
+- **`css/styles.css`**  
+  Arquivo de estilos responsável pelo visual da página. Define layout, cores, tipografia, responsividade, etc.
+
+- **`js/scripts.js`**  
+  Script JavaScript que adiciona interatividade à página. Pode incluir ações de clique, validações ou outras lógicas de interface.
+
+---
+
+### 📄 `favicon.ico`
+Ícone exibido na aba do navegador. Melhora a identidade visual e a usabilidade da aplicação.
+
+---
+
+### 📄 `index.html`
+Página principal da interface web. Estrutura o conteúdo e referencia os arquivos de estilo e script. Serve como ponto de entrada visual do projeto.
+
+---
+
+### 📄 `README.md`
+Este arquivo (você está lendo ele!). Contém informações sobre o projeto, instruções de uso, organização dos arquivos e orientações para colaboradores.
+
+
 ## Tecnologias
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
