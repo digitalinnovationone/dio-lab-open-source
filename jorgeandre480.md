@@ -2,7 +2,7 @@
 
 Olá! Sou o **Jorge André**, estou em transição para a área de tecnologia e focado em aprender as melhores práticas de versionamento de código e colaboração em projetos Open Source.
 
----
+
 
 ## 🛠️ Tecnologias e Ferramentas
 * **Git:** Versionamento de código local.
