@@ -16,17 +16,38 @@ Praticar as etapas fundamentais de contribuição em projetos de código aberto:
 * 🔃 Envio de **Pull Requests** para o repositório principal.
 
 ---
-
-## 🛠️ Tecnologias que domino
-Aqui estão as stacks e ferramentas que utilizo no meu dia a dia:
-
-💻 **Linguagem**: Python,.
-📦 **Frameworks**: PyTorch, TensorFlow (com Keras), Scikit-learn e MLflow
-🗄️ **Bases de Dados**: MySQL, PostgreSQL e SQL.
-🔧 **Ferramentas**: Git e Github, Docker & Kubernetes, VS Code, n8n & Make.
+## 🚀 Sobre o Projeto
+Este é o meu fork do desafio original. O objetivo é demonstrar o domínio das etapas fundamentais de contribuição:
+* 🍴 **Fork**: Criação da cópia pessoal.
+* 👥 **Clone & Branch**: Gestão de versões locais.
+* 💾 **Commits**: Padronização e histórico limpo.
+* 🔃 **Pull Request**: Colaboração com o projeto principal.
 
 ---
 
+## 🛠️ Tecnologias e Stack
+Utilizo ferramentas voltadas para Inteligência Artificial, Engenharia de Dados e Automação:
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagem** | `Python` 🐍 |
+| **Frameworks ML/DL** | `PyTorch`, `TensorFlow`, `Keras`, `Scikit-learn`, `MLflow` |
+| **Bancos de Dados** | `MySQL`, `PostgreSQL`, `SQL` |
+| **DevOps & Cloud** | `Docker`, `Kubernetes`, `Git/GitHub` |
+| **Automação (Low-Code)**| `n8n`, `Make` |
+| **IDE** | `VS Code` |
+
+---
+
+## 📊 Estatísticas do Perfil
+Abaixo, um resumo dinâmico das minhas atividades no GitHub:
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antonioauad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioauad&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
+---
 ## 📂 Como Contribuir neste Fork
 
 1. 🌿 Crie uma nova branch para sua alteração:
@@ -38,14 +59,23 @@ Aqui estão as stacks e ferramentas que utilizo no meu dia a dia:
 4. 🔃 Abra um **Pull Request** para revisão.
 
 ---
-
 ## 🤝 Conecte-se comigo
-💬 Vamos trocar uma ideia sobre desenvolvimento? Você pode me encontrar aqui:
+💬 Vamos trocar uma ideia sobre IA e Automação?
 
-🌐 [Meu GitHub] (https://github.com/antonioauad)
-💼 [Meu LinkedIn] (https://www.linkedin.com/in/antonioauad)
+| Plataforma | Link |
+| :--- | :--- |
+| 🌐 **GitHub** | [github.com/antonioauad](https://github.com/antonioauad) |
+| 💼 **LinkedIn** | [linkedin.com/in/antonioauad](https://www.linkedin.com/in/antonioauad) |
 
 ---
+
+💡 Por que usei esses elementos?
+1.	Tabelas: Elas organizam suas skills de forma muito mais "escaneável" do que listas simples, especialmente para recrutadores.
+2.	GitHub Stats: Usei os cards do github-readme-stats. Eles são atualizados automaticamente toda vez que você faz um commit ou altera seu código, mostrando seu progresso em tempo real.
+3.	Badges e Emojis: Mantêm o estilo visual moderno.
+   
+Dica técnica: No bloco de estatísticas, as imagens podem demorar alguns segundos para carregar na primeira vez após o commit, pois o servidor precisa ler seus dados públicos.
+
 
 ## 📄 Licença
 Este projeto está sob a licença MIT.
