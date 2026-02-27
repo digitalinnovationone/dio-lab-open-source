@@ -7,8 +7,11 @@ Sou um grende amante do mundo dos pcs. Tenho interesse real em front-end, pois f
 ### habilidades 🥷
 ---
 [Java Script](https://www.w3schools.com/js/default.asp)
+
 [Css](https://www.w3schools.com/css/default.asp)
+
 [Html](https://www.w3schools.com/html/default.asp)
+
 ---
 
 ## Conect-se comigo 👥
