@@ -1,4 +1,4 @@
-# Hi there, I'm André Stella 👋
+# Hi there, I'm André Alexandre Stella 👋
 
 ### 🚀 Systems Analyst | B2B Software Solutions | AI & Automation
 
