@@ -120,7 +120,10 @@ Atuar em áreas de Operações, Processos ou Dados, contribuindo para eficiênci
 
 \## 📫 Contato
 
-LinkedIn: https://linkedin.com/in/SEU-LINK  
+LinkedIn: www.linkedin.com/in/gerson-rodrigo-araujo-lima-23455921a
 
-GitHub: https://github.com/gersonro2001
+
+## 🔗 Links Úteis
+* [Meu Segundo Cérebro em Análise de Dados (PDF)](https://github.com/gersonro2001/central-estudos-dados/blob/main/Segundo%20C%C3%A9rebro%20em%20An%C3%A1lise%20de%20Dados_%20do%20Excel%20ao%20Python%20%E2%80%93%20NotebookLM.pdf)
+* [Repositório de Estudos](https://github.com/gersonro2001/central-estudos-dados)
 
