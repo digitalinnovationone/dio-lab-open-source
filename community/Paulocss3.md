@@ -6,7 +6,7 @@
 
 📍 - São Paulo
 
-Em transicionando dentro do mercado para minha paixao
+Transicionando de Logística para Tecnologia
 
 ## Conecte-se comigo
 [![Instagram](https://img.shields.io/badge/instagram-F56040?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pc_ds?igsh=MW91NnBieGdreGxqaQ==)
@@ -27,4 +27,5 @@ Em transicionando dentro do mercado para minha paixao
 ## Hard Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
