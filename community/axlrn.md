@@ -24,9 +24,9 @@ Tenho forte atuação em ambientes corporativos com múltiplos ambientes (Dev/Ho
 
 ## 🤝 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/SEUUSERNAME/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/renanoliveiraandrade/)
 [![Upwork](https://img.shields.io/badge/-Upwork-000?style=for-the-badge&logo=upwork&logoColor=6FDA44)](https://www.upwork.com/freelancers/axlrn)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:SEUEMAIL@outlook.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:axlrn@hotmail.com)
 
 ---
 
@@ -66,9 +66,9 @@ Tenho forte atuação em ambientes corporativos com múltiplos ambientes (Dev/Ho
 
 ## 📚 Certificações & Estudos
 
-- Microsoft Certified: Fabric Analytics Engineer Associate (DP-600) – em preparação
-- PL-300 – Power BI Data Analyst
-- Estudos avançados em DataOps e CI/CD para BI
+- Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)
+- PL-300 – Power BI Data Analyst – em preparação
+- Estudos em DataOps e CI/CD para BI
 
 ---
 
@@ -76,9 +76,9 @@ Tenho forte atuação em ambientes corporativos com múltiplos ambientes (Dev/Ho
 
 | Data | Tema | Link |
 |------|------|------|
-| 2025 | Governança em Power BI | (link) |
-| 2025 | Implementação de DataOps em BI | (link) |
-| 2025 | Performance DAX | (link) |
+| 2025 | Governança em Power BI | (em construção) |
+| 2025 | Implementação de DataOps em BI | (em construção) |
+| 2025 | Performance DAX | (em construção) |
 
 ---
 
