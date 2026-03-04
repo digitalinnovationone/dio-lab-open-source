@@ -50,17 +50,17 @@ Tenho forte atuação em ambientes corporativos com múltiplos ambientes (Dev/Ho
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=axlrn&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=axlrn&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axlrn&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=axlrn&layout=compact&theme=transparent)
 
 ---
 
 ## ⭐ Projetos em Destaque
 
-[![Repo ETL SSIS](https://github-readme-stats.vercel.app/api/pin/?username=axlrn&repo=NOME_REPO_1&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/axlrn/NOME_REPO_1)
+[![(Python Notebook) The Cities of Tomorrow – Urban Growth & Sustainability - Contest-Fabric-Data-Days-2025](https://github-readme-stats.vercel.app/api/pin/?username=axlrn&repo=NOME_REPO_1&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/axlrn/Notebooks-Contest-Fabric-Data-Days-2025)
 
-[![Repo Power BI](https://github-readme-stats.vercel.app/api/pin/?username=axlrn&repo=NOME_REPO_2&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/axlrn/NOME_REPO_2)
+[![(Power BI) Quickviz Raise the Bar - Contest-Fabric-Data-Days-2025](https://github-readme-stats.vercel.app/api/pin/?username=axlrn&repo=NOME_REPO_2&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/axlrn/quickviz-raise-the-bar-community-dashboard)
 
 ---
 
