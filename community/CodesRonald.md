@@ -5,10 +5,39 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodesRonald&show_icons=true&custom_title=Ronald%20GitHub%20Estatísticas&include_all_commits=true&count_private=true&theme=github_dark_dimmed&bg_color=00000000&title_color=00FF00&icon_color=00FF00&text_&rank_icon=github&line_height=20&langs_count=5&locale=pt-br&cache_seconds=16200)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodesRonald&show_icons=true&custom_title=Ronald%20GitHub%20Estatísticas&include_all_commits=true&count_private=true&theme=vue&bg_color=00000000&rank_icon=github&card_width=404&line_height=20&langs_count=5&locale=pt-br&cache_seconds=16200)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodesRonald&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&layout=compact&bg_color=00000000&title_color=00FF00&icon_color=00FF00&rank_icon=github&card_width=374&line_height=20&langs_count=5&locale=pt-br&cache_seconds=16200)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodesRonald&show_icons=true&include_all_commits=true&count_private=true&theme=vue&layout=compact&bg_color=00000000&rank_icon=github&card_width=404&line_height=20&langs_count=5&locale=pt-br&cache_seconds=16200)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<table >
+  <tr>
+    <td width=505 height=25>⚙️<em><strong>Github-Status</strong></em></td>
+    <td width=505 height=25>💻<em><strong>Top-Langs</strong></em></td>
+  </tr>
+<tr>
+<td>
+  <picture> 
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodesRonald&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodesRonald&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodesRonald&theme=github" width="530" height="250"/>
+  </picture>
+<td>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodesRonald&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodesRonald&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodesRonald&theme=github" width="530" height="250"/>
+  </picture>
+</td>
+</tr>
+
+</table>
+<table>
+<tr>
+    <td width=1010 height=25>ℹ️<em><strong> Github-Info</strong></em></td>
+</tr>
+    <td colspan="2" align="center">
+  <picture>    
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodesRonald&theme=github_dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodesRonald&theme=github"/>
+  <img aling="flex-start" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodesRonald&theme=github" width="1000" height="250"/></td>
+  </picture>
+</table>
 
 <table>
 <tr>
