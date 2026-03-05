@@ -3,7 +3,7 @@ Olá! Sou o Relder, tenho 50 anos, Bacharel em Sistemas de Formação e estudo b
 
 ---
 
-Hello! I'm Relder, 50 years old, have a Bachelor's degree in Systems Education and study backend/frontend development. I enjoy exploring the world of technology, passionate about AI, and always looking to create projects that are visually appealing and functional at the same time.
+Hello! I'm Relder, 50 years old, have a Bachelor's degree in Systems Education and study backend/frontend development. I enjoy exploring the world of technology, passionate about AI, and always looking to create projects that are visually appealing and functional at the same time!
 
 ---
 
