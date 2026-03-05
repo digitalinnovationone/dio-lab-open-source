@@ -1,4 +1,4 @@
-## Olá, sou Marcelo! 👩🏻‍💻   
+## Olá, sou Marcelo (marceloh-coder)! 👩🏻‍💻   
 Me chamo Marcelo Henrique Rodrigues de Oliveira e sou Supervisor de compras e estudante de Análise e Desenvolvimento de Sistemas pela Estácio. 
 
  🔹 Tenho grande interesse na área de desenvolvimento, análise de dados e Business Intelligence. 📊
