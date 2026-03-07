@@ -15,11 +15,3 @@ searchButton.addEventListener('click', (e) => {
   }
   window.open(url, '_blank');
 })
-
-// Feat Dark Mode \\
-const toggleButton = document.getElementById('switch');
-const htmlElement = document.documentElement; 
-
-toggleButton.addEventListener('click', () => {
-  htmlElement.classList.toggle('dark');
-});
