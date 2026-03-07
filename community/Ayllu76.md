@@ -44,7 +44,7 @@ também qualificada em desenvolvimento básico em Python no Serviço Nacional de
 
 *Full name: Ana Luisa Pereira da Silva*
 
-*Locality: Aracaju, SE-Brasil*
+*Locality: Aracaju, SE-Brazil*
 
 *Age : 16 years old*
 
