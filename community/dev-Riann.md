@@ -1,24 +1,23 @@
-\#  dev-Riann
+#  dev-Riann
 
 
 
-\## Conecte-se comigo
+## Conecte-se comigo
 
-\[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=0E76A8)](https://www.linkedin.com/in/SEUUSERNAME/)
-
-
-
-\## Habilidades
-
-!\[Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white) !\[Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge\&logo=git\&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rianhenriquefavretto/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511948314961) [![GitHub](https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-Riann)
 
 
 
-\## GitHub Stats
+## Habilidades
 
-!\[GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-Riann\&theme=transparent\&bg\_color=ec63a1\&border\_color=fff\&show\_icons=true\&icon\_color=fff\&title\_color=fff\&text\_color=fff\&hide\_title=true\&hide=stars)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge\&logo=git\&logoColor=white)
 
-\## Minhas Contribuições
 
-\[!\[Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME\&repo=SEUREPOSITORIO\&bg\_color=000\&border\_color=30A3DC\&show\_icons=true\&icon\_color=30A3DC\&title\_color=E94D5F\&text\_color=FFF)](https://github.com/dev-Riann/ExercicioBanco2)
+
+## GitHub Stats
+
+![Linguagens mais usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-Riann&layout=compact&theme=radical)
+## Minhas Contribuições
+
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dev-Riann&repo=ExercicioBanco2&theme=radical)](https://github.com/dev-Riann/ExercicioBanco2)
 
