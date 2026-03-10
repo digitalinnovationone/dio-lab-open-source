@@ -1,0 +1,45 @@
+# 👋 Olá, eu sou Igor Paião
+
+💻 Desenvolvedor em transição da arquitetura para tecnologia  
+🎯 Focado em desenvolvimento web  
+
+---
+
+## 🚀 Sobre mim
+
+Sou arquiteto e estou migrando minha carreira para a área de tecnologia, com foco em desenvolvimento web.  
+Tenho forte perfil analítico e experiência com resolução de problemas complexos.
+
+## 🔄 Transição de Carreira
+
+Após anos atuando com arquitetura e projetos, decidi migrar para tecnologia, área pela qual sempre tive interesse. 
+Hoje foco no desenvolvimento web, combinando pensamento estruturado de projeto com programação.
+
+Atualmente estou estudando:
+
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
+
+---
+
+## 🛠 Tecnologias
+
+![HTML5](https://img.shields.io/badge/HTML-5-orange)
+![CSS3](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Git](https://img.shields.io/badge/Git-red)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=igorpaiaodev&show_icons=true&theme=dark)
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/igor-pai%C3%A3o-1a30b93b5/
+- E-mail: paiaoigor@outlook.com
