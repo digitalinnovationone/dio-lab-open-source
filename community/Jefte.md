@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou formado em Análise e Desenvolvimento de Sistemas; não trabalho e não possuo nenhuma experiência profissional na área de tecnologia.
+Sou formado em Análise e Desenvolvimento de Sistemas; não trabalho e não possuo nenhuma experiência profissional na área de tecnologia. ok
 
 ## Contato
 
