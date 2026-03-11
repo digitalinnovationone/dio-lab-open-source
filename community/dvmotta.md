@@ -1,5 +1,5 @@
 # Davi Oliveira da Motta
-Olá, me chamo Davi Oliveira da Motta, sou Técnico em Automação Industrial formado, estou finalizando Analise e Desenvolvimento de Sistemas e nas horas vagas sou professor de desenho também.
+Olá, me chamo Davi Oliveira da Motta, sou Técnico em Automação Industrial formado, estou finalizando Análise e Desenvolvimento de Sistemas e nas horas vagas sou professor de desenho também.
 ## + Sobre mim
 Mesmo sendo apaixonado por tecnologia, a maior parte da mminha vida profissonal foi moldada no atendimento ao cliente e na liderança de equipes.
 Em 2024 tive minha primeira oportunidade como programador, onde fui responsável pela equipe de inovação e implementação do sistema de supervisórios da CPIC Fiberglass por uma empresa tercerizada.
