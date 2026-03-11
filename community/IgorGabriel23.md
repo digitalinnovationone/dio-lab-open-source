@@ -1,5 +1,5 @@
 ## 🙋‍♂️ QUEM SOU EU?
-Saudações! Sou o Igor Gabriel 🖖. Apenas um cara tranquilo, em constante evolução, que atua na hora de suporte, ama hardware, mas tem uma leve queda por desenvolvimento de software.
+Saudações! Sou o Igor Gabriel 🖖. Apenas um cara tranquilo, em constante evolução, que atua na área de suporte, ama hardware, mas tem uma leve queda por desenvolvimento de software.
 <br/><br/>
 
 ## 📚 MINHAS FORMAÇÕES
