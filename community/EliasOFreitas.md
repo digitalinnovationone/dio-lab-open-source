@@ -40,6 +40,25 @@ Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas** e Técnic
 
 ---
 
+### 📂 Projetos em Destaque
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://skillicons.dev/icons?i=python,fastapi,postgres" alt="Stack Python" style="max-width: 100%; border-radius: 10px;">
+      <h4>🏦 API Bancária Assíncrona</h4>
+      <p>Backend robusto com FastAPI, JWT e SQLAlchemy. Focado em performance e segurança.</p>
+      <a href="https://github.com/EliasOFreitas/dio-luizalabs-python-desafio-API-com-FastAPI-Python-e-Docker">Ver Repositório</a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://skillicons.dev/icons?i=java,spring,maven" alt="Java Project" style="max-width: 100%; border-radius: 10px;">
+      <h4>☕ Bootcamp Java - Riachuelo</h4>
+      <p>Projeto final do bootcamp em parceria com a DIO, aplicando conceitos de POO e Spring.</p>
+      <a href="https://github.com/EliasOFreitas/warehouse-dio-projeto">Ver Repositório</a>
+    </td>
+  </tr>
+</table>
+
 ### 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliasodefreitas/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:freitas.elias@hotmail.com)
