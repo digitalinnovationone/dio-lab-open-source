@@ -4,7 +4,7 @@
     <span> Flávia Naomi Ando</span>
 </h1>
 
-Sejam bem vindos ao meu perfil! Atualmente tenho 35 anos, antes de decidir estudar area de desenvolvimento já explorei várias areas, já fui estudante de fisioterapia, telemarketing, professora de informatica, professora de judô e atualmente sou operária de fabrica no Japão, onde estou estudando para ir para uma área que acabei me apaixonando.
+Sejam bem vindos ao meu perfil! Antes de decidir estudar area de desenvolvimento já explorei várias areas, já fui estudante de fisioterapia, telemarketing, professora de informatica, professora de judô e atualmente sou operária de fabrica no Japão, onde estou estudando para ir para uma área que acabei me apaixonando.
 
 ### Conecte-se comigo
 
