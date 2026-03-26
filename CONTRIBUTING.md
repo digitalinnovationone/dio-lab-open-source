@@ -48,7 +48,7 @@ Para isso, você pode se inspirar nos exemplos no diretório [`community`](https
 ### 5) Adicione suas alterações à "staging area" 
 Utilize o comando `git add community/SEU_USERNAME.md` para adicionar sua alteração (nesse caso o arquivo markdown criado)  à "staging area" no Git.
 
-### 6) Crie um Commit
+### 6) Crie um Commit (create commit)
 Crie um commit e adicione a mensagem indicando a adição do seu perfil:
 ```bash
 git commit -m"feat: add SEU_USERNAME profile"
@@ -56,7 +56,7 @@ git commit -m"feat: add SEU_USERNAME profile"
 >[!IMPORTANT]
 > Verifique a [`Convenção de Commits`](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md#conven%C3%A7%C3%A3o-de-commits) para escrever a mensagem do seu commit de forma clara e padronizada.
 
-### 7) Envie as Alterações para o seu Repositório Remoto
+### 7) Envie as Alterações para o seu Repositório Remoto (send)
 Envie as alterações realizadas no seu repositório local para a branch `feat/community/SEU_USERNAME` no seu repositório remoto com o comando:
 ```bash
 git push origin feat/community/SEU_USERNAME
@@ -64,7 +64,7 @@ git push origin feat/community/SEU_USERNAME
 >[!WARNING]
 > Caso você tenha criado seu arquivo diretamente no repositório remoto no GitHub, esse processo não será necessário.
 
-### 8) Crie um **Pull Request**.
+### 8) Crie um **Pull Request**. (create pull request)
 
 Atente-se para a seguir as orientações para a contribuição, principalmente:
 - Seu PR deve modificar apenas o arquivo community/SEU_USERNAME.md (dê uma olhadinha na aba "Files changed");
