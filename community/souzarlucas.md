@@ -1,12 +1,30 @@
-<h1 align="center">Olá 👋, sou Lucas Souza</h1>
-<h3 align="center">Um desenvolvedor backend iniciante de Manaus/AM - Brasil</h3>
+### Olá! 👋 Eu sou o Lucas Souza
 
-<h3 align="left">Conecte-se comigo:</h3>
-<a href="https://github.com/souzarlucas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="souzarlucas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/souzarlucas" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souzarlucas" height="30" width="40" /></a>
-<a href="https://fb.com/souzarlucas95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="souzarlucas95" height="30" width="40" /></a>
-<a href="https://instagram.com/souzarlucas_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="souzarlucas_" height="30" width="40" /></a>
-</p>
+Desenvolvedor backend em transição para **Full Stack**. Atualmente, estou focado em aprimorar minhas habilidades em **JavaScript**, enquanto me aprofundo na jornada de desenvolvimento Full Stack através da **Dev Club**.
 
-<h3 align="left">Idiomas e Ferramentas:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Moro em Manaus, Amazonas, e estou em busca de novos desafios!
+
+---
+
+### Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souzarlucas/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/souzarlucas)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/souzarlucas_)
+
+---
+
+### Idiomas e Ferramentas
+
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=yellow)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### Estudando no momento:
+
+* **Dev Club** - Jornada de Desenvolvedor Full Stack
+* **JavaScript** - Linguagem de programação para o frontend e backend
+
+---

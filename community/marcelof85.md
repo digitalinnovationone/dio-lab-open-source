@@ -1,0 +1,1 @@
+Olá, sou completamente novo na área, estou em transição de carreira e gostando muito até agora. Infelizmente ainda não tenho habilidades (talvez exceto o inglês) na área, então estou me dedicando ao curso para adquiri-las.

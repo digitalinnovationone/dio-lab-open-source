@@ -1,7 +1,7 @@
 # Manoel Mattos
 
 Hello World!
-Me Chamo Manoel Mattos, 28 anos, estudante de Análise e Desenvolvimento de Sistemas, apaixonado e fascinado pelo mundo da programação.
+Me Chamo Manoel Mattos, 30 anos, estudante do Curso Técnico em Informática no Instituto Federal de Sergipe, apaixonado e fascinado pelo mundo da programação.
 
 ### Conecte-se comigo
 
