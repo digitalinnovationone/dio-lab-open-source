@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 ## 🚀 Olá pessoal
 
 ## Me chamo Jhonatan Buffon.
@@ -15,4 +17,22 @@ tecnologias e estou comprometido em desenvolver minhas habilidades para contribu
 
 ## Contato
 
-- GitHub: [github.com/Buffonzera](https://github.com/BuffonZera)
+- # GitHub: [github.com/Buffonzera](https://github.com/BuffonZera)
+
+# Ola, eu me chamo Jhonatan Wiliam Buffon
+
+💻 Estou comecando na faculdade de Analise e Desenvolvimento de Sistemas
+🚀 Focando em evoluir na programacao
+🎯 Objetivo: se tornar um Desenvolvedor Front-End mas sabendo programar Back-End Tambem
+
+## Tecnologias que ja sei
+
+- JavaScript
+- CSS
+- PHP
+- Python
+
+## Contatos
+
+- GitHub: https://github.com/BuffonZera
+  > > > > > > > 1f41db1e0a0dd396b6dfdf2d737b3ad5633aad6b
