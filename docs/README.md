@@ -26,7 +26,7 @@ docs/
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
 
-# 👋 Olá, eu sou o Eric Silva  
+# 👋 Olá, eu sou o Eric Felipe
 
 🎓 Estudante de tecnologia  
 🤖 Interessado em Inteligência Artificial e Dados  
@@ -36,9 +36,7 @@ docs/
 
 ## 🚀 Sobre mim  
 
-Estou em aprendizado na área de Inteligência Artificial e Dados, buscando desenvolver habilidades em análise de dados, automação e machine learning.  
-
-Este repositório faz parte da minha jornada prática com Git e GitHub, aplicando conceitos de versionamento enquanto evoluo tecnicamente na área de dados.  
+Estou em aprendizado na área de Inteligência Artificial e Dados, buscando desenvolver habilidades em análise de dados, automação e machine learning.   
 
 ---
 
@@ -47,7 +45,7 @@ Este repositório faz parte da minha jornada prática com Git e GitHub, aplicand
 - 📊 Fundamentos de Análise de Dados  
 - 🤖 Machine Learning  
 - 🐍 Python para Dados  
-- 📘 Git e GitHub  
+- 📈 Excel e Power BI  
 
 ---
 
@@ -63,9 +61,9 @@ Este repositório faz parte da minha jornada prática com Git e GitHub, aplicand
 
 ## 📈 Objetivos  
 
-- Desenvolver projetos em Data Analysis e Machine Learning  
-- Criar um portfólio na área de Dados  
-- Evoluir para atuar com Inteligência Artificial  
+- Desenvolver habilidades práticas em análise e manipulação de dados  
+- Evoluir na criação de soluções baseadas em Inteligência Artificial  
+- Contribuir com projetos open source na área de dados 
 
 ---
 
@@ -79,18 +77,6 @@ Este repositório faz parte da minha jornada prática com Git e GitHub, aplicand
 
 ## 📫 Contato  
 
-- 💼 LinkedIn: (adicione aqui)  
+- 💼 LinkedIn: (https://www.linkedin.com/in/ericfsilvaa/)  
 
 ---
-
-## 📊 Estatísticas GitHub  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USER)
-
-## 📈 Linguagens mais usadas  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER)
-
----
-
-⭐ Obrigado por visitar meu perfil!
