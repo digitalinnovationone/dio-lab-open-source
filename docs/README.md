@@ -26,6 +26,71 @@ docs/
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
 
-## 📊 Estatísticas GitHub
+# 👋 Olá, eu sou o Eric Silva  
+
+🎓 Estudante de tecnologia  
+🤖 Interessado em Inteligência Artificial e Dados  
+📊 Explorando o mundo de dados, automação e aprendizado de máquina  
+
+---
+
+## 🚀 Sobre mim  
+
+Estou em aprendizado na área de Inteligência Artificial e Dados, buscando desenvolver habilidades em análise de dados, automação e machine learning.  
+
+Este repositório faz parte da minha jornada prática com Git e GitHub, aplicando conceitos de versionamento enquanto evoluo tecnicamente na área de dados.  
+
+---
+
+## 🧠 Atualmente estudando  
+
+- 📊 Fundamentos de Análise de Dados  
+- 🤖 Machine Learning  
+- 🐍 Python para Dados  
+- 📘 Git e GitHub  
+
+---
+
+## 🛠️ Ferramentas e Tecnologias  
+
+- Python  
+- Pandas  
+- NumPy  
+- Jupyter Notebook  
+- Git & GitHub  
+
+---
+
+## 📈 Objetivos  
+
+- Desenvolver projetos em Data Analysis e Machine Learning  
+- Criar um portfólio na área de Dados  
+- Evoluir para atuar com Inteligência Artificial  
+
+---
+
+## 📚 Projetos futuros  
+
+- 📊 Análise de dados com Python  
+- 🤖 Modelos simples de Machine Learning  
+- 📈 Visualização de dados  
+
+---
+
+## 📫 Contato  
+
+- 💼 LinkedIn: (adicione aqui)  
+
+---
+
+## 📊 Estatísticas GitHub  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USER)
+
+## 📈 Linguagens mais usadas  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER)
+
+---
+
+⭐ Obrigado por visitar meu perfil!
