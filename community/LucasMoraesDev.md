@@ -11,9 +11,9 @@
 - JavaScript
 
 ## 📫 Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/lucasmoraesdev/)
+- [LinkedIn](https://www.linkedin.com/in/lucasmoraesdev)
 - [Twitter](https://x.com/LucasMoraesDev)
-- [Portfólio](https://github.com/LucasMoraesDevlink)
+- [Portfólio](https://github.com/LucasMoraesDev)
 
 ## 🌟 Meus interesses
 - Open Source
