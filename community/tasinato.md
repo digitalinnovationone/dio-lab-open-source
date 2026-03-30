@@ -1,12 +1,12 @@
 # Rafael Tasinato
 
-## 👨‍💻 AI Engineer | Software Engineer | Machine Learning | Computer Vision
+## 👨‍💻 Applied AI Engineer | ML Engineer | Computer Vision | Software Engineer
 
 🇧🇷  
-Sou engenheiro de software com foco em **Inteligência Artificial, Machine Learning e Visão Computacional**, atuando no desenvolvimento de soluções aplicadas para problemas reais de engenharia, automação e análise de dados.
+Sou engenheiro de software com foco em **Inteligência Artificial aplicada, Machine Learning e Visão Computacional**, desenvolvendo soluções para problemas reais de engenharia, automação e análise de dados.
 
 🇺🇸  
-I am a software engineer focused on **Artificial Intelligence, Machine Learning, and Computer Vision**, building applied solutions for real-world engineering, automation, and data-driven problems.
+I am an Applied AI Engineer focused on **Machine Learning, Computer Vision, and Software Engineering**, building solutions for real-world engineering, automation, and data-driven challenges.
 
 ---
 
@@ -17,7 +17,7 @@ Desenvolvo sistemas que integram:
 - engenharia de software e arquitetura de sistemas;
 - pipelines de Machine Learning e modelos preditivos;
 - automação de processos e workflows;
-- aplicações escaláveis com impacto prático.
+- aplicações escaláveis com impacto real.
 
 🇺🇸  
 I build systems that integrate:
@@ -40,25 +40,27 @@ I build systems that integrate:
 
 ---
 
-## 📚 Áreas de interesse | Areas of Interest
+## 📊 GitHub Stats
 
-- Engenharia de Software  
-- Inteligência Artificial  
-- Machine Learning  
-- Deep Learning  
-- Computer Vision  
-- Automação de workflows  
-- Data Science  
-- Open Source  
+![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=Tasinato&show_icons=true&theme=github_dark)
 
-- Software Engineering  
-- Artificial Intelligence  
-- Machine Learning  
-- Deep Learning  
-- Computer Vision  
-- Workflow Automation  
-- Data Science  
-- Open Source  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasinato&layout=compact&theme=github_dark)
+
+---
+
+## 📚 Research | Pesquisa
+
+🇧🇷  
+**Visual detection of surface defects in wind turbine blades using two-step image segmentation**  
+CILAMCE 2025 — Congresso Ibero-Latino-Americano de Métodos Computacionais em Engenharia  
+
+Áreas: Deep Learning, Computer Vision, Inspeção Visual, Energia Eólica  
+
+🇺🇸  
+**Visual detection of surface defects in wind turbine blades using two-step image segmentation**  
+CILAMCE 2025 — Ibero-Latin American Congress on Computational Methods in Engineering  
+
+Areas: Deep Learning, Computer Vision, Visual Inspection, Wind Energy  
 
 ---
 
@@ -72,16 +74,17 @@ I build systems that integrate:
 ## 📈 Professional Focus | Foco profissional
 
 🇧🇷  
-Busco atuar em projetos que conectem **pesquisa, engenharia e aplicação prática**, com foco em soluções escaláveis e orientadas a dados.
+Atuo na interseção entre **engenharia de software, machine learning e aplicações reais**, com foco em sistemas escaláveis e orientados a dados.
 
 🇺🇸  
-I focus on projects that connect **research, engineering, and real-world application**, building scalable and data-driven solutions.
+I work at the intersection of **software engineering, machine learning, and real-world applications**, focusing on scalable and data-driven systems.
 
 ---
 
 ## 🌐 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-Tasinato-181717?style=for-the-badge&logo=github)](https://github.com/Tasinato)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Tasinato-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafael-tasinato)
 
 ---
 
