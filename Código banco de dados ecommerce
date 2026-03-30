@@ -1,0 +1,79 @@
+Código criado para conclusão do desafio DIO
+
+create database ecomercio;
+use ecomercio;
+
+CREATE TABLE fornecedores (
+    fornecedor_id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(255) NOT NULL,
+    cnpj VARCHAR(18) NOT NULL,
+    telefone VARCHAR(20),
+    email VARCHAR(100),
+    endereco VARCHAR(255)
+);
+
+
+CREATE TABLE terceiros (
+    terceiro_id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(255) NOT NULL,
+    tipo VARCHAR(50),  -- Tipo de terceiro: Armazenamento, Entrega, etc.
+    telefone VARCHAR(20),
+    email VARCHAR(100),
+    endereco VARCHAR(255)
+);
+
+
+CREATE TABLE produtos (
+    produto_id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(255) NOT NULL,
+    descricao TEXT,
+    preco DECIMAL(10, 2) NOT NULL,
+    fornecedor_id INT,
+    categoria VARCHAR(100),
+    data_adicao DATE,
+    FOREIGN KEY (fornecedor_id) REFERENCES fornecedores(fornecedor_id) ON DELETE SET NULL
+);
+
+
+CREATE TABLE estoque (
+    estoque_id INT AUTO_INCREMENT PRIMARY KEY,
+    produto_id INT,
+    quantidade INT NOT NULL,
+    data_atualizacao TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (produto_id) REFERENCES produtos(produto_id) ON DELETE CASCADE
+);
+
+CREATE TABLE ordens(
+	idordens int auto_increment primary key,
+    idordensCliente int,
+    ordensStatus enum('cancelado','confirmado','em processamento')
+    );
+    
+ CREATE TABLE FormaDePagamento(
+ debito int,
+ credito int,
+ dinheiro int,
+ );
+
+INSERT INTO fornecedores (nome, cnpj, telefone, email, endereco)
+VALUES
+('Fornecedor A', '12.345.678/0001-90', '11 1234-5678', 'fornecedorA@empresa.com', 'Rua A, 123'),
+('Fornecedor B', '98.765.432/0001-87', '21 9876-5432', 'fornecedorB@empresa.com', 'Rua B, 456');
+
+
+INSERT INTO terceiros (nome, tipo, telefone, email, endereco)
+VALUES
+('Transportadora X', 'Entrega', '31 2345-6789', 'contato@transportadorax.com', 'Avenida C, 789'),
+('Armazém Y', 'Armazenamento', '41 8765-4321', 'contato@armazemy.com', 'Rua D, 1010');
+
+
+INSERT INTO produtos (nome, descricao, preco, fornecedor_id, categoria, data_adicao)
+VALUES
+('Produto A', 'Descrição do Produto A', 100.00, 1, 'Categoria A', '2025-04-01'),
+('Produto B', 'Descrição do Produto B', 150.00, 2, 'Categoria B', '2025-04-01');
+
+
+INSERT INTO estoque (produto_id, quantidade)
+VALUES
+(1, 50),
+(2, 30);
