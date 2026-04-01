@@ -2,7 +2,7 @@
 
 ###
 
-[![linkedin](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/murilo-darce-178282221)
+[![linkedin](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/murilodarcedev)
 [![gmail](https://img.icons8.com/?size=100&id=37246&format=png&color=000000)](mailto:murilodarce45@gmail.com)
 
 ###
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">I'm a Computer Science student at the University of FEI.<br><br>- 📚 I'm currently learning Pascal, COBOL, C#, Game Development and AI.<br>- ⚡ In my free time, I like to learn new things, program, read and play video games.</p>
+<p align="left">I'm a Computer Science student at the University of FEI.<br><br>- 📚 I'm currently learning Pascal, COBOL, C#, Game Development and AI.<br>- ⚡ In my free time, I like to learn new things, programming, read and play video games.</p>
 
 ###
 
