@@ -109,7 +109,7 @@ Tenho interesse em projetos que envolvem:
 
 Exemplo:
 ```md
-<a href="SEU_LINK_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/rodolfo-murilo-barbosa-moura-955523146/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Rodolfo%20Murilo-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 ```
