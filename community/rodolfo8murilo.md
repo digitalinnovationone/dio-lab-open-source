@@ -98,21 +98,15 @@ Tenho interesse em projetos que envolvem:
   <a href="https://github.com/rodolfo8murilo" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-rodolfo8murilo-181717?style=for-the-badge&logo=github" />
   </a>
+  
+  <a href="https://www.linkedin.com/in/rodolfo-murilo-barbosa-moura-955523146/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rodolfo%20Murilo-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="mailto:rodolfo8murilo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-rodolfo8murilo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
-> Você pode adicionar aqui também:
-> - LinkedIn
-> - Portfólio
-> - Email
-> - Kaggle
-> - Medium
-
-Exemplo:
-```md
-<a href="https://www.linkedin.com/in/rodolfo-murilo-barbosa-moura-955523146/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Rodolfo%20Murilo-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-```
 
 ---
 
