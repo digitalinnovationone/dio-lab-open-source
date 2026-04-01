@@ -1,7 +1,5 @@
 # Lorena F. Barros
-Olá pessoal! 
-
-Tudo bem?
+Olá pessoal!  Tudo bem?
 
 ## Sobre mim
 Minha jornada profissional está ganhando novos contornos. Atualmente, estou em transição de carreira de costura sob medida para desenvolvimento de Front-End. Assim como a costura, onde cada ponto contrói a estrutura de cada peça, no Front-End sinto que dou vida a uma tela em branco através do código.
