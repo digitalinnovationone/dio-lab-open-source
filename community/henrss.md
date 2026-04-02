@@ -20,12 +20,11 @@
 
 ### 📌 Projetos em destaque
 
-[![ERP moto entrega-api](https://github-stats-extended.vercel.app/api/pin/?username=mhenrss&repo=motoentrega-api&theme=dracula)](https://github.com/mhenrss/motoentrega-api.git)
+[![motoentrega-api](https://github-stats-extended.vercel.app/api/pin/?username=mhenrss&repo=motoentrega-api&theme=dracula&cache=1)](https://github.com/mhenrss/motoentrega-api)
 
 [![ERP Impact Logistica](https://github-stats-extended.vercel.app/api/pin/?username=mhenrss&repo=erp-impact-logistica&theme=dracula)](https://github.com/mhenrss/erp-impact-logistica.git)
 
-[![ERP Impact Prestador de Serviços](https://github-stats-extended.vercel.app/api/pin/?username=mhenrss&repo=erp-impacto-automações&theme=dracula)](https://github.com/mhenrss/erp-impact-automacoes.git)
-
+[![ERP Impact Prestador de Serviços](https://github-stats-extended.vercel.app/api/pin/?username=mhenrss&repo=erp-impact-automacoes&theme=dracula)](https://github.com/mhenrss/erp-impact-automacoes.git)
 ### 🚀 Linguagens Mais Usadas
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mhenrss&layout=compact&theme=dracula)
