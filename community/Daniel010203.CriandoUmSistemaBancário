@@ -1,0 +1,63 @@
+
+
+print("Olá,seja muito bem vindo ao nosso Banco X. Estamos muito felizes em vê-lo aqui !")
+
+menu = """
+
+[d] Depositar dinheiro
+[s] Sacar valores
+[e] Extrato da conta bancária
+[q] Sair do sistema
+
+=> Informe aqui a letra indicada da operação deseja realizar : """
+
+saldo = 0
+limite_da_conta = 500
+extrato_bancario_conta = ""
+numero_saques_efetuados = 0
+LIMITE_SAQUES = 3
+
+while True:
+
+    opcao = input(menu)
+
+    if opcao == "d":
+        valor = float(input("Por favor,informe quanto deseja depositar: "))
+        if valor > 0:
+            saldo += valor
+            extrato_bancario_conta += f"Depósito na conta: R$ {valor:.2f}\n"
+        else:
+            print("Operação inválida! Valor incorreto !")
+
+    elif opcao == "s":
+        valor = float(input("Informe quanto deseja sacar: "))
+        excedeu_saldo = valor > saldo
+        excedeu_limite = valor > limite_da_conta
+        excedeu_saques = numero_saques_efetuados >= LIMITE_SAQUES
+
+        if excedeu_saldo:
+            print("Opa,acho que sua operação não poder ser realizada,verifique o saldo de sua conta.")
+        elif excedeu_limite:
+            print("Que pena,infelizmente você não possui limite disponível.Consulte nossa gerencia.")
+        elif excedeu_saques:
+            print("Operação indisponível.Consulte as configurações de sua conta e o limite de saques diário.")
+        elif valor > 0:
+            saldo -= valor
+            extrato_bancario_conta += f"Saque: R$ {valor:.2f}\n"
+            numero_saques_efetuados += 1
+        else:
+            print("Operação inválida.Informe o valor para saque: ")
+
+    elif opcao == "e":
+        print("\n ================ EXTRATO BANCÁRIO CONTA CORRENTE================")
+        print("Não foram realizadas operações de movimentação em sua conta." if not extrato_bancario_conta else extrato_bancario_conta)
+        print(f"\n Saldo: R$ {saldo:.2f}")
+        print("==========================================")
+
+    elif opcao == "q":
+        break
+
+    else:
+        print("Opção inválida, por favor, selecione novamente a operação desejada.")
+
+print("Obrigado por utilizar nossos serviços.Siganos em nossas Redes Sociais e canais digitais !")
