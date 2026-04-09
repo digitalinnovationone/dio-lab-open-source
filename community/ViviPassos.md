@@ -43,4 +43,3 @@
 ## ✨ Sobre mim
 
 Sou uma desenvolvedora em constante evolução, apaixonada por tecnologia e aprendizado contínuo. Busco sempre melhorar minhas habilidades e construir soluções eficientes, com código limpo e bem estruturado.
-
