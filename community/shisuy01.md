@@ -9,7 +9,7 @@ shisuy01
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Github Stats 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shisuy01&show_icons=true&bg_color=0d1117&title_color=30A3DC&icon_color=30A3DC&text_color=ffffff&border_color=30A3DC)]
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shisuy01&theme=nord_dark)](https://github.com/shisuy01)
 
 ## Minhas Contribuições 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=shisuy01&repo=dio-lab-open-source&bg_color=0d1117&title_color=30A3DC&icon_color=30A3DC&text_color=ffffff&border_color=30A3DC&show_icons=true)
+[![Repo: dio-lab-open-source](https://img.shields.io/badge/Repositório-dio--lab--open--source-30A3DC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shisuy01/dio-lab-open-source)
