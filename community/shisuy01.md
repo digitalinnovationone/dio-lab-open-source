@@ -12,4 +12,4 @@ shisuy01
 [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shisuy01&theme=nord_dark)](https://github.com/shisuy01)
 
 ## Minhas Contribuições 
-[![Repo: dio-lab-open-source](https://img.shields.io/badge/Repositório-dio--lab--open--source-30A3DC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shisuy01/dio-lab-open-source)
+[![Repo: dio-lab-open-source](https://img.shields.io/badge/Repositório-dio--lab--open--source-30A3DC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shisuy01/dio-lab-open-source) 
