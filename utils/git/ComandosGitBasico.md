@@ -79,6 +79,11 @@
 • GIT REFLOG -> Mostra o status detalhado dos commits;
 
 
+• GIT CONFIG --GLOBAL USER.NAME "SEU NOME" -> Define o nome do usuário nos commits feitos no computador;
+
+
+• GIT CONFIG --GLOBAL USER.EMAIL "SEU@EMAIL.COM"
+
 
 • GIT RM "NOME DO ARQUIVO" -> Exclui um arquivo da pasta;
 
