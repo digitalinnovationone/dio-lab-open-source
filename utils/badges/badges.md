@@ -158,6 +158,45 @@
         <code>[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/profile/@seuusuario)</code>
       </td>
     </tr>
+  </tr>
+      <td>
+        <img align="center" alt="Goodreads" src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213">
+      </td>
+      <td>
+        <code>[![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/@seuusuario) </code>
+      </td>
+    </tr>
+<td>
+        <img align="center" alt="EA" src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white">
+      </td>
+      <td>
+        <code>[![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)</code>
+      </td>
+    </tr>
+</tr>
+<td>
+        <img align="center" alt="Battle.net" src="https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white">
+      </td>
+      <td>
+        <code>[![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)</code>
+      </td>
+    </tr>
+</tr>
+<td>
+        <img align="center" alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
+      </td>
+      <td>
+        <code>[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/@seuusuario)</code>
+      </td>
+    </tr>
+    </tr>
+<td>
+        <img align="center" alt="Epic Games" src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white">
+      </td>
+      <td>
+        <code>[![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)</code>
+      </td>
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
@@ -187,7 +226,7 @@
         <code>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</code>
       </td>
     </tr>
-    <tr>
+    </tr>
       <td>
         <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
       </td>
@@ -826,6 +865,21 @@
       </td>
     </tr>
     <tr>
+     <td>
+        <img align="center" alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff">
+      </td>
+      <td>
+        <code>[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff)</code>
+      </td>
+    </tr>
+  </tr>
+    <td>
+        <img align="center" alt="Pop! Os" src="https://img.shields.io/badge/Pop!_OS-48B9C7?logo=Pop%21_OS&logoColor=white&style=for-the-badge">
+      </td>
+      <td>
+        <code>[![Pop! Os](https://img.shields.io/badge/Pop!_OS-48B9C7?logo=Pop%21_OS&logoColor=white&style=for-the-badge)</code>
+      </td>
+    </tr>
       <td>
         <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0">
       </td>
@@ -943,6 +997,22 @@
         <code>![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)</code>
       </td>
     </tr>
-  </tbody>
+ </tr>
+    <td>
+        <img align="center" alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+      </td>
+      <td>
+        <code>[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)</code>
+      </td>
+    </tr>
+ </tr>
+    <td>
+        <img align="center" alt="Gimp Gnu Image Manipulation Program" src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)">
+      </td>
+      <td>
+        <code>[![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)</code>
+      </td>
+    </tr> 
+ </tbody>
   <tfoot></tfoot>
 </table>
