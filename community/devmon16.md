@@ -1,0 +1,2 @@
+### Olá sou o Antonio Freitas [devmon16] 💻
+Formado em Design Gráfico desde 2013 e atualmente cursando Análise e Desenvolvimento de Sistemas em busca de uma nova imersão no universo do desenvolvimento de softwares, a minha primeira experiência nesse novo ambiente foi atuando como Network Operation Center também conhecido como Central de Operações de Rede, é um serviço interno ou externo que atua de forma preventiva e proativa com objetivo de manter o ambiente de TI o mais estável possível. 
