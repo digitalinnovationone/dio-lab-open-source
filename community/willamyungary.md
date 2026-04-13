@@ -41,12 +41,6 @@ Sou desenvolvedor apaixonado por tecnologia, sempre em busca de aprender e cresc
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/willamyungary)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willamy.ungary@gmail.com)
 
-## Estatísticas
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=willamyungary&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="Gráfico de linguagens" />
-</div>
-
 ---
 
 > _"Jo 3:16."_
