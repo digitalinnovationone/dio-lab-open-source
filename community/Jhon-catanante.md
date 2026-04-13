@@ -22,9 +22,23 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jhon-catanante&theme=bear&background=222&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 
-## Meus projeto
+
+
+
+
 ## Meus projetos
 
-[![planos](https://github-readme-stats.vercel.app/api/pin/?username=Jhon-catanante&repo=Planos&theme=dark)](https://github.com/Jhon-catanante/Planos)
+| Projeto | Descrição | Tecnologia |
+|---------|-----------|------------|
+| [🗂️ Planos](https://github.com/Jhon-catanante/Planos) | Meus planos de projetos | HTML |
+| [🃏 cards_contatos](https://github.com/Jhon-catanante/cards_contatos) | Usando cards para colocar informação de contatos | HTML |
+| [📋 lista-de-contatos](https://github.com/Jhon-catanante/lista-de-contatos) | Treino de projeto em HTML e CSS sem framework | HTML |
+| [☕ java-git](https://github.com/Jhon-catanante/java-git) | Estudos de Java | Java |
+| [🎪 Pagina-de-Eventos](https://github.com/Jhon-catanante/Pagina-de-Eventos) | Página de cadastro de eventos de uma cidade fictícia | HTML |
+| [🗂️ Planos](https://github.com/Jhon-catanante/Planos) | Meus planos de projetos | HTML |
+
+
+
+
 
 
