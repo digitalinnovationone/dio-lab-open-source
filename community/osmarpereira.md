@@ -3,6 +3,7 @@
 Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e criação de soluções que realmente fazem diferença.  
 Atualmente estou focado em aprimorar minhas habilidades em QA Tester e explorar novas ferramentas que impulsionem produtividade e criatividade.
 
+
 ---
 
 ## 🚀 Tecnologias e Ferramentas
