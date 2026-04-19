@@ -6,8 +6,8 @@
 ---
 ## Linguagens de Programação e Banco de Dados
 </br>
-**Tecnologias aplicadas em projetos**
-**Python | SQL (MySQL, MongoDB) | JavaScript | PHP**
+### Tecnologias aplicadas em projetos
+### Python | SQL (MySQL, MongoDB) | JavaScript | PHP
 </br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -16,8 +16,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 </br>
-**Tecnologias em desenvolvimento**:
-**Machine Learning | Data Visualization | R | Cloud (AWS, Azure) | Git & Version Control | Bash**
+### Tecnologias em desenvolvimento:
+### Machine Learning | Data Visualization | R | Cloud (AWS, Azure) | Git & Version Control | Bash
 </br>
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
