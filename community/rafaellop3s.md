@@ -1,7 +1,7 @@
 ## Apresentação Rafael Lopes
 ### Data Analyst | Python | SQL | Data Analysis | Machine Learning | Data Visualization
-[![DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=&color=green)](https://web.dio.me/users/rafael-lopesoliveira)  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=&color=green)](https://www.linkedin.com/in/rafaellop3s/)
+[![DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=&color=black)](https://web.dio.me/users/rafael-lopesoliveira)  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=&color=black)](https://www.linkedin.com/in/rafaellop3s/)
 
 ---
 ## Linguagens de Programação e Banco de Dados
