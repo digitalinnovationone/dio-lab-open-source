@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=&color=green)](https://www.linkedin.com/in/rafaellop3s/)
 
 ---
-## 💻 Linguagens de Programação e Banco de Dados
+## Linguagens de Programação e Banco de Dados
 
 ### Tecnologias aplicadas em projetos
 
@@ -24,10 +24,12 @@
   <img align="center" alt="aws" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img align="center" alt="azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white"/>
   <img align="center" alt="git" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  <img align="center" alt="dataviz" src="https://img.shields.io/badge/Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img align="center" alt="ml" src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </div>
 <br/>
 
-## 🛠️ Ferramentas mais utilizadas
+## Ferramentas mais utilizadas
 
 <div style="display: inline_block"><br/>
   <a href="https://github.com/rafaellop3s">
