@@ -1,4 +1,3 @@
-# 👩‍💻 Vera Russi
 
 ## 🌟 Sobre mim
 
