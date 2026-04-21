@@ -144,6 +144,7 @@ header nav ul{
 }
 
 .menu-social__link:hover {
+    transition: 0.2s;
     color: var(--secondary-color);
 }
 
@@ -178,6 +179,7 @@ header nav {
 }
 
 .menu__link:hover {
+    border-bottom: 2px solid var(--primary-color) ;
     color: var(--primary-color);
 }
 
@@ -234,6 +236,7 @@ main, section {
 }
 
 #searchButton:hover {
+    transition: 0.3s;
     color: var(--white);
     background-color: #0F0F0F;
     border: #0F0F0F;
@@ -245,7 +248,7 @@ main, section {
     border: .125rem solid var(--secondary-color);
     border-radius: .35rem 0 0 .35rem;
     padding: .5rem 1.5rem;
-    cursor: pointer; 
+   
 }
 
 #searchInput:focus {
