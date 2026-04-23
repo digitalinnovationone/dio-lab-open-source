@@ -1,0 +1,46 @@
+# Java e Angular
+
+## Configure seu Ambiente de Desenvolvimento!
+
+**Java e Angular!** Combinar essas duas tecnologias é uma excelente escolha para desenvolver aplicações web robustas e modernas.  
+Java é amplamente utilizado para o **backend** (a lógica por trás da aplicação e a comunicação com o banco de dados), enquanto Angular é ideal para o **frontend** (tudo o que o usuário vê e interage no navegador).
+
+---
+
+### Para Java (Backend)
+
+#### Java Development Kit (JDK)
+É o coração do desenvolvimento Java. Ele inclui o compilador, o ambiente de execução (JRE) e outras ferramentas.
+
+- **Onde baixar:** [Site oficial da Oracle](https://www.oracle.com/java/technologies/javase-downloads.html) ou [OpenJDK](https://jdk.java.net/)
+- **Versões recomendadas:** Java 17 ou Java 21
+- **Instalação:** Siga as instruções específicas para o seu sistema operacional (Windows, macOS, Linux).  
+  Lembre-se de configurar a variável de ambiente `JAVA_HOME`.
+
+#### Integrated Development Environment (IDE)
+Ambientes que facilitam a escrita, compilação e depuração do código.
+
+- **Opções:**
+  - [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/): Altamente recomendado. Possui recursos avançados, integração com Copilot e suporte a Maven.
+  - [Eclipse](https://www.eclipse.org/): Popular, gratuito e com vasta comunidade.
+  - [Visual Studio Code](https://code.visualstudio.com/) (com extensões Java): Leve, versátil, com integração com IA (ChatGPT).
+
+#### Maven ou Gradle
+Ferramentas para automação de build e gerenciamento de dependências.
+
+- **Onde baixar:** [Maven](https://maven.apache.org/) ou [Gradle](https://gradle.org/)
+- Muitas IDEs já vêm com suporte embutido ou facilitam a instalação.
+
+---
+
+### Para Angular (Frontend)
+
+#### Node.js e npm (Node Package Manager)
+Angular roda sobre Node.js e usa o npm para gerenciar pacotes e dependências.
+
+- **Onde baixar:** [Site oficial do Node.js](https://nodejs.org/)
+- **Verificação da instalação:**
+  ```bash
+  node -v
+  npm -v
+```
