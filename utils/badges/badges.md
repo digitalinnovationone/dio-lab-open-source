@@ -799,6 +799,36 @@
   <tfoot></tfoot>
 </table>
 
+### Testing Frameworks
+<table>
+  <thead>
+    <tr align="left">
+      <th>Badge</th>
+      <th>Markdown</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <td>
+        <img align="center" alt="Appium" src="https://img.shields.io/badge/Appium-EE376D.svg?style=for-the-badge&logo=Appium&logoColor=white">
+      </td>
+      <td>
+        <code>![Appium]https://img.shields.io/badge/Appium-EE376D.svg?style=for-the-badge&logo=Appium&logoColor=white</code>
+      </td>
+    </tr>
+  </tbody>
+  <tbody align="left">
+    <tr>
+      <td>
+        <img align="center" alt="Appium" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
+      </td>
+      <td>
+        <code>![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)</code>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## Sistema Operacional
 
 <table>
