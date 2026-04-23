@@ -8,6 +8,7 @@
         <meta name="theme-color" content="#EAEAEA">
         <link rel="icon" type="image/x-icon" href="favicon.ico">
         <link rel="stylesheet" href="assets/css/styles.css">
+        <link rel="stylesheet" href="assets/css/profile-search.css">
     </head>
     <body>
         <header>
@@ -120,20 +121,55 @@
         <section id="comunidade">
             <h2>Confira os perfis criados pela comunidade</h2>
             <p>Veja todos os perfis desenvolvidos pela comunidade em 
-                <a href="https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community">dio-lab-open-source/examples</a>, 
-                ou busque um específico digitando o nome do usuário abaixo. 
+                <a href="https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community">dio-lab-open-source/examples</a>. 
+                Use nossa busca avançada para encontrar perfis por tecnologias, habilidades ou conteúdo específico. 
                 <br> Inspire-se e faça a sua 
                 <a href="https://github.com/digitalinnovationone/dio-lab-open-source/">
                     contribuição
                 </a> 😉🚀.
             </p>
-            <form id="searchForm">
-                <input type="text" id="searchInput" placeholder="username" value="falvojr" minlength="3" maxlength="39">
-                <button type="submit" id="searchButton">
-                    <span>Ver Perfil</span>
-                    <i class="bi bi-github"></i>
-                </button>
-            </form>
+            
+            <!-- Sistema de Busca Avançada -->
+            <div class="search-container">
+                <div class="search-filters">
+                    <div class="search-input">
+                        <i class="bi bi-search"></i>
+                        <input type="text" id="searchInput" placeholder="Buscar por nome, tecnologias ou conteúdo..." minlength="2">
+                    </div>
+                    
+                    <select class="filter-select" id="technologyFilter">
+                        <option value="">Todas as tecnologias</option>
+                        <option value="javascript">JavaScript</option>
+                        <option value="python">Python</option>
+                        <option value="java">Java</option>
+                        <option value="react">React</option>
+                        <option value="node">Node.js</option>
+                        <option value="html">HTML</option>
+                        <option value="css">CSS</option>
+                        <option value="git">Git</option>
+                        <option value="github">GitHub</option>
+                        <option value="typescript">TypeScript</option>
+                        <option value="php">PHP</option>
+                        <option value="csharp">C#</option>
+                        <option value="dart">Dart</option>
+                        <option value="kotlin">Kotlin</option>
+                    </select>
+                    
+                    <select class="filter-select" id="sortSelect">
+                        <option value="username">Ordenar por usuário</option>
+                        <option value="title">Ordenar por título</option>
+                        <option value="technologies">Mais tecnologias</option>
+                    </select>
+                    
+                    <button class="btn-clear-filters" onclick="clearAllFilters()">
+                        <i class="bi bi-x-circle"></i> Limpar
+                    </button>
+                </div>
+                
+                <div id="profilesContainer">
+                    <!-- Os perfis serão carregados aqui dinamicamente -->
+                </div>
+            </div>
         </section>
 
         <section id="materiais">
@@ -170,5 +206,20 @@
             </p>
         </footer>
         <script src="assets/js/scripts.js"></script>
+        <script src="assets/js/profile-search.js"></script>
+        <script>
+            // Função para limpar todos os filtros
+            function clearAllFilters() {
+                document.getElementById('searchInput').value = '';
+                document.getElementById('technologyFilter').value = '';
+                document.getElementById('sortSelect').value = 'username';
+                
+                // Dispara evento de busca para atualizar os resultados
+                const searchInput = document.getElementById('searchInput');
+                if (searchInput) {
+                    searchInput.dispatchEvent(new Event('input'));
+                }
+            }
+        </script>
     </body>
 </html>
