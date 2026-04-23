@@ -16,9 +16,42 @@
   --black: #0F0F0F;
 }
 
-html {
-    scroll-behavior: smooth;
+html[dark] {
+    background-color: #212121;
+    color: #ffffff;
+  }
+  
+  html[dark] a {
+    color: #ffffff;
+  }
+  
+  html[dark] body {
+    background-color: #212121;
+  }
+  html[dark] h1,
+html[dark] h2,
+html[dark] h3,
+html[dark] h4,
+html[dark] h5,
+html[dark] h6,
+html[dark] p,
+html[dark] span,
+html[dark] li,
+html[dark] label,
+html[dark] button,
+html[dark] input,
+html[dark] textarea,
+html[dark] select {
+    color: #ffffff;
 }
+
+html[dark] input,
+html[dark] textarea,
+html[dark] select {
+    background-color: #303030;
+    color: #ffffff;
+}
+
 
 * {
     margin: 0;
@@ -43,6 +76,7 @@ html {
 }
 
 body {
+    background: var(--gray-100);
     font-family: 'Open Sans', Tahoma, Geneva, Verdana, sans-serif;
     color: var(--black);
     background: var(--gray-100);
@@ -50,7 +84,46 @@ body {
     overflow-x: hidden;
 }
 
-a {
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333; 
+    color: #fff; 
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: #555; 
+}
+
+.theme-switcher-area {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 999; 
+}
+
+html[dark] {
+  background-color: #212121;
+  color: #ffffff;
+}
+
+html[dark] a {
+  color: #ffffff;
+}
+
+html[dark] input,
+html[dark] textarea,
+html[dark] select {
+  background-color: #303030;
+  color: #ffffff;
+}
+
+/* Add more dark mode styles for other HTML elements as needed */a {
     color: var(--black);
     font-weight: 600;
     text-decoration: none;
