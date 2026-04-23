@@ -1,3 +1,13 @@
+## Índice
+1. [Títulos](#títulos)
+2. [Alterando estilo do texto](#alterando-estilo-do-texto)
+3. [Citando código](#citando-código)
+4. [Links](#links)
+5. [Imagens](#imagens)
+6. [Usar Emojis](#usar-emojis)
+7. [Links de Seção](#links-de-seção)
+8. [Exercícios práticos](#exercícios-práticos)
+
 ## Títulos
 
 Assim como o HTML, Markdown também é uma linguagem de marcação, portanto, podemos mesclar ambas as sintaxes para fazer quaisquer alterações em nossa colaboração.
