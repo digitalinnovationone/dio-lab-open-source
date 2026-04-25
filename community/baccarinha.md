@@ -1,4 +1,3 @@
-
 <h1 align="center">💕 Jéssica Thais Baccaro 💕</h1> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=25&center=true&vCenter=true&width=600&lines=Bem-vinda+ao+meu+perfil!;Estudante+de+Tecnologia;Sempre+aprendendo+✨"> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=baccarinha&label=Visualizações&color=ff69b4&style=for-the-badge"/> </p>
 
 ### 🌸 Sobre mim
