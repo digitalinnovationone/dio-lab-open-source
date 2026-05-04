@@ -4,7 +4,7 @@
     <span> Tiago Oliveira</span>
 </h1>
 
-Apaixonado por tecnologia e em constante evolução! 💻 Desenvolvedor em formação focado em **Qualidade de Software (QA)** e desenvolvimento Full Stack. Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)** e aprendendo as melhores práticas de programação na Digital Innovation One.
+Apaixonado por tecnologia e em constante evolução! Desenvolvedor em formação focado em **Qualidade de Software (QA)** e desenvolvimento Full Stack. Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)** e aprendendo as melhores práticas de programação na Digital Innovation One.
 
 ### Conecte-se comigo
 
@@ -24,10 +24,10 @@ Apaixonado por tecnologia e em constante evolução! 💻 Desenvolvedor em forma
 
 ### Atualmente Estudando
 
-- 📚 **Lógica de Programação com JavaScript** - Digital Innovation One
-- 🧪 **QA (Qualidade de Software)** - Digital Innovation One  
-- ☕ **Java** - Digital Innovation One
-- 🎓 **Análise e Desenvolvimento de Sistemas (ADS)** - Em formação
+- Logica de Programacao com JavaScript - Digital Innovation One
+- QA (Qualidade de Software) - Digital Innovation One  
+- Java - Digital Innovation One
+- Analise e Desenvolvimento de Sistemas (ADS) - Em formacao
 
 ### GitHub Stats
 
@@ -41,12 +41,12 @@ Apaixonado por tecnologia e em constante evolução! 💻 Desenvolvedor em forma
 
 ### Um Pouco Mais Sobre Mim
 
-- 🎯 Focado em **Qualidade de Software** e testes automatizados
-- 🚀 Apaixonado por **tecnologia e inovação**
-- 📖 Sempre aprendendo e evoluindo
-- 💡 Buscando contribuir em projetos **Open Source**
-- 🤝 Disponível para colaborar e trocar conhecimentos
+- Focado em Qualidade de Software e testes automatizados
+- Apaixonado por tecnologia e inovacao
+- Sempre aprendendo e evoluindo
+- Buscando contribuir em projetos Open Source
+- Disponivel para colaborar e trocar conhecimentos
 
 ---
 
-*Última atualização: Maio de 2026*
+*Ultima atualizacao: Maio de 2026*
