@@ -64,6 +64,19 @@ git push origin feat/community/SEU_USERNAME
 >[!WARNING]
 > Caso você tenha criado seu arquivo diretamente no repositório remoto no GitHub, esse processo não será necessário.
 
+## ✅ Checklist antes de abrir o Pull Request
+
+Antes de enviar sua contribuição, verifique:
+
+- [ ] O arquivo foi criado dentro da pasta `community`
+- [ ] O nome do arquivo está exatamente igual ao seu usuário do GitHub
+- [ ] Apenas um arquivo foi modificado
+- [ ] O arquivo está no formato `.md`
+- [ ] A branch foi criada corretamente (`feat/community/SEU_USERNAME`)
+- [ ] O commit segue a convenção do projeto
+
+Seguir esse checklist ajuda a evitar erros e acelera a aprovação do seu Pull Request 🚀
+
 ### 8) Crie um **Pull Request**.
 
 Atente-se para a seguir as orientações para a contribuição, principalmente:
