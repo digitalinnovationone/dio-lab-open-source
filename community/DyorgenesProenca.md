@@ -17,16 +17,11 @@ Empreendedor e desenvolvedor em formação, apaixonado por tecnologia e focado n
 
 ## ⚡ Curiosidades
 
-* Quando não estou codando ou gerenciando a barbearia, você provavelmente vai me encontrar nas quadras jogando basquete.
-* Sou um grande entusiasta de musculação, treinos de força e rotinas de vida saudáveis.
+* Quando não estou codando ou cortando cabelo na barbearia, você provavelmente vai me encontrar nas quadras jogando basquete ou em casa jogando videogame.
+* Sou cristão e musico na CCB(congregação cristã no Brasil).
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dyorgenes-proença-905439167)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dyorgenes-proença-905439167)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santos_dyorgenes)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dyorgenes2018@gmail.com)
-
----
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DyorgenesProenca&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyorgenesProenca&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150" />
-</div>
