@@ -1,4 +1,4 @@
-<h2>Deixe-me apresentar</h2> 
+<h2>Deixe-me apresentar, sou a Cinthia</h2> 
 Estou como Analista de desenvolvimento de Software Jr na Serasa Experian na área de dados. 
 
 <h2>Me encontre</h2>
