@@ -44,7 +44,7 @@ I'm passionate about technology, music, and creativity. Here you'll find project
 <p>
   <img src="https://skillicons.dev/icons?i=git,vscode,idea,postman" />
 </p>
-
+s
 
 <div align="center">
 
