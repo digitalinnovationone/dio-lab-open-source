@@ -1,1 +1,0 @@
-Olá me chamo marcos ribeiro e estou iniciando minha carreira, meu foco é back-end com java (springboot)

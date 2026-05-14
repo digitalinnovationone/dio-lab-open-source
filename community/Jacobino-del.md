@@ -1,2 +1,0 @@
-Eduardo Jacobino
-Engenheiro Eletrônico
