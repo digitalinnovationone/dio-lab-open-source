@@ -20,5 +20,3 @@ Engenheiro Civil, MBA em Gestão de Projetos, MBA em Engenharia Rodoviária e In
 ## 📊 Estatísticas 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UcciBr&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## 💻 Linguagens 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UcciBr)](https://github.com/UcciBr/github-readme-stats)
