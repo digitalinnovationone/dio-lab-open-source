@@ -1,6 +1,6 @@
 #  👨‍💻️ Gustavo Deodato
 
-Sou um estudante focado em **Back-End** com Java e curioso por revolver problemas através de códigos.
+Sou um estudante focado em **Back-End** com Java e curioso por resolver problemas através de códigos.
 
 * **Cursando Desenvolvimento de Sistemas pela ETEC**
 
