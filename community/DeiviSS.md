@@ -4,7 +4,7 @@ Olá! 👋 Sou Deivid S. Santos, um desenvolvedor formado em Análise e Desenvol
 
 ---
 ## 💻  Linguagens de Programação
-![C#](https://img.shields.io/badge/csharp-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-6DA55F?style=for-the-badge&logo=csharp&logoColor=white)
 
 ---
 ## 🛠️  Ferramentas que Utilizo
