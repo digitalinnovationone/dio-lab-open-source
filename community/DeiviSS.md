@@ -1,10 +1,10 @@
-## 🚀 Apresentação do Meu Perfil Tech
+## 🚀 Apresentação do Meu Perfil
 
 Olá! 👋 Sou Deivid S. Santos, um desenvolvedor formado em Análise e Desenvolvimento de Sistemas.
 
 ---
 ## 💻  Linguagens de Programação
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 ## 🛠️  Ferramentas que Utilizo
