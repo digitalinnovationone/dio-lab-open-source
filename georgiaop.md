@@ -19,7 +19,7 @@ Linguagem de Programação
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=SQL&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-3670A0?style=for-the-badge&logo=SQL&logoColor=ffdd54)
 
 Banco de Dados
 
