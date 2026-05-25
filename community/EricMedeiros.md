@@ -1,0 +1,5 @@
+#**Quem sou eu?**
+
+**Eric Medeiros Alves** é estudante de Análise e Desenvolvimento de Sistemas em transição de carreira, unindo rigor analítico e gestão de processos adquiridos na área administrativa e farmacêutica  à tecnologia. Com foco em Backend, possui domínio em Java, SQL e C, aplicando esses conhecimentos em projetos acadêmicos e de freelancer. Proativo e organizado, busca sua primeira oportunidade de estágio para aplicar sua lógica de programação na criação de soluções de software eficientes.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericmedeirosalves/)[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5513988061298)

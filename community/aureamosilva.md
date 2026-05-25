@@ -1,0 +1,1 @@
+pessoa simpatia e resiliente

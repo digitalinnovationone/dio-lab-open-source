@@ -1,49 +1,43 @@
+# Olá, eu sou a Elaine! 👋
 
-# <img src="https://camo.githubusercontent.com/eba75662c4aaf21104aecdc0e3934b4cc1a0c6910d9df65a0873589a0abaa3b2/68747470733a2f2f6865726d65732e6469676974616c696e6e6f766174696f6e2e6f6e652f6173736574732f64696f6d652f6c6f676f2d6d696e696d697a65642e706e67" alt="ícone da Digital innovation one" width="30px"> <span style= "color:#FFD700">Elaine de Jesus Fonseca Matos</span>
+## 🚀 Sobre mim
 
-## <span style= "color:Khaki">Sobre mim</span>
+Estudante de desenvolvimento web, com conhecimento e uso em projetos pessoais em HTML, CSS, JavaScript e NodeJs, estou em busca da minha primeira oportunidade para ingressar nessa área. Minhas experiências anteriores são como analista de suporte e monitoramento de redes e serviços. Tenho certificações em AWS Cloud Practitioner, AWS SAA e Azure SC-900, além de conhecimentos em Linux, Terraform e Python. 
 
-![Static formacao](https://img.shields.io/badge/❉-Formada_em_Tecnologia_em_Processamento_de_Dados-202020)
-
-![Static transicao](https://img.shields.io/badge/❉-Em_processo_de_transição_de_carreira-202020)
- 
-
-## <span style= "color:Khaki">Soft</span>
-
-![Static soft](https://img.shields.io/badge/❉-Trabalho_em_equipe-202020)
-
-![Static soft](https://img.shields.io/badge/❉-Comprometimento-202020)
-
-![Static soft](https://img.shields.io/badge/❉-Comunicação_assertiva-202020)
-
-## <span style= "color:Khaki">Hard (em desenvolvimento)</span>
-![Static HTML](https://img.shields.io/badge/HTML-FF0000)
-![Static CSS](https://img.shields.io/badge/CSS-FFFF00)
-![Static Javascript](https://img.shields.io/badge/Javascript-0000CD)
+Estou interessada em projetos desafiadores. Vamos nos conectar e criar juntos!
 
 
+![Logo](https://avatars.githubusercontent.com/u/69444237?v=4)
+
+## 🛠 Habilidades
+
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+-
+![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
+-
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+-
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
 
-## <span style= "color:Khaki">Certificações</span>
-![Static certificacoes](https://img.shields.io/badge/❉-Itil_v3_Foundation-202020)
+## 🔗 Links
 
-![Static certificacoes](https://img.shields.io/badge/❉-AWS_Cloud_Practictioner-202020)
-
-![Static certificacoes](https://img.shields.io/badge/❉-Scrum_Fundamentals_Certified_(SFC)-202020)
-- 
-
-## <span style= "color:Khaki">Meus projetos no Github</span> 
-
-
-[![html](https://img.shields.io/badge/Bootcamp%20de%20HTML-8A2BE2)](https://github.com/enimatos/aula_html5_css3/)
-[![Netflix](https://img.shields.io/badge/Recriando%20Home%20do%20Netflix-DAA520)](https://github.com/enimatos/Recriando_NetflixHome_DIO)
-[![Chatbot](https://img.shields.io/badge/Criação%20de%20Chatbot%20no%20Altu-3CB371)](https://github.com/enimatos/CappacitaDev-ToHero)
-
-
-## <span style= "color:Khaki">Conecte-se a mim</span> 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://enimatos.github.io/js-developer-portfolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elainejfmatos/)
-[![instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&amp;logo=instagram&amp;logoColor=fff)](https://www.instagram.com/ematos.eu/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enimatos/)
 
 
+## ✨ Últimos trabalhos relevantes:
 
-
+- https://enimatos.github.io/js-developer-portfolio/
+- https://jogo-do-numero-secreto-weld-mu.vercel.app/
+- https://decodificador-oracle-one-bay.vercel.app/
+- https://portfolio-nine-bay-27.vercel.app/
