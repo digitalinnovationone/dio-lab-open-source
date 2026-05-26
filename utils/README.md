@@ -30,6 +30,18 @@
     </tr>
     <tr>
       <td>02</td>
+      <td>Cards GitHub Stats (atualizado)</td>
+      <td align="center">
+        <a href="https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-stats.md">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Exemplos-30A3DC?style=for-the-badge">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Stats by @Pranesh-2005</a>
+      </td>
+    </tr>
+    <tr>
+      <td>02</td>
       <td>Cards GitHub Stats</td>
       <td align="center">
         <a href="https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-stats.md">
