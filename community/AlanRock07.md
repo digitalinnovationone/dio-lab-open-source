@@ -1,8 +1,8 @@
 # Alan Dorigão Rocha
 
 **Perfis:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-rocha-4494bab1/) 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-rocha-4494bab1/) 
 [![GitHub](https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlanRock07)
 
 **Formação:**
