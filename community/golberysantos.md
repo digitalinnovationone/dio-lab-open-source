@@ -5,7 +5,7 @@
 [![Lattes](https://img.shields.io/badge/Lattes-00274D?style=for-the-badge&logo=googlescholar&logoColor=white)](http://lattes.cnpq.br/4342537559814310)
 [![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:golbery.santos@yahoo.com.br)
 
-Sou **Analista de Sistemas** e **Desenvolvedor** com uma paixão especial por **Java** e por construir soluções eficientes. Minha jornada é um pouco diferente: além do código, tenho uma sólida experiência em gestão, docência e qualidade. Essa bagagem me dá uma visão única para criar software que realmente resolve problemas de negócio e para colaborar com times de alta performance.
+Sou **Analista de Sistemas** e **Desenvolvedor** com uma paixão especial por **Java** e por construir soluções eficientes. Minha jornada é um pouco diferente: além do código, tenho uma sólida experiência em gestão, docência e desenvolvimento. Essa bagagem me dá uma visão única para criar software que realmente resolve problemas de negócio e para colaborar com times de alta performance.
 
 ---
 
@@ -22,7 +22,7 @@ Sou **Analista de Sistemas** e **Desenvolvedor** com uma paixão especial por **
 
 | Categoria | Tecnologias & Ferramentas |
 | :--- | :--- |
-| **Back-end** | **![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) Spring Boot, Spring Framework**<br>PHP (Laravel), Python, Node.js, C++ |
+| **Back-end** | **![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) Spring Boot, Spring Framework**
 | **Front-end** | HTML5, CSS3, JavaScript, jQuery, Bootstrap, UX/UI Design |
 | **Banco de Dados** | **MySQL (Avançado)**, SQL (Consultas, DML, Admin), Modelagem de Dados (MER), Data Warehouse |
 | **Ferramentas & Metodologias** | Git, GitHub, GitLab, Docker, Jira, SCRUM, Kanban, UML, ICONIX, AWS (Linux) |
