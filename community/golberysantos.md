@@ -20,13 +20,38 @@ Sou **Analista de Sistemas** e **Desenvolvedor** com uma paixão especial por **
 
 ## 🛠️ Habilidades Técnicas
 
-| Categoria | Tecnologias & Ferramentas |
-| :--- | :--- |
-| **Back-end** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) Spring Boot, Spring Framework, JDBC, MySQL, DDD, Regex, POO, MVC, API, DTO, SOLID |
-| **Front-end** | HTML5, CSS3, JavaScript, jQuery, Bootstrap, Thymeleaf |
-| **Banco de Dados** | **MySQL (Avançado)**, SQL, Modelagem de Dados (MER), Data Warehouse |
-| **Ferramentas & Metodologias** | Git, GitHub, GitLab, Docker, Jira, SCRUM, Kanban, UML, ICONIX |
-| **Qualidade & Gestão** | Auditor Líder (ISO 9001), PDCA, 5W2H, COBIT, Gestão Ágil de Projetos |
+### ☕ Back-end
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white)
+![API REST](https://img.shields.io/badge/API%20REST-005571?style=flat-square)
+![DTO](https://img.shields.io/badge/DTO-6DB33F?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID-6DB33F?style=flat-square)
+![DDD](https://img.shields.io/badge/DDD-02569B?style=flat-square)
+
+### 🎨 Front-end & UI
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
+
+### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-FF6C37?style=flat-square)
+
+### 🧰 Ferramentas & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+### 📊 Metodologias & Qualidade
+![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=flat-square)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=flat-square)
+![UML](https://img.shields.io/badge/UML-FF6600?style=flat-square)
+![ISO 9001](https://img.shields.io/badge/ISO%209001-003366?style=flat-square)
 
 ---
 
