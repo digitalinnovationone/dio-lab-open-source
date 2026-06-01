@@ -105,4 +105,4 @@ Estou em busca de novos desafios e oportunidades como Desenvolvedor Java. Sei jo
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/559299147485)
 
 ---
-⭐️
+⭐️ ⭐️ ⭐️ ⭐️ ⭐️
