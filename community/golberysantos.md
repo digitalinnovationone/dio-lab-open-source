@@ -33,15 +33,12 @@ Sou **Analista de Sistemas** e **Desenvolvedor** com uma paixão especial por **
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-FF6C37?style=flat-square)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=flat-square)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=flat-square)
 ![UML](https://img.shields.io/badge/UML-FF6600?style=flat-square)
