@@ -65,23 +65,14 @@ Sou **Analista de Sistemas** e **Desenvolvedor** com uma paixão especial por **
 
 ---
 
-## 📈 Estatísticas do GitHub
 
-*Aqui é onde a mágica acontece! Estou construindo meu portfólio e em breve ele estará cheio de projetos.*
+### 📫 Algum desafio?
 
-[![Golbery's GitHub stats](https://github-readme-stats.vercel.app/api?username=golberysantos&show_icons=true&theme=dark)](https://github.com/golberysantos)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golberysantos&layout=compact&theme=dark)](https://github.com/golberysantos)
-
----
-
-## 📫 Vamos conversar?
-
-Estou em busca de novos desafios e oportunidades como Desenvolvedor Java. Se você procura um profissional que pensa além do código, com experiência em gestão e uma verdadeira paixão por aprender e ensinar, vamos nos conectar!
+Estou em busca de novos desafios e oportunidades como Desenvolvedor Java. Fico à disposição!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/golbery)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:golbery.santos@yahoo.com.br)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/559299147485)
 
 ---
-⭐️ **"Transformando ideias em código e desafios em soluções inovadoras."**
+⭐️
