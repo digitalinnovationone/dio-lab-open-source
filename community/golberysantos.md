@@ -22,10 +22,10 @@ Sou **Analista de Sistemas** e **Desenvolvedor** com uma paixão especial por **
 
 | Categoria | Tecnologias & Ferramentas |
 | :--- | :--- |
-| **Back-end** | **![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) Spring Boot, Spring Framework**
-| **Front-end** | HTML5, CSS3, JavaScript, jQuery, Bootstrap, UX/UI Design |
+| **Back-end** | **![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) Spring Boot, Spring Framework, JDBC, MySQL, DDD, Regex, POO, MVC, API, DTO, SOLID, **
+| **Front-end** | HTML5, CSS3, JavaScript, jQuery, Bootstrap, Thymeleaf |
 | **Banco de Dados** | **MySQL (Avançado)**, SQL (Consultas, DML, Admin), Modelagem de Dados (MER), Data Warehouse |
-| **Ferramentas & Metodologias** | Git, GitHub, GitLab, Docker, Jira, SCRUM, Kanban, UML, ICONIX, AWS (Linux) |
+| **Ferramentas & Metodologias** | Git, GitHub, GitLab, Docker, Jira, SCRUM, Kanban, UML, ICONIX |
 | **Qualidade & Gestão** | Auditor Líder (ISO 9001), PDCA, 5W2H, COBIT, Gestão Ágil de Projetos |
 
 ---
