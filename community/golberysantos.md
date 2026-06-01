@@ -98,7 +98,7 @@ Sou **Analista de Sistemas** e **Desenvolvedor** com uma paixão especial por **
 
 ### 📫 Algum desafio?
 
-Estou em busca de novos desafios e oportunidades como Desenvolvedor Java. Fico à disposição!
+Estou em busca de novos desafios e oportunidades como Desenvolvedor Java. Sei jogar com o time, fico à disposição!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/golbery)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:golbery.santos@yahoo.com.br)
