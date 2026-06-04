@@ -1,0 +1,1 @@
+Olá, sou Gedeilson Lopes, atualmente trabalho como desenvedor frontend, e estou me preparando para a certificação AWS Cloud Practioner

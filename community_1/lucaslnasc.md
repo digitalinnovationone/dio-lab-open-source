@@ -1,0 +1,1 @@
+Olá meu nome é Lucas de Lima Nascimento, sou formado pelo senai em Desenvolvimento de Sistema. Tenho conhecimento em git, github, java, php, mySQL, requisitos de sistemas e comunicação.

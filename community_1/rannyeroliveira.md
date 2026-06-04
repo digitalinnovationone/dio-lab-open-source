@@ -1,0 +1,2 @@
+#Olá me chamo Rannyer,
+Tenho uma boa base em HTML, CSS e JavaScript, além de conhecimentos básicos em React. No entanto, atualmente estou focado em expandir minhas habilidades na área de ciência de dados. Estou cursando Ciência da Computação e participando de um bootcamp intensivo em Engenharia de Dados, onde estou aprofundando meus conhecimentos em Python voltado para engenharia de dados, manipulação e análise de dados. Estou sempre buscando novas oportunidades para aplicar e expandir meus conhecimentos.
