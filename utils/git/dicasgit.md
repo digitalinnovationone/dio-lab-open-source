@@ -54,6 +54,8 @@ envia arquivos de um repositório local para um repositório remoto
      
 - `$ git merge <nome_do_branch> *`
 
+### git commit --amend
+permite corrigir o commit mais recente. Isso é muito útil quando você esquece de preparar um arquivo ou faltou alguma informação no commit anterior.
 
 
 ### Referências
