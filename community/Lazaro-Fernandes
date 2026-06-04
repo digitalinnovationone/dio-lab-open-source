@@ -1,0 +1,21 @@
+def calcular_media(lista):
+    """
+    Calcula a média de uma lista de números.
+
+    Argumentos:
+    lista: Uma lista de números.
+
+    Retorna:
+    A média dos números na lista.
+    """
+    if len(lista) == 0:
+        return 0
+    else:
+        return sum(lista) / len(lista)
+
+# Exemplo de uso:
+numeros = [2, 4, 6, 8, 10]
+media = calcular_media(numeros)
+print("A média dos números é:", media)
+
+Este script define uma função chamada calcular_media que aceita uma lista de números como entrada e retorna a média desses números. Em seguida, há um exemplo de como usar essa função com uma lista específica de números e imprimir o resultado.
