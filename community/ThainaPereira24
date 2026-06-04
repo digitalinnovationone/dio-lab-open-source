@@ -1,0 +1,5 @@
+#THAINA PEREIRA LEITE
+
+Atualmente estudo Analise e desenvolvimento de sistemas e estou me especializando em dados. Tenho um certificado de curso de computação em nuvem.
+
+Meu linkedin
