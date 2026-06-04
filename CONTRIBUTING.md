@@ -33,22 +33,26 @@ git clone https://github.com/SEU_USERNAME/dio-lab-open-source.git
 ```
 Pressione enter, e uma cópia do seu fork no GitHub será criada localmente.
 
-### 3) Crie uma nova **branch** 
+### 3) Adicione o remote upstream
+Utilize o comando `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git` para manter seu repositório local atualizado.
+> Utilize o comando `git pull upstream main` para baixar e mesclar as alterações no seu repositório local com base no branch `main` deste repositório original de onde você fez o fork, ou `git fetch upstream main` para baixar sem mesclar. Veja mais em: [Primeiros Passos com Git e GitHub](https://docs.github.com/pt/get-started/getting-started-with-git).
+
+### 4) Crie uma nova **branch** 
 Utilize o comando `git checkout -b` para criar e alternar para a nova branch e nomeie-a como `feat/community/SEU_USERNAME`
 > Exemplo: `git checkout -b feat/community/falvojr`
 
-### 4) Crie o seu Profile README
+### 5) Crie o seu Profile README
  Dentro da pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub:
 
 > Exemplo: `community/falvojr.md`
 
-#### 4.1) Desenvolva o seu Profile README
+#### 5.1) Desenvolva o seu Profile README
 Para isso, você pode se inspirar nos exemplos no diretório [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils)
 
-### 5) Adicione suas alterações à "staging area" 
+### 6) Adicione suas alterações à "staging area" 
 Utilize o comando `git add community/SEU_USERNAME.md` para adicionar sua alteração (nesse caso o arquivo markdown criado)  à "staging area" no Git.
 
-### 6) Crie um Commit
+### 7) Crie um Commit
 Crie um commit e adicione a mensagem indicando a adição do seu perfil:
 ```bash
 git commit -m"feat: add SEU_USERNAME profile"
@@ -56,7 +60,7 @@ git commit -m"feat: add SEU_USERNAME profile"
 >[!IMPORTANT]
 > Verifique a [`Convenção de Commits`](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md#conven%C3%A7%C3%A3o-de-commits) para escrever a mensagem do seu commit de forma clara e padronizada.
 
-### 7) Envie as Alterações para o seu Repositório Remoto
+### 8) Envie as Alterações para o seu Repositório Remoto
 Envie as alterações realizadas no seu repositório local para a branch `feat/community/SEU_USERNAME` no seu repositório remoto com o comando:
 ```bash
 git push origin feat/community/SEU_USERNAME
@@ -64,7 +68,7 @@ git push origin feat/community/SEU_USERNAME
 >[!WARNING]
 > Caso você tenha criado seu arquivo diretamente no repositório remoto no GitHub, esse processo não será necessário.
 
-### 8) Crie um **Pull Request**.
+### 9) Crie um **Pull Request**.
 
 Atente-se para a seguir as orientações para a contribuição, principalmente:
 - Seu PR deve modificar apenas o arquivo community/SEU_USERNAME.md (dê uma olhadinha na aba "Files changed");
