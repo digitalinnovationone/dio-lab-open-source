@@ -1,0 +1,235 @@
+[33mcommit 1037454a3936eb7b340998bb7a8a7d5418089be7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeat/community/seunomedeusuario[m[33m)[m
+Author: DEV-Dondon <filholuccivan@gmail.com>
+Date:   Sun Nov 3 15:59:52 2024 -0300
+
+    feat: add DEV-Dondon profile
+
+[33mcommit 1b11b00fb97ba5ba81a7fa7d2dc6093124f64c22[m
+Author: DEV-Dondon <filholuccivan@gmail.com>
+Date:   Sun Nov 3 15:11:01 2024 -0300
+
+    fiz uma alteração aqui
+
+[33mcommit e53313b378a72eec6279196d74c1ac16bba5747d[m
+Author: DEV-Dondon <filholuccivan@gmail.com>
+Date:   Sun Nov 3 15:04:24 2024 -0300
+
+    alteração realizada
+
+[33mcommit 8ac2aca729db9f423b00072ce26cb5d4d2d8fd13[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/feat/community/seunomedeusuario[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31morigin/DEV-Dondon[m[33m, [m[1;32mmain[m[33m)[m
+Author: DEV-Dondon <filholuccivan@gmail.com>
+Date:   Sun Nov 3 13:59:49 2024 -0300
+
+    feat: add octoeli profile
+
+[33mcommit 69df7f3da68006fe918699b23da6957a6e8216e8[m
+Merge: 5252626c3 0e0fec0ac
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Nov 3 13:12:18 2024 +0000
+
+    Merge pull request #52064 from Brafios/feat/community/Brafios
+
+[33mcommit 0e0fec0ac39314e18dc7119c7f5124b23f209e77[m
+Author: brafios <brafios8@gmail.com>
+Date:   Sun Nov 3 10:06:56 2024 -0300
+
+    feat: add Brafios profile
+
+[33mcommit 5252626c33d306ccb60082c0777c40407cb88be5[m
+Merge: 430e3b58e 2a339b69e
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Nov 3 11:48:06 2024 +0000
+
+    Merge pull request #52063 from weslleydourado/feat/community/weslleydourado
+
+[33mcommit 2a339b69e41ee42d24c7a3a8b9d80a3e9ba85ee3[m
+Author: Weslley Dourado <dourado.weslley@gmail.com>
+Date:   Sun Nov 3 08:21:44 2024 -0300
+
+    feat: add weslleydourado profile
+
+[33mcommit 430e3b58ee6f0b2cc576a38b37732ceff7687e6d[m
+Merge: 88be8b485 350e4c31c
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Nov 3 08:20:10 2024 +0000
+
+    Merge pull request #52062 from tannax/main
+
+[33mcommit 350e4c31c6fda3e5b9c00d348cf18b94631bbabe[m
+Merge: 88be8b485 ebed4daff
+Author: Eduardo Gomes <125585645+tannax@users.noreply.github.com>
+Date:   Sun Nov 3 05:07:24 2024 -0300
+
+    Merge pull request #1 from tannax/feat/community/tannax
+    
+    Create tannax.md
+
+[33mcommit ebed4daff3246cfc463e74bc17da1fde0a4ac4d9[m
+Author: Eduardo Gomes <125585645+tannax@users.noreply.github.com>
+Date:   Sun Nov 3 05:03:34 2024 -0300
+
+    Create tannax.md
+
+[33mcommit 88be8b4855b892fe3ff0596fedc6dc9004730ac7[m
+Merge: 2b31782c8 cb5ccbdce
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Nov 3 05:27:24 2024 +0000
+
+    Merge pull request #52061 from marujoTaTo/feat/community/marujoTaTo
+
+[33mcommit cb5ccbdce30bc4187d372a02e6b3368a4884821e[m
+Author: Fernandes <josebarb0302@gmail.com>
+Date:   Sun Nov 3 02:16:10 2024 -0300
+
+    feat: add marujoTaTo profile
+
+[33mcommit 2b31782c8898ca3401d08f037ad219ffc9e9f053[m
+Merge: a2f0801b9 24a76c95e
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Nov 3 03:49:24 2024 +0000
+
+    Merge pull request #52059 from ecastrojr/feat/community/ecastrojr
+
+[33mcommit 24a76c95e718eb7106f7c7116b231dd4c209045d[m
+Author: Alex Castro <github@alexcastro.net.br>
+Date:   Sun Nov 3 00:43:47 2024 -0300
+
+    feat: add ecastrojr profile
+
+[33mcommit a2f0801b9fe4ed47f462f359873ed00239e4488e[m
+Merge: 0e0dec159 4c07d3d0c
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Nov 3 02:37:43 2024 +0000
+
+    Merge pull request #52058 from alissonacds/feat/community/alissonacds
+
+[33mcommit 0e0dec1595c71d1867fff893f67ef57ac7c0b5b7[m
+Merge: 3063321ef 5ec84fe2f
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Nov 3 02:25:49 2024 +0000
+
+    Merge pull request #52057 from fdrtec/feat/community/fdrtec
+
+[33mcommit 5ec84fe2fb84f0976b86b071ee2d8602ee40ee5e[m
+Author: fdrtec <fdrtec@gmail.com>
+Date:   Sat Nov 2 23:20:17 2024 -0300
+
+    feat: add fdrtec profile
+
+[33mcommit 4c07d3d0c0bf639b57fd228c018a292c5ae1e37f[m
+Author: Alisson Carlos da Silva <alissonacds@gmail.com>
+Date:   Sat Nov 2 23:12:47 2024 -0300
+
+    feat: add alissonacds profile
+
+[33mcommit 3063321ef53a51f17a899e03694679775064f31c[m
+Merge: 739716a4b a14775671
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Nov 3 02:04:01 2024 +0000
+
+    Merge pull request #52056 from DoouglasLobo/feat/community/DoouglasLobo
+
+[33mcommit a1477567149435348f3a2c3752ad4ae0be071c8e[m
+Author: Douglas Lobo <douglaslobo001@gmail.com>
+Date:   Sat Nov 2 23:03:35 2024 -0300
+
+    Rename DoouglasLobo to DoouglasLobo.md
+
+[33mcommit 77d699729308996e9506e3247656d8fc84747962[m
+Author: Douglas Lobo <douglaslobo001@gmail.com>
+Date:   Sat Nov 2 22:56:50 2024 -0300
+
+    Create DoouglasLobo
+
+[33mcommit 739716a4b38850bf6cb52e2c919970fe48a3ec71[m
+Merge: 884dcf971 682230823
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Nov 3 01:44:59 2024 +0000
+
+    Merge pull request #52055 from thiagoatsl/feat/community/thiagoatsl
+
+[33mcommit 682230823799115f95a6c4239b9261de1450686e[m
+Author: thiago <augustothiago2004@gmail.com>
+Date:   Sat Nov 2 22:38:42 2024 -0300
+
+    feat: add thiagoatsl profile
+
+[33mcommit 884dcf971a13ba4b2a1fc109776e2c17e91a5c44[m
+Merge: 6e84495e7 8b9f6da7e
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Nov 3 00:47:09 2024 +0000
+
+    Merge pull request #52054 from pivetti/feat/community/pivetti
+
+[33mcommit 6e84495e7d9c38a910bc57de8c14258936c2b0ba[m
+Merge: 910cd0d01 c81018796
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Nov 3 00:29:53 2024 +0000
+
+    Merge pull request #52053 from NathaliaCout/feat/community/NathaliaCout
+
+[33mcommit c81018796879845f1dd2d1468ad2fc4396a085a8[m
+Author: NathaliaCout <coutinhona@hotmail.com>
+Date:   Sat Nov 2 21:27:50 2024 -0300
+
+    Create NathaliaCout.md
+
+[33mcommit 8b9f6da7e05c4522b242c4b99f2d8b8782d4fa41[m
+Author: pivetti <henriquepivetti@gmail.com>
+Date:   Sat Nov 2 21:26:48 2024 -0300
+
+    feat: add pivetti profile
+
+[33mcommit 910cd0d01e74d3b80fc63a160d9e7cf136f2461b[m
+Merge: 6a687a9f5 87a1a7ea7
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Nov 2 23:57:31 2024 +0000
+
+    Merge pull request #52051 from Limagn/feat/community/Limagn
+
+[33mcommit 6a687a9f5a96f27d42aed89b23a18fb12cf76dfd[m
+Merge: 046c184a4 31b4ab69f
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Nov 2 23:51:23 2024 +0000
+
+    Merge pull request #52050 from guilhermemdiniz/feat/community/guilhermemdiniz
+
+[33mcommit 87a1a7ea726ce45113e3494ed73da1e4d79631ba[m
+Author: limagln <gabriellneiva@outlook.com>
+Date:   Sat Nov 2 20:48:03 2024 -0300
+
+    feat: add Limagn profile
+
+[33mcommit 31b4ab69f4cc1fe97d028059a8b9d9a6814beb7e[m
+Author: guilhermemdiniz <guidiniz2019.18@gmail.com>
+Date:   Sat Nov 2 20:43:21 2024 -0300
+
+    feat: add guilhermemdiniz profile
+
+[33mcommit 046c184a49a41a6439235ed1c5fd4d06b5c7b29c[m
+Merge: 7508fe6d8 a8cf6498f
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Nov 2 23:30:29 2024 +0000
+
+    Merge pull request #52049 from Rbkmello/feat/community/Rbkmello
+
+[33mcommit a8cf6498fbc472391ebfd907e7cd768783649865[m
+Author: Rebecca Mello <rebeccabmello@gmail.com>
+Date:   Sat Nov 2 20:17:07 2024 -0300
+
+    feat:add Rbkmello profile
+
+[33mcommit 2b45b9bdbe45279d38eb4d81a723b96984d730c6[m
+Author: Rebecca Mello <rebeccabmello@gmail.com>
+Date:   Sat Nov 2 20:14:49 2024 -0300
+
+    feat: add Rbkmello profile
+
+[33mcommit 7508fe6d805aae4a124af815455599d014ff5cef[m
+Merge: f9a0b0818 c661be90b
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Nov 2 21:04:59 2024 +0000
+
+    Merge pull request #52043 from Fabiaudi/feat/community/fabiaudi
+
+[33mcommit c6
