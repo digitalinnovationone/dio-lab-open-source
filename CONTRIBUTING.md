@@ -88,6 +88,121 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
 | `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
 
+### Padronização de Commits
+
+Padronizar commits em um repositório de código é essencial para manter a clareza e a organização do histórico de alterações. Um commit bem documentado facilita a colaboração e a manutenção do código. Aqui estão algumas práticas recomendadas para padronização de commits:
+
+1. **Mensagens Claras e Concisas:**
+   - Use o idioma do projeto para escrever as mensagens de commit.
+   - A linha de assunto (subject line) deve ser curta (50 caracteres ou menos) e descrever sucintamente a alteração.
+   - O corpo da mensagem deve detalhar a mudança, se necessário, e pode ser separado por uma linha em branco da linha de assunto.
+
+2. **Verbos no Imperativo:**
+   - Utilize verbos no imperativo presente, como "Adiciona", "Remove", "Corrige", etc.
+   - Exemplo: `Corrige bug na autenticação de usuários`.
+
+3. **Referência a Issues ou Tarefas:**
+   - Sempre que possível, referencie a issue ou tarefa relacionada ao commit.
+   - Exemplo: `Adiciona endpoint de login (#123)`.
+
+4. **Separação de Assuntos:**
+   - Cada commit deve abordar uma única funcionalidade ou correção. Evite commits que abrangem múltiplos assuntos.
+
+5. **Formato Consistente:**
+   - Utilize um formato consistente para as mensagens. Exemplo:
+     ```
+     <tipo>(<escopo>): <descrição>
+
+     [Corpo da mensagem]
+     ```
+
+### Commits Semânticos (Conventional Commits)
+
+Commits semânticos seguem uma convenção específica que facilita a automação de versionamento e a geração de changelogs. Essa convenção é amplamente utilizada e consiste em mensagens de commit estruturadas de maneira padronizada.
+
+#### Estrutura Básica:
+
+```
+<tipo>(<escopo opcional>): <descrição>
+
+[Corpo opcional]
+[Rodapé opcional]
+```
+
+#### Tipos Comuns:
+
+- `feat`: Introduz uma nova funcionalidade.
+  - Exemplo: `feat: adiciona suporte a múltiplos idiomas`
+- `fix`: Corrige um bug.
+  - Exemplo: `fix: corrige erro de navegação no menu`
+- `docs`: Alterações na documentação.
+  - Exemplo: `docs: atualiza guia de instalação`
+- `style`: Alterações de estilo (espaçamento, formatação, etc.) que não afetam a lógica do código.
+  - Exemplo: `style: formata código conforme padrão ESLint`
+- `refactor`: Mudanças no código que não corrigem bugs nem adicionam funcionalidades.
+  - Exemplo: `refactor: otimiza algoritmo de busca`
+- `test`: Adiciona ou corrige testes.
+  - Exemplo: `test: adiciona testes unitários para componente Header`
+- `chore`: Tarefas de manutenção.
+  - Exemplo: `chore: atualiza dependências`
+
+#### Exemplos de Commits Semânticos:
+
+1. **Commit de Funcionalidade:**
+   ```
+   feat(auth): adiciona autenticação via OAuth
+
+   Adiciona suporte para autenticação de usuários usando OAuth 2.0.
+   ```
+
+2. **Commit de Correção:**
+   ```
+   fix(login): corrige falha na verificação de senha
+
+   Corrige a lógica de verificação de senha para permitir caracteres especiais.
+   ```
+
+3. **Commit de Documentação:**
+   ```
+   docs(readme): atualiza informações de configuração
+
+   Adiciona passos detalhados para configurar o ambiente de desenvolvimento.
+   ```
+
+4. **Commit de Estilo:**
+   ```
+   style: ajusta espaçamento no arquivo main.css
+
+   Remove espaços extras e ajusta indentação para seguir o padrão do projeto.
+   ```
+
+5. **Commit de Refatoração:**
+   ```
+   refactor(api): otimiza funções de busca
+
+   Refatora funções de busca para melhorar a performance.
+   ```
+
+6. **Commit de Teste:**
+   ```
+   test: adiciona testes para componente de login
+
+   Cria testes unitários para garantir a correta funcionalidade do componente de login.
+   ```
+
+### Benefícios dos Commits Semânticos:
+
+1. **Clareza:**
+   - Facilita a compreensão do histórico de commits, tornando-o mais legível.
+
+2. **Automação:**
+   - Permite a automação de versionamento semântico (SemVer) e a geração de changelogs.
+
+3. **Manutenção:**
+   - Simplifica a identificação de mudanças específicas, facilitando a manutenção do código.
+
+Ao seguir estas práticas e a convenção de commits semânticos, a equipe de desenvolvimento garante uma maior organização, clareza e eficiência na gestão do código.
+
 
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
