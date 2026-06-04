@@ -13,8 +13,8 @@ Ao longo da minha trajetória aprendi e continuo a aprender diversas tecnologias
 ![Static Badge](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/UML-orange?style=for-the-badge&logo=uml&logoColor=white)
-![Static Badge](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
+![Static Badge](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Java-gray?style=flat&logo=spring&logoColor=white&label=Spring%20Boot&labelColor=green)
 ![Static Badge](https://img.shields.io/badge/Apache%20Maven-%23C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Draw.io-F08705?style=flat&logo=diagramsdotnet&logoColor=white)
