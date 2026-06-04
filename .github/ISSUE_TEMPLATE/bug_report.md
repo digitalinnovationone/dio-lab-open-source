@@ -1,38 +1,30 @@
 ---
-name: Bug report
-about: Crie um relatório para nos ajudar a melhorar
-title: "[BUG]"
+name: 🐞 Reportar Bug
+about: Reporte um erro ou comportamento inesperado
+title: "[BUG] "
 labels: bug
 assignees: ''
 
 ---
 
-**Descreva o bug**
-Uma descrição clara e concisa do que é o bug.
+## 🐛 Descrição do Bug  
+<!-- Diga o que está acontecendo de errado. Seja claro e direto. -->
 
-**Reproduzir**
-Etapas para reproduzir o comportamento:
+## ✅ Passos para Reproduzir  
+<!-- Liste os passos para que qualquer pessoa consiga reproduzir o problema. Exemplo:
 1. Vá para '...'
-2. Clique em '....'
-3. Role para baixo até '....'
-4. Ver erro
+2. Clique em '...'
+3. Role até '...'
+4. Veja o erro
+-->
 
-**Comportamento esperado**
-Uma descrição clara e concisa do que você esperava que acontecesse.
+## 📷 Capturas de Tela (se aplicável)  
+<!-- Adicione screenshots aqui para ajudar a entender o bug -->
 
-**Capturas de tela**
-Se aplicável, adicione capturas de tela para ajudar a explicar seu problema.
+## 🧩 Ambiente  
+- Sistema operacional: [ex: Windows 10, Ubuntu 22.04]
+- Navegador (se for web): [ex: Chrome, Firefox]
+- Versão do projeto: [ex: v1.0.0]
 
-**Desktop (preencha as seguintes informações):**
-  - SO: [por exemplo iOS]
-  - Navegador [por exemplo chrome, safari]
-  - Versão [por exemplo 22]
-
-**Smartphone (preencha as seguintes informações):**
-  - Dispositivo: [por exemplo iPhone6]
-  - SO: [por exemplo iOS8.1]
-  - Navegador [por exemplo navegador padrão, safari]
-  - Versão [por exemplo 22]
-
-**Contexto adicional**
-Adicione qualquer outro contexto sobre o problema aqui.
+## 💬 Comentários adicionais  
+<!-- Adicione qualquer outra informação que ajude a entender o contexto -->
