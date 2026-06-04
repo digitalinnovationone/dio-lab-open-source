@@ -24,6 +24,7 @@
 </table>
 
 ## Social
+
 <table>
   <thead>
     <tr align="left">
@@ -163,6 +164,7 @@
 </table>
 
 ## Linguagens de Marcação e Estilo
+
 <table>
   <thead>
     <tr align="left">
@@ -209,6 +211,7 @@
 </table>
 
 ## Linguagens de Programação
+
 <table>
   <thead>
     <tr align="left">
@@ -421,6 +424,7 @@
 </table>
 
 ## Bibliotecas e Frameworks
+
 <table>
   <thead>
     <tr align="left">
@@ -536,10 +540,10 @@
     </tr>
     <tr>
       <td>
-        <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117">
+        <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117">
       </td>
       <td>
-        <code>![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)</code>
+        <code>![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)</code>
       </td>
     </tr>
     <tr>
@@ -615,12 +619,21 @@
         <code>![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)</code>
       </td>
    </tr>
+   <tr>
+      <td>
+        <img align="center" alt="Astro" src="https://img.shields.io/badge/astro-692d94?style=for-the-badge&logo=astro&logoColor=white">
+      </td>
+      <td>
+        <code>![Astro](https://img.shields.io/badge/astro-692d94?style=for-the-badge&logo=astro&logoColor=white)</code>
+      </td>
+   </tr>
     
   </tbody>
   <tfoot></tfoot>
 </table>
 
-## Banco de Dados
+## Bancos de Dados
+
 <table>
   <thead>
     <tr align="left">
