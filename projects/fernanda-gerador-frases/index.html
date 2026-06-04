@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gerador de Frases Motivacionais</title>
+  <style>
+    body {
+      background: #f0f4f8;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    .container {
+      background: white;
+      padding: 2rem;
+      border-radius: 1rem;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      text-align: center;
+      max-width: 400px;
+    }
+    h1 {
+      color: #333;
+    }
+    #frase {
+      margin: 1.5rem 0;
+      font-size: 1.2rem;
+      color: #555;
+    }
+    button {
+      background: #4CAF50;
+      color: white;
+      border: none;
+      padding: 0.8rem 1.5rem;
+      border-radius: 0.5rem;
+      cursor: pointer;
+      font-size: 1rem;
+      transition: background 0.3s ease;
+    }
+    button:hover {
+      background: #45a049;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Frase do Dia ✨</h1>
+    <p id="frase">Clique no botão abaixo para gerar uma frase motivacional!</p>
+    <button onclick="gerarFrase()">Nova Frase</button>
+  </div>
+  <script>
+    const frases = [
+      "Acredite no seu potencial!",
+      "Você é mais forte do que imagina.",
+      "Nunca desista dos seus sonhos!",
+      "A persistência leva ao sucesso.",
+      "Seja a mudança que você quer ver no mundo.",
+      "Cada dia é uma nova oportunidade!",
+      "Coragem para seguir em frente!",
+      "O sucesso é a soma de pequenos esforços diários."
+    ];
+
+    function gerarFrase() {
+      const frase = frases[Math.floor(Math.random() * frases.length)];
+      document.getElementById('frase').innerText = frase;
+    }
+  </script>
+</body>
+</html>
