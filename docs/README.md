@@ -1,27 +1,21 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Profiles README DIO</span>
-</h1>
+# Bryan Khelven da S. Barbosa
 
-## Sobre o Projeto
-Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Lembre-se de que Markdown é mais voltado para a documentação e apresentação de texto formatado, enquanto a remoção de bugs normalmente envolve a compreensão detalhada do código e o uso de ferramentas de desenvolvimento adequadas à linguagem de programação específica.
+Olá, sou **Bryan Khelven**, um **Mestre em Ciência da Computação** e **Mestre em Linguística** com vasta experiência em **Inteligência Artificial (IA)**, **Machine Learning (ML)** e **Processamento de Linguagem Natural (NLP)**. Sou apaixonado por resolver problemas complexos e otimizar soluções de IA em ambientes de produção.
 
-[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
+## Sobre mim
+Com uma formação acadêmica robusta em **Ciência da Computação**, **Linguística** e **Inteligência Artificial**, tenho me especializado na aplicação de **Modelos de Linguagem de Grande Escala (LLMs)** e técnicas avançadas de **NLP** para tarefas como análise de sentimentos, classificação de texto e transcrição de fala. Atualmente, meu foco está no desenvolvimento de sistemas escaláveis e eficientes para análise de dados de linguagem e em ambientes de **MLOps**.
 
-```
-docs/
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   └── js/
-│       └── scripts.js
-├── favicon.ico
-├── index.html
-└── README.md
-```
+## Certificações
+- **AWS Cloud Practitioner**
+- **Oracle OCI Foundations**
+- **Certified Scrum Practitioner**
+- **Azure Fundamentals (AZ-900)**
+- **Azure AI Fundamentals (AI-900)**
 
-## Tecnologias
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+
+## Contato
+- **GitHub**: [https://github.com/bryankhelven](https://github.com/bryankhelven)
+- **LinkedIn**: [https://www.linkedin.com/in/bryankhelven](https://www.linkedin.com/in/bryankhelven)
+- **E-mail**: bryankhelven@ieee.org
+
+Fique à vontade para entrar em contato ou contribuir para meus projetos! 🚀
