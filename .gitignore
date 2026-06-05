@@ -2,7 +2,6 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=linux,windows,macos,intellij,visualstudiocode,eclipse
 
 ### Eclipse ###
-.project
 .metadata
 bin/
 tmp/
@@ -275,4 +274,3 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,windows,macos,intellij,visualstudiocode,eclipse
-
