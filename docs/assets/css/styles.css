@@ -62,7 +62,31 @@ a:hover {
 
 ul > li,
 ol > li {
+    display: flex;
+    align-items: center;
+    gap: 1em;
     margin: .5rem 1.25rem;
+    counter-increment: item;
+
+}
+
+ol {
+    list-style: none;
+    counter-reset: item;
+}
+
+ol li::before {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    content: counter(item);
+    background-color: #30A3DC;
+    border-radius: 50%;
+    color: #FFF;
+    font-weight: bold;
+    width: 2em;
+    height: 2em;
 }
 
 code {
