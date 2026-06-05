@@ -1,14 +1,24 @@
 # 👨‍🎓 Tiago Bondezan Bazani
 
 ## 🎓 Formação
-Graduando em **Análise e Desenvolvimento de Sistemas**.
+Graduando em **Análise e Desenvolvimento de Sistemas**
 
-## 💻 Conhecimentos Técnicos
-- **HTML**: Estruturação de páginas web  
-- **CSS**: Estilização e design responsivo  
-- **JavaScript**: Interatividade e lógica de aplicações web  
-- **Java**: Programação orientada a objetos  
-- **Figma**: Protótipos e design de interfaces  
+---
+
+## 💻 Tecnologias & Ferramentas
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🎨 Design
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+
+### ☕ Backend
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+---
 
 ## 🚀 Objetivo
 Aplicar meus conhecimentos em desenvolvimento de sistemas para criar soluções eficientes e inovadoras, sempre buscando evolução contínua na área de tecnologia.
