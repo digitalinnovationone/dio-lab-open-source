@@ -150,7 +150,7 @@
 
 
 
-• GIT FITCH ORIGIN MAIN -> Baixa as alterações na brenach remota sem mesclar;
+• GIT FETCH ORIGIN MAIN -> Baixa as alterações na brenach remota sem mesclar;
 
 
 
