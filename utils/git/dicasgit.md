@@ -8,7 +8,10 @@ O Git é um sistema de controle de versão distribuído, o que significa que um 
 > Configurar do nome de usuário e mail
 -  `$ git config user.email email`
 - `$ git config user.name "nome de usuario"`
-  
+
+> Configurar do nome de usuário e mail global no seu computador
+-  `$ git config --global user.email "email"`
+- `$ git config --global user.name "nome de "usuario"`
 
 ## 📚 Comandos Básicos
 
