@@ -2,10 +2,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/golbery)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/golberysantos)
-[![Lattes](https://img.shields.io/badge/Lattes-00274D?style=for-the-badge&logo=googlescholar&logoColor=white)](http://lattes.cnpq.br/4342537559814310)
+[![Lattes](https://img.shields.io/badge/Lattes-00274D?style=for-the-badge&logo=read-the-docs&logoColor=white)](http://lattes.cnpq.br/4342537559814310)
 [![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:golbery.santos@yahoo.com.br)
 
-Sou **Analista de Sistemas** e **Desenvolvedor** com uma paixão especial por **Java** e por construir soluções eficientes. Minha jornada é um pouco diferente: além do código, tenho uma sólida experiência em gestão, docência e desenvolvimento. Essa bagagem me dá uma visão única para criar software que realmente resolve problemas de negócio e para colaborar com times de alta performance.
+Sou **Analista de Sistemas** e **Desenvolvedor** com uma paixão especial por **Java** e por construir soluções eficientes. Minha jornada une a paixão pelo código com uma sólida experiência em gestão, docência e desenvolvimento. Essa bagagem me dá uma visão única para criar software que realmente resolve problemas de negócio e para colaborar com times de alta performance.
 
 ---
 
@@ -22,31 +22,16 @@ Sou **Analista de Sistemas** e **Desenvolvedor** com uma paixão especial por **
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white)
 ![API REST](https://img.shields.io/badge/API%20REST-005571?style=flat-square)
-![DTO](https://img.shields.io/badge/DTO-6DB33F?style=flat-square)
 ![SOLID](https://img.shields.io/badge/SOLID-6DB33F?style=flat-square)
 ![DDD](https://img.shields.io/badge/DDD-02569B?style=flat-square)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-FF6C37?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=flat-square)
-![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=flat-square)
-![UML](https://img.shields.io/badge/UML-FF6600?style=flat-square)
-![ISO 9001](https://img.shields.io/badge/ISO%209001-003366?style=flat-square)
-![MVC](https://img.shields.io/badge/MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![ICONIX](https://img.shields.io/badge/ICONIX-FF6600?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
 
 | Categoria | Tecnologias & Ferramentas |
 | :--- | :--- |
@@ -59,6 +44,7 @@ Sou **Analista de Sistemas** e **Desenvolvedor** com uma paixão especial por **
 | **Modelagem & Arquitetura** | UML, ICONIX, Padrões de Projeto, SOLID, DDD |
 | **Qualidade & Gestão** | Auditor Líder (ISO 9001), PDCA, 5W2H, COBIT, Governança de TI |
 
+---
 
 ## 💼 Destaques da Trajetória
 
@@ -88,13 +74,10 @@ Sou **Analista de Sistemas** e **Desenvolvedor** com uma paixão especial por **
 ### Cursos Recentes (2024-2025)
 - **Java e Spring Boot com API REST** (Alura)
 - **Java Web: Criando aplicações com Spring Boot** (Alura)
-- **APIs com Node.js e Express** (Alura)
-- **OpenAI e Python: Chatbots inteligentes** (Alura)
 - **DevOps, Governança de TI e Gestão Ágil** (Alura)
 - **Introduction to Cybersecurity** (Cisco)
 
 ---
-
 
 ### 📫 Algum desafio?
 
@@ -103,6 +86,3 @@ Estou em busca de novos desafios e oportunidades como Desenvolvedor Java. Sei jo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/golbery)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:golbery.santos@yahoo.com.br)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/559299147485)
-
----
-⭐️ ⭐️ ⭐️ ⭐️ ⭐️
