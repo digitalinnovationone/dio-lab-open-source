@@ -34,7 +34,7 @@ git clone https://github.com/SEU_USERNAME/dio-lab-open-source.git
 Pressione enter, e uma cópia do seu fork no GitHub será criada localmente.
 
 ### 3) Crie uma nova **branch** 
-Utilize o comando `git checkout -b` para criar e alternar para a nova branch e nomeie-a como `feat/community/SEU_USERNAME`
+Utilize o comando `git checkout -b` para criar e alternar para a nova branch e nomeie-a como `feat/community/zeantoniomendes`
 > Exemplo: `git checkout -b feat/community/falvojr`
 
 ### 4) Crie o seu Profile README
@@ -46,20 +46,20 @@ Utilize o comando `git checkout -b` para criar e alternar para a nova branch e n
 Para isso, você pode se inspirar nos exemplos no diretório [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils)
 
 ### 5) Adicione suas alterações à "staging area" 
-Utilize o comando `git add community/SEU_USERNAME.md` para adicionar sua alteração (nesse caso o arquivo markdown criado)  à "staging area" no Git.
+Utilize o comando `git add community/zeantoniomendes.md` para adicionar sua alteração (nesse caso o arquivo markdown criado)  à "staging area" no Git.
 
 ### 6) Crie um Commit
 Crie um commit e adicione a mensagem indicando a adição do seu perfil:
 ```bash
-git commit -m"feat: add SEU_USERNAME profile"
+git commit -m"feat: add zeantoniomendes profile"
 ```
 >[!IMPORTANT]
 > Verifique a [`Convenção de Commits`](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md#conven%C3%A7%C3%A3o-de-commits) para escrever a mensagem do seu commit de forma clara e padronizada.
 
 ### 7) Envie as Alterações para o seu Repositório Remoto
-Envie as alterações realizadas no seu repositório local para a branch `feat/community/SEU_USERNAME` no seu repositório remoto com o comando:
+Envie as alterações realizadas no seu repositório local para a branch `feat/community/zeantoniomendes` no seu repositório remoto com o comando:
 ```bash
-git push origin feat/community/SEU_USERNAME
+git push origin feat/community/zeantoniomendes
 ```
 >[!WARNING]
 > Caso você tenha criado seu arquivo diretamente no repositório remoto no GitHub, esse processo não será necessário.
@@ -79,14 +79,14 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
     
 ## Convenção de Commits 
 
-| Tipo de Commit |Descrição                                                            | Exemplo
-| ---------------|----------------------------------------------------------------------|-----------
-| `feat`         | Adiciona uma nova funcionalidade ao projeto.                         | `feat: add USENAME.md profile`
-| `fix`          | Corrige um bug ou problema no projeto.                               | `fix: fixed issue fix#IssueNumber`
-| `docs`         | Altera a documentação do projeto.| `docs: update README.md`
-| `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         | `style: add EFFECTNAME to COMPONENT`
-| `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
-| `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
+| Tipo de Commit |Descrição                                                             
+| ---------------|----------------------------------------------------------------------
+| `feat`         | Adiciona uma nova funcionalidade ao projeto.                         
+| `fix`          | Corrige um bug ou problema no projeto.                               
+| `docs`         | Altera a documentação do projeto.                                     
+| `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.          
+| `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.          
+| `test`         | Adiciona ou modifica testes no projeto.                              
 
 
 ## Referências
