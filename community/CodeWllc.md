@@ -32,8 +32,6 @@ Tenho facilidade para aprender rápido, trabalhar em equipe e me adaptar a novas
 - Sempre aberto a colaborar em projetos open source
 
 ### Projetos em Destaque
-- [Portfólio Pessoal](https://github.com/CodeWllc/portfolio)
-- [Sistema de Controle Acadêmico](https://github.com/CodeWllc/controle-academico)
 - [Desafios DIO](https://github.com/CodeWllc/desafios-dio)
 
 ### 🎯 Objetivos
