@@ -1,0 +1,96 @@
+# Matheus Silva Lemes
+
+## Sobre mim
+
+Olá! Meu nome é **Matheus Silva Lemes**, sou desenvolvedor Java com foco em Spring Boot, Kafka, microserviços, arquitetura limpa e aplicações em nuvem. Atualmente estudo para certificações e trabalho em projetos reais que envolvem sistemas distribuídos, autenticação OIDC/JWT, mensageria, banco de dados, testes automatizados e integração com front-end em Next.js.
+
+Busco evolução constante na engenharia de software e valorizo aprendizado contínuo, disciplina e boas práticas no desenvolvimento.
+
+---
+
+## Tecnologias e Interesses
+
+**Back-end**  
+Java 17/21/22  
+Spring Boot 3/4  
+JPA / Hibernate  
+PostgreSQL / MongoDB  
+Kafka, Redis  
+Mensageria  
+DDD, Clean Architecture, Hexagonal Architecture  
+OIDC / JWT / Keycloak / Supabase Auth  
+
+**Front-end**  
+Next.js 15/16  
+React 19  
+Tailwind CSS  
+Radix UI  
+Shadcn/UI  
+
+**DevOps e Cloud**  
+Docker e Docker Compose  
+Azure  
+AWS (estudo ativo)  
+
+**Outros interesses**  
+Inglês técnico  
+Cybersegurança  
+Criação de landing pages  
+Princípios SOLID  
+Testes automatizados  
+
+---
+
+## Projetos em Destaque
+
+**EcoFy Platform**  
+Ecosistema completo de microserviços (Auth, Order, Inventory, CMS, Dashboard, etc.), utilizando API Gateway, autenticação OIDC/JWT, Kafka para mensageria e bancos PostgreSQL.
+
+**QualityWork API**  
+API REST para registro de ponto (time tracking) com Spring Boot, Gradle, DTOs, serviços, repositórios e tratamento de exceções personalizado.
+
+**Bella Flores Decor**  
+Landing page profissional desenvolvida com Next.js e Tailwind para divulgação e catálogo de produtos para eventos e decoração.
+
+---
+
+## Links e Contatos
+
+**GitHub**  
+https://github.com/Matheuslemes
+
+**LinkedIn**  
+https://www.linkedin.com/in/matheus-silva-lemes-8a4628178/
+
+**E-mail**  
+matheuslemesmsl@gmail.com
+
+---
+
+## Como posso ajudar
+
+Contribuições em projetos open source (Java e Next.js)  
+Refatoração de código e testes unitários  
+Documentação e organização técnica de projetos  
+Criação de landing pages  
+Configuração de ambiente com Docker  
+Deploy básico e boas práticas  
+
+---
+
+## Nota sobre o Lab da DIO
+
+Este arquivo atende às instruções do Lab:
+
+> Para contribuir com seu Profile README, faça um "fork" do repositório digitalinnovationone/dio-lab-open-source, adicione este arquivo ao seu fork e abra um Pull Request solicitando a atualização no repositório original.  
+> O PR não precisa ser aceito; basta enviar a URL do seu fork na entrega da plataforma.
+
+Repositório oficial:  
+https://github.com/digitalinnovationone/dio-lab-open-source
+
+---
+
+## Licença
+
+Este conteúdo pode ser reutilizado, modificado ou distribuído livremente.  
+Licenciado sob MIT License.
