@@ -1,27 +1,27 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Profiles README DIO</span>
-</h1>
+# Olá, eu sou a Laila Lima 👋
 
-## Sobre o Projeto
-Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Lembre-se de que Markdown é mais voltado para a documentação e apresentação de texto formatado, enquanto a remoção de bugs normalmente envolve a compreensão detalhada do código e o uso de ferramentas de desenvolvimento adequadas à linguagem de programação específica.
+🎯 **Analista de Dados** 
+📊 Experiência com **Power BI, SQL, Python e Big Data**  
+🎓 Formação em **Técnico em Telecomunicações** e **Análise e Desenvolvimento de Sistemas**  
+📚 Estudando para a certificação **PL-300 (Power BI Data Analyst)**  
 
-[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
+---
 
-```
-docs/
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   └── js/
-│       └── scripts.js
-├── favicon.ico
-├── index.html
-└── README.md
-```
+## 🚀 Estatísticas no GitHub
+![Laila's GitHub stats](https://github-readme-stats.vercel.app/api?username=lailaal&show_icons=true&theme=dracula)
 
-## Tecnologias
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+---
+
+## 💡 Projetos em Destaque
+[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=lailaal&repo=dio-lab-open-source&theme=dracula)](https://github.com/lailaal/dio-lab-open-source)
+
+[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=lailaal&repo=algum-projeto&theme=dracula)](https://github.com/lailaal/algum-projeto)
+
+---
+
+## 🛠️ Linguagens Mais Usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lailaal&layout=compact&theme=dracula)
+
+---
+
+✨ Sempre aprendendo e transformando dados em insights para o negócio!
