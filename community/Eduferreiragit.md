@@ -48,7 +48,7 @@
 </font>
 
 ### <font color="red">INGLÊS</font>
-- <font color="blue">English4Tech</font>
+- 🇬🇧 <font color="blue">English4Tech</font>
 
 ## 💼 Uso de plataformas de mídia social e aplicativos de mensagens
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
