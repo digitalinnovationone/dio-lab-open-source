@@ -1,3 +1,0 @@
-### Olá, eu sou Leonardo Almir (LeoAlmir)
- Analista de Sistemas de Informação, pós-graduado especialista em Data Analytics e Business Intelligence, com mais de 10 anos de experiência trabalhando com dados e estratégias de crédito. Conhecimentos em programação, extração de dados, análise de dados e criação de dashboards. Atuo há 18 anos em empresas no segmento de distribuição de energia (nacional e multinacional), com vivência em áreas estratégicas das Cias.
- Participei de grandes projetos sendo o maior a implantação do novo sistema comercial (SAP FI-CA/IS-U) no grupo ENEL nas distribuidoras do Ceará e Rio de Janeiro. 

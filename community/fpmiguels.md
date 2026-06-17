@@ -1,1 +1,0 @@
-cientista de dados

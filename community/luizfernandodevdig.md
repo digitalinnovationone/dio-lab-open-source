@@ -1,1 +1,0 @@
-Olá, sou Luiz Fernando e estou dando os primeiros passos com Python, Git e GitHub.

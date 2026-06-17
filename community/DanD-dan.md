@@ -1,1 +1,0 @@
-Sou dev Magik/C#/Python praticando GIT

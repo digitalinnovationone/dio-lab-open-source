@@ -1,1 +1,0 @@
-** Eu sou o Douglas **

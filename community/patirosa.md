@@ -1,1 +1,0 @@
-Desafio de contribuição em um projeto opensource no github

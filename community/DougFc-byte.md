@@ -1,1 +1,0 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=DougFc-byte)](https://git.io/streak-stats)
