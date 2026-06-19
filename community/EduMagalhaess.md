@@ -1,4 +1,9 @@
+# Meu Profile README
 # EduMagalhaess
+
+Olá! Meu nome é Eduardo Magalhães (edumagalhaess).  
+Estou participando do desafio de contribuição open source da DIO.  
+Este é meu Profile README.
 
 ## Conecte-se comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duhmagalhaess/)
