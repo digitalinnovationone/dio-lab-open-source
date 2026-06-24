@@ -29,7 +29,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor focado em back-end, mas 
 
 ## 🌐 Vamos Conectar!
 
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- [Email](mailto:seu-email@exemplo.com)
+- [LinkedIn](https://www.linkedin.com/in/weydson-silva-1b4bab375/)
+- [Email](mailto:weydsonlino98@gmail.com)
 
 ---
