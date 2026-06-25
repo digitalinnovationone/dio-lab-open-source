@@ -76,20 +76,29 @@ Atente-se para a seguir as orientações para a contribuição, principalmente:
 
 Após criar o seu Pull Request, nossa automação irá validar a sua submissão. Caso esteja tudo certo, será retornada uma mensagem indicado que seu PR foi aprovado. Do contrário, leia atentamente as orientações e verifique os arquivos modificados para saber se atende as instruções para contribuição.
     
-    
-## Convenção de Commits 
+## 🏷️ Convenção de Commits
 
-| Tipo de Commit |Descrição                                                            | Exemplo
-| ---------------|----------------------------------------------------------------------|-----------
-| `feat`         | Adiciona uma nova funcionalidade ao projeto.                         | `feat: add USENAME.md profile`
-| `fix`          | Corrige um bug ou problema no projeto.                               | `fix: fixed issue fix#IssueNumber`
-| `docs`         | Altera a documentação do projeto.| `docs: update README.md`
-| `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         | `style: add EFFECTNAME to COMPONENT`
-| `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
-| `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
+Para manter o histórico do projeto organizado e profissional, adotamos o padrão **Conventional Commits**. Todas as mensagens de commit devem seguir a estrutura:
 
+`tipo(escopo opcional): descrição curta`
 
-## Referências
+### Tabela de Referência:
+
+| Tipo | Descrição | Exemplo |
+| :--- | :--- | :--- |
+| **feat** | Adição de uma nova funcionalidade ou perfil na pasta community. | `feat: add guilherme-profile` |
+| **fix** | Correção de um erro ou bug no projeto. | `fix: corrige link quebrado no readme` |
+| **docs** | Alterações exclusivas em arquivos de documentação. | `docs: atualiza guia de commits` |
+| **style** | Mudanças de formatação ou aparência que não afetam a lógica. | `style: ajusta indentação do markdown` |
+| **refactor** | Melhoria no código que não altera sua funcionalidade. | `refactor: simplifica script de validação` |
+| **test** | Adição ou modificação de testes. | `test: add unit test for user service` |
+| **chore** | Tarefas auxiliares, ferramentas ou atualizações de dependências. | `chore: atualiza pacotes de build` |
+
+> **Dica de Engenharia:** Commits bem estruturados facilitam a leitura do histórico e permitem a geração automática de logs de mudanças (Changelogs).
+
+## 🔗 Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
 - [CONVENTIONAL COMMITS. Summary](https://www.conventionalcommits.org/en/v1.0.0/)
-- [GITHUB. Configurar diretrizes para os contribuidores do repositório](https://docs.github.com/pt/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
+- [GITHUB. Configurar diretrizes para os contribuidores](https://docs.github.com/pt/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
+
+
