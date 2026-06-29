@@ -15,11 +15,13 @@ Essa e minha terceira contribuição, companhem meu progresso!
 ---
 
 **O QUE EU USO!**
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
 
 
  **CONECTE-SE A MIM!**
+ 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-reis-2a909541a/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/michael-reissp) 
 
 
