@@ -4,9 +4,9 @@ Sou um(a) entusiasta de tecnologia e estou participando do desafio de contribui�
 
 ## Sobre mim
 
-- Gosto de aprender na prática e colaborar com documentação.
-- Estou desenvolvendo minha jornada em Git, GitHub e contribuição open source.
-- Valorizo projetos com boa organização e clareza para quem está chegando.
+- Gosto de aprender na prática e transformar documentação em algo útil.
+- Estou evoluindo em Git, GitHub e colaboração open source.
+- Valorizo projetos bem organizados, claros e acolhedores para quem chega agora.
 
 ## O que estou estudando
 
@@ -14,11 +14,21 @@ Sou um(a) entusiasta de tecnologia e estou participando do desafio de contribui�
 - Markdown e documentação técnica
 - Boas práticas de colaboração em projetos abertos
 
+## O que você encontra aqui
+
+- Um profile README simples e direto.
+- Uma contribuição feita para seguir o padrão da pasta `community/`.
+- Um registro da minha participação neste desafio da DIO.
+
 ## Objetivo com esta contribuição
 
-Criar um Profile README simples, direto e alinhado ao padrão da pasta `community/`, para registrar minha participação no projeto e incentivar novas contribuições.
+Registrar minha participação no projeto e incentivar outras pessoas a contribuírem com pequenas melhorias que fazem diferença.
 
-## Links
+## Conecte-se comigo
 
-- [DIO](https://www.dio.me/)
 - [GitHub](https://github.com/albsondev)
+- [DIO](https://www.dio.me/)
+
+## Gratidão
+
+Obrigado por manterem este projeto aberto para a comunidade. Pequenas contribuições também fortalecem o open source.
