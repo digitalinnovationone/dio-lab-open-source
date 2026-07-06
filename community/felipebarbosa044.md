@@ -9,7 +9,7 @@
 ## About me
 
 * Focused on **Backend** development, mainly with Python.
-* Also comfortable working with JavaScript, Node.js, HTML, CSS, and SQL.
+* Also comfortable working with JavaScript, Node.js, HTML, CSS, and SQL
 * Technician in **Systems Development** and **Digital Game Programming**.
 
 ---
