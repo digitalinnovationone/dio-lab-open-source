@@ -1,4 +1,3 @@
-
 # Olá, eu sou o Mauro Luis! 👋
 
 **Engenheiro Informático | Entusiasta de IA e Big Data**
@@ -23,7 +22,6 @@ Sou um profissional apaixonado pela **Tecnologia da Informação** e as **Ciênc
 *   **UX Design:** Formação completa em User Experience
 *   **Modelação 3D:** (Box Modeling, Poly by Poly e Animação). **Blender**
 *   **Edição de Imagem:** **Adobe Photoshop**, integrando ferramentas de IA para composição e tratamento.
-
 
 ### 🔬 **Mentoria**
 Tenho orgulho em orientar a próxima geração de talentos em projetos inovadores, tais como:
