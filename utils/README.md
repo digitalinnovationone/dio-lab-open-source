@@ -62,3 +62,6 @@
 - [Onde encontrar Badges legais para o seu Perfil](https://github.com/Ileriayo/markdown-badges#markdown-badges) 
 - [Gerador automático de Readme para GitHub](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
+## Contribuidor
+- **Nikollas Adriano** - Minha primeira contribuição no projto open source
+- 
