@@ -45,7 +45,7 @@
 
  <h3> Contribuidores fake: </h3>
  
-[<img src="https://github.com/emersonpessoa01/dio-lab-open-source/blob/main/image/images/gitironman01.png" width=115  heigth=120 ><br><sub> Git Ironman </sub>](https://github.com/emersonpessoa01) | [<img src="https://github.com/emersonpessoa01/dio-lab-open-source/blob/main/image/images/gitcode02.png" width=115  heigth=120 ><br><sub> Git Code </sub>](https://github.com/emersonpessoa01) | [<img src="https://github.com/emersonpessoa01/dio-lab-open-source/blob/main/image/images/ahsoka-tano01.png" width=115  heigth=120><br><sub> Ahsoka Tano</sub>](https://github.com/emersonpessoa01) | [<img src="https://github.com/emersonpessoa01/dio-lab-open-source/blob/main/image/images/ezra-bridges.png" width=115  heigth=120><br><sub> Ezra Bridges</sub>](https://github.com/emersonpessoa01) | [<img src="https://github.com/emersonpessoa01/dio-lab-open-source/blob/main/image/images/sabine-wren.png" width=115  heigth=120><br><sub> Sabine Wren</sub>](https://github.com/emersonpessoa01)
+[<img src="../image/images/gitironman01.png" width=115  heigth=120 ><br><sub> Git Ironman </sub>](https://github.com/emersonpessoa01) | [<img src="../image/images/gitcode02.png" width=115  heigth=120 ><br><sub> Git Code </sub>](https://github.com/emersonpessoa01) | [<img src="../image/images/ahsoka-tano01.png" width=115  heigth=120><br><sub> Ahsoka Tano</sub>](https://github.com/emersonpessoa01) | [<img src="../image/images/ezra-bridges.png" width=115  heigth=120><br><sub> Ezra Bridges</sub>](https://github.com/emersonpessoa01) | [<img src="../image/images/sabine-wren.png" width=115  heigth=120><br><sub> Sabine Wren</sub>](https://github.com/emersonpessoa01)
 | :---: | :---: | :---: | :--: | :--: |
 
 <!--<details>
