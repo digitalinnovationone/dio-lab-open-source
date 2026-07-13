@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Stephanie Lopes
+- 🎓 Software Engineer
+- ⚡ Creative web development projects
+- ✨ Languages: English, Portuguese, Japanese
+- 📍  Brazil (Open to remote work)
+- 📫 How to reach me: stephanielopees@gmail.com
+- 😄 Pronouns: She/Her
