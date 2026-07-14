@@ -11,7 +11,7 @@ assignees: ''
 Uma descrição do que pode ser feito. 
 
 *Descreva como você realizou o seu*
-Uma descrição sobre como você fez o seu.
+Uma descrição sobre como você fez o seu desafio.
 
 *Links úteis*
 - [Nome do Link](URL)
