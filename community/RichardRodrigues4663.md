@@ -72,7 +72,7 @@ Desenvolvedor front-end com foco em React, atuando na construção de interfaces
   <a href="mailto:richardrodriguesdossantosu@gmail.com.br" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://wa.link/7cqjqx">
+  <a href="https://wa.link/kwyct4">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 </div>
