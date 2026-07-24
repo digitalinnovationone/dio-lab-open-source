@@ -1,17 +1,12 @@
 ---
 name: Community Challenge
-about: Crie uma issue sobre o Desafio proposto à comunidade
+about: Crie uma issue sobre o desafio proposto à comunidade.
 title: "[DESAFIO]"
 labels: community challenge
 assignees: ''
 
 ---
 
-*Tem alguma sugestão para quem for fazer o Desafio? Por favor descreva.*
-Uma descrição do que pode ser feito. 
+<p> Modifiquei a linha 91, antes vazia, na seção "Convenção de Commits".</p>   - Linha 5
 
-*Descreva como você realizou o seu*
-Uma descrição sobre como você fez o seu.
-
-*Links úteis*
-- [Nome do Link](URL)
+| 'analytics'    | Lê e performa análises quantos commits realizado por mês.            | 'analyze: read Commit Data from XX/YY/ZZZZ and beyond'
