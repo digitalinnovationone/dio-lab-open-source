@@ -817,6 +817,14 @@
         <code>![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)</code>
       </td>
     </tr>
+      <tr>
+      <td>
+        <img align="center" alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff">
+      </td>
+      <td>
+        <code>![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff)</code>
+      </td>
+    </tr>
     <tr>
       <td>
         <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0">
