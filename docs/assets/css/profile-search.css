@@ -1,0 +1,329 @@
+/**
+ * Estilos para o Sistema de Busca Avançada de Perfis
+ */
+
+/* Container principal da busca */
+.search-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+/* Filtros de busca */
+.search-filters {
+    background: var(--white);
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr auto;
+    gap: 1rem;
+    align-items: end;
+}
+
+.search-input {
+    position: relative;
+}
+
+.search-input input {
+    width: 100%;
+    padding: 0.75rem 1rem 0.75rem 2.5rem;
+    border: 2px solid var(--gray-200);
+    border-radius: 8px;
+    font-size: 1rem;
+    transition: all 0.3s ease;
+}
+
+.search-input input:focus {
+    outline: none;
+    border-color: var(--secondary-color);
+    box-shadow: 0 0 0 3px rgba(48, 163, 220, 0.1);
+}
+
+.search-input i {
+    position: absolute;
+    left: 0.75rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--gray-500);
+}
+
+.filter-select {
+    padding: 0.75rem 1rem;
+    border: 2px solid var(--gray-200);
+    border-radius: 8px;
+    background: var(--white);
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.filter-select:focus {
+    outline: none;
+    border-color: var(--secondary-color);
+    box-shadow: 0 0 0 3px rgba(48, 163, 220, 0.1);
+}
+
+.btn-clear-filters {
+    padding: 0.75rem 1.5rem;
+    background: var(--gray-200);
+    color: var(--black);
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    white-space: nowrap;
+}
+
+.btn-clear-filters:hover {
+    background: var(--gray-300);
+}
+
+/* Grid de perfis */
+.profiles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+/* Card de perfil */
+.profile-card {
+    background: var(--white);
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    cursor: pointer;
+    border: 2px solid transparent;
+}
+
+.profile-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+    border-color: var(--secondary-color);
+}
+
+.profile-header {
+    margin-bottom: 1rem;
+}
+
+.profile-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--black);
+    margin: 0 0 0.25rem 0;
+    line-height: 1.3;
+}
+
+.profile-username {
+    color: var(--secondary-color);
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.profile-preview {
+    margin-bottom: 1rem;
+    color: var(--gray-500);
+    line-height: 1.5;
+    font-size: 0.9rem;
+}
+
+.profile-technologies {
+    margin-bottom: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.tech-badge {
+    background: var(--gray-100);
+    color: var(--black);
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    border: 1px solid var(--gray-200);
+}
+
+.tech-more {
+    background: var(--secondary-color);
+    color: var(--white);
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+.profile-actions {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: flex-end;
+}
+
+.btn-view-profile {
+    background: var(--secondary-color);
+    color: var(--white);
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+}
+
+.btn-view-profile:hover {
+    background: var(--primary-color);
+    transform: translateY(-1px);
+}
+
+/* Estados de loading e erro */
+.loading-spinner {
+    text-align: center;
+    padding: 4rem 2rem;
+    color: var(--gray-500);
+}
+
+.spinner {
+    width: 40px;
+    height: 40px;
+    border: 4px solid var(--gray-200);
+    border-top: 4px solid var(--secondary-color);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    margin: 0 auto 1rem;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.no-results {
+    text-align: center;
+    padding: 4rem 2rem;
+    color: var(--gray-500);
+}
+
+.no-results i {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    color: var(--gray-300);
+}
+
+.error-message {
+    text-align: center;
+    padding: 4rem 2rem;
+    color: var(--primary-color);
+}
+
+.error-message i {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.btn-retry {
+    background: var(--primary-color);
+    color: var(--white);
+    border: none;
+    padding: 0.75rem 1.5rem;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+    margin-top: 1rem;
+    transition: all 0.3s ease;
+}
+
+.btn-retry:hover {
+    background: #d63e51;
+    transform: translateY(-1px);
+}
+
+.search-info {
+    text-align: center;
+    color: var(--gray-500);
+    font-size: 0.9rem;
+    padding: 1rem;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .search-filters {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+    
+    .profiles-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .profile-card {
+        padding: 1rem;
+    }
+    
+    .search-container {
+        padding: 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .profile-actions {
+        flex-direction: column;
+    }
+    
+    .btn-view-profile {
+        width: 100%;
+        justify-content: center;
+    }
+}
+
+/* Animações */
+.profile-card {
+    animation: fadeInUp 0.5s ease-out;
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Scroll suave */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Melhorias de acessibilidade */
+.profile-card:focus {
+    outline: 2px solid var(--secondary-color);
+    outline-offset: 2px;
+}
+
+.btn-view-profile:focus,
+.filter-select:focus,
+.search-input input:focus {
+    outline: 2px solid var(--secondary-color);
+    outline-offset: 2px;
+}
+
+/* Modo escuro (opcional) */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --white: #1a1a1a;
+        --black: #ffffff;
+        --gray-100: #2a2a2a;
+        --gray-200: #3a3a3a;
+        --gray-300: #4a4a4a;
+        --gray-500: #cccccc;
+    }
+}
