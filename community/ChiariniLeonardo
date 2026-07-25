@@ -1,0 +1,108 @@
+import requests
+import time
+import logging
+from typing import List, Dict, Optional
+
+# =======================
+# MELHORIAS IMPLEMENTADAS
+# =======================
+# 1. Uso de logging em vez de print → mais flexível para monitorar execução.
+# 2. Removido token fixo → agora lido de variável de ambiente (mais seguro).
+# 3. Tipagem com typing → código mais claro e fácil de manter.
+# 4. Funções pequenas e específicas → mais legibilidade e manutenção.
+# 5. Tratamento de erros melhorado → evita parar execução em caso de falha temporária.
+# 6. Adicionado retry automático em caso de falha de rede.
+# 7. Código mais modular → fácil de reaproveitar em outros repositórios.
+
+import os
+
+class GitHubConfig:
+    """Configurações relacionadas ao GitHub e ao repositório."""
+    TOKEN = os.getenv("GITHUB_TOKEN")  # >>> Token seguro via variável de ambiente
+    OWNER = 'digitalinnovationone'
+    REPO = 'dio-lab-open-source'
+    HEADERS = {
+        'Authorization': f'token {TOKEN}' if TOKEN else None,
+        'Accept': 'application/vnd.github.v3+json'
+    }
+
+class ScriptConfig:
+    """Configurações específicas do script."""
+    DIO_LAB_WORKFLOW_TRIGGER_LABEL = 'run dio workflow'
+    DELAY_SECONDS = 5
+    MAX_RETRIES = 3
+
+def request_with_retry(url: str, method: str = "GET", data: Optional[Dict] = None) -> Optional[requests.Response]:
+    """Faz uma requisição à API do GitHub com retry automático."""
+    for attempt in range(1, ScriptConfig.MAX_RETRIES + 1):
+        try:
+            if method == "GET":
+                response = requests.get(url, headers=GitHubConfig.HEADERS)
+            elif method == "POST":
+                response = requests.post(url, headers=GitHubConfig.HEADERS, json=data)
+            else:
+                raise ValueError("Método HTTP não suportado")
+
+            response.raise_for_status()
+            return response
+        except requests.RequestException as e:
+            logging.warning(f"Tentativa {attempt} falhou: {e}")
+            time.sleep(2 * attempt)  # backoff exponencial
+
+    logging.error(f"Falha após {ScriptConfig.MAX_RETRIES} tentativas para {url}")
+    return None
+
+def obter_prs_abertos() -> List[Dict]:
+    """Retorna uma lista de todos os PRs abertos."""
+    all_prs = []
+    page = 1
+
+    while True:
+        url = f'https://api.github.com/repos/{GitHubConfig.OWNER}/{GitHubConfig.REPO}/pulls?page={page}&per_page=100'
+        response = request_with_retry(url)
+
+        if not response:
+            break
+
+        prs = response.json()
+        if not prs:
+            break
+
+        all_prs.extend(prs)
+        page += 1
+
+    logging.info(f"Recuperados {len(all_prs)} PRs abertos no total.")
+    return all_prs
+
+def adicionar_label(pr_number: int) -> bool:
+    """Adiciona a label ao PR especificado, se ainda não tiver."""
+    url = f'https://api.github.com/repos/{GitHubConfig.OWNER}/{GitHubConfig.REPO}/issues/{pr_number}/labels'
+    label_data = {'labels': [ScriptConfig.DIO_LAB_WORKFLOW_TRIGGER_LABEL]}
+    response = request_with_retry(url, method="POST", data=label_data)
+
+    if response:
+        logging.info(f"✅ Label adicionada ao PR #{pr_number}")
+        return True
+
+    logging.error(f"❌ Não foi possível adicionar label ao PR #{pr_number}")
+    return False
+
+def main():
+    if not GitHubConfig.TOKEN:
+        logging.error("Token do GitHub não encontrado. Configure a variável de ambiente GITHUB_TOKEN.")
+        return
+
+    prs_abertos = obter_prs_abertos()
+    for pr in reversed(prs_abertos):  # processa do mais antigo para o mais novo
+        pr_number = pr['number']
+        labels = [label['name'] for label in pr.get('labels', [])]
+
+        if ScriptConfig.DIO_LAB_WORKFLOW_TRIGGER_LABEL not in labels:
+            if adicionar_label(pr_number):
+                time.sleep(ScriptConfig.DELAY_SECONDS)
+        else:
+            logging.info(f"PR #{pr_number} já possui o label. Pulando.")
+
+if __name__ == "__main__":
+    logging.basicConfig(level=logging.INFO, format="%(levelname)s - %(message)s")
+    main()
