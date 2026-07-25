@@ -10,7 +10,7 @@ Sou estudante do curso Análise e Desenvolvimento de Sistemas. Possuo uma base e
 
 🧠 Estou aprendendo Java e POO
 
-⚡️ Curiosidade: Sou formado em Engenharia Agronômica e fiz intercambio na França.
+⚡️ Curiosidade: Sou formado em Engenharia Agronômica e fiz intercâmbio na França.
 
 ## 🛠 Habilidades
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
