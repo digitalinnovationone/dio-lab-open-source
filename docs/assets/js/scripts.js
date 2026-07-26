@@ -3,15 +3,14 @@ const searchButton = document.getElementById('searchButton');
 
 searchButton.addEventListener('click', (e) => {
   e.preventDefault();
-  const searchValue = searchInput.value;
+
+  const searchValue = searchInput.value.trim();
   if (searchValue === '') {
-    alert('Por favor, insira um termo de pesquisa.'); // Exibir um alerta se o campo estiver vazio
+    alert('Por favor, insira um nome de usuário.');
     return;
   }
-  const url = `https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community/${encodeURIComponent(searchValue)}.md`; 
-  const defaultUrl = 'https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community'
-  if(searchValue===''){
-    window.open(defaultUrl, '_blank')
-  }
+
+  const url = `https://github.com/elidianaandrade/dio-lab-open-source/blob/main/community/${encodeURIComponent(searchValue)}.md`;
+
   window.open(url, '_blank');
-})
+});
