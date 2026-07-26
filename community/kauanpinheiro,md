@@ -1,0 +1,12 @@
+# kauanpinheiro
+## Conecte-se comigo 
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kauanpinheirokk/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:kauanpinheiro258@gmail.com)
+## Habilidades
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8) ![Clouflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kauanpinheiro&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+## Minhas contribuições
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kauanpinheiro&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
