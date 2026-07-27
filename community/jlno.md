@@ -1,2 +1,0 @@
-# DIO
-Simple MD file
