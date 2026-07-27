@@ -1,1 +1,0 @@
-# Richard Itsou Lima

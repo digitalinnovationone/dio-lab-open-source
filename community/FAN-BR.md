@@ -1,2 +1,0 @@
-# FAN-BR
-Community Chalenge
