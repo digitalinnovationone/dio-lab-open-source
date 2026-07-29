@@ -79,15 +79,16 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
     
 ## Convenção de Commits 
 
-| Tipo de Commit |Descrição                                                            | Exemplo
+| Tipo de comandos |Descrição                                                            | Exemplo
 | ---------------|----------------------------------------------------------------------|-----------
-| `feat`         | Adiciona uma nova funcionalidade ao projeto.                         | `feat: add USENAME.md profile`
-| `fix`          | Corrige um bug ou problema no projeto.                               | `fix: fixed issue fix#IssueNumber`
-| `docs`         | Altera a documentação do projeto.| `docs: update README.md`
-| `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         | `style: add EFFECTNAME to COMPONENT`
-| `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
-| `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
-
+| `git init`     | Inicializa                                .                          | `feat: add USENAME.md profile`
+| `git add .`    | Adiciona tudo                       .                                | `fix: fixed issue fix#IssueNumber`
+| `git commit`   | git commit -m "Primeiro commit"                                     .| `docs: update README.md`
+| `git remoteadd`| Conectar o repositório local ao repositório remoto no GitHub         | `style: add EFFECTNAME to COMPONENT`
+| `git push`     |  Subir o código para o GitHub                                        |   `refactor: refactor at CLASSNAME`
+| `Dica Extra`   | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
+Caso você faça mudanças no seu projeto depois, você pode repetir os comandos de git add ., git commit -m "mensagem" 
+e git push para enviar as atualizações para o GitHub.
 
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
