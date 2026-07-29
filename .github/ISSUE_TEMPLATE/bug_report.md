@@ -2,8 +2,8 @@
 name: Bug report
 about: Crie um relatório para nos ajudar a melhorar
 title: "[BUG]"
-labels: bug
-assignees: ''
+labels: bug, help wanted
+assignees: FabioHolmes
 
 ---
 
