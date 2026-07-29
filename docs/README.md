@@ -1,27 +1,24 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Profiles README DIO</span>
-</h1>
+# Olá, Mundo!  Eu sou Gustavo!
 
-## Sobre o Projeto
-Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Lembre-se de que Markdown é mais voltado para a documentação e apresentação de texto formatado, enquanto a remoção de bugs normalmente envolve a compreensão detalhada do código e o uso de ferramentas de desenvolvimento adequadas à linguagem de programação específica.
+## Um Explorador do Universo Web 
 
-[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
+Seja bem-vindo(a) ao meu cantinho no GitHub! Sou um iniciante apaixonado pela programação web, com a curiosidade de um astronauta em uma nova galáxia e a determinação de um explorador em busca de tesouros escondidos.
 
-```
-docs/
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   └── js/
-│       └── scripts.js
-├── favicon.ico
-├── index.html
-└── README.md
-```
+## Minha Jornada Estelar 
 
-## Tecnologias
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+* **Embarcando na Aventura:** Minha jornada na programação web começou recentemente, e cada linha de código é uma nova descoberta.
+* **Aprendizado Constante:** Estou absorvendo conhecimento como uma esponja cósmica, explorando HTML, CSS, JavaScript e tudo que o universo web tem a oferecer.
+* **Missão Principal:** Meu objetivo é me tornar um desenvolvedor web habilidoso e contribuir para a criação de experiências online incríveis.
+
+## Habilidades em Ascensão 
+
+* **HTML:** Construindo as bases do meu foguete web.
+* **CSS:** Dando estilo e vida às minhas criações.
+* **JavaScript:** Explorando a interatividade e a magia do front-end.
+* **Git & GitHub:** Mapeando minha jornada e colaborando com outros exploradores.
+
+## Que a Força do Código Esteja Conosco! ✨
+
+Estou sempre aberto a aprender, colaborar e trocar ideias. Se você tiver alguma dica, sugestão ou quiser embarcar nesta jornada comigo, sinta-se à vontade para me contatar.
+
+Vamos explorar o universo web juntos! 
