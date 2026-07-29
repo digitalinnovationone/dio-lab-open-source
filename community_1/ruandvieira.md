@@ -1,0 +1,1 @@
+slk nun compensa

@@ -1,0 +1,2 @@
+Olá! Eu sou Thales, estudante de Sistemas de Informação na Universidade Federal de Santa Maria. 
+Tenho grande interesse em explorar como as IAs podem ser aplicadas em diferentes áreas, buscando sempre expandir meus conhecimentos e habilidades nesse campo.
