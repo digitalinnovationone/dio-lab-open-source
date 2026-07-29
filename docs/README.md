@@ -1,27 +1,42 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Profiles README DIO</span>
-</h1>
+# 💻 DIO Lab Open Source
 
-## Sobre o Projeto
-Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Lembre-se de que Markdown é mais voltado para a documentação e apresentação de texto formatado, enquanto a remoção de bugs normalmente envolve a compreensão detalhada do código e o uso de ferramentas de desenvolvimento adequadas à linguagem de programação específica.
+Bem-vindo ao **DIO Lab Open Source**, um repositório criado para **praticar e aprender como contribuir com projetos Open Source no GitHub**.
 
-[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
+Este repositório faz parte da jornada de aprendizado da Digital Innovation One (DIO) e está aberto a todos que queiram explorar o universo do código aberto.
 
+---
+
+## 🚀 Objetivo
+
+O principal objetivo deste repositório é te ajudar a:
+- Aprender a usar Git e GitHub na prática
+- Fazer sua **primeira contribuição Open Source**
+- Entender o fluxo de **fork → branch → commit → pull request**
+
+---
+
+## 🧠 Para quem é esse projeto?
+
+- Pessoas iniciantes em Git/GitHub
+- Alunos e alunas da DIO
+- Qualquer pessoa interessada em aprender a contribuir com projetos colaborativos
+
+---
+
+## 📂 Como contribuir (passo a passo)
+
+### 1. Faça um Fork deste repositório
+
+Clique no botão `Fork` no canto superior direito da página:  
+🔗 [https://github.com/digitalinnovationone/dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source)
+
+Você será redirecionado para uma cópia do projeto no seu GitHub.
+
+---
+
+### 2. Clone o repositório na sua máquina
+
+```bash
+git clone https://github.com/seu-usuario/dio-lab-open-source.git
+cd dio-lab-open-source
 ```
-docs/
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   └── js/
-│       └── scripts.js
-├── favicon.ico
-├── index.html
-└── README.md
-```
-
-## Tecnologias
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
