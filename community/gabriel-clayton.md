@@ -11,8 +11,3 @@ Tenho interesse em Desenvolvimento Front-end e estou estudando HTML, CSS e JavaS
 - Aprender mais sobre Git e GitHub.
 - Contribuir com projetos Open Source.
 - Evoluir como desenvolvedor Front-end.
-
-## 📫 Contato
-
-- LinkedIn: https://www.linkedin.com/in/gabriel-maiatto-b76106426/
-- Email: gabrielmaiatto1@gmail.com
