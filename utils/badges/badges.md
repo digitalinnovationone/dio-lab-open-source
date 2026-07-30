@@ -158,6 +158,46 @@
         <code>[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/profile/@seuusuario)</code>
       </td>
     </tr>
+  </tr>
+      <td>
+        <img align="center" alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+      </td>
+      <td>
+        <code>[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://app.slack.com/client/seucodigo)</code>
+      </td>
+    </tr>
+  </tr>
+      <td>
+        <img align="center" alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=White">
+      </td>
+      <td>
+        <code>[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=White)](mailto:SEUEMAIL)</code>
+      </td>
+    </tr>
+  </tr>
+      <td>
+        <img align="center" alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=White">
+      </td>
+      <td>
+        <code>[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=White)](https://tiktok.com/@seuusuario)</code>
+      </td>
+    </tr>
+  </tr>
+      <td>
+        <img align="center" alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+      </td>
+      <td>
+        <code>[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/seuusuario)</code>
+      </td>
+    </tr>
+  </tr>
+      <td>
+        <img align="center" alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=White">
+      </td>
+      <td>
+        <code>[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=White)](https://www.youtube.com/@seuusuario)</code>
+      </td>
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
@@ -416,6 +456,14 @@
         <code>![BashScript](https://img.shields.io/badge/bash%20script-0101?style=flat&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000)></code>
       </td>
     </tr>
+   <tr>
+    <td>
+      <img align="center" alt="PowerShell" <img alt="Static Badge" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+    </td>
+      <td>
+        <code>![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)</code>
+      </td>
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
@@ -613,6 +661,14 @@
       </td>
       <td>
         <code>![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)</code>
+      </td>
+   </tr>
+   <tr>
+      <td>
+        <img align="center" alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=White">
+      </td>
+      <td>
+        <code>![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=White)</code>
       </td>
    </tr>
     
@@ -887,6 +943,14 @@
       </td>
       <td>
         <code>![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="RedHat" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=White">
+      </td>
+      <td>
+        <code>![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=White)</code>
       </td>
     </tr>
   </tbody>
