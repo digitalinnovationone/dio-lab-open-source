@@ -14,5 +14,5 @@ Tenho interesse em Desenvolvimento Front-end e estou estudando HTML, CSS e JavaS
 
 ## 📫 Contato
 
-- GitHub: [https://github.com/gabriel-clayton](https://github.com/gabriel-clayton)
-- LinkedIn: [https://www.linkedin.com/in/gabriel-maiatto-b76106426/](https://www.linkedin.com/in/gabriel-maiatto-b76106426/)
+- GitHub: https://github.com/gabriel-clayton
+- LinkedIn: https://www.linkedin.com/in/gabriel-maiatto-b76106426/
