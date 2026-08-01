@@ -1,5 +1,5 @@
 ```markdown
-# Olá! 👋 Eu sou Fábio Gomes
+# Olá! 👋 Eu sou Fábio Gomes.
 
 Atualmente em transição de carreira, após quase 23 anos na área automotiva.
 Busco conhecimentos em desenvolvimento de software, automação e novas tecnologias.
