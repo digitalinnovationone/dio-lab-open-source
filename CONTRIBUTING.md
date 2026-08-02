@@ -88,6 +88,34 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
 | `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
 
+## Convenção de PRs e Reviews
+
+### PRs
+
+- Tamanho do PR
+    - Deve ser pequeno. A solicitação pull deve ter no máximo 250 linhas de alteração.
+
+- Quebra de recursos
+    - Sempre que possível, divida as solicitações pull em solicitações menores.
+
+- Princípio de Responsabilidade Única
+    - A solicitação pull deve fazer apenas uma coisa.
+
+- Título
+    - Faça um título autoexplicativo descrevendo o que o PR faz.
+
+- Descrição
+    - Detalhe como que foi alterado, por que foi alterado e como foi alterado.
+
+### Reviews
+
+- Faça boas perguntas; não faça exigências
+
+- Peça esclarecimentos
+
+- Seja explícito e humilde
+
+- Não use sarcasmo
 
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
