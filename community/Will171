@@ -1,0 +1,39 @@
+#Solução
+
+#Bibliotecas
+import matplotlib.pyplot as plt
+import pandas as pd
+
+# Baixar a base de dados
+df = pd.read_csv("https://datahub.io/core/s-and-p-500-companies/r/constituents.csv")
+
+#Analisar a base de Dados
+df.head()
+
+#Calcular o lucro líquido
+net_profit_int = df["Net Income"].astype(int)
+
+#Calcular o lucro líquido
+net_profit = net_profit_int
+
+#Filtro por empresas
+net_profit_filtered = net_profit[net_profit>0]
+
+#Analise de benchmark
+perf_ratio = net_profit_filtered / df["Revenue"].mean()
+
+#Definir limites
+threshold_low = 0.8
+threshold_high = 1.2
+
+#Filtro de empresas
+selected_stocks = df[ perf_ratio > threshold_low]
+
+#Exibir resultado
+selected_stocks.head()
+
+#Gráfico do resultado
+plt.scatter(selected_stocks["Name"],selected_stocks["Net Income"])
+plt.xlabel('Empresa')
+plt.ylabel('Lucro líquido')
+plt.title('Investimentos 
