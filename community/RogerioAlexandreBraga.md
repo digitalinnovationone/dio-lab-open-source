@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, sou Rogerio</h1>
-<h3 align="center">Um desenvolvedor Backend apaixonado do Brasil</h3><
+<h3 align="center">Um desenvolvedor Backend apaixonado do Brasil</h3>
 
-h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rogerio-alexandre-braga-jl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rogerio-alexandre-braga-jl/" height="30" width="40" /></a>
 </p>
