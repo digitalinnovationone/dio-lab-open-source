@@ -1,0 +1,5 @@
+- 👋 Olá, sou @JohnnySantana
+- 👀 Estou interessado em curso de Full Stack Developer
+- 🌱 Atualmente estou aprendendo Git e GitHub
+- 💞️ Procuro colaborar em projetos sociais CENIN Santos
+- 📫 Como entrar em contato comigo jonivalsantana@gmail.com
