@@ -64,7 +64,7 @@ git push origin feat/community/SEU_USERNAME
 >[!WARNING]
 > Caso você tenha criado seu arquivo diretamente no repositório remoto no GitHub, esse processo não será necessário.
 
-### 8) Crie um **Pull Request**.
+### 8) Crie um **Pull Request**..
 
 Atente-se para a seguir as orientações para a contribuição, principalmente:
 - Seu PR deve modificar apenas o arquivo community/SEU_USERNAME.md (dê uma olhadinha na aba "Files changed");
