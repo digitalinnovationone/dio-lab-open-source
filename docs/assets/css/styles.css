@@ -3,17 +3,17 @@
 
 
 :root {
-  --primary-color: #E94D5F;
-  --secondary-color: #30A3DC;
+    --primary-color: #E94D5F;
+    --secondary-color: #30A3DC;
 
-  --gray-600: #212327BF;
-  --gray-500: #707070;
-  --gray-300: #CED2D6;
-  --gray-200: #DEE2E6;
-  --gray-100: #E9EDF1;
+    --gray-600: #212327BF;
+    --gray-500: #707070;
+    --gray-300: #CED2D6;
+    --gray-200: #DEE2E6;
+    --gray-100: #E9EDF1;
 
-  --white: #FAFAFA;
-  --black: #0F0F0F;
+    --white: #FAFAFA;
+    --black: #0F0F0F;
 }
 
 html {
@@ -26,8 +26,8 @@ html {
     box-sizing: border-box;
 
     scrollbar-width: thin;
-    scrollbar-color: var(--gray-300) transparent; 
-} 
+    scrollbar-color: var(--gray-300) transparent;
+}
 
 ::-webkit-scrollbar {
     width: 0.4rem;
@@ -60,8 +60,8 @@ a:hover {
     color: var(--secondary-color);
 }
 
-ul > li,
-ol > li {
+ul>li,
+ol>li {
     margin: .5rem 1.25rem;
 }
 
@@ -90,7 +90,7 @@ header div {
     padding: .75rem 2rem;
 }
 
-header nav ul{
+header nav ul {
     display: flex;
     text-align: center;
     justify-content: center;
@@ -181,7 +181,8 @@ header nav {
     color: var(--primary-color);
 }
 
-main, section {
+main,
+section {
     padding: 2rem 2rem 0;
 }
 
@@ -189,11 +190,11 @@ main, section {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 1rem;   
+    gap: 1rem;
 }
 
 #desafio p {
-    text-align: justify; 
+    text-align: justify;
 }
 
 #comunidade {
@@ -245,12 +246,45 @@ main, section {
     border: .125rem solid var(--secondary-color);
     border-radius: .35rem 0 0 .35rem;
     padding: .5rem 1.5rem;
-    cursor: pointer; 
+    cursor: pointer;
 }
 
 #searchInput:focus {
     box-shadow: inset 0 1.125rem 5rem 0 rgba(153, 153, 153, 0.3);
     outline: 0;
+}
+
+.search-results {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    max-height: 300px;
+    overflow-y: auto;
+    display: none;
+}
+
+.search-results li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    transition: background-color 0.3s ease;
+}
+
+.search-results li:hover {
+    background-color: #f0f0f0;
+}
+
+.fade-in {
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
 }
 
 footer {
