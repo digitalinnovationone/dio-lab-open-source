@@ -1,0 +1,31 @@
+{
+  "name": "kew",
+  "description": "a lightweight promise library for node",
+  "version": "0.7.0",
+  "homepage": "https://github.com/Medium/kew",
+  "authors": [
+    "Jeremy Stanley <github@azulus.com> (https://github.com/azulus)",
+    "Nick Santos <nick@medium.com>",
+    "Xiao Ma <x@medium.com>"
+  ],
+  "license": "Apache-2.0",
+  "contributors": [],
+  "keywords": [
+    "kew",
+    "promises"
+  ],
+  "main": "./kew.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Medium/kew.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "q": "0.9.7",
+    "nodeunit": "0.9.0",
+    "closure-npc": "0.1.5"
+  },
+  "scripts": {
+    "test": "nodeunit test && closure-npc ./test/closure_test.js --jscomp_error=checkTypes"
+  }
+}
