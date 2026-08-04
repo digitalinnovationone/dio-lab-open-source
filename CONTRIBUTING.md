@@ -88,6 +88,40 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
 | `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
 
+## Comandos úteis
+
+#### Inicializa um novo repositório Git no diretório atual
+`git init`
+
+#### Clona um repositório remoto para o seu ambiente local
+`git clone <url-do-repositorio>´`
+
+#### Exibe o status atual do repositório (arquivos rastreados, modificados, etc.)
+`git status` 
+
+#### Adiciona arquivos ao índice (stage) para preparar o commit
+`git add <arquivo>` 
+`git add .  # Adiciona todos os arquivos`
+
+#### Confirma as mudanças no repositório local com uma mensagem de commit
+`git commit -m "Mensagem do commit"`
+
+#### Envia as mudanças do repositório local para o remoto
+`git push origin <branch>``
+
+#### Atualiza o repositório local com as mudanças do repositório remoto
+`git pull origin <branch>`
+
+#### Lista todas as branches ou cria uma nova branch
+`git branch            # Lista as branches`
+`git branch <nome>     # Cria uma nova branch`
+
+#### Troca para outra branch ou restaura arquivos
+`git checkout <branch>`
+
+#### Mescla mudanças de uma branch para outra
+`git merge <branch>`
+
 
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
