@@ -158,6 +158,14 @@
         <code>[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/profile/@seuusuario)</code>
       </td>
     </tr>
+  </tr>
+      <td>
+        <img align="center" alt="Goodreads" src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213">
+      </td>
+      <td>
+        <code>[![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/seuusuario) </code>
+      </td>
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
