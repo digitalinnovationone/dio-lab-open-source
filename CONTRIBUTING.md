@@ -42,6 +42,8 @@ Utilize o comando `git checkout -b` para criar e alternar para a nova branch e n
 
 > Exemplo: `community/falvojr.md`
 
+Para criar o arquivo `.md` através do Git, basta utilizar o comando `touch community/SEU_USERNAME.md`
+
 #### 4.1) Desenvolva o seu Profile README
 Para isso, você pode se inspirar nos exemplos no diretório [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils)
 
