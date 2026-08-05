@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @EgonAlmeida
+- 👀 I’m interested in tecnology
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me [Linkedin](www.linkedin.com/in/egon-almeida-82a95314b)
+- ⚡ Fun fact: I like arcade games
