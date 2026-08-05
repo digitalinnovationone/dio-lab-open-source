@@ -1,0 +1,1 @@
+Olá! Me chamo Luiz Paulo, estou começando minha carreira DEV, estou muito feliz por participar desse Bootcamp, espero avançar cada vez mais nesse caminho, gostaria de agradeçer todos os professores da DIO por estarem nesse projeto incrível!
