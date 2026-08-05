@@ -1,6 +1,6 @@
 <!-- 👩 Foto de Perfil -->
 <p align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/101675692/484350249-8a383850-2387-419a-bdd1-14dd863bc741.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250902%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250902T001744Z&X-Amz-Expires=300&X-Amz-Signature=5bb59c882ce3c5f80e16924ec3dc735fc0c602f6d9db005811e6456f88c956bd&X-Amz-SignedHeaders=host" width="180" style="border-radius:50%;" alt="Laís - Foto de Perfil"/>
+  <img src="https://avatars.githubusercontent.com/u/101675692?v=4" width="180" style="border-radius:50%;" alt="Laís - Foto de Perfil"/>
 </p>
 
 <h1 align="center">✨ &#128105;&#8205;&#128187 bem-vindo(a) ao meu perfil! &#x2764  </h1>
