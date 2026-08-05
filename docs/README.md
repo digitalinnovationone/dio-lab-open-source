@@ -4,6 +4,18 @@
     <span> Profiles README DIO</span>
 </h1>
 
+## Olá! Sou aluno do curso de BI na DIO e este projeto faz parte da minha jornada de aprendizado em Análise de Dados e Open Source.
+
+## Minhas Habilidades em BI
+Atualmente, estou focando no desenvolvimento das seguintes competências:
+
+Coleta e Extração de Dados: SQL, Python e ETL.
+
+Visualização de Dados: Power BI, Tableau e Looker.
+
+Análise Estatística: Dashboards interativos e KPIs de negócio.
+
+Documentação: Markdown para relatórios e Git para versionamento de projetos de dados.
 ## Sobre o Projeto
 Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Lembre-se de que Markdown é mais voltado para a documentação e apresentação de texto formatado, enquanto a remoção de bugs normalmente envolve a compreensão detalhada do código e o uso de ferramentas de desenvolvimento adequadas à linguagem de programação específica.
 
@@ -25,3 +37,4 @@ docs/
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+
