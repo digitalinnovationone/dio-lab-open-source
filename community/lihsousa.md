@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Cursando **Análise e Desenvolvimento de Sistemas**  
 📚 Focado em desenvolvimento **Web**  
 ⚡ Aprendendo: **JavaScript, React, Git e GitHub**  
 🎯 Objetivo: me tornar um desenvolvedor profissional  
