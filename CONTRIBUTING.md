@@ -93,3 +93,20 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
 - [CONVENTIONAL COMMITS. Summary](https://www.conventionalcommits.org/en/v1.0.0/)
 - [GITHUB. Configurar diretrizes para os contribuidores do repositório](https://docs.github.com/pt/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
+
+## ⚠ Problema conhecido: conflito de paths no Windows
+
+Alguns usuários no Windows podem encontrar o seguinte erro ao fazer `git clone`:
+
+warning: the following paths have collided (e.g. case-sensitive paths
+on a case-insensitive filesystem) and only one from the same
+colliding group is in the working tree:
+'community/EduMagalhaess.md'
+'community/edumagalhaess.md'
+
+Esse erro ocorre porque o Windows não diferencia letras maiúsculas e minúsculas em nomes de arquivos, causando conflito quando dois arquivos possuem o mesmo nome, variando apenas pelo uso de maiúsculas/minúsculas.
+
+### ✔ Como resolver
+- Renomear um dos arquivos conflitantes diretamente no GitHub antes de fazer o clone;  
+- Ou usar WSL2 / Linux, que é case-sensitive;  
+- Ou excluir o repositório local e clonar novamente após as correções no repositório remoto.
