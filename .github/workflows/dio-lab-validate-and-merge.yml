@@ -16,6 +16,7 @@ jobs:
       uses: actions/checkout@v4
       with:
         ref: ${{ github.event.pull_request.head.sha }}
+        allow-unsafe-pr-checkout: true
 
     # Valida o PR de acordo com as recomendações do README.md e CONTRIBUTE.md
     - name: Validate PR
