@@ -1,3 +1,10 @@
+### Olá, eu sou Leandro Antônio Fortunato (lefortunato)
+
+✨ **Engenheiro de sistemas** na FinanceIT.
+
+🏢 **Atuação Profissional**
+- 🚀 Engenheiro de sistemas Sr na empresa FinanceIT
+
 # 🚀 Guia Prático de Git para Iniciantes
 
 Bem-vindo(a) ao guia essencial de **Git**!  Se você tem pouco ou nenhum conhecimento sobre controle de versão, este manual foi feito especialmente para você. Aqui você aprenderá os comandos mais utilizados no dia a dia, explicados de forma simples, com descrições objetivas e exemplos práticos de uso.
