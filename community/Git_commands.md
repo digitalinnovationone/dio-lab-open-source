@@ -90,7 +90,7 @@ git add .
 
 ### `git commit`
 - **Descrição:** Salva as alterações preparadas no histórico do repositório com uma mensagem explicativa.
-- **Caso de Uso:** Registrar oficialmente uma conquista ou mudança relevante no código (ex: criar uma tela de login).
+- **Caso de Uso:** Registrar oficialmente uma conquista ou mudança relevante no código (ex.: criar uma tela de login).
 
 ```bash
 git commit -m "Adiciona tela de login do usuário"
