@@ -1,0 +1,20 @@
+# Matheus Lima 👨🏻‍💻
+
+**`Desenvolvedor de Sistemas 💻`**
+
+Me chamo Matheus Lima e sou entusiasta de tecnologia. Estou sempre buscando aprender algo novo, seja sobre programação, automação ou qualquer ferramenta que possa facilitar o dia a dia. Gosto de criar projetos, testar ideias e encontrar soluções para problemas reais, sempre com a curiosidade de quem acredita que a tecnologia pode abrir portas para infinitas possibilidades.
+
+&nbsp;
+# Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dasilvalima/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheuslima1910)
+
+&nbsp;
+# Linguagens e Tecnologias
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+---
