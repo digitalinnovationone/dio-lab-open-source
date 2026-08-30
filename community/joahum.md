@@ -28,7 +28,9 @@ Born on September 29, 2000 — which means calculating my age is as simple as ch
 
 **Python:** `🟩🟩🟩🟩⬜ 80%`  
 **C#:** `🟩🟩🟩🟩⬜ 80%`  
-**TypeScript:** `🟩🟩⬜⬜⬜ 40%`  
+**TypeScript:** `🟩🟩⬜⬜⬜ 40%`
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 <br>
 
