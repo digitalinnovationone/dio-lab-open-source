@@ -3,7 +3,6 @@
 # João Schwarz
 
 ### 💻 B.S. in Computer Engineering | 🎓 Postgraduate Specialist
-
 #### 🏗️ Software Architecture | 📊 Data Science | 🔒 Cybersecurity
 
 </div>
@@ -52,5 +51,5 @@ Born on September 29, 2000 — which means calculating my age is as simple as ch
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Century+Gothic&duration=4000&pause=1000&color=FFFFFF&background=47068996&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jo%C3%A3o+Schwarz;%F0%9F%AB%A8%F0%9F%99%83%F0%9F%AB%A5%F0%9F%AB%A1%F0%9F%98%8E%F0%9F%98%97" alt="Typing SVG" />
   </a>
-
+  
 </div>
