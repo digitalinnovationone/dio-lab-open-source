@@ -86,6 +86,7 @@ Sou um profissional de Tecnologia da Informação com sólida experiência em **
 - Administração de servidores.
 - Manutenção de equipamentos.
 - Administração de aplicações.
+- controle de usuários e permissões.
 - Suporte de redes.
 
 ---
