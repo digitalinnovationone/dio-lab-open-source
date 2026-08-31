@@ -1,27 +1,77 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Profiles README DIO</span>
-</h1>
+# 👋 Olá, eu sou a Juliana Santos
 
-## Sobre o Projeto
-Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Lembre-se de que Markdown é mais voltado para a documentação e apresentação de texto formatado, enquanto a remoção de bugs normalmente envolve a compreensão detalhada do código e o uso de ferramentas de desenvolvimento adequadas à linguagem de programação específica.
+🎯 Desenvolvedora em formação (Front-end & Back-end) 
 
-[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
+💡 Focada em conquistar minha primeira oportunidade como desenvolvedora 
 
-```
-docs/
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   └── js/
-│       └── scripts.js
-├── favicon.ico
-├── index.html
-└── README.md
-```
+💡 Apaixonada por tecnologia e aprendizado constante
 
-## Tecnologias
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+---
+
+## 🚀 Tecnologias
+
+* 💻 Front-end: HTML, CSS, JavaScript
+* ⚙️ Back-end: PHP
+* 🗄️ Banco de Dados: MySQL
+
+---
+
+## 📂 Projetos em destaque
+
+### 🎓 Sistema de Cadastro de Alunos (PHP)
+
+* Cadastro, edição e exclusão de usuários (CRUD)
+* Integração com banco de dados
+* Aplicação prática de lógica de programação
+
+### 🧠 Exercícios com Arrays (PHP)
+
+* Manipulação de dados
+* Estruturas de repetição
+* Resolução de problemas
+
+### 🗄️ Modelagem e Consultas SQL
+
+* Criação de tabelas e relacionamentos
+* Consultas com INNER JOIN
+* Organização de dados
+
+---
+
+## 🌐 Projetos publicados
+
+* 🔗 https://jnscode-estudos.github.io/html-projetonintendo/
+* 🔗 https://jnscode-tech.github.io/html-projetoanime/index.html
+* 🔗 https://jnscode-tech.github.io/html-cards-exercicio/
+* 🔗 https://github.com/jnscode-tech/projeto-react-aline-juliana.git
+* 🔗 https://ideal-solucoeseletricas.infinityfree.me/
+
+---
+
+## 🌱 Atualmente estudando
+
+* Estruturas de dados
+* Lógica de programação avançada
+* Desenvolvimento web completo
+* React
+  
+---
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade como desenvolvedora júnior, onde eu possa aprender na prática, evoluir tecnicamente e contribuir com a equipe.
+
+---
+
+## 📫 Contato
+
+📍 Santos - SP
+
+* 💼 LinkedIn: https://www.linkedin.com/in/juliananascimentosantos
+* 📧 Email: [jujusantista23@gmail.com](mailto:jujusantista23@gmail.com)
+
+---
+
+## 📌 Mais projetos
+
+👉 https://github.com/jnscode-estudos
