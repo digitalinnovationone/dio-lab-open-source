@@ -28,7 +28,7 @@ Sou um profissional de Tecnologia da Informação com sólida experiência em **
 - Active Directory
 - Virtualização
 - Apache Tomcat
-- Docker (básico)
+- Docker 
 - Shell Script
 - TCP/IP, VPN, Firewall
 
