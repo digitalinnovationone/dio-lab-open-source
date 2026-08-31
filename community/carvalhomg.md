@@ -132,7 +132,7 @@ Conclusão: 2015
   Administração Oracle Database, SQL, Tecnologias de Banco de Dados
 
 - **Infraestrutura**  
-  Linux Servers, Hardware
+  Linux Servers, Windows Server
 
 - **Cloud e Virtualização**  
   AWS Fundamentals, Docker (Introdução)
