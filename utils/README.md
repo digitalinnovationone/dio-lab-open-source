@@ -20,7 +20,7 @@
       <td>01</td>
       <td>Badges</td>
       <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/badges/badges.md">
+        <a href="https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Exemplos-30A3DC?style=for-the-badge">
         </a>
       </td>
