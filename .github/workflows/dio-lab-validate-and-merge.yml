@@ -11,11 +11,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:   
-    # Realiza o checkout seguro do código do PR
-    - name: Checkout code from PR (Safe Checkout)
-      uses: actions/checkout@v4
-      with:
-        ref: ${{ github.event.pull_request.head.sha }}
+    # Valida o PR de acordo com as recomendações do README.md e CONTRIBUTE.md
+    - name: Validate PR
+      run: |
+        AUTHOR_NAME="${{ github.event.pull_request.user.login }}"
+        FILE_PATH="community/$AUTHOR_NAME.md"
+
+        # Obtém a lista de arquivos modificados usando a CLI do GitHub
+        files_changed=$(gh api repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files --paginate | jq -r '.[].filename')
+
+        # Lista os arquivos modificados para fins de depuração
+        echo "Changed files:"
+        echo "$files_changed"
 
     # Valida o PR de acordo com as recomendações do README.md e CONTRIBUTE.md
     - name: Validate PR
