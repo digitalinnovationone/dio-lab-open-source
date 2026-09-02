@@ -1,0 +1,58 @@
+# Bem vindos, meu nome é victor 👋
+&nbsp;&nbsp;&nbsp;
+
+<p align="center"> ❤️ Sou um estudante Autodidata em programação (por enquanto) 01/09/2026
+
+Sou formado como técnico em eletrônica, e ja atuei na área de micro mobilidade. Atualmente não atuo na area porém tenho interrese muito em breve atuar em areas como <strong>Desenvolvedor(a) de Sistemas Embarcados</strong> ou quem sabe  <strong>Red Team Operator
+
+<br><br> Estou determinado em descobrir novas tecnologias</strong> e utilizá-las para criar soluções que tenham impacto positivo na vida das pessoas.
+
+
+```
+Esta é minha "primeira" vez colaborando em um projeto Open Source, através da plataforma DIO inicie meus estudos com o BootCamp "Santander - Linux para Iniciantes" utilizando ate o momento GIT e Github.
+```
+
+ &nbsp;
+
+
+
+## Minhas habilidades profissionais
+
+#### Principais:
+
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+![Arduino](https://img.shields.io/badge/Arduino-green=markdow)
+
+```
+Alem de:
+
+*  Trabalho em equipe;
+*  Adaptabilidade;
+*  Pensamento crítico e analítico.
+```
+
+&nbsp;
+
+
+#### Estudando neste momento:
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+#### Workstation Tools:
+
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+
+&nbsp;
+&nbsp;
+
+## Contacts:
+
+<div> 
+<a href="https://www.instagram.com/victor_albea?igsi=M2U5dnJqeWd3OThk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href = "victoralbea78@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Victor-Albea)
