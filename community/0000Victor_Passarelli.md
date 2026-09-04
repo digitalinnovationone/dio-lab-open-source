@@ -41,5 +41,5 @@ quantitativa e resolução de problemas.
 
 ## 🔗 Conecte-se comigo
 
-- 💼 [LinkedIn]((https://www.linkedin.com/in/victor-destefane-52575951/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/victor-destefane-52575951/)
 - 🐙 [GitHub](https://github.com/VictorPD974)
