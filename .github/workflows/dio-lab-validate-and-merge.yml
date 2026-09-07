@@ -1,10 +1,8 @@
 name: DIO Lab Workflow
 
 on:
-  pull_request_target:
-    types:
-      - opened
-      - synchronize
+  pull_request:
+    types: [opened, synchronize, reopened]
 
 jobs:
   validate-and-comment:
