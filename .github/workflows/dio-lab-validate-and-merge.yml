@@ -15,9 +15,7 @@ jobs:
     - name: Checkout code from PR (Safe Checkout)
       uses: actions/checkout@v4
       with:
-        fetch-depth: 0
-        persist-credentials: false
-        #ref: ${{ github.event.pull_request.head.sha }}
+        ref: ${{ github.event.pull_request.head.sha }}
 
     # Valida o PR de acordo com as recomendações do README.md e CONTRIBUTE.md
     - name: Validate PR
