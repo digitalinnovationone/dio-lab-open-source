@@ -1,27 +1,38 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Profiles README DIO</span>
-</h1>
+[README.md](https://github.com/user-attachments/files/31969528/README.md)
+# Olá, eu sou o Matheus 👋
 
-## Sobre o Projeto
-Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Lembre-se de que Markdown é mais voltado para a documentação e apresentação de texto formatado, enquanto a remoção de bugs normalmente envolve a compreensão detalhada do código e o uso de ferramentas de desenvolvimento adequadas à linguagem de programação específica.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Anhanguera, em São Paulo.
 
-[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
+Estou construindo minha trajetória na área de tecnologia, unindo o que aprendo na faculdade com experiência prática do dia a dia. Curioso por natureza, gosto de entender como as coisas funcionam por trás das telas e estou sempre em busca de novos desafios para evoluir como desenvolvedor.
 
-```
-docs/
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   └── js/
-│       └── scripts.js
-├── favicon.ico
-├── index.html
-└── README.md
-```
+## 💼 Experiência
 
-## Tecnologias
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+Antes de mergulhar de cabeça em tecnologia, passei por experiências profissionais que me ensinaram muito sobre atendimento, organização e trabalho em equipe:
+
+- 📱 **Claro** — atuação voltada a atendimento e processos
+- 🛍️ **Casas Bahia** — vivência no varejo e relacionamento com clientes
+- 🍔 **McDonald's** — rotina dinâmica, trabalho em equipe e agilidade
+
+Essas experiências me deram uma base sólida de disciplina e comunicação, que hoje aplico nos estudos e nos projetos de tecnologia.
+
+## 🚀 O que estou aprendendo
+
+- Lógica de programação e fundamentos de desenvolvimento de sistemas
+- Boas práticas de versionamento de código com Git e GitHub
+- Explorando o ecossistema Open Source e contribuindo com projetos da comunidade
+
+## 🎯 Objetivos
+
+- Consolidar minha base em desenvolvimento de software
+- Contribuir com mais projetos Open Source
+- Construir um portfólio sólido de projetos práticos
+- Ingressar no mercado de tecnologia como desenvolvedor
+
+## 📫 Contato
+
+<!-- Adicione aqui seus links de contato, por exemplo: -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-rodrigues-74b091306/) -->
+<!-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](SEU_LINK) -->
+
+---
+⭐️ Este README foi criado como parte do lab de contribuição Open Source da [Digital Innovation One](https://github.com/digitalinnovationone/dio-lab-open-source).
