@@ -39,5 +39,5 @@
 
 ### 📫 Conecte-se comigo
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/viniciussantiago-png) *(substitua pelo seu link)*
-- 📧 Email: vinicius@email.com *(substitua pelo seu email)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/vinicius-gabriel-a064aa3a9?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
+- 📧 Email: viniciusjgr.2007.vll@gmailcom 
