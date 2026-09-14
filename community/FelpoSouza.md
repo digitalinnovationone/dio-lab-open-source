@@ -1,4 +1,4 @@
-# FelpoSouza (Felipe Souza)
+# Olá! 👋 sou o Felipe Souza! (FelpoSouza)
 
 ### Estudante de graduação de Ciência da Computação na UNESP Rio Claro 💻  
 ### Interesse em Banco de Dados 🏦🎲, Front End 🖼️🛜 e Jogos 🎮🕹️  
