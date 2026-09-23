@@ -10,6 +10,7 @@ Sou estudante de tecnologia e estou começando minha jornada na área de program
 
 Tecnologias que estou estudando
 
+
 Python
 
 HTML e CSS
