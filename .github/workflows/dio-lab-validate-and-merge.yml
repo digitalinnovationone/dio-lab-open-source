@@ -77,7 +77,7 @@ jobs:
         Agradecemos sua contribuição e compreensão 👊😉
         EOT
 
-        gh pr comment ${{ github.event.pull_request.number }} --body-file=message.txt
+        gh pr comment ${{ github.event.pull_request.number }} --repo ${{ github.repository }} --body-file=message.txt
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
