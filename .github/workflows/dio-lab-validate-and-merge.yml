@@ -12,10 +12,6 @@ jobs:
 
     steps:   
     # Realiza o checkout seguro do código do PR
-    - name: Checkout code from PR (Safe Checkout)
-      uses: actions/checkout@v4
-      with:
-        ref: ${{ github.event.pull_request.head.sha }}
 
     # Valida o PR de acordo com as recomendações do README.md e CONTRIBUTE.md
     - name: Validate PR
