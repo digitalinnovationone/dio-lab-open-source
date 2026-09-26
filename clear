@@ -1,0 +1,467 @@
+[33mcommit 50ce96dcb13fdae8ceef4974e35c973b36c08e6f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeat/community/victorkas[m[33m)[m
+Author: Victor Kaynan Azevedo Silva <victorkaynan21@gmail.com>
+Date:   Sat Sep 26 13:55:03 2026 -0300
+
+    feat: add victorkas profile
+
+[33mcommit f5d1ddaef5ba807b2d1fe7b1559c3200063173a3[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/feat/community/victorkas[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: victorkaynan <victorkaynan81@gmail.com>
+Date:   Mon Sep 21 15:43:43 2026 -0300
+
+    att
+
+[33mcommit ecd965b50912527e94ecec0b57544239d48133fd[m[33m ([m[1;31mupstream/main[m[33m, [m[1;31mupstream/HEAD[m[33m)[m
+Merge: 668abf1551 be0c4669b2
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Mon Jul 20 14:15:33 2026 +0000
+
+    Merge pull request #74447 from ArthurB18102014/feat/community/ArthurB18102014
+
+[33mcommit be0c4669b21fa3dbd3397532889a89aaf17039a0[m
+Author: ArthurB18102014 <tutugammer7@gmail.com>
+Date:   Mon Jul 20 11:15:08 2026 -0300
+
+    Rename Arthur Calixt000 to ArthurB18102014.md
+
+[33mcommit 322bb5c783641d7bd83f8397bf338568d14b0827[m
+Author: ArthurB18102014 <tutugammer7@gmail.com>
+Date:   Mon Jul 20 11:05:53 2026 -0300
+
+    Create Arthur Calixt000
+
+[33mcommit 668abf1551ac10404e7bf9a9255720551ecce382[m
+Merge: 2e053f144f 3a4a457157
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jul 18 00:28:28 2026 +0000
+
+    Merge pull request #74446 from alessandrogama/feat/community/alessandrogama
+
+[33mcommit 3a4a457157daced8ed4fdb63d5a6cb25792cad16[m
+Author: Alessandro Gama <alessandroolavogama@gmail.com>
+Date:   Fri Jul 17 21:25:59 2026 -0300
+
+    Create profile for Alessandro Gama alessandrogama.md
+    
+    Added a new profile for Alessandro Gama, detailing his experience, tech stack, featured projects, and contact information.
+
+[33mcommit 2e053f144f0b80b98f8f90520f0d9564e492a337[m
+Merge: 5f77ed6469 e9654e026b
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Jul 17 23:24:35 2026 +0000
+
+    Merge pull request #74445 from alan1994bruno/docs/readme_profile
+
+[33mcommit e9654e026bd82fd42f12521395131dbfb9115e59[m
+Author: unknown <225484710+alan1994bruno@users.noreply.github.com>
+Date:   Fri Jul 17 20:17:31 2026 -0300
+
+    docs: add profile readme
+
+[33mcommit 5f77ed6469dfe76215efa57b16dd59651d7551fe[m
+Merge: 6873d7e7c2 49e9e25335
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Jul 17 17:44:57 2026 +0000
+
+    Merge pull request #74442 from dhbart/dev
+
+[33mcommit 49e9e2533517b36fdb6bb082e1a624135e83441b[m
+Author: Daniel Bartholdy <dhbart88@gmail.com>
+Date:   Fri Jul 17 14:43:41 2026 -0300
+
+    feat creating profile details and update skills section
+    
+    Updated personal information and skills in the profile, including new technologies and certifications. Enhanced details on experience and education.
+
+[33mcommit 6873d7e7c232c68e4cd18676d4859fd9329abe3b[m
+Merge: 00f3d8f15b fc106ba77a
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Jul 17 13:21:52 2026 +0000
+
+    Merge pull request #74441 from GiovaniRamires/feat/community/GiovaniRamires
+
+[33mcommit fc106ba77a6db8e90acbd62246b03b359d70b777[m
+Author: LESTE 2 - MANOEL DE NOBREGA DEPUTADO <e002951w10@professor.educacao.sp.gov.br>
+Date:   Fri Jul 17 10:20:25 2026 -0300
+
+    feat: add GiovaniRamires profile
+
+[33mcommit 00f3d8f15b7a657c228c21ed0af5f5de4575df35[m
+Merge: 028ff15860 3b9acc0613
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 16 22:10:20 2026 +0000
+
+    Merge pull request #74439 from donisetejunior/patch-1
+
+[33mcommit 028ff15860a6401899e0152906e190b56df3d4b7[m
+Merge: 322212fe15 a52279caac
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 16 22:03:53 2026 +0000
+
+    Merge pull request #74438 from Fellps018/patch-1
+
+[33mcommit a52279caacf33ea15b1eff1864a33f5e17152756[m
+Author: Felipe Catarino <felipe.catarino.dev@gmail.com>
+Date:   Thu Jul 16 19:03:16 2026 -0300
+
+    Update personal information in Fellps018.md
+
+[33mcommit 3b9acc0613b954723e14e83c4f1479e7904f2c0a[m
+Author: donisetejunior <47617234+donisetejunior@users.noreply.github.com>
+Date:   Thu Jul 16 18:51:29 2026 -0300
+
+    git commit -m "feat: donisetejunior.md"
+    
+    Adicionando minha introdução pessoal com o auxilio dos vídeos da Elidiana.
+
+[33mcommit 322212fe15cbe0ea6df1089a59c30f36d26cd914[m
+Merge: b1426af615 bf0c7e1e34
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 16 21:45:05 2026 +0000
+
+    Merge pull request #74437 from Fellps018/main
+
+[33mcommit bf0c7e1e34244cacf7b89ecae7a0a0f301289a2c[m
+Author: Felipe Catarino <felipe.catarino.dev@gmail.com>
+Date:   Thu Jul 16 18:44:17 2026 -0300
+
+    feat: add Fellps018 profile
+    
+    Added personal profile information, technologies, and contact details.
+
+[33mcommit b1426af615ca6c9f4064f64db4bae50d0e813b00[m
+Merge: 99d37cd476 752abddb02
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 16 20:02:32 2026 +0000
+
+    Merge pull request #74436 from ArtFSant/feat/community/ArtFSant
+
+[33mcommit 752abddb02fd77a56d2ec2f502ab7f2864a3f2e4[m
+Author: Arthur Farias Santos <afs1509@gmail.com>
+Date:   Thu Jul 16 16:59:30 2026 -0300
+
+    feat: add ArtFSant profile
+
+[33mcommit 99d37cd476adc868c232a77fd8954ceae9da5529[m
+Merge: 946509adb5 6c75499936
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 16 15:37:33 2026 +0000
+
+    Merge pull request #74434 from SamuelMonsalvesMoreira/patch-1
+
+[33mcommit 6c75499936cb217220a33d917b1c0e12ad776314[m
+Author: Samuel Monsalves Moreira <112962120+SamuelMonsalvesMoreira@users.noreply.github.com>
+Date:   Thu Jul 16 12:36:52 2026 -0300
+
+    Create profile for Samuel Monsalves
+    
+    Added a personal profile for Samuel Monsalves including education, skills, experience, and contact information.
+
+[33mcommit 946509adb5f3d51490e58d60cd62c5cc5b4f08d5[m
+Merge: 0327ac7992 906c78d740
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 16 15:03:11 2026 +0000
+
+    Merge pull request #74432 from sebastiao-araujo27/feat/community/sebastiao-araujo27
+
+[33mcommit 906c78d740a6190d1ee4c8755d4628ec4a6ce5ec[m
+Author: Sebastião Araujo <searaujo@MacBook-Air-de-Sebastiao.local>
+Date:   Thu Jul 16 11:53:34 2026 -0300
+
+    feat: add sebastiao-araujo27 profile
+
+[33mcommit 0327ac799285d6836f97b8e646fa6ff2bc78d7fb[m
+Merge: 0c4b839a06 b2a9b85b7b
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 16 05:20:19 2026 +0000
+
+    Merge pull request #74431 from WilliamPire/feat/community/WilliamPire
+
+[33mcommit b2a9b85b7bb208d987128311d7b914194263447d[m
+Author: WilliamPire <37599766+WilliamPire@users.noreply.github.com>
+Date:   Thu Jul 16 02:14:36 2026 -0300
+
+    feat: add WilliamPire profile
+
+[33mcommit 0c4b839a06abef403b3eaf3be5a5f75fe6221646[m
+Merge: 1572be1945 96f8d3f1a8
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 16 02:47:04 2026 +0000
+
+    Merge pull request #74430 from Marcosgvl/main
+
+[33mcommit 96f8d3f1a814e57defc64ae44ba77a50ddaa1927[m
+Author: marcosgvl <marcosgabrielvieira300@gmail.com>
+Date:   Wed Jul 15 23:36:44 2026 -0300
+
+    feat: add Marcosgvl profile
+
+[33mcommit 1572be1945b7200dfaa4eedc7437e514d5249e86[m
+Merge: 91974120e0 56e1357d62
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 16 02:25:10 2026 +0000
+
+    Merge pull request #74429 from RichardRodrigues4663/feat/community/RichardRodrigues4663
+
+[33mcommit 56e1357d6220f6f8ccef090077b743467a06e956[m
+Author: Richard Rodrigues <richardrodriguesdossantosu@gmail.com>
+Date:   Wed Jul 15 23:19:05 2026 -0300
+
+    Change WhatsApp link in RichardRodrigues4663.md
+    
+    Updated WhatsApp link to a new URL.
+
+[33mcommit 91974120e05562aeeb1dae0a9af2cb8fcd0b91d9[m
+Merge: 578a9b8b3d effaacd750
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 16 01:56:30 2026 +0000
+
+    Merge pull request #74428 from RichardRodrigues4663/feat/community/RichardRodrigues4663
+
+[33mcommit effaacd750f7f1d97d52d64e8df64d150abe7a5c[m
+Author: Richard Rodrigues <richardrodriguesdossantosu@gmail.com>
+Date:   Wed Jul 15 22:50:42 2026 -0300
+
+    feat: add RichardRodrigues4663 profile
+
+[33mcommit 578a9b8b3d5809710431f2737be41b25fb657755[m
+Merge: 29222cdf9d 52cb5e2de2
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 16 00:01:05 2026 +0000
+
+    Merge pull request #74426 from angelommorozini/feat/community/angelommorozini
+
+[33mcommit 52cb5e2de2a88c6ed300a8294afd461599958b5c[m
+Author: Angelo Morozini <angelomorozini_809@hotmail.com>
+Date:   Wed Jul 15 20:51:08 2026 -0300
+
+    feat: add angelommorozini profile
+    
+    Added personal introduction and project details for Angelo Morozini.
+
+[33mcommit 29222cdf9d8ceadf954b809405806768d4fbff12[m
+Merge: 3bcb86e304 86b7cf5d20
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Jul 15 22:57:43 2026 +0000
+
+    Merge pull request #74424 from Matt-Oliv13/feat/community/Matt-Oliv13
+
+[33mcommit 86b7cf5d20095ad06dd036f55efb1486f138340a[m
+Author: Matt-Oliv13 <matheusxoliveira13@gmail.com>
+Date:   Wed Jul 15 19:51:03 2026 -0300
+
+    feat: add Matt-Oliv13 profile
+
+[33mcommit 3bcb86e304a9dcf7705de72c290fe762978a2a3d[m
+Merge: b4bbfc70fa f4fef2053d
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Jul 15 18:00:57 2026 +0000
+
+    Merge pull request #74423 from rherysonkayode/feat/community/rherysonkayode
+
+[33mcommit f4fef2053db30508e408f8dd9c323ccafbc65c9a[m
+Author: Rheryson Kayodê <rerymachado0@gmail.com>
+Date:   Wed Jul 15 14:58:29 2026 -0300
+
+    Create profile for Rheryson Kayodê
+    
+    Added personal profile for Rheryson Kayodê, detailing professional experience, skills, and contact information.
+
+[33mcommit b4bbfc70fad33a27a6728782ab7049a808b500bc[m
+Merge: 83a2d5d0c4 1b1d847630
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Jul 15 01:47:54 2026 +0000
+
+    Merge pull request #74421 from gabHausmann/feat/community/gabHausmann
+
+[33mcommit 1b1d8476307913e22f88fb85a2c07ec6d489ed82[m
+Author: Gabriel Henrique Hausmann <gabrielhausmann11@gmail.com>
+Date:   Tue Jul 14 22:41:39 2026 -0300
+
+    feat: add gabHausmann profile
+
+[33mcommit 83a2d5d0c449e905c6c1eefa8954c68ef9326256[m
+Merge: 6ea45aefe8 3a0af9a529
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Jul 15 01:12:10 2026 +0000
+
+    Merge pull request #74420 from RafaelTakemura/feat/community/RafaelTakemura
+
+[33mcommit 3a0af9a52964b0b8c725d0014307ef7cdf6f864a[m
+Author: RafaelTakemura <rafaeldahlem@outlook.com>
+Date:   Tue Jul 14 22:06:09 2026 -0300
+
+    feat: add RafaelTakemura profile
+
+[33mcommit 6ea45aefe84acd1661d8080a652ce2afe696bbec[m
+Merge: 7590bfc5cb a5524adda3
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Jul 14 10:10:52 2026 +0000
+
+    Merge pull request #74418 from Daniel-assis97/Daniel-assis97
+
+[33mcommit a5524adda3ae21327897c18f0d183c67448435db[m
+Author: Daniel Assis <162071521+Daniel-assis97@users.noreply.github.com>
+Date:   Tue Jul 14 06:55:35 2026 -0300
+
+    feat: add Daniel-assis97 profile
+
+[33mcommit 7590bfc5cb13cfe3f73c76b5f5b85be67f81e8a5[m
+Merge: bb85c65fa3 47563ae2cd
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Jul 14 00:40:18 2026 +0000
+
+    Merge pull request #74416 from LinoRodrigo/feat/community/LinoRodrigo
+
+[33mcommit bb85c65fa300d816c9d7c0e796b95d174d76dcb5[m
+Merge: a9fc50a471 1b4abb3fb0
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Mon Jul 13 23:48:56 2026 +0000
+
+    Merge pull request #74415 from Murilofp18/Readme
+
+[33mcommit 1b4abb3fb03ac64bd072e8b902a16e874483155a[m
+Author: Murilo Franco <143565378+Murilofp18@users.noreply.github.com>
+Date:   Mon Jul 13 20:47:26 2026 -0300
+
+    Fix typo in personal description
+
+[33mcommit 4b40ef60b48245b9b2144425dd3a99d9e4621877[m
+Author: Murilo Franco <143565378+Murilofp18@users.noreply.github.com>
+Date:   Mon Jul 13 20:46:45 2026 -0300
+
+    Clean up personal introduction in Murilofp18.md
+    
+    Removed HTML tags and fixed formatting in personal introduction.
+
+[33mcommit e60c0352a3a0abe8b7a1602a6e097075cdcfbb57[m
+Author: Murilo Franco <143565378+Murilofp18@users.noreply.github.com>
+Date:   Mon Jul 13 20:45:36 2026 -0300
+
+    Rename Murilofp18.me to Murilofp18.md
+
+[33mcommit 7f3336a6ae8ad8113a1ef6568ace7545c7790fd8[m
+Author: Murilo Franco <143565378+Murilofp18@users.noreply.github.com>
+Date:   Mon Jul 13 20:44:34 2026 -0300
+
+    Criação do meu Read.me
+    
+    Updated personal introduction and added GitHub statistics, language usage, and contact links.
+
+[33mcommit b97609f746daf0785b690ccf9e3318b26816e2bb[m
+Author: Murilo Franco <143565378+Murilofp18@users.noreply.github.com>
+Date:   Mon Jul 13 20:30:03 2026 -0300
+
+    Add new file Murilofp18.me with greeting
+
+[33mcommit a9fc50a4719cafd08608f4fad6630cf4f0c0a556[m
+Merge: c7a7a6e494 929f6edfb6
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Mon Jul 13 23:25:52 2026 +0000
+
+    Merge pull request #74414 from ErikRN23/feat/community/ErikRN23
+
+[33mcommit 929f6edfb6186e6e401cff26bdd00a9e9688def5[m
+Author: Erik R. Nascimento <contato.erik028@gmail.com>
+Date:   Mon Jul 13 20:23:54 2026 -0300
+
+    Create ErikRN23.md
+
+[33mcommit c7a7a6e4949aa4759367af99f1a1a57d5b1b44e9[m
+Merge: 112e297dc6 709d1736ec
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Mon Jul 13 23:06:54 2026 +0000
+
+    Merge pull request #74413 from joascipriano/feat/community/joascipriano
+
+[33mcommit 47563ae2cdd2ce845bd6f4efe44e2b169e45da8f[m
+Author: Rodrigo Lino <rodilino714@gmail.com>
+Date:   Mon Jul 13 20:05:35 2026 -0300
+
+    feat: add LinoRodrigo profile
+
+[33mcommit 709d1736ec1d1f9e9e21f312efb8667ea0f44227[m
+Author: joas <joasghis@gmail.com>
+Date:   Mon Jul 13 20:00:20 2026 -0300
+
+    feat: add joascipriano profile
+
+[33mcommit 112e297dc6920a2c4520d8101b25398651d41ce6[m
+Merge: a574c4484f c65bb145b7
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Mon Jul 13 19:29:27 2026 +0000
+
+    Merge pull request #74412 from ramsdellpaulo/main
+
+[33mcommit c65bb145b7abe3a8f7b57f5c57d34a1a37522c00[m
+Author: ramsdellpaulo <ramsdellpaulo@gmail.com>
+Date:   Mon Jul 13 15:26:14 2026 -0400
+
+    Create ramsdellpaulo.md
+
+[33mcommit a574c4484f8a629bcc99d628f71907ff1eaafbc7[m
+Merge: 9e7498ab40 ba5418c444
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Mon Jul 13 14:41:52 2026 +0000
+
+    Merge pull request #74411 from joaolucas2007/main
+
+[33mcommit ba5418c444deb27ee1d08d19d3c5d75fabc5c2b0[m
+Author: João Lucas <joao.git2000p@gmail.com>
+Date:   Mon Jul 13 11:41:17 2026 -0300
+
+    arrumando
+
+[33mcommit 7946131b6c364e7ff8f8567070fb8cb2ed07eab3[m
+Author: João Lucas <joao.git2000p@gmail.com>
+Date:   Mon Jul 13 11:32:33 2026 -0300
+
+    adicionando meu arquivo markdown
+
+[33mcommit 9e7498ab406abaf2b79f5fbc8cd8962d9dc4f68b[m
+Merge: a54368d09e 58a8dbbb29
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Mon Jul 13 14:09:55 2026 +0000
+
+    Merge pull request #74410 from gabrielcoder-dev/feat/community/gabrielcardoso
+
+[33mcommit 58a8dbbb29d7d6453417297c2ad07658e78be879[m
+Author: Gabriel <gabrielcardosog990@gmail.com>
+Date:   Mon Jul 13 10:08:03 2026 -0400
+
+    feat: add gabrielcoder-dev profile
+
+[33mcommit a54368d09e87c6148c96d125738f85f01583d1cb[m
+Merge: c7cc6a3e44 814f0433e8
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Mon Jul 13 05:59:09 2026 +0000
+
+    Merge pull request #74409 from GustavoAmaral08/feat/community/GustavoAmaral08
+
+[33mcommit 814f0433e8f369f03038bbec55d54c6a45cfd24e[m
+Author: Luís Gustavo Amaral Lima <amaral193tt@gmail.com>
+Date:   Mon Jul 13 02:57:23 2026 -0300
+
+    Rename GustavoAmaral.md to GustavoAmaral08.md
+
+[33mcommit 15828482961213ebac688c1bf60c81234583cc74[m
+Author: Luís Gustavo Amaral Lima <amaral193tt@gmail.com>
+Date:   Mon Jul 13 02:49:21 2026 -0300
+
+    Create GustavoAmaral.md
+    
+    Added personal introduction and technology stack.
+
+[33mcommit c7cc6a3e447f78482974df100a31ffc6527a916f[m
+Merge: 66a8c10013 6b0ae46718
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Jul 12 04:43:12 2026 +0000
+
+    Merge pull request #74406 from eniojones/feat/community/eniojones
+
+[33mcommit 6b0ae4671804943106861e932b92a2a2036437b9[m
+Author: Ênio Jones Porto <eniojones07@gmail.com>
+Date:   Sun Jul 12 01:39:00 2026 -0300
+
+    Create profile for Ênio Jones Porto
+    
+    Added personal profile for Ênio Jones Porto, detailing skills, tools, and contact information.
