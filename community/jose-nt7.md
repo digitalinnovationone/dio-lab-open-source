@@ -1,3 +1,4 @@
+
 # Olá, seja bem-vindo ao meu perfil! 👋
 
 ## 👨‍💻 Sobre mim
@@ -39,3 +40,4 @@ Busco aprimorar continuamente meus conhecimentos, desenvolver soluções eficien
 ---
 
 ⭐ Sempre aberto a novos aprendizados, desafios e oportunidades de colaboração em projetos de tecnologia.
+

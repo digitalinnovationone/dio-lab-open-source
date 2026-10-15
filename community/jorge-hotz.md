@@ -1,0 +1,1 @@
+Sou Jorge Hotz estou fazendo faculdade de análise e desenvolvimento de sistemas. Confesso que sou iniciante, mas sempre fui muito apaixonado por tecnologia, e adoraria futuramente trabalhar em alguma área sobre inteligência artificial, pois é uma área que que chama muita minha atenção e me motiva a querer aprender, amo desafios e tenho facilidade de aprender aquilo que amo.
