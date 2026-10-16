@@ -16,7 +16,7 @@
 ```bash
 anthony@localhost:~$ whoami
 
-NAME      Anthony
+NAME      Anthony Hossomi
 LOCATION  Rio Grande do Sul, Brasil
 CLASS     Estudante de Engenharia de Software
 INTERESTS Python | Backend | Cybersecurity | Open Source
