@@ -1,26 +1,35 @@
-<h1 align="center">Paulo Victor Lorençato</h1>
 
-<br><br>
-<h2 align="center">Trajetória</h2>
+### Olá, meu nome é Paulo Victor Lorencato 👋
 
-<h3 align="left">Desenvolvedor back-end C#, estudante de Análise e Desenvolvimento de Sistemas.
-<br><br>Atualmente no segundo período da faculdade, trabalhando na área a menos de um ano. 
-<br><br>Busco a cada dia aprender novas habilidades, com o objetivo de melhorar a vida das pessoas através das minhas soluções de código, e também a minha através dos frutos do meu trabalho.
-<br><br>Estou disponível para contribuir em projetos com outros estudantes, freelance e oportunidades de trabalho.</h3>
+Atualmente trabalhando como desenvolvedor backend C#/.NET na empresa Mobfacil;
 
-<br><br>
+Meus conhecimentos englobam TDD, DDD, Clean Architecture, SOLID e Microservices;
+
+## Stack
+
+### Linguagens e frameworks
+
+![C#](https://img.shields.io/badge/C%23-444dd4?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+### Bancos de dados
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tecnologias auxiliares e ferramentas
+
+![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git&logoColor=F1502F)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-FFFFFF?style=for-the-badge&logo=Jira&logoColor=003366)
+_______
 <div align="center">
-    <h2>Tecnologias</h2>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,cs,dotnet,postgres,mongodb,git,docker" height="40" alt="html,css,javascript,cs,dotnet,postgres,mongodb,git,github,docker"/>
-</div>
 
-<br><br>
-<div align="center">
-    <h2>Contato</h2>
-    <a href="https://github.com/PauloLorencato">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="Meu Github"/>
-    </a>
-    <a href="https://www.linkedin.com/in/paulo-victor-loren%C3%A7ato-92672a262/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="Meu Linkedin"/>
-    </a>
+### Contato
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/paulo-victor-loren%C3%A7ato-92672a262/)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-FF?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5532988951703)
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github)](https://github.com/PauloLorencato)
 </div>

@@ -75,7 +75,7 @@
 
 <br><br>
 ![some certificates acquired](https://img.shields.io/badge/Some&ensp;certificates&ensp;acquired-FF6600?style=for-the-badge&logo=Some&ensp;certificates&ensp;acquired&logoColor=white)
-* <a href="https://www.linkedin.com/in/solmorcillo/details/certifications/" target="_blank"><img src= "logo_linkedin.jpg" width="25" height="15"></a>
+* <a href="https://www.linkedin.com/in/solmorcillo/details/certifications/" target="_blank"><img src= "https://solmorcillo.com.br/imgs_public/logo_linkedin.jpg" width="25" height="15"></a>
 * <a href="https://www.maismulheres.tech/certificates/7pr4yefmgl/" target="_blank">Security Girls Brasil 2025</a>
 * Java JRE and JDK: Compile and Run Your Program
 * JavaScript and HTML: Programming logic with drawings and animations, and game development
