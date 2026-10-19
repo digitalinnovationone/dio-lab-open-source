@@ -1,1 +1,0 @@
-Carlos esteve aqui.

@@ -1,1 +1,0 @@
-Olá! Me chamo Cauan Albuquerque, tenho 18 anos e atualmente estou cursando faculdade de Análise e desenvolvimento de sistemas!
