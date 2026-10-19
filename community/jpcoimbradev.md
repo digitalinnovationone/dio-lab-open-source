@@ -1,1 +1,0 @@
-João Pedro L. Coimbra

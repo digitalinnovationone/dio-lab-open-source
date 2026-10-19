@@ -1,1 +1,0 @@
-Este é a entrega do projeto DioLab.

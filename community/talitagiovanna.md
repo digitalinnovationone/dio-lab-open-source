@@ -1,1 +1,0 @@
-![talitagiovanna's github stats](https://github-readme-stats.vercel.app/api?username=talitagiovanna&theme=buefy&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talitagiovanna&layout=compact&theme=buefy&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) 

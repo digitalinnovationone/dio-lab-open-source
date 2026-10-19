@@ -1,2 +1,0 @@
-# Edmar Zungo
-Desenvolvedor JAVA
