@@ -1,15 +1,10 @@
 # 👋 Olá, meu nome é William Silva
 
-Fala pessoal!! 👋
+Fala pessoal!
 
 Sou Engenheiro de Software Sênior com 15+ anos na estrada criando backends parrudos. Se é um sistema crítico de saúde, um e-commerce parrudo ou uma plataforma de pagamentos em alto volume, é bem provável que eu já tenha encarado algo parecido.
 
 Especialidade: PHP 8+ / Laravel + AWS + Microsserviços.
-
-No que me garanto:
-- Stack base: PHP, Laravel, Node.js, TS, Java/Kotlin, AWS, Docker, CI/CD e MySQL/Postgres.
-- Produtividade: Uso IA no workflow pra focar no que realmente agrega valor.
-- Estilo de trabalho: Sem "código pelo código". Gosto de autonomia, mentoria, tomadas de decisão claras e time rodando leve.
 
 ---
 
