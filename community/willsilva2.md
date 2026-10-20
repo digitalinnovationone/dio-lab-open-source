@@ -1,6 +1,6 @@
 # 👋 Olá, meu nome é William Silva
 
-Fala pessoal! 👋
+Fala pessoal!! 👋
 
 Sou Engenheiro de Software Sênior com 15+ anos na estrada criando backends parrudos. Se é um sistema crítico de saúde, um e-commerce parrudo ou uma plataforma de pagamentos em alto volume, é bem provável que eu já tenha encarado algo parecido.
 
