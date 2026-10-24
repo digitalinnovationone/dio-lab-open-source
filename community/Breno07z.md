@@ -16,6 +16,10 @@ Estou buscando evoluir na minha carreira, desenvolver novas habilidades e encont
 
 Continuar aprendendo, crescer profissionalmente e contribuir com projetos e equipes enquanto exploro novas oportunidades.
 
+## Minha atividade em 3D
+
+![Gráfico 3D animado das minhas contribuições no GitHub](https://raw.githubusercontent.com/Breno07z/Breno07z/main/profile-3d-contrib/profile-green-animate.svg)
+
 ## Onde me encontrar
 
 [GitHub](https://github.com/Breno07z)
