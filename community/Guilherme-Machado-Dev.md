@@ -1,42 +1,44 @@
-# 👋 Olá, eu sou o Guilherme  
+# 👋 Olá, eu sou o Guilherme
 
-## 🌐 Conecte-se comigo  
-- 📧 Email: [guilhermebomfimmachadog@gmail.com](mailto:guilhermebomfimmachadog@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/guilherme-barbosa1712](https://www.linkedin.com/in/guilherme-barbosa1712)  
-- 🖥️ GitHub: [github.com/Guilherme-Machado-Dev](https://github.com/Guilherme-Machado-Dev)  
-- 📸 Instagram: [instagram.com/guilhermebarbosa7094](https://www.instagram.com/guilhermebarbosa7094/)  
+## 🌐 Conecte-se comigo
+
+- 📧 E-mail: [dev.guilhermebarbosa@gmail.com](mailto:dev.guilhermebarbosa@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/guilherme-barbosa-0569113a2](https://www.linkedin.com/in/guilherme-barbosa-0569113a2)
+- 🖥️ GitHub: [github.com/Guilherme-Machado-Dev](https://github.com/Guilherme-Machado-Dev)
 
 ---
 
-## 🚀 Habilidades  
+## 🚀 Habilidades
 
 | Área | Tecnologias |
-|------|-------------|
+|---|---|
 | 💻 Programação | Python, JavaScript |
-| 🌐 Desenvolvimento Web | HTML, CSS |
+| 🌐 Desenvolvimento web | HTML, CSS |
 | 🛠️ Ferramentas | Git, VS Code |
-| 🤖 Interesse | Inteligência Artificial, Automação |
+| 🤖 Interesses | Inteligência Artificial, automação |
 
 ---
 
-## 📊 Git Status  
-- 🔄 Branch atual: `main`  
-- ✅ Último commit: *"Atualização do README"*  
-- 📦 Repositórios ativos:  
-  - [Portfólio](https://github.com/Guilherme-Machado-Dev/portfolio)  
-  - [API de Estudos](https://github.com/Guilherme-Machado-Dev/api-estudos)  
-  - [README Personalizado](https://github.com/Guilherme-Machado-Dev/readme-personalizado)  
+## 📊 Status do Git
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Guilherme-Machado-Dev/portfolio)  
-![GitHub repo size](https://img.shields.io/github/repo-size/Guilherme-Machado-Dev/portfolio)  
+- 🔄 Branch atual: `main`
+- ✅ Último commit: *“Atualização do README”*
+- 📦 Repositórios:
+  - [Portfólio](https://github.com/Guilherme-Machado-Dev/portfolio)
+  - [API de Estudos](https://github.com/Guilherme-Machado-Dev/api-estudos)
+  - [README Personalizado](https://github.com/Guilherme-Machado-Dev/readme-personalizado)
+
+![Último commit do repositório Portfolio](https://img.shields.io/github/last-commit/Guilherme-Machado-Dev/portfolio)
+![Tamanho do repositório Portfolio](https://img.shields.io/github/repo-size/Guilherme-Machado-Dev/portfolio)
 
 ---
 
-## ⚙️ Minhas Configurações  
-- 🌙 Tema: Dark mode  
-- ⌨️ Editor: VS Code com extensões  
-- 🖥️ Sistema: Windows 11  
-- 📂 Preferências:  
-  - Commits semânticos  
-  - Uso de `pull request` para revisão  
-  - Organização em pastas por módulos  
+## ⚙️ Minhas configurações
+
+- 🌙 Tema: modo escuro
+- ⌨️ Editor: VS Code com extensões
+- 🖥️ Sistema: Windows 11
+- 📂 Preferências:
+  - Commits semânticos
+  - Uso de `pull request` para revisão
+  - Organização de arquivos em pastas por módulos
