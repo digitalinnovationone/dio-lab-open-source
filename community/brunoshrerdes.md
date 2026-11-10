@@ -4,6 +4,7 @@ Trabalho na área de tecnologia desde 2021, atualmente sou técnico de informát
 
 Futuro back-end 😎
 
+
 ##
 
 ### Hard Skill
