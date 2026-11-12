@@ -7,6 +7,11 @@ Olá! Sou de **Tietê/SP** e estou iniciando minha jornada na área de **Anális
 - 📊 Aprendendo **Análise de Dados** e lógica de programação
 - 🤖 Explorando conceitos de **Inteligência Artificial** e **Python**
 
+### 📊 Estatísticas no GitHub
+![Estatísticas do GitHub](https://vercel.app)
+
+![Linguagens Mais Usadas](https://vercel.app)
+
 ### 🛠️ Tecnologias e Ferramentas
 ![Python](https://shields.io)
 ![Git](https://shields.io)
