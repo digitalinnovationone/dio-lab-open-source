@@ -9,6 +9,9 @@ Página desenvolvida para fins didáticos para o curso **Contribuindo em um Proj
 
 [![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
 
+Por que fazer essa etapa?
+É muito importa para que reconheça o modo como fazer projetos em grupos. Aqui, você aprenderá uma noção de como realizar atualizações onde há colaboração entre várias pessoas.
+
 ```
 docs/
 ├── assets/
