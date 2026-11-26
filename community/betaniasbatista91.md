@@ -26,7 +26,7 @@
 
 &#x20; <!-- Botão clicável para o LinkedIn -->
 
-&#x20; <a href="https://www.linkedin.com/in/betaniasb/" target="\_blank">
+&#x20; <a href="[https://www.linkedin.com/in/betaniasb/](https://www.linkedin.com/in/betaniasb/)" target="\_blank">
 
 &#x20;   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white" alt="LinkedIn Betania" />
 
@@ -36,71 +36,65 @@
 
 
 
-\---
+---
 
 
 
-\## 📝 Apresentação
+## 📝 Apresentação
 
 
 
-Sou \*\*Betania Batista\*\*, tenho 35 anos e atualmente sou estudante de \*\*Ciência de Dados\*\* pela \*\*UNIVESP\*\*.
+Sou **Betania Batista**, tenho 35 anos e atualmente sou estudante de *Ciência de Dados* pela *UNIVESP*.
 
 
 
-\* 🚀 Meu primeiro contato com códigos tem sido através dos cursos da \*\*\[DIO](https://www.dio.me/)\*\*, que têm me ajudado muito na minha transição de carreira;
+* 🚀 Meu primeiro contato com códigos tem sido através dos cursos da [DIO](https://www.dio.me/), que têm me ajudado muito na minha transição de carreira;
 
-\* 📊 Estou aprendendo a desenvolver minhas habilidades, principalmente na área de dados, para iniciar um estágio;
+* 📊 Estou aprendendo a desenvolver minhas habilidades, principalmente na área de dados, para iniciar um estágio;
 
-\* 💻 Os cursos possibilitam uma aprendizagem prática — literalmente colocar a \*"mão na massa"\*.
-
-
-
-Inclusive, já realizei o primeiro projeto de \*\*Power BI\*\* (publicado aqui no GitHub) e, na segunda etapa da análise, utilizei o \*\*Git Bash\*\* e \*\*SQL\*\* com o apoio do Gemini. À medida que vou aprendendo e praticando, fixo melhor o conteúdo — tenho gostado bastante desse método, apesar de ser desafiador.
+* 💻 Os cursos possibilitam uma aprendizagem prática — literalmente colocar a *"mão na massa"*.
 
 
 
-> \*Exige memória e nem sempre a minha quer colaborar, mas tenho me esforçado! Estou pensando em iniciar um novo projeto em paralelo ao curso para aprimorar ainda mais minhas habilidades.\*
+Inclusive, já realizei o primeiro projeto de *Power BI* (publicado aqui no GitHub) e, na segunda etapa da análise, utilizei o *Git Bash* e *SQL* com o apoio do Gemini. À medida que vou aprendendo e praticando, fixo melhor o conteúdo — tenho gostado bastante desse método, apesar de ser desafiador.
 
 
 
-🔎 Não deixe de visitar o \[\*\*Projeto Análise Censo 2022\*\*](https://github.com/betaniasbatista91/analisecenso2022) e deixar seu feedback — é muito importante para a minha evolução profissional!
+> *Exige memória e nem sempre a minha quer colaborar, mas tenho me esforçado! Estou pensando em iniciar um novo projeto em paralelo ao curso para aprimorar ainda mais minhas habilidades.*
 
 
 
-\---
+🔎 Não deixe de visitar o [*Projeto Análise Censo 2022*](https://github.com/betaniasbatista91/analisecenso2022) e deixar seu feedback — é muito importante para a minha evolução profissional!
 
 
 
-\## 🛠️ Competências
+---
+
+
+
+## 🛠️ Competências
 
 
 
 | Hard Skills (Competências técnicas) | Soft Skills (Competências comportamentais) |
-
 | :--- | :--- |
-
 | Excel e Google Sheets | Organização |
-
 | Análise de Dados e Indicadores | Pensamento analítico |
-
 | ERP e Relatórios | Comunicação interpessoal |
-
-| SQL \& Git Bash \*(em aprendizado)\* | Resiliência e aprendizado contínuo |
-
+| SQL & Git Bash *(em aprendizado)* | Resiliência e aprendizado contínuo |
 
 
-\---
+---
 
 
 
-\### 💡 Destaques atuais
+### 💡 Destaques atuais
 
 
 
 ```diff
 
-\+ Em busca da primeira oportunidade de estágio em Dados
++ Em busca da primeira oportunidade de estágio em Dados
 
-\+ Estudando: SQL, Power BI, Python e Análise Exploratória
++ Estudando: SQL, Power BI, Python e Análise Exploratória
 
